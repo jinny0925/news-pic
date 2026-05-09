@@ -1,0 +1,66 @@
+{
+  "date": "sample",
+  "generated_at": "2026-05-09T07:00:00+09:00",
+  "cards": [
+    {
+      "id": "sample-1",
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "샘플 뉴스 1 🕊️",
+      "subtitle": "아직 진짜 데이터가 생성되지 않았어요",
+      "viz_data": {
+        "stats": [
+          {"value": "준비중", "label": "상태"},
+          {"value": "곧", "label": "업데이트"},
+          {"value": "내일?", "label": "예상"}
+        ],
+        "main_number": "TBD",
+        "main_text": "GitHub Actions를 한 번 실행해주세요"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20news%20cream%20background%20no%20text?width=800&height=500&seed=12345&nologo=true",
+      "detail": {
+        "summary": "이 화면은 샘플 데이터예요. GitHub Actions 탭에서 'Daily News Generation' 워크플로우를 한 번 실행하면 진짜 데이터가 들어와요.",
+        "points": [
+          "Actions 탭으로 이동",
+          "Daily News Generation 클릭",
+          "Run workflow 버튼 클릭",
+          "3~5분 기다리기"
+        ],
+        "quote": "처음 한 번만 수동 실행하면, 그 다음부턴 매일 자동이에요!",
+        "context": "이 샘플 파일은 latest.json 으로 저장돼 있어요. 실제 실행이 끝나면 자동으로 덮어써집니다.",
+        "source_url": "#"
+      }
+    },
+    {
+      "id": "sample-2",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "flow",
+      "title": "어떻게 작동하나요? ⚙️",
+      "subtitle": "매일 자동으로 뉴스가 업데이트돼요",
+      "viz_data": {
+        "stats": [
+          {"value": "5개", "label": "뉴스/일"},
+          {"value": "07:00", "label": "업데이트"},
+          {"value": "0원", "label": "비용"}
+        ],
+        "main_number": "🤖",
+        "main_text": "AI가 뉴스를 골라 그림으로 그려줘요"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20robot%20reading%20newspaper%20pastel%20colors%20cream%20background%20no%20text?width=800&height=500&seed=67890&nologo=true",
+      "detail": {
+        "summary": "News.pic은 매일 아침 7시에 자동으로 작동합니다. 네이버 뉴스 API → Gemini AI → Pollinations 이미지 생성 순서로 진행돼요.",
+        "points": [
+          "네이버에서 카테고리별 뉴스 수집",
+          "Gemini AI가 좋은 뉴스 5개 선별",
+          "각 뉴스의 인포그래픽 데이터 생성",
+          "Pollinations로 그림 생성"
+        ],
+        "quote": "전부 무료 API만 사용해서 비용 0원으로 운영됩니다.",
+        "context": "GitHub Actions가 매일 정해진 시간에 파이썬 스크립트를 실행합니다. 결과는 data/ 폴더에 JSON으로 저장되고, 이 웹사이트가 그 파일을 읽어서 보여줘요.",
+        "source_url": "#"
+      }
+    }
+  ]
+}

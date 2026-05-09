@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>News.pic — 오늘의 뉴스, 한 장으로</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;0,9..144,900;1,9..144,700&family=Gaegu:wght@400;700&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fef6ec;
+    --bg-soft: #fbeedb;
+    --paper: #ffffff;
+    --ink: #2a2420;
+    --ink-soft: #6b6058;
+    --accent: #ff6b4a;
+    --accent-soft: #ffd4c7;
+    --yellow: #ffc94d;
+    --yellow-soft: #fff0cc;
+    --blue: #5b9fd6;
+    --blue-soft: #d6ebf7;
+    --green: #7cc096;
+    --green-soft: #d8efe1;
+    --pink: #ff9bb5;
+    --pink-soft: #ffe0e8;
+    --purple: #a89cd9;
+    --purple-soft: #e6e0f5;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+  html, body { overflow-x: hidden; }
+
+  body {
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    min-height: 100vh;
+    background-image:
+      radial-gradient(circle at 12% 18%, var(--pink-soft) 0%, transparent 18%),
+      radial-gradient(circle at 88% 62%, var(--blue-soft) 0%, transparent 22%),
+      radial-gradient(circle at 50% 92%, var(--yellow-soft) 0%, transparent 18%);
+    background-attachment: fixed;
+  }
+
+  .display { font-family: 'Fraunces', serif; }
+  .hand { font-family: 'Gaegu', cursive; }
+
+  .app {
+    max-width: 480px;
+    margin: 0 auto;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 80px;
+  }
+
+  /* HEADER */
+  header {
+    padding: 20px 20px 14px;
+    position: sticky;
+    top: 0;
+    background: rgba(254, 246, 236, 0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    z-index: 100;
+    border-bottom: 1.5px solid var(--ink);
+  }
+
+  .header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo-wrap { display: flex; align-items: center; gap: 8px; }
+
+  .logo-icon {
+    width: 38px;
+    height: 38px;
+    background: var(--accent);
+    border: 2px solid var(--ink);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    transform: rotate(-6deg);
+    box-shadow: 2px 2px 0 var(--ink);
+  }
+
+  .logo {
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: 26px;
+    letter-spacing: -0.03em;
+    font-style: italic;
+  }
+
+  .logo-dot { color: var(--accent); }
+
+  /* DATE NAV */
+  .date-nav {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--paper);
+    border: 1.5px solid var(--ink);
+    border-radius: 20px;
+    padding: 4px;
+    box-shadow: 2px 2px 0 var(--ink);
+  }
+
+  .date-btn {
+    width: 28px;
+    height: 28px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--ink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s;
+  }
+
+  .date-btn:active { background: var(--bg-soft); }
+  .date-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+  .date-display {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 0 4px;
+    cursor: pointer;
+    min-width: 80px;
+    text-align: center;
+  }
+
+  .header-meta {
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: var(--ink-soft);
+  }
+
+  .header-meta .hand { font-size: 16px; color: var(--accent); }
+
+  /* TABS */
+  .tabs {
+    display: flex;
+    gap: 8px;
+    padding: 14px 20px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+
+  .tab {
+    flex-shrink: 0;
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    border: 1.5px solid var(--ink);
+    background: var(--paper);
+    cursor: pointer;
+    transition: transform 0.15s;
+    white-space: nowrap;
+  }
+
+  .tab:active { transform: scale(0.95); }
+  .tab.active { background: var(--ink); color: var(--bg); }
+
+  /* FEED */
+  .feed-intro { padding: 8px 20px 20px; }
+
+  .feed-title {
+    font-family: 'Fraunces', serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  .feed-title .accent { color: var(--accent); }
+  .feed-sub { margin-top: 4px; font-size: 13px; color: var(--ink-soft); }
+  .feed-sub .hand { font-size: 16px; color: var(--ink); }
+
+  .feed {
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  /* CARD */
+  .card {
+    background: var(--paper);
+    border: 1.5px solid var(--ink);
+    border-radius: 20px;
+    padding: 22px 20px;
+    box-shadow: 4px 4px 0 var(--ink);
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+    overflow: hidden;
+    animation: pop 0.5s ease-out backwards;
+  }
+
+  .card:active {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 var(--ink);
+  }
+
+  .card::before {
+    content: "";
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    width: 28px;
+    height: 28px;
+    border: 1.5px solid var(--ink);
+    border-radius: 50%;
+    background: var(--bg);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%232a2420' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='9 18 15 12 9 6'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .card-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 5px 10px;
+    border-radius: 12px;
+    margin-bottom: 14px;
+    border: 1.5px solid var(--ink);
+  }
+
+  .tag-world { background: var(--accent-soft); }
+  .tag-economy { background: var(--yellow-soft); }
+  .tag-tech { background: var(--blue-soft); }
+  .tag-society { background: var(--green-soft); }
+  .tag-life { background: var(--pink-soft); }
+
+  .card-title {
+    font-family: 'Fraunces', serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.25;
+    padding-right: 32px;
+    margin-bottom: 4px;
+  }
+
+  .card-subtitle {
+    font-size: 13px;
+    color: var(--ink-soft);
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    margin-bottom: 18px;
+  }
+
+  /* VIZ AREAS */
+  .viz-area {
+    border: 1.5px solid var(--ink);
+    border-radius: 16px;
+    padding: 18px 16px;
+    margin-top: 8px;
+  }
+
+  .viz-area.tag-world-bg { background: var(--accent-soft); }
+  .viz-area.tag-economy-bg { background: var(--yellow-soft); }
+  .viz-area.tag-tech-bg { background: var(--blue-soft); }
+  .viz-area.tag-society-bg { background: var(--green-soft); }
+  .viz-area.tag-life-bg { background: var(--pink-soft); }
+
+  /* Stats grid (공통) */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-top: 14px;
+  }
+
+  .stat-pill {
+    background: var(--paper);
+    border: 1.5px solid var(--ink);
+    border-radius: 12px;
+    padding: 10px 6px;
+    text-align: center;
+  }
+
+  .stat-pill-value {
+    font-family: 'Fraunces', serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  .stat-pill-label {
+    font-size: 10px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+
+  .stat-pill-value.world { color: var(--accent); }
+  .stat-pill-value.economy { color: #c89545; }
+  .stat-pill-value.tech { color: var(--blue); }
+  .stat-pill-value.society { color: var(--green); }
+  .stat-pill-value.life { color: var(--pink); }
+
+  /* Big number */
+  .big-stat {
+    background: var(--paper);
+    border: 1.5px solid var(--ink);
+    border-radius: 12px;
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .big-stat-num {
+    font-family: 'Fraunces', serif;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .big-stat-text {
+    font-size: 12px;
+    color: var(--ink-soft);
+    line-height: 1.4;
+    flex: 1;
+  }
+
+  /* Empty / Loading / Error */
+  .state-msg {
+    padding: 60px 20px;
+    text-align: center;
+    color: var(--ink-soft);
+  }
+
+  .state-msg .icon { font-size: 48px; margin-bottom: 16px; }
+  .state-msg .title { font-family: 'Fraunces', serif; font-size: 20px; color: var(--ink); margin-bottom: 8px; }
+  .state-msg .desc { font-size: 14px; line-height: 1.6; }
+
+  /* Filtered card */
+  .card-filtered {
+    background: var(--bg-soft);
+    border: 1.5px dashed var(--ink-soft);
+    border-radius: 16px;
+    padding: 14px 18px;
+    font-size: 13px;
+    color: var(--ink-soft);
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.5;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+
+  .card-filtered:active { background: #f4e6d0; }
+  .card-filtered .icon { font-size: 18px; flex-shrink: 0; }
+
+  /* FOOTER */
+  footer {
+    margin-top: 32px;
+    padding: 24px 20px 40px;
+    text-align: center;
+  }
+
+  .quote {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 16px;
+    color: var(--ink-soft);
+    line-height: 1.4;
+  }
+
+  .footer-line {
+    margin-top: 10px;
+    font-size: 11px;
+    color: var(--ink-soft);
+  }
+
+  /* MODAL */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(42, 36, 32, 0.5);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    z-index: 200;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+  }
+
+  .modal-overlay.open { opacity: 1; pointer-events: auto; }
+
+  .modal {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%) translateY(100%);
+    width: 100%;
+    max-width: 480px;
+    max-height: 90vh;
+    background: var(--paper);
+    border-top-left-radius: 28px;
+    border-top-right-radius: 28px;
+    border: 1.5px solid var(--ink);
+    border-bottom: none;
+    z-index: 201;
+    transition: transform 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .modal.open { transform: translateX(-50%) translateY(0); }
+
+  .modal-handle {
+    width: 40px;
+    height: 5px;
+    background: var(--ink-soft);
+    border-radius: 5px;
+    margin: 12px auto 8px;
+    opacity: 0.4;
+  }
+
+  .modal-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1.5px solid var(--ink);
+    background: var(--paper);
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 0 var(--ink);
+    z-index: 2;
+  }
+
+  .modal-body { padding: 24px 22px 32px; }
+
+  .modal-tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 5px 10px;
+    border: 1.5px solid var(--ink);
+    border-radius: 12px;
+    margin-bottom: 14px;
+  }
+
+  .modal-title {
+    font-family: 'Fraunces', serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+
+  .modal-subtitle {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    color: var(--ink-soft);
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  .modal-image {
+    width: 100%;
+    border: 1.5px solid var(--ink);
+    border-radius: 16px;
+    margin-bottom: 20px;
+    background: var(--bg-soft);
+    aspect-ratio: 8/5;
+    object-fit: cover;
+    display: block;
+  }
+
+  .modal-image-loading {
+    width: 100%;
+    aspect-ratio: 8/5;
+    border: 1.5px solid var(--ink);
+    border-radius: 16px;
+    margin-bottom: 20px;
+    background: var(--bg-soft);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+    color: var(--ink-soft);
+    font-size: 13px;
+  }
+
+  .modal-section { margin-bottom: 20px; }
+
+  .modal-section-label {
+    font-family: 'Gaegu', cursive;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+
+  .modal-section p { font-size: 14px; line-height: 1.7; }
+
+  .modal-section ul { padding-left: 20px; font-size: 14px; line-height: 1.8; }
+  .modal-section ul li { margin-bottom: 4px; }
+
+  .modal-quote {
+    background: var(--yellow-soft);
+    border-left: 3px solid var(--accent);
+    border-radius: 4px;
+    padding: 12px 14px;
+    font-style: italic;
+    font-family: 'Fraunces', serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .source-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--bg);
+    border: 1.5px solid var(--ink);
+    border-radius: 12px;
+    padding: 12px 14px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: var(--ink);
+    font-size: 13px;
+  }
+
+  .source-link-arrow { font-size: 16px; color: var(--accent); }
+
+  /* Animations */
+  @keyframes pop {
+    from { opacity: 0; transform: translateY(10px) scale(0.96); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
+
+  /* 데스크톱 */
+  @media (min-width: 600px) {
+    body { padding: 20px 0; }
+    .app {
+      border: 1.5px solid var(--ink);
+      border-radius: 28px;
+      box-shadow: 8px 8px 0 var(--ink);
+      background: var(--bg);
+      overflow: hidden;
+      padding-bottom: 0;
+    }
+    header { border-radius: 28px 28px 0 0; }
+  }
+</style>
+</head>
+<body>
+
+<div class="app">
+
+  <header>
+    <div class="header-row">
+      <div class="logo-wrap">
+        <div class="logo-icon">📰</div>
+        <div class="logo">News<span class="logo-dot">.</span>pic</div>
+      </div>
+      <div class="date-nav">
+        <button class="date-btn" id="prevDate">‹</button>
+        <span class="date-display" id="dateDisplay">로딩중</span>
+        <button class="date-btn" id="nextDate">›</button>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span class="hand" id="greeting">오늘도 좋은 아침! ☀️</span>
+      <span id="readTime">잠시만 기다려주세요</span>
+    </div>
+  </header>
+
+  <div class="tabs" id="tabs">
+    <div class="tab active" data-cat="all">✨ 전체</div>
+    <div class="tab" data-cat="world">🌍 국제</div>
+    <div class="tab" data-cat="economy">💰 경제</div>
+    <div class="tab" data-cat="tech">💻 기술</div>
+    <div class="tab" data-cat="society">🏛 사회</div>
+    <div class="tab" data-cat="life">🌱 라이프</div>
+  </div>
+
+  <div class="feed-intro">
+    <h1 class="feed-title">오늘의 <span class="accent">다섯 장면</span>📷</h1>
+    <p class="feed-sub"><span class="hand">탭하면 자세한 내용이 나와요!</span></p>
+  </div>
+
+  <div class="feed" id="feed">
+    <div class="state-msg">
+      <div class="icon">⏳</div>
+      <div class="title">뉴스 불러오는 중...</div>
+      <div class="desc">잠시만 기다려주세요</div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="quote">"복잡한 세상을, 한 장의 그림으로."</div>
+    <div class="footer-line">매일 아침 7시, 큐레이션된 뉴스 인포그래픽</div>
+  </footer>
+
+</div>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="overlay"></div>
+<div class="modal" id="modal">
+  <div class="modal-handle"></div>
+  <button class="modal-close" id="closeBtn">✕</button>
+  <div class="modal-body" id="modalBody"></div>
+</div>
+
+<script>
+  // ===== STATE =====
+  let currentDate = new Date();
+  let currentData = null;
+  let currentCategory = 'all';
+
+  const TAG_BG_MAP = {
+    world: 'tag-world-bg',
+    economy: 'tag-economy-bg',
+    tech: 'tag-tech-bg',
+    society: 'tag-society-bg',
+    life: 'tag-life-bg'
+  };
+
+  const TAG_CLASS_MAP = {
+    world: 'tag-world',
+    economy: 'tag-economy',
+    tech: 'tag-tech',
+    society: 'tag-society',
+    life: 'tag-life'
+  };
+
+  // ===== UTILS =====
+  function formatDate(d) {
+    return d.toISOString().split('T')[0];
+  }
+
+  function formatDisplayDate(d) {
+    const today = new Date();
+    today.setHours(0,0,0,0);
+    const yesterday = new Date(today);
+    yesterday.setDate(yesterday.getDate() - 1);
+    const target = new Date(d);
+    target.setHours(0,0,0,0);
+
+    if (target.getTime() === today.getTime()) return '오늘';
+    if (target.getTime() === yesterday.getTime()) return '어제';
+
+    const m = d.getMonth() + 1;
+    const day = d.getDate();
+    const dayNames = ['일','월','화','수','목','금','토'];
+    return `${m}/${day} ${dayNames[d.getDay()]}`;
+  }
+
+  // ===== LOAD DATA =====
+  async function loadData(date) {
+    const dateStr = formatDate(date);
+    const feed = document.getElementById('feed');
+
+    feed.innerHTML = `
+      <div class="state-msg">
+        <div class="icon">⏳</div>
+        <div class="title">뉴스 불러오는 중...</div>
+        <div class="desc">${dateStr}</div>
+      </div>
+    `;
+
+    try {
+      // 오늘이면 latest.json, 아니면 날짜별 파일
+      const today = formatDate(new Date());
+      const path = (dateStr === today) ? 'data/latest.json' : `data/${dateStr}.json`;
+
+      const res = await fetch(path);
+      if (!res.ok) throw new Error('not found');
+
+      currentData = await res.json();
+      renderFeed();
+    } catch (err) {
+      feed.innerHTML = `
+        <div class="state-msg">
+          <div class="icon">📭</div>
+          <div class="title">이 날의 뉴스가 없어요</div>
+          <div class="desc">${dateStr}<br>다른 날짜를 골라보세요</div>
+        </div>
+      `;
+      currentData = null;
+      updateMeta();
+    }
+  }
+
+  // ===== RENDER =====
+  function renderFeed() {
+    const feed = document.getElementById('feed');
+    if (!currentData || !currentData.cards) return;
+
+    const cards = currentCategory === 'all'
+      ? currentData.cards
+      : currentData.cards.filter(c => c.category === currentCategory);
+
+    if (cards.length === 0) {
+      feed.innerHTML = `
+        <div class="state-msg">
+          <div class="icon">🔍</div>
+          <div class="title">이 카테고리엔 뉴스가 없어요</div>
+          <div class="desc">다른 카테고리를 골라보세요</div>
+        </div>
+      `;
+      updateMeta();
+      return;
+    }
+
+    feed.innerHTML = cards.map((c, i) => renderCard(c, i)).join('');
+
+    // 카드 클릭 이벤트
+    document.querySelectorAll('.card[data-id]').forEach(el => {
+      el.addEventListener('click', () => openModal(el.dataset.id));
+    });
+
+    updateMeta();
+  }
+
+  function renderCard(c, idx) {
+    const tagClass = TAG_CLASS_MAP[c.category] || 'tag-world';
+    const bgClass = TAG_BG_MAP[c.category] || 'tag-world-bg';
+
+    let vizHtml = '';
+    if (c.viz_data) {
+      // 통계 3개 + 큰 숫자 (간단 통합 뷰)
+      if (c.viz_data.stats && c.viz_data.stats.length > 0) {
+        vizHtml += `
+          <div class="stats-row">
+            ${c.viz_data.stats.slice(0,3).map(s => `
+              <div class="stat-pill">
+                <div class="stat-pill-value ${c.category}">${s.value || ''}</div>
+                <div class="stat-pill-label">${s.label || ''}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+      if (c.viz_data.main_number) {
+        vizHtml += `
+          <div class="big-stat" style="margin-top: 12px;">
+            <div class="big-stat-num" style="color: var(--${c.category === 'world' ? 'accent' : c.category === 'tech' ? 'blue' : c.category === 'society' ? 'green' : c.category === 'life' ? 'pink' : 'accent'})">${c.viz_data.main_number}</div>
+            <div class="big-stat-text">${c.viz_data.main_text || ''}</div>
+          </div>
+        `;
+      }
+    }
+
+    return `
+      <article class="card" data-id="${c.id}" style="animation-delay: ${idx * 0.08}s">
+        <span class="card-tag ${tagClass}">${c.category_label || ''}</span>
+        <h2 class="card-title">${c.title || ''}</h2>
+        <p class="card-subtitle">${c.subtitle || ''}</p>
+        <div class="viz-area ${bgClass}">
+          ${vizHtml}
+        </div>
+      </article>
+    `;
+  }
+
+  function updateMeta() {
+    document.getElementById('dateDisplay').textContent = formatDisplayDate(currentDate);
+    if (currentData && currentData.cards) {
+      const count = currentCategory === 'all'
+        ? currentData.cards.length
+        : currentData.cards.filter(c => c.category === currentCategory).length;
+      document.getElementById('readTime').textContent = `${count}개의 이야기 · 약 ${count}분`;
+    } else {
+      document.getElementById('readTime').textContent = '';
+    }
+
+    // 다음 날짜 버튼: 오늘이면 비활성화
+    const today = new Date();
+    today.setHours(23,59,59,999);
+    document.getElementById('nextDate').disabled = currentDate >= today;
+  }
+
+  // ===== MODAL =====
+  function openModal(cardId) {
+    const card = currentData.cards.find(c => c.id === cardId);
+    if (!card) return;
+
+    const detail = card.detail || {};
+    const body = document.getElementById('modalBody');
+
+    body.innerHTML = `
+      <span class="modal-tag ${TAG_CLASS_MAP[card.category]}">${card.category_label}</span>
+      <h2 class="modal-title">${card.title}</h2>
+      <p class="modal-subtitle">${card.subtitle}</p>
+
+      <div class="modal-image-loading" id="imgLoading">
+        <div style="font-size: 32px;">🎨</div>
+        <div>그림 그리는 중...</div>
+      </div>
+      <img class="modal-image" id="modalImg" src="${card.image_url || ''}" alt=""
+           style="display:none;"
+           onload="document.getElementById('imgLoading').style.display='none'; this.style.display='block';"
+           onerror="document.getElementById('imgLoading').innerHTML='<div style=&quot;font-size:32px;&quot;>🖼️</div><div>이미지를 불러올 수 없어요</div>';" />
+
+      ${detail.summary ? `
+        <div class="modal-section">
+          <div class="modal-section-label">📌 한 줄 요약</div>
+          <p>${detail.summary}</p>
+        </div>` : ''}
+
+      ${detail.points && detail.points.length ? `
+        <div class="modal-section">
+          <div class="modal-section-label">🔍 핵심 포인트</div>
+          <ul>${detail.points.map(p => `<li>${p}</li>`).join('')}</ul>
+        </div>` : ''}
+
+      ${detail.quote ? `
+        <div class="modal-section">
+          <div class="modal-section-label">💬 인용</div>
+          <div class="modal-quote">${detail.quote}</div>
+        </div>` : ''}
+
+      ${detail.context ? `
+        <div class="modal-section">
+          <div class="modal-section-label">🌱 배경</div>
+          <p>${detail.context}</p>
+        </div>` : ''}
+
+      ${detail.source_url ? `
+        <div class="modal-section">
+          <div class="modal-section-label">🔗 원문 보기</div>
+          <a href="${detail.source_url}" target="_blank" class="source-link">
+            <strong>원문으로 이동</strong>
+            <span class="source-link-arrow">→</span>
+          </a>
+        </div>` : ''}
+    `;
+
+    document.getElementById('overlay').classList.add('open');
+    document.getElementById('modal').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    document.getElementById('overlay').classList.remove('open');
+    document.getElementById('modal').classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  // ===== EVENTS =====
+  document.getElementById('overlay').addEventListener('click', closeModal);
+  document.getElementById('closeBtn').addEventListener('click', closeModal);
+
+  document.getElementById('prevDate').addEventListener('click', () => {
+    currentDate.setDate(currentDate.getDate() - 1);
+    loadData(currentDate);
+  });
+
+  document.getElementById('nextDate').addEventListener('click', () => {
+    const today = new Date();
+    if (currentDate >= today) return;
+    currentDate.setDate(currentDate.getDate() + 1);
+    loadData(currentDate);
+  });
+
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      currentCategory = tab.dataset.cat;
+      renderFeed();
+    });
+  });
+
+  // ===== START =====
+  loadData(currentDate);
+</script>
+
+</body>
+</html>
