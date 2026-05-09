@@ -1,0 +1,17 @@
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
+
+# 환경변수 (실수로 커밋 방지)
+.env
+*.env
