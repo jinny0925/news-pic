@@ -17,9 +17,9 @@ from datetime import datetime, timezone, timedelta
 import google.generativeai as genai
 
 # ===== 환경변수 (GitHub Secrets에서 읽어옴) =====
-NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID")
-NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET")
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+NAVER_CLIENT_ID = (os.environ.get("NAVER_CLIENT_ID") or "").strip()
+NAVER_CLIENT_SECRET = (os.environ.get("NAVER_CLIENT_SECRET") or "").strip()
+GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 
 # 한국 시간
 KST = timezone(timedelta(hours=9))
