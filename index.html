@@ -29,7 +29,6 @@
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-
   html, body { overflow-x: hidden; }
 
   body {
@@ -67,23 +66,15 @@
     border-bottom: 1.5px solid var(--ink);
   }
 
-  .header-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
+  .header-row { display: flex; justify-content: space-between; align-items: center; }
   .logo-wrap { display: flex; align-items: center; gap: 8px; }
 
   .logo-icon {
-    width: 38px;
-    height: 38px;
+    width: 38px; height: 38px;
     background: var(--accent);
     border: 2px solid var(--ink);
     border-radius: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: flex; align-items: center; justify-content: center;
     font-size: 20px;
     transform: rotate(-6deg);
     box-shadow: 2px 2px 0 var(--ink);
@@ -96,10 +87,8 @@
     letter-spacing: -0.03em;
     font-style: italic;
   }
-
   .logo-dot { color: var(--accent); }
 
-  /* DATE NAV */
   .date-nav {
     display: flex;
     align-items: center;
@@ -112,8 +101,7 @@
   }
 
   .date-btn {
-    width: 28px;
-    height: 28px;
+    width: 28px; height: 28px;
     border: none;
     background: transparent;
     cursor: pointer;
@@ -121,12 +109,8 @@
     font-size: 14px;
     font-weight: 700;
     color: var(--ink);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: background 0.15s;
+    display: flex; align-items: center; justify-content: center;
   }
-
   .date-btn:active { background: var(--bg-soft); }
   .date-btn:disabled { opacity: 0.3; cursor: not-allowed; }
 
@@ -134,7 +118,6 @@
     font-size: 13px;
     font-weight: 600;
     padding: 0 4px;
-    cursor: pointer;
     min-width: 80px;
     text-align: center;
   }
@@ -147,7 +130,6 @@
     font-size: 12px;
     color: var(--ink-soft);
   }
-
   .header-meta .hand { font-size: 16px; color: var(--accent); }
 
   /* TABS */
@@ -172,65 +154,244 @@
     transition: transform 0.15s;
     white-space: nowrap;
   }
-
   .tab:active { transform: scale(0.95); }
   .tab.active { background: var(--ink); color: var(--bg); }
 
-  /* FEED */
-  .feed-intro { padding: 8px 20px 20px; }
-
-  .feed-title {
-    font-family: 'Fraunces', serif;
-    font-size: 28px;
-    font-weight: 700;
-    line-height: 1.2;
-    letter-spacing: -0.02em;
+  /* HEADLINE */
+  .section-headline {
+    padding: 16px 20px 8px;
   }
 
-  .feed-title .accent { color: var(--accent); }
-  .feed-sub { margin-top: 4px; font-size: 13px; color: var(--ink-soft); }
-  .feed-sub .hand { font-size: 16px; color: var(--ink); }
-
-  .feed {
-    padding: 0 20px;
+  .section-headline-label {
+    font-family: 'Gaegu', cursive;
+    font-size: 18px;
+    color: var(--accent);
+    margin-bottom: 8px;
     display: flex;
-    flex-direction: column;
-    gap: 16px;
+    align-items: center;
+    gap: 6px;
   }
 
-  /* CARD */
-  .card {
+  .section-headline-label::before {
+    content: "✨";
+  }
+
+  .headline-card {
     background: var(--paper);
-    border: 1.5px solid var(--ink);
-    border-radius: 20px;
-    padding: 22px 20px;
-    box-shadow: 4px 4px 0 var(--ink);
+    border: 2px solid var(--ink);
+    border-radius: 24px;
+    padding: 0;
+    box-shadow: 5px 5px 0 var(--ink);
     cursor: pointer;
     transition: transform 0.2s, box-shadow 0.2s;
-    position: relative;
     overflow: hidden;
-    animation: pop 0.5s ease-out backwards;
+    position: relative;
   }
 
-  .card:active {
+  .headline-card:active {
     transform: translate(2px, 2px);
-    box-shadow: 2px 2px 0 var(--ink);
+    box-shadow: 3px 3px 0 var(--ink);
   }
 
-  .card::before {
-    content: "";
-    position: absolute;
-    top: 14px;
-    right: 14px;
-    width: 28px;
-    height: 28px;
-    border: 1.5px solid var(--ink);
-    border-radius: 50%;
-    background: var(--bg);
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%232a2420' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='9 18 15 12 9 6'%3E%3C/polyline%3E%3C/svg%3E");
-    background-repeat: no-repeat;
-    background-position: center;
+  .headline-img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    background: var(--bg-soft);
+    display: block;
+    border-bottom: 2px solid var(--ink);
   }
+
+  .headline-img-loading {
+    width: 100%;
+    aspect-ratio: 16/9;
+    background: var(--bg-soft);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--ink-soft);
+    font-size: 13px;
+    border-bottom: 2px solid var(--ink);
+  }
+
+  .headline-body {
+    padding: 18px 20px 20px;
+  }
+
+  .headline-card .card-tag { margin-bottom: 10px; }
+
+  .headline-title {
+    font-family: 'Fraunces', serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-bottom: 6px;
+  }
+
+  .headline-subtitle {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 14px;
+    color: var(--ink-soft);
+  }
+
+  .headline-stats {
+    display: flex;
+    gap: 8px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+  }
+
+  .headline-stat {
+    background: var(--bg);
+    border: 1.5px solid var(--ink);
+    border-radius: 12px;
+    padding: 8px 12px;
+    font-size: 12px;
+    flex: 1;
+    min-width: 80px;
+    text-align: center;
+  }
+
+  .headline-stat strong {
+    font-family: 'Fraunces', serif;
+    font-size: 18px;
+    display: block;
+    line-height: 1;
+  }
+
+  .headline-stat span {
+    font-size: 10px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+    display: block;
+  }
+
+  /* CATEGORY SECTION */
+  .section-category {
+    padding: 16px 0 8px;
+  }
+
+  .section-header {
+    padding: 0 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .section-title {
+    font-family: 'Fraunces', serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  .section-more {
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    font-family: inherit;
+  }
+
+  /* HORIZONTAL SCROLL */
+  .h-scroll {
+    display: flex;
+    gap: 14px;
+    padding: 4px 20px 20px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+  }
+  .h-scroll::-webkit-scrollbar { display: none; }
+
+  .mini-card {
+    flex-shrink: 0;
+    width: 240px;
+    background: var(--paper);
+    border: 1.5px solid var(--ink);
+    border-radius: 18px;
+    padding: 0;
+    box-shadow: 3px 3px 0 var(--ink);
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    overflow: hidden;
+    scroll-snap-align: start;
+  }
+
+  .mini-card:active {
+    transform: translate(2px, 2px);
+    box-shadow: 1px 1px 0 var(--ink);
+  }
+
+  .mini-img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    background: var(--bg-soft);
+    display: block;
+    border-bottom: 1.5px solid var(--ink);
+  }
+
+  .mini-img-loading {
+    width: 100%;
+    aspect-ratio: 4/3;
+    background: var(--bg-soft);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    border-bottom: 1.5px solid var(--ink);
+  }
+
+  .mini-body {
+    padding: 12px 14px 14px;
+  }
+
+  .mini-tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 10px;
+    border: 1.5px solid var(--ink);
+    margin-bottom: 8px;
+  }
+
+  .mini-title {
+    font-family: 'Fraunces', serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-bottom: 4px;
+    /* 2줄까지만 */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .mini-subtitle {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 12px;
+    color: var(--ink-soft);
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* TAG COLORS */
+  .tag-world { background: var(--accent-soft); }
+  .tag-economy { background: var(--yellow-soft); }
+  .tag-tech { background: var(--blue-soft); }
+  .tag-society { background: var(--green-soft); }
+  .tag-life { background: var(--pink-soft); }
 
   .card-tag {
     display: inline-flex;
@@ -240,136 +401,30 @@
     font-weight: 700;
     padding: 5px 10px;
     border-radius: 12px;
-    margin-bottom: 14px;
     border: 1.5px solid var(--ink);
   }
 
-  .tag-world { background: var(--accent-soft); }
-  .tag-economy { background: var(--yellow-soft); }
-  .tag-tech { background: var(--blue-soft); }
-  .tag-society { background: var(--green-soft); }
-  .tag-life { background: var(--pink-soft); }
-
-  .card-title {
-    font-family: 'Fraunces', serif;
-    font-size: 22px;
-    font-weight: 700;
-    line-height: 1.25;
-    padding-right: 32px;
-    margin-bottom: 4px;
-  }
-
-  .card-subtitle {
-    font-size: 13px;
-    color: var(--ink-soft);
-    font-family: 'Fraunces', serif;
-    font-style: italic;
-    margin-bottom: 18px;
-  }
-
-  /* VIZ AREAS */
-  .viz-area {
-    border: 1.5px solid var(--ink);
-    border-radius: 16px;
-    padding: 18px 16px;
-    margin-top: 8px;
-  }
-
-  .viz-area.tag-world-bg { background: var(--accent-soft); }
-  .viz-area.tag-economy-bg { background: var(--yellow-soft); }
-  .viz-area.tag-tech-bg { background: var(--blue-soft); }
-  .viz-area.tag-society-bg { background: var(--green-soft); }
-  .viz-area.tag-life-bg { background: var(--pink-soft); }
-
-  /* Stats grid (공통) */
-  .stats-row {
+  /* FILTERED MODE (한 카테고리만 보기) */
+  .filtered-grid {
+    padding: 0 20px 20px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 8px;
-    margin-top: 14px;
-  }
-
-  .stat-pill {
-    background: var(--paper);
-    border: 1.5px solid var(--ink);
-    border-radius: 12px;
-    padding: 10px 6px;
-    text-align: center;
-  }
-
-  .stat-pill-value {
-    font-family: 'Fraunces', serif;
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 1;
-  }
-
-  .stat-pill-label {
-    font-size: 10px;
-    color: var(--ink-soft);
-    margin-top: 4px;
-  }
-
-  .stat-pill-value.world { color: var(--accent); }
-  .stat-pill-value.economy { color: #c89545; }
-  .stat-pill-value.tech { color: var(--blue); }
-  .stat-pill-value.society { color: var(--green); }
-  .stat-pill-value.life { color: var(--pink); }
-
-  /* Big number */
-  .big-stat {
-    background: var(--paper);
-    border: 1.5px solid var(--ink);
-    border-radius: 12px;
-    padding: 14px 16px;
-    display: flex;
-    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
     gap: 14px;
   }
 
-  .big-stat-num {
-    font-family: 'Fraunces', serif;
-    font-size: 32px;
-    font-weight: 900;
-    line-height: 1;
+  .filtered-grid .mini-card {
+    width: auto;
   }
 
-  .big-stat-text {
-    font-size: 12px;
-    color: var(--ink-soft);
-    line-height: 1.4;
-    flex: 1;
-  }
-
-  /* Empty / Loading / Error */
+  /* STATE */
   .state-msg {
     padding: 60px 20px;
     text-align: center;
     color: var(--ink-soft);
   }
-
   .state-msg .icon { font-size: 48px; margin-bottom: 16px; }
   .state-msg .title { font-family: 'Fraunces', serif; font-size: 20px; color: var(--ink); margin-bottom: 8px; }
   .state-msg .desc { font-size: 14px; line-height: 1.6; }
-
-  /* Filtered card */
-  .card-filtered {
-    background: var(--bg-soft);
-    border: 1.5px dashed var(--ink-soft);
-    border-radius: 16px;
-    padding: 14px 18px;
-    font-size: 13px;
-    color: var(--ink-soft);
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    line-height: 1.5;
-    cursor: pointer;
-    transition: background 0.2s;
-  }
-
-  .card-filtered:active { background: #f4e6d0; }
-  .card-filtered .icon { font-size: 18px; flex-shrink: 0; }
 
   /* FOOTER */
   footer {
@@ -404,7 +459,6 @@
     pointer-events: none;
     transition: opacity 0.3s;
   }
-
   .modal-overlay.open { opacity: 1; pointer-events: auto; }
 
   .modal {
@@ -425,12 +479,10 @@
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
   }
-
   .modal.open { transform: translateX(-50%) translateY(0); }
 
   .modal-handle {
-    width: 40px;
-    height: 5px;
+    width: 40px; height: 5px;
     background: var(--ink-soft);
     border-radius: 5px;
     margin: 12px auto 8px;
@@ -439,18 +491,14 @@
 
   .modal-close {
     position: absolute;
-    top: 16px;
-    right: 16px;
-    width: 36px;
-    height: 36px;
+    top: 16px; right: 16px;
+    width: 36px; height: 36px;
     border-radius: 50%;
     border: 1.5px solid var(--ink);
     background: var(--paper);
     font-size: 18px;
     cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: flex; align-items: center; justify-content: center;
     box-shadow: 2px 2px 0 var(--ink);
     z-index: 2;
   }
@@ -488,7 +536,6 @@
     border: 1.5px solid var(--ink);
     border-radius: 16px;
     margin-bottom: 20px;
-    background: var(--bg-soft);
     aspect-ratio: 8/5;
     object-fit: cover;
     display: block;
@@ -521,7 +568,6 @@
   }
 
   .modal-section p { font-size: 14px; line-height: 1.7; }
-
   .modal-section ul { padding-left: 20px; font-size: 14px; line-height: 1.8; }
   .modal-section ul li { margin-bottom: 4px; }
 
@@ -534,6 +580,36 @@
     font-family: 'Fraunces', serif;
     font-size: 14px;
     line-height: 1.6;
+  }
+
+  .modal-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+
+  .modal-stat {
+    background: var(--bg-soft);
+    border: 1.5px solid var(--ink);
+    border-radius: 12px;
+    padding: 10px 6px;
+    text-align: center;
+  }
+
+  .modal-stat strong {
+    font-family: 'Fraunces', serif;
+    font-size: 18px;
+    display: block;
+    color: var(--accent);
+    line-height: 1;
+  }
+
+  .modal-stat span {
+    font-size: 10px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+    display: block;
   }
 
   .source-link {
@@ -552,10 +628,35 @@
 
   .source-link-arrow { font-size: 16px; color: var(--accent); }
 
+  /* BACK BUTTON */
+  .back-btn {
+    margin: 12px 20px 0;
+    padding: 8px 14px;
+    border: 1.5px solid var(--ink);
+    border-radius: 20px;
+    background: var(--paper);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 2px 2px 0 var(--ink);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .back-btn:active {
+    transform: translate(1px, 1px);
+    box-shadow: 1px 1px 0 var(--ink);
+  }
+
   /* Animations */
   @keyframes pop {
-    from { opacity: 0; transform: translateY(10px) scale(0.96); }
+    from { opacity: 0; transform: translateY(10px) scale(0.98); }
     to { opacity: 1; transform: translateY(0) scale(1); }
+  }
+
+  .headline-card, .section-category, .filtered-grid > * {
+    animation: pop 0.4s ease-out backwards;
   }
 
   /* 데스크톱 */
@@ -591,7 +692,7 @@
     </div>
     <div class="header-meta">
       <span class="hand" id="greeting">오늘도 좋은 아침! ☀️</span>
-      <span id="readTime">잠시만 기다려주세요</span>
+      <span id="readTime">잠시만요</span>
     </div>
   </header>
 
@@ -604,12 +705,7 @@
     <div class="tab" data-cat="life">🌱 라이프</div>
   </div>
 
-  <div class="feed-intro">
-    <h1 class="feed-title">오늘의 <span class="accent">다섯 장면</span>📷</h1>
-    <p class="feed-sub"><span class="hand">탭하면 자세한 내용이 나와요!</span></p>
-  </div>
-
-  <div class="feed" id="feed">
+  <div id="content">
     <div class="state-msg">
       <div class="icon">⏳</div>
       <div class="title">뉴스 불러오는 중...</div>
@@ -638,26 +734,18 @@
   let currentData = null;
   let currentCategory = 'all';
 
-  const TAG_BG_MAP = {
-    world: 'tag-world-bg',
-    economy: 'tag-economy-bg',
-    tech: 'tag-tech-bg',
-    society: 'tag-society-bg',
-    life: 'tag-life-bg'
+  const CATEGORY_INFO = {
+    world:    { label: '🌍 국제',   tagClass: 'tag-world' },
+    economy:  { label: '💰 경제',   tagClass: 'tag-economy' },
+    tech:     { label: '💻 기술',   tagClass: 'tag-tech' },
+    society:  { label: '🏛 사회',   tagClass: 'tag-society' },
+    life:     { label: '🌱 라이프', tagClass: 'tag-life' }
   };
 
-  const TAG_CLASS_MAP = {
-    world: 'tag-world',
-    economy: 'tag-economy',
-    tech: 'tag-tech',
-    society: 'tag-society',
-    life: 'tag-life'
-  };
+  const CATEGORY_ORDER = ['world', 'economy', 'tech', 'society', 'life'];
 
   // ===== UTILS =====
-  function formatDate(d) {
-    return d.toISOString().split('T')[0];
-  }
+  function formatDate(d) { return d.toISOString().split('T')[0]; }
 
   function formatDisplayDate(d) {
     const today = new Date();
@@ -676,12 +764,11 @@
     return `${m}/${day} ${dayNames[d.getDay()]}`;
   }
 
-  // ===== LOAD DATA =====
+  // ===== LOAD =====
   async function loadData(date) {
     const dateStr = formatDate(date);
-    const feed = document.getElementById('feed');
-
-    feed.innerHTML = `
+    const content = document.getElementById('content');
+    content.innerHTML = `
       <div class="state-msg">
         <div class="icon">⏳</div>
         <div class="title">뉴스 불러오는 중...</div>
@@ -690,17 +777,14 @@
     `;
 
     try {
-      // 오늘이면 latest.json, 아니면 날짜별 파일
       const today = formatDate(new Date());
       const path = (dateStr === today) ? 'data/latest.json' : `data/${dateStr}.json`;
-
       const res = await fetch(path);
       if (!res.ok) throw new Error('not found');
-
       currentData = await res.json();
-      renderFeed();
+      render();
     } catch (err) {
-      feed.innerHTML = `
+      content.innerHTML = `
         <div class="state-msg">
           <div class="icon">📭</div>
           <div class="title">이 날의 뉴스가 없어요</div>
@@ -713,75 +797,145 @@
   }
 
   // ===== RENDER =====
-  function renderFeed() {
-    const feed = document.getElementById('feed');
+  function render() {
     if (!currentData || !currentData.cards) return;
 
-    const cards = currentCategory === 'all'
-      ? currentData.cards
-      : currentData.cards.filter(c => c.category === currentCategory);
-
-    if (cards.length === 0) {
-      feed.innerHTML = `
-        <div class="state-msg">
-          <div class="icon">🔍</div>
-          <div class="title">이 카테고리엔 뉴스가 없어요</div>
-          <div class="desc">다른 카테고리를 골라보세요</div>
-        </div>
-      `;
-      updateMeta();
-      return;
+    if (currentCategory === 'all') {
+      renderHomeView();
+    } else {
+      renderCategoryView(currentCategory);
     }
-
-    feed.innerHTML = cards.map((c, i) => renderCard(c, i)).join('');
-
-    // 카드 클릭 이벤트
-    document.querySelectorAll('.card[data-id]').forEach(el => {
-      el.addEventListener('click', () => openModal(el.dataset.id));
-    });
-
     updateMeta();
   }
 
-  function renderCard(c, idx) {
-    const tagClass = TAG_CLASS_MAP[c.category] || 'tag-world';
-    const bgClass = TAG_BG_MAP[c.category] || 'tag-world-bg';
+  function renderHomeView() {
+    const cards = currentData.cards;
+    const headline = cards.find(c => c.is_headline) || cards[0];
+    const otherCards = cards.filter(c => c !== headline);
 
-    let vizHtml = '';
-    if (c.viz_data) {
-      // 통계 3개 + 큰 숫자 (간단 통합 뷰)
-      if (c.viz_data.stats && c.viz_data.stats.length > 0) {
-        vizHtml += `
-          <div class="stats-row">
-            ${c.viz_data.stats.slice(0,3).map(s => `
-              <div class="stat-pill">
-                <div class="stat-pill-value ${c.category}">${s.value || ''}</div>
-                <div class="stat-pill-label">${s.label || ''}</div>
-              </div>
-            `).join('')}
-          </div>
-        `;
-      }
-      if (c.viz_data.main_number) {
-        vizHtml += `
-          <div class="big-stat" style="margin-top: 12px;">
-            <div class="big-stat-num" style="color: var(--${c.category === 'world' ? 'accent' : c.category === 'tech' ? 'blue' : c.category === 'society' ? 'green' : c.category === 'life' ? 'pink' : 'accent'})">${c.viz_data.main_number}</div>
-            <div class="big-stat-text">${c.viz_data.main_text || ''}</div>
-          </div>
-        `;
-      }
+    let html = '';
+
+    // 헤드라인
+    if (headline) {
+      html += `
+        <div class="section-headline">
+          <div class="section-headline-label">오늘의 헤드라인</div>
+          ${renderHeadlineCard(headline)}
+        </div>
+      `;
     }
 
+    // 카테고리별 가로 스크롤
+    CATEGORY_ORDER.forEach(cat => {
+      const catCards = otherCards.filter(c => c.category === cat);
+      if (catCards.length === 0) return;
+
+      const info = CATEGORY_INFO[cat];
+      html += `
+        <div class="section-category">
+          <div class="section-header">
+            <h2 class="section-title">${info.label}</h2>
+            <button class="section-more" data-cat="${cat}">더보기 →</button>
+          </div>
+          <div class="h-scroll">
+            ${catCards.map(c => renderMiniCard(c)).join('')}
+          </div>
+        </div>
+      `;
+    });
+
+    document.getElementById('content').innerHTML = html;
+    bindCardEvents();
+  }
+
+  function renderCategoryView(cat) {
+    const cards = currentData.cards.filter(c => c.category === cat);
+    const info = CATEGORY_INFO[cat];
+
+    if (cards.length === 0) {
+      document.getElementById('content').innerHTML = `
+        <div class="state-msg">
+          <div class="icon">🔍</div>
+          <div class="title">${info.label} 카테고리에 뉴스가 없어요</div>
+          <div class="desc">다른 카테고리를 골라보세요</div>
+        </div>
+      `;
+      return;
+    }
+
+    document.getElementById('content').innerHTML = `
+      <div class="filtered-grid">
+        ${cards.map(c => renderMiniCard(c)).join('')}
+      </div>
+    `;
+    bindCardEvents();
+  }
+
+  function renderHeadlineCard(c) {
+    const info = CATEGORY_INFO[c.category] || CATEGORY_INFO.world;
+    const stats = (c.viz_data && c.viz_data.stats) ? c.viz_data.stats.slice(0, 3) : [];
+
     return `
-      <article class="card" data-id="${c.id}" style="animation-delay: ${idx * 0.08}s">
-        <span class="card-tag ${tagClass}">${c.category_label || ''}</span>
-        <h2 class="card-title">${c.title || ''}</h2>
-        <p class="card-subtitle">${c.subtitle || ''}</p>
-        <div class="viz-area ${bgClass}">
-          ${vizHtml}
+      <article class="headline-card" data-id="${c.id}">
+        <div class="headline-img-loading" id="loading-${c.id}">
+          <span style="font-size: 24px;">🎨</span>
+        </div>
+        <img class="headline-img" src="${c.image_url || ''}" alt=""
+             style="display:none;"
+             onload="this.style.display='block'; const l=document.getElementById('loading-${c.id}'); if(l) l.style.display='none';"
+             onerror="const l=document.getElementById('loading-${c.id}'); if(l) l.innerHTML='<span style=&quot;font-size:24px;&quot;>🖼️</span>';" />
+        <div class="headline-body">
+          <span class="card-tag ${info.tagClass}">${c.category_label || info.label}</span>
+          <h2 class="headline-title">${c.title || ''}</h2>
+          <p class="headline-subtitle">${c.subtitle || ''}</p>
+          ${stats.length > 0 ? `
+            <div class="headline-stats">
+              ${stats.map(s => `
+                <div class="headline-stat">
+                  <strong>${s.value || ''}</strong>
+                  <span>${s.label || ''}</span>
+                </div>
+              `).join('')}
+            </div>
+          ` : ''}
         </div>
       </article>
     `;
+  }
+
+  function renderMiniCard(c) {
+    const info = CATEGORY_INFO[c.category] || CATEGORY_INFO.world;
+    return `
+      <article class="mini-card" data-id="${c.id}">
+        <div class="mini-img-loading" id="mloading-${c.id}">🎨</div>
+        <img class="mini-img" src="${c.image_url || ''}" alt=""
+             style="display:none;"
+             onload="this.style.display='block'; const l=document.getElementById('mloading-${c.id}'); if(l) l.style.display='none';"
+             onerror="const l=document.getElementById('mloading-${c.id}'); if(l) l.innerHTML='🖼️';" />
+        <div class="mini-body">
+          <span class="mini-tag ${info.tagClass}">${c.category_label || info.label}</span>
+          <h3 class="mini-title">${c.title || ''}</h3>
+          <p class="mini-subtitle">${c.subtitle || ''}</p>
+        </div>
+      </article>
+    `;
+  }
+
+  function bindCardEvents() {
+    document.querySelectorAll('[data-id]').forEach(el => {
+      el.addEventListener('click', () => openModal(el.dataset.id));
+    });
+    document.querySelectorAll('.section-more').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const cat = btn.dataset.cat;
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelector(`.tab[data-cat="${cat}"]`).classList.add('active');
+        currentCategory = cat;
+        render();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    });
   }
 
   function updateMeta() {
@@ -790,12 +944,10 @@
       const count = currentCategory === 'all'
         ? currentData.cards.length
         : currentData.cards.filter(c => c.category === currentCategory).length;
-      document.getElementById('readTime').textContent = `${count}개의 이야기 · 약 ${count}분`;
+      document.getElementById('readTime').textContent = `${count}개의 이야기`;
     } else {
       document.getElementById('readTime').textContent = '';
     }
-
-    // 다음 날짜 버튼: 오늘이면 비활성화
     const today = new Date();
     today.setHours(23,59,59,999);
     document.getElementById('nextDate').disabled = currentDate >= today;
@@ -805,23 +957,33 @@
   function openModal(cardId) {
     const card = currentData.cards.find(c => c.id === cardId);
     if (!card) return;
-
     const detail = card.detail || {};
-    const body = document.getElementById('modalBody');
+    const info = CATEGORY_INFO[card.category] || CATEGORY_INFO.world;
+    const stats = (card.viz_data && card.viz_data.stats) ? card.viz_data.stats : [];
 
-    body.innerHTML = `
-      <span class="modal-tag ${TAG_CLASS_MAP[card.category]}">${card.category_label}</span>
+    document.getElementById('modalBody').innerHTML = `
+      <span class="modal-tag ${info.tagClass}">${card.category_label || info.label}</span>
       <h2 class="modal-title">${card.title}</h2>
       <p class="modal-subtitle">${card.subtitle}</p>
 
-      <div class="modal-image-loading" id="imgLoading">
+      <div class="modal-image-loading" id="modalLoading">
         <div style="font-size: 32px;">🎨</div>
         <div>그림 그리는 중...</div>
       </div>
       <img class="modal-image" id="modalImg" src="${card.image_url || ''}" alt=""
            style="display:none;"
-           onload="document.getElementById('imgLoading').style.display='none'; this.style.display='block';"
-           onerror="document.getElementById('imgLoading').innerHTML='<div style=&quot;font-size:32px;&quot;>🖼️</div><div>이미지를 불러올 수 없어요</div>';" />
+           onload="document.getElementById('modalLoading').style.display='none'; this.style.display='block';"
+           onerror="document.getElementById('modalLoading').innerHTML='<div style=&quot;font-size:32px;&quot;>🖼️</div><div>이미지를 불러올 수 없어요</div>';" />
+
+      ${stats.length > 0 ? `
+        <div class="modal-stats">
+          ${stats.slice(0,3).map(s => `
+            <div class="modal-stat">
+              <strong>${s.value || ''}</strong>
+              <span>${s.label || ''}</span>
+            </div>
+          `).join('')}
+        </div>` : ''}
 
       ${detail.summary ? `
         <div class="modal-section">
@@ -847,7 +1009,7 @@
           <p>${detail.context}</p>
         </div>` : ''}
 
-      ${detail.source_url ? `
+      ${detail.source_url && detail.source_url !== '#' ? `
         <div class="modal-section">
           <div class="modal-section-label">🔗 원문 보기</div>
           <a href="${detail.source_url}" target="_blank" class="source-link">
@@ -889,7 +1051,8 @@
       document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
       tab.classList.add('active');
       currentCategory = tab.dataset.cat;
-      renderFeed();
+      render();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   });
 
