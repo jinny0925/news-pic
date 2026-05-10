@@ -2,7 +2,11 @@ name: Daily News Generation
 
 on:
   schedule:
+    # 한국시간 7:00, 7:30, 8:00, 9:00 시도 (한 번이라도 성공하면 OK)
     - cron: '0 22 * * *'
+    - cron: '30 22 * * *'
+    - cron: '0 23 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,15 +19,30 @@ jobs:
       - name: 코드 가져오기
         uses: actions/checkout@v4
 
+      - name: 오늘 이미 생성됐는지 확인
+        id: check
+        run: |
+          TODAY=$(TZ='Asia/Seoul' date +'%Y-%m-%d')
+          if [ -f "data/$TODAY.json" ]; then
+            echo "already_done=true" >> $GITHUB_OUTPUT
+            echo "✅ 오늘 이미 생성됨, 건너뜀"
+          else
+            echo "already_done=false" >> $GITHUB_OUTPUT
+            echo "🌅 오늘 처음 실행"
+          fi
+
       - name: 파이썬 설치
+        if: steps.check.outputs.already_done == 'false'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: 패키지 설치
+        if: steps.check.outputs.already_done == 'false'
         run: pip install -r requirements.txt
 
       - name: 뉴스 생성 스크립트 실행
+        if: steps.check.outputs.already_done == 'false'
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
@@ -31,9 +50,10 @@ jobs:
         run: python scripts/generate.py
 
       - name: 결과를 저장소에 커밋
+        if: steps.check.outputs.already_done == 'false'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "🗞️ 일일 뉴스 업데이트: $(date -u +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "🗞️ 일일 뉴스 업데이트: $(TZ='Asia/Seoul' date +'%Y-%m-%d')"
           git push
