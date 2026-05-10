@@ -1,617 +1,637 @@
 {
   "cards": [
     {
-      "id": "world-us-pharma-lobby",
+      "id": "world-energy-prices",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "bar",
-      "title": "🇺🇸 제약사 로비 23%↑",
-      "subtitle": "약가 인하 프로그램에 美 제약업계 반발",
+      "title": "OECD 에너지물가 ⬆️",
+      "subtitle": "한 달 새 8.6%p 상승, 세 번째 기록",
       "viz_data": {
         "stats": [
           {
-            "value": "+23%",
-            "label": "로비액 증가"
+            "value": "8.6%p",
+            "label": "상승률"
           },
           {
-            "value": "트럼프Rx",
-            "label": "가격 인하책"
+            "value": "3번째",
+            "label": "역대 기록"
+          },
+          {
+            "value": "3월",
+            "label": "기준 월"
           }
         ],
-        "main_number": "+23%",
-        "main_text": "트럼프Rx 프로그램에 대한 제약사 로비 23% 증가"
+        "main_number": "+8.6%",
+        "main_text": "OECD 에너지 물가 상승률, 통계 작성 이래 세 번째 급등"
       },
-      "image_prompt": "Cute infographic style, no text, pastel tones, US Capitol building with stacks of money or graphs showing an increase, a pill bottle with a minus sign on it, representing pharmaceutical lobbying against drug price reduction.",
+      "image_prompt": "Cute infographic style illustration of rising energy prices, showing a graph with an upward trend and a lightbulb icon, pastel colors, no text.",
       "detail": {
-        "summary": "미국 백악관의 새로운 처방약 가격 인하 프로그램인 '트럼프Rx'에 대응하기 위해 제약사들의 로비 활동이 1년 새 23% 증가했습니다. 이는 정책 변화에 대한 업계의 강한 우려와 반발을 보여줍니다.",
+        "summary": "OECD 회원국의 지난 3월 에너지 물가 상승률이 한 달 새 8.6%포인트(p) 뛰었으며, 이는 통계 작성 이래 세 번째로 큰 상승폭을 기록했습니다. 중동 전쟁에 따른 유가 상승이 세계적 물가 불안을 부추길 것이라는 우려가 커지고 있습니다.",
         "points": [
-          "미국 백악관의 '트럼프Rx' 정책 추진",
-          "제약사들의 로비 활동 전년 대비 23% 증가",
-          "오픈 시크릿(OpenSecrets) 데이터 기반",
-          "약가 인하 압박에 대한 업계의 대응 전략"
+          "OECD 3월 에너지 물가 상승률 8.6%p 기록",
+          "통계 작성 이래 세 번째로 높은 상승폭",
+          "중동 전쟁으로 인한 유가 상승이 주원인",
+          "세계적 물가 불안 및 한국 경제 압박 우려"
         ],
-        "quote": "기업들은 자신들의 이익을 보호하기 위해 정책 결정 과정에 적극적으로 참여합니다.",
-        "context": "정부의 처방약 가격 인하 노력은 국민의 의료비 부담을 줄이는 데 목적이 있지만, 제약사 입장에서는 수익성 악화로 이어질 수 있어 첨예한 대립이 예상됩니다. 이는 글로벌 제약 시장의 정책 방향과 기업 전략에 중요한 영향을 미칠 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0013935230?sid=102"
+        "quote": "각국의 밸류체인이 굉장히 긴밀하게 연결돼 있기 때문에 물가 상승률이 물가 안정 목표에서 크게 벗어날 가능성이 있다.",
+        "context": "에너지 가격은 전 세계 인플레이션에 가장 큰 영향을 미치는 요인 중 하나입니다. 이번 상승은 글로벌 경제의 불확실성을 가중시키고 각국 중앙은행의 통화 정책 결정에 중요한 변수로 작용할 것으로 보입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000509104?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20US%20Capitol%20building%20with%20stacks%20of%20money%20or%20graphs%20showing%20an%20increase%2C%20a%20pill%20bottle%20with%20a%20minus%20sign%20on%20it%2C%20representing%20pharmaceutical%20lobbying%20against%20drug%20price%20reduction.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36097&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20rising%20energy%20prices%2C%20showing%20a%20graph%20with%20an%20upward%20trend%20and%20a%20lightbulb%20icon%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92895&nologo=true"
     },
     {
-      "id": "world-nk-russia-parade",
+      "id": "world-us-china-summit",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
+      "viz_type": "flow",
+      "title": "이번 주 美中 정상회담 🤝",
+      "subtitle": "관세·AI 등 주요 경제 안보 이슈 논의",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5월 2주차",
+            "label": "개최 시기"
+          },
+          {
+            "value": "핵, 대만",
+            "label": "안보 이슈"
+          },
+          {
+            "value": "BYD 투자",
+            "label": "경제 이슈"
+          }
+        ],
+        "main_number": "5가지+",
+        "main_text": "미중 정상회담에서 다뤄질 주요 이슈들"
+      },
+      "image_prompt": "Cute infographic style illustration of two world leaders (representing US and China) shaking hands with various icons around them symbolizing AI, tariffs, and security, pastel colors, no text.",
+      "detail": {
+        "summary": "이번 주 열릴 미중 정상회담에서 양측은 관세, 인공지능(AI), 첨단 반도체 수출 통제, 희토류 등 경제 문제뿐만 아니라 이란, 대만, 핵 등 안보 문제를 폭넓게 논의할 예정입니다. 특히 중국 전기차 기업 BYD의 대미 투자 허용 여부도 주목받고 있습니다.",
+        "points": [
+          "관세, AI, 반도체 수출 통제 등 경제 문제 논의",
+          "이란, 대만, 핵 등 주요 안보 문제도 다뤄질 예정",
+          "BYD 등 중국 전기차 업체의 미국 시장 진출 문제 주목",
+          "세계경제포럼(WEF) 전문가들도 이번 회담에 촉각"
+        ],
+        "quote": "중국 자동차 업체의 미국 시장 진출 문제도 논의될 것",
+        "context": "미중 정상회담은 글로벌 경제 및 지정학적 안정에 지대한 영향을 미칩니다. 양국 간의 협력과 갈등은 전 세계 공급망, 기술 발전, 안보 환경을 좌우할 수 있어 그 결과에 국제사회의 이목이 집중되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004619075?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20two%20world%20leaders%20%28representing%20US%20and%20China%29%20shaking%20hands%20with%20various%20icons%20around%20them%20symbolizing%20AI%2C%20tariffs%2C%20and%20security%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45711&nologo=true"
+    },
+    {
+      "id": "world-china-auto-strategy",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "flow",
+      "title": "中 외국 車기업 전략 🔄",
+      "subtitle": "'中 개발, 세계 수출'로 전환",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "전환",
+            "label": "전략 방향"
+          },
+          {
+            "value": "생산→개발",
+            "label": "중국 역할"
+          },
+          {
+            "value": "중국→세계",
+            "label": "수출 시장"
+          }
+        ],
+        "main_number": "변화",
+        "main_text": "'In China, For China'에서 'In China, For Global'로 전환"
+      },
+      "image_prompt": "Cute infographic style illustration showing a flow from 'Made in China, For China' to 'Developed in China, For Global' with car icons and globe icons, pastel colors, no text.",
+      "detail": {
+        "summary": "외국계 자동차 기업들이 중국에서의 전략을 '중국에서 생산해 중국 시장에 판매한다'는 기존 방식에서 '중국에서 개발하고 세계로 수출한다'는 방향으로 전환하고 있습니다. 이는 중국 시장의 중요성을 유지하되, 중국을 글로벌 R&D 및 생산 허브로 활용하려는 전략적 변화를 의미합니다.",
+        "points": [
+          "기존 전략: '중국에서 생산해 중국 시장에 판매'",
+          "새로운 전략: '중국에서 개발하고 세계로 수출'",
+          "중국이 글로벌 R&D 및 생산 허브로 역할 변화",
+          "외국 자동차 기업들의 대중국 투자 및 전략 수정"
+        ],
+        "quote": "'중국에서, 세계를 위해(In China, For Global)'로 바뀌고 있다.",
+        "context": "중국은 세계 최대 자동차 시장이자 생산 기지입니다. 외국 기업들의 이러한 전략 변화는 중국의 기술 경쟁력 강화와 글로벌 공급망 재편에 큰 영향을 미칠 것입니다. 특히 전기차 및 자율주행 기술 분야에서 중국의 역할이 더욱 커질 것으로 예상됩니다.",
+        "source_url": "http://www.choicenews.co.kr/news/articleView.html?idxno=165001"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20showing%20a%20flow%20from%20%27Made%20in%20China%2C%20For%20China%27%20to%20%27Developed%20in%20China%2C%20For%20Global%27%20with%20car%20icons%20and%20globe%20icons%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66315&nologo=true"
+    },
+    {
+      "id": "economy-interest-rate",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
       "viz_type": "timeline",
-      "title": "🤝 북한군, 러 전승절 첫 행진",
-      "subtitle": "러시아 전승절 열병식에 북한군 부대 참가",
+      "title": "금리 인상 고민 🤔",
+      "subtitle": "한은 부총재, 1분기 경제성장률 1.7%에",
       "viz_data": {
         "stats": [
           {
-            "value": "첫 참가",
-            "label": "역사적 의미"
+            "value": "1.7%",
+            "label": "1분기 성장률"
           },
           {
-            "value": "전승절",
-            "label": "행사"
+            "value": "2배+",
+            "label": "전망치 초과"
           },
           {
-            "value": "푸틴-최영훈",
-            "label": "지도자 교류"
+            "value": "중동 발 악재",
+            "label": "대외 변수"
           }
         ],
-        "main_number": "1st",
-        "main_text": "러시아 전승절 열병식에 북한군 부대 역사상 첫 참가"
+        "main_number": "1.7%",
+        "main_text": "올 1분기 경제성장률, 한은 전망치 두 배 가까이 상회"
       },
-      "image_prompt": "Cute infographic style, no text, pastel tones, Russian Red Square and North Korean soldiers marching, flags of Russia and North Korea, showing military cooperation and a timeline of events.",
+      "image_prompt": "Cute infographic style illustration of a person thinking about interest rates, with an upward arrow graph and coins, pastel colors, no text.",
       "detail": {
-        "summary": "러시아 전승절 열병식에 북한군 부대가 역사상 처음으로 참가하여 북러 간 '혈맹' 관계를 과시했습니다. 이는 양국 간 군사적 밀착이 심화되고 있음을 시사합니다.",
+        "summary": "한국은행 부총재가 금리 인상을 고민할 시점이라고 언급했습니다. 올 1분기 경제성장률은 1.7%로, 중동발 악재 속에서도 한국은행의 전망치를 두 배 가까이 웃돌아 물가 상승 압력에 대한 우려가 커지고 있습니다.",
         "points": [
-          "러시아 제2차 세계대전 전승절 열병식",
-          "북한군 부대 역사상 첫 참가",
-          "최영훈 육군 대좌가 종대 이끌고 행진",
-          "블라디미르 푸틴 러시아 대통령 사의 표명"
+          "한은 부총재, 금리 인상 가능성 시사",
+          "1분기 경제성장률 1.7%, 전망치 상회",
+          "중동 전쟁 등 대외 악재 속에서도 성장세 유지",
+          "물가 안정 목표와 경기 침체 가능성 균형점 찾기"
         ],
-        "quote": "전승절은 제2차 세계대전 승리를 기념하는 날이다.",
-        "context": "북한군의 러시아 전승절 열병식 참가는 국제사회에 양국 간 군사 협력의 강도를 보여주는 중요한 신호입니다. 이는 한반도와 동북아시아는 물론 국제 안보 역학 관계에도 영향을 미칠 수 있는 사안으로 주목됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004619074?sid=100"
+        "quote": "물가 상승률이 물가 안정 목표에서 크게 벗어날 가능성이 경기 침체의 가능성보다 더 크다면 금리 인상을 고려해야 한다.",
+        "context": "경제성장률이 예상치를 뛰어넘으면서 인플레이션 압력이 다시 높아질 수 있다는 분석입니다. 이에 따라 한국은행은 물가 안정과 경기 둔화 방지라는 두 가지 목표 사이에서 신중한 통화 정책 결정을 내려야 하는 상황에 직면했습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000863146?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20Russian%20Red%20Square%20and%20North%20Korean%20soldiers%20marching%2C%20flags%20of%20Russia%20and%20North%20Korea%2C%20showing%20military%20cooperation%20and%20a%20timeline%20of%20events.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=1126&nologo=true"
-    },
-    {
-      "id": "world-us-oil-price",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar",
-      "title": "📈 美 기름값 1년새 45%↑",
-      "subtitle": "고유가에도 트럼프 “美 부유해지고 있다” 주장",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "+45%",
-            "label": "기름값 상승"
-          },
-          {
-            "value": "1년",
-            "label": "기간"
-          },
-          {
-            "value": "4월",
-            "label": "고용지표"
-          }
-        ],
-        "main_number": "+45%",
-        "main_text": "지난 1년 새 미국의 기름값 45% 상승"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, an oil pump with a rising price chart next to it, US dollar signs, and a cheerful but somewhat oblivious politician figure, showing high oil prices and economic claims.",
-      "detail": {
-        "summary": "지난 1년 새 미국의 기름값이 45% 급등했음에도 불구하고, 도널드 트럼프 전 대통령은 4월 고용지표를 자신의 경제 성과로 내세우며 미국이 부유해지고 있다고 주장했습니다.",
-        "points": [
-          "미국 기름값 1년 새 45% 상승",
-          "트럼프 전 대통령 4월 고용지표 인용",
-          "소셜미디어 '트루스소셜' 통해 주장",
-          "높은 물가와 상반되는 경제 성과 강조"
-        ],
-        "quote": "미국은 매우 빠르게 부유해지고 있습니다!",
-        "context": "높은 기름값은 소비자와 기업에 직접적인 부담으로 작용하며 경제 전반에 인플레이션 압력을 가합니다. 이러한 상황에서 전 대통령의 경제 낙관론은 현재의 경제 상황과 미래 전망에 대한 정치적 해석의 차이를 보여주며, 다가올 선거에 영향을 미칠 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0013935210?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20an%20oil%20pump%20with%20a%20rising%20price%20chart%20next%20to%20it%2C%20US%20dollar%20signs%2C%20and%20a%20cheerful%20but%20somewhat%20oblivious%20politician%20figure%2C%20showing%20high%20oil%20prices%20and%20economic%20claims.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=29091&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20person%20thinking%20about%20interest%20rates%2C%20with%20an%20upward%20arrow%20graph%20and%20coins%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65651&nologo=true"
     },
     {
       "id": "economy-property-tax",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "donut",
-      "title": "🏠 양도세 중과 부활",
-      "subtitle": "다주택자 최고세율 82.5% 적용",
+      "viz_type": "timeline",
+      "title": "다주택자 양도세 중과 🏠",
+      "subtitle": "4년 만에 재개, 부동산 민심 촉각",
       "viz_data": {
         "stats": [
           {
-            "value": "82.5%",
-            "label": "최고세율"
+            "value": "4년",
+            "label": "재개 주기"
           },
           {
-            "value": "4년만",
-            "label": "중과 부활"
+            "value": "5월 9일",
+            "label": "적용 시점"
           },
           {
-            "value": "다주택자",
-            "label": "대상"
+            "value": "매물 잠김",
+            "label": "우려 요인"
           }
         ],
-        "main_number": "82.5%",
-        "main_text": "다주택자 양도세 최고세율 82.5% 적용"
+        "main_number": "4년",
+        "main_text": "다주택자 양도세 중과, 4년 만에 재시행"
       },
-      "image_prompt": "Cute infographic style, no text, pastel tones, a pie chart showing a large portion representing 82.5% tax, a house icon with multiple windows, and a calculator, illustrating property tax for multiple homeowners.",
+      "image_prompt": "Cute infographic style illustration of a house with upward and downward arrows and a calendar, representing property tax changes, pastel colors, no text.",
       "detail": {
-        "summary": "다주택자 양도세 중과 유예 조치가 종료되면서, 조정대상지역 내 다주택자에 대한 양도세 중과 제도가 4년 만에 다시 적용됩니다. 3주택자 이상의 경우 최고세율 82.5%가 부과될 수 있습니다.",
+        "summary": "오늘부터 다주택자 양도세 중과가 4년 만에 재개됩니다. 구윤철 부총리 겸 재정경제부 장관은 매물 잠김 우려에도 불구하고 대출 규제와 토지거래허가제로 투기적 매수가 원천 차단될 것으로 전망했습니다.",
         "points": [
-          "다주택자 양도세 중과 유예 조치 종료",
-          "조정대상지역 내 다주택자에게 재적용",
-          "최고세율 82.5% (기본세율+중과)",
-          "4년 만에 중과제도 부활"
+          "다주택자 양도세 중과, 4년 만에 재개",
+          "매물 잠김 및 부동산 시장 영향 우려 제기",
+          "정부는 대출 규제 등으로 투기적 매수 차단 기대",
+          "부동산 민심 향방에 주요 변수로 작용"
         ],
-        "quote": "잠겨 있는 매물이 나오고, 그 매물이 시장에 공급되어야 한다.",
-        "context": "양도세 중과 부활은 부동산 시장에 매물 잠김 현상을 초래할 수 있다는 우려와 함께, 투기 수요 억제와 주거 안정이라는 정책 목표 사이에서 논란이 예상됩니다. 이는 부동산 시장의 변화와 거래량에 큰 영향을 미칠 것입니다.",
-        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1708137"
+        "quote": "5월 9일 이후 매물 잠김이 나타날 수 있다는 우려가 있지만, 대출 규제와 토지거래허가제로 투기적 매수가 원천 차단됐다.",
+        "context": "양도세 중과는 다주택자들의 주택 처분을 유도하고 부동산 시장 과열을 억제하기 위한 정부의 강력한 정책 수단입니다. 이번 재개는 전세난과 공급 부족 우려가 계속되는 상황에서 부동산 시장에 어떤 영향을 미 미칠지 주목됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000509103?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20a%20pie%20chart%20showing%20a%20large%20portion%20representing%2082.5%25%20tax%2C%20a%20house%20icon%20with%20multiple%20windows%2C%20and%20a%20calculator%2C%20illustrating%20property%20tax%20for%20multiple%20homeowners.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34111&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20house%20with%20upward%20and%20downward%20arrows%20and%20a%20calendar%2C%20representing%20property%20tax%20changes%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=2318&nologo=true"
     },
     {
-      "id": "economy-student-aid",
+      "id": "economy-pharma-lobbying",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "bar",
-      "title": "💰 입학준비금 9.3억 지원",
-      "subtitle": "시흥시, 초중고 8,764명에 입학지원금 지급 완료",
+      "title": "제약사 로비 23% 증가 📈",
+      "subtitle": "트럼프 행정부 약가 인하 프로그램에 대응",
       "viz_data": {
         "stats": [
           {
-            "value": "8,764명",
-            "label": "지원 학생수"
+            "value": "23%",
+            "label": "로비 증가율"
           },
           {
-            "value": "9.3억원",
-            "label": "총 지원금"
+            "value": "트럼프Rx",
+            "label": "약가 인하 정책"
           },
           {
-            "value": "초중고",
-            "label": "대상"
+            "value": "오픈 시크릿",
+            "label": "정보 출처"
           }
         ],
-        "main_number": "9.3억원",
-        "main_text": "시흥시, 입학준비금 9억 3천만 원 지급 완료"
+        "main_number": "+23%",
+        "main_text": "미국 제약사들의 로비 활동이 크게 증가"
       },
-      "image_prompt": "Cute infographic style, no text, pastel tones, smiling students (elementary, middle, high school) holding books and bags, with money flowing towards them, a bar chart showing the amount of aid, representing educational support.",
+      "image_prompt": "Cute infographic style illustration of a magnifying glass over a pile of money, with a pie chart showing an increase, representing lobbying efforts, pastel colors, no text.",
       "detail": {
-        "summary": "시흥시가 초중고 신입생 8,764명에게 입학준비금 9억 3천만 원을 1차로 지급 완료했습니다. 이 사업은 학생들의 학교생활 적응을 돕고 학부모의 경제적 부담을 완화하기 위해 마련되었습니다.",
+        "summary": "트럼프 행정부의 새로운 처방약 가격 인하 프로그램인 '트럼프Rx'에 대응하기 위해 미국 제약사들의 로비 활동이 23% 증가한 것으로 나타났습니다. 이는 약가 인하 정책이 제약 산업에 미치는 영향이 크다는 것을 보여줍니다.",
         "points": [
-          "시흥시 초중고 신입생 대상 입학준비금 지원",
-          "1차로 8,764명에 9억 3천만 원 지급",
-          "학생들의 원활한 학교생활 적응 지원",
-          "학부모의 경제적 부담 완화 목표"
+          "트럼프 행정부의 약가 인하 정책 '트럼프Rx' 추진",
+          "제약사들의 로비 활동 23% 증가로 대응",
+          "한국바이오협회 및 오픈 시크릿 자료 기반",
+          "정부 정책과 산업계 간의 첨예한 갈등 예상"
         ],
-        "quote": "학생들이 꿈을 향해 나아갈 수 있도록 지원을 아끼지 않겠다.",
-        "context": "지방자치단체의 입학준비금 지원은 저출산 시대에 교육의 공공성을 강화하고, 모든 학생이 균등한 교육 기회를 얻을 수 있도록 돕는 중요한 정책입니다. 이는 지역사회 교육 복지 증진에 기여하며 학부모들의 만족도를 높이는 효과를 가져옵니다.",
-        "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018980"
+        "quote": "미국 백악관의 새로운 처방약 가격 인하 프로그램인 '트럼프Rx'에 제약사들이 강력히 반발하고 있다.",
+        "context": "약가 인하 정책은 환자들의 의료비 부담을 줄이는 데 기여하지만, 제약사들의 연구 개발 투자 위축을 초래할 수 있습니다. 로비 활동 증가는 정책 결정에 영향을 미치려는 제약 산업의 이해관계를 명확히 보여주며, 이는 향후 약가 정책 논의에 중요한 변수가 될 것입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0013935230?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20smiling%20students%20%28elementary%2C%20middle%2C%20high%20school%29%20holding%20books%20and%20bags%2C%20with%20money%20flowing%20towards%20them%2C%20a%20bar%20chart%20showing%20the%20amount%20of%20aid%2C%20representing%20educational%20support.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=1980&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20magnifying%20glass%20over%20a%20pile%20of%20money%2C%20with%20a%20pie%20chart%20showing%20an%20increase%2C%20representing%20lobbying%20efforts%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60885&nologo=true"
     },
     {
-      "id": "economy-samsungbio-strike",
+      "id": "tech-nintendo-growth",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "timeline",
-      "title": "📉 삼성바이오 파업 ‘주가 털썩’",
-      "subtitle": "노조 파업 장기화, 주주 인내심 임계점",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar",
+      "title": "닌텐도 매출 🚀",
+      "subtitle": "2026 회계연도 전년비 98.6% 성장",
       "viz_data": {
         "stats": [
           {
-            "value": "5일",
-            "label": "전면 파업"
+            "value": "2조3130억엔",
+            "label": "매출"
           },
           {
-            "value": "무기한",
-            "label": "준법 투쟁"
+            "value": "98.6%",
+            "label": "성장률"
           },
           {
-            "value": "주주",
-            "label": "피해"
+            "value": "2026년",
+            "label": "회계연도"
           }
         ],
-        "main_number": "📉 하락",
-        "main_text": "노조 파업 장기화로 삼성바이오로직스 주가 하락"
+        "main_number": "+98.6%",
+        "main_text": "닌텐도 매출, 2026 회계연도 전년 대비 급성장"
       },
-      "image_prompt": "Cute infographic style, no text, pastel tones, a factory with union workers protesting, a stock chart showing a downward trend, and worried investors, representing the impact of a labor strike on company stock.",
+      "image_prompt": "Cute infographic style illustration of a Nintendo Switch console with an upward trend arrow and coins, pastel colors, no text.",
       "detail": {
-        "summary": "삼성바이오로직스 노동조합의 파업이 장기화되면서 주주들의 인내심이 임계점을 넘어서고 있습니다. 지난 1일부터 5일까지 이어진 전면 파업에 이어 무기한 준법 투쟁이 이어지고 있습니다.",
+        "summary": "닌텐도가 2026 회계연도 실적에서 매출 2조3130억엔을 기록하며 전년 대비 98.6%의 큰 폭 성장을 달성했습니다. 올해 1~3월 실적 호조에 힘입어 연간 기준으로도 높은 성장세를 유지했습니다.",
         "points": [
-          "삼성바이오로직스 노조 파업 장기화",
-          "지난 1일부터 5일까지 전면 파업 진행",
-          "무기한 준법 투쟁 전환",
-          "파업으로 인한 주가 하락과 주주 불만 증대"
+          "2026 회계연도 매출 2조 3,130억 엔 기록",
+          "전년 대비 98.6%라는 경이로운 성장률 달성",
+          "1분기 실적 호조가 연간 성장에 크게 기여",
+          "게임 산업 내 닌텐도의 강력한 시장 지배력 확인"
         ],
-        "quote": "기업의 발전은 노사 상생 없이는 불가능하다.",
-        "context": "대기업의 노사 갈등은 생산 차질을 넘어 기업 이미지와 주가에 직접적인 영향을 미칩니다. 특히 바이오 산업은 미래 성장 동력으로 주목받는 분야인 만큼, 이번 파업은 국내 산업 전반에 미치는 파급 효과가 클 것으로 예상됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002641154?sid=101"
+        "quote": "닌텐도가 올해 1~3월 실적에 해당하는 회계연도 4분기 호조에 힘입어 연간 기준 큰 폭의 성장세를 기록했다.",
+        "context": "글로벌 게임 시장에서 닌텐도의 지속적인 성장은 신규 게임 출시와 기존 IP의 성공적인 활용, 그리고 혁신적인 하드웨어 전략 덕분입니다. 이는 엔터테인먼트 기술 분야에서 기업의 성공적인 전략 수립이 얼마나 중요한지를 보여주는 사례입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/092/0002421985?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20a%20factory%20with%20union%20workers%20protesting%2C%20a%20stock%20chart%20showing%20a%20downward%20trend%2C%20and%20worried%20investors%2C%20representing%20the%20impact%20of%20a%20labor%20strike%20on%20company%20stock.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=14351&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20Nintendo%20Switch%20console%20with%20an%20upward%20trend%20arrow%20and%20coins%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92152&nologo=true"
     },
     {
-      "id": "tech-usgov-ai",
+      "id": "tech-zgen-career",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "donut",
+      "title": "Z세대, 생산직 선호 🧑‍🏭",
+      "subtitle": "연봉 7천만원, 블루칼라 인식 변화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "32%",
+            "label": "IT·배터리·반도체"
+          },
+          {
+            "value": "25%",
+            "label": "자동차·조선·항공"
+          },
+          {
+            "value": "19%",
+            "label": "미용·요리"
+          },
+          {
+            "value": "18%",
+            "label": "전기·전자"
+          }
+        ],
+        "main_number": "7천만원",
+        "main_text": "Z세대가 선호하는 생산직 연봉"
+      },
+      "image_prompt": "Cute infographic style illustration showing a Z-generation character choosing between different career paths with a pie chart representing industry preferences (IT, auto, beauty), pastel colors, no text.",
+      "detail": {
+        "summary": "Z세대가 연봉 7000만원의 생산직을 선호하는 등 블루칼라 직업에 대한 인식이 뚜렷하게 변화하고 있습니다. 특히 IT·배터리·반도체 분야가 32%로 가장 높은 선호도를 보였으며, AI 확산과 제조업 임금 상승이 이러한 변화를 이끌고 있습니다.",
+        "points": [
+          "Z세대 생산직 선호도 증가, 연봉 7000만원 조건",
+          "IT·배터리·반도체 분야 32%로 최선호",
+          "자동차·조선·항공(25%), 미용·요리(19%) 뒤이어",
+          "AI 확산과 제조업 임금 상승이 주요 원인"
+        ],
+        "quote": "가장 선호도가 높은 분야는 'IT·배터리·반도체'로 32%를 기록했다.",
+        "context": "과거 사무직을 선호하던 경향과 달리, Z세대는 높은 연봉과 안정성을 갖춘 기술 중심의 생산직에 주목하고 있습니다. 이러한 변화는 산업 구조와 노동 시장의 미래를 재편할 중요한 사회적, 경제적 트렌드로 자리매김할 것입니다.",
+        "source_url": "https://www.asiaa.co.kr/news/articleView.html?idxno=248772"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20showing%20a%20Z-generation%20character%20choosing%20between%20different%20career%20paths%20with%20a%20pie%20chart%20representing%20industry%20preferences%20%28IT%2C%20auto%2C%20beauty%29%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=43900&nologo=true"
+    },
+    {
+      "id": "tech-federal-ai-use",
       "is_headline": true,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "bar",
-      "title": "🇺🇸 AI 활용 4배 급증!",
-      "subtitle": "美 연방정부 AI 프로젝트 2년 새 3611건으로",
+      "title": "美 연방정부 AI 활용 🤖",
+      "subtitle": "2년 새 4배 증가, 2025년 3611건 전망",
       "viz_data": {
         "stats": [
           {
             "value": "4배",
-            "label": "활용 증가"
+            "label": "증가율 (2년)"
           },
           {
-            "value": "2년",
-            "label": "기간"
+            "value": "709건",
+            "label": "2023년 활용"
           },
           {
             "value": "3611건",
-            "label": "총 프로젝트"
+            "label": "2025년 전망"
+          },
+          {
+            "value": "41개",
+            "label": "기관 수"
           }
         ],
         "main_number": "+409.4%",
-        "main_text": "2023년 대비 2025년 AI 프로젝트 4배 이상 증가"
+        "main_text": "미 연방정부 AI 활용, 2년 만에 4배 넘게 급증"
       },
-      "image_prompt": "Cute infographic style, no text, pastel tones, US government buildings with AI robots assisting, showing a significant increase in AI utilization over time, bar chart elements integrated, futuristic and efficient.",
+      "image_prompt": "Cute infographic style illustration of a bar chart showing significant growth of AI usage in government, with a robot arm holding a clipboard and documents, pastel colors, no text.",
       "detail": {
-        "summary": "미 연방정부의 인공지능(AI) 활용 사례가 2년 만에 4배 이상 급증하며 디지털 전환을 가속화하고 있습니다. 2023년 709건에서 2025년에는 3611건으로 늘어날 전망입니다.",
+        "summary": "미 연방정부의 AI 활용 사례가 2023년 709건에서 2025년 3611건으로 2년 새 4배 이상 급증할 것으로 전망됩니다. 한국지능정보사회진흥원(NIA) 보고서에 따르면, MS, 구글, 팔란티어 등 빅테크 기업들이 이러한 확장을 주도하고 있습니다.",
         "points": [
-          "2023년 709건에서 2025년 3611건으로 증가 (21개→41개 기관)",
-          "2년 새 AI 활용 사례 409.4% 급증",
-          "MS, 구글, 팔란티어 등 빅테크 기업이 기반 제공",
-          "공공 부문의 AI 도입 및 활용 가속화 추세 반영"
+          "미 연방정부 AI 활용 사례 2년 새 4배 증가 예상",
+          "2023년 709건(21개 기관)에서 2025년 3611건(41개 기관)으로 급증",
+          "MS, 구글, 팔란티어 등 빅테크 기업의 기술 기여",
+          "공공 부문 디지털 전환 및 효율성 증대 기대"
         ],
-        "quote": "AI는 정부가 시민에게 더 나은 서비스를 제공하고 복잡한 문제를 해결할 수 있는 강력한 도구입니다.",
-        "context": "미 연방정부의 AI 활용 증가는 행정 효율성을 높이고, 데이터 기반 의사결정을 강화하는 중요한 전환점입니다. 이는 글로벌 AI 기술 경쟁에서 미국의 리더십을 공고히 하고, 미래 공공 서비스 모델을 제시하는 데 큰 의미가 있습니다.",
+        "quote": "미 연방정부 AI 활용 사례는 2023년 709건(21개 기관)에서 2024년 2133건, 2025년 3611건(이상 41개 기관)으로 늘었다.",
+        "context": "정부 기관의 AI 도입은 행정 효율성 증대, 대국민 서비스 개선, 국가 안보 강화 등 다양한 이점을 가져올 수 있습니다. 이러한 급속한 확장은 AI 기술이 더 이상 특정 산업에 국한되지 않고 사회 전반의 인프라로 자리 잡고 있음을 보여주는 중요한 지표입니다.",
         "source_url": "https://n.news.naver.com/mnews/article/092/0002421983?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20US%20government%20buildings%20with%20AI%20robots%20assisting%2C%20showing%20a%20significant%20increase%20in%20AI%20utilization%20over%20time%2C%20bar%20chart%20elements%20integrated%2C%20futuristic%20and%20efficient.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76462&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20bar%20chart%20showing%20significant%20growth%20of%20AI%20usage%20in%20government%2C%20with%20a%20robot%20arm%20holding%20a%20clipboard%20and%20documents%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98155&nologo=true"
     },
     {
-      "id": "tech-porsche-ev",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "flow",
-      "title": "🚘 포르쉐, 3개 자회사 폐쇄",
-      "subtitle": "전기차 전략 전면 수정…구조조정 단행",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3곳",
-            "label": "자회사 폐쇄"
-          },
-          {
-            "value": "실적악화",
-            "label": "원인"
-          },
-          {
-            "value": "인력 감축",
-            "label": "포함"
-          }
-        ],
-        "main_number": "3개 폐쇄",
-        "main_text": "포르쉐 전기차 사업 구조조정으로 3개 자회사 폐쇄"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, Porsche electric car in a subtle background, a flow chart showing a company restructuring process, with some branches closing down, representing changes in EV strategy.",
-      "detail": {
-        "summary": "포르쉐가 실적 악화와 전기차 수요 둔화에 대응하기 위해 전기차 전략을 전면 수정하고 고강도 구조조정을 단행했습니다. 이 과정에서 자회사 3곳을 폐쇄하고 인력 감축도 진행했습니다.",
-        "points": [
-          "포르쉐 실적 악화 및 전기차 수요 둔화 직면",
-          "전기차 전략 전면 수정 및 구조조정 단행",
-          "자회사 3곳 폐쇄 결정",
-          "인력 감축을 포함한 고강도 조치 시행"
-        ],
-        "quote": "시장의 변화에 빠르게 대응하는 것이 미래를 위한 필수적인 선택이다.",
-        "context": "고급 전기차 시장에서도 예상보다 더딘 성장세가 나타나면서, 전통 완성차 기업들은 전기차 전환 속도와 투자 전략을 재검토하고 있습니다. 포르쉐의 이번 결정은 전기차 시장의 불확실성이 커지고 있음을 보여주는 사례로, 다른 자동차 제조사들에게도 시사하는 바가 큽니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026051008485971222bd56fbc3c_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20Porsche%20electric%20car%20in%20a%20subtle%20background%2C%20a%20flow%20chart%20showing%20a%20company%20restructuring%20process%2C%20with%20some%20branches%20closing%20down%2C%20representing%20changes%20in%20EV%20strategy.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24956&nologo=true"
-    },
-    {
-      "id": "tech-oled-compete",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar",
-      "title": "💡 OLED 기술 경쟁 심화",
-      "subtitle": "삼성 '센서', LG '수명'…AI 시대 디스플레이 혁신",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "-18%",
-            "label": "소비전력 감소"
-          },
-          {
-            "value": "3세대",
-            "label": "탠덤 OLED"
-          },
-          {
-            "value": "2019년",
-            "label": "상용화"
-          }
-        ],
-        "main_number": "-18%",
-        "main_text": "LG 3세대 탠덤 OLED, 소비전력 18% 감소"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, two robots (representing Samsung and LG) competing, one holding a display with sensors, the other with a glowing, long-lasting display, bar charts comparing power consumption and lifespan, showcasing OLED technology competition.",
-      "detail": {
-        "summary": "삼성과 LG가 세계 최대 디스플레이 행사 'SID 디스플레이 위크'에서 AI 시대의 OLED 기술 경쟁을 펼쳤습니다. 삼성은 센서 내장 기술을, LG는 3세대 탠덤 OLED를 통해 소비전력을 18% 줄이고 수명을 늘렸다고 발표했습니다.",
-        "points": [
-          "세계 최대 디스플레이 행사 'SID 디스플레이 위크' 개최",
-          "삼성은 '센서 내장 OLED' 기술 공개",
-          "LG는 '3세대 탠덤 OLED'로 소비전력 18% 감소 및 수명 증대",
-          "AI 시대 디스플레이 혁신 기술 경쟁 심화"
-        ],
-        "quote": "차세대 디스플레이는 단순히 보는 것을 넘어, 사용자 경험을 혁신할 것이다.",
-        "context": "AI 기술의 발전과 함께 디스플레이는 단순한 화면을 넘어 정보 입력 및 상호작용의 핵심 도구로 진화하고 있습니다. 삼성과 LG의 OLED 기술 경쟁은 AI 기기와의 연동성, 사용자 편의성, 에너지 효율성 등 미래 디스플레이 시장의 핵심 가치를 제시하며 기술 혁신을 주도하고 있습니다.",
-        "source_url": "http://www.thebigdata.co.kr/view.php?ud=2026050814534914080ecbf9426b_23"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20two%20robots%20%28representing%20Samsung%20and%20LG%29%20competing%2C%20one%20holding%20a%20display%20with%20sensors%2C%20the%20other%20with%20a%20glowing%2C%20long-lasting%20display%2C%20bar%20charts%20comparing%20power%20consumption%20and%20lifespan%2C%20showcasing%20OLED%20technology%20competition.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=5286&nologo=true"
-    },
-    {
-      "id": "society-breach-law",
+      "id": "society-local-election",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "grid",
-      "title": "⚖️ 배임죄 폐지 논의",
-      "subtitle": "새로운 '재산관리 특례법' 제정 추진",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "폐지",
-            "label": "배임죄"
-          },
-          {
-            "value": "제정",
-            "label": "특례법"
-          },
-          {
-            "value": "금융권",
-            "label": "기대/우려"
-          }
-        ],
-        "main_number": "법 개정",
-        "main_text": "배임죄 폐지 및 재산관리 특례법 제정 추진"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, a balance scale with 'Breach of Trust' on one side and 'Special Act on Property Management' on the other, showing a legislative reform in progress, with pros and cons listed.",
-      "detail": {
-        "summary": "당정이 배임죄를 폐지하고 이를 대체할 '재산관리 의무 위반 행위에 관한 처벌 특례법' 제정을 추진하고 있습니다. 금융권에서는 기대와 우려가 교차하고 있습니다.",
-        "points": [
-          "더불어민주당과 법무부, 배임죄 폐지 추진",
-          "'재산관리 의무 위반 행위에 관한 처벌 특례법' 제정",
-          "경영 환경 개선 기대 및 처벌 공백 우려 공존",
-          "금융권 등 이해관계자 반응 주시"
-        ],
-        "quote": "시대 변화에 맞춰 법의 적용 범위와 정의를 명확히 할 필요가 있다.",
-        "context": "배임죄는 경영 활동의 위축을 가져온다는 비판과 함께 기업인의 책임 회피 수단이 될 수 있다는 논란이 끊이지 않았습니다. 이번 법 개정 논의는 경제 활성화와 기업인의 법적 안정성 확보라는 측면에서 중요한 의미를 가지지만, 한편으로는 금융 범죄에 대한 처벌 공백을 막기 위한 정교한 설계가 필요합니다.",
-        "source_url": "https://www.asiatime.co.kr/article/20260507500333"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20a%20balance%20scale%20with%20%27Breach%20of%20Trust%27%20on%20one%20side%20and%20%27Special%20Act%20on%20Property%20Management%27%20on%20the%20other%2C%20showing%20a%20legislative%20reform%20in%20progress%2C%20with%20pros%20and%20cons%20listed.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=191&nologo=true"
-    },
-    {
-      "id": "society-happiness-index",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar",
-      "title": "📉 행복지표 하락",
-      "subtitle": "경제 성장에도 저출산·자살률 등 사회 지표 악화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "국민 체감",
-            "label": "행복도 낮음"
-          },
-          {
-            "value": "자살률",
-            "label": "높음"
-          },
-          {
-            "value": "저출산",
-            "label": "심화"
-          }
-        ],
-        "main_number": "지표 변화",
-        "main_text": "경제 성장에도 불구하고 사회 행복 지표 악화"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, a graph showing economic growth (upward line) juxtaposed with graphs showing declining happiness, rising suicide rates, and falling birth rates, representing a societal paradox.",
-      "detail": {
-        "summary": "경제 성장을 이루었음에도 불구하고 국민 체감 행복도가 낮고 자살률과 저출산 등 사회 지표가 악화되는 상황입니다. 이에 지방정부는 '주민행복 중심 행정'으로의 전환을 모색하고 있습니다.",
-        "points": [
-          "국민 체감 행복도 낮은 수준 유지",
-          "자살률 및 저출산 등 사회 지표 악화",
-          "구리시장 예비후보, 주민행복 중심 행정 전환 협약",
-          "일자리, 돌봄, 교육 등 분야별 행복 정책 추진"
-        ],
-        "quote": "행복은 GDP만으로 측정될 수 없다.",
-        "context": "경제적 풍요가 반드시 사회 구성원의 행복으로 이어지지 않는다는 점은 현대 사회의 중요한 과제입니다. 특히 저출산과 같은 문제는 국가의 지속가능성에 직결되는 만큼, 경제 성장과 더불어 사회적 행복과 삶의 질을 높이는 정책적 노력이 절실합니다.",
-        "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018951"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20a%20graph%20showing%20economic%20growth%20%28upward%20line%29%20juxtaposed%20with%20graphs%20showing%20declining%20happiness%2C%20rising%20suicide%20rates%2C%20and%20falling%20birth%20rates%2C%20representing%20a%20societal%20paradox.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83249&nologo=true"
-    },
-    {
-      "id": "society-voter-demographics",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "donut",
-      "title": "🗳️ 첫 투표부터 90대까지",
-      "subtitle": "다양한 세대가 '더 나은 제주'를 위해 한 표",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "고3",
-            "label": "최연소"
-          },
-          {
-            "value": "90대",
-            "label": "최고령"
-          },
-          {
-            "value": "재외동포",
-            "label": "참여"
-          }
-        ],
-        "main_number": "다양한 연령",
-        "main_text": "생애 첫 투표 고3부터 90대 노인까지 투표 참여"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, a diverse group of people from a young student to an elderly person, all holding voting ballots, a donut chart showing various age demographics participating in an election, representing voter diversity.",
-      "detail": {
-        "summary": "생애 첫 투표를 앞둔 고등학생부터 일본에 거주하는 재일 제주인, 그리고 90대 노인까지 '더 나은 제주와 사회'를 바라는 마음으로 선거에 참여했습니다. 세대와 환경은 달라도 변화를 바라는 마음은 같았습니다.",
-        "points": [
-          "고등학생의 생애 첫 투표 경험",
-          "재일 제주인의 해외 투표 참여",
-          "90대 노인의 꾸준한 투표 참여",
-          "모든 세대가 '더 나은 사회'를 염원"
-        ],
-        "quote": "사회 구성원으로 인정받은 느낌이에요.",
-        "context": "투표는 민주주의 사회에서 국민의 가장 기본적인 권리이자 의무입니다. 다양한 연령층과 배경을 가진 유권자들이 참여하는 것은 선거의 정당성을 높이고, 사회 전체의 목소리가 정책에 반영될 수 있는 중요한 기반을 마련합니다. 이는 공동체의 미래를 결정하는 데 중요한 역할을 합니다.",
-        "source_url": "https://www.jejusori.net/news/articleView.html?idxno=502612"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20a%20diverse%20group%20of%20people%20from%20a%20young%20student%20to%20an%20elderly%20person%2C%20all%20holding%20voting%20ballots%2C%20a%20donut%20chart%20showing%20various%20age%20demographics%20participating%20in%20an%20election%2C%20representing%20voter%20diversity.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61836&nologo=true"
-    },
-    {
-      "id": "life-book-bread-festival",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "bar",
-      "title": "📚 관악 '책빵축제' 개막",
-      "subtitle": "책과 빵으로 지역 경제·문화 연결",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "지역 상권",
-            "label": "활성화"
-          },
-          {
-            "value": "문화 예술",
-            "label": "교류"
-          },
-          {
-            "value": "관악구",
-            "label": "개최지"
-          }
-        ],
-        "main_number": "다수 참여",
-        "main_text": "관악구 내 빵집·서점·주민·예술인 다수 참여"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, a cozy scene with open books and delicious breads, people happily interacting, a bar chart showing participation numbers from local businesses and residents, representing a community festival.",
-      "detail": {
-        "summary": "관악구에서 '책빵축제'가 개막하여 지역 내 빵집과 서점, 주민, 예술인이 함께 참여하며 지역 경제와 문화를 연결하는 새로운 라이프스타일을 제안했습니다. 일상적인 소재를 통해 주민 삶의 여유를 제공합니다.",
-        "points": [
-          "관악구에서 '책빵축제' 성황리 개최",
-          "지역 빵집, 서점, 주민, 예술인 협력",
-          "지역 경제 활성화 및 문화 교류 증진",
-          "책과 빵을 통한 새로운 라이프스타일 제안"
-        ],
-        "quote": "일상 속 작은 여유가 큰 행복으로 이어진다.",
-        "context": "지역 문화 축제는 단순한 오락을 넘어 지역 상권 활성화와 공동체 의식 함양에 중요한 역할을 합니다. 특히 '책'과 '빵'이라는 친숙한 소재를 결합한 축제는 주민들에게 문화적 경험을 제공하고, 지역 특색을 살린 새로운 관광 콘텐츠로 발전할 가능성이 있습니다.",
-        "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018983"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20a%20cozy%20scene%20with%20open%20books%20and%20delicious%20breads%2C%20people%20happily%20interacting%2C%20a%20bar%20chart%20showing%20participation%20numbers%20from%20local%20businesses%20and%20residents%2C%20representing%20a%20community%20festival.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26831&nologo=true"
-    },
-    {
-      "id": "life-beverage-trend",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "bar",
-      "title": "🥤 대용량 음료 선호↑",
-      "subtitle": "여름 앞두고 커피·식품업계 수분공급 경쟁",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2L",
-            "label": "평균 용량"
-          },
-          {
-            "value": "여름",
-            "label": "계절 특수"
-          },
-          {
-            "value": "손실 회피",
-            "label": "심리 작용"
-          }
-        ],
-        "main_number": "대용량 선호",
-        "main_text": "소비자들의 대용량 음료 구매 경향 증가"
-      },
-      "image_prompt": "Cute infographic style, no text, pastel tones, giant cups of coffee and beverages, people enjoying refreshing drinks on a sunny day, a bar chart showing increasing preference for large volume drinks, representing summer beverage trends.",
-      "detail": {
-        "summary": "커피·식품업계가 여름을 앞두고 수분공급 음료 경쟁에 돌입했습니다. 소비자들이 대용량 음료를 선호하는 경향이 뚜렷하며, 이는 단위 가격이 낮다는 판단과 손실 회피 심리에 영향을 받기 때문입니다.",
-        "points": [
-          "여름 시즌 대비 커피·식품업계 음료 경쟁",
-          "소비자들의 대용량 음료 선호 현상",
-          "2L 음료 구입 경향 증가",
-          "단위 가격, 손실 회피 심리 등 복합 작용"
-        ],
-        "quote": "합리적인 소비와 시원한 즐거움을 동시에 추구한다.",
-        "context": "계절적 요인과 경제적 합리성을 추구하는 소비 심리가 맞물려 대용량 음료 시장이 성장하고 있습니다. 이는 음료 제조사들에게는 새로운 마케팅 기회를 제공하며, 소비자들에게는 다양한 선택지를 제공합니다. 앞으로도 대용량 제품의 출시와 경쟁이 활발할 것으로 예상됩니다.",
-        "source_url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=359731"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20giant%20cups%20of%20coffee%20and%20beverages%2C%20people%20enjoying%20refreshing%20drinks%20on%20a%20sunny%20day%2C%20a%20bar%20chart%20showing%20increasing%20preference%20for%20large%20volume%20drinks%2C%20representing%20summer%20beverage%20trends.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32041&nologo=true"
-    },
-    {
-      "id": "life-character-collab",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
       "viz_type": "timeline",
-      "title": "🐰 에스더버니 콜라보",
-      "subtitle": "틈결, 패션·주얼리 분야 국내 첫 사례",
+      "title": "6.3 지방선거 일정 🗓️",
+      "subtitle": "이번 주 후보 등록, 6곳 접전 양상",
       "viz_data": {
         "stats": [
           {
-            "value": "5월 1일",
-            "label": "시작"
+            "value": "14~15일",
+            "label": "후보 등록"
           },
           {
-            "value": "틈결",
-            "label": "브랜드"
+            "value": "21일",
+            "label": "선거운동 시작"
           },
           {
-            "value": "패션·주얼리",
-            "label": "카테고리"
+            "value": "29~30일",
+            "label": "사전투표"
+          },
+          {
+            "value": "6월 3일",
+            "label": "본투표"
           }
         ],
-        "main_number": "첫 사례",
-        "main_text": "캐릭터 IP, 패션·주얼리 분야로 국내 최초 확장"
+        "main_number": "6곳",
+        "main_text": "광역단체장 접전 예상 지역"
       },
-      "image_prompt": "Cute infographic style, no text, pastel tones, a famous cartoon bunny character (Esther Bunny) integrated into fashion items and jewelry, showing a timeline of the collaboration launch, representing a new trend in character IP expansion.",
+      "image_prompt": "Cute infographic style illustration of a calendar marking key election dates (candidate registration, campaigning, voting), with a ballot box, pastel colors, no text.",
       "detail": {
-        "summary": "틈결이 인기 캐릭터 에스더버니와 콜라보 컬렉션을 온·오프라인 동시 판매하며 캐릭터 IP의 패션 및 주얼리 분야 확장을 국내 최초로 시도했습니다. 이는 캐릭터 IP의 새로운 활용 가능성을 제시합니다.",
+        "summary": "오는 6월 3일 치러지는 지방선거의 후보자 등록이 14~15일 이틀간 진행됩니다. 공식 선거운동은 21일부터 2주간 실시되며, 현재 광역단체장 6곳이 접전 양상을 보이고 있어 치열한 선거전이 예상됩니다.",
         "points": [
-          "틈결과 에스더버니 콜라보 컬렉션 출시 (5월 1일)",
-          "패션 및 주얼리 카테고리로 IP 확장",
-          "캐릭터 IP의 국내 최초 패션·주얼리 분야 진출 사례",
-          "온·오프라인 동시 판매로 소비자 접점 확대"
+          "후보자 등록 5월 14일~15일 진행",
+          "공식 선거운동 5월 21일부터 2주간 실시",
+          "사전투표는 5월 29일~30일 이틀간 진행",
+          "광역단체장 선거 6곳에서 치열한 접전 예상"
         ],
-        "quote": "캐릭터는 더 이상 단순히 보는 것을 넘어, 삶의 일부가 된다.",
-        "context": "캐릭터 IP(지식재산)를 활용한 마케팅은 강력한 팬덤을 기반으로 제품 판매를 넘어 브랜드 가치를 높이는 효과적인 전략입니다. 특히 패션 및 주얼리 분야로의 확장은 캐릭터의 영향력이 단순 팬시 제품을 넘어 라이프스타일 전반으로 확대될 수 있음을 보여주며, 새로운 시장 창출의 가능성을 열어줍니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006277305?sid=101"
+        "quote": "6·3 지방선거 후보자 등록이 오는 14~15일 이틀간 진행된다.",
+        "context": "지방선거는 지역 주민들의 삶에 직접적인 영향을 미치는 중요한 정치 행사입니다. 후보 등록과 선거 운동 개시는 유권자들이 각 후보의 공약과 비전을 비교하고 판단할 수 있는 기회를 제공하며, 지역의 미래를 결정하는 중요한 과정입니다.",
+        "source_url": "https://www.newspim.com/news/view/20260510000005"
       },
-      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%2C%20no%20text%2C%20pastel%20tones%2C%20a%20famous%20cartoon%20bunny%20character%20%28Esther%20Bunny%29%20integrated%20into%20fashion%20items%20and%20jewelry%2C%20showing%20a%20timeline%20of%20the%20collaboration%20launch%2C%20representing%20a%20new%20trend%20in%20character%20IP%20expansion.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87193&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20calendar%20marking%20key%20election%20dates%20%28candidate%20registration%2C%20campaigning%2C%20voting%29%2C%20with%20a%20ballot%20box%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32734&nologo=true"
+    },
+    {
+      "id": "society-election-crime",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar",
+      "title": "선거사범 대응 강화 🚨",
+      "subtitle": "경찰, 3단계 격상 및 AI 가짜뉴스 정조준",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3단계",
+            "label": "대응 체계"
+          },
+          {
+            "value": "가짜뉴스",
+            "label": "주요 단속 대상"
+          },
+          {
+            "value": "금품선거",
+            "label": "주요 단속 대상"
+          },
+          {
+            "value": "공무원 중립",
+            "label": "주요 단속 대상"
+          }
+        ],
+        "main_number": "3대",
+        "main_text": "민주주의 근간 해치는 선거범죄 '무관용 원칙' 수사"
+      },
+      "image_prompt": "Cute infographic style illustration of a police officer stopping fake news (represented by a speech bubble with an 'X') and money, with a bar chart showing increasing enforcement, pastel colors, no text.",
+      "detail": {
+        "summary": "경찰이 제9회 전국동시지방선거를 앞두고 선거사범 대응 체계를 최고 수준인 3단계로 격상했습니다. 특히 AI를 활용한 가짜뉴스 유포 등 흑색선전과 금품·향응 수수, 공무원의 정치적 중립 의무 위반 등 3대 선거범죄에 대해 '무관용 원칙'으로 강력히 수사할 방침입니다.",
+        "points": [
+          "선거사범 대응 체계 최고 수준인 3단계 격상",
+          "AI 활용 가짜뉴스 유포 등 흑색선전 집중 단속",
+          "금품·향응 수수 및 공무원 정치 중립 위반도 강력 대응",
+          "민주주의 근간 훼손하는 범죄에 무관용 원칙 적용"
+        ],
+        "quote": "민주주의 근간을 해치는 3대 선거범죄는 ‘무관용 원칙’으로 수사한다는 방침이다.",
+        "context": "선거의 공정성은 민주주의의 핵심 가치입니다. AI 기술 발전으로 가짜뉴스 확산이 쉬워지면서 선거 조작의 위험이 커진 상황에서, 경찰의 선거사범 대응 강화는 깨끗하고 투명한 선거 환경을 조성하고 유권자의 올바른 선택을 돕는 데 필수적입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/629/0000497799?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20police%20officer%20stopping%20fake%20news%20%28represented%20by%20a%20speech%20bubble%20with%20an%20%27X%27%29%20and%20money%2C%20with%20a%20bar%20chart%20showing%20increasing%20enforcement%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73423&nologo=true"
+    },
+    {
+      "id": "society-four-day-week",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar",
+      "title": "주 4일 근무제 유지 💡",
+      "subtitle": "사회적·경제적 효용 확인, 전 세계 이목 집중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "다수 기업",
+            "label": "유지 기업 수"
+          },
+          {
+            "value": "사회적 효용",
+            "label": "긍정적 영향"
+          },
+          {
+            "value": "경제적 효용",
+            "label": "긍정적 영향"
+          }
+        ],
+        "main_number": "✅",
+        "main_text": "실험 종료 후 주 4일 근무제 유지 결정한 기업들"
+      },
+      "image_prompt": "Cute infographic style illustration of a calendar showing a shorter work week (4 days) with happy workers and positive outcome graphs, pastel colors, no text.",
+      "detail": {
+        "summary": "전 세계의 이목을 집중시킨 주 4일 근무제 실험에서 참여 기업 대다수가 실험 종료 후에도 이 제도를 유지하기로 했습니다. 이는 저자가 최신 사례와 데이터를 바탕으로 확인한 사회적 및 경제적 효용을 입증하는 결과입니다.",
+        "points": [
+          "주 4일 근무제 실험 참여 기업 대다수, 제도 유지 결정",
+          "사회적 및 경제적 효용이 데이터로 확인됨",
+          "조직 및 개인 차원의 전환 전략 제시",
+          "전 세계적으로 주 4일 근무제 논의 활성화 기대"
+        ],
+        "quote": "참여 기업 대다수가 실험 종료 후에도 주4일 근무제를 유지하기로 하면서, 이 연구는 전 세계의 이목을 집중시켰다.",
+        "context": "주 4일 근무제는 노동 생산성 향상, 직원 만족도 증진, 탄소 배출 감소 등 다양한 긍정적 효과가 기대되는 동시에, 일부에서는 기업의 부담 증가나 서비스 품질 저하 우려도 제기됩니다. 이번 연구 결과는 미래의 근무 형태 변화에 대한 중요한 통찰을 제공할 것입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/665/0000007346?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20calendar%20showing%20a%20shorter%20work%20week%20%284%20days%29%20with%20happy%20workers%20and%20positive%20outcome%20graphs%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19453&nologo=true"
+    },
+    {
+      "id": "life-fandom-marketing",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "flow",
+      "title": "팬덤 마케팅 진화 🎤",
+      "subtitle": "치킨·커피 브랜드도 콘서트 개최",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "치킨",
+            "label": "참여 브랜드"
+          },
+          {
+            "value": "커피",
+            "label": "참여 브랜드"
+          },
+          {
+            "value": "콘서트",
+            "label": "주요 활동"
+          }
+        ],
+        "main_number": "ESG+",
+        "main_text": "팬덤 마케팅과 ESG 경영 결합"
+      },
+      "image_prompt": "Cute infographic style illustration of a concert stage with fans and logos of unexpected brands (like a chicken brand and a coffee cup brand), pastel colors, no text.",
+      "detail": {
+        "summary": "최근 치킨, 커피 등 다양한 브랜드들이 콘서트를 개최하며 팬덤 마케팅을 강화하고 있습니다. 기업이 행사 비용을 부담하고 현장 수익을 사회에 환원하는 방식으로 ESG 경영의 의미까지 더해, 새로운 마케팅 트렌드를 형성하고 있습니다.",
+        "points": [
+          "치킨, 커피 브랜드 등 다양한 기업의 콘서트 개최",
+          "팬덤을 활용한 마케팅 전략 강화",
+          "행사 수익 사회 환원으로 ESG 경영 실천",
+          "기업의 사회적 책임과 마케팅의 결합"
+        ],
+        "quote": "기업이 행사 비용을 부담하고 현장 수익을 사회에 환원하는 방식으로 ESG 경영 의미를 더했다.",
+        "context": "소비자들은 단순히 제품을 구매하는 것을 넘어 브랜드의 가치와 스토리에 공감하고 싶어 합니다. 팬덤 마케팅은 이러한 소비자들의 니즈를 충족시키면서 브랜드 충성도를 높이고, ESG 경영과의 결합을 통해 기업 이미지 제고에도 기여하는 효과적인 전략으로 주목받고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/031/0001027485?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20concert%20stage%20with%20fans%20and%20logos%20of%20unexpected%20brands%20%28like%20a%20chicken%20brand%20and%20a%20coffee%20cup%20brand%29%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56247&nologo=true"
+    },
+    {
+      "id": "life-badminton-festival",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "grid",
+      "title": "삼성생명 배드민턴 🏸",
+      "subtitle": "페스티벌 개최, 안세영 등 정상급 선수 참가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1위",
+            "label": "세계 랭킹 (안세영)"
+          },
+          {
+            "value": "정상급",
+            "label": "선수 참여"
+          },
+          {
+            "value": "팬 사인회",
+            "label": "주요 이벤트"
+          }
+        ],
+        "main_number": "성공적",
+        "main_text": "성황리에 진행된 삼성생명 배드민턴 페스티벌"
+      },
+      "image_prompt": "Cute infographic style illustration of a badminton court with players (one identifiable as a top player) and cheering crowd, showcasing a sports festival, pastel colors, no text.",
+      "detail": {
+        "summary": "삼성생명이 2026 배드민턴 페스티벌을 성공적으로 개최했습니다. 세계 랭킹 1위 안세영 선수를 비롯해 서승재, 김원호 등 정상급 선수들이 시범경기를 선보여 관중들의 뜨거운 호응을 얻었으며, 팬 사인회도 성황리에 진행되었습니다.",
+        "points": [
+          "2026 삼성생명 배드민턴 페스티벌 개최",
+          "세계 랭킹 1위 안세영 선수 등 정상급 선수 참가",
+          "시범경기 및 팬 사인회 등 다양한 프로그램 운영",
+          "배드민턴 동호인 및 팬들의 높은 참여와 관심"
+        ],
+        "quote": "세계랭킹 1위 안세영 선수를 비롯해 서승재, 김원호 등 정상급 선수들이 시범경기를 선보이자 관중석에서는 환호가 이어졌다.",
+        "context": "스포츠 페스티벌은 생활 체육 활성화와 특정 종목에 대한 대중의 관심을 높이는 데 기여합니다. 특히 유명 선수들의 참여는 일반 동호인들에게 동기 부여가 되고, 스포츠를 통해 건강한 여가 문화를 확산하는 데 중요한 역할을 합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/030/0003425733?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20badminton%20court%20with%20players%20%28one%20identifiable%20as%20a%20top%20player%29%20and%20cheering%20crowd%2C%20showcasing%20a%20sports%20festival%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65126&nologo=true"
+    },
+    {
+      "id": "life-bookstart-week",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "donut",
+      "title": "북스타트 주간 📖",
+      "subtitle": "226개 기관 참여, 그림책으로 독서 흥미",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "226개",
+            "label": "참여 기관"
+          },
+          {
+            "value": "선물",
+            "label": "올해 주제"
+          },
+          {
+            "value": "책 읽는 사회",
+            "label": "주최 재단"
+          }
+        ],
+        "main_number": "226",
+        "main_text": "전국 226개 기관이 함께 참여하는 독서 진흥 프로젝트"
+      },
+      "image_prompt": "Cute infographic style illustration of a child happily reading a book, surrounded by colorful stacked books, with a donut chart showing participation, pastel colors, no text.",
+      "detail": {
+        "summary": "고양시 마두도서관에서 '북스타트 주간'을 맞아 그림책 읽기와 체험 활동을 진행합니다. 북스타트코리아와 책읽는사회문화재단이 주최하는 이 사업은 전국 226개 기관이 참여하며, 올해 주제는 '선물'로 아이들이 책을 통해 독서에 대한 흥미를 키우도록 돕습니다.",
+        "points": [
+          "고양시 마두도서관 '북스타트 주간' 진행",
+          "그림책 읽기 및 체험 활동으로 구성",
+          "전국 226개 기관이 참여하는 대규모 독서 진흥 프로젝트",
+          "올해 주제는 '선물', 아이들의 독서 흥미 유발 목표"
+        ],
+        "quote": "전국 226개 기관이 함께 참여하는 독서 진흥 프로젝트다.",
+        "context": "어린 시절 독서 경험은 평생 학습 능력과 정서 발달에 큰 영향을 미칩니다. '북스타트'와 같은 프로그램은 영유아기부터 책과 친해질 기회를 제공함으로써 아이들의 건강한 성장과 독서 문화 확산에 중요한 역할을 합니다. 특히 전국적인 참여는 그 파급 효과를 더욱 증대시킵니다.",
+        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=202035"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/Cute%20infographic%20style%20illustration%20of%20a%20child%20happily%20reading%20a%20book%2C%20surrounded%20by%20colorful%20stacked%20books%2C%20with%20a%20donut%20chart%20showing%20participation%2C%20pastel%20colors%2C%20no%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83322&nologo=true"
     }
   ],
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T09:07:54.275573+09:00"
+  "generated_at": "2026-05-10T09:13:41.560656+09:00"
 }
