@@ -4,7 +4,7 @@ News.pic 일일 생성 스크립트
 
 흐름:
 1. 네이버에서 오늘 주요 뉴스 수집
-2. Gemini로 5~7개 선별 + 카드 데이터 생성
+2. Gemini로 카테고리별 2~3개씩 12~15개 + 헤드라인 1개 선별
 3. 각 뉴스마다 Pollinations로 이미지 URL 생성
 4. data/YYYY-MM-DD.json 으로 저장
 """
@@ -28,7 +28,7 @@ TODAY = datetime.now(KST).strftime("%Y-%m-%d")
 # ===== 1. 네이버에서 뉴스 수집 =====
 def fetch_news():
     """네이버 검색 API로 카테고리별 주요 뉴스 수집"""
-    categories = ["정치", "경제", "IT", "사회", "세계", "문화"]
+    categories = ["정치", "경제", "IT", "사회", "세계", "문화", "라이프"]
     all_news = []
 
     headers = {
@@ -37,7 +37,8 @@ def fetch_news():
     }
 
     for cat in categories:
-        url = f"https://openapi.naver.com/v1/search/news.json?query={urllib.parse.quote(cat)}&display=15&sort=date"
+        # 카테고리당 더 많이 수집해서 Gemini가 잘 고를 수 있게
+        url = f"https://openapi.naver.com/v1/search/news.json?query={urllib.parse.quote(cat)}&display=20&sort=date"
         try:
             r = requests.get(url, headers=headers, timeout=10)
             r.raise_for_status()
@@ -63,22 +64,28 @@ def fetch_news():
 
 # ===== 2. Gemini로 큐레이션 + 카드 데이터 생성 =====
 def curate_with_gemini(news_list):
-    """Gemini가 좋은 뉴스 5~7개 선별하고 인포그래픽 카드 데이터로 변환"""
+    """Gemini가 카테고리별 2~3개씩 + 헤드라인 1개를 선별"""
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel("gemini-2.5-flash")
 
-    # 뉴스 목록을 텍스트로 변환
+    # 뉴스 목록을 텍스트로 변환 (앞에서 100개까지)
     news_text = "\n\n".join([
         f"[{i}] ({n['category_hint']}) {n['title']}\n   설명: {n['description']}\n   링크: {n['link']}"
-        for i, n in enumerate(news_list[:60])  # 너무 많으면 토큰 초과
+        for i, n in enumerate(news_list[:100])
     ])
 
-    prompt = f"""당신은 뉴스 큐레이터입니다. 아래 뉴스 목록 중 오늘의 인포그래픽 카드로 만들 5개를 선별하세요.
+    prompt = f"""당신은 뉴스 큐레이터입니다. 아래 뉴스 목록 중 오늘의 인포그래픽 카드로 만들 뉴스를 선별하세요.
 
 선별 기준:
-1. 많은 사람에게 영향을 주는 중요한 뉴스
-2. 인포그래픽으로 표현 가능 (숫자, 비교, 타임라인, 비율 등이 있어야 함)
-3. 카테고리 다양하게 분산 (한 카테고리에 몰리지 않게)
+1. 다음 5개 카테고리에서 각 2~3개씩 선별 (총 12~15개):
+   - world (국제): 국제 정치, 외교, 세계 이슈
+   - economy (경제): 주식, 부동산, 산업, 금융
+   - tech (기술): IT, AI, 과학기술, 신제품
+   - society (사회): 정치, 사회 이슈, 정책
+   - life (라이프): 문화, 트렌드, 일상
+
+2. 그중 가장 중요한 1개를 "is_headline": true 로 표시 (헤드라인)
+3. 인포그래픽으로 표현 가능 (숫자, 비교, 타임라인, 비율 등이 있어야 함)
 4. 다음은 무조건 제외:
    - 사망/사고/범죄 관련 뉴스
    - 운세/별자리/연예 가십
@@ -90,12 +97,13 @@ def curate_with_gemini(news_list):
 {{
   "cards": [
     {{
-      "id": "고유ID (영어 소문자, 예: ceasefire)",
+      "id": "고유ID (영어 소문자, 카테고리별로 고유해야 함, 예: world-ceasefire)",
+      "is_headline": false,
       "category": "world|economy|tech|society|life",
-      "category_label": "🌍 국제|💰 경제|💻 기술|🏛 사회|🌱 라이프",
+      "category_label": "🌍 국제|💰 경제|💻 기술|🏛 사회|🌱 라이프 중 하나",
       "viz_type": "timeline|bar|donut|grid|flow",
       "title": "카드 제목 (이모지 포함, 20자 이내)",
-      "subtitle": "한 줄 설명 (30자 이내, 이탤릭체로 들어감)",
+      "subtitle": "한 줄 설명 (30자 이내)",
       "viz_data": {{
         "stats": [
           {{"value": "3일", "label": "기간"}},
@@ -117,6 +125,13 @@ def curate_with_gemini(news_list):
   ]
 }}
 
+⚠️ 중요:
+- 카테고리당 정확히 2~3개씩 골라주세요
+- 총 12~15개 사이여야 합니다
+- 정확히 1개만 is_headline=true로 표시
+- 같은 카테고리 안에서 id가 중복되지 않게
+- category와 category_label은 정확히 위 5개 중 하나여야 함
+
 뉴스 목록:
 {news_text}
 """
@@ -133,7 +148,21 @@ def curate_with_gemini(news_list):
             text = text.strip()
 
         data = json.loads(text)
-        print(f"✅ Gemini가 {len(data.get('cards', []))}개 카드 생성")
+        cards = data.get("cards", [])
+
+        # 카테고리별 카드 수 출력
+        cat_counts = {}
+        headline_count = 0
+        for c in cards:
+            cat = c.get("category", "unknown")
+            cat_counts[cat] = cat_counts.get(cat, 0) + 1
+            if c.get("is_headline"):
+                headline_count += 1
+
+        print(f"✅ Gemini가 총 {len(cards)}개 카드 생성")
+        print(f"   카테고리별: {cat_counts}")
+        print(f"   헤드라인: {headline_count}개")
+
         return data
     except Exception as e:
         print(f"❌ Gemini 큐레이션 실패: {e}")
