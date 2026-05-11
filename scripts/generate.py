@@ -1,13 +1,16 @@
 """
-News.pic 일일 생성 스크립트 (v2: 이미지 미리 다운로드)
+News.pic 일일 생성 스크립트 (v3: 안정성 개선)
 
-흐름:
-1. 네이버에서 오늘 주요 뉴스 수집
-2. Gemini로 카테고리별 2~3개씩 12~15개 + 헤드라인 1개 선별
-3. Pollinations에서 그림 실제로 다운로드 → data/images/YYYY-MM-DD/ 저장
-4. 30일 지난 이미지 자동 삭제
-5. data/YYYY-MM-DD.json 으로 저장
+개선점:
+- print 출력 즉시 보이게 (버퍼링 해제)
+- Pollinations timeout 단축 (30초)
+- 재시도 횟수 줄임 (2회)
+- 실패해도 다음 이미지로 계속 진행
 """
+
+import sys
+# print를 버퍼링 없이 즉시 출력 (GitHub Actions에서 실시간 로그 보기)
+sys.stdout.reconfigure(line_buffering=True)
 
 import os
 import json
@@ -26,6 +29,7 @@ GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 # 한국 시간
 KST = timezone(timedelta(hours=9))
 TODAY = datetime.now(KST).strftime("%Y-%m-%d")
+
 
 # ===== 1. 네이버에서 뉴스 수집 =====
 def fetch_news():
@@ -55,16 +59,17 @@ def fetch_news():
                     "pubDate": item.get("pubDate", "")
                 })
         except Exception as e:
-            print(f"⚠️ {cat} 카테고리 수집 실패: {e}")
+            print(f"⚠️ {cat} 카테고리 수집 실패: {e}", flush=True)
             continue
 
-    print(f"✅ 총 {len(all_news)}개 뉴스 수집")
+    print(f"✅ 총 {len(all_news)}개 뉴스 수집", flush=True)
     return all_news
 
 
 # ===== 2. Gemini로 큐레이션 =====
 def curate_with_gemini(news_list):
     """Gemini가 카테고리별 2~3개씩 + 헤드라인 1개를 선별"""
+    print("🤖 Gemini API 호출 시작...", flush=True)
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel("gemini-2.5-flash")
 
@@ -136,7 +141,11 @@ def curate_with_gemini(news_list):
 """
 
     try:
-        response = model.generate_content(prompt)
+        # request_options로 타임아웃 설정 (5분)
+        response = model.generate_content(
+            prompt,
+            request_options={"timeout": 300}
+        )
         text = response.text.strip()
 
         if text.startswith("```"):
@@ -156,98 +165,93 @@ def curate_with_gemini(news_list):
             if c.get("is_headline"):
                 headline_count += 1
 
-        print(f"✅ Gemini가 총 {len(cards)}개 카드 생성")
-        print(f"   카테고리별: {cat_counts}")
-        print(f"   헤드라인: {headline_count}개")
+        print(f"✅ Gemini가 총 {len(cards)}개 카드 생성", flush=True)
+        print(f"   카테고리별: {cat_counts}", flush=True)
+        print(f"   헤드라인: {headline_count}개", flush=True)
 
         return data
     except Exception as e:
-        print(f"❌ Gemini 큐레이션 실패: {e}")
-        print(f"응답 내용: {text[:500] if 'text' in dir() else 'N/A'}")
+        print(f"❌ Gemini 큐레이션 실패: {e}", flush=True)
         return {"cards": []}
 
 
-# ===== 3. 이미지 다운로드 (Pollinations) =====
-def download_image(url, save_path, max_retries=3):
-    """Pollinations에서 이미지 다운로드. 실패 시 재시도."""
+# ===== 3. 이미지 다운로드 =====
+def download_image(url, save_path, max_retries=2):
+    """Pollinations에서 이미지 다운로드. 실패 시 빠르게 포기."""
     for attempt in range(max_retries):
         try:
-            # Pollinations은 첫 요청 시 그림 생성하느라 시간이 걸림 (최대 60초)
-            r = requests.get(url, timeout=90, stream=True)
+            # timeout 30초로 단축 (오래 기다리지 않음)
+            r = requests.get(url, timeout=30, stream=True)
             r.raise_for_status()
 
-            # 진짜 이미지인지 확인 (content-type)
             content_type = r.headers.get('content-type', '')
             if 'image' not in content_type:
-                print(f"   ⚠️ 이미지가 아님 (content-type: {content_type}), 재시도...")
-                time.sleep(3)
+                print(f"      ⚠️ 이미지가 아님", flush=True)
                 continue
 
-            # 저장
             with open(save_path, 'wb') as f:
                 for chunk in r.iter_content(chunk_size=8192):
                     f.write(chunk)
 
-            # 파일 크기 확인 (너무 작으면 실패한 것)
             file_size = os.path.getsize(save_path)
-            if file_size < 1000:  # 1KB 미만이면 실패
-                print(f"   ⚠️ 파일이 너무 작음 ({file_size} bytes), 재시도...")
+            if file_size < 1000:
+                print(f"      ⚠️ 파일 너무 작음 ({file_size}B)", flush=True)
                 os.remove(save_path)
-                time.sleep(3)
                 continue
 
             return True
+        except requests.Timeout:
+            print(f"      ⚠️ 시도 {attempt+1}/{max_retries} timeout", flush=True)
         except Exception as e:
-            print(f"   ⚠️ 시도 {attempt+1}/{max_retries} 실패: {e}")
-            if attempt < max_retries - 1:
-                time.sleep(5)
+            print(f"      ⚠️ 시도 {attempt+1}/{max_retries} 실패: {e}", flush=True)
+
+        if attempt < max_retries - 1:
+            time.sleep(2)
 
     return False
 
 
 def generate_and_save_images(curated_data):
-    """각 카드의 이미지를 Pollinations에서 다운로드해서 GitHub에 저장"""
-    # 오늘 날짜 폴더 생성
+    """각 카드의 이미지를 다운로드해서 저장"""
     image_dir = f"data/images/{TODAY}"
     os.makedirs(image_dir, exist_ok=True)
 
     cards = curated_data.get("cards", [])
     success_count = 0
+    start_time = time.time()
 
     for idx, card in enumerate(cards):
         card_id = card.get("id", f"card-{idx}")
         prompt = card.get("image_prompt", "cute pastel infographic")
 
-        # 일관된 스타일을 위한 공통 접미사
         full_prompt = f"{prompt}, cute hand-drawn infographic style, pastel colors, cream background, soft shadows, rounded shapes, no text, no words, editorial illustration"
         encoded = urllib.parse.quote(full_prompt)
         seed = abs(hash(card_id)) % 100000
         pollinations_url = f"https://image.pollinations.ai/prompt/{encoded}?width=800&height=500&seed={seed}&nologo=true"
 
-        # 저장할 파일 경로
         filename = f"{card_id}.jpg"
         save_path = f"{image_dir}/{filename}"
         github_path = f"data/images/{TODAY}/{filename}"
 
-        print(f"🎨 [{idx+1}/{len(cards)}] {card_id} 이미지 다운로드 중...")
+        elapsed = int(time.time() - start_time)
+        print(f"🎨 [{idx+1}/{len(cards)}] {card_id} ({elapsed}s 경과)", flush=True)
 
         if download_image(pollinations_url, save_path):
-            # GitHub Pages에서 접근 가능한 상대 경로 사용
             card["image_url"] = github_path
             success_count += 1
-            print(f"   ✅ 저장됨: {github_path}")
+            print(f"      ✅ 저장됨", flush=True)
         else:
-            # 다운로드 실패 시 원래 Pollinations URL을 백업으로 사용
+            # 실패 시 Pollinations URL을 백업으로 사용
             card["image_url"] = pollinations_url
-            print(f"   ⚠️ 다운로드 실패, Pollinations URL을 백업으로 사용")
+            print(f"      ⚠️ 다운로드 실패, 백업 URL 사용", flush=True)
 
-    print(f"\n📊 이미지 다운로드 결과: {success_count}/{len(cards)} 성공")
+    print(f"\n📊 이미지 다운로드: {success_count}/{len(cards)} 성공", flush=True)
     return curated_data
 
 
-# ===== 4. 오래된 이미지 자동 정리 =====
+# ===== 4. 오래된 이미지 정리 =====
 def cleanup_old_images(days_to_keep=30):
-    """30일 지난 이미지 폴더 삭제 (저장 공간 관리)"""
+    """30일 지난 이미지 폴더 삭제"""
     images_root = "data/images"
     if not os.path.exists(images_root):
         return
@@ -260,24 +264,21 @@ def cleanup_old_images(days_to_keep=30):
         if not os.path.isdir(folder_path):
             continue
 
-        # 폴더 이름이 YYYY-MM-DD 형식인지 확인
         try:
             folder_date = datetime.strptime(folder_name, "%Y-%m-%d").replace(tzinfo=KST)
             if folder_date < cutoff_date:
                 shutil.rmtree(folder_path)
                 deleted_count += 1
-                print(f"🗑️ 오래된 이미지 삭제: {folder_name}")
+                print(f"🗑️ 오래된 이미지 삭제: {folder_name}", flush=True)
         except ValueError:
-            # 날짜 형식이 아닌 폴더는 건너뜀
             continue
 
     if deleted_count > 0:
-        print(f"✅ 총 {deleted_count}개 오래된 폴더 삭제")
+        print(f"✅ 총 {deleted_count}개 오래된 폴더 삭제", flush=True)
 
 
-# ===== 5. 결과 저장 =====
+# ===== 5. 저장 =====
 def save_data(data):
-    """data/YYYY-MM-DD.json 으로 저장 + latest.json 업데이트"""
     data["date"] = TODAY
     data["generated_at"] = datetime.now(KST).isoformat()
 
@@ -286,59 +287,51 @@ def save_data(data):
     daily_path = f"data/{TODAY}.json"
     with open(daily_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"✅ 저장됨: {daily_path}")
+    print(f"✅ 저장됨: {daily_path}", flush=True)
 
     with open("data/latest.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"✅ latest.json 업데이트")
+    print(f"✅ latest.json 업데이트", flush=True)
 
 
-# ===== 메인 실행 =====
+# ===== 메인 =====
 def main():
-    print(f"🌅 {TODAY} 뉴스 생성 시작\n")
+    print(f"🌅 {TODAY} 뉴스 생성 시작", flush=True)
+    print(f"⏰ 시작 시간: {datetime.now(KST).strftime('%H:%M:%S')}", flush=True)
 
-    # 환경변수 확인
     if not all([NAVER_CLIENT_ID, NAVER_CLIENT_SECRET, GEMINI_API_KEY]):
-        print("❌ 환경변수가 설정되지 않았어요!")
+        print("❌ 환경변수가 설정되지 않았어요!", flush=True)
         return
 
     # 1. 뉴스 수집
-    print("=" * 50)
-    print("📰 1단계: 뉴스 수집")
-    print("=" * 50)
+    print("\n[1/5] 📰 뉴스 수집", flush=True)
     news = fetch_news()
     if not news:
-        print("❌ 뉴스를 가져오지 못했어요")
+        print("❌ 뉴스를 가져오지 못했어요", flush=True)
         return
 
     # 2. 큐레이션
-    print("\n" + "=" * 50)
-    print("🤖 2단계: AI 큐레이션")
-    print("=" * 50)
+    print("\n[2/5] 🤖 AI 큐레이션", flush=True)
     curated = curate_with_gemini(news)
     if not curated.get("cards"):
-        print("❌ 큐레이션 실패")
+        print("❌ 큐레이션 실패", flush=True)
         return
 
     # 3. 이미지 다운로드
-    print("\n" + "=" * 50)
-    print("🎨 3단계: 이미지 생성 및 다운로드")
-    print("=" * 50)
+    print("\n[3/5] 🎨 이미지 다운로드", flush=True)
     curated = generate_and_save_images(curated)
 
-    # 4. 오래된 이미지 정리
-    print("\n" + "=" * 50)
-    print("🧹 4단계: 오래된 이미지 정리")
-    print("=" * 50)
+    # 4. 정리
+    print("\n[4/5] 🧹 오래된 이미지 정리", flush=True)
     cleanup_old_images(days_to_keep=30)
 
     # 5. 저장
-    print("\n" + "=" * 50)
-    print("💾 5단계: 데이터 저장")
-    print("=" * 50)
+    print("\n[5/5] 💾 저장", flush=True)
     save_data(curated)
 
-    print(f"\n🎉 완료! {len(curated['cards'])}개 카드 생성됨")
+    end_time = datetime.now(KST).strftime('%H:%M:%S')
+    print(f"\n🎉 완료! {len(curated['cards'])}개 카드", flush=True)
+    print(f"⏰ 종료 시간: {end_time}", flush=True)
 
 
 if __name__ == "__main__":
