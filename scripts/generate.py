@@ -20,6 +20,34 @@ import time
 import shutil
 from datetime import datetime, timezone, timedelta
 import google.generativeai as genai
+def send_kakao_message(text):
+    access_token = os.environ["KAKAO_ACCESS_TOKEN"]
+
+    url = "https://kapi.kakao.com/v2/api/talk/memo/default/send"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}"
+    }
+
+    template = {
+        "object_type": "text",
+        "text": text,
+        "link": {
+            "web_url": "https://jinny0925.github.io",
+            "mobile_web_url": "https://jinny0925.github.io"
+        },
+        "button_title": "페이지 보기"
+    }
+
+    data = {
+        "template_object": json.dumps(template)
+    }
+
+    response = requests.post(url, headers=headers, data=data)
+
+    print(response.status_code)
+    print(response.text)
+    
 
 # ===== 환경변수 =====
 NAVER_CLIENT_ID = (os.environ.get("NAVER_CLIENT_ID") or "").strip()
@@ -344,6 +372,9 @@ def main():
     end_time = datetime.now(KST).strftime('%H:%M:%S')
     print(f"\n🎉 완료! {len(curated['cards'])}개 카드", flush=True)
     print(f"⏰ 종료 시간: {end_time}", flush=True)
+    
+    send_kakao_message("페이지 업데이트 완료!")
+    
 
 
 if __name__ == "__main__":
