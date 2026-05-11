@@ -413,15 +413,15 @@ def main():
     # 5. 저장
     print("\n[5/5] 💾 저장", flush=True)
     save_data(curated)
-
+    
     end_time = datetime.now(KST).strftime('%H:%M:%S')
     print(f"\n🎉 완료! {len(curated['cards'])}개 카드", flush=True)
     print(f"⏰ 종료 시간: {end_time}", flush=True)
-    send_kakao_friend_message(f"📰 News.pic 업데이트 완료! ({TODAY})")
     
-    send_kakao_message("페이지 업데이트 완료!")
+    send_kakao_friend_message(
+        f"🌅 오늘의 뉴스가 업데이트됐어요!\n\n📅 {TODAY}\n📰 오늘도 꼭 읽어보세요"
+    )
     
-
-
-if __name__ == "__main__":
-    main()
+    
+    if __name__ == "__main__":
+        main()
