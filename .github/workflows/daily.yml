@@ -2,7 +2,7 @@ name: Daily News Generation
 
 on:
   schedule:
-    # 한국시간 7:00, 7:30, 8:00, 9:00 시도 (한 번이라도 성공하면 OK)
+    # 한국시간 7:00, 7:30, 8:00, 9:00 (백업용 - cron-job.org가 메인)
     - cron: '0 22 * * *'
     - cron: '30 22 * * *'
     - cron: '0 23 * * *'
@@ -12,6 +12,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    # 이미지 다운로드에 시간이 걸리므로 최대 30분
+    timeout-minutes: 30
     permissions:
       contents: write
 
