@@ -57,8 +57,26 @@ GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 # 한국 시간
 KST = timezone(timedelta(hours=9))
 TODAY = datetime.now(KST).strftime("%Y-%m-%d")
+
+def get_kakao_access_token():
+    url = "https://kauth.kakao.com/oauth/token"
+
+    data = {
+        "grant_type": "refresh_token",
+        "client_id": os.environ["KAKAO_CLIENT_ID"],
+        "client_secret": os.environ["KAKAO_CLIENT_SECRET"],
+        "refresh_token": os.environ["KAKAO_REFRESH_TOKEN"],
+    }
+
+    response = requests.post(url, data=data)
+    print("🔑 카카오 토큰 갱신 결과:", response.status_code, response.text, flush=True)
+    response.raise_for_status()
+
+    return response.json()["access_token"]
+
+
 def send_kakao_friend_message(text):
-    access_token = os.environ["KAKAO_ACCESS_TOKEN"]
+    access_token = get_kakao_access_token()
     friend_uuid = os.environ["KAKAO_FRIEND_UUID"]
 
     url = "https://kapi.kakao.com/v1/api/talk/friends/message/default/send"
@@ -83,8 +101,8 @@ def send_kakao_friend_message(text):
     }
 
     response = requests.post(url, headers=headers, data=data)
-
     print("📩 카카오 친구 메시지 결과:", response.status_code, response.text, flush=True)
+    response.raise_for_status()
 
 # ===== 1. 네이버에서 뉴스 수집 =====
 def fetch_news():
