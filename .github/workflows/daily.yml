@@ -3,10 +3,10 @@ name: Daily News Generation
 on:
   schedule:
     # 한국시간 7:00, 7:30, 8:00, 9:00 (백업용 - cron-job.org가 메인)
-    - cron: '0 22 * * *'
-    - cron: '30 22 * * *'
-    - cron: '0 23 * * *'
-    - cron: '0 0 * * *'
+    - cron: '0 21 * * *'    # 한국 6:00
+    - cron: '30 21 * * *'   # 한국 6:30
+    - cron: '0 22 * * *'    # 한국 7:00
+    - cron: '0 23 * * *'    # 한국 8:00
   workflow_dispatch:
 
 jobs:
