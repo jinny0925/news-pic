@@ -57,7 +57,34 @@ GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 # 한국 시간
 KST = timezone(timedelta(hours=9))
 TODAY = datetime.now(KST).strftime("%Y-%m-%d")
+def send_kakao_friend_message(text):
+    access_token = os.environ["KAKAO_ACCESS_TOKEN"]
+    friend_uuid = os.environ["KAKAO_FRIEND_UUID"]
 
+    url = "https://kapi.kakao.com/v1/api/talk/friends/message/default/send"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}"
+    }
+
+    template = {
+        "object_type": "text",
+        "text": text,
+        "link": {
+            "web_url": "https://jinny0925.github.io",
+            "mobile_web_url": "https://jinny0925.github.io"
+        },
+        "button_title": "페이지 보기"
+    }
+
+    data = {
+        "receiver_uuids": json.dumps([friend_uuid]),
+        "template_object": json.dumps(template, ensure_ascii=False)
+    }
+
+    response = requests.post(url, headers=headers, data=data)
+
+    print("📩 카카오 친구 메시지 결과:", response.status_code, response.text, flush=True)
 
 # ===== 1. 네이버에서 뉴스 수집 =====
 def fetch_news():
@@ -372,6 +399,7 @@ def main():
     end_time = datetime.now(KST).strftime('%H:%M:%S')
     print(f"\n🎉 완료! {len(curated['cards'])}개 카드", flush=True)
     print(f"⏰ 종료 시간: {end_time}", flush=True)
+    send_kakao_friend_message(f"📰 News.pic 업데이트 완료! ({TODAY})")
     
     send_kakao_message("페이지 업데이트 완료!")
     
