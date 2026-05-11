@@ -176,17 +176,25 @@ def curate_with_gemini(news_list):
 
 
 # ===== 3. 이미지 다운로드 =====
-def download_image(url, save_path, max_retries=2):
-    """Pollinations에서 이미지 다운로드. 실패 시 빠르게 포기."""
+def download_image(url, save_path, max_retries=3):
+    """Pollinations에서 이미지 다운로드. 429 에러 시 길게 대기 후 재시도."""
     for attempt in range(max_retries):
         try:
-            # timeout 30초로 단축 (오래 기다리지 않음)
-            r = requests.get(url, timeout=30, stream=True)
+            r = requests.get(url, timeout=60, stream=True)
+
+            # 429 (Too Many Requests) 처리
+            if r.status_code == 429:
+                wait_time = 30 * (attempt + 1)  # 30초, 60초, 90초로 점점 길게
+                print(f"      ⏳ 429 Too Many Requests, {wait_time}초 대기...", flush=True)
+                time.sleep(wait_time)
+                continue
+
             r.raise_for_status()
 
             content_type = r.headers.get('content-type', '')
             if 'image' not in content_type:
-                print(f"      ⚠️ 이미지가 아님", flush=True)
+                print(f"      ⚠️ 이미지가 아님 ({content_type})", flush=True)
+                time.sleep(5)
                 continue
 
             with open(save_path, 'wb') as f:
@@ -197,16 +205,16 @@ def download_image(url, save_path, max_retries=2):
             if file_size < 1000:
                 print(f"      ⚠️ 파일 너무 작음 ({file_size}B)", flush=True)
                 os.remove(save_path)
+                time.sleep(5)
                 continue
 
             return True
         except requests.Timeout:
             print(f"      ⚠️ 시도 {attempt+1}/{max_retries} timeout", flush=True)
+            time.sleep(10)
         except Exception as e:
             print(f"      ⚠️ 시도 {attempt+1}/{max_retries} 실패: {e}", flush=True)
-
-        if attempt < max_retries - 1:
-            time.sleep(2)
+            time.sleep(10)
 
     return False
 
@@ -244,6 +252,10 @@ def generate_and_save_images(curated_data):
             # 실패 시 Pollinations URL을 백업으로 사용
             card["image_url"] = pollinations_url
             print(f"      ⚠️ 다운로드 실패, 백업 URL 사용", flush=True)
+
+        # 다음 이미지 요청 전에 잠시 대기 (Pollinations 429 방지)
+        if idx < len(cards) - 1:
+            time.sleep(10)
 
     print(f"\n📊 이미지 다운로드: {success_count}/{len(cards)} 성공", flush=True)
     return curated_data
