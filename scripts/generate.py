@@ -1,11 +1,12 @@
 """
-News.pic 일일 생성 스크립트 (v3: 안정성 개선)
+News.pic 일일 생성 스크립트 (v4: 버그 수정)
 
-개선점:
+수정점:
+- if __name__ == "__main__" 들여쓰기 버그 수정 (메인 로직이 실행되지 않던 문제)
+- 카카오 메시지 실패가 워크플로우 전체를 실패시키지 않도록 try/except 처리
+- Gemini 응답 코드펜스 파싱 더 안전하게
+- 안 쓰는 send_kakao_message 함수 제거
 - print 출력 즉시 보이게 (버퍼링 해제)
-- Pollinations timeout 단축 (30초)
-- 재시도 횟수 줄임 (2회)
-- 실패해도 다음 이미지로 계속 진행
 """
 
 import sys
@@ -20,34 +21,7 @@ import time
 import shutil
 from datetime import datetime, timezone, timedelta
 import google.generativeai as genai
-def send_kakao_message(text):
-    access_token = os.environ["KAKAO_ACCESS_TOKEN"]
 
-    url = "https://kapi.kakao.com/v2/api/talk/memo/default/send"
-
-    headers = {
-        "Authorization": f"Bearer {access_token}"
-    }
-
-    template = {
-        "object_type": "text",
-        "text": text,
-        "link": {
-            "web_url": "https://jinny0925.github.io",
-            "mobile_web_url": "https://jinny0925.github.io"
-        },
-        "button_title": "페이지 보기"
-    }
-
-    data = {
-        "template_object": json.dumps(template)
-    }
-
-    response = requests.post(url, headers=headers, data=data)
-
-    print(response.status_code)
-    print(response.text)
-    
 
 # ===== 환경변수 =====
 NAVER_CLIENT_ID = (os.environ.get("NAVER_CLIENT_ID") or "").strip()
@@ -58,6 +32,8 @@ GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 KST = timezone(timedelta(hours=9))
 TODAY = datetime.now(KST).strftime("%Y-%m-%d")
 
+
+# ===== 카카오 메시지 =====
 def get_kakao_access_token():
     url = "https://kauth.kakao.com/oauth/token"
 
@@ -103,6 +79,7 @@ def send_kakao_friend_message(text):
     response = requests.post(url, headers=headers, data=data)
     print("📩 카카오 친구 메시지 결과:", response.status_code, response.text, flush=True)
     response.raise_for_status()
+
 
 # ===== 1. 네이버에서 뉴스 수집 =====
 def fetch_news():
@@ -221,11 +198,10 @@ def curate_with_gemini(news_list):
         )
         text = response.text.strip()
 
+        # 코드펜스 제거 (```json ... ``` 또는 ``` ... ```)
         if text.startswith("```"):
-            text = text.split("```")[1]
-            if text.startswith("json"):
-                text = text[4:]
-            text = text.strip()
+            text = text.removeprefix("```json").removeprefix("```")
+            text = text.removesuffix("```").strip()
 
         data = json.loads(text)
         cards = data.get("cards", [])
@@ -249,7 +225,7 @@ def curate_with_gemini(news_list):
 
 
 # ===== 3. 이미지 다운로드 =====
-def download_image(url, save_path, max_retries=3):
+def download_image(url, save_path, max_retries=2):
     """Pollinations에서 이미지 다운로드. 429 에러 시 길게 대기 후 재시도."""
     for attempt in range(max_retries):
         try:
@@ -413,15 +389,19 @@ def main():
     # 5. 저장
     print("\n[5/5] 💾 저장", flush=True)
     save_data(curated)
-    
+
     end_time = datetime.now(KST).strftime('%H:%M:%S')
     print(f"\n🎉 완료! {len(curated['cards'])}개 카드", flush=True)
     print(f"⏰ 종료 시간: {end_time}", flush=True)
-    
-    send_kakao_friend_message(
-        f"🌅 오늘의 뉴스가 업데이트됐어요!\n\n📅 {TODAY}\n📰 오늘도 꼭 읽어보세요"
-    )
-    
-    
-    if __name__ == "__main__":
-        main()
+
+    # 카카오 메시지는 실패해도 워크플로우 전체가 실패하지 않게 try/except로 감싸기
+    try:
+        send_kakao_friend_message(
+            f"🌅 오늘의 뉴스가 업데이트됐어요!\n\n📅 {TODAY}\n📰 오늘도 꼭 읽어보세요"
+        )
+    except Exception as e:
+        print(f"⚠️ 카카오 메시지 전송 실패 (무시하고 진행): {e}", flush=True)
+
+
+if __name__ == "__main__":
+    main()
