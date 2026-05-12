@@ -72,8 +72,8 @@ def send_kakao_friend_message(text, client_id, client_secret, refresh_token, fri
         "object_type": "text",
         "text": text,
         "link": {
-            "web_url": "https://jinny0925.github.io",
-            "mobile_web_url": "https://jinny0925.github.io"
+            "web_url": "https://jinny0925.github.io/news-pic/",
+            "mobile_web_url": "https://jinny0925.github.io/news-pic/"
         },
         "button_title": "페이지 보기"
     }
