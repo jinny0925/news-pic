@@ -1,0 +1,88 @@
+name: Test Kakao Message
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-kakao:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send Kakao test message
+        run: |
+          python - <<'PY'
+          import os, json, requests
+          from datetime import datetime, timezone, timedelta
+
+          KST = timezone(timedelta(hours=9))
+          now = datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S")
+
+          def token(client_id, client_secret, refresh_token):
+              r = requests.post(
+                  "https://kauth.kakao.com/oauth/token",
+                  data={
+                      "grant_type": "refresh_token",
+                      "client_id": client_id,
+                      "client_secret": client_secret,
+                      "refresh_token": refresh_token,
+                  },
+                  timeout=30
+              )
+              print("토큰 결과:", r.status_code, r.text)
+              r.raise_for_status()
+              return r.json()["access_token"]
+
+          def send(sender, client_id, client_secret, refresh_token, friend_uuid):
+              access_token = token(client_id, client_secret, refresh_token)
+
+              text = f"✅ 카카오 알림 테스트\n\n{sender}\n시간: {now}"
+
+              template = {
+                  "object_type": "text",
+                  "text": text,
+                  "link": {
+                      "web_url": "https://jinny0925.github.io",
+                      "mobile_web_url": "https://jinny0925.github.io"
+                  },
+                  "button_title": "페이지 보기"
+              }
+
+              r = requests.post(
+                  "https://kapi.kakao.com/v1/api/talk/friends/message/default/send",
+                  headers={"Authorization": f"Bearer {access_token}"},
+                  data={
+                      "receiver_uuids": json.dumps([friend_uuid]),
+                      "template_object": json.dumps(template, ensure_ascii=False)
+                  },
+                  timeout=30
+              )
+              print(f"{sender} 발송 결과:", r.status_code, r.text)
+              r.raise_for_status()
+
+          send(
+              "아내 → 남편",
+              os.environ["KAKAO_CLIENT_ID_WIFE"],
+              os.environ["KAKAO_CLIENT_SECRET_WIFE"],
+              os.environ["KAKAO_REFRESH_TOKEN_WIFE"],
+              os.environ["KAKAO_FRIEND_UUID_HUSBAND"],
+          )
+
+          send(
+              "남편 → 아내",
+              os.environ["KAKAO_CLIENT_ID_HUSBAND"],
+              os.environ["KAKAO_CLIENT_SECRET_HUSBAND"],
+              os.environ["KAKAO_REFRESH_TOKEN_HUSBAND"],
+              os.environ["KAKAO_FRIEND_UUID_WIFE"],
+          )
+
+          print("✅ 카카오 테스트 완료")
+          PY
+        env:
+          KAKAO_CLIENT_ID_WIFE: ${{ secrets.KAKAO_CLIENT_ID_WIFE }}
+          KAKAO_CLIENT_SECRET_WIFE: ${{ secrets.KAKAO_CLIENT_SECRET_WIFE }}
+          KAKAO_REFRESH_TOKEN_WIFE: ${{ secrets.KAKAO_REFRESH_TOKEN_WIFE }}
+          KAKAO_FRIEND_UUID_HUSBAND: ${{ secrets.KAKAO_FRIEND_UUID_HUSBAND }}
+          KAKAO_CLIENT_ID_HUSBAND: ${{ secrets.KAKAO_CLIENT_ID_HUSBAND }}
+          KAKAO_CLIENT_SECRET_HUSBAND: ${{ secrets.KAKAO_CLIENT_SECRET_HUSBAND }}
+          KAKAO_REFRESH_TOKEN_HUSBAND: ${{ secrets.KAKAO_REFRESH_TOKEN_HUSBAND }}
+          KAKAO_FRIEND_UUID_WIFE: ${{ secrets.KAKAO_FRIEND_UUID_WIFE }}
