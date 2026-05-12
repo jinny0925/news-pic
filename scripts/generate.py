@@ -1,12 +1,26 @@
 """
-News.pic 일일 생성 스크립트 (v4: 버그 수정)
+News.pic 일일 생성 스크립트 (v5: 양방향 카카오 메시지)
 
 수정점:
-- if __name__ == "__main__" 들여쓰기 버그 수정 (메인 로직이 실행되지 않던 문제)
+- if __name__ == "__main__" 들여쓰기 버그 수정
+- 카카오 메시지 양방향: 아내 → 남편, 남편 → 아내
 - 카카오 메시지 실패가 워크플로우 전체를 실패시키지 않도록 try/except 처리
 - Gemini 응답 코드펜스 파싱 더 안전하게
 - 안 쓰는 send_kakao_message 함수 제거
-- print 출력 즉시 보이게 (버퍼링 해제)
+
+필요한 환경변수 (GitHub Secrets):
+  공통:
+    NAVER_CLIENT_ID, NAVER_CLIENT_SECRET, GEMINI_API_KEY
+  아내 → 남편 발송용:
+    KAKAO_CLIENT_ID_WIFE
+    KAKAO_CLIENT_SECRET_WIFE
+    KAKAO_REFRESH_TOKEN_WIFE
+    KAKAO_FRIEND_UUID_HUSBAND   (아내 계정에서 본 남편의 UUID)
+  남편 → 아내 발송용:
+    KAKAO_CLIENT_ID_HUSBAND
+    KAKAO_CLIENT_SECRET_HUSBAND
+    KAKAO_REFRESH_TOKEN_HUSBAND
+    KAKAO_FRIEND_UUID_WIFE      (남편 계정에서 본 아내의 UUID)
 """
 
 import sys
@@ -33,27 +47,28 @@ KST = timezone(timedelta(hours=9))
 TODAY = datetime.now(KST).strftime("%Y-%m-%d")
 
 
-# ===== 카카오 메시지 =====
-def get_kakao_access_token():
+# ===== 카카오 메시지 (양방향) =====
+def get_kakao_access_token(client_id, client_secret, refresh_token, sender_name=""):
+    """주어진 refresh_token으로 access_token 갱신"""
     url = "https://kauth.kakao.com/oauth/token"
 
     data = {
         "grant_type": "refresh_token",
-        "client_id": os.environ["KAKAO_CLIENT_ID"],
-        "client_secret": os.environ["KAKAO_CLIENT_SECRET"],
-        "refresh_token": os.environ["KAKAO_REFRESH_TOKEN"],
+        "client_id": client_id,
+        "client_secret": client_secret,
+        "refresh_token": refresh_token,
     }
 
     response = requests.post(url, data=data)
-    print("🔑 카카오 토큰 갱신 결과:", response.status_code, response.text, flush=True)
+    print(f"🔑 [{sender_name}] 카카오 토큰 갱신 결과:", response.status_code, response.text, flush=True)
     response.raise_for_status()
 
     return response.json()["access_token"]
 
 
-def send_kakao_friend_message(text):
-    access_token = get_kakao_access_token()
-    friend_uuid = os.environ["KAKAO_FRIEND_UUID"]
+def send_kakao_friend_message(text, client_id, client_secret, refresh_token, friend_uuid, sender_name=""):
+    """sender_name 계정으로 friend_uuid 친구에게 메시지 전송"""
+    access_token = get_kakao_access_token(client_id, client_secret, refresh_token, sender_name)
 
     url = "https://kapi.kakao.com/v1/api/talk/friends/message/default/send"
 
@@ -77,8 +92,39 @@ def send_kakao_friend_message(text):
     }
 
     response = requests.post(url, headers=headers, data=data)
-    print("📩 카카오 친구 메시지 결과:", response.status_code, response.text, flush=True)
+    print(f"📩 [{sender_name}] 카카오 친구 메시지 결과:", response.status_code, response.text, flush=True)
     response.raise_for_status()
+
+
+def send_both_messages():
+    """양방향으로 메시지 전송: 아내 → 남편, 남편 → 아내"""
+    message_text = f"🌅 오늘의 뉴스가 업데이트됐어요!\n\n📅 {TODAY}\n📰 오늘도 꼭 읽어보세요"
+
+    # 1) 아내 → 남편
+    try:
+        send_kakao_friend_message(
+            text=message_text,
+            client_id=os.environ["KAKAO_CLIENT_ID_WIFE"],
+            client_secret=os.environ["KAKAO_CLIENT_SECRET_WIFE"],
+            refresh_token=os.environ["KAKAO_REFRESH_TOKEN_WIFE"],
+            friend_uuid=os.environ["KAKAO_FRIEND_UUID_HUSBAND"],
+            sender_name="아내→남편",
+        )
+    except Exception as e:
+        print(f"⚠️ 아내 → 남편 메시지 전송 실패 (무시하고 진행): {e}", flush=True)
+
+    # 2) 남편 → 아내
+    try:
+        send_kakao_friend_message(
+            text=message_text,
+            client_id=os.environ["KAKAO_CLIENT_ID_HUSBAND"],
+            client_secret=os.environ["KAKAO_CLIENT_SECRET_HUSBAND"],
+            refresh_token=os.environ["KAKAO_REFRESH_TOKEN_HUSBAND"],
+            friend_uuid=os.environ["KAKAO_FRIEND_UUID_WIFE"],
+            sender_name="남편→아내",
+        )
+    except Exception as e:
+        print(f"⚠️ 남편 → 아내 메시지 전송 실패 (무시하고 진행): {e}", flush=True)
 
 
 # ===== 1. 네이버에서 뉴스 수집 =====
@@ -394,13 +440,9 @@ def main():
     print(f"\n🎉 완료! {len(curated['cards'])}개 카드", flush=True)
     print(f"⏰ 종료 시간: {end_time}", flush=True)
 
-    # 카카오 메시지는 실패해도 워크플로우 전체가 실패하지 않게 try/except로 감싸기
-    try:
-        send_kakao_friend_message(
-            f"🌅 오늘의 뉴스가 업데이트됐어요!\n\n📅 {TODAY}\n📰 오늘도 꼭 읽어보세요"
-        )
-    except Exception as e:
-        print(f"⚠️ 카카오 메시지 전송 실패 (무시하고 진행): {e}", flush=True)
+    # 카카오 양방향 메시지 전송 (실패해도 워크플로우는 성공으로 종료)
+    print("\n📨 카카오 메시지 전송", flush=True)
+    send_both_messages()
 
 
 if __name__ == "__main__":
