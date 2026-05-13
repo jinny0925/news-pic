@@ -1,21 +1,12 @@
 """
-News.pic 일일 생성 스크립트 (v6: Gemini 재시도 + 카카오 양방향 메시지)
+News.pic 일일 생성 스크립트
+- 뉴스 수집
+- Gemini 큐레이션
+- 이미지 다운로드
+- data/YYYY-MM-DD.json 저장
+- data/latest.json 업데이트
 
-필요한 환경변수 (GitHub Secrets):
-  공통:
-    NAVER_CLIENT_ID, NAVER_CLIENT_SECRET, GEMINI_API_KEY
-
-  아내 → 남편 발송용:
-    KAKAO_CLIENT_ID_WIFE
-    KAKAO_CLIENT_SECRET_WIFE
-    KAKAO_REFRESH_TOKEN_WIFE
-    KAKAO_FRIEND_UUID_HUSBAND
-
-  남편 → 아내 발송용:
-    KAKAO_CLIENT_ID_HUSBAND
-    KAKAO_CLIENT_SECRET_HUSBAND
-    KAKAO_REFRESH_TOKEN_HUSBAND
-    KAKAO_FRIEND_UUID_WIFE
+※ 카카오톡 발송은 scripts/send_kakao.py에서 별도 처리
 """
 
 import sys
@@ -39,81 +30,6 @@ GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 
 KST = timezone(timedelta(hours=9))
 TODAY = datetime.now(KST).strftime("%Y-%m-%d")
-
-
-# ===== 카카오 메시지 =====
-def get_kakao_access_token(client_id, client_secret, refresh_token, sender_name=""):
-    url = "https://kauth.kakao.com/oauth/token"
-
-    data = {
-        "grant_type": "refresh_token",
-        "client_id": client_id,
-        "client_secret": client_secret,
-        "refresh_token": refresh_token,
-    }
-
-    response = requests.post(url, data=data, timeout=30)
-    print(f"🔑 [{sender_name}] 카카오 토큰 갱신 결과:", response.status_code, response.text, flush=True)
-    response.raise_for_status()
-
-    return response.json()["access_token"]
-
-
-def send_kakao_friend_message(text, client_id, client_secret, refresh_token, friend_uuid, sender_name=""):
-    access_token = get_kakao_access_token(client_id, client_secret, refresh_token, sender_name)
-
-    url = "https://kapi.kakao.com/v1/api/talk/friends/message/default/send"
-
-    headers = {
-        "Authorization": f"Bearer {access_token}"
-    }
-
-    template = {
-        "object_type": "text",
-        "text": text,
-        "link": {
-            "web_url": "https://jinny0925.github.io/news-pic/",
-            "mobile_web_url": "https://jinny0925.github.io/news-pic/"
-        },
-        "button_title": "페이지 보기"
-    }
-
-    data = {
-        "receiver_uuids": json.dumps([friend_uuid]),
-        "template_object": json.dumps(template, ensure_ascii=False)
-    }
-
-    response = requests.post(url, headers=headers, data=data, timeout=30)
-    print(f"📩 [{sender_name}] 카카오 친구 메시지 결과:", response.status_code, response.text, flush=True)
-    response.raise_for_status()
-
-
-def send_both_messages():
-    message_text = f"🌅 오늘의 뉴스가 업데이트됐어요!\n\n📅 {TODAY}\n📰 오늘도 꼭 읽어보세요"
-
-    try:
-        send_kakao_friend_message(
-            text=message_text,
-            client_id=os.environ["KAKAO_CLIENT_ID_WIFE"],
-            client_secret=os.environ["KAKAO_CLIENT_SECRET_WIFE"],
-            refresh_token=os.environ["KAKAO_REFRESH_TOKEN_WIFE"],
-            friend_uuid=os.environ["KAKAO_FRIEND_UUID_HUSBAND"],
-            sender_name="아내→남편",
-        )
-    except Exception as e:
-        print(f"⚠️ 아내 → 남편 메시지 전송 실패 (무시하고 진행): {e}", flush=True)
-
-    try:
-        send_kakao_friend_message(
-            text=message_text,
-            client_id=os.environ["KAKAO_CLIENT_ID_HUSBAND"],
-            client_secret=os.environ["KAKAO_CLIENT_SECRET_HUSBAND"],
-            refresh_token=os.environ["KAKAO_REFRESH_TOKEN_HUSBAND"],
-            friend_uuid=os.environ["KAKAO_FRIEND_UUID_WIFE"],
-            sender_name="남편→아내",
-        )
-    except Exception as e:
-        print(f"⚠️ 남편 → 아내 메시지 전송 실패 (무시하고 진행): {e}", flush=True)
 
 
 # ===== 1. 네이버 뉴스 수집 =====
@@ -475,21 +391,21 @@ def main():
 
     if not all([NAVER_CLIENT_ID, NAVER_CLIENT_SECRET, GEMINI_API_KEY]):
         print("❌ 환경변수가 설정되지 않았어요!", flush=True)
-        return
+        raise RuntimeError("필수 환경변수 누락")
 
     print("\n[1/5] 📰 뉴스 수집", flush=True)
     news = fetch_news()
 
     if not news:
         print("❌ 뉴스를 가져오지 못했어요", flush=True)
-        return
+        raise RuntimeError("뉴스 수집 실패")
 
     print("\n[2/5] 🤖 AI 큐레이션", flush=True)
     curated = curate_with_gemini(news)
 
     if not curated.get("cards"):
         print("❌ 큐레이션 실패 및 백업 데이터 없음", flush=True)
-        return
+        raise RuntimeError("큐레이션 실패")
 
     print("\n[3/5] 🎨 이미지 다운로드", flush=True)
     curated = generate_and_save_images(curated)
@@ -504,9 +420,7 @@ def main():
 
     print(f"\n🎉 완료! {len(curated['cards'])}개 카드", flush=True)
     print(f"⏰ 종료 시간: {end_time}", flush=True)
-
-    print("\n📨 카카오 메시지 전송", flush=True)
-    send_both_messages()
+    print("✅ 뉴스 생성/저장 완료. 카카오톡은 git push 성공 후 별도 단계에서 발송됩니다.", flush=True)
 
 
 if __name__ == "__main__":
