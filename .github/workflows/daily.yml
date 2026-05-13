@@ -2,24 +2,30 @@ name: Daily News Generation
 
 on:
   schedule:
-    # 한국시간 7:00, 7:30, 8:00, 9:00 (백업용 - cron-job.org가 메인)
+    # 한국시간 6:00, 6:30, 7:00, 8:00
     - cron: '0 21 * * *'    # 한국 6:00
     - cron: '30 21 * * *'   # 한국 6:30
     - cron: '0 22 * * *'    # 한국 7:00
     - cron: '0 23 * * *'    # 한국 8:00
   workflow_dispatch:
 
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    # 이미지 다운로드에 시간이 걸리므로 최대 30분
     timeout-minutes: 30
+
     permissions:
       contents: write
 
     steps:
       - name: 코드 가져오기
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 오늘 이미 생성됐는지 확인
         id: check
@@ -66,7 +72,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+
           git add data/
+
           git diff --staged --quiet || git commit -m "🗞️ 일일 뉴스 업데이트: $(TZ='Asia/Seoul' date +'%Y-%m-%d')"
-          git push
+
+          git push origin main
