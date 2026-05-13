@@ -31,12 +31,13 @@ jobs:
         id: check
         run: |
           TODAY=$(TZ='Asia/Seoul' date +'%Y-%m-%d')
-          if [ -f "data/$TODAY.json" ]; then
+
+          if [ -f "data/$TODAY.json" ] && [ -d "data/images/$TODAY" ]; then
             echo "already_done=true" >> $GITHUB_OUTPUT
-            echo "✅ 오늘 이미 생성됨, 건너뜀"
+            echo "✅ 오늘 뉴스 JSON + 이미지 폴더 모두 존재, 건너뜀"
           else
             echo "already_done=false" >> $GITHUB_OUTPUT
-            echo "🌅 오늘 처음 실행"
+            echo "🌅 오늘 뉴스 생성 필요"
           fi
 
       - name: 파이썬 설치
@@ -55,16 +56,6 @@ jobs:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-
-          KAKAO_CLIENT_ID_WIFE: ${{ secrets.KAKAO_CLIENT_ID_WIFE }}
-          KAKAO_CLIENT_SECRET_WIFE: ${{ secrets.KAKAO_CLIENT_SECRET_WIFE }}
-          KAKAO_REFRESH_TOKEN_WIFE: ${{ secrets.KAKAO_REFRESH_TOKEN_WIFE }}
-          KAKAO_FRIEND_UUID_HUSBAND: ${{ secrets.KAKAO_FRIEND_UUID_HUSBAND }}
-
-          KAKAO_CLIENT_ID_HUSBAND: ${{ secrets.KAKAO_CLIENT_ID_HUSBAND }}
-          KAKAO_CLIENT_SECRET_HUSBAND: ${{ secrets.KAKAO_CLIENT_SECRET_HUSBAND }}
-          KAKAO_REFRESH_TOKEN_HUSBAND: ${{ secrets.KAKAO_REFRESH_TOKEN_HUSBAND }}
-          KAKAO_FRIEND_UUID_WIFE: ${{ secrets.KAKAO_FRIEND_UUID_WIFE }}
         run: python scripts/generate.py
 
       - name: 결과를 저장소에 커밋
@@ -78,3 +69,17 @@ jobs:
           git diff --staged --quiet || git commit -m "🗞️ 일일 뉴스 업데이트: $(TZ='Asia/Seoul' date +'%Y-%m-%d')"
 
           git push origin main
+
+      - name: 카카오톡 알림 발송
+        if: steps.check.outputs.already_done == 'false' && success()
+        env:
+          KAKAO_CLIENT_ID_WIFE: ${{ secrets.KAKAO_CLIENT_ID_WIFE }}
+          KAKAO_CLIENT_SECRET_WIFE: ${{ secrets.KAKAO_CLIENT_SECRET_WIFE }}
+          KAKAO_REFRESH_TOKEN_WIFE: ${{ secrets.KAKAO_REFRESH_TOKEN_WIFE }}
+          KAKAO_FRIEND_UUID_HUSBAND: ${{ secrets.KAKAO_FRIEND_UUID_HUSBAND }}
+
+          KAKAO_CLIENT_ID_HUSBAND: ${{ secrets.KAKAO_CLIENT_ID_HUSBAND }}
+          KAKAO_CLIENT_SECRET_HUSBAND: ${{ secrets.KAKAO_CLIENT_SECRET_HUSBAND }}
+          KAKAO_REFRESH_TOKEN_HUSBAND: ${{ secrets.KAKAO_REFRESH_TOKEN_HUSBAND }}
+          KAKAO_FRIEND_UUID_WIFE: ${{ secrets.KAKAO_FRIEND_UUID_WIFE }}
+        run: python scripts/send_kakao.py
