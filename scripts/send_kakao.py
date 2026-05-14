@@ -15,8 +15,7 @@ from datetime import datetime, timezone, timedelta
 
 
 KST = timezone(timedelta(hours=9))
-TARGET_DATE = (os.environ.get("TARGET_DATE") or "").strip()
-TODAY = TARGET_DATE if TARGET_DATE else datetime.now(KST).strftime("%Y-%m-%d")
+TODAY = datetime.now(KST).strftime("%Y-%m-%d")
 NEWS_URL = "https://jinny0925.github.io/news-pic/"
 
 
