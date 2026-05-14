@@ -10,7 +10,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
 
     permissions:
       contents: write
@@ -29,6 +29,11 @@ jobs:
       - name: 패키지 설치
         run: pip install -r requirements.txt
 
+      - name: Git 설정
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: 2026-05-11 뉴스 복구
         env:
           TARGET_DATE: 2026-05-11
@@ -36,6 +41,12 @@ jobs:
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate.py
+
+      - name: 2026-05-11 저장
+        run: |
+          git add data/
+          git diff --staged --quiet || git commit -m "🗞️ 뉴스 복구: 2026-05-11"
+          git push origin main
 
       - name: 2026-05-12 뉴스 복구
         env:
@@ -45,6 +56,12 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate.py
 
+      - name: 2026-05-12 저장
+        run: |
+          git add data/
+          git diff --staged --quiet || git commit -m "🗞️ 뉴스 복구: 2026-05-12"
+          git push origin main
+
       - name: 오늘 뉴스 다시 생성해서 latest 업데이트
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
@@ -52,15 +69,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate.py
 
-      - name: 결과를 저장소에 커밋
+      - name: 오늘 뉴스 저장
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add data/
-
-          git diff --staged --quiet || git commit -m "🗞️ 누락 뉴스 복구 및 오늘 뉴스 업데이트"
-
+          git diff --staged --quiet || git commit -m "🗞️ 일일 뉴스 업데이트: $(TZ='Asia/Seoul' date +'%Y-%m-%d')"
           git push origin main
 
       - name: 카카오톡 알림 발송
