@@ -29,8 +29,7 @@ NAVER_CLIENT_SECRET = (os.environ.get("NAVER_CLIENT_SECRET") or "").strip()
 GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 
 KST = timezone(timedelta(hours=9))
-TARGET_DATE = (os.environ.get("TARGET_DATE") or "").strip()
-TODAY = TARGET_DATE if TARGET_DATE else datetime.now(KST).strftime("%Y-%m-%d")
+TODAY = datetime.now(KST).strftime("%Y-%m-%d")
 
 
 # ===== 1. 네이버 뉴스 수집 =====
