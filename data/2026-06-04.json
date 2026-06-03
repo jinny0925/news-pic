@@ -1,703 +1,621 @@
 {
   "cards": [
     {
-      "id": "society-japan-birthrate",
-      "is_headline": true,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "line_chart",
-      "title": "日 지난해 출생아 67만명, 역대 최저…예상보다 15년 일찍 현실화",
-      "subtitle": "멈출 수 없는 인구 감소, 일본 사회의 미래는?",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "67만명",
-            "label": "2025년 출생아"
-          },
-          {
-            "value": "1.14명",
-            "label": "합계출산율"
-          },
-          {
-            "value": "15년",
-            "label": "예상보다 가속"
-          }
-        ],
-        "main_number": "67만명",
-        "main_text": "지난해 출생아 수, 예상보다 15년 빠르게 역대 최저치"
-      },
-      "image_prompt": "infographic illustration of a shrinking population, with a line chart going down, a baby crying, and a calendar, in a soft pastel color palette, no text",
-      "detail": {
-        "summary": "일본의 연간 출생아 수가 지난해 67만명대로 역대 최저치를 기록하며, 국립사회보장·인구문제연구소의 2040년 전망보다 15년 앞서 현실화되었다.",
-        "points": [
-          "2025년 출생아 67만명대, 예상보다 15년 빠른 현실화",
-          "합계출산율 1.14명으로 역대 최저 기록",
-          "오키나와 1.52명, 도쿄 0.99명 등 지역별 편차 심화",
-          "인구 감소가 일본 사회 전반에 미치는 영향 심화"
-        ],
-        "quote": "연간 출생아 67만명대 진입은 예상보다 15년 앞선 충격적인 결과이다.",
-        "context": "일본의 인구 감소는 경제 성장 동력 약화, 사회 보장 시스템 부담 증가 등 장기적인 국가 경쟁력에 심각한 위협으로 작용하며, 한국 등 다른 선진국에도 유사한 경고 메시지를 던진다.",
-        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=579277"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20a%20shrinking%20population%2C%20with%20a%20line%20chart%20going%20down%2C%20a%20baby%20crying%2C%20and%20a%20calendar%2C%20in%20a%20soft%20pastel%20color%20palette%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10291&nologo=true"
-    },
-    {
-      "id": "world-hormuz-strait",
+      "id": "world-us-china-bio",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "map_highlight",
-      "title": "핵보다 강한 무기? 호르무즈 해협을 이란이 놓지 않으려 하는 이유",
-      "subtitle": "세계 에너지 수송의 핵심, 이란의 전략적 지렛대",
+      "viz_type": "bar_chart",
+      "title": "美, 중국 바이오 투자 규제 강화",
+      "subtitle": "신약개발 파트너십에도 영향, 탈중국 가속화",
       "viz_data": {
         "stats": [
           {
-            "value": "3분의 1",
-            "label": "세계 원유 수송량"
+            "value": "미국 하원",
+            "label": "주도"
           },
           {
-            "value": "33km",
-            "label": "최좁은 해협 폭"
+            "value": "바이오산업",
+            "label": "규제 대상"
+          },
+          {
+            "value": "임상시험 환경",
+            "label": "문제 제기"
           }
         ],
-        "main_number": "3분의 1",
-        "main_text": "전 세계 원유 수송량의 3분의 1이 지나는 해협"
+        "main_number": "↑",
+        "main_text": "투자 경계심 상승"
       },
-      "image_prompt": "infographic illustration of the Strait of Hormuz on a world map, with oil tankers and a flow of oil, highlighting its strategic importance, in a geopolitical style, no text",
+      "image_prompt": "cute pastel infographic illustration, US and China flags, intertwined DNA helix with a lock, no text",
       "detail": {
-        "summary": "호르무즈 해협은 전 세계 원유 수송량의 3분의 1이 지나는 전략적 요충지로, 이란은 이 해협을 통해 국제사회에 대한 강력한 전략적 지렛대를 확보하고 있다.",
+        "summary": "미국 하원이 중국 바이오 기업에 대한 미국 자본과 기술 투자를 옥죄며 신약 개발 파트너십에도 변수가 될 전망이다.",
         "points": [
-          "전 세계 원유 수송량의 3분의 1 통과",
-          "핵무기 이상의 전략적 효과를 지닌 중요 자산",
-          "이란에게 국제사회 무시를 불가능하게 하는 지렛대",
-          "완전 봉쇄 시 국제사회 대규모 군사 개입 초래 가능성"
+          "미 하원 중국특별위원회, 중국 바이오산업에 대한 경계심 고조",
+          "미국 자본 및 기술의 중국 바이오 기업 유입 제한 추진",
+          "중국 임상시험 환경 문제 제기, '저비용·고속' 임상 위험성 경고",
+          "바이오산업의 탈중국 움직임 가속화 예상"
         ],
-        "quote": "세계 경제가 의존하는 해상 통로를 흔들 수 있는 능력이 핵무기 이상의 전략적 효과를 만들어낼 수 있다.",
-        "context": "중동 정세의 불안정성과 이란의 핵 개발 문제를 둘러싼 국제사회와의 갈등 속에서 호르무즈 해협은 이란의 외교적, 군사적 협상력을 높이는 핵심 카드로 부상하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/021/0002795349?sid=100"
+        "quote": "중국 제약산업은 국가 주도의 '군민 융합' 정책으로 성장하고 있다.",
+        "context": "기술 패권 경쟁이 심화되는 가운데, 바이오 분야까지 미국의 대중국 견제가 확대되며 글로벌 공급망 재편에 영향을 미치고 있다.",
+        "source_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=842310"
       },
-      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20the%20Strait%20of%20Hormuz%20on%20a%20world%20map%2C%20with%20oil%20tankers%20and%20a%20flow%20of%20oil%2C%20highlighting%20its%20strategic%20importance%2C%20in%20a%20geopolitical%20style%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87175&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20US%20and%20China%20flags%2C%20intertwined%20DNA%20helix%20with%20a%20lock%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10295&nologo=true"
     },
     {
-      "id": "world-forex-reserves",
+      "id": "world-us-iran-resolution",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart_ranking",
-      "title": "대한민국 외환보유액 세계 12위 유지…글로벌 순위는?",
-      "subtitle": "국민연금 외환스와프 거래로 감소했지만 순위는 견고",
+      "viz_type": "pie_chart",
+      "title": "美 하원, '이란 전쟁 중단' 결의안 통과",
+      "subtitle": "의회 승인 없는 군사 행동 제한, 트럼프 압박",
       "viz_data": {
         "stats": [
           {
-            "value": "12위",
-            "label": "한국 순위"
+            "value": "결의안 통과",
+            "label": "미 하원"
           },
           {
-            "value": "8.8억$",
-            "label": "5월 감소액"
+            "value": "공화 4명",
+            "label": "찬성"
           },
           {
-            "value": "3조4천억$",
-            "label": "中 외환보유액"
+            "value": "대통령",
+            "label": "정치적 부담"
           }
         ],
-        "main_number": "12위",
-        "main_text": "한국, 세계 외환보유액 순위 12위 유지"
+        "main_number": "찬성",
+        "main_text": "초당적 지지 확보"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing stacks of money with country flags, representing a global ranking",
+      "image_prompt": "cute pastel infographic illustration, Capitol building, US flags, a 'stop' sign over a war scene, no text",
       "detail": {
-        "summary": "우리나라 외환보유액이 5월 중 국민연금과의 외환스와프 거래로 8.8억 달러 감소했으나, 세계 12위 순위를 유지했다. 중국, 일본, 스위스가 상위권을 차지했다.",
+        "summary": "미국 하원에서 의회 승인 없는 이란 전쟁 중단 결의안이 통과됐다. 일부 공화당 의원까지 찬성표를 던져 트럼프 대통령에게 정치적 부담으로 작용할 전망이다.",
         "points": [
-          "우리나라 외환보유액 5월 8.8억 달러 감소",
-          "국민연금과의 외환스와프 거래가 주요 원인",
-          "세계 외환보유액 순위 12위 유지",
-          "중국 1위, 일본 2위, 스위스 3위 등 상위국 현황"
+          "미 하원, 의회 승인 없는 이란 전쟁 중단 결의안 통과",
+          "공화당 의원 일부, 민주당과 함께 찬성표 던져",
+          "당내 이란전에 대한 지지 균열 조짐 시사",
+          "트럼프 대통령에게 정치적 부담으로 작용할 분석"
         ],
-        "quote": "외환보유액 변동은 국민연금과의 거래 외에 외화자산 운용수익, 기타 통화 외화자산의 미달러화 환산액 변동 등에 영향을 받는다.",
-        "context": "외환보유액은 국가의 대외 지급 능력을 보여주는 중요한 지표로, 변동성 속에서도 안정적인 순위 유지는 대외 경제 여건 변화에 대한 대응력을 시사한다.",
-        "source_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418168"
+        "quote": "당내에서도 이란전에 대한 지지가 균열 조짐을 보이고 있다.",
+        "context": "미국과 이란 간의 긴장이 고조되는 가운데, 의회가 대통령의 독자적인 군사 행동을 견제하려는 움직임을 보이며 외교 정책 결정 과정에 중요한 변화가 예상된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012193647?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20stacks%20of%20money%20with%20country%20flags%2C%20representing%20a%20global%20ranking%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49782&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Capitol%20building%2C%20US%20flags%2C%20a%20%27stop%27%20sign%20over%20a%20war%20scene%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3624&nologo=true"
     },
     {
-      "id": "world-pharma-deals",
+      "id": "world-israel-lebanon-truce",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "한미약품·오스코텍, 잇단 '조 단위' 해외 기술수출…K바이오 약진",
-      "subtitle": "글로벌 시장 사로잡는 국내 바이오 기업들의 성과",
+      "title": "이스라엘-레바논, 휴전 합의",
+      "subtitle": "미 국무부 발표, 중동 지역 긴장 완화 기대",
       "viz_data": {
         "stats": [
           {
-            "value": "2건",
-            "label": "조 단위 계약"
+            "value": "미 국무부",
+            "label": "발표 주체"
           },
           {
-            "value": "릴리",
-            "label": "한미약품 파트너"
+            "value": "이스라엘",
+            "label": "당사국"
           },
           {
-            "value": "글로벌",
-            "label": "진출 시장"
+            "value": "레바논",
+            "label": "당사국"
           }
         ],
-        "main_number": "조 단위",
-        "main_text": "한미약품, 릴리에 조 단위 기술수출 계약 체결"
+        "main_number": "평화",
+        "main_text": "긴장 완화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a flow chart or timeline of successful global pharmaceutical deals, with handshake icons and money bags",
+      "image_prompt": "cute pastel infographic illustration, flags of Israel and Lebanon, dove of peace, handshake, no text",
       "detail": {
-        "summary": "한미약품이 릴리에 소네페글루타이드의 한국 제외 전 세계 개발·제조·상업화 권리를 조 단위에 기술수출하며 K바이오의 글로벌 경쟁력을 입증했다.",
+        "summary": "미국 국무부가 이스라엘과 레바논 간의 휴전 합의 소식을 발표했다. 이는 최근 중동 지역의 군사적 긴장을 완화하는 데 기여할 것으로 보인다.",
         "points": [
-          "한미약품, 릴리에 비만·당뇨 신약 후보물질 기술수출",
-          "한국 제외 전 세계 권리를 릴리에 이전하는 조 단위 계약",
-          "오스코텍 등 다른 국내 기업들도 대형 기술수출 성과",
-          "K바이오 기업들의 혁신 신약 개발 역량 부각"
+          "미 국무부, 이스라엘과 레바논 간 휴전 합의 공식 발표",
+          "중동 지역의 오랜 분쟁 당사국 간의 중요한 외교적 성과",
+          "이전 이스라엘 공습으로 인한 긴장 고조 상황에서 진전",
+          "지역 안정화 및 추가 확전 방지에 긍정적 영향 기대"
         ],
-        "quote": "전 세계적으로 주목받고 있는 혁신 기업인 릴리가 소네페글루타이드의 개발 잠재력을 인정했다는 데 의미가 크다.",
-        "context": "글로벌 제약 시장에서 국내 바이오 기업들의 기술력이 연이어 인정받으며, 한국이 신약 개발 허브로 성장할 가능성을 보여주고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006296929?sid=101"
+        "quote": "아주경제=장성원 국제경제팀 팀장",
+        "context": "이스라엘과 레바논은 오랜 기간 국경 분쟁과 무력 충돌을 겪어왔다. 이번 휴전 합의는 양국 관계 개선 및 중동 지역 전체의 안정에 중요한 전환점이 될 수 있다.",
+        "source_url": "https://www.ajunews.com/view/20260604080642411"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20flow%20chart%20or%20timeline%20of%20successful%20global%20pharmaceutical%20deals%2C%20with%20handshake%20icons%20and%20money%20bags%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98007&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20flags%20of%20Israel%20and%20Lebanon%2C%20dove%20of%20peace%2C%20handshake%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63858&nologo=true"
     },
     {
-      "id": "economy-kospi-target",
+      "id": "economy-kospi-goldmansachs",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "line_chart_with_target",
-      "title": "골드만삭스, 코스피 목표치 12,000으로 상향…강한 실적 모멘텀 주목",
-      "subtitle": "IT 업종 이익 185% 증가, 코스피 강세 견인",
+      "viz_type": "line_chart",
+      "title": "골드만삭스, 코스피 목표치 12,000 상향",
+      "subtitle": "IT 업종 실적 호조, 추가 상승 여력 37%",
       "viz_data": {
         "stats": [
           {
             "value": "12,000",
-            "label": "새 코스피 목표"
+            "label": "코스피 목표치"
+          },
+          {
+            "value": "+37%",
+            "label": "상승 여력"
           },
           {
             "value": "+185%",
-            "label": "IT 업종 이익 증가"
-          },
-          {
-            "value": "+277%",
-            "label": "시장 예상 이익 증가율"
+            "label": "IT 1분기 이익 증가"
           }
         ],
-        "main_number": "12,000",
-        "main_text": "골드만삭스, 코스피 목표치 12,000으로 상향"
+        "main_number": "+277%",
+        "main_text": "시장 예상 이익 증가율 상향"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a rising stock market chart with a clear target point, representing investment growth and positive outlook",
+      "image_prompt": "cute pastel infographic illustration, stock market graph, upward arrow, Seoul city skyline, gold coins, no text",
       "detail": {
-        "summary": "골드만삭스가 한국 증시 코스피 목표치를 12,000으로 상향 조정했다. 1분기 IT 업종의 이익이 185% 증가하고 시장 예상 이익 증가율이 277%에 달하는 등 강한 실적 모멘텀이 코스피 강세를 이끌고 있다고 분석했다.",
+        "summary": "골드만삭스가 코스피 목표치를 1만2000으로 상향 조정하며 37%의 추가 상승 여력을 제시했다. 1분기 IT 업종의 이익이 185% 증가하는 등 강한 실적 모멘텀이 상승을 이끌고 있다.",
         "points": [
           "골드만삭스, 코스피 목표치 12,000으로 상향",
+          "현재 대비 37% 추가 상승 여력 전망",
           "1분기 IT 업종 이익 185% 폭증, 코스피 강세 견인",
-          "시장 예상 이익 증가율 연초 48%에서 277%로 상향",
-          "삼성전자, SK하이닉스 등 주요 IT 기업 실적 기대"
+          "시장 예상 이익 증가율 연초 48%에서 현재 277%로 상향 조정"
         ],
-        "quote": "한국은 강한 실적 모멘텀으로 전 세계에서 가장 높은 이익 증가율을 기록하고 있다.",
-        "context": "글로벌 경기 회복과 인공지능(AI) 관련 수요 증가가 한국 IT 기업들의 실적을 견인하며, 국내 증시의 상승세를 이끌고 있다는 점에서 주목된다.",
+        "quote": "1분기 IT 업종 이익이 185% 증가했는데, 한국이 대표적인 사례다.",
+        "context": "반도체 업황 회복과 AI 산업 성장 등의 영향으로 한국 기업들의 실적 전망이 크게 개선되면서 글로벌 투자 기관들의 긍정적인 평가가 이어지고 있다.",
         "source_url": "https://www.getnews.co.kr/news/articleView.html?idxno=871575"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20rising%20stock%20market%20chart%20with%20a%20clear%20target%20point%2C%20representing%20investment%20growth%20and%20positive%20outlook%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17808&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20stock%20market%20graph%2C%20upward%20arrow%2C%20Seoul%20city%20skyline%2C%20gold%20coins%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86037&nologo=true"
     },
     {
-      "id": "economy-china-trade",
+      "id": "economy-semiconductor-truck-insurance",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "dual_chart",
-      "title": "대중국 무역수지 4년 만에 흑자전환 유력…반도체 폭등 영향",
-      "subtitle": "IT 품목 넘어 농수산식품·화장품 등 소비재 수출도 약진",
+      "viz_type": "comparison_chart",
+      "title": "반도체 운반차 사고, 롤스로이스보다 '위험'",
+      "subtitle": "최첨단 반도체 운송 중 사고 발생 시 194억원 보험금",
       "viz_data": {
         "stats": [
           {
-            "value": "4년",
-            "label": "흑자전환 기간"
+            "value": "194억원",
+            "label": "보험금"
           },
           {
-            "value": "반도체",
-            "label": "주요 품목"
+            "value": "반도체 운반차",
+            "label": "사고 대상"
           },
           {
-            "value": "소비재",
-            "label": "신규 성장 동력"
+            "value": "롤스로이스",
+            "label": "비교 대상"
           }
         ],
-        "main_number": "4년",
-        "main_text": "대중국 무역수지 4년 만에 흑자전환"
+        "main_number": "↑",
+        "main_text": "사고 비용 최신 트렌드"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a bar chart representing trade balance over years, with specific product icons (chips, cosmetics, food) for export breakdown",
+      "image_prompt": "cute pastel infographic illustration, a truck carrying semiconductor wafers next to a luxury car (Rolls Royce), dollar signs, exclamation mark, no text",
       "detail": {
-        "summary": "한국의 대중국 무역수지가 4년 만에 흑자로 전환될 가능성이 높아졌다. 반도체 가격 폭등이 주요 원인이지만, 농수산식품, 화장품 등 소비재 수출의 약진도 눈에 띈다.",
+        "summary": "고가의 롤스로이스 등 슈퍼카보다 최첨단 반도체를 운반하는 화물차와 사고가 났을 때 경제적으로 더 큰 손실이 발생할 수 있다는 분석이 나왔다. 관련 보험금은 194억원에 달한다.",
         "points": [
-          "대중국 무역수지 4년 만에 흑자전환 전망",
-          "반도체 가격 폭등이 흑자 전환의 핵심 요인",
-          "무선통신기기, 컴퓨터 등 IT 품목 수출 견고",
-          "농수산식품, 화장품 등 소비재 수출 눈에 띄게 약진"
+          "반도체 운반 화물차 사고 시 막대한 경제적 손실 발생",
+          "1건 사고에 194억원 보험금 발생 사례 공유",
+          "롤스로이스 등 슈퍼카 사고보다 높은 경제적 위험성 부각",
+          "최첨단 반도체 물류의 높은 가치와 중요성 시사"
         ],
-        "quote": "기존 IT 품목 외에 농수산식품, 화장품 등 소비재 수출이 눈에 띄게 약진하고 있다는 점은 고무적이다.",
-        "context": "중국 시장이 단순 기술 수출을 넘어 다양한 소비재 분야에서 한국 제품을 수용하기 시작하면서, 무역 구조의 다변화와 새로운 수출 동력 확보 가능성을 보여준다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002651755?sid=101"
+        "quote": "요즘 박으면 진짜 큰일 나는 차",
+        "context": "글로벌 반도체 산업의 중요성이 커지면서, 고가 장비 및 부품 운송 중 발생하는 사고의 경제적 파급 효과가 더욱 커지고 있다. 이는 물류 보험 및 안전 관리의 중요성을 강조한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0008984480?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20bar%20chart%20representing%20trade%20balance%20over%20years%2C%20with%20specific%20product%20icons%20%28chips%2C%20cosmetics%2C%20food%29%20for%20export%20breakdown%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91143&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20truck%20carrying%20semiconductor%20wafers%20next%20to%20a%20luxury%20car%20%28Rolls%20Royce%29%2C%20dollar%20signs%2C%20exclamation%20mark%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=68749&nologo=true"
     },
     {
-      "id": "economy-eu-steel-quota",
+      "id": "economy-lseletric-performance",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "LS일렉트릭, 연간 최대 실적 '정조준'",
+      "subtitle": "전력망 교체 및 AI 특수로 전력 부문 독주 체제",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "전력 부문",
+            "label": "성장 동력"
+          },
+          {
+            "value": "전력망 교체",
+            "label": "수요 증가"
+          },
+          {
+            "value": "AI 데이터센터",
+            "label": "특수"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "매출 및 이익 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration, power grid, data center, upward graph, factory building, no text",
+      "detail": {
+        "summary": "LS일렉트릭이 글로벌 전력망 교체 수요와 AI 데이터센터발 특수에 힘입어 전력 부문에서 독주하며 연간 최대 실적을 달성할 것으로 전망된다.",
+        "points": [
+          "글로벌 전력망 교체 수요 증가, 전력 부문 핵심 성장 동력",
+          "AI 데이터센터 확장으로 인한 전력 수요 급증, 새로운 특수",
+          "LS일렉트릭 전력 부문, 다른 사업 부문 대비 압도적 성장",
+          "연간 최대 실적 달성 및 독주 체제 굳히기 전망"
+        ],
+        "quote": "전력 부문의 압도적인 성장세가 지속되고 있다.",
+        "context": "탄소중립 정책으로 인한 노후 전력망 교체와 AI 산업의 폭발적인 성장으로 데이터센터 건설이 급증하면서 전력 인프라 관련 기업들의 수혜가 커지고 있다.",
+        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=220138"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20power%20grid%2C%20data%20center%2C%20upward%20graph%2C%20factory%20building%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28718&nologo=true"
+    },
+    {
+      "id": "tech-ai-semiconductor-cooperation",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "network_map",
+      "title": "최태원-젠슨 황-TSMC 회장, AI 반도체 삼각 동맹 강화",
+      "subtitle": "글로벌 AI 패권 선점 위한 핵심 협력 구도 구축",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "SK",
+            "label": "최태원"
+          },
+          {
+            "value": "엔비디아",
+            "label": "젠슨 황"
+          },
+          {
+            "value": "TSMC",
+            "label": "웨이저자"
+          }
+        ],
+        "main_number": "3社",
+        "main_text": "글로벌 AI 핵심 협력"
+      },
+      "image_prompt": "cute pastel infographic illustration, three influential tech CEOs (Chai, Huang, Wei) shaking hands, connected by lines, circuit board patterns, globe, no text",
+      "detail": {
+        "summary": "최태원 SK그룹 회장이 젠슨 황 엔비디아 CEO에 이어 웨이저자 TSMC 회장과도 연이어 회동하며 글로벌 AI 반도체 협력 강화에 나섰다. 이는 AI 시대 핵심 공급망 구축에 중요한 이정표가 될 전망이다.",
+        "points": [
+          "최태원 SK 회장, 엔비디아 젠슨 황 CEO에 이어 TSMC 웨이저자 회장과 연이어 회동",
+          "AI 반도체 시장 주도권 확보를 위한 전략적 협력 강화",
+          "SK하이닉스의 고대역폭 메모리(HBM) 기술력과 TSMC의 파운드리 역량 결합",
+          "글로벌 AI 시장 환경 변화에 기민하게 대응하고 차세대 기술 개발 논의"
+        ],
+        "quote": "(HBM을) 더 만들어달라.",
+        "context": "AI 기술의 발전은 반도체 수요를 폭증시키고 있으며, 특히 고성능 AI 칩 개발과 생산은 소수 기업의 역량에 달려있다. 이번 회동은 한국, 미국, 대만 간 핵심 기술 협력의 중요성을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/032/0003449846?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20three%20influential%20tech%20CEOs%20%28Chai%2C%20Huang%2C%20Wei%29%20shaking%20hands%2C%20connected%20by%20lines%2C%20circuit%20board%20patterns%2C%20globe%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19628&nologo=true"
+    },
+    {
+      "id": "tech-spacex-ipo",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "스페이스X, 시총 세계 7위 '예약'",
+      "subtitle": "공모가 135달러 책정, 머스크 자산도 급증",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "135달러",
+            "label": "주당 공모가"
+          },
+          {
+            "value": "세계 7위",
+            "label": "시총 순위"
+          },
+          {
+            "value": "7260억 달러",
+            "label": "머스크 자산"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "기업 가치 급등"
+      },
+      "image_prompt": "cute pastel infographic illustration, SpaceX rocket launch, stock market graph soaring, money symbols, Elon Musk cartoon, no text",
+      "detail": {
+        "summary": "일론 머스크의 스페이스X가 주당 135달러의 공모가를 책정하며 시가총액 세계 7위 기업 등극을 예약했다. 이는 머스크의 자산을 더욱 증대시킬 전망이다.",
+        "points": [
+          "스페이스X, 주당 공모가 135달러 책정 발표",
+          "예상 시가총액으로 글로벌 기업 중 7위 예약",
+          "일론 머스크, 7260억 달러로 세계 1위 자산가 위치 공고화",
+          "올해 AI 대형 IPO들의 서막을 열 것으로 기대"
+        ],
+        "quote": "머스크는 2위인 구글 창업자 래리 페이지가 보유한 3080억 달러의 2배가 넘는 압도적 자산을 보유하고 있다.",
+        "context": "민간 우주 산업의 선두주자인 스페이스X의 높은 기업 가치는 우주 기술 및 서비스에 대한 시장의 기대감을 반영한다. 이는 향후 AI 등 첨단 기술 분야의 IPO에도 긍정적인 영향을 미칠 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/215/0001254229?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20SpaceX%20rocket%20launch%2C%20stock%20market%20graph%20soaring%2C%20money%20symbols%2C%20Elon%20Musk%20cartoon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37633&nologo=true"
+    },
+    {
+      "id": "tech-kakaotalk-chatgpt",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
       "viz_type": "flow_chart",
-      "title": "EU, 한국산 철강 무관세 수입쿼터 시행 임박…정부 '우호적 대우' 요청",
-      "subtitle": "다음 달부터 철강 TRQ 시행 예정, 한국 산업 영향 촉각",
+      "title": "카톡에서 챗GPT 바로 사용 가능",
+      "subtitle": "카카오톡 채팅방에 생성형 AI 기능 이달 중 도입",
       "viz_data": {
         "stats": [
           {
-            "value": "다음 달",
-            "label": "TRQ 시행"
+            "value": "카카오톡",
+            "label": "플랫폼"
           },
           {
-            "value": "수십억 달러",
-            "label": "한국 투자액"
+            "value": "챗GPT",
+            "label": "도입 AI"
           },
           {
-            "value": "수만 개",
-            "label": "창출 일자리"
-          }
-        ],
-        "main_number": "TRQ",
-        "main_text": "EU, 한국산 철강 무관세 수입쿼터 시행 예정"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a negotiation table with two parties, steel beams, and a chart representing trade quotas, in a diplomacy setting",
-      "detail": {
-        "summary": "유럽연합(EU)이 다음 달부터 철강에 대해 무관세 수입쿼터(TRQ)를 시행할 예정인 가운데, 정부가 EU 통상수장을 만나 한국산 철강에 대한 우호적 대우를 강력 요청했다.",
-        "points": [
-          "EU, 다음 달부터 철강 무관세 수입쿼터(TRQ) 시행",
-          "정부 고위급, EU 통상수장 만나 우호적 대우 요청",
-          "TRQ 적용 시 한국산 철강 시장 접근 제한 우려",
-          "한국 기업의 EU 내 투자(수십억 달러) 및 일자리 창출(수만 개) 강조"
-        ],
-        "quote": "이번 조치가 한국산 철강의 시장접근을 제한할 뿐만 아니라 EU 역내에 수십억 달러를 투자해 수만 개의 일자리를 창출해 온 한국 자동차·가전 기업들의 생산에도 영향을 미칠 수 있다.",
-        "context": "EU의 보호무역주의 강화 움직임 속에서 한국의 주요 수출 품목인 철강에 대한 무역 장벽은 국내 관련 산업에 큰 영향을 미칠 수 있어 정부의 적극적인 대응이 요구된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002651759?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20negotiation%20table%20with%20two%20parties%2C%20steel%20beams%2C%20and%20a%20chart%20representing%20trade%20quotas%2C%20in%20a%20diplomacy%20setting%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36934&nologo=true"
-    },
-    {
-      "id": "tech-ai-chip-alliance",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "network_diagram",
-      "title": "최태원, 젠슨 황 이어 TSMC 회장과 회동…AI 반도체 '삼각동맹' 강화",
-      "subtitle": "SK하이닉스 HBM 공급 확대 요청, 대만 컴퓨텍스 2026서 협력 모색",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3대 기업",
-            "label": "참여 기업"
-          },
-          {
-            "value": "AI 반도체",
-            "label": "핵심 기술"
-          },
-          {
-            "value": "컴퓨텍스",
-            "label": "회동 장소"
-          }
-        ],
-        "main_number": "3대",
-        "main_text": "글로벌 AI 반도체 3대 기업 협력 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a network of three major tech company logos (SK Hynix, Nvidia, TSMC) with connecting lines, representing collaboration on AI semiconductors",
-      "detail": {
-        "summary": "최태원 SK그룹 회장이 엔비디아 젠슨 황 CEO에 이어 TSMC 웨이저자 회장과 연이어 회동하며 AI 반도체 분야에서 '삼각동맹'을 강화했다. 황 CEO는 SK하이닉스 부스를 깜짝 방문해 HBM 공급 확대를 요청했다.",
-        "points": [
-          "최태원 회장, 젠슨 황 엔비디아 CEO 및 TSMC 회장과 연쇄 회동",
-          "AI 반도체 '삼각동맹' 구축으로 글로벌 경쟁력 강화",
-          "황 CEO, 컴퓨텍스 2026서 SK하이닉스 HBM 공급 확대 요청",
-          "SK하이닉스의 고대역폭 메모리(HBM) 기술력 재확인"
-        ],
-        "quote": "최태원 회장은 AI 시대 필수인 반도체 기술 혁신을 위해 글로벌 협력의 중요성을 강조했다.",
-        "context": "인공지능(AI) 시대의 핵심인 고성능 반도체 공급망을 안정화하고 기술 주도권을 확보하기 위한 글로벌 선두 기업들의 전략적 협력으로, 향후 AI 산업 전반에 큰 영향을 미칠 것으로 예상된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/374/0000513905?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20network%20of%20three%20major%20tech%20company%20logos%20%28SK%20Hynix%2C%20Nvidia%2C%20TSMC%29%20with%20connecting%20lines%2C%20representing%20collaboration%20on%20AI%20semiconductors%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10977&nologo=true"
-    },
-    {
-      "id": "tech-contech-korea",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "process_diagram",
-      "title": "경기도, 건설현장에 AI 도입…'콘테크'로 중소건설기업 활성화 모색",
-      "subtitle": "드론, 빅데이터, 로봇 등 최첨단 IT 기술 융합으로 생산성 향상",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "AI",
-            "label": "핵심 기술"
-          },
-          {
-            "value": "생산성",
-            "label": "향상 목표"
-          },
-          {
-            "value": "중소기업",
-            "label": "활성화 대상"
-          }
-        ],
-        "main_number": "콘테크",
-        "main_text": "건설+기술, 중소기업 활성화의 해답"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a construction site with drones, robots, and workers, connected by lines representing data flow and AI integration, for ConTech",
-      "detail": {
-        "summary": "경기도가 건설(Construction)과 기술(Technology)의 합성어인 '콘테크'를 건설현장에 도입하여 생산성을 높이고 중소건설기업 활성화 방안을 모색한다. 드론, 빅데이터, 로보틱스 등 첨단 IT 기술을 융합한다.",
-        "points": [
-          "경기도, 건설현장에 콘테크(ConTech) 도입 추진",
-          "드론 측량, 빅데이터 분석, 로보틱스 등 첨단 IT 기술 융합",
-          "건설 생산성 향상 및 공급망 효율화 목표",
-          "중소건설기업의 기술 경쟁력 강화 및 활성화 방안 모색"
-        ],
-        "quote": "콘테크는 전통적인 건설 현장에 최첨단 IT 기술을 융합해 생산성을 높이고 공급망을 혁신하는 방법이다.",
-        "context": "건설업은 전통적으로 기술 도입이 더딘 분야였으나, AI 등 첨단 기술과의 융합을 통해 안전성, 효율성, 생산성을 동시에 높일 수 있어 미래 건설 산업의 핵심 경쟁력이 될 것으로 기대된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/021/0002795343?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20construction%20site%20with%20drones%2C%20robots%2C%20and%20workers%2C%20connected%20by%20lines%20representing%20data%20flow%20and%20AI%20integration%2C%20for%20ConTech%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44087&nologo=true"
-    },
-    {
-      "id": "tech-naver-kakao-ai",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "dual_line_chart",
-      "title": "네이버는 '구조대' 왔는데 카카오는?…엇갈린 AI 영향",
-      "subtitle": "엔비디아 협력 부각된 네이버 vs 창사 이래 첫 유상증자 카카오",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "상승세",
-            "label": "네이버 주가"
-          },
-          {
-            "value": "하락세",
-            "label": "카카오 주가"
-          },
-          {
-            "value": "AI 협력",
-            "label": "핵심 요인"
+            "value": "특수 기호 입력",
+            "label": "사용 방법"
           }
         ],
         "main_number": "AI",
-        "main_text": "AI 전략에 따른 네이버-카카오 주가 희비"
+        "main_text": "일상 속 AI 대중화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing two divergent stock charts (one rising, one falling) with company logos (Naver, Kakao) and AI chips/cloud icons, representing contrasting market performance",
+      "image_prompt": "cute pastel infographic illustration, smartphone showing KakaoTalk chat, a robot icon, thought bubble with text, no text",
       "detail": {
-        "summary": "국내 IT 양대산맥 네이버와 카카오의 주가 흐름이 AI 시대에 엇갈리고 있다. 네이버는 엔비디아와의 협력 가능성으로 상승세를 타는 반면, 카카오는 창사 이래 첫 유상증자를 발표하며 하락세를 보였다.",
+        "summary": "카카오가 이르면 이달 중 카카오톡 채팅방에서 챗GPT를 바로 사용할 수 있는 기능을 선보인다. 사용자는 채팅창을 나가지 않고 특수 기호를 입력해 AI와 소통할 수 있다.",
         "points": [
-          "네이버, 글로벌 AI 기업 엔비디아와의 협력 가능성 부각",
-          "카카오, 창사 이래 첫 유상증자 발표로 투자 심리 위축",
-          "AI 전략 및 기술 경쟁력이 주가에 미치는 영향 증대",
-          "양사 간 AI 기술 및 사업 방향성 차이로 희비 교차"
+          "카카오톡 채팅방 내 챗GPT 연동 기능 도입 예정",
+          "이르면 이달 중 서비스 시작 목표",
+          "특수 기호 입력으로 간편하게 챗GPT 활용 가능",
+          "일상 대화 속 AI 활용성 대폭 증대 기대"
         ],
-        "quote": "네이버와 카카오의 엇갈린 운명은 AI 시대 기술 경쟁의 중요성을 여실히 보여준다.",
-        "context": "AI 기술이 산업 전반에 미치는 영향이 커지면서, 국내 대표 IT 기업들의 AI 전략과 이에 따른 시장의 평가가 기업의 가치를 좌우하는 중요한 요소로 작용하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/014/0005530325?sid=101"
+        "quote": "사용자가 채팅창을 나가지 않고 특수 기호를 입력해 챗GPT에게 질문을 할 수 있다.",
+        "context": "국민 메신저 카카오톡에 생성형 AI 기능이 탑재되면서 AI 기술이 일상생활에 더욱 깊숙이 파고들 것으로 예상된다. 이는 사용자들의 정보 탐색 및 소통 방식에 변화를 가져올 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/015/0005294793?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20two%20divergent%20stock%20charts%20%28one%20rising%2C%20one%20falling%29%20with%20company%20logos%20%28Naver%2C%20Kakao%29%20and%20AI%20chips/cloud%20icons%2C%20representing%20contrasting%20market%20performance%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4176&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20smartphone%20showing%20KakaoTalk%20chat%2C%20a%20robot%20icon%2C%20thought%20bubble%20with%20text%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10350&nologo=true"
     },
     {
-      "id": "society-delivery-labor",
+      "id": "society-han-dong-hoon-return",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "pros_cons_chart",
-      "title": "배달앱 새벽배달 확대에 '분통'…라이더 안전, 사회적 논의 필요",
-      "subtitle": "수익 감소, 위험 증가…정부와 기업의 대책 마련 촉구",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "수익 감소",
-            "label": "라이더 고충"
-          },
-          {
-            "value": "위험 증가",
-            "label": "야간 노동"
-          },
-          {
-            "value": "사회적 대책",
-            "label": "요구 사항"
-          }
-        ],
-        "main_number": "새벽",
-        "main_text": "배달앱 새벽배달, 라이더 안전 문제 심화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a delivery rider on a scooter at night, with a split chart depicting 'pros' (convenience, revenue) and 'cons' (safety risks, fatigue), in a muted color palette",
-      "detail": {
-        "summary": "배달앱 새벽배달 서비스 확대로 라이더들의 수익은 줄고 사고 위험은 늘어나면서 사회적 대책 마련이 시급하다는 목소리가 커지고 있다.",
-        "points": [
-          "새벽배달 서비스 확대에 따른 라이더 수익 감소",
-          "야간 노동으로 인한 사고 위험 및 피로도 증가",
-          "정부와 기업에 야간 노동 위험 방지 대책 수립 촉구",
-          "배달 플랫폼 종사자의 노동권 및 안전 보장 논의 필요성 제기"
-        ],
-        "quote": "기업뿐만 아니라 정부도 함께 나서 야간 노동의 위험성과 사고를 방지하기 위한 사회적 대책을 수립할 필요가 있다.",
-        "context": "플랫폼 노동이 확산되면서 노동 환경과 안전 문제에 대한 사회적 관심이 높아지고 있다. 특히 생계와 직결된 배달 플랫폼 종사자들의 열악한 근무 환경 개선은 중요한 사회적 과제로 부상하고 있다.",
-        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=220133"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20delivery%20rider%20on%20a%20scooter%20at%20night%2C%20with%20a%20split%20chart%20depicting%20%27pros%27%20%28convenience%2C%20revenue%29%20and%20%27cons%27%20%28safety%20risks%2C%20fatigue%29%2C%20in%20a%20muted%20color%20palette%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58548&nologo=true"
-    },
-    {
-      "id": "society-digital-reputation",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "concept_map",
-      "title": "AI 시대, 당신의 과거를 잊지 않는다…'디지털 평판 관리' 중요성 증대",
-      "subtitle": "온라인 흔적이 새로운 사회적 자본으로 부상",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "AI",
-            "label": "핵심 기술"
-          },
-          {
-            "value": "온라인 흔적",
-            "label": "평판 자산"
-          },
-          {
-            "value": "사회적 자본",
-            "label": "새로운 가치"
-          }
-        ],
-        "main_number": "평판",
-        "main_text": "AI 시대, 디지털 평판이 곧 사회적 자산"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a person's digital footprint connected to various online platforms (social media, news, search engines) with AI analysis icons, representing digital reputation management",
-      "detail": {
-        "summary": "인공지능(AI) 시대에는 디지털 흔적이 개인의 사회적 평판에 막대한 영향을 미치며, 디지털 평판 관리 능력 자체가 새로운 사회적 자본이 될 가능성이 높아졌다.",
-        "points": [
-          "AI 기술 발전으로 온라인 기록의 영구화 및 광범위한 활용",
-          "과거의 온라인 흔적이 현재와 미래의 평판에 영향",
-          "디지털 흔적 관리 능력이 새로운 사회적 자본으로 부상",
-          "개인 및 기업의 평판 관리 전략의 중요성 증대"
-        ],
-        "quote": "결국 디지털 흔적을 관리할 수 있는 능력 자체가 새로운 사회적 자본이 될 가능성이 있다.",
-        "context": "정보의 홍수 속에서 AI가 과거 데이터를 분석하고 활용하는 능력이 고도화되면서, 개인의 디지털 기록이 단순히 과거의 정보가 아니라 현재의 기회와 위험을 결정하는 중요한 요소가 되고 있다.",
-        "source_url": "https://www.venturesquare.net/1084791/"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20person%27s%20digital%20footprint%20connected%20to%20various%20online%20platforms%20%28social%20media%2C%20news%2C%20search%20engines%29%20with%20AI%20analysis%20icons%2C%20representing%20digital%20reputation%20management%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46679&nologo=true"
-    },
-    {
-      "id": "society-by-election-results",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "map_results",
-      "title": "재보선 14곳 개표 완료…與 9곳, 野 4곳·무소속 1곳 당선",
-      "subtitle": "새 정부 출범 후 첫 전국 단위 선거, 민심의 향방은?",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "14곳",
-            "label": "재보선 지역"
-          },
-          {
-            "value": "9곳",
-            "label": "여당 승리"
-          },
-          {
-            "value": "4곳",
-            "label": "야당 승리"
-          },
-          {
-            "value": "1곳",
-            "label": "무소속 승리"
-          }
-        ],
-        "main_number": "14곳",
-        "main_text": "재보궐 선거 14곳 개표 완료"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a map of Korea with different colored regions indicating election results (government, opposition, independent), with victory symbols",
-      "detail": {
-        "summary": "재보궐 선거 14곳 개표 결과, 여당이 9곳에서 승리하고 야당이 4곳, 무소속이 1곳에서 당선인을 배출했다. 이는 새 정부 출범 후 첫 전국 단위 선거의 민심을 보여준다.",
-        "points": [
-          "재보궐 선거 총 14곳 개표 완료",
-          "여당 9곳 승리로 국정 동력 확보",
-          "야당 4곳 승리로 견제 역할 지속",
-          "부산 북갑 등 격전지 결과, 지역 민심 변화 반영"
-        ],
-        "quote": "이번 재보선은 새 정부 출범 이후 치러진 첫 전국 단위 선거이자, 지역 민심의 변화와 인물 경쟁력이 복합적으로 작용한 결과다.",
-        "context": "이번 재보선 결과는 향후 국정 운영 방향과 정치 지형에 중요한 영향을 미칠 것으로 예상된다. 특히 수도권 및 주요 격전지 결과는 여야 모두에게 향후 선거 전략 수립의 중요한 참고 자료가 될 것이다.",
-        "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1378421"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20Korea%20with%20different%20colored%20regions%20indicating%20election%20results%20%28government%2C%20opposition%2C%20independent%29%2C%20with%20victory%20symbols%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=75639&nologo=true"
-    },
-    {
-      "id": "life-playful-consumption",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "concept_illustration",
-      "title": "먹는 방식도 '내 취향'대로…치밥·아박가토 등 '놀이형 소비' 확산",
-      "subtitle": "음식 소비가 콘텐츠가 되는 '헬시 플레저' 트렌드",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "치밥",
-            "label": "대표 예시 1"
-          },
-          {
-            "value": "아박가토",
-            "label": "대표 예시 2"
-          },
-          {
-            "value": "나만의 방식",
-            "label": "소비 특징"
-          }
-        ],
-        "main_number": "취향",
-        "main_text": "자신만의 방식으로 즐기는 '놀이형 소비' 문화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing various creative food combinations (like chicken & rice, avocado & ice cream) with playful characters, representing a customizable and experimental food culture",
-      "detail": {
-        "summary": "'치밥', '아박가토'처럼 음식을 자신만의 방식으로 조합해 즐기는 '놀이형 소비'가 확산되고 있다. 이는 건강한 식생활을 즐겁게 추구하는 '헬시 플레저' 소비 문화의 일환으로 분석된다.",
-        "points": [
-          "음식을 자신만의 방식으로 조합해 즐기는 트렌드",
-          "치밥, 아박가토 등 독특한 조합 레시피 인기",
-          "음식을 먹는 과정 자체가 콘텐츠가 되는 현상",
-          "단순 유행 넘어 새로운 소비 문화로 자리매김"
-        ],
-        "quote": "소비자는 제품을 완성품이 아닌, 새로운 경험과 가치를 만들어낼 수 있는 재료로 인식한다.",
-        "context": "MZ세대를 중심으로 '재미'와 '경험'을 중시하는 소비 성향이 강화되면서, 식품업계는 소비자가 직접 참여하고 즐길 수 있는 제품과 마케팅 전략을 활발히 내세우고 있다.",
-        "source_url": "https://www.cstimes.com/news/articleView.html?idxno=708299"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20various%20creative%20food%20combinations%20%28like%20chicken%20%26%20rice%2C%20avocado%20%26%20ice%20cream%29%20with%20playful%20characters%2C%20representing%20a%20customizable%20and%20experimental%20food%20culture%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59248&nologo=true"
-    },
-    {
-      "id": "life-baseball-fandom",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "pie_chart_breakdown",
-      "title": "야구 팬덤, 소비 선호도 가지각색…구단별 라이프스타일 맞춤 마케팅",
-      "subtitle": "두산 팬은 헬스, 롯데 팬은 미식…2030 여성 팬덤 공략",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2030 여성",
-            "label": "주요 팬덤"
-          },
-          {
-            "value": "헬스",
-            "label": "두산 팬 선호"
-          },
-          {
-            "value": "미식",
-            "label": "롯데 팬 선호"
-          }
-        ],
-        "main_number": "2030",
-        "main_text": "2030 여성 팬덤의 라이프스타일 소비"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a baseball stadium with diverse fans, and pie charts/bar graphs representing different consumer preferences (e.g., beauty, food, travel) linked to specific teams, in a vibrant style",
-      "detail": {
-        "summary": "야구 구단별 팬덤의 소비 선호도가 다양하게 나타나면서, 연령대와 성별에 따른 맞춤형 라이프스타일 마케팅이 중요해지고 있다. 특히 2030 여성 팬덤의 영향력이 크다.",
-        "points": [
-          "구단별 야구 팬덤의 소비 선호도 차이 분석",
-          "두산 팬: 헬스·패션·프리미엄 라이프스타일 캠페인 선호",
-          "롯데 팬: 미식·명품·지역 밀착형 캠페인 선호",
-          "2030 여성 팬덤을 겨냥한 뷰티, 패션, 헬스케어, 여행 등 라이프스타일 업종 연계"
-        ],
-        "quote": "2030 여성 팬덤이 강한 구단은 뷰티, 패션, 헬스케어, 여행 등 라이프스타일 업종과 연결될 여지가 크다.",
-        "context": "스포츠 팬덤이 단순 관람을 넘어 소비와 라이프스타일 전반에 영향을 미치면서, 스포츠 마케팅이 팬들의 특성을 정교하게 분석하여 브랜드와 팬덤을 연결하는 방식으로 진화하고 있다.",
-        "source_url": "https://www.banronbodo.com/news/articleView.html?idxno=32397"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20baseball%20stadium%20with%20diverse%20fans%2C%20and%20pie%20charts/bar%20graphs%20representing%20different%20consumer%20preferences%20%28e.g.%2C%20beauty%2C%20food%2C%20travel%29%20linked%20to%20specific%20teams%2C%20in%20a%20vibrant%20style%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33908&nologo=true"
-    },
-    {
-      "id": "life-naver-ai-creator",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
       "viz_type": "flow_chart",
-      "title": "네이버, 블로그·카페에 1조 베팅…AI 브리핑으로 창작자 생태계 강화",
-      "subtitle": "여행, 라이프, 테크 등 우수 창작자 3000명 공인 계획",
+      "title": "한동훈 귀환에 국힘 지도부 '셈법 복잡'",
+      "subtitle": "총선 승리 발판, 당내 주도권 재편 움직임 가속화",
       "viz_data": {
         "stats": [
           {
-            "value": "1조",
-            "label": "투자 금액"
+            "value": "보궐선거",
+            "label": "귀환 계기"
           },
           {
-            "value": "3000명",
-            "label": "우수 창작자"
+            "value": "당 주도권",
+            "label": "쟁점"
           },
           {
-            "value": "AI",
-            "label": "핵심 기술"
+            "value": "재신임 투표",
+            "label": "전망"
           }
         ],
-        "main_number": "1조",
-        "main_text": "네이버, 창작자 생태계에 1조원 투자"
+        "main_number": "↑",
+        "main_text": "당내 갈등 고조"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a flow from a person creating content on a laptop to a cloud with AI features, then to a community of creators and a big '1 Trillion Won' coin, representing investment in creator economy",
+      "image_prompt": "cute pastel infographic illustration, a political party symbol, scales of justice, figures in suits, arrows indicating shifts, no text",
       "detail": {
-        "summary": "네이버가 블로그·카페 창작자 생태계 강화를 위해 1조원 이상을 투자하고, AI 브리핑 인용 수 기준으로 매달 우수 창작자 3000명을 선발해 공인할 계획이다.",
+        "summary": "6.3 보궐선거를 통해 국회에 입성한 한동훈 당선인의 귀환으로 국민의힘 지도부가 술렁이고 있다. 그의 복당과 전당대회 출마 여부가 당내 주도권 재편의 최대 변수로 떠올랐다.",
         "points": [
-          "네이버, 블로그·카페 창작자 생태계에 1조원 이상 투자",
-          "AI 브리핑 인용 수 기반으로 우수 창작자 3000명 선발",
-          "여행, 라이프, 테크 등 다양한 분야의 창작 활동 지원",
-          "과거 네이버 생태계에 막강했던 창작자 영향력 회복 기대"
+          "한동훈 당선인 보궐선거 승리, 국회 복귀",
+          "국민의힘 당내 지도부 변화 및 재편 가능성 대두",
+          "한 당선인의 복당 및 전당대회 출마 여부가 주요 관심사",
+          "당내 권력 관계 및 향후 정치 지형에 큰 영향 예상"
         ],
-        "quote": "AI 브리핑을 통해 창작자의 콘텐츠를 더 많은 이용자에게 노출하고, 인용된 수에 따라 수익을 창출하는 선순환 구조를 만들겠다.",
-        "context": "AI 기술의 발전이 콘텐츠 소비 방식을 변화시키면서, 플랫폼 기업들은 창작자 확보 및 생태계 강화에 사활을 걸고 있다. 네이버의 이번 투자는 AI 시대를 맞아 기존 강점인 커뮤니티 플랫폼을 재도약시키려는 전략으로 풀이된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/648/0000047689?sid=105"
+        "quote": "승리를 발판으로 당내 주도권을 유지하려 할 가능성이 크다는 분석도 나온다.",
+        "context": "이번 보궐선거는 주요 정치 인물의 귀환을 통해 여당 내부의 역학 관계에 중대한 변화를 예고하고 있다. 이는 차기 대선 및 총선 전략 수립에도 영향을 미칠 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002651763?sid=100"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20flow%20from%20a%20person%20creating%20content%20on%20a%20laptop%20to%20a%20cloud%20with%20AI%20features%2C%20then%20to%20a%20community%20of%20creators%20and%20a%20big%20%271%20Trillion%20Won%27%20coin%2C%20representing%20investment%20in%20creator%20economy%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22005&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20political%20party%20symbol%2C%20scales%20of%20justice%2C%20figures%20in%20suits%2C%20arrows%20indicating%20shifts%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=14749&nologo=true"
     },
     {
-      "id": "life-watch-trends",
+      "id": "society-daejeon-election-reversal",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map_chart",
+      "title": "대전 민심 대반전, 민주당 '전석 석권'",
+      "subtitle": "시장 및 5개 구청장 모두 차지, 정권에 강력한 메시지",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "대전 시장",
+            "label": "민주당"
+          },
+          {
+            "value": "5개 구청장",
+            "label": "민주당"
+          },
+          {
+            "value": "6.3 지방선거",
+            "label": "결과"
+          }
+        ],
+        "main_number": "완승",
+        "main_text": "지역 정치 지형 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration, a map of Daejeon with all districts colored in one party's color, an arrow showing political shift, no text",
+      "detail": {
+        "summary": "6.3 지방선거에서 대전 민심이 대반전하며 민주당이 시장직과 5개 구청장직을 모두 석권했다. 이는 정권과 지역 정치에 강력한 메시지를 던진 결과로 해석된다.",
+        "points": [
+          "6.3 지방선거, 대전에서 민주당 압도적 승리",
+          "대전 시장 및 5개 구청장 전석 민주당 후보 당선",
+          "민생과 정치에 대한 시민 평가가 집약된 결과로 해석",
+          "지역 정치 지형에 큰 변화 예상 및 정권에 대한 경고"
+        ],
+        "quote": "대전 민심이 정권과 지역정치에 강력한 메시지를 던졌다.",
+        "context": "지방선거는 지역 주민들의 직접적인 삶에 영향을 미치는 정책을 결정하는 중요한 기회이며, 중앙정치에 대한 민심의 풍향계 역할도 한다. 대전의 결과는 특정 지역에서 정치적 변화의 흐름을 보여준다.",
+        "source_url": "https://cc.newdaily.co.kr/site/data/html/2026/06/04/2026060400073.html"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20of%20Daejeon%20with%20all%20districts%20colored%20in%20one%20party%27s%20color%2C%20an%20arrow%20showing%20political%20shift%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=54752&nologo=true"
+    },
+    {
+      "id": "society-kakao-labor-dispute",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "카카오, 노조 반발 속 조직개편…내부 갈등 격화",
+      "subtitle": "파업 예고, 무리한 사업 추진 및 보상 논란 제기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "노조 반발",
+            "label": "주요 쟁점"
+          },
+          {
+            "value": "조직개편",
+            "label": "회사측 입장"
+          },
+          {
+            "value": "파업 예고",
+            "label": "노조 움직임"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "내부 갈등 수위"
+      },
+      "image_prompt": "cute pastel infographic illustration, Kakao logo, angry workers, protest signs, a breaking gear, no text",
+      "detail": {
+        "summary": "카카오가 노조의 반발과 파업 예고 속에서 조직개편을 단행하며 내부 갈등이 격화되고 있다. 노조는 외부 영입 임원들의 조직문화 파괴와 불공정한 보상을 문제 삼고 있다.",
+        "points": [
+          "카카오, 노조 반발과 파업 예고에도 조직개편 강행",
+          "노조, 외부 영입 임원들의 '조직문화 파괴' 및 '무리한 사업 추진' 지적",
+          "불공정한 보상 논란 및 노동 환경 악화 주장",
+          "전면 파업 시 서비스 중단 가능성은 낮으나 내부 분위기 악화 우려"
+        ],
+        "quote": "노조는 외부에서 화려한 경력과 성과를 내세워 영입된 임원들이 실제로는 조직문화 파괴, 무리한 사업 추진, 불공정한 보상 논란, 노동환경 악화 등의 문제를 남기고 있다고 지적했다.",
+        "context": "급변하는 IT 산업 환경 속에서 기업의 성장을 위한 조직개편은 필수적이지만, 그 과정에서 발생하는 노동자와의 갈등은 기업의 지속 가능성에 중요한 영향을 미친다. 카카오의 사례는 빠른 성장의 이면에 숨겨진 내부 문제를 보여준다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=579327"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Kakao%20logo%2C%20angry%20workers%2C%20protest%20signs%2C%20a%20breaking%20gear%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6752&nologo=true"
+    },
+    {
+      "id": "life-musinsa-subdude",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "timeline",
-      "title": "2026 워치스앤원더스, 기술·공예 넘어 '라이프스타일 이벤트'로 확장",
-      "subtitle": "7년 만에 복귀한 오데마 피게, 주요 워치 브랜드 트렌드 주도",
+      "viz_type": "map_chart",
+      "title": "무신사, 伊 젠지 브랜드 '섭듀드' 국내 론칭",
+      "subtitle": "성수동 팝업스토어 화제, 국내 시장 진출 가속화",
       "viz_data": {
         "stats": [
           {
-            "value": "2026",
-            "label": "개최 연도"
+            "value": "섭듀드",
+            "label": "브랜드명"
           },
           {
-            "value": "7년",
-            "label": "오데마피게 복귀"
+            "value": "이탈리아",
+            "label": "원산지"
           },
           {
-            "value": "라이프스타일",
-            "label": "새로운 지향점"
+            "value": "무신사",
+            "label": "입점 플랫폼"
           }
         ],
-        "main_number": "확장",
-        "main_text": "워치스앤원더스, 기술+공예+문화 경험의 장으로 확장"
+        "main_number": "↑",
+        "main_text": "Z세대 트렌드 반영"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a timeline of watch trends with elegant watches, a diverse crowd, and icons representing technology, craftsmanship, and culture, for a luxury lifestyle event",
+      "image_prompt": "cute pastel infographic illustration, a fashion brand logo, Italian flag, shopping bag, young people (Gen Z), no text",
       "detail": {
-        "summary": "2026 워치스앤원더스가 소수 컬렉터와 업계 관계자를 넘어 기술, 공예, 문화 경험을 연결하는 거대한 라이프스타일 이벤트로 확장되었다. 7년 만에 복귀한 오데마 피게 등이 주요 트렌드를 이끌었다.",
+        "summary": "온라인 패션 플랫폼 무신사가 이탈리아 젠지(Gen Z) 패션 브랜드 '섭듀드(Subdued)'를 국내에 공식 입점시켰다. 지난 4월 성수동 팝업 스토어는 SNS에서 큰 화제를 모았다.",
         "points": [
-          "워치스앤원더스, 단순 전시회 넘어 라이프스타일 이벤트로 진화",
-          "기술과 공예, 문화 경험을 아우르는 복합적 플랫폼",
-          "오데마 피게 7년 만에 복귀, 업계 관심 집중",
-          "소수 컬렉터 한정에서 대중적 관심으로 저변 확대"
+          "무신사, 이탈리아 젠지 패션 브랜드 '섭듀드' 국내 첫 공식 입점",
+          "4월 성수동 오프라인 팝업 스토어, SNS에서 큰 화제",
+          "국내 소비자들이 글로벌 트렌드를 빠르게 접할 수 있는 기회 제공",
+          "무신사의 글로벌 브랜드 소싱 및 국내 패션 시장 확대 전략"
         ],
-        "quote": "올해 워치스앤원더스는 소수 컬렉터와 업계 관계자에 한정되지 않고, 기술과 공예, 문화 경험을 연결하는 거대한 라이프스타일 이벤트에 가까워졌음을 보여줬다.",
-        "context": "럭셔리 산업에서 제품 자체의 가치뿐만 아니라 브랜드가 제공하는 총체적인 경험과 라이프스타일이 중요해지면서, 워치스앤원더스와 같은 대형 행사가 진화하는 모습을 보여주고 있다.",
-        "source_url": "https://www.allurekorea.com/2026/06/04/part-1-2026-%ec%9b%8c%ec%b9%98%ec%95%a4%ec%9b%90%eb%8d%94%ec%8a%a4%ec%97%90%ec%84%9c-%ed%8f%ac%ec%b0%a9%ed%95%9c-%ec%98%ac%ed%95%b4%ec%9d%98-%ec%9b%8c%ec%b9%98-%ed%8a%b8%eb%a0%8c%eb%93%9c/?utm_source=naver&utm_medium=partnership"
+        "quote": "실제 지난 4월 서울 성수동에서 진행된 첫 섭듀드 오프라인 팝업 스토어는 사회관계망서비스(SNS)에서 크게 화제를 모았다.",
+        "context": "빠르게 변화하는 패션 시장에서 MZ세대의 소비 트렌드는 유행을 주도한다. 글로벌 브랜드의 국내 진출은 소비자들에게 다양한 선택지를 제공하고, 패션 플랫폼의 경쟁력을 강화하는 요소가 된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006296940?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20timeline%20of%20watch%20trends%20with%20elegant%20watches%2C%20a%20diverse%20crowd%2C%20and%20icons%20representing%20technology%2C%20craftsmanship%2C%20and%20culture%2C%20for%20a%20luxury%20lifestyle%20event%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44886&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20fashion%20brand%20logo%2C%20Italian%20flag%2C%20shopping%20bag%2C%20young%20people%20%28Gen%20Z%29%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62590&nologo=true"
+    },
+    {
+      "id": "life-worldcup-players",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "player_profile",
+      "title": "2026 북중미 월드컵, 역대 최강 멤버 출격",
+      "subtitle": "48개국 참가 역대 최대 규모, 슈퍼스타 총출동",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "48개국",
+            "label": "참가국 수"
+          },
+          {
+            "value": "북중미",
+            "label": "개최지"
+          },
+          {
+            "value": "슈퍼스타",
+            "label": "주요 특징"
+          }
+        ],
+        "main_number": "최대",
+        "main_text": "역대급 규모와 스타"
+      },
+      "image_prompt": "cute pastel infographic illustration, football field, diverse players from different countries, World Cup trophy, no text",
+      "detail": {
+        "summary": "2026 북중미 월드컵이 사상 최초 48개국 참가라는 역대 최대 규모로 개최되며, '제2의 메시' 야말부터 케인, 홀란드, 음바페 등 세계적인 공격수들이 총출동해 팬들의 기대를 모으고 있다.",
+        "points": [
+          "2026 북중미 월드컵, 사상 최초 48개국 참가 (역대 최대)",
+          "야말, 케인, 홀란드, 음바페 등 세계적인 슈퍼스타 총출동",
+          "역대 최강 멤버라는 평가 속 뜨거운 관심",
+          "전 세계 축구 팬들을 사로잡을 역대급 축제 예고"
+        ],
+        "quote": "이번 대회는 사상 최초로 48개국이 참가하는 만큼, 전 세계 축구 팬들의 눈을 사로잡을 것이다.",
+        "context": "월드컵은 전 세계인의 축구 축제이자 문화 현상이다. 참가국 확대와 스타 선수들의 활약은 대회의 흥행을 좌우하며, 스포츠를 통한 전 세계적인 교류와 화합을 상징한다.",
+        "source_url": "https://m.sports.naver.com/wfootball/article/117/0004071159"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20football%20field%2C%20diverse%20players%20from%20different%20countries%2C%20World%20Cup%20trophy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58781&nologo=true"
+    },
+    {
+      "id": "life-mexico-k-culture",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "event_calendar",
+      "title": "멕시코 월드컵, K-컬처 축제 동반 개최",
+      "subtitle": "2026 FIFA 북중미 월드컵 계기, 한국 문화 총체적 홍보",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "멕시코",
+            "label": "개최지"
+          },
+          {
+            "value": "FIFA 월드컵",
+            "label": "연계 행사"
+          },
+          {
+            "value": "K-팝",
+            "label": "대표 콘텐츠"
+          }
+        ],
+        "main_number": "문화",
+        "main_text": "외교 홍보 효과"
+      },
+      "image_prompt": "cute pastel infographic illustration, Mexican and Korean flags, football stadium, traditional Korean fan dance, K-pop stage, no text",
+      "detail": {
+        "summary": "문화체육관광부와 외교부가 2026 FIFA 북중미 월드컵을 계기로 멕시코 현지에서 K-컬처 축제를 개최한다. 미디어파사드, 전통연희, K-팝 등 다양한 콘텐츠로 한국 문화를 선보일 예정이다.",
+        "points": [
+          "2026 FIFA 북중미 월드컵과 연계한 멕시코 K-컬처 축제 개최",
+          "문화체육관광부와 외교부 공동 주최, 한국 문화 홍보 극대화",
+          "미디어파사드, 전통연희, K-팝 등 다채로운 한국 문화 콘텐츠 선보여",
+          "주멕시코 대사관 및 한국문화원 통해 현지 교류 활성화"
+        ],
+        "quote": "멕시코 현지에서 한국과 멕시코 간 문화 교류의 장을 마련한다.",
+        "context": "스포츠 국제 행사는 국가 브랜드와 문화를 전 세계에 알릴 수 있는 절호의 기회다. K-컬처가 전 세계적으로 인기를 얻는 가운데, 월드컵과 연계한 문화 축제는 그 파급력을 더욱 증폭시킬 것으로 기대된다.",
+        "source_url": "https://www.newspim.com/news/view/20260604000208"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Mexican%20and%20Korean%20flags%2C%20football%20stadium%2C%20traditional%20Korean%20fan%20dance%2C%20K-pop%20stage%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25601&nologo=true"
     }
   ],
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T08:16:32.124893+09:00"
+  "generated_at": "2026-06-04T08:26:12.914368+09:00"
 }
