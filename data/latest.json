@@ -1,621 +1,662 @@
 {
   "cards": [
     {
-      "id": "world-semiconductor-alliance",
-      "is_headline": true,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "network",
-      "title": "최태원, 젠슨 황 이어 TSMC 회장 회동... '반도체 삼각동맹' 구축",
-      "subtitle": "글로벌 반도체 거물들의 연이은 만남, 초격차 확보 전략 가속화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3인",
-            "label": "핵심 인물"
-          },
-          {
-            "value": "세계 1위",
-            "label": "TSMC 위상"
-          },
-          {
-            "value": "AI 반도체",
-            "label": "핵심 분야"
-          }
-        ],
-        "main_number": "삼각 동맹",
-        "main_text": "글로벌 반도체 시장 판도 변화 예고"
-      },
-      "image_prompt": "cute pastel infographic illustration of three powerful business leaders shaking hands in front of a circuit board pattern, with subtle AI elements, no text",
-      "detail": {
-        "summary": "최태원 SK그룹 회장이 엔비디아 젠슨 황 CEO에 이어 TSMC 웨이저자 회장과도 회동하며 글로벌 반도체 '삼각 동맹'을 구축하고 AI 반도체 초격차 확보에 나섰습니다. 이번 만남은 HBM 등 핵심 기술 협력을 강화하는 중요한 계기가 될 것으로 보입니다.",
-        "points": [
-          "최태원, 젠슨 황-TSMC 회장 연쇄 회동",
-          "글로벌 AI 반도체 시장 주도 위한 '삼각 동맹' 구축",
-          "SK하이닉스 HBM 공급 및 기술 협력 강화 기대",
-          "컴퓨텍스 2026 계기, 2년 만의 재회로 협력 확대"
-        ],
-        "quote": "기술은 인류의 삶을 바꾸고, 반도체는 그 핵심 동력입니다. 강력한 파트너십으로 미래를 선도할 것입니다.",
-        "context": "AI 기술 발전이 가속화되면서 고성능 AI 반도체 수요가 폭증하고 있습니다. 엔비디아, TSMC, SK하이닉스 등 주요 플레이어 간의 협력은 공급망 안정화와 기술 혁신을 가속화하며 글로벌 반도체 시장의 주도권을 결정하는 중요한 요소입니다.",
-        "source_url": "https://www.livebiz.today/news/articleView.html?idxno=202419"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20three%20powerful%20business%20leaders%20shaking%20hands%20in%20front%20of%20a%20circuit%20board%20pattern%2C%20with%20subtle%20AI%20elements%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=54323&nologo=true"
-    },
-    {
-      "id": "world-ebola-control",
+      "id": "world-thaksin",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "chart",
-      "title": "WHO \"에볼라 확산세 통제 중... 생존율 개선\"",
-      "subtitle": "콩고민주공화국 등 확산 지역에서 방역 속도 가속화",
+      "viz_type": "timeline",
+      "title": "탁신 전 태국 총리 사면, 정계 복귀 촉각",
+      "subtitle": "왕실 칙령으로 잔여 형기 면제... 태국 정치 지형 변화 예고",
       "viz_data": {
         "stats": [
           {
-            "value": "WHO 발표",
-            "label": "기관"
+            "value": "1년",
+            "label": "감형된 형기"
           },
           {
-            "value": "콩고민주공화국",
-            "label": "주요 발생지"
+            "value": "8년",
+            "label": "원래 형기"
           },
           {
-            "value": "생존 가능",
-            "label": "긍정 신호"
+            "value": "2006년",
+            "label": "쿠데타 축출"
           }
         ],
-        "main_number": "확산세 둔화",
-        "main_text": "에볼라 방역 노력 성과 가시화"
+        "main_number": "17년",
+        "main_text": "망명 및 수감 생활 기간"
       },
-      "image_prompt": "cute pastel infographic illustration of medical professionals in protective gear working in a stylized map of Africa, with a gentle declining graph in the background, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "세계보건기구(WHO) 사무총장이 콩고민주공화국 등 에볼라 발생 지역에서 확산세를 방역 속도가 따라잡고 있으며, 감염돼도 생존 가능성이 높아지고 있다고 밝혔습니다. 이는 에볼라 퇴치를 위한 국제사회의 지속적인 노력의 결과로 보입니다.",
+        "summary": "탁신 친나왓 전 태국 총리가 왕실 칙령으로 잔여 형기를 면제받아 정계 복귀 가능성에 이목이 쏠리고 있습니다.",
         "points": [
-          "WHO, 에볼라 확산세 통제 진전 발표",
-          "방역 속도 향상 및 생존 가능성 증가",
-          "콩고민주공화국 등 주요 발생지 집중 관리",
-          "국제 보건 협력의 중요성 강조"
+          "수티다 왕비 생일에 맞춰 국왕 칙령 발효, 가석방 굴레 벗어나",
+          "원래 8년형에서 1년으로 감형된 후, 남은 형기까지 면제",
+          "친나왓 가문은 정치적 최저점, 탁신 전 총리의 완전 은퇴 가능성은 낮게 분석",
+          "1997년 외환위기 후 경제 회복을 이끌며 농촌 및 빈곤층의 강력한 지지"
         ],
-        "quote": "에볼라는 여전히 위협적이지만, 우리는 확산세를 따라잡고 있으며 감염된 사람들이 생존할 수 있도록 돕고 있습니다.",
-        "context": "에볼라 바이러스는 치사율이 높은 치명적인 감염병으로, 아프리카 일부 지역에서 주기적으로 발생하여 국제적인 공중 보건 위협이 되어왔습니다. 백신 개발과 방역 기술의 발전이 확산 통제와 생존율 개선에 기여하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0008984500?sid=104"
+        "quote": "태국 정치에서 가장 논쟁적인 인물로 꼽히는 그의 행보에 관심이 집중되고 있습니다.",
+        "context": "이번 사면은 태국 정치의 오랜 갈등과 탁신 가문의 영향력 재편에 중요한 변수가 될 것으로 보입니다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20260604010001342"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20medical%20professionals%20in%20protective%20gear%20working%20in%20a%20stylized%20map%20of%20Africa%2C%20with%20a%20gentle%20declining%20graph%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49648&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34383&nologo=true"
     },
     {
-      "id": "world-luxury-hotel-meeting",
+      "id": "world-flng",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "map",
-      "title": "서울신라호텔, 아시아 최초 'LHW 럭셔리 호텔 미팅' 개최",
-      "subtitle": "세계 최대 독립 호텔 연합, 아시아 태평양 시장 전략 논의",
+      "viz_type": "stats_card",
+      "title": "삼성중공업, 4.3조원 규모 美 FLNG 수주",
+      "subtitle": "美 역사상 최초의 부유식 액화천연가스(FLNG) 프로젝트 수주",
       "viz_data": {
         "stats": [
           {
-            "value": "아시아 최초",
-            "label": "개최 의미"
+            "value": "4.3조원",
+            "label": "수주 규모"
           },
           {
-            "value": "LHW",
-            "label": "주최 기관"
+            "value": "7척",
+            "label": "총 FLNG 수주"
           },
           {
-            "value": "2026년",
-            "label": "개최 시점"
+            "value": "64%",
+            "label": "시장 점유율"
           }
         ],
-        "main_number": "럭셔리 호텔",
-        "main_text": "아태 지역 관광 및 서비스 산업 조명"
+        "main_number": "美 최초",
+        "main_text": "플랜트 사업 '투자개발형' 모범사례"
       },
-      "image_prompt": "cute pastel infographic illustration of a luxurious hotel building with a subtle map of Asia in the background, people networking, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "서울신라호텔이 세계 최대 럭셔리 독립 호텔 연합인 '리딩 호텔스 오브 더 월드(LHW)'의 아시아·태평양 멤버십 미팅을 아시아 최초로 개최했습니다. 이번 미팅은 아태 지역 럭셔리 호텔 시장의 성장과 전략을 논의하는 중요한 자리가 될 것입니다.",
+        "summary": "삼성중공업이 미국 델핀(Delfin) LNG와 4.3조 원 규모의 부유식 액화천연가스(FLNG) 설비 계약을 체결했습니다. 이는 미국 역사상 최초의 FLNG 프로젝트입니다.",
         "points": [
-          "서울신라호텔, LHW 아태 미팅 아시아 최초 개최",
-          "세계 최대 럭셔리 독립 호텔 연합 LHW",
-          "아태 지역 럭셔리 관광 시장 성장 주목",
-          "프리미엄 서비스 및 마케팅 전략 공유"
+          "사업 주도사 '블랙록' 펀드의 지분 투자 참여",
+          "삼성중공업은 세계 신조 FLNG 11척 중 7척을 수주, 시장 점유율 64% 달성",
+          "한국 조선 기술력과 금융 역량의 동시 입증",
+          "투자개발형 수주 방식으로 고부가가치 시장 선도"
         ],
-        "quote": "아시아는 글로벌 럭셔리 시장의 새로운 중심입니다. 이번 미팅은 그 가능성을 확인하는 중요한 발판이 될 것입니다.",
-        "context": "아시아 태평양 지역은 경제 성장과 함께 럭셔리 관광 및 호텔 산업의 주요 시장으로 부상하고 있습니다. LHW와 같은 글로벌 연합의 미팅은 지역 내 프리미엄 서비스 표준을 강화하고, 새로운 트렌드를 공유하는 데 기여합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/277/0005771544?sid=101"
+        "quote": "이번 사업은 팀코리아가 금융부터 건조까지 일괄로 참여한 투자개발형 수주 모범 사례입니다.",
+        "context": "이번 수주는 에너지 시장의 중요한 전환점이며, 한국 기업의 글로벌 경쟁력을 다시 한번 확인시켜주었습니다.",
+        "source_url": "http://www.newslock.co.kr/news/articleView.html?idxno=130967"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20luxurious%20hotel%20building%20with%20a%20subtle%20map%20of%20Asia%20in%20the%20background%2C%20people%20networking%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15460&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=97476&nologo=true"
     },
     {
-      "id": "economy-kosp-9k",
+      "id": "world-nvidia-fox",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "process",
+      "title": "엔비디아, 제조 AI 'FOX' 발표",
+      "subtitle": "글로벌 IT 전시회 '컴퓨텍스'에서 AI 기반 공장 에이전트 공개",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4일",
+            "label": "발표일"
+          },
+          {
+            "value": "100+",
+            "label": "활용 AI 에이전트 수"
+          },
+          {
+            "value": "제조 AI",
+            "label": "핵심 기술"
+          }
+        ],
+        "main_number": "스마트 팩토리",
+        "main_text": "생산설비와 AI의 연결"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "엔비디아가 세계 최대 전자제품 위탁생산 업체 폭스콘과 협력하여 제조 AI 'FOX'를 발표했습니다. 이는 공장 운영을 혁신할 지능형 에이전트 시스템입니다.",
+        "points": [
+          "폭스콘은 FOX 활용, 제조 운영 멀티 에이전트 시스템 'MoMClaw' 구축",
+          "생산설비, 센서, 디지털 시스템을 수백 개 AI 에이전트와 연결",
+          "GTC 타이베이 컨퍼런스에서 엔비디아의 AI 전략 강조",
+          "AI 인프라, 반도체, AI PC, 로보틱스 등 컴퓨텍스 주요 기술 트렌드 부각"
+        ],
+        "quote": "엔비디아의 AI 기술이 제조업의 혁신과 스마트 팩토리 시대를 가속화할 것입니다.",
+        "context": "이번 발표는 AI 기술이 산업 현장에 어떻게 적용되어 생산성을 극대화할 수 있는지 보여주는 중요한 사례입니다.",
+        "source_url": "https://www.ajunews.com/view/20260604104216870"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70412&nologo=true"
+    },
+    {
+      "id": "economy-pf",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "지방선거 후, 지역금융·부동산 PF 새 변수",
+      "subtitle": "새 지방정부 출범, 부동산 PF 등 지역경제 영향 촉각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "불확실성",
+            "label": "부동산 PF"
+          },
+          {
+            "value": "연속성",
+            "label": "서울 금융정책"
+          },
+          {
+            "value": "지자체",
+            "label": "정책 영향"
+          }
+        ],
+        "main_number": "새 변수",
+        "main_text": "지역경제 활성화 과제"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "지방선거 결과에 따라 새롭게 출범하는 지방정부의 정책 방향이 지역 금융 및 부동산 PF 시장에 새로운 변수로 작용할 것으로 예상됩니다.",
+        "points": [
+          "새 지방정부의 지역 개발사업 추진 여부가 PF 시장에 직접적 영향",
+          "소상공인과 취약차주 지원 정책, 지역 경제 활성화 방안 마련 시급",
+          "서울시의 경우 오세훈 시장 재선으로 기존 금융 정책 연속성 유지 기대",
+          "중동전쟁 등 외부 요인도 지역 소상공인 어려움 가중"
+        ],
+        "quote": "새롭게 구성된 지방 정부들이 지역경제를 어떻게 살릴지, 소상공인과 취약차주를 어떻게 지원할지가 핵심 과제입니다.",
+        "context": "지방선거는 지역 경제에 큰 영향을 미치며, 특히 부동산 PF와 같은 민감한 분야에 대한 정책 변화가 주목됩니다.",
+        "source_url": "https://www.straightnews.co.kr/news/articleView.html?idxno=304058"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49661&nologo=true"
+    },
+    {
+      "id": "economy-stock-drop",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "코스피, 사상 첫 '9천피' 재도전 앞두고 변동성 경고",
-      "subtitle": "외국인 수급과 고용 지표가 시장 향방 가를 전망",
+      "title": "코스피 8,600선 급락... 중동 긴장 고조",
+      "subtitle": "중동 정세 불안과 외국인 매도세에 투자 심리 위축",
       "viz_data": {
         "stats": [
           {
-            "value": "9000p",
-            "label": "목표 지수"
+            "value": "8,600선",
+            "label": "코스피 낙폭"
           },
           {
-            "value": "변동성",
-            "label": "시장 전망"
+            "value": "-7.79%",
+            "label": "정보기술 하락"
           },
           {
-            "value": "외국인 수급",
-            "label": "핵심 변수"
+            "value": "원/달러 환율",
+            "label": "1,530원 돌파"
           }
         ],
-        "main_number": "재도전",
-        "main_text": "역사적 고점 앞둔 신중론"
+        "main_number": "하락세",
+        "main_text": "중동 긴장 영향 지속"
       },
-      "image_prompt": "cute pastel infographic illustration of a stock market graph with an arrow pointing upwards towards 9000, surrounded by small warning signs and fluctuating lines, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "코스피가 사상 첫 9천 포인트 재도전을 앞두고 있지만, 전문가들은 외국인 수급과 민간 경제 전반의 고용 회복세가 완만하다는 점을 들어 시장 변동성에 대한 경고를 보내고 있습니다. 대외 변수와 내부 지표를 면밀히 살펴봐야 할 시점입니다.",
+        "summary": "코스피 지수가 중동 정세 긴장과 외국인 매도세의 영향으로 8,600선 아래로 급락하며 투자 심리가 크게 위축되었습니다.",
         "points": [
-          "코스피, 사상 최고치 9천 포인트 재도전",
-          "외국인 투자자 수급 변화 주목",
-          "민간 경제 고용 회복세 완만",
-          "전문가, 시장 변동성 확대 가능성 경고"
+          "정보기술, IT서비스, 통신 업종의 낙폭이 특히 컸음",
+          "의료정밀, 증권, 화학 업종은 강세 기록",
+          "코스닥 시장은 코스피와 달리 상승세 나타냄",
+          "환율 변동성 확대 등 금융시장 전반에 불확실성 증대"
         ],
-        "quote": "역사적 고점을 앞두고 투자자들은 신중한 접근이 필요하며, 고용 지표와 외국인 수급을 주시해야 합니다.",
-        "context": "증시가 전반적으로 상승세를 보이고 있지만, 특정 부문에 집중된 고용 회복이나 대외 경제 불확실성 등은 언제든 시장에 영향을 미칠 수 있습니다. 투자자들은 단기적인 상승세에만 집중하기보다 거시경제 지표와 시장의 근본적인 체력을 평가하는 것이 중요합니다.",
-        "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60029"
+        "quote": "중동 정세가 글로벌 금융시장에 미치는 영향은 여전히 큰 변수로 작용하고 있습니다.",
+        "context": "국제 정세의 불안정성이 국내 증시와 환율에 직접적인 영향을 미치고 있어 투자자들의 주의가 필요합니다.",
+        "source_url": "https://www.ppss.kr/news/articleView.html?idxno=297799"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stock%20market%20graph%20with%20an%20arrow%20pointing%20upwards%20towards%209000%2C%20surrounded%20by%20small%20warning%20signs%20and%20fluctuating%20lines%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=97235&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92904&nologo=true"
     },
     {
-      "id": "economy-won-weakness",
+      "id": "economy-kb-sme",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "원화 약세, 경상수지보다 '외국인 수급'이 좌우한다",
-      "subtitle": "키움증권 분석, 한국 경제 펀더멘털 악화로 볼 필요 없어",
+      "viz_type": "stats_card",
+      "title": "IBK기업은행, 중소기업에 1조5000억 금융지원",
+      "subtitle": "미래 성장 분야 중소기업 위한 생산적 금융 확대",
       "viz_data": {
         "stats": [
           {
-            "value": "외국인 수급",
-            "label": "주요 요인"
+            "value": "1.5조원",
+            "label": "지원 규모"
           },
           {
-            "value": "경상수지",
-            "label": "상대적 영향"
+            "value": "신성장",
+            "label": "핵심 지원 분야"
           },
           {
-            "value": "22bp",
-            "label": "CDS 프리미엄"
+            "value": "금리 감면",
+            "label": "지원 혜택"
           }
         ],
-        "main_number": "원화 약세",
-        "main_text": "외부 수급 요인에 더 크게 영향"
+        "main_number": "미래 성장",
+        "main_text": "AI, 바이오 등 신산업 육성"
       },
-      "image_prompt": "cute pastel infographic illustration of currency symbols (Won, USD) with arrows showing fluctuation, and two scales balancing 'foreign capital flow' and 'current account balance', no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "키움증권은 최근의 원화 약세가 한국 경제의 펀더멘털 악화로 해석할 필요가 없다고 분석했습니다. 경상수지보다는 외국인 투자자들의 수급 상황이 원화 가치에 더 큰 영향을 미치고 있다는 설명입니다. 한국의 신용부도스와프(CDS) 프리미엄은 안정적인 수준을 유지하고 있습니다.",
+        "summary": "IBK기업은행이 AI, 바이오, 콘텐츠·문화 등 미래 성장 분야 중소기업의 성장을 위해 1조 5000억원 규모의 금융 지원에 나섭니다.",
         "points": [
-          "원화 약세의 주요 원인은 외국인 수급",
-          "경상수지 영향은 상대적으로 미미",
-          "한국 경제 펀더멘털은 견고",
-          "CDS 프리미엄 22bp 수준으로 안정"
+          "신성장동력산업, 유망 창업기업, 고용 창출 기업 등이 주요 지원 대상",
+          "금리 감면 및 보증료 지원 등 실질적인 혜택 제공",
+          "생산적 금융을 통해 중소기업의 혁신 성장을 유도",
+          "경제 선순환 구조 구축 및 국가 경제 발전 기여 목표"
         ],
-        "quote": "현재 원화 약세를 펀더멘털 악화로 볼 필요는 없으며, 외국인 수급 변화에 주목해야 합니다.",
-        "context": "환율은 국가 경제의 중요한 지표 중 하나입니다. 대외 경제 상황, 금리 정책, 투자 심리 등 다양한 요인이 복합적으로 작용합니다. 이번 분석은 단순히 표면적인 환율 변동만으로 경제 상황을 판단하기보다 그 이면의 구조적 요인을 파악하는 것이 중요함을 시사합니다.",
-        "source_url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=692957"
+        "quote": "중소기업의 혁신 성장을 지원함으로써 한국 경제의 새로운 동력을 창출할 것입니다.",
+        "context": "정부의 신성장 동력 확보 전략과 맞물려, 금융권이 미래 산업 육성에 적극적으로 기여하는 사례로 주목됩니다.",
+        "source_url": "https://www.cstimes.com/news/articleView.html?idxno=708419"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20currency%20symbols%20%28Won%2C%20USD%29%20with%20arrows%20showing%20fluctuation%2C%20and%20two%20scales%20balancing%20%27foreign%20capital%20flow%27%20and%20%27current%20account%20balance%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22318&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94400&nologo=true"
     },
     {
-      "id": "economy-onion-subsidy",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "정부, 양파 2만 톤 추가 수매… 생산량 급증에 가격 안정화 추진",
-      "subtitle": "평년 대비 82% 늘어난 재배 면적, 시장 공급 과잉 우려 해소 목표",
+      "id": "tech-ai-chip-export",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "stats_card",
+      "title": "국산 AI 반도체, 해외 수출 460억 돌파",
+      "subtitle": "상용화 본격화되며 세계 시장서 기술력 인정",
       "viz_data": {
         "stats": [
           {
-            "value": "2만 톤",
-            "label": "수매 비중"
+            "value": "460억원",
+            "label": "수출 규모"
           },
           {
-            "value": "82%↑",
-            "label": "재배 면적 변화"
+            "value": "CES",
+            "label": "최고 혁신상"
           },
           {
-            "value": "가격 안정",
-            "label": "정책 목표"
+            "value": "국산",
+            "label": "AI 반도체"
           }
         ],
-        "main_number": "양파 과잉",
-        "main_text": "농가 보호 및 시장 균형 유지"
+        "main_number": "+460억",
+        "main_text": "해외 수출 실적 달성"
       },
-      "image_prompt": "cute pastel infographic illustration of a farmer with many large onions, with charts showing increased production and a balancing scale for market stability, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "정부가 생산량 급증으로 인한 시장 가격 하락을 막기 위해 중만생종 양파 2만 톤을 수매합니다. 올해 재배 면적은 줄었지만 생산 단수가 늘어나면서 평년 대비 82%의 생산량 증가가 예상됩니다. 농협경제지주도 농가 지원을 위해 무이자 자금을 지원할 예정입니다.",
+        "summary": "국산 인공지능(AI) 반도체가 상용화를 본격화하며 해외 시장에서 460억 원 규모의 수출 성과를 달성, 세계적 기술 우수성을 공인받았습니다.",
         "points": [
-          "정부, 중만생종 양파 2만 톤 추가 수매 추진",
-          "재배 면적 감소에도 생산 단수 증가",
-          "평년 대비 82% 늘어난 생산량 예상",
-          "농협경제지주, 농가 지원 무이자 자금 공급"
+          "세계 최대 가전·IT 전시회 CES에서 최고 혁신상 수상",
+          "국내외 현장에서 가시적인 결실을 맺은 우수 실증 사례 공개",
+          "AI 기술 강국으로서 한국의 위상 제고",
+          "미래 산업 핵심인 AI 반도체 분야에서 경쟁력 확보"
         ],
-        "quote": "생산량 급증으로 인한 농가 피해를 최소화하고, 안정적인 시장 가격을 유지하기 위한 선제적 조치입니다.",
-        "context": "농산물은 기후 변화와 재배 조건에 따라 생산량이 크게 변동하여 시장 가격에 직접적인 영향을 미칩니다. 정부와 관련 기관은 농가 소득 안정화와 소비자 물가 안정을 위해 수매, 비축 등 다양한 시장 개입 정책을 사용합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/023/0003980141?sid=101"
+        "quote": "한국의 AI 반도체 기술력이 글로벌 시장에서 통한다는 것을 증명한 쾌거입니다.",
+        "context": "이번 수출 성과는 한국이 AI 반도체 분야에서 글로벌 리더로 도약할 잠재력을 보여주며, 국가 경제에 새로운 활력을 불어넣을 것으로 기대됩니다.",
+        "source_url": "https://www.newscj.com/news/articleView.html?idxno=3406584"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20farmer%20with%20many%20large%20onions%2C%20with%20charts%20showing%20increased%20production%20and%20a%20balancing%20scale%20for%20market%20stability%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79770&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46206&nologo=true"
     },
     {
-      "id": "tech-joonggonara-ai",
+      "id": "tech-tsmc-alliance",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "roadmap",
-      "title": "중고나라, 공자윤 CTO 선임… '전사 AI 전환' 본격화",
-      "subtitle": "플랫폼 고도화 및 사내 AI 활용 문화 확산 목표",
+      "viz_type": "relationship",
+      "title": "최태원 SK 회장, TSMC 회장과 'AI 반도체 동맹'",
+      "subtitle": "웨이저자 TSMC 회장과 회동, 차세대 AI 메모리 기술 협력 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "CTO 선임",
-            "label": "리더십"
+            "value": "TSMC",
+            "label": "위탁생산 1위"
           },
           {
-            "value": "AI 전환",
-            "label": "전략 방향"
+            "value": "SK하이닉스",
+            "label": "HBM 선도"
           },
           {
-            "value": "18년",
-            "label": "경력"
+            "value": "AI",
+            "label": "핵심 기술"
           }
         ],
-        "main_number": "AI 퍼스트",
-        "main_text": "중고거래 플랫폼 혁신 가속"
+        "main_number": "HBM",
+        "main_text": "고대역폭 메모리 기술 협력"
       },
-      "image_prompt": "cute pastel infographic illustration of a lightbulb with AI neural network patterns inside, surrounded by shopping cart icons and people interacting with a digital platform, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "중고나라가 LG CNS와 SK플래닛 출신의 IT 전문가 공자윤 상무를 CTO로 선임하며 전사적인 AI 전환을 본격화합니다. 플랫폼 고도화와 함께 AI 활용 역량 강화 교육 및 'AI 챌린지 프로그램'을 운영하여 사내 AI 문화를 확산할 계획입니다.",
+        "summary": "최태원 SK그룹 회장이 대만에서 웨이저자 TSMC 회장과 만나 차세대 인공지능(AI) 메모리 기술 협력 방안을 논의하며 'AI 반도체 동맹'을 강화했습니다.",
         "points": [
-          "중고나라, 공자윤 상무 CTO 선임",
-          "AI 기반 플랫폼 고도화 및 서비스 개선 추진",
-          "사내 AI 활용 문화 확산 위한 교육 프로그램 운영",
-          "비개발 직군 위한 'AI 챌린지' 도입"
+          "TSMC는 전 세계 반도체 위탁생산 시장의 과반 점유 기업",
+          "SK하이닉스는 HBM(고대역폭 메모리) 성능 극대화를 위해 TSMC와 협력",
+          "베이스 다이(Base Die) 생산을 TSMC 첨단 공정에 위탁",
+          "글로벌 AI 반도체 시장 리더십 강화를 위한 전략적 행보"
         ],
-        "quote": "AI 기술은 중고거래 플랫폼의 고객 경험을 혁신하고, 새로운 가치를 창출하는 핵심 동력이 될 것입니다.",
-        "context": "최근 이커머스 및 플랫폼 산업 전반에서 AI 기술 도입은 필수적인 경쟁력으로 부상하고 있습니다. 개인화된 추천, 사기 탐지, 고객 서비스 자동화 등 AI는 서비스 품질을 높이고 운영 효율성을 개선하는 데 결정적인 역할을 합니다.",
-        "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1378444"
+        "quote": "AI 시대의 핵심 경쟁력인 반도체 분야에서 글로벌 협력을 통해 시너지를 창출할 것입니다.",
+        "context": "이번 회동은 AI 시대의 핵심 기술인 고성능 메모리 반도체 개발과 공급망 안정화에 중요한 전환점이 될 것으로 보입니다.",
+        "source_url": "http://www.srtimes.kr/news/articleView.html?idxno=204543"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20lightbulb%20with%20AI%20neural%20network%20patterns%20inside%2C%20surrounded%20by%20shopping%20cart%20icons%20and%20people%20interacting%20with%20a%20digital%20platform%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39923&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92577&nologo=true"
     },
     {
-      "id": "tech-gyeonggi-contech-ai",
+      "id": "tech-anthropic-glasswing",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "infographic",
-      "title": "경기도, AI 기반 '콘테크'로 건설업 혁신 시동",
-      "subtitle": "설계부터 시공까지 전 과정에 첨단 IT 기술 융합",
+      "viz_type": "network",
+      "title": "앤트로픽, AI 모델 '글래스윙' 접속 기관 확대",
+      "subtitle": "삼성·SK·KISA 등 150개 글로벌 기관 참여, AI 안전망 구축",
       "viz_data": {
         "stats": [
           {
-            "value": "콘테크",
+            "value": "150+",
+            "label": "참여 기관 수"
+          },
+          {
+            "value": "미토스",
+            "label": "핵심 AI 모델"
+          },
+          {
+            "value": "AI 보안",
+            "label": "주요 목표"
+          }
+        ],
+        "main_number": "글로벌 협력",
+        "main_text": "AI 소프트웨어 공급망 보호"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI 스타트업 앤트로픽이 AI 모델 미토스 '글래스윙' 접속 기관을 삼성, SK, KISA 등 전 세계 150여 개 기관으로 확대하며 글로벌 IT 안전망 구축에 나섭니다.",
+        "points": [
+          "AI 시스템의 공격자 관점 검증, AI 레드팀 자동화 서비스 제공",
+          "외부 노출 IT 자산 관리 솔루션 'BAT Insight' 공개",
+          "사이버 보안 교육 플랫폼을 통해 보안 인식 제고",
+          "코드베이스 공격의 치명적 결과 방지를 위한 파트너십 강화"
+        ],
+        "quote": "AI 시스템의 안전과 보안을 확보하는 것이 미래 기술 발전에 필수적입니다.",
+        "context": "점점 더 중요해지는 AI 보안과 윤리적 사용에 대한 글로벌 협력의 중요성을 보여주는 사례입니다.",
+        "source_url": "http://www.itdaily.kr/news/articleView.html?idxno=239650"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56647&nologo=true"
+    },
+    {
+      "id": "society-greenparty",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "녹색당, 3번의 도전 끝 첫 의원 배출",
+      "subtitle": "허승규 안동시의원 당선, 풀뿌리 녹색정치 재도약 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3번째",
+            "label": "도전 만에"
+          },
+          {
+            "value": "안동시의원",
+            "label": "당선 직책"
+          },
+          {
+            "value": "녹색당",
+            "label": "정당"
+          }
+        ],
+        "main_number": "첫 발자국",
+        "main_text": "지방의회 진출 성공"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "녹색당이 세 번째 도전 만에 허승규 후보를 안동시의원에 당선시키며 창당 후 첫 의원을 배출했습니다. 이는 풀뿌리 녹색정치의 재도약을 알리는 신호탄으로 평가됩니다.",
+        "points": [
+          "허승규 당선인은 꾸준한 지역 활동과 주민 소통으로 신뢰 구축",
+          "지역 주민자치회, 사회보장협의체, 자율방범대 활동 등 참여",
+          "녹색정치가 다시 일어서길 바라는 지방의원으로서의 역할 강조",
+          "풀뿌리 정치와 조직 강화를 통한 지역 책임 녹색정치인 양성 계획"
+        ],
+        "quote": "이번 당선은 녹색당이 지역사회에 뿌리내리고 시민들의 목소리를 대변할 기회를 얻었다는 의미가 있습니다.",
+        "context": "소수 정당의 지방의회 진출은 정치적 다양성을 높이고 지역 현안에 대한 새로운 시각을 제공할 수 있어 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/006/0000136087?sid=162"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88640&nologo=true"
+    },
+    {
+      "id": "society-deepfake",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "경찰, 딥페이크 선거사범 51명 단속",
+      "subtitle": "선거 기간 중 허위 영상 이용한 온라인 흑색선전 기승",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4191명",
+            "label": "총 선거사범"
+          },
+          {
+            "value": "51명",
+            "label": "딥페이크 사범"
+          },
+          {
+            "value": "32건",
+            "label": "딥페이크 이용"
+          }
+        ],
+        "main_number": "온라인 위협",
+        "main_text": "딥페이크 선거운동 심각성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "경찰이 선거사범 4191명을 단속한 가운데, 가짜 영상(딥페이크)을 이용한 선거운동으로 51명(32건)이 적발되어 온라인 흑색선전의 심각성을 보여주었습니다.",
+        "points": [
+          "오프라인 흑색선전 832명, 온라인 흑색선전 533명 단속",
+          "딥페이크는 주로 후보자 비방이나 허위 사실 유포에 악용",
+          "기술 발전과 함께 딥페이크를 이용한 선거 개입 위험 증대",
+          "민주주의의 근간을 흔들 수 있는 심각한 사회적 문제로 부상"
+        ],
+        "quote": "딥페이크를 활용한 선거운동은 유권자의 판단을 흐리게 하고 사회적 혼란을 야기할 수 있습니다.",
+        "context": "첨단 기술의 악용이 선거 과정의 공정성을 훼손하고 있어 강력한 규제와 시민들의 미디어 리터러시 강화가 요구됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005771746?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82908&nologo=true"
+    },
+    {
+      "id": "society-child-welfare",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "mind_map",
+      "title": "아동, 사회의 사각지대에 놓이다",
+      "subtitle": "교육·의료·돌봄에서 차별받는 아동 권리 현주소",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "사각지대",
+            "label": "아동 문제"
+          },
+          {
+            "value": "차별",
+            "label": "성장 권리"
+          },
+          {
+            "value": "부모만",
+            "label": "남은 책임"
+          }
+        ],
+        "main_number": "아동학대",
+        "main_text": "정책 과정에서의 배제"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "우리 사회는 '모든 아동이 차별 없이 성장할 권리'를 강조하지만, 아동학대, 정책 배제, 차별 등으로 많은 아동이 여전히 사회의 사각지대에 놓여 있습니다.",
+        "points": [
+          "교육, 의료, 돌봄 등 주요 영역에서 발생하는 아동 차별 문제",
+          "정책 결정 과정에서 아동의 목소리가 충분히 반영되지 않음",
+          "장애아동의 삶은 특히 사회적 지원 부족으로 어려움 가중",
+          "국가의 책임 부재 속에서 부모에게만 과도한 책임이 전가되는 현실"
+        ],
+        "quote": "아동의 권리는 존중받아야 하며, 국가는 아동이 차별 없이 성장할 수 있는 환경을 조성해야 합니다.",
+        "context": "아동학대와 차별 문제에 대한 사회적 관심과 제도적 개선이 시급하며, 아동 중심의 정책 마련이 중요합니다.",
+        "source_url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127416"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=72398&nologo=true"
+    },
+    {
+      "id": "life-garlic-flower",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map",
+      "title": "강진군, 보랏빛 '코끼리마늘꽃 3 Days' 개최",
+      "subtitle": "초여름 여행 초대, 농특산물 판매 및 지역경제 활성화 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "강진군",
+            "label": "개최 지역"
+          },
+          {
+            "value": "3일",
+            "label": "행사 기간"
+          },
+          {
+            "value": "코끼리마늘꽃",
+            "label": "주요 테마"
+          }
+        ],
+        "main_number": "관광자원",
+        "main_text": "지역경제 활성화 기여"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "강진군이 작천 코끼리마늘꽃 군락지에서 '코끼리마늘꽃 3 Days' 행사를 개최하며 보랏빛 초여름 여행객들을 초대합니다. 이번 행사는 관광자원 육성과 지역경제 활성화에 기여할 것으로 기대됩니다.",
+        "points": [
+          "매년 초여름 만개하는 코끼리마늘꽃 군락지를 활용한 관광 상품",
+          "농특산물 판매 확대를 통한 주민 소득 증대 목표",
+          "방문객들에게 특별한 추억과 경험 제공",
+          "아름다운 자연 경관과 함께 즐기는 문화 체험 기회"
+        ],
+        "quote": "코끼리마늘꽃 군락지가 강진의 대표적인 초여름 관광 명소로 자리매김할 것입니다.",
+        "context": "지역 특색을 살린 축제는 관광객 유치와 지역 주민의 소득 증대에 긍정적인 영향을 미칩니다.",
+        "source_url": "http://www.newsworker.co.kr/news/articleView.html?idxno=429631"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81970&nologo=true"
+    },
+    {
+      "id": "life-k-beer-award",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "오비맥주, 국제 우수 미각상 5관왕 달성",
+      "subtitle": "K-맥주 품격 높이며 건강 중심 라이프스타일 트렌드 반영",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5관왕",
+            "label": "수상 개수"
+          },
+          {
+            "value": "오비맥주",
+            "label": "수상 기업"
+          },
+          {
+            "value": "Cass All Zero",
+            "label": "주요 수상작"
+          }
+        ],
+        "main_number": "최고 품질",
+        "main_text": "세계적인 평가 무대서 인정"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "오비맥주가 세계적인 식음료 품질 평가 무대에서 주요 브랜드 전 제품이 5관왕을 수상하며 K-맥주의 품격을 높였습니다. 이는 건강한 음주 문화와 개인 취향을 중시하는 라이프스타일 확산을 반영합니다.",
+        "points": [
+          "국제 우수 미각상(Superior Taste Award)에서 여러 제품 수상",
+          "음주를 줄이면서도 맥주의 풍미를 즐기려는 소비자 수요 증가에 부응",
+          "특히 '카스 올제로(Cass All Zero)'가 의미 있는 성과 거둠",
+          "글로벌 시장에서 한국 맥주의 경쟁력 입증"
+        ],
+        "quote": "K-맥주가 이제 세계인의 입맛을 사로잡으며 글로벌 브랜드로 성장하고 있습니다.",
+        "context": "이번 수상은 국내 맥주 산업의 품질 향상과 더불어 건강을 중시하는 현대인의 라이프스타일 변화를 반영하는 중요한 지표입니다.",
+        "source_url": "https://www.e-science.co.kr/news/articleView.html?idxno=130240"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86901&nologo=true"
+    },
+    {
+      "id": "life-archive-trend",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "패스트 소비 피로감, '아카이브' 찾는 사람들",
+      "subtitle": "빠르게 변하는 트렌드 속 지속 가능한 가치 추구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "전통",
+            "label": "가치 재조명"
+          },
+          {
+            "value": "지속가능성",
             "label": "핵심 키워드"
           },
           {
-            "value": "생산성↑",
-            "label": "주요 효과"
-          },
-          {
-            "value": "드론, 3D",
-            "label": "활용 기술"
+            "value": "아카이브",
+            "label": "소비 트렌드"
           }
         ],
-        "main_number": "건설 혁신",
-        "main_text": "AI로 스마트 건설 시대 개척"
+        "main_number": "느린 소비",
+        "main_text": "의미 있는 가치 추구"
       },
-      "image_prompt": "cute pastel infographic illustration of a modern construction site with drones, robots, and blueprints overlaid with AI neural network patterns, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "경기도가 드론 측량, 빅데이터 분석, 로보틱스, 3D 프린팅, BIM 등 첨단 IT 기술을 건설업에 융합하는 '콘테크(ConTech)'에 AI를 결합하여 혁신을 추진합니다. 이를 통해 설계·조달·시공 등 건설 전 과정의 생산성을 높이고 공급망을 최적화할 계획입니다.",
+        "summary": "패스트 소비에 대한 피로감이 커지면서, 전통과 역사를 현대적 감각으로 재해석한 '아카이브' 콘텐츠나 제품을 찾는 사람들이 늘고 있습니다. 이는 지속 가능한 가치를 중시하는 소비 트렌드를 보여줍니다.",
         "points": [
-          "경기도, AI 기반 콘테크(ConTech) 도입 추진",
-          "건설과 기술 융합으로 생산성 및 효율성 증대",
-          "드론, 빅데이터, 로보틱스 등 첨단 IT 활용",
-          "설계·조달·시공 전 과정 스마트화 목표"
+          "국립박물관문화재단 등과의 협업을 통해 전통을 현대적으로 재해석",
+          "벨오프, 비아크래프트 등 라이프스타일 브랜드의 성장",
+          "접근성 높은 가격대와 감각적인 디자인으로 대중에게 어필",
+          "패브릭, 금속공예 등 다양한 소재 활용한 제품 출시"
         ],
-        "quote": "AI 콘테크는 건설 현장의 안전성을 높이고, 비용을 절감하며, 공사 기간을 단축하는 혁신적인 솔루션이 될 것입니다.",
-        "context": "건설업은 전통적으로 노동 집약적인 산업이었으나, 4차 산업혁명 기술의 발달로 스마트 건설 기술 도입이 가속화되고 있습니다. AI는 복잡한 데이터 분석과 예측을 통해 건설 프로젝트의 효율성과 안전성을 획기적으로 개선할 잠재력을 가지고 있습니다.",
-        "source_url": "https://www.viva100.com/article/20260604500143"
+        "quote": "빠르게 변화하는 시대 속에서 변치 않는 가치를 찾는 것이 현대 소비의 새로운 트렌드입니다.",
+        "context": "소비자들이 단순히 상품을 소비하는 것을 넘어, 브랜드의 역사와 가치, 그리고 지속가능성에 더 큰 의미를 부여하고 있습니다.",
+        "source_url": "https://www.fashionbiz.co.kr/article/226819"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20modern%20construction%20site%20with%20drones%2C%20robots%2C%20and%20blueprints%20overlaid%20with%20AI%20neural%20network%20patterns%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=85778&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6308&nologo=true"
     },
     {
-      "id": "tech-ncai-hanwhaocean",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "diagram",
-      "title": "NC AI, 한화오션에 '자율 용접 로봇 AI' 두뇌 공급",
-      "subtitle": "조선업 현장에 세계 최고 수준의 피지컬 AI 모델 적용",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "AI 로봇",
-            "label": "핵심 기술"
-          },
-          {
-            "value": "조선업",
-            "label": "적용 산업"
-          },
-          {
-            "value": "오염 극복",
-            "label": "현장 강점"
-          }
-        ],
-        "main_number": "자동화",
-        "main_text": "고난도 용접 작업 정밀도 향상"
-      },
-      "image_prompt": "cute pastel infographic illustration of a robotic arm welding a ship hull, with glowing AI brain patterns superimposed, no text",
-      "detail": {
-        "summary": "NC AI가 한화오션의 상선 및 특수선 건조에 필요한 '자율 용접 로봇 AI 두뇌'를 공급합니다. 이 기술은 현장의 분진과 오염을 극복하는 강력한 비전 인식 기술과 자율 제어 모델을 기반으로 하며, 세계 최고 수준의 피지컬 AI 모델로 조선 공정의 자동화를 이끌 예정입니다.",
-        "points": [
-          "NC AI, 한화오션에 자율 용접 로봇 AI 공급",
-          "현장 오염 및 분진 극복하는 비전 인식 기술",
-          "조선 공정 자동화 통한 생산성 향상 기대",
-          "세계 최고 수준 피지컬 AI 모델 적용"
-        ],
-        "quote": "우리의 피지컬 AI 모델은 극한 환경에서도 정밀한 작업을 수행하며 조선업의 생산성을 획기적으로 높일 것입니다.",
-        "context": "조선업은 정밀하고 고된 작업이 많아 자동화와 로봇 기술 도입의 필요성이 큽니다. 특히 용접 작업은 숙련된 인력이 필요하고 작업 환경이 열악합니다. AI 기반 자율 용접 로봇은 이러한 문제를 해결하고 생산 효율성 및 안전성을 크게 개선할 수 있습니다.",
-        "source_url": "https://www.ajunews.com/view/20260604081003415"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20robotic%20arm%20welding%20a%20ship%20hull%2C%20with%20glowing%20AI%20brain%20patterns%20superimposed%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38694&nologo=true"
-    },
-    {
-      "id": "society-isolated-youth",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "pie_chart",
-      "title": "54만 고립 청년의 현실... 공연계, 사회 문제 조명",
-      "subtitle": "대한민국 청년 20명 중 1명, 대인관계 어려움으로 세상과 담 쌓아",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "54만 명",
-            "label": "고립 청년 수"
-          },
-          {
-            "value": "20명 중 1명",
-            "label": "비율"
-          },
-          {
-            "value": "2023년",
-            "label": "조사 시점"
-          }
-        ],
-        "main_number": "고립 심화",
-        "main_text": "청년들의 사회적 고립 문제 심각성"
-      },
-      "image_prompt": "cute pastel infographic illustration of a lonely young person in a small room, with numbers like 540,000 floating around, and a subtle stage spotlight, no text",
-      "detail": {
-        "summary": "한국보건사회연구원의 2023년 조사에 따르면, 대한민국 청년 20명 중 1명꼴인 약 54만 명이 대인관계 어려움 등을 이유로 사회적으로 고립되어 있습니다. 공연계는 이러한 고시원, 원룸 등 청년들의 생활 공간을 무대 위에 올려 경제적·심리적 압박을 투영하며 고립 문제를 구조적 현상으로 기록하고 있습니다.",
-        "points": [
-          "54만 명의 청년, 사회적 고립 상태",
-          "청년 20명 중 1명꼴로 고립 경험",
-          "경제적·심리적 압박이 고립의 주요 원인",
-          "공연 예술을 통해 사회 문제 환기 및 공론화"
-        ],
-        "quote": "고립은 개인의 실패가 아닌, 우리 사회가 함께 해결해야 할 구조적인 문제입니다.",
-        "context": "청년 고립은 고용 불안정, 주거 문제, 사회적 연결망 약화 등 복합적인 요인으로 심화되고 있습니다. 이는 개인의 삶의 질을 저하시킬 뿐만 아니라 사회 전체의 활력을 저해하는 심각한 사회 문제입니다. 정책적 지원과 함께 문화 예술을 통한 인식 개선 노력이 중요합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/119/0003097552?sid=103"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20lonely%20young%20person%20in%20a%20small%20room%2C%20with%20numbers%20like%20540%2C000%20floating%20around%2C%20and%20a%20subtle%20stage%20spotlight%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67659&nologo=true"
-    },
-    {
-      "id": "society-food-voucher",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "GS25·GS더프레시, 농식품 바우처 이용액 2년 새 14배 증가",
-      "subtitle": "전국 점포망 기반, 사회 취약계층 접근성 및 편의성 높여",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2년",
-            "label": "기간"
-          },
-          {
-            "value": "14배↑",
-            "label": "증가율"
-          },
-          {
-            "value": "전국 점포",
-            "label": "접근성"
-          }
-        ],
-        "main_number": "바우처 활성화",
-        "main_text": "취약계층 식생활 개선 기여"
-      },
-      "image_prompt": "cute pastel infographic illustration of a shopping cart filled with fresh produce, with an upward trending arrow and charts indicating 14x growth over two years, no text",
-      "detail": {
-        "summary": "GS25와 GS더프레시에서 농식품 바우처 이용액이 2년 만에 14배 증가한 것으로 나타났습니다. GS리테일은 전국적인 점포망을 활용해 사회 취약계층의 바우처 이용 접근성과 편의성을 높이는 데 주력했으며, 이를 통해 지역 농가 지원과 ESG 경영을 지속할 계획입니다.",
-        "points": [
-          "농식품 바우처 이용액 2년 새 14배 급증",
-          "GS25·GS더프레시의 전국 점포망 활용",
-          "사회 취약계층의 식생활 개선 기여",
-          "지역 농가 지원 및 ESG 경영 실천"
-        ],
-        "quote": "바우처 이용액 증가는 취약계층 식생활 개선에 기여하고 지역 농가와의 상생을 강화하는 긍정적인 신호입니다.",
-        "context": "농식품 바우처는 소득 하위계층의 영양 불균형 해소와 국내 농산물 소비 촉진을 위해 도입된 제도입니다. 유통업체가 바우처 사용처를 확대하고 편의성을 높이는 것은 정책 효과를 극대화하고 사회적 가치를 창출하는 중요한 역할을 합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006296955?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shopping%20cart%20filled%20with%20fresh%20produce%2C%20with%20an%20upward%20trending%20arrow%20and%20charts%20indicating%2014x%20growth%20over%20two%20years%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18564&nologo=true"
-    },
-    {
-      "id": "society-first-female-governor",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "경기도, 31년 남성 독점 깨고 '첫 여성 광역단체장' 탄생",
-      "subtitle": "헌정사상 첫 기록, 수도권 정치 지형에 새로운 변화 예고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "31년",
-            "label": "남성 독점 기간"
-          },
-          {
-            "value": "첫 여성",
-            "label": "광역단체장"
-          },
-          {
-            "value": "1400만 명",
-            "label": "경기 인구"
-          }
-        ],
-        "main_number": "새 역사",
-        "main_text": "정치적 상징성 큰 경기도의 변화"
-      },
-      "image_prompt": "cute pastel infographic illustration of a female leader standing confidently in front of a map of Gyeonggi Province, with a breaking glass ceiling motif, no text",
-      "detail": {
-        "summary": "경기도에서 31년간 이어져 온 남성 독점 구도를 깨고 헌정사상 첫 여성 광역단체장이 탄생했습니다. 인구 1,400만 명 이상의 최대 광역단체인 경기도의 이번 결과는 향후 수도권 정치 지형과 여성 리더십에 적지 않은 영향을 미칠 것으로 전망됩니다.",
-        "points": [
-          "경기도, 31년 만에 첫 여성 광역단체장 배출",
-          "헌정사상 최초 여성 광역단체장 탄생 기록",
-          "인구 1,400만 명 이상 최대 광역단체",
-          "여성 정치인 역량 강화 및 정치 지형 변화 기대"
-        ],
-        "quote": "이번 승리는 단순히 개인의 승리가 아니라, 우리 사회의 다양성과 포용성을 확장하는 중요한 발걸음입니다.",
-        "context": "여성 정치인의 약진은 전 세계적인 흐름이며, 국내에서도 성평등과 다양성 존중에 대한 인식이 높아지면서 여성의 정치 참여 확대와 리더십 강화에 대한 기대가 커지고 있습니다. 경기도와 같은 주요 지역에서의 여성 광역단체장 탄생은 이러한 변화를 가속화하는 상징적인 의미를 가집니다.",
-        "source_url": "https://www.viva100.com/article/20260604500197"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20female%20leader%20standing%20confidently%20in%20front%20of%20a%20map%20of%20Gyeonggi%20Province%2C%20with%20a%20breaking%20glass%20ceiling%20motif%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95656&nologo=true"
-    },
-    {
-      "id": "life-idol-festival",
+      "id": "life-naver-ai-fellowship",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "timeline",
-      "title": "아이돌, 대학 축제 넘어 '음악 페스티벌'까지 활동 영역 확장",
-      "subtitle": "장르형 음악 페스티벌에서 아이돌 솔로·유닛 참여 증가 추세",
+      "viz_type": "stats_card",
+      "title": "네이버, 창작자-AI 펠로우십 '네이버 메이트' 시작",
+      "subtitle": "연 200억 원 활동 지원, AI 기반 창작 생태계 조성",
       "viz_data": {
         "stats": [
           {
-            "value": "대학 축제",
-            "label": "기존"
+            "value": "200억",
+            "label": "연간 지원금"
           },
           {
-            "value": "음악 페스티벌",
-            "label": "확장"
+            "value": "3000명",
+            "label": "월별 선정 창작자"
           },
           {
-            "value": "6~7월",
-            "label": "주요 기간"
+            "value": "AI 브리핑",
+            "label": "선정 기준"
           }
         ],
-        "main_number": "영역 확대",
-        "main_text": "아이돌 팬덤과 대중의 교류 증대"
+        "main_number": "창작 지원",
+        "main_text": "AI 시대의 콘텐츠 생산 방식 변화"
       },
-      "image_prompt": "cute pastel infographic illustration of a stage with diverse audience silhouettes, showing icons of university campuses transitioning to music festival grounds, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "아이돌 그룹들이 단독 콘서트나 대학 축제를 넘어 '뷰티풀 민트 라이프' 같은 장르형 음악 페스티벌에 솔로·유닛으로 자연스럽게 참여하는 사례가 늘고 있습니다. 이는 아이돌 팬덤을 넘어 일반 대중과도 소통하려는 트렌드로 해석됩니다.",
+        "summary": "네이버가 연간 200억 원을 지원하는 '네이버 메이트' 펠로우십 프로그램을 시작하며 AI 기반의 창작 생태계 조성에 나섭니다.",
         "points": [
-          "아이돌, 음악 페스티벌 참여 증가 추세",
-          "솔로·유닛 활동을 통한 장르 확장",
-          "대학 축제 이후 새로운 활동 무대 모색",
-          "대중적 인지도 및 팬덤 확장 기대"
+          "여행, 라이프, 테크 등 10개 부문 25개 주제에서 창작자 선정",
+          "AI 브리핑 인용 수를 기준으로 매달 약 3000명 공개",
+          "AI가 콘텐츠 생산 방식을 변화시키는 시대에 맞춰 창작 활동 지원",
+          "AI 기술이 창작자들에게 새로운 기회를 제공할 것으로 기대"
         ],
-        "quote": "아이돌 음악은 더 이상 특정 장르에 국한되지 않습니다. 다양한 무대에서 대중과 만나는 것은 자연스러운 흐름입니다.",
-        "context": "음악 시장의 다양성이 확대되고 팬덤 문화가 진화하면서 아이돌 활동 방식에도 변화가 생기고 있습니다. 특정 장르 팬들을 위한 페스티벌에 아이돌이 참여하는 것은 음악적 스펙트럼을 넓히고 새로운 팬층을 확보하는 전략이 될 수 있습니다.",
-        "source_url": "https://m.entertain.naver.com/article/119/0003097551"
+        "quote": "AI는 창작자들의 생산성을 높이고 새로운 아이디어를 현실화하는 강력한 도구가 될 것입니다.",
+        "context": "AI 기술의 발전이 창작 산업에 미치는 영향이 커지는 가운데, 플랫폼 기업들이 창작자와의 상생을 모색하는 사례입니다.",
+        "source_url": "https://platum.kr/archives/288231"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stage%20with%20diverse%20audience%20silhouettes%2C%20showing%20icons%20of%20university%20campuses%20transitioning%20to%20music%20festival%20grounds%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=35466&nologo=true"
-    },
-    {
-      "id": "life-63building-transformation",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "concept_map",
-      "title": "서울의 상징 '63빌딩', 글로벌 복합문화공간으로 재탄생",
-      "subtitle": "퐁피두센터 한화 유치 등 문화·예술·라이프스타일 공존",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "63빌딩",
-            "label": "기존 상징"
-          },
-          {
-            "value": "문화 예술",
-            "label": "새로운 기능"
-          },
-          {
-            "value": "퐁피두센터",
-            "label": "핵심 유치"
-          }
-        ],
-        "main_number": "재탄생",
-        "main_text": "랜드마크의 혁신적 변화"
-      },
-      "image_prompt": "cute pastel infographic illustration of the 63 Building in Seoul, showing a transformation from an office building to a vibrant cultural and art complex with museum icons and people enjoying various activities, no text",
-      "detail": {
-        "summary": "서울의 스카이라인을 상징하던 '63빌딩'이 문화와 예술, 라이프스타일이 공존하는 글로벌 복합문화공간으로 새롭게 변신합니다. 한화생명은 본사 사옥의 상업시설을 전면 리뉴얼하고 '퐁피두센터 한화'를 유치하는 등 다양한 변화를 통해 서울의 새로운 문화 랜드마크로 자리매김할 계획입니다.",
-        "points": [
-          "63빌딩, 복합문화공간으로 전면 리뉴얼",
-          "퐁피두센터 한화 유치, 예술적 가치 증대",
-          "문화·예술·라이프스타일이 공존하는 공간",
-          "서울의 새로운 문화 랜드마크로 기대"
-        ],
-        "quote": "63빌딩은 단순한 건물을 넘어, 서울의 문화적 활력을 불어넣는 상징적인 공간으로 재탄생할 것입니다.",
-        "context": "도심의 주요 건축물들이 단순한 업무 공간을 넘어 문화적 기능을 강화하는 추세입니다. 복합문화공간은 시민들에게 다양한 여가와 문화 경험을 제공하고, 도시의 매력을 높이는 데 기여합니다. 퐁피두센터와 같은 세계적인 문화 기관 유치는 그 파급 효과가 클 것으로 예상됩니다.",
-        "source_url": "https://www.kidshankook.kr/news/articleView.html?idxno=17299"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20the%2063%20Building%20in%20Seoul%2C%20showing%20a%20transformation%20from%20an%20office%20building%20to%20a%20vibrant%20cultural%20and%20art%20complex%20with%20museum%20icons%20and%20people%20enjoying%20various%20activities%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=64509&nologo=true"
-    },
-    {
-      "id": "life-kensington-summer",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "icon_grid",
-      "title": "켄싱턴호텔, 여름 맞아 '물놀이 특화' 액티비티 패키지 출시",
-      "subtitle": "도심, 자연, 반려동물 동반까지 맞춤형 여름 휴가 제안",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "전국 13개",
-            "label": "운영 지점"
-          },
-          {
-            "value": "물놀이",
-            "label": "핵심 테마"
-          },
-          {
-            "value": "맞춤형",
-            "label": "콘텐츠"
-          }
-        ],
-        "main_number": "여름 휴가",
-        "main_text": "다변화된 고객 라이프스타일 반영"
-      },
-      "image_prompt": "cute pastel infographic illustration of various summer water activities like swimming in a pool, lake, and with pets, set in different scenic locations, no text",
-      "detail": {
-        "summary": "켄싱턴호텔앤리조트가 다변화된 고객 라이프스타일에 맞춰 '물놀이 특화' 여름 액티비티 패키지를 전국 13개 지점에서 동시 선보입니다. 도심 야간 수영, 청정 자연 휴양, 반려동물 동반 물놀이 등 복합 웰니스 인프라를 구축하여 여름 휴가객들의 선택의 폭을 넓혔습니다.",
-        "points": [
-          "켄싱턴호텔, 여름 물놀이 특화 패키지 출시",
-          "전국 13개 지점에서 동시 운영",
-          "도심, 자연, 반려동물 동반 등 맞춤형 테마",
-          "복합 웰니스 인프라 구축 및 다양한 선택지 제공"
-        ],
-        "quote": "고객의 다양한 니즈에 맞춰 최적화된 여름 휴가 경험을 제공하고자 합니다.",
-        "context": "코로나19 팬데믹 이후 국내 여행 수요가 증가하고, 개인의 취향과 라이프스타일을 반영한 맞춤형 여행 상품이 인기를 끌고 있습니다. 특히 여름철에는 물놀이 테마가 강세를 보이며, 반려동물 동반 여행 등 새로운 트렌드가 부상하고 있어 관련 업계는 이에 발맞춘 상품을 개발하고 있습니다.",
-        "source_url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=78612"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20various%20summer%20water%20activities%20like%20swimming%20in%20a%20pool%2C%20lake%2C%20and%20with%20pets%2C%20set%20in%20different%20scenic%20locations%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86917&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98763&nologo=true"
     }
   ],
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T08:39:25.333382+09:00"
+  "generated_at": "2026-06-04T10:54:59.411154+09:00"
 }
