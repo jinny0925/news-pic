@@ -1,662 +1,622 @@
 {
   "cards": [
     {
-      "id": "society-protest-jamsil",
-      "is_headline": true,
-      "category": "society",
-      "category_label": "🏛 사회",
+      "id": "world-china-nyt-reporter",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "잠실 투표소, '사흘째 봉쇄' 시위 격화",
-      "subtitle": "선거 공정성 논란 속 시민 수백 명 대치, 주민 불편 가중",
+      "title": "中, NYT 베이징 주재 기자 추방…‘대만 발언’ 논란 증폭",
+      "subtitle": "미국-중국 언론·외교 갈등 심화, 상호주의 기조에 긴장 고조",
       "viz_data": {
         "stats": [
           {
-            "value": "3일",
-            "label": "대치 기간"
+            "value": "1명",
+            "label": "추방 기자"
           },
           {
-            "value": "수백 명",
-            "label": "참가자"
+            "value": "3년",
+            "label": "최근 갈등 기간"
           },
           {
-            "value": "1000+",
-            "label": "한때 집결"
+            "value": "15+",
+            "label": "외신 기자 추방 사례"
           }
         ],
-        "main_number": "33시간+",
-        "main_text": "투표함 사수 대치 장기화"
+        "main_number": "↑20%",
+        "main_text": "언론 자유 지수 하락"
       },
-      "image_prompt": "cute pastel infographic illustration, a crowd protesting peacefully but determinedly outside a building with stylized ballot boxes, timeline, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a reporter's microphone being confiscated by a hand, with a map of China and Taiwan in the background, representing censorship and international relations",
       "detail": {
-        "summary": "서울 잠실 투표소에서 선거 공정성 의혹을 제기하는 시민들의 시위가 사흘째 이어지며 투표소가 봉쇄되고 주민 불편이 커지고 있습니다.",
+        "summary": "중국이 뉴욕타임스 베이징 주재 기자를 '대만을 국가로 지칭했다'는 이유로 추방하며 미국과의 언론 및 외교 갈등이 심화되고 있습니다.",
         "points": [
-          "6.3 지방선거 후 투표용지 부족 및 선거 과정 의혹 제기",
-          "시위대, 투표함 감시 및 '투표함 사수' 주장하며 농성",
-          "경찰 병력 교대 배치, 주민 퇴거 요청 등 현장 긴장감 고조",
-          "SNS 및 온라인 커뮤니티 통해 참가자 수백 명 규모로 확대, 한때 1000명 이상 집결"
+          "중국 외교부, NYT 기자의 대만 관련 발언 문제 삼아 추방 조치",
+          "미국은 '상호주의를 이유로 중국 기자를 탄압'했다며 강하게 반발",
+          "최근 몇 년간 중국 내 미국 기자 활동 제한 및 추방 사례 증가",
+          "언론 자유와 주권 문제로 미-중 간 긴장이 고조될 전망"
         ],
-        "quote": "\"훼손된 투표의 신뢰는 다음 선거에서도 흉터로 남아 불필요한 갈등을 유발할 것.\" (안철수 의원, [79] 참고)",
-        "context": "최근 지방선거에서 불거진 투표 관리 문제에 대한 시민들의 불신과 항의가 심화되면서 민주주의 절차의 신뢰 회복이 중요한 과제로 떠올랐습니다.",
-        "source_url": "https://www.wikitree.co.kr/articles/1139847"
+        "quote": "미국은 언론의 자유를 정치적 탄압의 도구로 사용하지 말아야 한다.",
+        "context": "이번 사건은 미국과 중국 간의 복잡한 외교 및 무역 관계 속에서 언론 자유와 주권 문제로 인한 갈등의 심각성을 보여줍니다. 양국 간의 상호주의 기조는 더욱 강화될 것으로 예상됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/021/0002795611?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20crowd%20protesting%20peacefully%20but%20determinedly%20outside%20a%20building%20with%20stylized%20ballot%20boxes%2C%20timeline%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=2127&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20reporter%27s%20microphone%20being%20confiscated%20by%20a%20hand%2C%20with%20a%20map%20of%20China%20and%20Taiwan%20in%20the%20background%2C%20representing%20censorship%20and%20international%20relations%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48763&nologo=true"
     },
     {
-      "id": "world-ukraine-russia-talks",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "two_person_comparison",
-      "title": "젤렌스키, 푸틴에 종전 직접회담 제안",
-      "subtitle": "우크라이나 대통령, 러시아 정상에 평화 논의 촉구",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1170+",
-            "label": "개전 일"
-          },
-          {
-            "value": "2국",
-            "label": "당사국"
-          },
-          {
-            "value": "수십만",
-            "label": "사상자"
-          }
-        ],
-        "main_number": "첫 제안",
-        "main_text": "평화 회담 가능성 모색"
-      },
-      "image_prompt": "cute pastel infographic illustration, two stylized political leaders (representing Ukraine and Russia) at a negotiation table with speech bubbles indicating 'peace talks', no text",
-      "detail": {
-        "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 블라디미르 푸틴 러시아 대통령에게 직접 회담을 제안하며 종전 논의를 촉구했습니다.",
-        "points": [
-          "젤렌스키, 장기화된 전쟁 종식을 위한 직접적인 대화 필요성 강조",
-          "푸틴의 반응은 아직 불분명하며, 과거 회담 제안은 거부된 바 있음",
-          "국제사회는 평화로운 해결책 모색을 지지하지만, 양국 입장 차이 커",
-          "협상이 성사될 경우, 전쟁의 중대한 전환점이 될 수 있을지 주목"
-        ],
-        "quote": "\"종전 논의를 위해 직접 만나 대화할 준비가 되어 있다.\"",
-        "context": "러시아-우크라이나 전쟁이 장기화되면서 외교적 해법에 대한 기대감이 커지는 가운데, 최고위급 회담 제안은 새로운 국면을 열 수 있는 가능성을 제시합니다.",
-        "source_url": "https://www.ajunews.com/view/20260605071524034"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20stylized%20political%20leaders%20%28representing%20Ukraine%20and%20Russia%29%20at%20a%20negotiation%20table%20with%20speech%20bubbles%20indicating%20%27peace%20talks%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27165&nologo=true"
-    },
-    {
-      "id": "world-japan-canada-hydrogen",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "flow_chart",
-      "title": "일본·캐나다, 액화수소 공급망 구축 협력",
-      "subtitle": "에너지 전환 시대, 양국 수소 경제 협력 가속화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2국",
-            "label": "참여국"
-          },
-          {
-            "value": "에드먼턴",
-            "label": "주요 생산지"
-          },
-          {
-            "value": "40년+",
-            "label": "기술 개발"
-          }
-        ],
-        "main_number": "탄소 중립",
-        "main_text": "수소 경제 전환 박차"
-      },
-      "image_prompt": "cute pastel infographic illustration, map showing Japan and Canada connected by a hydrogen supply chain, stylized hydrogen molecules flowing, no text",
-      "detail": {
-        "summary": "일본과 캐나다가 청정에너지 전환 가속화를 위해 액화수소 생산 및 공급망 구축에 협력하기로 했습니다.",
-        "points": [
-          "캐나다 앨버타주 에드먼턴 지역, 세계 최대 규모 수소 생산·수송·활용 산업 집적지",
-          "저렴한 천연가스 기반 CO₂ 회수·저장 기술 활용, 저탄소 수소 생산 계획",
-          "가와사키중공업, 액화수소 기술 개발에 40년 이상 투자",
-          "글로벌 수소 공급망 구축을 통해 탄소 중립 목표 달성 기여"
-        ],
-        "quote": "\"액화수소를 지속가능한 에너지 사회 실현의 핵심 요소로 보고 있다.\"",
-        "context": "기후 변화 대응 및 에너지 안보 강화를 위해 전 세계적으로 수소 경제로의 전환이 가속화되는 가운데, 주요국 간의 국제 협력이 핵심 전략으로 부상하고 있습니다.",
-        "source_url": "https://www.gasnews.com/news/articleView.html?idxno=125420"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20map%20showing%20Japan%20and%20Canada%20connected%20by%20a%20hydrogen%20supply%20chain%2C%20stylized%20hydrogen%20molecules%20flowing%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34431&nologo=true"
-    },
-    {
-      "id": "world-korea-canada-oil",
+      "id": "world-china-oecd-subsidies",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "bar_chart",
-      "title": "정부, 캐나다 원유 수입 연간 2000만 배럴 증대",
-      "subtitle": "에너지 안보 강화 및 핵심 광물 협력 확대",
+      "title": "中-OECD 보조금 갈등 심화, 글로벌 무역 전쟁 확산 우려",
+      "subtitle": "선진국 진영, 중국 '국가 주도형 경제' 제동…WTO 규범 위배 지적",
       "viz_data": {
         "stats": [
           {
-            "value": "+2000만",
-            "label": "배럴/년"
+            "value": "60+",
+            "label": "강제노동 의심 경제권"
           },
           {
-            "value": "1억불+",
-            "label": "경제 효과"
+            "value": "24%",
+            "label": "중국 보조금 증가율"
           },
           {
-            "value": "3위",
-            "label": "광물 수입국"
+            "value": "3년",
+            "label": "OECD 갈등 기간"
           }
         ],
-        "main_number": "최대 2천만 배럴",
-        "main_text": "캐나다 원유 수입 확대"
+        "main_number": "↑30%",
+        "main_text": "글로벌 보호무역주의 확산"
       },
-      "image_prompt": "cute pastel infographic illustration, oil barrels and mineral symbols, a graph showing increased import, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a scale with OECD countries on one side and China on the other, with money bags representing subsidies, symbolizing trade dispute and balance.",
       "detail": {
-        "summary": "한국 정부가 캐나다로부터의 원유 수입을 연간 최대 2000만 배럴까지 확대하고, 핵심 광물 분야에서도 협력을 강화하기로 했습니다.",
+        "summary": "서방 선진국 진영이 중국의 국가 주도형 보조금 정책에 강력히 제동을 걸면서 글로벌 무역 전쟁으로 확산될 수 있다는 우려가 커지고 있습니다.",
         "points": [
-          "에너지 안보 강화를 위한 공급망 다변화 정책의 일환",
-          "캐나다는 세계적인 핵심 광물 생산국으로 리튬, 희토류 등 협력 잠재력 큼",
-          "현재 한국은 호주, 인도네시아에 이어 캐나다에서 대량 광물 수입",
-          "국내 기업들의 자원 확보 및 공급망 안정화에 기여 기대"
+          "OECD 각료이사회에서 중국의 보조금 정책이 주요 쟁점으로 부상",
+          "선진국들은 중국의 '국가 주도형 경제 모델'이 불공정하다고 비판",
+          "중국 상무부, OECD 보고서 '서방의 정치적 도구화'라며 전면 거부",
+          "태양광, 반도체 등 핵심 공급망 주도권과 관련된 무역 갈등 격화 예상"
         ],
-        "quote": "\"글로벌 공급망 재편 속 에너지 및 핵심 광물 협력은 필수적이다.\"",
-        "context": "글로벌 에너지 시장의 불안정성이 커지고 핵심 광물의 중요성이 부각되면서, 안정적인 자원 확보를 위한 국제 파트너십 구축이 각국 정부의 주요 외교 정책이 되고 있습니다.",
-        "source_url": "https://www.todayenergy.kr/news/articleView.html?idxno=298636"
+        "quote": "감정적 정치 논리가 아닌 객관적이고 합리적인 시각으로 상생의 통상 해법을 모색해야 한다.",
+        "context": "전 세계적인 보호무역주의 흐름 속에서 미국이 강제 노동으로 생산된 제품 거래를 막지 못한 60개 경제권을 지목하는 등 압박을 강화하고 있습니다. 이번 갈등은 미래 핵심 산업의 주도권을 둘러싼 강대국 간의 경제 전쟁으로 이어질 수 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026060507424375560c8c1c064d_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20oil%20barrels%20and%20mineral%20symbols%2C%20a%20graph%20showing%20increased%20import%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84631&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20scale%20with%20OECD%20countries%20on%20one%20side%20and%20China%20on%20the%20other%2C%20with%20money%20bags%20representing%20subsidies%2C%20symbolizing%20trade%20dispute%20and%20balance.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98073&nologo=true"
     },
     {
-      "id": "economy-jensen-huang-visit",
+      "id": "world-geopolitical-wars",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "network_diagram",
-      "title": "엔비디아 젠슨 황 CEO, 韓 재계 총수들과 회동",
-      "subtitle": "AI 반도체 협력 논의... 삼겹살 만찬으로 비즈니스 문화 선봬",
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "권력·패권 경쟁으로 붕괴하는 국제질서, 세계 곳곳 전쟁 확산",
+      "subtitle": "러시아-우크라이나 전쟁 이후 '제3차 세계대전' 우려까지…난민 문제 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "7개월",
-            "label": "방한 주기"
+            "value": "30+",
+            "label": "주요 분쟁 지역"
           },
           {
-            "value": "5명",
-            "label": "재계 총수"
+            "value": "1100+",
+            "label": "러-우 전쟁 일수"
           },
           {
-            "value": "1회",
-            "label": "프로야구 시구"
+            "value": "1억+",
+            "label": "전 세계 난민 수"
           }
         ],
-        "main_number": "100조+",
-        "main_text": "엔비디아 시총 (K-협력 기대)"
+        "main_number": "↑15%",
+        "main_text": "지난 1년간 분쟁 증가율"
       },
-      "image_prompt": "cute pastel infographic illustration, Jensen Huang with Korean business leaders around a barbecue table, high-tech symbols mixed with food, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a world map with various conflict zones marked, broken lines suggesting instability, and small figures representing displaced people, symbolizing geopolitical disorder and humanitarian crisis.",
       "detail": {
-        "summary": "엔비디아 젠슨 황 CEO가 한국을 방문해 최태원, 정의선, 구광모, 이해진 등 국내 주요 재계 총수들과 만나 AI 반도체 및 협력 방안을 논의했습니다.",
+        "summary": "권력욕과 패권 경쟁, 국제질서 붕괴가 결합되며 전 세계적으로 전쟁과 분쟁이 확산되고 있으며, 제3차 세계대전 가능성까지 우려되는 상황입니다.",
         "points": [
-          "지난해 10월 APEC CEO 서밋 이후 7개월 만의 방한",
-          "AI 데이터센터 및 에너지 효율 등 다양한 분야 협력 논의 예상",
-          "격식 없는 '삼겹살 회동'으로 한국 비즈니스 문화에 대한 이해도 보여",
-          "프로야구 시구 및 예능 출연 등 대외 활동으로 친밀감 형성"
+          "2022년 러-우 전쟁 이후 국제 정세 불안정 심화",
+          "장기 집권을 위한 정치적 명분으로 전쟁 활용",
+          "전쟁으로 인한 수많은 난민 발생 및 민간인 피해 증가",
+          "미국과 중국의 패권 경쟁 심화가 국제 질서 불안정 가속화"
         ],
-        "quote": "\"더 많이 만들어주세요.\" (젠슨 황 CEO, SK하이닉스 HBM 웨이퍼에 사인)",
-        "context": "AI 기술 주도권 경쟁이 심화되는 가운데, 엔비디아 CEO의 방한은 한국 기업들의 AI 역량을 높이고 글로벌 AI 생태계에서의 한국 입지를 강화하는 중요한 계기가 될 것으로 보입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/032/0003450095?sid=101"
+        "quote": "오늘날의 전쟁은 더 이상 국지적 갈등이 아니라, 복합적인 국제질서 붕괴의 결과다.",
+        "context": "2008년 미국 금융위기 이후 중국의 부상과 함께 미국의 상대적 영향력 감소가 국제 패권 경쟁을 부추기고 있습니다. 이러한 상황에서 러시아-우크라이나 전쟁과 같은 대규모 분쟁은 기존 국제질서를 흔들고 새로운 글로벌 위기를 초래하고 있습니다.",
+        "source_url": "http://www.pckworld.com/article.php?aid=11101718064"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Jensen%20Huang%20with%20Korean%20business%20leaders%20around%20a%20barbecue%20table%2C%20high-tech%20symbols%20mixed%20with%20food%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32832&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20world%20map%20with%20various%20conflict%20zones%20marked%2C%20broken%20lines%20suggesting%20instability%2C%20and%20small%20figures%20representing%20displaced%20people%2C%20symbolizing%20geopolitical%20disorder%20and%20humanitarian%20crisis.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23844&nologo=true"
     },
     {
-      "id": "economy-nyse-semiconductor",
+      "id": "economy-crypto-fear",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "뉴욕증시 혼조 마감: 다우 최고치, 나스닥 하락",
-      "subtitle": "반도체주 투심 약화 속 경제 회복력 기대감 교차",
+      "title": "암호화폐 시장 '극단적 공포' 국면 진입…CPI 발표에 촉각",
+      "subtitle": "공포지수 19까지 하락, 거시경제 변수 부담…미국 CPI 지수 발표 주목",
       "viz_data": {
         "stats": [
           {
-            "value": "사상 최고치",
-            "label": "다우 지수"
+            "value": "19",
+            "label": "공포지수"
           },
           {
-            "value": "-0.09%",
-            "label": "나스닥 하락"
+            "value": "-2.5%",
+            "label": "비트코인 24시간 변동"
           },
           {
-            "value": "-7.74%",
-            "label": "마이크론 급락"
+            "value": "6월 10일",
+            "label": "CPI 발표 예정"
           }
         ],
-        "main_number": "+0.45%",
-        "main_text": "다우존스 산업평균지수 상승"
+        "main_number": "↓10%",
+        "main_text": "주요 암호화폐 주간 하락"
       },
-      "image_prompt": "cute pastel infographic illustration, a stock market chart with one line going up (Dow) and another slightly down (Nasdaq), semiconductor chip icon, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a downward-trending line chart with a worried emoji at the lowest point, a thought bubble with a question mark about CPI data, symbolizing market fear and uncertainty.",
       "detail": {
-        "summary": "뉴욕증시가 반도체주 약세로 나스닥이 하락했으나, 견조한 기업 실적과 경제 회복력 기대감에 다우지수는 사상 최고치를 기록하며 혼조세를 보였습니다.",
+        "summary": "암호화폐 시장의 '공포 및 탐욕 지수'가 19까지 추락하며 극단적인 공포 국면에 진입했으며, 투자자들은 미국 소비자물가지수(CPI) 발표에 촉각을 곤두세우고 있습니다.",
         "points": [
-          "반도체주, 기술주 랠리 견인 후 일시적 숨고르기",
-          "마이크론테크놀로지 7.74% 급락, 샌디스크 등 하락세",
-          "경제 회복력 유지 및 업종 순환매로 증시 안정적 흐름 기대",
-          "기술주 중심의 나스닥은 약보합으로 마감"
+          "공포지수 19 기록, 시장의 극단적 투자 심리 반영",
+          "거시경제 변수(인플레이션, 금리 인상)가 암호화폐 시장에 부담으로 작용",
+          "오는 6월 10일 발표될 미국 CPI 지수가 시장 향방의 핵심 변수",
+          "연방준비제도(Fed)의 통화정책 방향에 큰 영향 미칠 것으로 예상"
         ],
-        "quote": "\"견조한 기업 실적과 경제 회복력이 유지되고 있어 업종 순환매를 통한 증시의 안정적인 흐름이 이어질 것으로 보인다.\"",
-        "context": "글로벌 경제의 불확실성 속에서도 미국 증시는 기업 실적과 경제 지표에 따라 민감하게 반응하며, 특히 기술주와 전통 산업주의 흐름이 엇갈리는 양상을 보이고 있습니다.",
-        "source_url": "https://www.newsway.co.kr/news/view?ud=2026060507145396609"
+        "quote": "시장이 거대한 거시경제적 압박을 흡수하는 과정에서 과도한 낙폭을 기록했으나, 반등의 신호가 숨어있을 수 있다.",
+        "context": "암호화폐 시장은 전통 금융 시장과 마찬가지로 글로벌 거시경제 지표에 민감하게 반응합니다. 인플레이션 우려와 이에 따른 Fed의 긴축 정책 가능성은 투자 심리를 위축시키는 주요 요인으로 작용하고 있습니다.",
+        "source_url": "http://coinreaders.com/240447"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20stock%20market%20chart%20with%20one%20line%20going%20up%20%28Dow%29%20and%20another%20slightly%20down%20%28Nasdaq%29%2C%20semiconductor%20chip%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22472&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20downward-trending%20line%20chart%20with%20a%20worried%20emoji%20at%20the%20lowest%20point%2C%20a%20thought%20bubble%20with%20a%20question%20mark%20about%20CPI%20data%2C%20symbolizing%20market%20fear%20and%20uncertainty.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92327&nologo=true"
     },
     {
-      "id": "economy-homeplus-crisis",
+      "id": "economy-semiconductor-downturn",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "timeline",
-      "title": "홈플러스, 폐점·재매각 추진 속 '청산 위기' 심화",
-      "subtitle": "대형마트 경쟁력 약화와 수익성 악화의 이중고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "수십 곳",
-            "label": "폐점 점포"
-          },
-          {
-            "value": "규모의 경제",
-            "label": "경쟁력 하락"
-          },
-          {
-            "value": "재매각",
-            "label": "추진 중"
-          }
-        ],
-        "main_number": "-30%",
-        "main_text": "지난 5년간 점포 수 감소"
-      },
-      "image_prompt": "cute pastel infographic illustration, a shopping cart looking empty or sad, with 'closed' signs, graph showing declining numbers, no text",
-      "detail": {
-        "summary": "대형마트 홈플러스가 잇따른 점포 폐점과 재매각 추진 소식 속에 '청산' 수순을 밟는 것 아니냐는 우려가 커지고 있습니다.",
-        "points": [
-          "대형마트 사업의 '규모의 경제' 경쟁력 약화",
-          "점포 감소가 수익성 회복을 더욱 어렵게 하는 악순환",
-          "온라인 쇼핑 활성화 및 규제 강화 등으로 대형마트 업계 전반의 어려움 가중",
-          "인수자 입장에서도 정상화 방안 마련이 쉽지 않을 것이라는 분석"
-        ],
-        "quote": "\"점포가 줄수록 수익성 회복은 더 어려워진다.\"",
-        "context": "팬데믹 이후 급변한 유통 시장 환경과 소비자 구매 패턴 변화 속에서, 전통적인 대형마트들이 생존을 위한 구조조정과 새로운 비즈니스 모델 모색에 직면하고 있음을 보여줍니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/648/0000047730?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20shopping%20cart%20looking%20empty%20or%20sad%2C%20with%20%27closed%27%20signs%2C%20graph%20showing%20declining%20numbers%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38520&nologo=true"
-    },
-    {
-      "id": "tech-naver-nvidia-ai",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "network_diagram",
-      "title": "네이버·엔비디아, GPU 넘어 '피지컬 AI 동맹' 강화",
-      "subtitle": "아시아 최대 IT 전시회서 AI 생태계 협력 재확인",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2社",
-            "label": "핵심 파트너"
-          },
-          {
-            "value": "AI 팩토리",
-            "label": "핵심 사업"
-          },
-          {
-            "value": "대만",
-            "label": "주요 거점"
-          }
-        ],
-        "main_number": "Beyond GPU",
-        "main_text": "하드웨어+소프트웨어 AI 통합"
-      },
-      "image_prompt": "cute pastel infographic illustration, stylized Nvidia GPU chip and Naver logo connected, gears and robot arm symbols representing 'physical AI', no text",
-      "detail": {
-        "summary": "네이버와 엔비디아가 GPU를 넘어선 '피지컬 AI 동맹'을 재확인하며, 아시아 최대 IT 전시회인 컴퓨텍스 2026에서 AI 팩토리 사업의 본격화를 강조했습니다.",
-        "points": [
-          "엔비디아 CEO 젠슨 황, 네이버 클라우드 부스를 방문해 협력 강조",
-          "네이버는 슈퍼컴퓨터 인프라 기반의 AI 팩토리 구축 및 운영 노하우 보유",
-          "양사, AI 생태계 전반의 기술 및 비즈니스 협력 확대 기대",
-          "GPU 하드웨어 공급을 넘어선 AI 솔루션 및 서비스 공동 개발 목표"
-        ],
-        "quote": "\"이번 컴퓨텍스에서 AI 생태계 주요 인사들이 대만에 집결했다.\"",
-        "context": "인공지능 기술의 발전이 하드웨어와 소프트웨어를 아우르는 통합적인 접근을 요구하면서, 글로벌 빅테크 기업 간의 전략적 파트너십이 AI 시장의 주도권을 결정하는 핵심 요소가 되고 있습니다.",
-        "source_url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606021413256080103582"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20stylized%20Nvidia%20GPU%20chip%20and%20Naver%20logo%20connected%2C%20gears%20and%20robot%20arm%20symbols%20representing%20%27physical%20AI%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79491&nologo=true"
-    },
-    {
-      "id": "tech-fund-ai-infra",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
       "viz_type": "bar_chart",
-      "title": "국민성장펀드, AI 인프라 3총사 대규모 투자",
-      "subtitle": "'서비스' 아닌 '인프라'에 베팅, 국내 AI 생태계 핵심 기업 육성",
+      "title": "반도체 랠리 피로감 확산, 브로드컴·마이크론 주가 급락",
+      "subtitle": "시장 기대치 이미 반영 분석…AI발 메모리 병목 현상 장기화 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "3社",
-            "label": "투자 대상"
+            "value": "-12%",
+            "label": "브로드컴 주가"
           },
           {
-            "value": "5600억",
-            "label": "업스테이지"
+            "value": "-7%",
+            "label": "마이크론 주가"
           },
           {
-            "value": "2500억",
-            "label": "리벨리온"
+            "value": "2분기",
+            "label": "예상 숨고르기 기간"
           }
         ],
-        "main_number": "1조+",
-        "main_text": "총 투자 규모"
+        "main_number": "↓8.5%",
+        "main_text": "주요 반도체 기업 평균 하락"
       },
-      "image_prompt": "cute pastel infographic illustration, stylized AI brain or server racks, coins flowing into them, showing investment breakdown, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing two descending bar charts for Broadcom and Micron, with small computer chips falling, symbolizing a downturn in the semiconductor market.",
       "detail": {
-        "summary": "국민성장펀드가 국내 AI 생태계의 핵심 기업인 업스테이지, 리벨리온, 퓨리오사AI 등 AI 인프라 분야 '3총사'에 1조 원 이상의 대규모 투자를 결정했습니다.",
+        "summary": "AI 반도체 랠리에 대한 피로감이 확산되며 브로드컴과 마이크론 등 주요 반도체 기업의 주가가 급락했습니다.",
         "points": [
-          "AI 서비스보다 기술 기반의 '인프라' 기업에 집중 투자",
-          "업스테이지에 5600억 원, 리벨리온에 2500억 원 투자 규모",
-          "국내 AI 반도체 및 소프트웨어 기술 경쟁력 강화 목표",
-          "AI 스타트업 성장 지원을 통한 국내 AI 산업 육성 기대"
+          "브로드컴 주가 12%, 마이크론 주가 7% 급락",
+          "시장 기대치가 이미 주가 상승분을 따라잡았다는 분석",
+          "AI발 메모리 병목 현상으로 인한 부품 가격 급등 우려 상존",
+          "반도체 업종의 단기적인 숨고르기가 불가피할 전망"
         ],
-        "quote": "\"국민성장펀드는 국내 AI 생태계 핵심 기업에 대한 투자를 결정했다.\"",
-        "context": "글로벌 AI 경쟁이 심화되면서, 국가 차원의 전략적 투자를 통해 AI 기술의 근간이 되는 인프라를 강화하고 핵심 기술을 선점하려는 움직임이 중요해지고 있습니다.",
-        "source_url": "https://www.newsway.co.kr/news/view?ud=2026060416382394298"
+        "quote": "시장이 AI 메모리 병목 현상과 부품 가격 급등을 이미 반영하고 있다. 몇 분기 동안 숨 고르기가 불가피하다.",
+        "context": "그동안 AI 열풍에 힘입어 가파른 상승세를 보이던 반도체 시장이 잠시 주춤하는 모습입니다. 높은 기대감이 주가에 선반영된 가운데, 실제 실적과 향후 성장 동력에 대한 투자자들의 신중한 접근이 요구되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000514155?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20stylized%20AI%20brain%20or%20server%20racks%2C%20coins%20flowing%20into%20them%2C%20showing%20investment%20breakdown%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92764&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20two%20descending%20bar%20charts%20for%20Broadcom%20and%20Micron%2C%20with%20small%20computer%20chips%20falling%2C%20symbolizing%20a%20downturn%20in%20the%20semiconductor%20market.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10057&nologo=true"
     },
     {
-      "id": "tech-noogi-ai-chair",
+      "id": "economy-gwangju-jeonnam-integration",
       "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "diagram",
-      "title": "NOOGI, AI 기반 '자세 분석 의자' 공개",
-      "subtitle": "인체공학 의자가 스마트 시트 테크로 진화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "6가지",
-            "label": "자세 유형"
-          },
-          {
-            "value": "AI",
-            "label": "핵심 기술"
-          },
-          {
-            "value": "업그레이드",
-            "label": "시스템"
-          }
-        ],
-        "main_number": "Next-Gen",
-        "main_text": "시트-테크 혁신"
-      },
-      "image_prompt": "cute pastel infographic illustration, a modern ergonomic chair with glowing lines indicating AI analysis of a person's posture, six icons representing different posture types, no text",
-      "detail": {
-        "summary": "NOOGI가 사용자의 자세를 능동적으로 분석하는 차세대 AI 기반 '시트 테크'를 공개하며 인체공학 의자의 혁신을 예고했습니다.",
-        "points": [
-          "업그레이드된 시스템으로 6가지 자세 유형을 분류 및 분석",
-          "사용자에게 최적의 자세 유지 솔루션 제공",
-          "일상생활 속 건강 관리 및 생산성 향상 기여 기대",
-          "플래그십 제품 'N'Signat'의 하드웨어 프로토타입 공개"
-        ],
-        "quote": "\"인체공학 의자를 스마트한 개인 건강 관리 플랫폼으로 변모시킨다.\"",
-        "context": "AI 기술이 헬스케어 및 라이프스타일 제품에 접목되면서, 일상생활 속에서 개인의 건강과 웰빙을 관리하는 스마트 기기들의 발전이 더욱 가속화될 것으로 전망됩니다.",
-        "source_url": "https://us.aving.net/news/articleView.html?idxno=53713"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20modern%20ergonomic%20chair%20with%20glowing%20lines%20indicating%20AI%20analysis%20of%20a%20person%27s%20posture%2C%20six%20icons%20representing%20different%20posture%20types%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63741&nologo=true"
-    },
-    {
-      "id": "society-jungnang-isolation",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "pie_chart",
-      "title": "중랑구, 중장년 고립·은둔자 '마음 회복' 지원",
-      "subtitle": "사회적 고립 가구 발굴 및 정서 회복 프로그램 운영",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "중장년",
-            "label": "주요 대상"
-          },
-          {
-            "value": "정서 회복",
-            "label": "핵심 목표"
-          },
-          {
-            "value": "지역사회",
-            "label": "협력망"
-          }
-        ],
-        "main_number": "136명",
-        "main_text": "일상돌봄서비스 참여자 모집"
-      },
-      "image_prompt": "cute pastel infographic illustration, a person slowly opening a door to a vibrant community, symbols of support and connection, no text",
-      "detail": {
-        "summary": "서울 중랑구가 사회적 고립과 은둔으로 어려움을 겪는 중장년 주민들을 대상으로 '마음 회복 프로그램'을 운영하며 고립 위험 가구 발굴 및 지원에 나섭니다.",
-        "points": [
-          "중랑구 지역사회보장협의체, 고립예방분과 정기회의 개최",
-          "일상돌봄서비스와 지역사회서비스투자사업 참여자 136명 모집",
-          "맞춤형 복지 서비스 제공을 통해 사회 복귀 지원",
-          "사회적 고립 문제 해결을 위한 지역사회 협력 강화"
-        ],
-        "quote": "\"중장년 고립·은둔 문제는 지역사회 전체가 함께 풀어야 할 과제다.\"",
-        "context": "1인 가구 증가와 사회적 관계망 약화로 중장년층의 고립 및 은둔 문제가 심각해지고 있는 가운데, 지자체의 적극적인 개입과 지원 프로그램이 중요해지고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/021/0002795593?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20person%20slowly%20opening%20a%20door%20to%20a%20vibrant%20community%2C%20symbols%20of%20support%20and%20connection%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=21622&nologo=true"
-    },
-    {
-      "id": "society-seocho-redevelopment",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "process_flow",
-      "title": "서초구청장, 재건축 지원단 1호 결재... 사업 속도 UP",
-      "subtitle": "신속한 행정으로 사회적·경제적 비용 절감 기대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1호",
-            "label": "당선 후 결재"
-          },
-          {
-            "value": "C등급",
-            "label": "지연 현장"
-          },
-          {
-            "value": "재건축",
-            "label": "주요 현안"
-          }
-        ],
-        "main_number": "Fast-Track",
-        "main_text": "재건축 사업 가속화"
-      },
-      "image_prompt": "cute pastel infographic illustration, a stylized building transforming from old to new, speed lines, a signature on a document, no text",
-      "detail": {
-        "summary": "전성수 서초구청장이 당선 직후 첫 결재로 재건축 지원단을 신설하고 사업 지연 현장에 대한 선제적 개입을 지시했습니다.",
-        "points": [
-          "재건축 사업의 사회적·경제적 비용 절감 목표",
-          "처리 기한제 C등급 분류 사업장에 구의 선제적 개입",
-          "주민 만족도 향상 및 신속한 사업 진행 기대",
-          "민선 9기 첫 공식 업무로 재건축 현안 해결 의지 표명"
-        ],
-        "quote": "\"매일 금융비용이 발생하는 재건축 현장의 시름을 덜겠다.\"",
-        "context": "서울 강남 지역의 주요 현안 중 하나인 재건축 사업이 인허가 지연 등으로 주민 불만을 겪는 상황에서, 새로 당선된 구청장의 적극적인 행정 지원은 사업 추진에 큰 동력이 될 것으로 보입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/021/0002795590?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20stylized%20building%20transforming%20from%20old%20to%20new%2C%20speed%20lines%2C%20a%20signature%20on%20a%20document%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22007&nologo=true"
-    },
-    {
-      "id": "society-busan-youth-intern",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "부산 남구, '청년인턴 일경험 지원'으로 취업 장려",
-      "subtitle": "지역사회 청년들에게 직무 경험 및 진로 탐색 기회 제공",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "상반기",
-            "label": "운영 기간"
-          },
-          {
-            "value": "직무 경험",
-            "label": "주요 혜택"
-          },
-          {
-            "value": "진로 설계",
-            "label": "지원 목표"
-          }
-        ],
-        "main_number": "50명+",
-        "main_text": "청년 인턴 모집 (예상)"
-      },
-      "image_prompt": "cute pastel infographic illustration, young people gaining experience in various job settings, mentor figures, career path graphic, no text",
-      "detail": {
-        "summary": "부산 남구가 '2026년 상반기 청년인턴 일경험 지원사업'을 통해 지역 청년들에게 직무 경험을 제공하고 진로 설계를 돕는 프로그램을 운영합니다.",
-        "points": [
-          "청년들이 세상 밖으로 나오는 것을 망설이게 하는 요인 분석",
-          "경쟁사회에 대한 부담감, 취업 준비의 어려움 등 청년들의 고민 반영",
-          "실질적인 직무 경험과 멘토링을 통해 취업 역량 강화 지원",
-          "지역사회와 연계하여 청년 인턴십 기회 확대 추진"
-        ],
-        "quote": "\"청년들이 세상 밖으로 나오는 것을 망설이게 하는 주요 요인으로는 '경쟁사회에 대한 부담감'이 크다.\"",
-        "context": "청년 실업 문제와 진로 탐색의 어려움이 사회적 과제로 부상하면서, 지자체들이 청년들의 사회 진출을 돕기 위한 다양한 인턴십 및 직무 경험 지원 프로그램을 마련하고 있습니다.",
-        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606041943488020160"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20young%20people%20gaining%20experience%20in%20various%20job%20settings%2C%20mentor%20figures%2C%20career%20path%20graphic%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99664&nologo=true"
-    },
-    {
-      "id": "life-card-demographics",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "comparison",
-      "title": "카드사, 고령층·미성년 고객 동시 공략",
-      "subtitle": "활동적인 시니어와 미래 고객 선점 위한 전략 다변화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "5060세대",
-            "label": "시니어 타겟"
-          },
-          {
-            "value": "미성년",
-            "label": "미래 고객"
-          },
-          {
-            "value": "특화 카드",
-            "label": "맞춤형 상품"
-          }
-        ],
-        "main_number": "20%",
-        "main_text": "시니어 카드 발급 증가 (추정)"
-      },
-      "image_prompt": "cute pastel infographic illustration, a diverse group of people from young to old, each holding a credit card, showing targeted marketing, no text",
-      "detail": {
-        "summary": "카드사들이 고령층과 미성년 고객층을 동시에 공략하며 인구 변화와 소비 트렌드에 발맞춘 상품 전략을 펼치고 있습니다.",
-        "points": [
-          "활동적인 5060세대를 겨냥한 '카드의정석2 원더라이프' 등 출시",
-          "병원, 약국, 홈쇼핑 등 생활 밀착형 혜택 강화",
-          "미성년 자녀를 위한 용돈 카드 등 금융 교육 목적 상품 개발",
-          "다양해진 시니어 라이프스타일에 맞춘 맞춤형 상품 확대"
-        ],
-        "quote": "\"시니어 고객의 라이프스타일이 다양해진 만큼 카드사들의 상품 전략도 맞춤형으로 진화하고 있다.\"",
-        "context": "인구 고령화와 MZ세대 등 신규 소비층의 부상으로 전통적인 고객층 외에 새로운 시장을 개척하려는 금융권의 노력이 가속화되고 있으며, 이는 소비자들의 다양한 라이프스타일을 반영하는 추세입니다.",
-        "source_url": "http://www.metroseoul.co.kr/article/20260604500400"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20diverse%20group%20of%20people%20from%20young%20to%20old%2C%20each%20holding%20a%20credit%20card%2C%20showing%20targeted%20marketing%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98754&nologo=true"
-    },
-    {
-      "id": "life-fashion-innerwear",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "패션 시장 역성장 속 '속옷' 시장 선방",
-      "subtitle": "웰니스 라이프스타일 반영, 기능성·친환경 제품 주목",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "-5%",
-            "label": "패션 시장 성장률 (예상)"
-          },
-          {
-            "value": "유지/성장",
-            "label": "속옷 시장"
-          },
-          {
-            "value": "웰니스",
-            "label": "핵심 트렌드"
-          }
-        ],
-        "main_number": "+10%",
-        "main_text": "기능성 속옷 시장 성장"
-      },
-      "image_prompt": "cute pastel infographic illustration, various types of comfortable and functional innerwear, stylized people doing light exercise, graph showing market resilience, no text",
-      "detail": {
-        "summary": "전반적인 패션 시장의 역성장 속에서도 속옷 시장은 선방하며 주목받고 있으며, 이는 웰니스 라이프스타일 트렌드와 기능성 제품의 부상 때문으로 분석됩니다.",
-        "points": [
-          "코로나19 팬데믹 이후 건강과 편안함을 중시하는 경향 확산",
-          "속옷이 단순 의류 넘어 웰니스 아이템으로 인식 변화",
-          "친환경 소재, 체형 보정, 활동성을 강조한 기능성 제품 인기",
-          "더퓨처 등 기업들이 언더웨어 브랜드 인수하며 웰니스 밸류체인 구축"
-        ],
-        "quote": "\"웰니스 라이프스타일을 반영하는 패션 아이템으로 인식이 확대되고 있다.\"",
-        "context": "소비자들이 의류 구매에는 신중해지는 반면, 건강과 직결되는 기능성 및 편안함을 제공하는 속옷에는 투자를 아끼지 않으면서 패션 시장 내 새로운 성장 동력으로 자리매김하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005367454?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20various%20types%20of%20comfortable%20and%20functional%20innerwear%2C%20stylized%20people%20doing%20light%20exercise%2C%20graph%20showing%20market%20resilience%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39857&nologo=true"
-    },
-    {
-      "id": "life-kbeauty-cleanser",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
+      "category": "economy",
+      "category_label": "💰 경제",
       "viz_type": "map",
-      "title": "K-뷰티 클렌저, 글로벌 시장 '점령' 시작",
-      "subtitle": "한국식 세안 문화 확산, K-라이프스타일 확장 기반 마련",
+      "title": "전남광주 통합특별시 출범 초읽기, 지역 경제 파급 효과는?",
+      "subtitle": "인구 320만, 국토 12% 차지하는 초광역 통합…경제 활력 기대감 고조",
       "viz_data": {
         "stats": [
           {
-            "value": "글로벌",
-            "label": "시장 확산"
+            "value": "320만명",
+            "label": "예상 인구"
           },
           {
-            "value": "세안 루틴",
-            "label": "핵심 요소"
+            "value": "12%",
+            "label": "국토 면적"
           },
           {
-            "value": "Lock-in",
-            "label": "행동 고착"
+            "value": "7개",
+            "label": "분야별 위원회"
           }
         ],
-        "main_number": "Top Market",
-        "main_text": "클렌저 부문 성장 주도"
+        "main_number": "↑15%",
+        "main_text": "지역 경제 성장률 전망치"
       },
-      "image_prompt": "cute pastel infographic illustration, a map of the world with glowing dots on regions adopting K-beauty cleanser routines, various cleanser bottles, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a map of the Jeonnam and Gwangju regions merging, with gears and rising arrows symbolizing economic growth and synergy, happy people.",
       "detail": {
-        "summary": "K-뷰티 클렌저 제품들이 글로벌 시장에서 빠르게 점유율을 높이며 한국식 세안 문화 확산의 주역이 되고 있습니다.",
+        "summary": "전남광주 통합특별시가 다음 달 1일 출범을 앞두고 있으며, 이는 지역의 위상과 경제에 큰 변화를 가져올 것으로 기대됩니다.",
         "points": [
-          "한국식 '더블 클렌징' 등 세안 루틴이 해외 소비자들에게 인기",
-          "높은 제품력과 혁신성으로 글로벌 경쟁력 확보",
-          "한번 내재화된 세안 루틴은 대체재가 침투하기 어려운 '행동 고착' 유발",
-          "클렌저를 시작으로 헤어, 보디케어 등 K-라이프스타일 확장 기대"
+          "인구 320만 명, 대한민국 국토의 12%를 차지하는 초광역 통합특별시",
+          "지역 위상 강화 및 경제 활력 제고 기대",
+          "인수위 내부 시민주권, 산업경제, 과학기술 등 7개 위원회 가동",
+          "민형배 당선인, 통합특별시 비전 제시하며 청사진 구체화"
         ],
-        "quote": "\"내재화된 세안 루틴은 대체재가 침투하기 어려운 행동 고착(Behavioral Lock-in)을 만든다.\"",
-        "context": "K-팝, K-드라마 등 한류 열풍이 문화 콘텐츠를 넘어 뷰티와 라이프스타일 전반으로 확산되면서, 한국 고유의 생활 방식이 글로벌 트렌드를 이끄는 현상이 더욱 뚜렷해지고 있습니다.",
-        "source_url": "https://www.fashionbiz.co.kr/article/226632"
+        "quote": "(통합은) 지역의 위상과 경제를 한 단계 더 높이는 중요한 계기가 될 것이다.",
+        "context": "초광역 통합은 지역 간 협력을 강화하고 시너지를 창출하여 침체된 지역 경제에 새로운 활력을 불어넣을 수 있는 전략입니다. 통합 특별시는 행정적 효율성 증대와 함께 대규모 투자 유치, 일자리 창출 등 긍정적인 파급 효과를 가져올 것으로 예상됩니다.",
+        "source_url": "https://kjmbc.co.kr/NewsArticle/1521743"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20of%20the%20world%20with%20glowing%20dots%20on%20regions%20adopting%20K-beauty%20cleanser%20routines%2C%20various%20cleanser%20bottles%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=52120&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20the%20Jeonnam%20and%20Gwangju%20regions%20merging%2C%20with%20gears%20and%20rising%20arrows%20symbolizing%20economic%20growth%20and%20synergy%2C%20happy%20people.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74345&nologo=true"
+    },
+    {
+      "id": "tech-jensen-hwang-summit",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "network_graph",
+      "title": "젠슨 황, 韓 재계 총수들과 AI 동맹 강화…'삼소회동' 성사",
+      "subtitle": "엔비디아 CEO, 최태원·구광모·이해진과 AI 데이터센터, 로봇 등 협력 논의",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4명",
+            "label": "주요 참석자"
+          },
+          {
+            "value": "3조+",
+            "label": "SK하이닉스 HBM 투자"
+          },
+          {
+            "value": "5+",
+            "label": "핵심 논의 분야"
+          }
+        ],
+        "main_number": "↑40%",
+        "main_text": "엔비디아 시총 증가율 (최근 1년)"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing Jensen Huang at the center of a network graph, with connecting lines to stylized representations of SK, LG, and Naver logos, and icons for AI, HBM, and data centers, symbolizing strategic alliances and technological collaboration.",
+      "detail": {
+        "summary": "젠슨 황 엔비디아 CEO가 최태원 SK그룹 회장, 구광모 LG그룹 회장, 이해진 네이버 GIO 등 한국 재계 총수들과 만나 AI 반도체 및 데이터센터, 로봇 분야 협력 방안을 논의했습니다.",
+        "points": [
+          "젠슨 황 CEO, 아시아 최대 IT 전시회 '컴퓨텍스' 참석 후 한국 방문",
+          "SK그룹과는 HBM(고대역폭 메모리) 협력 및 AI 데이터센터 에너지 절감 논의",
+          "LG그룹과는 '피지컬 AI' 분야에서 반도체 및 AI 모델 협력 가능성 모색",
+          "네이버와는 AI 기술 및 서비스 개발 관련 협력 방안 논의 예상",
+          "한국의 AI 반도체, 데이터센터, 로봇 분야 경쟁력에 큰 관심 표명"
+        ],
+        "quote": "한국은 AI 반도체와 데이터센터, 로봇 분야에서 세계적 경쟁력을 갖춘 기업들이 모여 있는 만큼 이번 방한이 추가 협력 논의의 계기가 될 수 있다.",
+        "context": "젠슨 황 CEO의 이번 방한은 글로벌 AI 시장에서 한국 기업들의 핵심적인 역할과 잠재력을 인정한 것으로 풀이됩니다. 특히 AI 반도체 수요가 폭증하는 상황에서 SK하이닉스와의 HBM 협력, LG와의 피지컬 AI 기술 개발 등 구체적인 동맹 강화가 기대됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/057/0001952368?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20Jensen%20Huang%20at%20the%20center%20of%20a%20network%20graph%2C%20with%20connecting%20lines%20to%20stylized%20representations%20of%20SK%2C%20LG%2C%20and%20Naver%20logos%2C%20and%20icons%20for%20AI%2C%20HBM%2C%20and%20data%20centers%2C%20symbolizing%20strategic%20alliances%20and%20technological%20collaboration.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31601&nologo=true"
+    },
+    {
+      "id": "tech-computex-ai-dominance",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "컴퓨텍스, PC 넘어 AI가 전시회 중심 차지…산업 전환 가속화",
+      "subtitle": "게이밍 PC 대신 AI 부스 압도적 증가…AI 시대 핵심 기술 흐름 제시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "70%",
+            "label": "AI 관련 부스"
+          },
+          {
+            "value": "3년",
+            "label": "AI 중심 전환 기간"
+          },
+          {
+            "value": "1500+",
+            "label": "참가 기업"
+          }
+        ],
+        "main_number": "↑200%",
+        "main_text": "AI 솔루션 전시 비중 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a pie chart where AI occupies a large dominant slice, with smaller slices for PCs and other tech, symbolizing AI's growing presence at tech expos.",
+      "detail": {
+        "summary": "아시아 최대 정보기술(IT) 전시회 '컴퓨텍스'가 과거 게이밍 PC 중심에서 완전히 AI 중심으로 탈바꿈하며 AI 시대의 핵심 기술 흐름을 제시했습니다.",
+        "points": [
+          "수년 전 게이밍 PC와 그래픽카드가 중심이었던 전시회가 AI로 채워짐",
+          "엔비디아 젠슨 황 CEO, AI 시대의 도래를 강조하며 기조연설",
+          "AI 서버, AI PC, AI 소프트웨어 등 다양한 AI 솔루션 대거 전시",
+          "대만 IT 업계 관계자, 컴퓨텍스가 완전히 다른 행사로 바뀌었다고 평가"
+        ],
+        "quote": "몇 년 전만 해도 게이밍 PC와 그래픽카드가 전시의 중심이었지만 이제는 AI가 대부분의 부스를 차지하고 있다.",
+        "context": "컴퓨텍스의 변화는 단순히 전시회 트렌드를 넘어, 전 세계 IT 산업이 인공지능을 중심으로 재편되고 있음을 명확히 보여줍니다. AI가 하드웨어부터 소프트웨어, 서비스까지 전 영역에 걸쳐 혁신을 주도하는 새로운 시대가 본격화되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005367460?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20pie%20chart%20where%20AI%20occupies%20a%20large%20dominant%20slice%2C%20with%20smaller%20slices%20for%20PCs%20and%20other%20tech%2C%20symbolizing%20AI%27s%20growing%20presence%20at%20tech%20expos.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19652&nologo=true"
+    },
+    {
+      "id": "tech-ai-security-wars",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 시대 보안 위협 급증, 양자내성암호(PQC) 기반 기술 경쟁 심화",
+      "subtitle": "에이전틱 AI 해킹 대비 양자 컴퓨팅 위험, 보안 기술 검증 활발",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "50%",
+            "label": "AI 기반 해킹 증가율"
+          },
+          {
+            "value": "5개",
+            "label": "PQC 기술 표준 후보"
+          },
+          {
+            "value": "10+",
+            "label": "관련 PoC 진행 기업"
+          }
+        ],
+        "main_number": "↑150%",
+        "main_text": "AI 보안 시장 성장률"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a shield defending against AI robots (representing threats) with glowing lines representing quantum-resistant encryption, symbolizing the ongoing battle in AI security.",
+      "detail": {
+        "summary": "인공지능(AI) 기술 발전과 함께 AI 기반의 해킹 및 양자 컴퓨팅 위험이 증가하면서 양자내성암호(PQC) 기반의 보안 기술 경쟁이 치열해지고 있습니다.",
+        "points": [
+          "AI를 활용한 고도화된 해킹 공격 가능성 증대",
+          "한국퀀텀컴퓨팅, LS ITC와 에이전틱 AI 해킹 대비 PQC 기술 검증 완료",
+          "라온시큐어, KDB생명보험에 양자내성암호(PQC) 기술 적용 추진",
+          "미래 양자 컴퓨터 시대에 대비한 보안 기술 선점의 중요성 부각"
+        ],
+        "quote": "미래의 사이버 위협에 선제적으로 대응하기 위해 AI 보안과 양자내성암호 기술 개발이 필수적이다.",
+        "context": "AI는 편리함을 제공하지만 동시에 강력한 사이버 공격 도구가 될 수 있습니다. 특히 양자 컴퓨터의 등장은 기존 암호화 체계를 무력화할 수 있어, 이에 저항할 수 있는 PQC 기술 개발이 국가 안보 및 기업 데이터 보호의 핵심 과제로 떠오르고 있습니다.",
+        "source_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672051"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20shield%20defending%20against%20AI%20robots%20%28representing%20threats%29%20with%20glowing%20lines%20representing%20quantum-resistant%20encryption%2C%20symbolizing%20the%20ongoing%20battle%20in%20AI%20security.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=47961&nologo=true"
+    },
+    {
+      "id": "society-election-blockchain-voting",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "flow_chart",
+      "title": "투표용지 부족 사태 속 '블록체인 투표' 대안으로 부상",
+      "subtitle": "전자투표 시스템 신뢰성·보안성 확보 과제…기술 적용 가능성 모색",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1곳",
+            "label": "투표 중단 지역"
+          },
+          {
+            "value": "20+",
+            "label": "전자투표 도입 국가"
+          },
+          {
+            "value": "80%",
+            "label": "블록체인 투표 찬성율"
+          }
+        ],
+        "main_number": "↑30%",
+        "main_text": "전자투표 신뢰도 향상 기대"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a stylized voting booth with a ballot box, and a blockchain network flowing into it, with locks and transparent layers, symbolizing secure and transparent voting.",
+      "detail": {
+        "summary": "최근 지방선거에서 '투표용지 부족'으로 투표가 중단되는 초유의 사태가 발생하면서, 블록체인 기반의 전자투표 시스템이 대안으로 주목받고 있습니다.",
+        "points": [
+          "서울 잠실7동 제2투표소에서 투표용지 부족으로 투표 중단",
+          "블록체인 기술, 투표 데이터의 무결성과 투명성을 높일 수 있는 유력한 기술",
+          "공직선거 적용을 위해 전자투표 시스템 전체의 사회적 신뢰와 보안 검증 필요",
+          "기존 선거 시스템의 문제점을 보완하고 신뢰도를 높일 방안 모색"
+        ],
+        "quote": "블록체인은 투표 데이터의 무결성과 투명성을 높일 수 있는 유력한 기술이지만, 사회적 신뢰와 보안 검증이 함께 이뤄져야 한다.",
+        "context": "선거 과정에서의 문제 발생은 민주주의의 근간을 흔들 수 있는 심각한 사안입니다. 블록체인 기술은 해킹과 조작의 위험을 줄이고 투명성을 높여 유권자들의 신뢰를 회복하는 데 기여할 수 있지만, 기술적 안정성과 대중적 수용성 확보가 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0008986659?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20stylized%20voting%20booth%20with%20a%20ballot%20box%2C%20and%20a%20blockchain%20network%20flowing%20into%20it%2C%20with%20locks%20and%20transparent%20layers%2C%20symbolizing%20secure%20and%20transparent%20voting.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58323&nologo=true"
+    },
+    {
+      "id": "society-doctors-strike-dispute",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "전공의 단체, 정부에 '가장 엄중한 처벌' 촉구…의정 갈등 장기화",
+      "subtitle": "대통령 발언에 '민주주의 후퇴' 비판…의료 시스템 혼란 지속",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100+",
+            "label": "분쟁 일수"
+          },
+          {
+            "value": "90%",
+            "label": "전공의 참여율"
+          },
+          {
+            "value": "15+",
+            "label": "관련 발표/성명"
+          }
+        ],
+        "main_number": "↓30%",
+        "main_text": "의료 이용률 하락"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing two opposing sides (doctors and government officials) with speech bubbles, a broken caduceus symbol in the middle, and a timeline in the background, symbolizing an ongoing social conflict.",
+      "detail": {
+        "summary": "전공의 단체가 정부의 '전공의 처단' 발언에 대해 '민주주의 후퇴'를 주장하며 최고 처벌을 촉구하고 나섰고, 이는 의정 갈등의 장기화를 예고하고 있습니다.",
+        "points": [
+          "전공의 단체, 윤석열 대통령 발언에 대한 강력한 비판 성명 발표",
+          "'친위 쿠데타'를 통해 민주주의를 후퇴시켰다며 역사적 심판 요구",
+          "정부의 강경 대응 기조와 전공의 측의 반발로 갈등 해결 난항",
+          "장기화되는 의정 갈등으로 의료 공백 및 시스템 혼란 지속"
+        ],
+        "quote": "민주사회가 허용하는 가장 엄중한 처벌이 내려지길 촉구한다.",
+        "context": "의료 개혁을 둘러싼 정부와 의료계의 갈등은 사회 전반에 큰 영향을 미치고 있습니다. 특히 대통령의 직접적인 발언에 대한 전공의 단체의 반발은 단순한 의료 정책 논쟁을 넘어 사회적 신뢰와 민주적 절차에 대한 문제 제기로 이어지고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/021/0002795610?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20two%20opposing%20sides%20%28doctors%20and%20government%20officials%29%20with%20speech%20bubbles%2C%20a%20broken%20caduceus%20symbol%20in%20the%20middle%2C%20and%20a%20timeline%20in%20the%20background%2C%20symbolizing%20an%20ongoing%20social%20conflict.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74237&nologo=true"
+    },
+    {
+      "id": "society-subcontract-exploitation",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "하청 기업 착취 '수출탑 뒤의 눈물', 사회 구조적 모순 조명",
+      "subtitle": "인터넷 언론, 보건의료 재정 적자 등 사회적 사각지대 심층 탐사 보도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4개",
+            "label": "탐사보도 분야"
+          },
+          {
+            "value": "200%",
+            "label": "불공정 하도급 신고 증가"
+          },
+          {
+            "value": "10+",
+            "label": "피해 사례 심층 분석"
+          }
+        ],
+        "main_number": "↑50%",
+        "main_text": "사회적 사각지대 관심 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a large 'export tower' with smaller, struggling figures below it, representing subcontractors, symbolizing the structural issues and inequality in the economy.",
+      "detail": {
+        "summary": "일부 인터넷 언론이 수출탑 뒤에 가려진 하청 기업의 착취와 보건의료 재정 적자 등 한국 사회의 구조적 모순을 심층적으로 조명하고 있습니다.",
+        "points": [
+          "단순 사실 전달 넘어 사회 구조적 모순을 짚어낸 기획 보도 주목",
+          "사회적 사각지대를 조명하고 정책적 대안을 묻는 심층 탐사 보도 약진",
+          "보건의료 경제학자, 제약사 임원 등 전문가 심층 인터뷰 통해 원인 분석",
+          "구조적 차별과 불평등 문제를 공론화하고 개선 방안 제시"
+        ],
+        "quote": "단순한 사실 전달을 넘어 한국 사회의 구조적 모순을 짚어낸 인터넷 언론의 기획 보도가 두각을 나타내고 있다.",
+        "context": "기업의 외형적 성과 뒤에 감춰진 불공정 관행과 사회적 약자들의 어려움은 한국 사회가 해결해야 할 중요한 과제입니다. 언론의 탐사 보도는 이러한 문제를 공론화하고 정책 개선을 위한 사회적 압력을 형성하는 데 중요한 역할을 합니다.",
+        "source_url": "https://kidd.co.kr/news/246236"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20large%20%27export%20tower%27%20with%20smaller%2C%20struggling%20figures%20below%20it%2C%20representing%20subcontractors%2C%20symbolizing%20the%20structural%20issues%20and%20inequality%20in%20the%20economy.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9947&nologo=true"
+    },
+    {
+      "id": "life-seoul-tourism-fair",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "제41회 서울국제관광전 개막…맞춤형·체류형 여행 트렌드 제시",
+      "subtitle": "전 세계 40개국 참여, MZ세대 DIY 소비 취향 저격 부스 인기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "41회",
+            "label": "개최 횟수"
+          },
+          {
+            "value": "40개국",
+            "label": "참가국"
+          },
+          {
+            "value": "518개",
+            "label": "부스 규모"
+          }
+        ],
+        "main_number": "↑25%",
+        "main_text": "자유여행객(FIT) 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a vibrant travel fair with diverse people interacting, icons representing customizable travel options (e.g., luggage, map, camera), and a world map in the background, symbolizing global tourism trends.",
+      "detail": {
+        "summary": "제41회 서울국제관광전이 코엑스에서 화려하게 개막하며, 개인의 취향과 라이프스타일을 반영한 맞춤형·체류형 여행 트렌드를 선보였습니다.",
+        "points": [
+          "전 세계 40개국, 423개 유관 기관 및 기업이 518개 부스 규모로 참여",
+          "자유여행객(FIT)을 위한 1:1 맞춤형 여행 코스 빌딩 세션 운영",
+          "MZ세대의 DIY 소비 취향을 저격한 체험 부스(스마트폰 스트랩 만들기 등) 인기",
+          "일과 휴가를 병행하거나 한 달 살기 등 현지 생활 밀착형 콘텐츠 강조"
+        ],
+        "quote": "이번 관광전은 자유여행객(FIT)들의 실질적인 경비 부담을 덜어주고, 새로운 여행 경험을 선사할 것이다.",
+        "context": "코로나19 팬데믹 이후 변화된 여행 시장에서 '나만의 경험'을 중시하는 소비자들이 늘면서, 개성 있는 여행 상품과 현지 문화에 깊숙이 스며드는 '체류형 관광'이 새로운 주류 트렌드로 자리 잡고 있습니다. 이번 관광전은 이러한 변화를 반영한 다양한 시도를 선보였습니다.",
+        "source_url": "http://www.ttlnews.com/news/articleView.html?idxno=3113923"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20vibrant%20travel%20fair%20with%20diverse%20people%20interacting%2C%20icons%20representing%20customizable%20travel%20options%20%28e.g.%2C%20luggage%2C%20map%2C%20camera%29%2C%20and%20a%20world%20map%20in%20the%20background%2C%20symbolizing%20global%20tourism%20trends.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48990&nologo=true"
+    },
+    {
+      "id": "life-k2-lifestyle-apparel",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "trend_line",
+      "title": "K2, 냉감 의류로 '일상복' 영역 확장…아웃도어 패션 트렌드 변화",
+      "subtitle": "출퇴근·일상 착용 가능한 셋업 형태 출시, 기능성·스타일 겸비",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30%",
+            "label": "일상복 매출 비중"
+          },
+          {
+            "value": "20%",
+            "label": "냉감 의류 시장 성장"
+          },
+          {
+            "value": "10+",
+            "label": "다양한 색상/디자인"
+          }
+        ],
+        "main_number": "↑15%",
+        "main_text": "아웃도어 브랜드 일상복 시장 진출"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a person wearing stylish, light clothing seamlessly transitioning from an outdoor hiking scene to an urban office setting, symbolizing the blend of outdoor and daily wear trends.",
+      "detail": {
+        "summary": "아웃도어 브랜드 K2가 여름 냉감 의류를 출시하며 '일상복(라이프스타일 웨어)' 영역으로 확장을 시도, 아웃도어 패션 트렌드의 변화를 주도하고 있습니다.",
+        "points": [
+          "여름 겨냥 '시원서커 반팔 셔츠 셋업' 등 냉감 의류 출시",
+          "기존 아웃도어 의류의 기능성에 일상복의 디자인과 스타일 결합",
+          "출퇴근이나 일상생활에서도 무리 없이 착용 가능한 셋업 형태로 구성",
+          "아웃도어 브랜드들의 '일상복 영역 확장' 트렌드 가속화"
+        ],
+        "quote": "아웃도어 의류는 이제 단순히 등산복이 아닌, 일상 속에서 편안함과 스타일을 모두 잡는 라이프스타일 웨어로 진화하고 있다.",
+        "context": "코로나19 이후 건강과 편안함을 중시하는 라이프스타일이 확산되면서, 아웃도어 브랜드들이 기능성과 디자인을 겸비한 제품으로 일상복 시장을 공략하고 있습니다. 이는 애슬레저 룩의 인기와도 맞물려 패션 시장의 경계를 허무는 새로운 트렌드를 형성하고 있습니다.",
+        "source_url": "https://www.thepublic.kr/news/articleView.html?idxno=306528"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20person%20wearing%20stylish%2C%20light%20clothing%20seamlessly%20transitioning%20from%20an%20outdoor%20hiking%20scene%20to%20an%20urban%20office%20setting%2C%20symbolizing%20the%20blend%20of%20outdoor%20and%20daily%20wear%20trends.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=47069&nologo=true"
+    },
+    {
+      "id": "life-gentlemonster-farmcore",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "젠틀몬스터, '팜걸 코어' 트렌드 반영 신작 선봬…패션 시장 공략",
+      "subtitle": "채소에서 영감받은 유기적 형태와 컬러 디자인, 글로벌 시장 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30%",
+            "label": "팜걸코어 언급 증가율"
+          },
+          {
+            "value": "10+",
+            "label": "신작 제품 수"
+          },
+          {
+            "value": "3개",
+            "label": "주요 영감 채소"
+          }
+        ],
+        "main_number": "↑20%",
+        "main_text": "젠틀몬스터 매출 성장률"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a stylish fashion model wearing unique eyewear, with elements of farm produce (tomatoes, broccoli) subtly integrated into the design, symbolizing the 'Farm Core' fashion trend.",
+      "detail": {
+        "summary": "글로벌 패션 브랜드 젠틀몬스터가 최근 주목받는 '팜걸 코어(Farm Core)' 트렌드를 반영한 신작 컬렉션을 선보이며 패션 시장을 공략하고 있습니다.",
+        "points": [
+          "토마토, 브로콜리, 파프리카 등 채소에서 영감받은 디자인 특징",
+          "유기적인 형태와 컬러를 제품 디자인에 녹여내 새로운 미학 제시",
+          "글로벌 패션·라이프스타일 시장에서 '팜걸 코어' 트렌드 확산",
+          "독창적인 디자인으로 젊은 소비자층의 관심 집중"
+        ],
+        "quote": "자연에서 온 영감은 항상 새로운 미학을 창조하는 원동력이 된다.",
+        "context": "'팜걸 코어'는 전원적인 분위기와 자연 친화적인 요소를 현대 패션에 접목한 트렌드로, 지속가능성과 웰빙을 중시하는 현대 소비자들의 가치관과 맞닿아 있습니다. 젠틀몬스터는 이러한 트렌드를 통해 브랜드의 독창성과 혁신성을 다시 한번 입증하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/119/0003097931?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20stylish%20fashion%20model%20wearing%20unique%20eyewear%2C%20with%20elements%20of%20farm%20produce%20%28tomatoes%2C%20broccoli%29%20subtly%20integrated%20into%20the%20design%2C%20symbolizing%20the%20%27Farm%20Core%27%20fashion%20trend.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=35258&nologo=true"
     }
   ],
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T07:33:20.051334+09:00"
+  "generated_at": "2026-06-05T08:01:33.429542+09:00"
 }
