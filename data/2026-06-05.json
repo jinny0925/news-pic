@@ -1,622 +1,632 @@
 {
   "cards": [
     {
-      "id": "world-19",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "multi_line_chart",
-      "title": "트럼프 대중 정책, 예측 불가능한 표류…미·중 관계 균열 심화",
-      "subtitle": "단기 실리 추구와 장기 봉쇄론의 충돌, 워싱턴 외교 정책 분열",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2가지",
-            "label": "정책 방향"
-          },
-          {
-            "value": "2국",
-            "label": "관련국"
-          },
-          {
-            "value": "불확실성",
-            "label": "현 상태"
-          }
-        ],
-        "main_number": "깊은 균열",
-        "main_text": "미국 외교 정책 내부의 분열"
-      },
-      "image_prompt": "cute pastel infographic illustration, two countries (USA and China) with question marks and opposing arrows, no text",
-      "detail": {
-        "summary": "도널드 트럼프 전 대통령의 대중 정책이 '단기 실리'와 '장기 봉쇄'론 사이에서 갈팡질팡하며 워싱턴 외교 정책에 깊은 균열을 드러내고 있습니다.",
-        "points": [
-          "트럼프의 대중 정책, 단기 실리 추구와 장기 봉쇄론 사이 모순",
-          "국제 정치 전문가들, 미국 외교 정책 내부의 깊은 분열로 해석",
-          "과거 대중 정책의 반복 가능성 제기",
-          "예측 불가능성으로 미·중 관계의 불안정성 증대"
-        ],
-        "quote": "이 같은 모순적 사태가 미국 외교 정책 내부의 깊은 분열을 드러내는 증거다.",
-        "context": "미국 대선이 다가오면서 트럼프 전 대통령의 외교 정책 방향이 국제 정세에 미칠 영향에 대한 관심과 우려가 커지고 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026060507495733030c8c1c064d_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20countries%20%28USA%20and%20China%29%20with%20question%20marks%20and%20opposing%20arrows%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66818&nologo=true"
-    },
-    {
-      "id": "world-20",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "milestone_timeline",
-      "title": "한국, 2027∼2029년 유엔 경제사회이사회 이사국 통산 11번째 수임",
-      "subtitle": "유엔 경제·사회·개발 분야 논의 주도 기회 확보",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2027-2029",
-            "label": "임기"
-          },
-          {
-            "value": "11번째",
-            "label": "통산 수임"
-          },
-          {
-            "value": "54개국",
-            "label": "이사국 규모"
-          }
-        ],
-        "main_number": "11회",
-        "main_text": "ECOSOC 이사국 수임 횟수"
-      },
-      "image_prompt": "cute pastel infographic illustration of a globe with a laurel wreath and a stack of books, symbolizing international recognition, no text",
-      "detail": {
-        "summary": "한국이 2027년부터 2029년까지 유엔 경제사회이사회(ECOSOC) 이사국으로 선출되어, 통산 11번째로 이사회에 참여하게 되었습니다.",
-        "points": [
-          "2027~2029년 임기 ECOSOC 이사국 선출",
-          "한국의 통산 11번째 이사국 수임",
-          "ECOSOC은 유엔의 경제·사회·개발 분야 논의 중심축",
-          "국제사회에서 한국의 영향력 확대 기회"
-        ],
-        "quote": "한국은 이로써 통산 11번째 ECOSOC 이사국을 수임하게 됐습니다.",
-        "context": "유엔 ECOSOC 이사국은 경제, 사회, 개발 분야에서 국제 협력을 이끌어가는 중요한 역할을 수행하며, 한국의 국제적 위상 강화에 기여할 것입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/057/0001952377?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20globe%20with%20a%20laurel%20wreath%20and%20a%20stack%20of%20books%2C%20symbolizing%20international%20recognition%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98046&nologo=true"
-    },
-    {
-      "id": "world-87",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "line_chart_decline",
-      "title": "인도네시아 자원 민족주의 심화, 니켈 시장 5년 만에 적자 전환 우려",
-      "subtitle": "세계 공급량 3분의 2 장악…수출 독점으로 글로벌 공급망 차질",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2/3",
-            "label": "니켈 공급량"
-          },
-          {
-            "value": "5년 만",
-            "label": "적자 전환"
-          },
-          {
-            "value": "-4%",
-            "label": "생산량 감소 예측"
-          }
-        ],
-        "main_number": "적자 전환",
-        "main_text": "니켈 시장 예상 변화"
-      },
-      "image_prompt": "cute pastel infographic illustration of a nickel ore being held by hands from a country flag, with a downward trend line, no text",
-      "detail": {
-        "summary": "인도네시아의 '자원 민족주의' 정책으로 니켈 시장이 5년 만에 적자로 전환될 위기에 처했으며, 이는 세계 니켈 공급량의 3분의 2를 장악한 인도네시아의 수출 독점 때문입니다.",
-        "points": [
-          "인도네시아의 자원 무기화 정책, 니켈 시장에 영향",
-          "전 세계 니켈 공급량의 3분의 2를 인도네시아가 장악",
-          "국제 니켈연구그룹(INSG), 올해 1차 니켈 생산량 4% 감소 예측",
-          "5년 만에 니켈 시장 적자 전환 가능성 대두"
-        ],
-        "quote": "자원 무기화 나선 자카르타, '원도어' 수출 독점에 시장 마비",
-        "context": "전기차 배터리 등 핵심 산업에 필수적인 니켈의 공급망 불안정은 글로벌 산업 전반에 큰 파장을 일으킬 수 있으며, 원자재 가격 상승 압력으로 작용할 수 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026060507584271550c8c1c064d_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20nickel%20ore%20being%20held%20by%20hands%20from%20a%20country%20flag%2C%20with%20a%20downward%20trend%20line%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38411&nologo=true"
-    },
-    {
-      "id": "economy-29",
+      "id": "world-us-china-bio-tech",
       "is_headline": true,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart_comparison",
-      "title": "4월 경상수지 흑자, 반도체 수출 호조로 역대 2위 기록",
-      "subtitle": "282.9억 달러 흑자 달성, 36개월 연속 흑자 행진 이어가",
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "미-중 바이오 갈등 심화, K-바이오 기회될까?",
+      "subtitle": "美, 中 바이오 투자 규제 강화... 한국은 반사이익 기대",
       "viz_data": {
         "stats": [
           {
-            "value": "282.9억$",
-            "label": "4월 흑자"
+            "value": "中 바이오",
+            "label": "급성장"
           },
           {
-            "value": "2위",
-            "label": "역대 기록"
+            "value": "美 규제",
+            "label": "강화"
           },
           {
-            "value": "36개월",
-            "label": "연속 흑자"
+            "value": "K-바이오",
+            "label": "새 기회"
           }
         ],
-        "main_number": "+171.4%",
-        "main_text": "반도체 수출 증가율"
+        "main_number": "규제 강화",
+        "main_text": "미국, 중국 바이오 투자 통제"
       },
-      "image_prompt": "cute pastel infographic illustration of a growing bar chart and a rising arrow, with a chip and a dollar sign, no text",
+      "image_prompt": "cute pastel infographic illustration, US and China flags with biotech symbols, showing a barrier or diverging paths, bright and analytical, no text",
       "detail": {
-        "summary": "한국의 4월 경상수지가 282억9천만 달러 흑자를 기록하며 역대 2위 규모를 달성했고, 이는 반도체 및 IT 품목 수출 호조에 힘입은 결과입니다.",
+        "summary": "미국 정치권이 바이오 분야의 대중국 규제 수위를 높이면서, 국가 주도 신약 개발과 미국 자본 유입으로 급성장한 중국 제약·바이오산업에 제동이 걸릴 전망이다. 이는 한국 바이오산업에 새로운 기회가 될 수 있다는 분석이 나온다.",
         "points": [
-          "4월 경상수지 282.9억 달러 흑자 기록",
-          "월간 기준 역대 2위 규모 달성 (3월 379.3억 달러에 이어)",
-          "36개월 연속 흑자 행진 지속",
-          "반도체 수출 전년 동월 대비 171.4% 급증하며 흑자 견인",
-          "컴퓨터 주변기기(SSD) 수출 411.3% 폭증"
+          "미국, 중국 바이오 분야 투자 규제 수위 상승",
+          "중국, 국가 주도 투자 및 미국 자본 기반 급성장",
+          "K-바이오 산업, 잠재적 반사이익 기대"
         ],
-        "quote": "IT 품목의 기록적인 수출 호조가 4월 경상수지 흑자를 이끈 것으로 분석된다.",
-        "context": "글로벌 경기 둔화 우려 속에서도 한국 경제의 견조한 회복세와 수출 경쟁력을 보여주는 지표로, 특히 핵심 산업인 반도체의 강세가 두드러집니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002652302?sid=101"
+        "quote": "미국 자본과 기술 유입을 기반으로 빠르게 성장한 중국 바이오 산업에 대한 견제가 심화되고 있다.",
+        "context": "미국과 중국 간의 기술 패권 경쟁이 바이오 분야로 확대되면서 글로벌 공급망과 산업 지형에 큰 영향을 미칠 것으로 예상된다.",
+        "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092163315"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20growing%20bar%20chart%20and%20a%20rising%20arrow%2C%20with%20a%20chip%20and%20a%20dollar%20sign%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37932&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20US%20and%20China%20flags%20with%20biotech%20symbols%2C%20showing%20a%20barrier%20or%20diverging%20paths%2C%20bright%20and%20analytical%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81487&nologo=true"
     },
     {
-      "id": "economy-30",
+      "id": "world-hyundai-car-award",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "ranking",
+      "title": "현대차그룹, 美 '올해의 자동차 회사' 첫 수상",
+      "subtitle": "3년 연속 세계 올해의 차 배출, 전기차 경쟁력 인정받아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3년 연속",
+            "label": "세계 올해의 차"
+          },
+          {
+            "value": "800V",
+            "label": "초고속 충전"
+          },
+          {
+            "value": "IIHS",
+            "label": "안전성 평가"
+          }
+        ],
+        "main_number": "1위",
+        "main_text": "현대차그룹, 미국서 첫 왕관"
+      },
+      "image_prompt": "cute pastel infographic illustration, car award trophy with modern electric cars and global map elements, vibrant and celebratory, no text",
+      "detail": {
+        "summary": "현대차그룹이 미국에서 '올해의 자동차 회사' 상을 처음으로 수상하며 글로벌 자동차 시장에서의 경쟁력을 입증했다. 3년 연속 세계 올해의 차를 배출하고 전기차 전용 플랫폼 기술력을 인정받았다.",
+        "points": [
+          "현대차그룹, 미국서 '올해의 자동차 회사' 최초 수상",
+          "3년 연속 '세계 올해의 차' 배출 성과",
+          "전기차 전용 플랫폼 및 800V 초고속 충전 기술력 인정",
+          "미국 고속도로안전보험협회(IIHS) 안전성 평가 및 디자인 어워드 성과"
+        ],
+        "quote": "그룹의 수상 배경으로 전기차 전용 플랫폼 경쟁력, 800V 초고속 충전 기술 등이 꼽혔다.",
+        "context": "글로벌 전기차 전환 시대에 현대차그룹의 기술력과 혁신이 세계 시장에서 높은 평가를 받으며 브랜드 위상이 한층 강화되고 있다.",
+        "source_url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571121453499"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20car%20award%20trophy%20with%20modern%20electric%20cars%20and%20global%20map%20elements%2C%20vibrant%20and%20celebratory%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19836&nologo=true"
+    },
+    {
+      "id": "world-koreanair-stem-education",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "contribution",
+      "title": "대한항공, 美 이공계 인재 육성 지원",
+      "subtitle": "글로벌 항공산업 이끌 인재 양성 위한 미국 우수교육센터 후원",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "글로벌",
+            "label": "네트워크 캐리어"
+          },
+          {
+            "value": "이공계",
+            "label": "인재 육성"
+          },
+          {
+            "value": "기업 이익",
+            "label": "사회 환원"
+          }
+        ],
+        "main_number": "글로벌",
+        "main_text": "이공계 인재 육성 후원"
+      },
+      "image_prompt": "cute pastel infographic illustration, stylized airplane flying over a globe, with graduation caps and engineering tools, representing global education and aerospace, no text",
+      "detail": {
+        "summary": "대한항공이 미국 우수교육센터를 후원하며 글로벌 이공계 인재 육성에 나선다. 항공 분야를 비롯한 이공계 인재 양성에 기여하고, 전 세계 학생들에게 대한항공을 접할 기회를 제공하며 기업 이익을 사회에 환원할 계획이다.",
+        "points": [
+          "대한항공, 미국 우수교육센터 후원",
+          "항공 및 이공계 분야 글로벌 인재 육성 기여",
+          "전 세계 학생들에게 대한항공 접할 기회 제공",
+          "기업 이익의 지속적인 사회 환원 목표"
+        ],
+        "quote": "글로벌 네트워크 캐리어로서 항공을 비롯한 이공계 분야 인재 육성에 기여할 수 있을 것이다.",
+        "context": "항공산업의 미래 경쟁력은 우수 인재 확보에 달려있으며, 대한항공은 글로벌 기업으로서 사회적 책임을 다하며 미래 인재 양성에 투자하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005772184?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20stylized%20airplane%20flying%20over%20a%20globe%2C%20with%20graduation%20caps%20and%20engineering%20tools%2C%20representing%20global%20education%20and%20aerospace%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38641&nologo=true"
+    },
+    {
+      "id": "economy-space-investment",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "investment_breakdown",
-      "title": "전남 장성 3천959억 규모 첨단 데이터센터 건설 박차, 지역 경제 활성화 기대",
-      "subtitle": "생산유발효과 8천억, 고용유발효과 3천명 전망",
+      "viz_type": "growth",
+      "title": "미래에셋, 우주 경제 테마 펀드로 수익률 압도",
+      "subtitle": "뉴스페이스 시대 개막, 자본시장 우주 산업으로 뭉칫돈 쏠림",
       "viz_data": {
         "stats": [
           {
-            "value": "3959억",
-            "label": "총 사업비"
+            "value": "뉴스페이스",
+            "label": "시대 개막"
           },
           {
-            "value": "26MW",
-            "label": "수전 용량"
+            "value": "자본시장",
+            "label": "쏠림 현상"
           },
           {
-            "value": "2023년",
-            "label": "추진 시작"
+            "value": "독점적",
+            "label": "포트폴리오"
           }
         ],
-        "main_number": "+8천억",
-        "main_text": "생산유발효과 예상치"
+        "main_number": "급증",
+        "main_text": "우주 시장 투자 활황"
       },
-      "image_prompt": "cute pastel infographic illustration of a futuristic data center building with server racks, dollar signs, and people icon, no text",
+      "image_prompt": "cute pastel infographic illustration, rockets and satellites with money symbols, showing investment growth in space, futuristic and dynamic, no text",
       "detail": {
-        "summary": "전남 장성에 3천959억 원 규모의 첨단 데이터센터가 건설되며, 이를 통해 8천억 원의 생산유발효과와 3천 명의 고용유발효과가 기대됩니다.",
+        "summary": "민간 주도의 '뉴스페이스' 시대가 본격화되면서 자본시장의 뭉칫돈이 우주 경제 인프라 테마로 급격히 쏠리고 있다. 미래에셋은 독점적 포트폴리오를 통해 상장 두 달 만에 압도적인 수익률을 기록 중이다.",
         "points": [
-          "전남 장성에 3천959억 원 규모 첨단 데이터센터 건설",
-          "생산유발효과 8천억 원, 고용유발효과 3천 명 기대",
-          "수전용량 26㎿(IT 부하 16.7㎿) 규모",
-          "정부의 '지역활성화 투자 펀드 7호 프로젝트'로 신속 추진"
+          "뉴스페이스 시대 본격화로 우주 경제 투자 급증",
+          "미래에셋, 우주 시장 독점 포트폴리오로 시장 선도",
+          "발사체 및 저궤도 위성 통신 기업 중심 투자",
+          "기존 방위산업·항공기 제조 펀드와 차별화"
         ],
-        "quote": "전남 장성 첨단 데이터센터는 생산유발효과 8000억원, 고용유발효과 3000명 이상이 기대되는 대형 프로젝트입니다.",
-        "context": "데이터센터는 디지털 경제의 핵심 인프라로, 대규모 투자를 통해 지역 경제 활성화는 물론 고품질 IT 서비스 제공의 기반이 될 것입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/088/0001013206?sid=101"
+        "quote": "민간 주도의 뉴스페이스 시대가 본격화되면서 자본시장의 뭉칫돈이 우주 경제 인프라 테마로 급격히 쏠리고 있다.",
+        "context": "전통적인 우주 개발은 국가 주도였으나, 이제는 민간 기업들이 혁신적인 기술과 비즈니스 모델로 시장을 확장하며 새로운 투자 기회를 창출하고 있다.",
+        "source_url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=78711"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20futuristic%20data%20center%20building%20with%20server%20racks%2C%20dollar%20signs%2C%20and%20people%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=13013&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20rockets%20and%20satellites%20with%20money%20symbols%2C%20showing%20investment%20growth%20in%20space%2C%20futuristic%20and%20dynamic%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=21674&nologo=true"
     },
     {
-      "id": "economy-24",
+      "id": "economy-china-investment-rule",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "comparison_and_reduction_target",
-      "title": "농업 재해율, 산업 평균의 7.5배…정부 2030년까지 25% 감축 추진",
-      "subtitle": "안전관리 종합대책 발표, 고위험 농기계 안전장치 의무화 확대",
+      "viz_type": "timeline",
+      "title": "中, 해외 투자 규제 강화…기술 통제 본격화",
+      "subtitle": "7월 1일 해외투자 규정 시행, 바이오·첨단기술 투자 위축 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "7.5배",
-            "label": "산업 평균 대비"
+            "value": "7월 1일",
+            "label": "시행일"
           },
           {
-            "value": "25%",
-            "label": "감축 목표"
+            "value": "기술 투자",
+            "label": "통제 강화"
           },
           {
-            "value": "2030년",
-            "label": "목표 연도"
+            "value": "해외 투자",
+            "label": "새 규정"
           }
         ],
-        "main_number": "7.5배",
-        "main_text": "농업 재해율(vs 산업 평균)"
+        "main_number": "7월 1일",
+        "main_text": "中 해외 투자 규제 시행"
       },
-      "image_prompt": "cute pastel infographic illustration of a farmer with safety gear and a downward arrow for accident rate, no text",
+      "image_prompt": "cute pastel infographic illustration, Chinese dragon wrapping around technology symbols, with a calendar showing July 1st, representing regulation and control, no text",
       "detail": {
-        "summary": "농림분야 재해율이 산업재해율의 7.5배에 달하자 정부가 2030년까지 사망·부상자율을 25% 감축하는 목표를 담은 안전관리 종합대책을 발표했습니다.",
+        "summary": "중국이 해외 투자 규제법을 7월 1일부터 시행하며 해외 기술 투자를 통제하는 정책을 강화한다. 이는 바이오 및 첨단 기술 분야의 해외 투자에 영향을 미칠 것으로 예상된다.",
         "points": [
-          "농림분야 재해율, 산업재해율의 약 7.5배 높은 수준",
-          "2030년까지 농림분야 사망·부상자율 25% 감축 목표",
-          "현장 체감형 농기계 안전성 확보, 농업시설 안전관리 고도화 등 추진",
-          "고령·여성 농업인, 외국인 노동자 등 취약계층 맞춤형 안전관리 강화"
+          "중국, 해외 투자에 관한 새로운 규정 공포",
+          "7월 1일부터 규정 시행 예정",
+          "바이오·첨단 기술 분야 해외 투자 통제 강화 목표",
+          "국무원령으로 대외투자 행위 및 절차 규정"
         ],
-        "quote": "정부는 농림분야 안전관리 종합대책을 통해 농업인의 생명과 안전을 지키겠다.",
-        "context": "농업 분야의 높은 재해율은 농업인들의 삶의 질과 생산성에 직결되는 문제로, 정부의 적극적인 안전 관리 정책이 시급히 요구되는 상황입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006297835?sid=101"
+        "quote": "리창 중국 총리는 지난 1일 해외투자에 관한 새로운 규정을 공포하는 국무원령에 서명했으며, 이 규정은 내달 1일부터 시행된다.",
+        "context": "미국과의 기술 패권 경쟁이 심화되는 가운데, 중국은 자국의 핵심 기술을 보호하고 전략적인 해외 투자를 유도하기 위해 규제 정책을 강화하고 있다.",
+        "source_url": "http://www.medisobizanews.com/news/articleView.html?idxno=139218"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20farmer%20with%20safety%20gear%20and%20a%20downward%20arrow%20for%20accident%20rate%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9124&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Chinese%20dragon%20wrapping%20around%20technology%20symbols%2C%20with%20a%20calendar%20showing%20July%201st%2C%20representing%20regulation%20and%20control%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=21424&nologo=true"
     },
     {
-      "id": "tech-45",
+      "id": "economy-overseas-realestate-investment",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "국내 거주자, 해외 부동산 3200억 매입",
+      "subtitle": "국내 규제 피해 해외 투자 활발, 안정적 정치 구도 선호",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3200억",
+            "label": "해외 부동산 매수액"
+          },
+          {
+            "value": "고강도",
+            "label": "국내 규제"
+          },
+          {
+            "value": "안정적",
+            "label": "정치 구도"
+          }
+        ],
+        "main_number": "3200억",
+        "main_text": "올해 해외 부동산 매수액"
+      },
+      "image_prompt": "cute pastel infographic illustration, world map with houses and money flowing overseas, showing real estate investment trends, clean and analytical, no text",
+      "detail": {
+        "summary": "올해 들어 국내 거주자가 해외 부동산 매입에 3200억원에 육박하는 금액을 송금한 것으로 나타났다. 국내 다주택 및 비거주주택에 대한 고강도 규제를 피해 해외로 눈을 돌리는 이들이 늘고 있으며, 특히 안정적인 정치 구도를 갖춘 국가가 선호되고 있다.",
+        "points": [
+          "올해 해외 부동산 매입액 약 3200억원 육박",
+          "국내 다주택·비거주주택 고강도 규제 회피 목적",
+          "일본 등 외국인 투자 규제 적은 국가 선호",
+          "안정적인 정치 구도가 투자 결정에 영향"
+        ],
+        "quote": "국내에 비해 안정적인 정치구도를 갖췄다는 점도 투자 이유다.",
+        "context": "국내 부동산 시장의 불확실성과 높은 규제로 인해 투자자들이 해외 시장으로 눈을 돌리는 현상이 심화되고 있으며, 이는 자본 유출로 이어질 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002652340?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20world%20map%20with%20houses%20and%20money%20flowing%20overseas%2C%20showing%20real%20estate%20investment%20trends%2C%20clean%20and%20analytical%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96872&nologo=true"
+    },
+    {
+      "id": "tech-ai-drug-discovery",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "growth_chart_social_media",
-      "title": "한인 시니어의 '타국 음식 먹방' 유튜브, 2100만 회 이상 조회수 기록하며 온라인 화제",
-      "subtitle": "새로운 문화 콘텐츠로 세계인의 사랑을 받는 시니어 유튜버",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2100만+",
-            "label": "최대 조회수"
-          },
-          {
-            "value": "다양한 채소",
-            "label": "김치 실험"
-          },
-          {
-            "value": "전 세계",
-            "label": "시청자 범위"
-          }
-        ],
-        "main_number": "+2100만",
-        "main_text": "대표 영상 페이스북 조회수"
-      },
-      "image_prompt": "cute pastel infographic illustration of senior people enjoying various dishes, with speech bubbles showing different languages and a play button icon, no text",
-      "detail": {
-        "summary": "캐나다 한인 시니어가 세계 각국 음식을 맛보는 '먹방' 유튜브 채널이 온라인에서 큰 화제를 모으며 2100만 회 이상의 조회수를 기록했습니다.",
-        "points": [
-          "캐나다 한인 부모가 세계 음식 맛보는 유튜브 채널 인기",
-          "'윌 잇 김치(Will It Kimchi)' 시리즈, 페이스북 2100만 회 이상 조회수",
-          "시청자들, 다른 문화에 대한 개방성 증가 피드백",
-          "국경을 넘는 콘텐츠로 다양한 문화권 시청자에게 사랑받는 중"
-        ],
-        "quote": "시청자들이 김치를 처음 먹어봤다고 이야기하거나 다른 문화에 더 열린 마음을 갖게 됐다고 말할 때 보람을 느낀다.",
-        "context": "언어와 문화를 넘어선 공감대를 형성하며 시니어 크리에이터의 가능성을 보여주는 사례로, 온라인 콘텐츠의 다양성과 포용성을 확장하고 있습니다.",
-        "source_url": "https://www.koreadaily.com/article/20260604160051087"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20senior%20people%20enjoying%20various%20dishes%2C%20with%20speech%20bubbles%20showing%20different%20languages%20and%20a%20play%20button%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38029&nologo=true"
-    },
-    {
-      "id": "tech-74",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "concept_map_future_skills",
-      "title": "AI 시대, '제너럴리스트'의 중요성 부각…미래 사회 설계 능력 필요",
-      "subtitle": "다양한 분야를 넘나드는 융합적 사고와 시스템 설계 능력 강조",
+      "viz_type": "process",
+      "title": "AI 로봇, 신약 개발 속도 높인다",
+      "subtitle": "불 꺼진 실험실에서 밤샘 연구, AI 신약 개발 시대 본격화",
       "viz_data": {
         "stats": [
           {
             "value": "AI",
-            "label": "핵심 동력"
+            "label": "신약 개발"
           },
           {
-            "value": "제너럴리스트",
-            "label": "필요 인재상"
+            "value": "로봇",
+            "label": "자동화"
           },
           {
-            "value": "시스템",
-            "label": "설계 대상"
+            "value": "효율성",
+            "label": "극대화"
           }
         ],
-        "main_number": "융합",
-        "main_text": "AI 시대 핵심 역량"
+        "main_number": "AI 혁신",
+        "main_text": "로봇 기반 신약 개발 가속"
       },
-      "image_prompt": "cute pastel infographic illustration of a brain with gears and lightbulbs connecting different knowledge domains (e.g., tech, humanities, arts), symbolizing a generalist in the AI era, no text",
+      "image_prompt": "cute pastel infographic illustration, robot in a lab coat working with beakers and a complex molecular structure, stylized with AI elements, bright and innovative, no text",
       "detail": {
-        "summary": "AI 시대에는 '한 우물만 파는 전문가'보다 다양한 분야를 넘나들며 시스템을 설계할 수 있는 '제너럴리스트'의 역량이 중요해질 것이라는 전망이 나왔습니다.",
+        "summary": "AI 기술과 로봇 자동화가 신약 개발의 판도를 바꾸고 있다. 불 꺼진 실험실에서 밤새도록 신약 후보 물질을 탐색하는 로봇들이 등장하며, AI 기반 신약 개발 시대가 본격화되어 효율성과 속도를 크게 향상시키고 있다.",
         "points": [
-          "AI 시대에는 제너럴리스트의 역할이 중요",
-          "법과 제도 등 새로운 시스템 설계 능력 요구",
-          "20세기 '한 우물만 파는 전문가' 시대와 대비",
-          "여러 분야를 넘나드는 융합적 사고의 필요성 강조"
+          "AI 및 로봇 기술, 신약 개발 과정 혁신",
+          "로봇이 밤샘 신약 후보 물질 탐색 가능",
+          "시장조사업체 IDC, 전 세계 스마트폰 출하량 데이터 발표 (참고)",
+          "원인 불명 폐질환 치료제 개발 (쥐 실험) 등 AI 활용 범위 확대 (참고)"
         ],
-        "quote": "AI와 공존할 수 있는 법과 제도 같은 시스템을 새로 설계해야 하는 미래 사회에선 여러 분야를 넘나들며 무언가 설계할 수 있는 능력이 있고 없고가 큰 차이를 만들 것",
-        "context": "인공지능 기술의 발전이 사회 전반에 미치는 영향이 커지면서, 미래 인재가 갖춰야 할 역량과 교육 방향에 대한 깊은 고민이 필요하다는 인식을 확산하고 있습니다.",
-        "source_url": "https://kids.donga.com/news/articleView.html?idxno=169058"
+        "quote": "불 꺼진 실험실서 밤새 신약 찾는 로봇···AI 신약 개발 시장 급성장.",
+        "context": "글로벌 제약 시장에서 경쟁이 심화되면서, 시간과 비용을 절감하고 성공률을 높이기 위한 AI 기반 신약 개발의 중요성이 갈수록 커지고 있다.",
+        "source_url": "http://www.hellodd.com/news/articleView.html?idxno=111995"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20brain%20with%20gears%20and%20lightbulbs%20connecting%20different%20knowledge%20domains%20%28e.g.%2C%20tech%2C%20humanities%2C%20arts%29%2C%20symbolizing%20a%20generalist%20in%20the%20AI%20era%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=43408&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20robot%20in%20a%20lab%20coat%20working%20with%20beakers%20and%20a%20complex%20molecular%20structure%2C%20stylized%20with%20AI%20elements%2C%20bright%20and%20innovative%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36588&nologo=true"
     },
     {
-      "id": "tech-41",
+      "id": "tech-autonomous-driving-partnership",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "facility_overview_infographic",
-      "title": "전남 장성 첨단 데이터센터, 수전용량 26MW 규모로 2028년 가동 목표",
-      "subtitle": "클라우드 서비스 및 부대 서비스 제공, AI 인프라 핵심 역할",
+      "viz_type": "partnership",
+      "title": "K-스타트업 모바휠, 美 AEye와 자율주행 협력",
+      "subtitle": "대전 스타트업, 실리콘밸리 기업과 LiDAR 기술 MOU 체결",
       "viz_data": {
         "stats": [
           {
-            "value": "26MW",
-            "label": "수전 용량"
+            "value": "K-스타트업",
+            "label": "모바휠"
           },
           {
-            "value": "16.7MW",
-            "label": "IT 부하"
+            "value": "美 실리콘밸리",
+            "label": "AEye"
           },
           {
-            "value": "2028년",
-            "label": "가동 목표"
+            "value": "LiDAR",
+            "label": "자율주행 기술"
           }
         ],
-        "main_number": "AI 인프라",
-        "main_text": "핵심 기반"
+        "main_number": "맞손",
+        "main_text": "韓-美 자율주행 기술 협력"
       },
-      "image_prompt": "cute pastel infographic illustration of a large, modern data center facility with glowing servers and network connections, emphasizing AI infrastructure, no text",
+      "image_prompt": "cute pastel infographic illustration, two hands (representing companies) shaking, with autonomous cars and LiDAR sensor waves, showing technological partnership, no text",
       "detail": {
-        "summary": "전남 장성에 수전용량 26MW(IT 부하 16.7MW) 규모의 첨단 AI 데이터센터가 2028년 가동을 목표로 신속하게 추진되고 있으며, 클라우드 서비스 등을 제공할 예정입니다.",
+        "summary": "대전의 K-스타트업 '모바휠'이 미국 실리콘밸리의 자율주행 기술 기업 AEye와 손잡고 LiDAR 기술 협력을 위한 양해각서(MOU)를 체결했다. 이를 통해 고성능 LiDAR 기술 기반 자율주행 솔루션 개발에 박차를 가할 예정이다.",
         "points": [
-          "장성 AI 데이터센터, 수전용량 26MW 규모",
-          "IT 부하 16.7MW, 2028년 가동 목표",
-          "클라우드 서비스 사업자 등에 시설 임대 및 부대 서비스 제공",
-          "전남도, 장성군, 민간이 2023년부터 추진해온 핵심 사업"
+          "대전 K-스타트업 '모바휠', 美 AEye와 MOU 체결",
+          "자율주행 핵심 기술인 LiDAR 개발 협력",
+          "모바휠, 고성능 자율주행 시스템 개발 박차",
+          "AEye, LiDAR 솔루션 및 기술 지원"
         ],
-        "quote": "데이터센터는 수전용량 26MW(IT Load 16.7MW) 규모로 조성된다.",
-        "context": "AI 시대를 맞아 컴퓨팅 자원의 중요성이 커지면서, 대규모 데이터센터는 핵심 인프라로 자리 잡고 있습니다. 이는 지역의 디지털 전환 가속화에도 기여할 것입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002652305?sid=101"
+        "quote": "고성능 LiDAR 기술 기반 자율주행 솔루션 개발에 적극적으로 협력하기로 했다.",
+        "context": "자율주행 기술은 미래 모빌리티의 핵심으로, 한국 스타트업이 글로벌 선도 기업과 협력하며 기술 경쟁력을 강화하고 시장을 확대하는 중요한 발판을 마련했다.",
+        "source_url": "http://www.breaknews.com/1212112"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20large%2C%20modern%20data%20center%20facility%20with%20glowing%20servers%20and%20network%20connections%2C%20emphasizing%20AI%20infrastructure%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67232&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20hands%20%28representing%20companies%29%20shaking%2C%20with%20autonomous%20cars%20and%20LiDAR%20sensor%20waves%2C%20showing%20technological%20partnership%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94074&nologo=true"
     },
     {
-      "id": "society-01",
+      "id": "tech-aws-outsystems-ai-integration",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "integration",
+      "title": "아웃시스템즈-AWS, AI 협력으로 개발 가속화",
+      "subtitle": "베드록, 키로 등 AWS AI 서비스 통합, 기업 AI 앱 구축 지원",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "아웃시스템즈",
+            "label": "플랫폼"
+          },
+          {
+            "value": "AWS",
+            "label": "AI 서비스"
+          },
+          {
+            "value": "Bedrock, Q, Transform",
+            "label": "주요 서비스"
+          }
+        ],
+        "main_number": "3개 서비스",
+        "main_text": "AI 플랫폼 통합"
+      },
+      "image_prompt": "cute pastel infographic illustration, interlocking gears or puzzle pieces representing AWS and OutSystems logos, with AI symbols, showing seamless integration and collaboration, no text",
+      "detail": {
+        "summary": "아웃시스템즈와 AWS가 AI 협력을 확대하며 기업의 AI 애플리케이션 개발을 가속화한다. AWS의 주요 AI 서비스인 베드록, 키로, 트랜스폼을 아웃시스템즈 플랫폼에 통합하여 개발 라이프사이클 전반을 지원할 예정이다.",
+        "points": [
+          "아웃시스템즈-AWS, AI 협력 확대 발표",
+          "AWS 베드록, 키로, 트랜스폼 서비스 통합",
+          "애플리케이션 개발부터 운영까지 전체 라이프사이클 지원",
+          "기업의 에이전틱 AI 기반 애플리케이션 구축 용이성 증대"
+        ],
+        "quote": "아웃시스템즈 플랫폼은 애플리케이션 개발부터 운영까지 전체 개발 라이프사이클을 통합적으로 관리하는 역할도 맡는다.",
+        "context": "클라우드 기반 AI 서비스의 중요성이 커지면서, 기업들은 빠르고 효율적인 AI 애플리케이션 개발을 위해 플랫폼 간의 긴밀한 통합을 요구하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/092/0002425394?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20interlocking%20gears%20or%20puzzle%20pieces%20representing%20AWS%20and%20OutSystems%20logos%2C%20with%20AI%20symbols%2C%20showing%20seamless%20integration%20and%20collaboration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46297&nologo=true"
+    },
+    {
+      "id": "society-gwangju-jeonnam-policy",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "election_result_map",
-      "title": "지방선거 '순천 탈환' 민주당 이변, 광양 '무소속 신화' 재현",
-      "subtitle": "지역 정치 지형 변화, 거대 양당 중심 구조 속 의미있는 결과",
+      "viz_type": "roadmap",
+      "title": "전남광주 통합특별시, 5대 원칙으로 비전 제시",
+      "subtitle": "민형배 당선인, 성장·균형·기본사회·녹색도시·시민주권 강조",
       "viz_data": {
         "stats": [
           {
-            "value": "1곳",
-            "label": "민주당 탈환"
+            "value": "성장통합",
+            "label": "1원칙"
           },
           {
-            "value": "1곳",
-            "label": "무소속 신화"
+            "value": "균형통합",
+            "label": "2원칙"
           },
           {
-            "value": "2곳",
-            "label": "주요 지역"
+            "value": "기본사회",
+            "label": "3원칙"
+          },
+          {
+            "value": "녹색도시",
+            "label": "4원칙"
+          },
+          {
+            "value": "시민주권",
+            "label": "5원칙"
           }
         ],
-        "main_number": "이변",
-        "main_text": "순천 시장 선거 결과"
+        "main_number": "5대 원칙",
+        "main_text": "통합특별시 운영 방향"
       },
-      "image_prompt": "cute pastel infographic illustration of a local map with areas colored for different political parties, showing a 'win' and 'surprise' label, no text",
+      "image_prompt": "cute pastel infographic illustration, city silhouette with 5 distinct pillars or arrows pointing towards a unified future, representing urban planning and social principles, no text",
       "detail": {
-        "summary": "이번 지방선거에서 순천은 민주당이 이변을 일으켜 탈환했고, 광양에서는 다시 무소속 후보가 당선되며 '무소속 신화'를 이어갔습니다.",
+        "summary": "민형배 전남광주통합시장 당선인이 '전남광주대전환기획위원회'를 구성하고 통합특별시 운영의 5대 원칙을 제시했다. 성장통합, 균형통합, 기본사회, 녹색도시, 시민주권이 핵심 가치로, 통합 특별시의 방향성을 명확히 했다.",
         "points": [
-          "순천 시장 선거에서 민주당이 '탈환'하며 이변 연출",
-          "광양에서는 무소속 주자가 시장 자리를 차지하며 '무소속 신화' 재현",
-          "거대 양당 중심의 정치 구조 속에서 지역 유권자들의 선택 주목",
-          "지역구 국회의원의 정치적 입지에도 영향 미칠 전망"
+          "민형배 당선인, '전남광주대전환기획위원회' 구성",
+          "통합특별시 운영의 5대 원칙 제시",
+          "성장통합: 산업 경제 통합 통한 시너지 창출",
+          "균형통합: 지역 자원 균형 발전",
+          "기본사회: 시민 삶의 질 향상",
+          "녹색도시: 지속 가능한 환경 조성",
+          "시민주권: 시민 참여와 협치 강화"
         ],
-        "quote": "우리 시민들의 힘을 제가 다시 한번 확인하는 계기가 됐고...",
-        "context": "지방선거는 지역 주민들의 직접적인 삶에 영향을 미치는 만큼, 특정 정당의 강세 지역에서 나타난 이러한 이변은 유권자들의 다양한 정치적 의사를 반영하는 중요한 지표가 됩니다.",
-        "source_url": "https://mpmbc.co.kr/NewsArticle/1521716"
+        "quote": "위원회 구성 기준으로 성장통합, 균형통합, 기본사회, 녹색도시, 시민주권 등 통합특별시 운영의 5대 원칙을 제시했다.",
+        "context": "새롭게 출범하는 통합 특별시가 성공적으로 안착하고 지속적인 발전을 이루기 위해 명확한 비전과 원칙을 수립하는 것이 매우 중요하다.",
+        "source_url": "http://www.breaknews.com/1212093"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20local%20map%20with%20areas%20colored%20for%20different%20political%20parties%2C%20showing%20a%20%27win%27%20and%20%27surprise%27%20label%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=52413&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20city%20silhouette%20with%205%20distinct%20pillars%20or%20arrows%20pointing%20towards%20a%20unified%20future%2C%20representing%20urban%20planning%20and%20social%20principles%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25952&nologo=true"
     },
     {
-      "id": "society-63",
+      "id": "society-ai-elderly-care",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "pie_chart_regional_distribution",
-      "title": "강원도, 전국 '그린 리모델링 시설'의 40% 차지…친환경 생활환경 조성",
-      "subtitle": "경로당·복지시설 등 생활형 SOC 다수 포함, 탄소중립 기여",
+      "viz_type": "innovation",
+      "title": "대전 중구, AI로 독거 어르신 심리 돌봄 강화",
+      "subtitle": "'찾아가는 이웃애(愛) 돌봄+' 사업, AI 심리상담소 운영",
       "viz_data": {
         "stats": [
           {
-            "value": "40%",
-            "label": "강원도 비중"
+            "value": "AI 심리상담",
+            "label": "새로운 돌봄"
           },
           {
-            "value": "10곳 중 4곳",
-            "label": "강원도 위치"
-          },
-          {
-            "value": "생활형 SOC",
+            "value": "독거 어르신",
             "label": "주요 대상"
+          },
+          {
+            "value": "돌봄 공백",
+            "label": "해소"
           }
         ],
-        "main_number": "4/10",
-        "main_text": "그린 리모델링 시설 강원도 비율"
+        "main_number": "AI 돌봄",
+        "main_text": "독거 어르신 심리 지원"
       },
-      "image_prompt": "cute pastel infographic illustration of a pie chart showing a large segment for Gangwon-do, with green buildings and elderly people in a community center, no text",
+      "image_prompt": "cute pastel infographic illustration, senior citizen interacting with a friendly AI robot, showing care and support in a community setting, warm and helpful, no text",
       "detail": {
-        "summary": "강원도가 전국 그린 리모델링 시설 10곳 중 4곳을 차지하며, 경로당·복지시설 등 생활형 사회간접자본(SOC)의 친환경 개선을 통해 지역민의 쾌적하고 안전한 생활을 돕고 있습니다.",
+        "summary": "대전 중구가 독거 어르신들의 노년기 외로움을 해소하고 사회적 안전망을 구축하고자 '찾아가는 이웃애(愛) 돌봄+ AI 심리상담소'를 본격적으로 운영한다. AI 기술을 활용하여 돌봄 공백을 메우고 심리적 안정감을 제공할 계획이다.",
         "points": [
-          "전국 그린 리모델링 시설 10곳 중 4곳이 강원도에 위치",
-          "고령화 특성 반영, 경로당·복지시설 등 생활형 SOC 다수 포함",
-          "쾌적하고 안전한 환경 조성 및 탄소중립 실현 기여",
-          "지역경제 활성화에도 긍정적 영향"
+          "대전 중구, AI 심리상담으로 독거 어르신 돌봄 공백 해소",
+          "'찾아가는 이웃애(愛) 돌봄+' 사업 일환으로 AI 상담소 운영",
+          "어르신들의 노년기 외로움 해소 및 심리 지원 목표",
+          "사각지대 없는 촘촘한 사회적 안전망 구축"
         ],
-        "quote": "어르신과 주민들이 보다 쾌적하고 안전한 환경에서 생활할 수 있게 된다.",
-        "context": "건축물의 에너지 효율을 높이고 탄소 배출을 줄이는 그린 리모델링은 기후 변화 대응과 동시에 주민들의 생활 환경 개선을 통해 삶의 질을 향상시키는 중요한 사회 정책입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002652303?sid=102"
+        "quote": "지역 어르신들의 노년기 외로움을 해소하고 사각지대 없는 촘촘한 사회적 안전망을 구축하고자 AI 심리상담소를 본격적으로 운영한다.",
+        "context": "고령화 사회에서 독거 노인 문제는 중요한 사회적 과제로, AI 기술을 활용한 비대면 돌봄 서비스는 효과적인 대안으로 주목받고 있다.",
+        "source_url": "http://www.breaknews.com/1212109"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20pie%20chart%20showing%20a%20large%20segment%20for%20Gangwon-do%2C%20with%20green%20buildings%20and%20elderly%20people%20in%20a%20community%20center%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=85028&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20senior%20citizen%20interacting%20with%20a%20friendly%20AI%20robot%2C%20showing%20care%20and%20support%20in%20a%20community%20setting%2C%20warm%20and%20helpful%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3078&nologo=true"
     },
     {
-      "id": "society-78",
+      "id": "society-yeouido-redevelopment",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "ranking_bar_chart",
-      "title": "삼성, 6월 대기업집단 브랜드평판 압도적 1위…사회공헌 지표 크게 개선",
-      "subtitle": "SK, 한화 뒤이어, 미디어·소통·커뮤니티 지수에서도 높은 평가",
+      "viz_type": "facilities",
+      "title": "영등포 대교아파트 재건축, 서울시 신기록 달성",
+      "subtitle": "복합문화체육시설, 데이케어센터 등 풍부한 복지 인프라 조성",
       "viz_data": {
         "stats": [
           {
-            "value": "1위",
-            "label": "삼성 순위"
+            "value": "복합문화체육시설",
+            "label": "9,847㎡"
           },
           {
-            "value": "+29.60%",
-            "label": "사회공헌 상승"
+            "value": "데이케어센터",
+            "label": "1,718㎡"
           },
           {
-            "value": "3천만+",
-            "label": "지수 합계"
+            "value": "청소년 공간",
+            "label": "1,970㎡"
           }
         ],
-        "main_number": "압도적 1위",
-        "main_text": "삼성 브랜드평판"
+        "main_number": "신기록",
+        "main_text": "대규모 복지 인프라 조성"
       },
-      "image_prompt": "cute pastel infographic illustration of a trophy or medal next to a corporate logo, with bars representing brand reputation metrics, no text",
+      "image_prompt": "cute pastel infographic illustration, modern apartment buildings with community facilities like swimming pool and care center, showing urban renewal and social amenities, no text",
       "detail": {
-        "summary": "삼성 그룹이 6월 대기업집단 브랜드평판에서 압도적인 1위를 차지했으며, 특히 사회공헌 지표가 29.60% 상승하는 등 긍정적 평가를 받았습니다.",
+        "summary": "영등포구 여의도 대교아파트 재건축이 서울시 신기록을 달성하며 대규모 복합문화체육시설과 고령사회를 대비한 데이케어센터, 청소년 전용 공간 등 풍부한 복지 인프라를 조성한다. 올해 하반기 이주를 시작할 예정이다.",
         "points": [
-          "삼성, 6월 대기업집단 브랜드평판 1위 차지",
-          "SK, 한화 그룹이 뒤를 이어 2, 3위 기록",
-          "미디어지수, 소통지수, 커뮤니티지수 등 전반적인 지표 우수",
-          "특히 사회공헌 지표 29.60% 상승하며 크게 개선"
+          "영등포구 여의도 대교아파트 재건축, 서울시 신기록 달성",
+          "수영장, 체육관 갖춘 복합문화체육시설 (9,847㎡) 건립",
+          "고령사회 대비 데이케어센터 (1,718㎡) 조성",
+          "청소년 전용 공간 (1,970㎡) 확보로 복지 인프라 강화"
         ],
-        "quote": "삼성 브랜드의 세부 지표를 보면…브랜드공헌 29.60% 상승을 기록하며 자발적 확산과 사회공헌 지표가 크게 개선됐다.",
-        "context": "기업의 브랜드 평판은 소비자와 사회 전반의 인식을 반영하며, 특히 사회공헌 활동은 기업의 지속 가능성과 윤리 경영에 대한 대중의 기대를 보여주는 중요한 지표입니다.",
-        "source_url": "http://www.thebigdata.co.kr/view.php?ud=202606050754279623d0a8833aad_23"
+        "quote": "고령사회를 대비한 데이케어센터(1,718㎡)와 청소년 전용 공간(1,970㎡) 등 풍부한 복지 인프라도 함께 조성된다.",
+        "context": "재건축을 통해 주거 환경 개선뿐만 아니라 지역 사회 전체의 삶의 질을 높이는 공공 인프라를 확충하는 것이 도시 재생의 중요한 목표가 되고 있다.",
+        "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1378823"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20trophy%20or%20medal%20next%20to%20a%20corporate%20logo%2C%20with%20bars%20representing%20brand%20reputation%20metrics%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=29984&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20modern%20apartment%20buildings%20with%20community%20facilities%20like%20swimming%20pool%20and%20care%20center%2C%20showing%20urban%20renewal%20and%20social%20amenities%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44492&nologo=true"
     },
     {
-      "id": "life-122",
+      "id": "life-mcdonalds-mcbreakfast",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "event_timeline",
-      "title": "제36회 한산모시문화제, 6월 12~14일 서천 개최…유네스코 유산의 가치 조명",
-      "subtitle": "전통섬유 '한산모시짜기'의 보존과 확산에 기여",
+      "viz_type": "product_launch",
+      "title": "맥도날드, 맥모닝 '그릴드 치킨' 신메뉴 2종 출시",
+      "subtitle": "건강한 라이프스타일 맞춤, 아침 메뉴 라인업 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "3일",
+            "value": "그릴드 치킨",
+            "label": "메인 재료"
+          },
+          {
+            "value": "2종",
+            "label": "신메뉴"
+          },
+          {
+            "value": "건강한",
+            "label": "라이프스타일"
+          }
+        ],
+        "main_number": "2종",
+        "main_text": "맥모닝 신메뉴 출시"
+      },
+      "image_prompt": "cute pastel infographic illustration, delicious grilled chicken breakfast sandwich and coffee, with a rising sun in the background, clean and appetizing, no text",
+      "detail": {
+        "summary": "맥도날드가 맥모닝 신메뉴 2종을 출시하며 '그릴드 치킨' 라인업을 강화했다. 건강한 라이프스타일을 추구하는 고객들의 니즈를 반영하여, 새로운 아침 메뉴 선택지를 제공하고 시장 경쟁력을 높일 계획이다.",
+        "points": [
+          "맥도날드 맥모닝 '그릴드 치킨' 신메뉴 2종 출시",
+          "건강한 라이프스타일을 고려한 메뉴 구성",
+          "김재원 배우를 모델로 한 캠페인 전개",
+          "고객의 세분화된 니즈에 맞춘 아침 메뉴 확대"
+        ],
+        "quote": "앞으로도 고객들의 세분화된 니즈와 라이프스타일에 맞춘 아침 메뉴를 꾸준히 확대해 나가겠다.",
+        "context": "건강과 간편함을 동시에 추구하는 현대인의 식습관 변화에 맞춰 외식업계는 더욱 다양하고 맞춤화된 아침 식사 메뉴를 선보이고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/015/0005295270?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20delicious%20grilled%20chicken%20breakfast%20sandwich%20and%20coffee%2C%20with%20a%20rising%20sun%20in%20the%20background%2C%20clean%20and%20appetizing%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18042&nologo=true"
+    },
+    {
+      "id": "life-apartment-brand-ranking",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "ranking",
+      "title": "K-브랜드지수 아파트 부문: 아이파크 4위, 롯데캐슬 5위",
+      "subtitle": "빅데이터 분석 결과, 아파트 브랜드 순위 변동",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "아이파크",
+            "label": "4위 (탈환)"
+          },
+          {
+            "value": "롯데캐슬",
+            "label": "5위 (하락)"
+          },
+          {
+            "value": "힐스테이트",
+            "label": "1위 (수성)"
+          }
+        ],
+        "main_number": "아이파크 4위",
+        "main_text": "아파트 브랜드 순위 변동"
+      },
+      "image_prompt": "cute pastel infographic illustration, apartment buildings with brand logos and ranking arrows, showing competitive market trends, clean and comparative, no text",
+      "detail": {
+        "summary": "K-브랜드지수 아파트 부문에서 아이파크가 4위로 탈환하고 롯데캐슬이 5위로 하락하는 등 순위 변동이 있었다. 도심 속 세련된 라이프스타일을 강조하는 아이파크와 품격 있는 외관 디자인의 롯데캐슬이 온라인에서 꾸준히 언급되고 있다.",
+        "points": [
+          "아이파크, K-브랜드지수 아파트 부문 4위 탈환",
+          "롯데캐슬, 5위로 한 단계 하락",
+          "힐스테이트, 아파트 브랜드 부문 1위 수성",
+          "브랜드별 차별화된 이미지와 주거 서비스 강조"
+        ],
+        "quote": "도심 속 세련된 라이프스타일을 강조하는 아이파크의 브랜드 이미지와, 품격 있는 외관 디자인 및 호텔식 주거 서비스를 표방하는 롯데캐슬의 차별화된 노선이 온라인상에서 꾸준한 언급량을 만들어내고 있다.",
+        "context": "소비자들의 주거 선택 기준이 다양해지면서, 아파트 브랜드의 가치와 이미지가 구매 결정에 중요한 영향을 미치고 있다. 빅데이터 분석은 이러한 트렌드를 파악하는 데 필수적이다.",
+        "source_url": "https://hbnpress.com/news/view/1065570978657724"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20apartment%20buildings%20with%20brand%20logos%20and%20ranking%20arrows%2C%20showing%20competitive%20market%20trends%2C%20clean%20and%20comparative%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39694&nologo=true"
+    },
+    {
+      "id": "life-hanriver-festival",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "event",
+      "title": "신한라이프, '쉬엄쉬엄 한강 3종 축제' 공식 후원",
+      "subtitle": "뚝섬 한강공원에서 3일간 진행, 체력 테스트 및 테이핑 체험 부스 운영",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "6월 5일~7일",
             "label": "기간"
           },
           {
-            "value": "36회",
-            "label": "개최 횟수"
+            "value": "뚝섬 한강공원",
+            "label": "장소"
           },
           {
-            "value": "유네스코",
-            "label": "문화유산"
+            "value": "3종",
+            "label": "축제"
           }
         ],
-        "main_number": "6/12~14",
-        "main_text": "문화제 개최일"
+        "main_number": "3일간",
+        "main_text": "한강 축제 개최"
       },
-      "image_prompt": "cute pastel infographic illustration of traditional Korean hanbok made of ramie fabric, with a calendar icon and people enjoying a festival, no text",
+      "image_prompt": "cute pastel infographic illustration, people enjoying activities like running, cycling, and swimming by the Han River, with event details, vibrant and active, no text",
       "detail": {
-        "summary": "제36회 한산모시문화제가 6월 12일부터 14일까지 3일간 충남 서천 한산모시관 일원에서 개최되어 유네스코 인류무형문화유산 '한산모시짜기'의 가치를 조명합니다.",
+        "summary": "신한라이프가 뚝섬한강공원에서 열리는 '제3회 쉬엄쉬엄 한강 3종 축제'를 공식 후원한다. 6월 5일부터 7일까지 사흘간 진행되는 이번 축제에서 신한라이프는 체력 테스트 게임과 스포츠 테이핑 체험 부스를 운영하며 시민들의 건강한 라이프스타일을 지원한다.",
         "points": [
-          "제36회 한산모시문화제, 6월 12일부터 14일까지 개최",
-          "충남 서천 한산모시관 일원에서 진행",
-          "유네스코 인류무형문화유산 '한산모시짜기'를 주제로 한 축제",
-          "친환경 전통섬유의 가치와 아름다움 홍보"
+          "신한라이프, '제3회 쉬엄쉬엄 한강 3종 축제' 공식 후원",
+          "6월 5일부터 7일까지 뚝섬한강공원에서 진행",
+          "체력 테스트 게임 부스 운영",
+          "스포츠 테이핑 체험 부스 운영",
+          "시민들의 건강한 라이프스타일 지원"
         ],
-        "quote": "이번 행사는 대한민국을 대표하는 친환경 전통섬유 축제로, 유네스코 인류무형문화유산에 등재된 '한산모시짜기'의... 가치를 계승하고 있습니다.",
-        "context": "한산모시문화제는 지역 전통 문화를 보존하고 현대적으로 재해석하여 대중에게 알리는 중요한 역할을 하며, 지속 가능한 전통 산업의 가능성을 보여줍니다.",
-        "source_url": "https://www.koscaj.com/news/articleView.html?idxno=324428"
+        "quote": "신한라이프는 행사 기간 체력 테스트 게임과 스포츠 테이핑 체험 부스를 운영할 계획이다.",
+        "context": "최근 건강과 웰빙에 대한 관심이 높아지면서, 생활 속에서 즐길 수 있는 다양한 스포츠 및 야외 활동에 대한 수요가 증가하고 있으며 기업들도 이에 맞춰 적극적인 지원에 나서고 있다.",
+        "source_url": "https://www.seoulfn.com/news/articleView.html?idxno=630415"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20traditional%20Korean%20hanbok%20made%20of%20ramie%20fabric%2C%20with%20a%20calendar%20icon%20and%20people%20enjoying%20a%20festival%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58014&nologo=true"
-    },
-    {
-      "id": "life-126",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "trend_change_chart",
-      "title": "서울국제관광전, '머무는 여행'으로의 트렌드 변화 제시",
-      "subtitle": "개인의 취향과 라이프스타일을 반영한 맞춤형 여행 코스 주목",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "41회",
-            "label": "개최 횟수"
-          },
-          {
-            "value": "개인 맞춤",
-            "label": "주요 키워드"
-          },
-          {
-            "value": "1:1",
-            "label": "코스 빌딩"
-          }
-        ],
-        "main_number": "변화",
-        "main_text": "'패키지'에서 '맞춤형'으로"
-      },
-      "image_prompt": "cute pastel infographic illustration of a travel suitcase transforming into a personalized journey map, with people choosing different paths, no text",
-      "detail": {
-        "summary": "제41회 서울국제관광전이 '머무는 여행'으로의 관광 트렌드 변화를 조명하며, 관람객 개개인의 라이프스타일과 취향을 반영한 1:1 맞춤형 여행 코스를 선보였습니다.",
-        "points": [
-          "제41회 서울국제관광전, '머무는 여행' 트렌드 강조",
-          "천편일률적인 패키지 여행에서 벗어나 맞춤형 여행 주목",
-          "1:1 맞춤형 여행 코스 빌딩 세션 운영",
-          "개인의 라이프스타일과 취향을 반영한 여행 상품 확대"
-        ],
-        "quote": "관람객 개개인의 라이프스타일과 취향을 반영한 1:1 맞춤형 여행 코스 빌딩 세션을 운영 중이다.",
-        "context": "획일적인 관광에서 벗어나 개개인의 경험과 만족을 중시하는 소비 패턴 변화는 관광 산업에 새로운 기회를 제공하며, 더욱 다채로운 여행 상품 개발을 촉진하고 있습니다.",
-        "source_url": "http://www.ttlnews.com/news/articleView.html?idxno=3113923"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20travel%20suitcase%20transforming%20into%20a%20personalized%20journey%20map%2C%20with%20people%20choosing%20different%20paths%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=85686&nologo=true"
-    },
-    {
-      "id": "life-127",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "creator_economy_growth_chart",
-      "title": "네이버, 창작자 생태계 직접 키운다…월 3천 명 선발, 콘텐츠 확산 지원",
-      "subtitle": "여행, 라이프, 테크 등 10개 부문 25개 세부 주제에서 우수 창작자 발굴",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3000명",
-            "label": "월 선발 인원"
-          },
-          {
-            "value": "10개",
-            "label": "주요 부문"
-          },
-          {
-            "value": "25개",
-            "label": "세부 주제"
-          }
-        ],
-        "main_number": "3000명+",
-        "main_text": "월간 창작자 지원 규모"
-      },
-      "image_prompt": "cute pastel infographic illustration of creators making diverse content (travel, tech, lifestyle) with a platform logo and growing community, no text",
-      "detail": {
-        "summary": "네이버가 창작자 생태계를 직접 육성하기 위해 여행, 라이프, 테크 등 10개 부문 25개 세부 주제에서 매달 약 3천 명의 우수 창작자를 선발하고 콘텐츠 확산을 지원합니다.",
-        "points": [
-          "네이버, 창작자 생태계 활성화 프로그램 운영",
-          "매달 약 3천 명의 우수 창작자 선발",
-          "10개 부문, 25개 세부 주제에서 콘텐츠 평가",
-          "선정 창작자에게 공식 앰블럼 부여, 통합검색 노출 등 지원"
-        ],
-        "quote": "여행, 라이프, 테크 등 10개 부문과 25개 세부 주제에서 AI 브리핑 인용 수를 기준으로 매달 약 3000명을 선발해 공개한다.",
-        "context": "플랫폼이 창작자를 직접 지원하며 양질의 콘텐츠 생산을 유도하는 것은 창작자 경제 활성화는 물론, 플랫폼의 콘텐츠 경쟁력을 강화하는 효과를 가져옵니다.",
-        "source_url": "http://www.economytalk.kr/news/articleView.html?idxno=421738"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20creators%20making%20diverse%20content%20%28travel%2C%20tech%2C%20lifestyle%29%20with%20a%20platform%20logo%20and%20growing%20community%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19980&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20people%20enjoying%20activities%20like%20running%2C%20cycling%2C%20and%20swimming%20by%20the%20Han%20River%2C%20with%20event%20details%2C%20vibrant%20and%20active%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58504&nologo=true"
     }
   ],
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T08:13:15.621610+09:00"
+  "generated_at": "2026-06-05T09:24:30.127066+09:00"
 }
