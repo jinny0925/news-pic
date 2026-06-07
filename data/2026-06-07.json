@@ -1,662 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-israel-lebanon",
-      "is_headline": false,
+      "id": "world-iran-conflict-100days",
+      "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "트럼프 중재에도…이스라엘-헤즈볼라 긴장 고조, 레바논 맹폭",
-      "subtitle": "레바논 내 헤즈볼라 반발 지속, 중동 정세 불안정 심화",
+      "title": "미·이란 충돌 100일, 에너지 동맥 '호르무즈 해협' 봉쇄",
+      "subtitle": "불안한 휴전 속 글로벌 에너지 공급망 비상",
       "viz_data": {
         "stats": [
           {
-            "value": "중재 실패",
-            "label": "외교 노력"
+            "value": "100일",
+            "label": "충돌 기간"
           },
           {
-            "value": "맹폭",
-            "label": "이스라엘 공습"
+            "value": "20%",
+            "label": "세계 에너지 수송"
           },
           {
-            "value": "반발",
-            "label": "헤즈볼라 입장"
+            "value": "봉쇄",
+            "label": "호르무즈 해협"
           }
         ],
-        "main_number": "긴장 고조",
-        "main_text": "미국 중재 노력에도 불구하고 이스라엘과 헤즈볼라 간 무력 충돌 지속"
+        "main_number": "100일",
+        "main_text": "호르무즈 해협, 민간 상선 통항 '제로'"
       },
-      "image_prompt": "cute pastel infographic illustration of the Middle East map showing Israel and Lebanon, with symbols of conflict and diplomatic efforts, no text",
+      "image_prompt": "infographic illustration of oil tankers stuck at a strait, with a timer showing 100 days, global energy map, pastel colors, no text",
       "detail": {
-        "summary": "트럼프 행정부의 중재 노력에도 불구하고 이스라엘이 헤즈볼라의 반발에 대응하여 레바논을 맹폭하며 중동 지역의 군사적 긴장이 다시 고조되고 있다.",
+        "summary": "미국과 이란 간 충돌이 100일째를 맞으며, 세계 에너지 수송의 20%를 담당하는 호르무즈 해협이 사실상 봉쇄 상태에 놓여 글로벌 에너지 시장에 비상이 걸렸다.",
         "points": [
-          "트럼프 행정부의 중동 평화 중재 시도, 효과 미미",
-          "이스라엘, 헤즈볼라의 로켓 공격 및 침투 시도에 대한 보복 공습",
-          "헤즈볼라, 이란의 지원을 받는 레바논 내 강력한 정치·군사 세력",
-          "레바논은 공식적인 협상 당사자가 아니어서 중재의 복잡성 증가"
+          "미·이란 충돌 100일째, 교착 상태 지속",
+          "호르무즈 해협, 민간 상선 통항 봉쇄",
+          "세계 에너지 수송의 20% 차질",
+          "글로벌 에너지 가격 및 공급망 불안정"
         ],
-        "quote": "이란의 지원을 등에 업은 헤즈볼라는 레바논에서 정치적·군사적으로 영향력이 큰 '국가 내 국가'로 여겨진다.",
-        "context": "헤즈볼라와 이스라엘 간의 갈등은 중동 평화의 오랜 걸림돌이며, 미국이 중재를 시도하고 있음에도 불구하고 충돌이 재연되어 지역의 불안정성이 심화되고 있다. 이는 국제 유가 등 세계 경제에도 영향을 미칠 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016122837?sid=104"
+        "quote": "\"전 세계 에너지 동맥이 막히면서 글로벌 경제에 심각한 파급 효과가 우려된다.\"",
+        "context": "중동 지역의 지정학적 불안정은 세계 경제에 직접적인 영향을 미치며, 특히 에너지 공급망의 핵심인 호르무즈 해협의 봉쇄는 유가 상승과 물류 비용 증가로 이어져 전 세계 소비자들에게 부담을 줄 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006299639?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20the%20Middle%20East%20map%20showing%20Israel%20and%20Lebanon%2C%20with%20symbols%20of%20conflict%20and%20diplomatic%20efforts%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78213&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20oil%20tankers%20stuck%20at%20a%20strait%2C%20with%20a%20timer%20showing%20100%20days%2C%20global%20energy%20map%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99798&nologo=true"
     },
     {
-      "id": "world-hormuz-strait",
+      "id": "world-us-korea-shipbuilding",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "status_update",
-      "title": "미-이란 협상 교착, 호르무즈 해협 '상선 통항 거의 제로'",
-      "subtitle": "지정학적 긴장 고조 속, 세계 원유 공급 불안 심화 우려",
+      "viz_type": "comparison",
+      "title": "미 해군력 재건, 한국 조선소에 기회 오나?",
+      "subtitle": "미국 군함 건조 능력 한계 직면, 한국에 협력 요청",
       "viz_data": {
         "stats": [
           {
-            "value": "교착",
-            "label": "협상 상태"
+            "value": "수십 년",
+            "label": "미국 건조 능력 하락"
           },
           {
-            "value": "제로",
-            "label": "상선 통항률"
+            "value": "세계 1위",
+            "label": "한국 조선 산업"
           },
           {
-            "value": "우려",
-            "label": "국제 유가"
+            "value": "최대 10척",
+            "label": "미 해군 목표"
           }
         ],
-        "main_number": "제로 통항",
-        "main_text": "호르무즈 해협 상선 통항 급감, 원유 공급 불안정성 증폭"
+        "main_number": "↑",
+        "main_text": "미국 국방수권법 개정 논의, 한미 협력의 새로운 지평"
       },
-      "image_prompt": "cute pastel infographic illustration of a key shipping lane (Hormuz Strait) with very few ships, oil barrels, and a map of the Middle East, no text",
+      "image_prompt": "infographic illustration of a large ship being built in a shipyard, with flags of USA and South Korea, showing collaboration and advanced technology, pastel colors, no text",
       "detail": {
-        "summary": "미국과 이란 간 핵 협상이 교착 상태에 빠지면서 호르무즈 해협의 상선 통항이 거의 중단되어 세계 원유 공급에 대한 우려가 커지고 있다.",
+        "summary": "미국이 군함 건조 역량 부족으로 한국 조선소에 협력을 요청하면서, 한국 조선업계에 지위 격상 및 수익 확대의 기회가 열리고 있다. 단, 미국의 정치적 환경 변화가 리스크 요인으로 작용한다.",
         "points": [
-          "미-이란 핵 협상, 장기간 교착 상태 지속",
-          "호르무즈 해협 상선 통항 사실상 중단, 국제 유가 변동성 확대",
-          "이란의 핵 활동 재개 및 국제 제재 강화 가능성",
-          "중동 지역의 지정학적 긴장 고조, 세계 경제에 미칠 파장 주시"
+          "미국 해군력 재건의 필요성 증가",
+          "미국 내 조선업 역량 한계 봉착",
+          "한국 조선소에 군함 건조 협력 요청",
+          "한국 조선업계의 지위 격상 및 수익 확대 기회"
         ],
-        "quote": "도널드 트럼프 미국 대통령 역시 현재 사람들이 알지 못하는 엄청난 양의 석유가 세계에 지속적으로 공급되고 있다고 밝혔습니다.",
-        "context": "호르무즈 해협은 세계 원유 수송의 주요 길목으로, 이곳의 불안정은 국제 유가 상승과 글로벌 경제에 심각한 영향을 미칠 수 있다. 미-이란 관계는 여전히 국제 정세의 주요 변수다.",
-        "source_url": "https://n.news.naver.com/mnews/article/052/0002362770?sid=104"
+        "quote": "\"한국 조선업은 단순 하청을 넘어 미국의 함대 현대화에 중요한 파트너가 될 수 있다.\"",
+        "context": "미국은 중국과의 군사적 경쟁 심화에 대응하기 위해 해군력 증강을 꾀하고 있으나, 자국 내 건조 역량이 부족한 상황이다. 이는 세계 최고 수준의 조선 기술을 보유한 한국에 새로운 협력 기회를 제공하지만, 미국의 복잡한 정치적 승인 과정과 잠수함 기술 이전 문제 등이 과제로 남아있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004133444?sid=100"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20key%20shipping%20lane%20%28Hormuz%20Strait%29%20with%20very%20few%20ships%2C%20oil%20barrels%2C%20and%20a%20map%20of%20the%20Middle%20East%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81455&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20a%20large%20ship%20being%20built%20in%20a%20shipyard%2C%20with%20flags%20of%20USA%20and%20South%20Korea%2C%20showing%20collaboration%20and%20advanced%20technology%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87779&nologo=true"
     },
     {
-      "id": "world-baltic-energy",
+      "id": "world-china-tungsten-supply",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "progress_bar",
-      "title": "발트 3국, 러시아 전력망 이탈…배터리로 에너지 안보 강화",
-      "subtitle": "에스토니아, 라트비아, 리투아니아, 러시아 전력망 탈동조화 가속화",
+      "viz_type": "pie_chart",
+      "title": "중국 텅스텐 사재기에 글로벌 공급망 '비상'",
+      "subtitle": "희토류 넘어 전략 광물 확보 경쟁 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "3국",
-            "label": "참여국"
+            "value": "80%+",
+            "label": "중국 텅스텐 생산"
           },
           {
-            "value": "1500MWh+",
-            "label": "배터리 용량"
+            "value": "핵심",
+            "label": "첨단 산업"
           },
           {
-            "value": "200+",
-            "label": "프로젝트 수"
+            "value": "확대",
+            "label": "공급망 불안"
           }
         ],
-        "main_number": "탈동조화",
-        "main_text": "러시아 의존 탈피, 유럽 전력망으로 통합 목표"
+        "main_number": "비상",
+        "main_text": "중국, 텅스텐 공급망 장악력 강화"
       },
-      "image_prompt": "cute pastel infographic illustration of three small countries (Baltic states) disconnecting from a large power grid symbol (Russia) and connecting to a new grid powered by large batteries, no text",
+      "image_prompt": "infographic illustration of a globe with raw materials being scooped up by a hand from one country, showing supply chain disruption and resource competition, pastel colors, no text",
       "detail": {
-        "summary": "에스토니아, 라트비아, 리투아니아 등 발트 3국이 러시아 전력망에서 완전히 분리되어 자체 에너지 안보를 구축하기 위해 배터리 저장 시스템을 대폭 확충하고 있다.",
+        "summary": "중국의 텅스텐 사재기가 심화되면서 미국 등 주요국들의 공급망에 비상이 걸렸다. 텅스텐은 첨단 산업에 필수적인 희소 금속으로, 중국의 시장 장악력은 글로벌 경제 안보에 큰 위협이 되고 있다.",
         "points": [
-          "발트 3국, 2025년까지 러시아 전력망 탈동조화 목표",
-          "유럽 전력망인 Continental Europe Synchronous Area(CESA)와 통합 추진",
-          "롤스로이스 등 기업과 협력하여 대규모 배터리 저장 시스템 구축",
-          "1500MWh 이상의 배터리 저장 용량 확보 계획, 에너지 안보 강화 기대"
+          "중국, 텅스텐 시장 점유율 80% 이상",
+          "미국, 텅스텐 공급망 취약성에 경고",
+          "한국 상동 텅스텐 광산, 미국 공급망 재편의 핵심으로 부상",
+          "희토류에 이어 전략 광물 자원 확보 경쟁 심화"
         ],
-        "quote": "배터리 저장 솔루션은 발트해 연안 국가들이 탄력적인 전력망으로 이전하고 러시아 전력망으로부터 완전히 분리될 수 있도록 돕는 데 필수적입니다.",
-        "context": "에너지 안보는 국가 안보의 핵심 요소로, 발트 3국은 러시아와의 역사적 관계 및 현재 지정학적 상황을 고려하여 에너지 독립성 확보에 박차를 가하고 있다. 이는 유럽 전체의 에너지 지형에도 영향을 미칠 것이다.",
-        "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60127"
+        "quote": "\"텅스텐은 현대 기술의 핵심이며, 한 국가에 대한 과도한 의존은 국가 안보에 직결되는 문제다.\"",
+        "context": "텅스텐은 스마트폰, 전기차, 방위산업 등 다양한 첨단 분야에 필수적으로 사용되는 희소 금속이다. 중국이 텅스텐 시장을 장악하고 사재기를 통해 공급망을 흔들면서, 미국을 비롯한 여러 국가들이 자국 내 생산을 확대하거나 대체 공급처를 확보하려는 노력을 강화하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/123/0002384232?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20three%20small%20countries%20%28Baltic%20states%29%20disconnecting%20from%20a%20large%20power%20grid%20symbol%20%28Russia%29%20and%20connecting%20to%20a%20new%20grid%20powered%20by%20large%20batteries%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46137&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20a%20globe%20with%20raw%20materials%20being%20scooped%20up%20by%20a%20hand%20from%20one%20country%2C%20showing%20supply%20chain%20disruption%20and%20resource%20competition%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45639&nologo=true"
     },
     {
-      "id": "economy-ca-birthrate",
+      "id": "economy-deposit-insurance",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "trend_line",
-      "title": "캘리포니아 출산율 16년 연속 감소…경제 성장 둔화 경고등",
-      "subtitle": "인구 구조 변화, 청년 노동력 감소로 산업 혁신 및 노인 복지 부담 가중 우려",
+      "viz_type": "bar_chart",
+      "title": "예금보험료 차등 부과 효과, 생보사 위험투자 줄었다",
+      "subtitle": "경제성장기에도 고위험 투자 축소, 건전성 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "16년",
-            "label": "연속 감소"
+            "value": "도입 후",
+            "label": "차등 부과"
           },
           {
-            "value": "↓",
-            "label": "혁신 성장"
+            "value": "감소",
+            "label": "위험 투자"
           },
           {
-            "value": "↑",
-            "label": "노인 복지 비용"
+            "value": "강화",
+            "label": "건전성"
           }
         ],
-        "main_number": "인구 감소 영향",
-        "main_text": "청년 노동력 감소, 경제 성장 둔화 및 노인 복지 부담 증가 예측"
+        "main_number": "위험 감소",
+        "main_text": "생명보험사들의 경기 역행적 투자 행태 확인"
       },
-      "image_prompt": "cute pastel infographic illustration showing a downward trend line for birth rates, with smaller young generation symbols and larger older generation symbols, economic graphs in the background, no text",
+      "image_prompt": "cute pastel infographic illustration of two bar charts comparing 'before' and 'after' financial risk levels for insurance companies, showing a decrease in risk, pastel colors, no text",
       "detail": {
-        "summary": "캘리포니아의 출산율이 16년 연속 감소하면서 청년 노동력 감소에 따른 산업 혁신 저하 및 노인 복지 비용 증가 등 경제 전반에 미칠 부정적 영향에 대한 우려가 제기되고 있다.",
+        "summary": "예금보험료 차등 부과 제도가 도입된 후, 생명보험사들이 경제성장기에도 고위험 투자를 줄이는 모습을 보이며 금융 건전성이 강화되었다는 연구 결과가 나왔다.",
         "points": [
-          "캘리포니아 출산율 16년 연속 감소 추세",
-          "청년 노동력 감소로 인한 혁신 및 산업 성장 저하 우려",
-          "노인 복지 비용 증가로 청년층 부담 가중 전망",
-          "인구 구조 변화가 지역 경제에 미치는 장기적 영향 분석 필요"
+          "예금보험료 차등 부과 제도 도입 효과 분석",
+          "생보사의 고위험 투자 감소 경향 확인",
+          "경제성장기에도 경기 역행적 행태 관찰",
+          "금융 시장의 건전성 제고에 기여"
         ],
-        "quote": "청년 노동력이 줄면서 혁신과 산업 성장이 저하돼 경제 성장 둔화가 나타날 수 있다고 밝혔습니다.",
-        "context": "인구 구조 변화는 장기적인 경제 성장 잠재력과 사회 복지 시스템에 직접적인 영향을 미친다. 캘리포니아의 사례는 저출산 고령화가 진행되는 다른 국가나 지역에도 시사하는 바가 크다.",
-        "source_url": "https://www.radiokorea.com/news/article.php?uid=496968"
+        "quote": "\"차등 부과는 생보사들의 위험 관리 인식을 높여 금융 시스템 안정에 긍정적 영향을 미쳤다.\"",
+        "context": "예금보험료 차등 부과 제도는 금융기관의 위험 수준에 따라 예금보험료를 다르게 부과함으로써, 위험한 경영을 억제하고 금융 시스템의 안정성을 높이는 것을 목표로 한다. 이번 연구는 이 제도가 의도한 효과를 거두고 있음을 보여준다.",
+        "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027781"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20downward%20trend%20line%20for%20birth%20rates%2C%20with%20smaller%20young%20generation%20symbols%20and%20larger%20older%20generation%20symbols%2C%20economic%20graphs%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56870&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20bar%20charts%20comparing%20%27before%27%20and%20%27after%27%20financial%20risk%20levels%20for%20insurance%20companies%2C%20showing%20a%20decrease%20in%20risk%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17507&nologo=true"
     },
     {
-      "id": "economy-bitcoin-low",
+      "id": "economy-korea-bio-ranking",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "ranking",
+      "title": "ING리서치: 한국 바이오제약, 아시아 2위 혁신국",
+      "subtitle": "세계 13위 시장 규모, 임상시험 둔화·규제 장벽은 과제",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "아시아 2위",
+            "label": "혁신 순위"
+          },
+          {
+            "value": "세계 13위",
+            "label": "시장 규모"
+          },
+          {
+            "value": "104억 달러",
+            "label": "바이오 수출"
+          }
+        ],
+        "main_number": "아시아 2위",
+        "main_text": "2030 바이오강국 목표 달성을 위한 과제"
+      },
+      "image_prompt": "cute pastel infographic illustration of a medal showing 'Asia Rank 2' for biotechnology, with beakers and research elements, pastel colors, no text",
+      "detail": {
+        "summary": "ING리서치 보고서에 따르면 한국 바이오제약 산업은 아시아 2위 혁신국이자 세계 13위 시장 규모를 자랑하지만, 임상시험 둔화와 규제 장벽 해결이 2030년 바이오강국 목표 달성을 위한 핵심 과제로 지적되었다.",
+        "points": [
+          "한국 바이오제약, 아시아 2위 혁신국 평가",
+          "글로벌 시장 규모 13위, 수출액 104억 달러",
+          "셀트리온, 삼성바이오 등 세계적 기업 보유",
+          "임상시험 감소 및 규제 장벽 해결 필요"
+        ],
+        "quote": "\"한국은 바이오제약 분야에서 잠재력이 크지만, 혁신을 저해하는 요소를 제거해야 한다.\"",
+        "context": "한국 바이오제약 산업은 최근 눈부신 성장을 이루었으며, 특히 바이오시밀러와 같은 분야에서 세계적인 경쟁력을 확보했다. 그러나 신약 개발의 핵심인 임상시험 환경 개선과 유연한 규제 마련 없이는 지속적인 성장에 한계가 있다는 분석이다.",
+        "source_url": "https://medicalworldnews.co.kr/news/view.php?idx=1510975156"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20medal%20showing%20%27Asia%20Rank%202%27%20for%20biotechnology%2C%20with%20beakers%20and%20research%20elements%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94696&nologo=true"
+    },
+    {
+      "id": "economy-real-estate-regulation",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "비트코인, 20개월 만에 최저치 기록…추가 하락 경고등",
-      "subtitle": "거시경제적 촉매 부재 속, 청산되지 않은 레버리지 롱 포지션 우려",
+      "title": "부동산 시장, 추가 규제 가능성 촉각",
+      "subtitle": "집값 상승세 지속 시 세제·대출 규제 강화 검토",
       "viz_data": {
         "stats": [
           {
-            "value": "20개월",
-            "label": "최저치"
+            "value": "상승세",
+            "label": "집값"
           },
           {
-            "value": "하락",
-            "label": "추세"
+            "value": "강화",
+            "label": "대출 규제"
           },
           {
-            "value": "경고",
-            "label": "시장 전망"
+            "value": "확대",
+            "label": "규제지역"
           }
         ],
-        "main_number": "-10% (예시)",
-        "main_text": "비트코인 급락, 시장 불안정성 심화"
+        "main_number": "규제 강화",
+        "main_text": "투기과열지구 확대, 주택담보대출 한도 축소 가능성"
       },
-      "image_prompt": "cute pastel infographic illustration of a downward trending cryptocurrency chart with a bitcoin symbol, showing a 'warning' sign, no text",
+      "image_prompt": "cute pastel infographic illustration of a house with upward trend arrow, showing different policy levers like taxes and loans, pastel colors, no text",
       "detail": {
-        "summary": "비트코인 가격이 20개월 만에 최저치를 기록하며 추가 하락에 대한 경고음이 울리고 있다. 이는 거시경제적 촉매 부재와 청산되지 않은 레버리지 롱 포지션 때문으로 분석된다.",
+        "summary": "정부가 집값 상승세가 지속될 경우 규제지역 확대, 주택담보대출 한도 축소 등 추가적인 세제·대출 규제 강화를 검토할 가능성이 있어 부동산 시장의 이목이 쏠리고 있다.",
         "points": [
-          "비트코인 가격, 최근 20개월 내 최저 수준 기록",
-          "거시경제적 반등 동력 부재로 시장 불안정성 지속",
-          "레버리지 롱 포지션 청산 가능성, 추가 가격 하락 압력",
-          "투자자들, 암호화폐 시장 변동성 주시 및 리스크 관리 필요"
+          "집값 상승세 지속에 따른 정부의 추가 규제 움직임",
+          "규제지역(투기과열지구/조정대상지역) 확대 가능성",
+          "주택담보대출 한도 축소 및 다주택자 대출 제한 강화",
+          "시장 전문가들, '정부 개입' 가능성 전망"
         ],
-        "quote": "반등을 이끌 거시경제적 촉매제가 없다. 아직 청산되지 않은 레버리지 롱 포지션이 남아 있다.",
-        "context": "암호화폐 시장은 거시경제 상황에 민감하게 반응하며, 특히 비트코인은 전체 시장의 흐름을 주도한다. 현재의 하락세는 투자 심리 위축과 함께 더 큰 조정으로 이어질 수 있다는 우려를 낳고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006299063?sid=101"
+        "quote": "\"부동산 시장의 불안정성을 해소하기 위해 강력한 정책 수단이 필요할 수 있다.\"",
+        "context": "최근 집값 불안정세가 다시 고개를 들면서 정부의 시장 개입에 대한 기대와 우려가 동시에 커지고 있다. 과거에도 강력한 대출 및 세금 규제가 도입된 전례가 있어, 현재의 시장 상황이 추가 규제 논의로 이어질지 주목된다.",
+        "source_url": "https://www.asiatime.co.kr/article/20260605500246"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20downward%20trending%20cryptocurrency%20chart%20with%20a%20bitcoin%20symbol%2C%20showing%20a%20%27warning%27%20sign%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15949&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20house%20with%20upward%20trend%20arrow%2C%20showing%20different%20policy%20levers%20like%20taxes%20and%20loans%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=30542&nologo=true"
     },
     {
-      "id": "economy-interest-rate-history",
+      "id": "tech-lguplus-aidc",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "LGU+, 수도권 최대 AI 데이터센터 '파주 AIDC' 건설",
+      "subtitle": "총 전력 200MW 규모, 엔비디아 '베라루빈' 도입",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "200MW",
+            "label": "총 전력량"
+          },
+          {
+            "value": "127.7MW",
+            "label": "IT 부하"
+          },
+          {
+            "value": "2030년",
+            "label": "수주 5조 목표"
+          }
+        ],
+        "main_number": "118억",
+        "main_text": "AI 인프라 선점 위한 대규모 투자 단행"
+      },
+      "image_prompt": "cute pastel infographic illustration of a futuristic data center building, with servers and AI chips (like Nvidia's), showing high power capacity, pastel colors, no text",
+      "detail": {
+        "summary": "LG유플러스가 파주에 수도권 최대 규모의 AI 데이터센터(AIDC)를 건설하며 AI 인프라 확장에 나섰다. 총 전력 200MW 규모로 엔비디아의 차세대 AI 칩 '베라루빈'을 도입할 예정이다.",
+        "points": [
+          "LG유플러스, 파주에 200MW급 AI 데이터센터 건설",
+          "수도권 최대 규모, 2030년까지 수주 5조 목표",
+          "엔비디아 차세대 AI 칩 '베라루빈' 도입 예정",
+          "AI 시대 핵심 인프라 경쟁 가속화"
+        ],
+        "quote": "\"초거대 AI 시대에는 안정적이고 고성능의 데이터센터 인프라가 기업 경쟁력을 좌우할 것입니다.\"",
+        "context": "AI 기술의 발전은 막대한 연산 능력과 데이터 처리를 요구하며, 이는 고성능 AI 데이터센터의 중요성을 증대시키고 있다. LG유플러스의 이번 투자는 빠르게 성장하는 AI 시장에서 핵심 인프라를 선점하고 미래 경쟁력을 확보하려는 전략의 일환이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006299634?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20futuristic%20data%20center%20building%2C%20with%20servers%20and%20AI%20chips%20%28like%20Nvidia%27s%29%2C%20showing%20high%20power%20capacity%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56262&nologo=true"
+    },
+    {
+      "id": "tech-content-economy",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "콘텐츠 승자독식 시대, '롱테일'의 배반 '하이퍼 파레토'의 역설",
+      "subtitle": "정보 기술 산업의 변화하는 수익 구조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2004년",
+            "label": "롱테일 법칙 등장"
+          },
+          {
+            "value": "소수",
+            "label": "혜택 집중"
+          },
+          {
+            "value": "배반",
+            "label": "롱테일"
+          }
+        ],
+        "main_number": "80:20",
+        "main_text": "디지털 창작 세계의 양극화 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration showing two distribution curves, one long tail and one sharply peaked (hyper Pareto), illustrating content market dynamics, pastel colors, no text",
+      "detail": {
+        "summary": "초창기 IT 산업의 '롱테일 법칙'과 달리, 현재 콘텐츠 시장은 소수 인기 콘텐츠에 이익이 집중되는 '하이퍼 파레토' 현상을 보이며 창작자 간의 양극화가 심화되고 있다.",
+        "points": [
+          "IT 산업 초기의 '롱테일 법칙' 등장 (2004년)",
+          "다양한 소수 콘텐츠의 누적 수익 중요성 강조",
+          "현재 콘텐츠 시장은 '하이퍼 파레토' 구조로 변화",
+          "관심과 수익이 최상위 소수 콘텐츠에 집중되는 현상"
+        ],
+        "quote": "\"디지털 플랫폼은 다양성을 약속했지만, 현실은 소수 승자에게 더 큰 혜택을 주는 시스템으로 진화하고 있다.\"",
+        "context": "롱테일 법칙은 소수의 인기 상품보다 다수의 비인기 상품 판매량의 총합이 더 커질 수 있다는 이론이다. 그러나 디지털 플랫폼의 발달과 함께 정보 과잉 및 알고리즘 추천 등이 심화되면서, 오히려 특정 소수 콘텐츠로의 관심 집중 현상이 두드러지는 '하이퍼 파레토' 현상이 나타나고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/028/0002808430?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20two%20distribution%20curves%2C%20one%20long%20tail%20and%20one%20sharply%20peaked%20%28hyper%20Pareto%29%2C%20illustrating%20content%20market%20dynamics%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3782&nologo=true"
+    },
+    {
+      "id": "tech-crypto-regulation",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
       "viz_type": "timeline",
-      "title": "실패로 점철된 '금리 절벽' 개선 시도…이번엔 바뀔까?",
-      "subtitle": "고금리 대출 시장, 서민 고통 가중에도 해법 찾기 난항",
+      "title": "가상자산 '저인망식 코인 규제' 우려 확산",
+      "subtitle": "특금법 시행령 독소조항, 산업 위축 가능성 제기",
       "viz_data": {
         "stats": [
           {
-            "value": "오랜",
-            "label": "문제 기간"
+            "value": "3월 30일",
+            "label": "규제 시행"
           },
           {
-            "value": "수차례",
-            "label": "개선 시도"
+            "value": "3가지",
+            "label": "주요 우려"
           },
           {
-            "value": "여전",
-            "label": "서민 고통"
+            "value": "자금세탁 방지",
+            "label": "규제 목적"
           }
         ],
-        "main_number": "잔혹한 금융",
-        "main_text": "고금리 시장 문제, 선한 의지에도 불구하고 해결 난항"
+        "main_number": "↑",
+        "main_text": "가상자산 사업자들의 규제 완화 요구 증대"
       },
-      "image_prompt": "cute pastel infographic illustration of a timeline showing various attempts to lower a high interest rate 'cliff' with frustrated figures, and a question mark, no text",
+      "image_prompt": "cute pastel infographic illustration of a digital lock and chains around various cryptocurrencies, representing regulation, with a warning sign, pastel colors, no text",
       "detail": {
-        "summary": "고금리 대출 시장에서 발생하는 '금리 절벽' 현상을 개선하려는 여러 시도가 있었으나 실패로 돌아갔으며, 서민들의 금융 고통을 해소하기 위한 새로운 접근이 요구된다.",
+        "summary": "가상자산 자금세탁 방지 강화를 위한 특정금융정보법(특금법) 시행령이 지난 3월 30일부터 시행되면서, 업계에서는 전례 없는 '저인망식 규제'로 인한 산업 위축 우려가 제기되고 있다.",
         "points": [
-          "과거 정치인과 시민단체, 고금리 문제 지속적으로 제기",
-          "이재명 대통령 등도 서민 금융 부담 완화 공약",
-          "선한 의지에도 불구하고, 시장 개입 실패 및 부실 초래",
-          "‘따뜻한 금융’ 기대 속, 근본적인 대출 시장 개선 과제"
+          "가상자산 자금세탁 방지 위한 특금법 시행령 발효",
+          "업계, '저인망식 규제'로 인한 산업 위축 우려",
+          "IT 보안 전문가, 3가지 주요 독소조항 지적",
+          "규제 강도 조절 및 시장 의견 수렴의 필요성 제기"
         ],
-        "quote": "특권에 상응하는 사회적 역할을 요구하는 것은 시장 개입이 아니라 계약의 이행이다.",
-        "context": "고금리 대출 시장은 저신용 계층의 부담을 가중시키고 사회 양극화를 심화시키는 요인으로 지목된다. 금융 당국과 정치권의 지속적인 관심에도 불구하고, 구조적인 문제를 해결하는 데 어려움을 겪고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/028/0002808396?sid=101"
+        "quote": "\"과도한 규제는 혁신을 저해하고 건전한 시장의 성장을 방해할 수 있다.\"",
+        "context": "정부는 가상자산 시장의 투명성을 높이고 불법 행위를 방지하기 위해 특금법을 통해 규제를 강화하고 있다. 그러나 블록체인 및 가상자산 산업의 특성을 고려하지 않은 포괄적인 규제는 오히려 국내 시장의 경쟁력을 약화시키고 해외로의 유출을 부추길 수 있다는 비판이 나오고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006299632?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20timeline%20showing%20various%20attempts%20to%20lower%20a%20high%20interest%20rate%20%27cliff%27%20with%20frustrated%20figures%2C%20and%20a%20question%20mark%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61079&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20digital%20lock%20and%20chains%20around%20various%20cryptocurrencies%2C%20representing%20regulation%2C%20with%20a%20warning%20sign%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91774&nologo=true"
     },
     {
-      "id": "tech-ai-alliance",
-      "is_headline": true,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "collaboration_network",
-      "title": "엔비디아, K-테크 공룡들과 '피지컬 AI' 동맹 강화",
-      "subtitle": "젠슨 황 CEO 방한, SK·LG·네이버와 AI 협력 논의하며 K-푸드 만끽",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3사",
-            "label": "주요 협력"
-          },
-          {
-            "value": "8개월",
-            "label": "CEO 방한 간격"
-          },
-          {
-            "value": "4시간",
-            "label": "회동 시간"
-          }
-        ],
-        "main_number": "AI 동맹",
-        "main_text": "엔비디아와 국내 주요 기업, 미래 AI 주도권 확보 박차"
-      },
-      "image_prompt": "cute pastel infographic illustration of robots, AI chips, and major company logos connected by glowing lines, with a background hinting at Korean culture, no text",
-      "detail": {
-        "summary": "엔비디아 젠슨 황 CEO가 한국을 방문하여 SK그룹, LG그룹, 네이버 경영진과 피지컬 AI 협력을 논의했으며, 한국 경제의 활력에 대한 기대를 표명했다.",
-        "points": [
-          "엔비디아 젠슨 황 CEO 방한, 국내 AI 산업 리더들과 연이어 회동",
-          "SK 최태원 회장, LG 구광모 회장, 네이버 최수연 CEO 등 핵심 경영진 참여",
-          "'피지컬 AI' 협력 논의, 생성형 AI 시대 이후 미래 AI 전략 모색",
-          "홍대 삼겹살, 치맥 등 K-푸드를 즐기며 비즈니스와 문화 교류"
-        ],
-        "quote": "한국의 주가가 아주 높아서, 한국의 경제가 아주 잘 돌아가고 있어서 아주 기쁘다.",
-        "context": "젠슨 황 CEO의 이번 방한은 단순한 기업 방문을 넘어, 글로벌 AI 시장의 핵심 플레이어인 한국 기업들과의 협력을 공고히 하고, 차세대 AI 기술의 방향성을 논의하는 중요한 자리로 평가된다.",
-        "source_url": "https://www.socialvalue.kr/news/view/1065567120121403"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20robots%2C%20AI%20chips%2C%20and%20major%20company%20logos%20connected%20by%20glowing%20lines%2C%20with%20a%20background%20hinting%20at%20Korean%20culture%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45460&nologo=true"
-    },
-    {
-      "id": "tech-computex-ai-trend",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "trend_shift",
-      "title": "COMPUTEX 2026 결산: 'AI 동행'에서 '피지컬 AI' 시대로",
-      "subtitle": "클라우드·생성형 AI 넘어, 실제 물리 세계로 AI 무게중심 이동",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "AI 동행",
-            "label": "기존 트렌드"
-          },
-          {
-            "value": "피지컬 AI",
-            "label": "새로운 트렌드"
-          },
-          {
-            "value": "물리 세계",
-            "label": "확장 영역"
-          }
-        ],
-        "main_number": "AI 이동",
-        "main_text": "COMPUTEX 2026, AI 산업의 무게중심 변화 예고"
-      },
-      "image_prompt": "cute pastel infographic illustration showing a conceptual shift from cloud icons and abstract AI symbols to robotic arms interacting with real-world objects, with a timeline arrow, no text",
-      "detail": {
-        "summary": "COMPUTEX 2026을 통해 AI 산업의 무게중심이 클라우드 및 생성형 AI에서 벗어나 실제 물리 세계와 상호작용하는 '피지컬 AI'로 이동하고 있음이 확인되었다.",
-        "points": [
-          "올해 COMPUTEX의 핵심 메시지는 AI 산업 트렌드 변화",
-          "클라우드 및 생성형 AI 중심에서 '피지컬 AI'로 초점 이동",
-          "로봇, 자율주행, 스마트 팩토리 등 실제 물리 환경 적용 기술 강조",
-          "AI 기술이 일상과 산업 현장에 직접 통합되는 미래 제시"
-        ],
-        "quote": "COMPUTEX 2026은 단순한 IT 전시회가 아니었다. 올해 행사장을 관통한 메시지는 AI 산업의 무게 중심이 클라우드와 생성형 AI에서 실제 물리 세계로 이동하고...",
-        "context": "AI 기술 발전은 산업 전반에 혁명적인 변화를 가져오고 있다. 단순히 가상 공간에서의 지능을 넘어, 로봇이나 자율 시스템처럼 물리적 행동을 수행하는 AI의 중요성이 커지면서 새로운 시장과 기술 경쟁이 예상된다.",
-        "source_url": "https://www.koreaittimes.com/news/articleView.html?idxno=154246"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20conceptual%20shift%20from%20cloud%20icons%20and%20abstract%20AI%20symbols%20to%20robotic%20arms%20interacting%20with%20real-world%20objects%2C%20with%20a%20timeline%20arrow%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3024&nologo=true"
-    },
-    {
-      "id": "tech-ai-datacenter",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "value_proposition",
-      "title": "AI 데이터센터, 국가전략 SOC로…국가 경쟁력 기반 강화",
-      "subtitle": "황정아 의원, AI 데이터센터를 경부고속도로·초고속 인터넷망에 비견",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "SOC",
-            "label": "국가 전략"
-          },
-          {
-            "value": "AI 경쟁력",
-            "label": "핵심 기반"
-          },
-          {
-            "value": "수 조원",
-            "label": "투자 예상"
-          }
-        ],
-        "main_number": "AI 데이터 허브",
-        "main_text": "AI 시대, 데이터센터가 국가 경쟁력 좌우"
-      },
-      "image_prompt": "cute pastel infographic illustration of a high-tech data center connected to national infrastructure symbols like highways and fiber optic cables, emphasizing national competitiveness, no text",
-      "detail": {
-        "summary": "황정아 더불어민주당 의원은 AI 데이터센터를 경부고속도로나 초고속 인터넷망과 같은 국가전략적 사회간접자본(SOC)으로 간주하고, 이를 통해 AI 시대 국가 경쟁력을 강화해야 한다고 주장했다.",
-        "points": [
-          "AI 데이터센터를 국가전략 SOC로 지정 필요성 제기",
-          "박정희 정부의 경부고속도로, 김대중 정부의 인터넷망에 비견",
-          "데이터센터가 AI 시대 국가 경쟁력의 핵심 기반임을 강조",
-          "AI 데이터센터 확충을 통한 미래 산업 성장 동력 확보"
-        ],
-        "quote": "AI 시대에는 데이터센터가 국가 경쟁력의 기반이 된다.",
-        "context": "데이터는 4차 산업혁명 시대의 '원유'로 불리며, 이를 저장하고 처리하는 데이터센터의 중요성이 갈수록 커지고 있다. 특히 AI 시대에는 방대한 데이터를 효율적으로 처리할 수 있는 고성능 데이터센터가 국가의 기술 및 경제 경쟁력을 좌우할 핵심 인프라가 될 것이다.",
-        "source_url": "https://www.ajunews.com/view/20260603184007781"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20high-tech%20data%20center%20connected%20to%20national%20infrastructure%20symbols%20like%20highways%20and%20fiber%20optic%20cables%2C%20emphasizing%20national%20competitiveness%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60374&nologo=true"
-    },
-    {
-      "id": "society-election-controversy",
+      "id": "society-delivery-fee-cap",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "checklist",
-      "title": "선관위 '부실 선거관리' 논란 확산…시민사회, 전면 조사 촉구",
-      "subtitle": "경실련, 투표용지 부족 사태 관련 책임자 문책 및 재발 방지 요구",
+      "viz_type": "bar_chart",
+      "title": "배달앱 수수료 상한제 논의 재점화, '풍선효과' 과제",
+      "subtitle": "지방선거 후 정치권 규제 드라이브 예상",
       "viz_data": {
         "stats": [
           {
-            "value": "부족",
-            "label": "투표용지"
+            "value": "재점화",
+            "label": "논의"
           },
           {
-            "value": "촉구",
-            "label": "책임자 문책"
+            "value": "높음",
+            "label": "수수료 부담"
           },
           {
-            "value": "규명",
-            "label": "진상 조사"
+            "value": "풍선효과",
+            "label": "우려"
           }
         ],
-        "main_number": "선거 신뢰 위기",
-        "main_text": "선관위의 부실 관리, 민주주의 근간 흔드는 심각한 문제"
+        "main_number": "↑",
+        "main_text": "소비자·배달원·가맹점 영향 분석 필요"
       },
-      "image_prompt": "cute pastel infographic illustration of voting booths with empty ballot boxes and a magnifying glass over a document, with frustrated but determined citizen silhouettes, no text",
+      "image_prompt": "cute pastel infographic illustration of a delivery person holding a giant balloon, with app logos and money symbols, showing the 'balloon effect' of regulation, pastel colors, no text",
       "detail": {
-        "summary": "경제정의실천시민연합(경실련)이 서울 일부 지역 투표소에서 발생한 투표용지 부족 사태에 대해 중앙선거관리위원회의 철저한 진상규명, 책임자 문책, 그리고 실효성 있는 재발 방지 대책 마련을 강력히 촉구했다.",
+        "summary": "6·3 지방선거 이후 배달앱 수수료 상한제 논의가 다시 활성화될 조짐을 보이며, 정치권의 규제 강화 움직임에 대한 업계의 우려가 커지고 있다. 과도한 규제가 오히려 '풍선효과'를 유발할 수 있다는 지적이다.",
         "points": [
-          "서울 일부 투표소, 투표용지 부족 사태 발생",
-          "시민사회, 선관위의 부실 선거관리 강력 비판",
-          "경실련, 진상규명 및 책임자 엄중 문책 요구",
-          "투표의 신뢰 회복 및 재발 방지 대책 마련 필요성 강조"
+          "지방선거 이후 배달앱 수수료 규제 논의 재개",
+          "정치권의 규제 드라이브 강화 예상",
+          "업계, '풍선효과' 우려 제기 (수수료 인상/소비자 부담 전가)",
+          "사회적 논의를 통한 신중한 접근 필요성 강조"
         ],
-        "quote": "선관위는 부실 선거관리 실태를 낱낱이 규명하고 국민 앞에 투명하게 결과를 공개해야 한다.",
-        "context": "선거는 민주주의의 꽃이자 국민 주권 행사의 가장 기본적인 절차다. 투표 관리 과정에서 발생하는 어떠한 문제도 국민의 불신을 초래하고 민주주의의 근간을 흔들 수 있어 철저한 조치와 책임이 요구된다.",
-        "source_url": "https://www.ngonews.kr/news/articleView.html?idxno=230729"
+        "quote": "\"수수료 상한제는 당장의 부담을 덜 수 있지만, 장기적으로는 또 다른 문제를 야기할 수 있다.\"",
+        "context": "배달앱 수수료는 소상공인과 소비자에게 큰 부담으로 작용해왔다. 이에 정치권에서는 수수료 상한제 도입을 주장하고 있으나, 플랫폼 기업들은 규제가 오히려 배달료 인상이나 서비스 품질 저하 등 '풍선효과'를 초래할 수 있다고 반발하고 있어 신중한 접근이 요구된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/031/0001033353?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20voting%20booths%20with%20empty%20ballot%20boxes%20and%20a%20magnifying%20glass%20over%20a%20document%2C%20with%20frustrated%20but%20determined%20citizen%20silhouettes%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78739&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20delivery%20person%20holding%20a%20giant%20balloon%2C%20with%20app%20logos%20and%20money%20symbols%2C%20showing%20the%20%27balloon%20effect%27%20of%20regulation%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60816&nologo=true"
     },
     {
-      "id": "society-inequality-data",
+      "id": "society-seoul-mayor-yaso",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "사회 불평등 해소 위해…데이터처, '다차원 불평등 데이터' 개발 착수",
-      "subtitle": "소득 넘어 자산 불평등 심화 진단, 정확한 정책 수립 기반 마련",
+      "title": "오세훈 5기 서울시정, 다시 '여소야대' 시험대",
+      "subtitle": "지방선거 후 시의회 과반 야당 장악, 시정 운영 난항 예고",
       "viz_data": {
         "stats": [
           {
-            "value": "심화",
-            "label": "불평등"
+            "value": "5선",
+            "label": "오세훈 시장"
           },
           {
-            "value": "추진",
-            "label": "데이터 개발"
+            "value": "과반",
+            "label": "야당 의석"
           },
           {
-            "value": "자산",
-            "label": "주요 문제"
+            "value": "절반",
+            "label": "시 권력"
           }
         ],
-        "main_number": "불평등 해소",
-        "main_text": "사회 불평등 해소 위한 데이터 기반 정책 마련"
+        "main_number": "5",
+        "main_text": "시의회와 시장 간의 협력 및 견제 중요성 증대"
       },
-      "image_prompt": "cute pastel infographic illustration of various unequal sized segments representing different types of inequality (income, assets, education) with data points, and a government building, no text",
+      "image_prompt": "cute pastel infographic illustration of a city hall building with two scales balanced unevenly, representing political power distribution between mayor and city council, pastel colors, no text",
       "detail": {
-        "summary": "데이터처가 사회 전반에 걸쳐 심화된 다차원적 불평등 현상을 정확히 진단하고 정책 수립의 기반을 마련하기 위해 불평등 데이터 개발을 추진한다.",
+        "summary": "6·3 지방선거 결과 오세훈 서울시장이 5선에 성공했지만, 서울시의회 다수 의석을 야당이 차지하며 '여소야대' 구도가 재현되었다. 이에 따라 오 시장의 시정 운영에 상당한 난항이 예상된다.",
         "points": [
-          "소득, 자산, 교육 등 다양한 분야의 불평등 심화 인식",
-          "데이터처, 불평등 실태 정확한 진단을 위한 데이터 개발 추진",
-          "한국 사회의 자산 불평등이 소득 불평등보다 심각하다고 지적",
-          "데이터 기반의 맞춤형 정책 수립으로 불평등 해소 목표"
+          "오세훈 서울시장, 6·3 지방선거에서 5선 성공",
+          "서울시의회, 야당이 다수 의석 차지하며 '여소야대' 구도 형성",
+          "시정 핵심 정책 추진에 야당과의 협력 필수",
+          "시의회 견제와 균형 속 효율적 시정 운영 과제"
         ],
-        "quote": "한국 사회의 전반적인 불평등도는 심화됐다며 소득보다 부동산 등 자산 불평등이 더 큰 문제라고 지적했다.",
-        "context": "사회 불평등은 개인의 삶의 질은 물론 사회 통합과 지속 가능한 발전에 큰 영향을 미친다. 정확한 데이터는 문제의 본질을 파악하고 효과적인 정책을 수립하는 데 필수적이다.",
-        "source_url": "https://www.viva100.com/article/20260603500491"
+        "quote": "\"서울시 권력의 절반이 다시 민주당으로 넘어갔다는 평가가 나오며, 오 시장의 리더십이 시험대에 오를 것이다.\"",
+        "context": "지방선거는 지역 행정의 수장뿐 아니라 지방의회 구성에도 큰 영향을 미친다. 서울시의 경우 시장은 여당 소속이지만, 시의회는 야당이 다수를 차지하게 되어 주요 정책 추진 과정에서 강한 견제와 협상이 필요하게 된다. 이는 시민을 위한 효율적인 시정 운영에 중요한 변수로 작용할 것이다.",
+        "source_url": "https://www.ajunews.com/view/20260605105252382"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20various%20unequal%20sized%20segments%20representing%20different%20types%20of%20inequality%20%28income%2C%20assets%2C%20education%29%20with%20data%20points%2C%20and%20a%20government%20building%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32731&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20city%20hall%20building%20with%20two%20scales%20balanced%20unevenly%2C%20representing%20political%20power%20distribution%20between%20mayor%20and%20city%20council%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49342&nologo=true"
     },
     {
-      "id": "society-platform-labor",
+      "id": "society-election-paper-issue",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "comparison_bar",
-      "title": "'편리함 뒤 그림자'…배달 플랫폼 노동자의 현실 조명",
-      "subtitle": "코로나19 이후 급성장한 플랫폼 산업, 노동자 안전 및 사회적 인식 개선 촉구",
+      "viz_type": "bar_chart",
+      "title": "6·3 지방선거, 투표지 부족 파문 '재선거' 함성",
+      "subtitle": "선관위 무능 및 정치권 침묵에 시민 저항 확산",
       "viz_data": {
         "stats": [
           {
-            "value": "급증",
-            "label": "플랫폼 성장"
+            "value": "6월 3일",
+            "label": "선거일"
           },
           {
-            "value": "낮음",
-            "label": "안전 인식"
+            "value": "전국",
+            "label": "발생 지역"
           },
           {
-            "value": "필요",
-            "label": "사회적 책임"
+            "value": "2030 청년",
+            "label": "주요 분노 세력"
           }
         ],
-        "main_number": "2면의 현실",
-        "main_text": "소비자 편리함 vs. 노동자 안전, 플랫폼 노동의 양면성"
+        "main_number": "재선거",
+        "main_text": "참정권 침해 논란, 선거 불신 고조"
       },
-      "image_prompt": "cute pastel infographic illustration showing two sides: one side with people happily receiving delivery, the other side with a lone delivery worker facing challenges like bad weather or safety hazards, no text",
+      "image_prompt": "cute pastel infographic illustration of a ballot box with missing or empty ballot papers, showing frustrated voters and protest signs, pastel colors, no text",
       "detail": {
-        "summary": "코로나19 이후 급성장한 배달 플랫폼 산업의 이면에는 노동자들의 안전 문제와 불충분한 사회적 인식이 존재하며, 기업의 책임과 사회적 인식 개선이 시급하다.",
+        "summary": "6·3 지방선거에서 발생한 투표용지 부족 사태가 '재선거' 요구로 이어지며 전국적인 파장을 일으키고 있다. 선관위의 무능과 정치권의 침묵에 대한 2030 청년층과 시민들의 분노가 확산되는 중이다.",
         "points": [
-          "코로나19 팬데믹 이후 배달 플랫폼 산업 폭발적 성장",
-          "소비자의 편리함 뒤에 가려진 플랫폼 노동자의 현실 주목",
-          "노동자의 안전 문제와 불충분한 사회적 인식 지적",
-          "기업의 수익성 추구와 함께 노동자 안전 고려 및 사회적 책임 요구"
+          "6·3 지방선거 투표용지 부족 사태 발생",
+          "참정권 침해 논란 확산, '재선거' 주장 제기",
+          "선관위의 무능과 정치권의 침묵에 대한 비판 고조",
+          "향후 정국을 뒤흔들 메가톤급 폭풍 가능성"
         ],
-        "quote": "많은 사람들은 배달 서비스를 너무 당연하게 소비한다. 하지만 우리가 당연하게 여기는 편리함 뒤에는 우리가 쉽게 보지 못했던 노동의 현실이 존재한다.",
-        "context": "플랫폼 노동은 새로운 경제 형태로 자리 잡았지만, 노동자 보호의 사각지대가 발생하고 있다. 노동의 가치를 제대로 인정하고 안전한 환경을 조성하는 것은 플랫폼 경제의 지속 가능한 발전을 위해 필수적인 사회적 과제다.",
-        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=220358"
+        "quote": "\"투표용지 부족은 민주주의의 기본 원칙을 훼손하는 심각한 문제다.\"",
+        "context": "선거는 민주주의의 꽃이자 시민의 주권 행사가 이루어지는 가장 기본적인 절차다. 투표용지 부족과 같은 절차상의 하자는 유권자의 참정권을 침해할 뿐만 아니라, 선거 결과에 대한 신뢰를 떨어뜨리고 사회적 혼란을 야기할 수 있다.",
+        "source_url": "https://www.thepublic.kr/news/articleView.html?idxno=306778"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20two%20sides%3A%20one%20side%20with%20people%20happily%20receiving%20delivery%2C%20the%20other%20side%20with%20a%20lone%20delivery%20worker%20facing%20challenges%20like%20bad%20weather%20or%20safety%20hazards%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9539&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20ballot%20box%20with%20missing%20or%20empty%20ballot%20papers%2C%20showing%20frustrated%20voters%20and%20protest%20signs%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27249&nologo=true"
     },
     {
-      "id": "life-jensen-huang-kfood",
+      "id": "life-sokcho-festival",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "impact_map",
-      "title": "젠슨 황의 '치맥 사랑', K-푸드 글로벌 트렌드 견인",
-      "subtitle": "엔비디아 CEO의 방한 행보, 한국식 외식 문화와 브랜드 가치 확산 기여",
+      "viz_type": "timeline",
+      "title": "제11회 실향민문화축제, 속초 엑스포 잔디광장 개최",
+      "subtitle": "'속초, 마음을 잇는 고향' 슬로건으로 문화 보존 및 계승",
       "viz_data": {
         "stats": [
           {
-            "value": "삼겹살",
-            "label": "1차 회식"
+            "value": "6/12~13",
+            "label": "행사 기간"
           },
           {
-            "value": "치맥",
-            "label": "2차 회식"
+            "value": "11회",
+            "label": "개최 횟수"
           },
           {
-            "value": "글로벌",
-            "label": "영향력"
+            "value": "엑스포 잔디광장",
+            "label": "장소"
           }
         ],
-        "main_number": "K-컬처 시너지",
-        "main_text": "글로벌 CEO의 K-푸드 경험, 한국 문화 전파 효과 톡톡"
+        "main_number": "11회",
+        "main_text": "대한민국 유일의 실향민 문화 축제"
       },
-      "image_prompt": "cute pastel infographic illustration of Jensen Huang enjoying 'chimaek' (fried chicken and beer) with smiling Korean corporate leaders, surrounded by K-food symbols and a globe, no text",
+      "image_prompt": "cute pastel infographic illustration of a lively festival with people of different generations, traditional Korean elements, showing reunion and cultural exchange, pastel colors, no text",
       "detail": {
-        "summary": "엔비디아 젠슨 황 CEO가 방한 중 삼겹살에 이어 치맥을 즐기는 모습이 포착되면서 K-치킨 및 한국식 외식 문화가 글로벌 시장에서 더욱 주목받는 계기가 되었다.",
+        "summary": "속초시에서 6월 12일부터 13일까지 양일간 '제11회 실향민문화축제'가 엑스포 잔디광장에서 열린다. '속초, 마음을 잇는 고향'이라는 슬로건 아래 실향민 문화를 보존하고 계승하는 다양한 프로그램이 진행될 예정이다.",
         "points": [
-          "젠슨 황 CEO, 한국식 회식 문화(삼겹살+소맥, 치맥) 즐겨",
-          "유명 글로벌 CEO의 행보가 K-푸드 브랜드의 자연스러운 광고 효과 창출",
-          "한국의 외식 문화가 글로벌 트렌드로 확산하는 데 기여",
-          "비즈니스와 문화 교류가 시너지를 내는 현상"
+          "제11회 속초 실향민문화축제 개최 (6월 12~13일)",
+          "엑스포 잔디광장에서 다양한 행사 진행",
+          "대한민국 유일의 실향민 문화 플랫폼 역할",
+          "문화 보존, 계승 및 지역 경제 활성화 기대"
         ],
-        "quote": "글로벌 기업 CEO와 국내 주요 기업인이 치맥을 즐기는 장면 자체가 브랜드 광고 효과를 만들어냈다.",
-        "context": "K-컬처의 세계적 확산 속에 K-푸드는 큰 인기를 얻고 있다. 유명인의 경험은 특정 음식이나 문화를 더욱 효과적으로 알리는 촉매제가 되며, 이는 단순한 소비를 넘어 문화적 공감대를 형성하는 데 기여한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006299062?sid=101"
+        "quote": "\"이 축제는 단순한 행사를 넘어, 실향의 아픔을 치유하고 고향에 대한 그리움을 나누는 소중한 장입니다.\"",
+        "context": "속초는 한국전쟁 이후 실향민들이 정착하며 독특한 문화를 형성한 지역이다. 실향민문화축제는 이러한 역사적 배경을 바탕으로 실향민들의 애환과 문화적 정체성을 공유하고, 다음 세대에 그 의미를 전달하는 중요한 역할을 한다. 또한 지역 경제 활성화에도 기여할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/468/0001245076?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20Jensen%20Huang%20enjoying%20%27chimaek%27%20%28fried%20chicken%20and%20beer%29%20with%20smiling%20Korean%20corporate%20leaders%2C%20surrounded%20by%20K-food%20symbols%20and%20a%20globe%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99032&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20lively%20festival%20with%20people%20of%20different%20generations%2C%20traditional%20Korean%20elements%2C%20showing%20reunion%20and%20cultural%20exchange%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70455&nologo=true"
     },
     {
-      "id": "life-silla-crown",
+      "id": "life-pisstudio-ipo",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "cultural_map",
-      "title": "북방 문명과 신라의 조화…독자적 예술성 빛나는 신라 금관",
-      "subtitle": "시베리아 샤머니즘과 신라의 정신세계 융합, 고대 문화의 흔적",
+      "viz_type": "bar_chart",
+      "title": "디자이너 브랜드 '피스피스스튜디오' 상장",
+      "subtitle": "'마르디 메크르디' 등 컨템포러리 라이프스타일 패션 브랜드 운영",
       "viz_data": {
         "stats": [
           {
-            "value": "북방",
-            "label": "문화 유입"
+            "value": "6월 8일",
+            "label": "상장일"
           },
           {
-            "value": "독자적",
-            "label": "예술성"
+            "value": "다수",
+            "label": "브랜드 운영"
           },
           {
-            "value": "신라",
-            "label": "금관 미학"
+            "value": "확장 중",
+            "label": "사업 영역"
           }
         ],
-        "main_number": "문화 융합",
-        "main_text": "신라 금관, 고대 문화 교류의 상징"
+        "main_number": "↑",
+        "main_text": "패션 넘어 라이프스타일 전반으로 사업 확장"
       },
-      "image_prompt": "cute pastel infographic illustration of a shining Silla golden crown with abstract lines connecting it to northern nomadic symbols and shamanistic elements, illustrating cultural fusion, no text",
+      "image_prompt": "cute pastel infographic illustration of various fashion items like clothes and accessories, showcasing brand expansion and IPO, with a stock chart icon, pastel colors, no text",
       "detail": {
-        "summary": "신라 금관은 북방 유목민족 문명의 요소를 수용하면서도 신라만의 독자적인 예술성을 구현하여 고대 신라인의 정신세계와 문화 교류의 흔적을 보여주는 중요한 유물이다.",
+        "summary": "디자이너 브랜드 '마르디 메크르디' 등을 운영하는 컨템포러리 라이프스타일 패션 기업 피스피스스튜디오가 6월 8일 상장한다. 우먼 라인을 넘어 애슬레저, 키즈 등 다양한 사업 영역으로 확장 중이다.",
         "points": [
-          "신라 금관, 북방 유목민족의 영향을 받아 제작",
-          "나뭇가지 형태, 사슴 뿔 장식 등 시베리아 샤머니즘 문화와 연결",
-          "서봉총 금관의 '새' 장식, 북방 민족의 조류 숭배 문화 반영",
-          "이러한 요소를 신라 고유의 미학으로 승화, 독자적 예술성 구현"
+          "피스피스스튜디오, 6월 8일 상장 예정",
+          "대표 브랜드 '마르디 메크르디' 운영",
+          "우먼 라인 기반으로 애슬레저, 키즈 등 사업 확장",
+          "라이프스타일 패션 기업으로서의 성장 기대"
         ],
-        "quote": "그 화려한 형태는 고대 신라인의 정신세계를 반영하면서, 동시에 신라문화의 기원에 대한 단서를 품고 있다.",
-        "context": "신라 금관은 단순한 왕의 권위를 상징하는 것을 넘어, 고대 동아시아 문명 교류의 양상을 보여주는 중요한 고고학적 증거다. 이는 신라 문화의 다양성과 포용성을 이해하는 데 필수적인 자료이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/028/0002808398?sid=101"
+        "quote": "\"K-패션의 성장을 이끌며 라이프스타일 전반에 영향력을 확대할 것이다.\"",
+        "context": "피스피스스튜디오는 독창적인 디자인과 컨템포러리 감성으로 MZ세대 사이에서 높은 인기를 얻고 있는 패션 기업이다. 이번 상장을 통해 자금 조달 및 기업 인지도를 높여, 더욱 다양한 라이프스타일 영역으로 사업을 확장하고 글로벌 시장 진출을 가속화할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006299629?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shining%20Silla%20golden%20crown%20with%20abstract%20lines%20connecting%20it%20to%20northern%20nomadic%20symbols%20and%20shamanistic%20elements%2C%20illustrating%20cultural%20fusion%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=71886&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20various%20fashion%20items%20like%20clothes%20and%20accessories%2C%20showcasing%20brand%20expansion%20and%20IPO%2C%20with%20a%20stock%20chart%20icon%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=64735&nologo=true"
     },
     {
-      "id": "life-beauty-trends",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "comparison_chart",
-      "title": "뷰티업계, '경험과 감성' 중시 콜라보 트렌드 변화",
-      "subtitle": "기존 단순 협업 넘어, 소비자 참여형 라이프스타일 마케팅 확산",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "경험",
-            "label": "최우선"
-          },
-          {
-            "value": "감성",
-            "label": "강조"
-          },
-          {
-            "value": "확산",
-            "label": "라이프스타일"
-          }
-        ],
-        "main_number": "새로운 콜라보",
-        "main_text": "단순 제품 넘어, 문화와 일상을 연결하는 뷰티 마케팅 진화"
-      },
-      "image_prompt": "cute pastel infographic illustration showing a shift from simple product logos collaborating to a more intricate network of lifestyle activities (sports, travel, art) with beauty product integration, no text",
-      "detail": {
-        "summary": "뷰티업계의 콜라보레이션 공식이 단순히 제품을 넘어 '경험'과 '감성'을 중시하는 방향으로 변화하며, 스포츠 팬덤이나 일상생활과 연계된 라이프스타일형 마케팅이 확산되고 있다.",
-        "points": [
-          "글로벌 코스메틱 브랜드 메디힐, KBO와 협업 제품 출시",
-          "야구 관람 경험을 스킨케어로 확장하는 라이프스타일형 협업 강조",
-          "소비자의 '경험'과 '감성'을 중시하는 마케팅 전략 강화",
-          "단순 제품 홍보를 넘어 문화적 교류와 팬덤 활용 추세"
-        ],
-        "quote": "뷰티 업계는 소비자의 '경험'과 '감성'을 중시하며, 단순 제품 협업을 넘어 라이프스타일 전반과 연계된 마케팅으로 진화하고 있다.",
-        "context": "MZ세대를 중심으로 소비자들이 제품 자체의 기능뿐만 아니라 브랜드가 제공하는 경험과 가치에 주목하면서, 뷰티 업계는 다양한 분야와의 협업을 통해 새로운 소비자 접점을 만들고 브랜드 이미지를 강화하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/119/0003098326?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20shift%20from%20simple%20product%20logos%20collaborating%20to%20a%20more%20intricate%20network%20of%20lifestyle%20activities%20%28sports%2C%20travel%2C%20art%29%20with%20beauty%20product%20integration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=43095&nologo=true"
-    },
-    {
-      "id": "life-consumer-shopping-trends",
+      "id": "life-skt-membership",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "pie_chart",
-      "title": "여름 맞이 소비 트렌드 변화…마트는 할인, 백화점은 팝업",
-      "subtitle": "대형 유통업계, 고객 유치 위해 차별화된 전략 선보여",
+      "title": "SKT, 대학생 특화 멤버십 '0 week' 선봬",
+      "subtitle": "학사 일정·생활 패턴 반영한 청년 고객 맞춤형 혜택",
       "viz_data": {
         "stats": [
           {
-            "value": "할인",
-            "label": "마트 전략"
+            "value": "대학생",
+            "label": "타겟"
           },
           {
-            "value": "팝업",
-            "label": "백화점 전략"
+            "value": "맞춤형",
+            "label": "혜택"
           },
           {
-            "value": "여름",
-            "label": "시즌 특가"
+            "value": "장기 고객",
+            "label": "전환 목표"
           }
         ],
-        "main_number": "소비 전략",
-        "main_text": "유통업계, 여름 시즌 고객 맞이 맞춤형 프로모션 전개"
+        "main_number": "0",
+        "main_text": "통신사들의 청년 고객 유치 경쟁 심화"
       },
-      "image_prompt": "cute pastel infographic illustration showing a shopping cart filled with discounted items on one side (supermarket) and a stylish pop-up store with fashion items on the other (department store), no text",
+      "image_prompt": "cute pastel infographic illustration of a smartphone displaying various student life icons (books, coffee, sports) and membership benefits, pastel colors, no text",
       "detail": {
-        "summary": "여름 시즌을 맞아 대형마트는 먹거리 할인전을, 백화점은 패션·라이프스타일 팝업과 프로모션을 선보이며 고객들의 다양한 소비 욕구를 충족시키고 있다.",
+        "summary": "SK텔레콤이 대학생 의견을 반영한 멤버십 '0 week'을 선보이며 청년 고객 유치에 나섰다. 학사 일정과 생활 패턴에 맞춘 혜택으로 장기 통신 고객으로의 전환을 목표로 하고 있다.",
         "points": [
-          "이마트, 초여름 맞이 '고래잇 페스타' 통해 먹거리 특가 판매",
-          "백화점, 여름 시즌 패션·라이프스타일 팝업 스토어 집중 운영",
-          "대형 유통업체별 타겟 고객층에 맞춘 차별화된 마케팅 전략",
-          "소비자들은 다양한 할인 및 체험 기회를 통해 여름 소비 계획"
+          "SKT, 대학생 특화 멤버십 '0 week' 출시",
+          "대학생들의 의견 수렴하여 맞춤형 혜택 구성",
+          "학사 일정 및 생활 패턴을 반영한 서비스",
+          "장기 통신 고객 확보를 위한 경쟁 심화"
         ],
-        "quote": "대형마트는 먹거리 할인전을, 백화점은 여름 시즌을 겨냥한 패션·라이프스타일 팝업과 프로모션을 선보인다.",
-        "context": "유통업계는 계절별 특성과 소비자들의 변화하는 소비 패턴에 맞춰 다양한 전략을 구사한다. 특히 여름은 휴가 및 레저와 관련된 소비가 활발해지는 시기로, 각 유통 채널은 고객의 니즈를 파악해 맞춤형 프로모션을 제공하고 있다.",
-        "source_url": "https://www.kizmom.com/news/articleView.html?idxno=110776"
+        "quote": "\"청년 고객의 라이프스타일을 이해하고 최적화된 경험을 제공하는 것이 미래 고객 유치의 핵심입니다.\"",
+        "context": "통신사들은 미래 핵심 고객이 될 청년층을 사로잡기 위해 다양한 맞춤형 서비스를 내놓고 있다. SKT의 '0 week'는 단순히 요금 할인뿐 아니라 대학생들의 실제 생활과 밀접한 문화, 교육, 엔터테인먼트 등 다양한 영역에서 혜택을 제공하여 고객 충성도를 높이려는 전략이다.",
+        "source_url": "http://www.econonews.co.kr/news/articleView.html?idxno=439340"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20shopping%20cart%20filled%20with%20discounted%20items%20on%20one%20side%20%28supermarket%29%20and%20a%20stylish%20pop-up%20store%20with%20fashion%20items%20on%20the%20other%20%28department%20store%29%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=21682&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20smartphone%20displaying%20various%20student%20life%20icons%20%28books%2C%20coffee%2C%20sports%29%20and%20membership%20benefits%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22142&nologo=true"
     }
   ],
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T08:07:24.880308+09:00"
+  "generated_at": "2026-06-07T09:20:59.450403+09:00"
 }
