@@ -1,397 +1,13 @@
 {
   "cards": [
     {
-      "id": "society-001",
+      "id": "society-headline-pm-hansoongsook",
       "is_headline": true,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "선관위 해체론 번진 민심, 독립성 뒤에 숨어있나?",
-      "subtitle": "투표 용지 부족 사태, 선관위 불신 심화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1000+",
-            "label": "집회 참가자"
-          },
-          {
-            "value": "2인",
-            "label": "사퇴 위원장/총장"
-          }
-        ],
-        "main_number": "↑",
-        "main_text": "선거 제도 불신 및 불만 확산"
-      },
-      "image_prompt": "cute pastel infographic illustration, angry crowd with voting ballots, broken voting box, pastel colors, no text",
-      "detail": {
-        "summary": "투표 용지 부족 사태를 계기로 중앙선관위에 대한 국민적 불신이 확산되며 해체 요구까지 번지고 있다.",
-        "points": [
-          "투표 용지 부족 사태 발생 및 공론화",
-          "노태악 위원장과 허철훈 사무총장 사의 표명",
-          "외부 인사 중심 진상규명위원회 가동 예정",
-          "시민 1000여 명 '재선거' 요구 주말 집회 개최",
-          "선거 제도 불신과 불안감 사회 전반으로 확산"
-        ],
-        "quote": "이런 선관위 왜 필요한가",
-        "context": "중앙선관위는 선거 관리의 독립성을 보장받는 기관이지만, 이번 사태로 그 기능과 신뢰성에 대한 근본적인 의문이 제기되고 있다. 민주주의의 근간인 선거 제도의 투명성과 공정성 확보가 시급한 과제로 떠올랐다.",
-        "source_url": "https://n.news.naver.com/mnews/article/661/0000077672?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20angry%20crowd%20with%20voting%20ballots%2C%20broken%20voting%20box%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83983&nologo=true"
-    },
-    {
-      "id": "world-001",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "map_with_lines",
-      "title": "시진핑, 북한 방문으로 동북아 정세 요동",
-      "subtitle": "북중 관계 강화 및 세계 다극화 논의",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2026년",
-            "label": "방문 시점"
-          },
-          {
-            "value": "2일",
-            "label": "일정"
-          },
-          {
-            "value": "2019년",
-            "label": "직전 방문"
-          }
-        ],
-        "main_number": "↑ 영향력",
-        "main_text": "중국의 북한에 대한 정치·경제적 영향력 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration, a map showing China and North Korea with connecting lines, two leaders shaking hands, no text",
-      "detail": {
-        "summary": "시진핑 주석의 북한 방문은 북한의 러시아 협력 속에서도 중국이 여전히 북한의 가장 중요한 후원자임을 세계에 보여주려는 의도로 해석된다.",
-        "points": [
-          "방문 목적은 북중 친선 관계 강화 확인 및 전략적 의사소통",
-          "패권주의와 강권정치 반대 입장 표명",
-          "군사 교류 강화 및 경제 세계화 공동 추진 논의",
-          "북한의 독자 노선 진입 평가 및 지지",
-          "국제사회 대북 압박 속 북중 연대 강화 시사"
-        ],
-        "quote": "패권주의와 강권정치를 반대하며 군국주의 부활을 꾀하고 지역의 안전과 안정에 위해를 주는 모든 야욕과 책동을 배격한다.",
-        "context": "북한이 러시아와의 협력을 강화하는 가운데, 중국은 전통적인 동맹국인 북한에 대한 영향력을 재확인하고 동북아시아 및 국제 질서에서 자신들의 역할을 강조하려 하고 있다. 이는 미국 주도의 패권 질서에 대한 대항이라는 의미도 내포한다.",
-        "source_url": "https://www.ngonews.kr/news/articleView.html?idxno=230789"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20showing%20China%20and%20North%20Korea%20with%20connecting%20lines%2C%20two%20leaders%20shaking%20hands%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=52105&nologo=true"
-    },
-    {
-      "id": "world-002",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "line_chart",
-      "title": "이란 미사일 공세, 유가 급등 촉발",
-      "subtitle": "브렌트유 한때 96달러 돌파, 중동 정세 불안 심화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "96달러+",
-            "label": "브렌트유 최고가"
-          },
-          {
-            "value": "20%",
-            "label": "호르무즈 해협 원유 통과량"
-          }
-        ],
-        "main_number": "+5.7%",
-        "main_text": "중동 불안으로 인한 유가 급등"
-      },
-      "image_prompt": "cute pastel infographic illustration, a rising oil price chart with a oil barrel icon, middle east map, no text",
-      "detail": {
-        "summary": "이란의 이스라엘 미사일 공세로 인해 국제 유가가 급등하며 브렌트유가 한때 96달러를 돌파, 세계 경제에 불안감을 더하고 있다.",
-        "points": [
-          "이란의 이스라엘 보복 공세 단행",
-          "브렌트유 선물 가격 급등 (한때 96달러 돌파)",
-          "호르무즈 해협 폐쇄 가능성 우려 증대",
-          "세계 원유 공급 20%가 호르무즈 해협 통과",
-          "중동 정세 불안이 글로벌 에너지 시장에 직접 영향"
-        ],
-        "quote": "이번 전쟁으로 세계 원유 공급의 약 20%가 통과하는 호르무즈 해협이 사실상 폐쇄 상태에 가까워지면서 원유와 석유제품, 천연가스 공급이 크게 위축된 상황이다.",
-        "context": "중동 지역의 지정학적 불안정은 세계 에너지 시장에 즉각적인 영향을 미친다. 특히 주요 원유 수송로인 호르무즈 해협의 안보 위협은 유가 상승 압력으로 작용하며 글로벌 인플레이션 우려를 증폭시키고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026060807402066939a1f309431_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20rising%20oil%20price%20chart%20with%20a%20oil%20barrel%20icon%2C%20middle%20east%20map%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63225&nologo=true"
-    },
-    {
-      "id": "world-003",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "세계 전기차 시장, 가파른 성장세 지속",
-      "subtitle": "올해 신차 28% 전기차 예상, 아시아 시장 견인",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "28%",
-            "label": "2026년 신차 중 EV 비중"
-          },
-          {
-            "value": "8%",
-            "label": "전체 차량 중 트럭/버스 비중"
-          }
-        ],
-        "main_number": "↑ 성장",
-        "main_text": "글로벌 전기차 판매량 역대 최고치 전망"
-      },
-      "image_prompt": "cute pastel infographic illustration, bar chart showing EV sales growth, globe icon, no text",
-      "detail": {
-        "summary": "국제에너지기구(IEA)에 따르면 올해 전 세계 신차 판매의 28%가 전기차가 될 것으로 예상되며, 특히 아시아 시장이 성장을 견인하고 있다.",
-        "points": [
-          "2026년 전 세계 신차 판매 중 전기차 비중 28% 전망 (역대 최고)",
-          "아시아 신차 판매의 절반 이상이 전기차",
-          "유럽, 신차 판매의 25% 이상 전기차 예상",
-          "전기차 시장의 가파른 성장세 재확인",
-          "테슬라 '세미' 양산 시작 등 트럭 시장으로 확장"
-        ],
-        "quote": "올해 전 세계에서 판매되는 신차의 28%가 배터리 전기차(BEV)로, 역대 최고 수준을 기록할 전망이다.",
-        "context": "글로벌 전기차 시장은 팬데믹 이후 공급망 문제와 경제 불확실성 속에서도 꾸준히 성장하며 자동차 산업의 미래를 이끌고 있다. 특히 아시아와 유럽의 높은 성장세는 전 세계적인 탄소 중립 목표 달성에 기여할 것으로 보인다.",
-        "source_url": "https://www.autodaily.co.kr/news/articleView.html?idxno=544690"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20bar%20chart%20showing%20EV%20sales%20growth%2C%20globe%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=75354&nologo=true"
-    },
-    {
-      "id": "economy-001",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "환율 1560원대 급등, 정부 긴급회의 소집",
-      "subtitle": "강달러 및 투기 거래에 엄정 조치 예고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1560원+",
-            "label": "최고 환율"
-          },
-          {
-            "value": "일요일",
-            "label": "회의 개최"
-          }
-        ],
-        "main_number": "+?",
-        "main_text": "원화 약세 지속, 외환 시장 불안 고조"
-      },
-      "image_prompt": "cute pastel infographic illustration, a line chart showing rising currency exchange rate, money bag icon, no text",
-      "detail": {
-        "summary": "환율이 1560원대를 돌파하자 정부가 일요일 긴급 시장상황점검회의를 열고 투기 거래에 대한 엄정 조치를 예고했다.",
-        "points": [
-          "환율 1560원대 치솟으며 급등세",
-          "정부, 일요일 긴급 시장상황점검회의 개최",
-          "구윤철 부총리 \"과도한 변동성 및 투기거래 엄정 조치\"",
-          "강달러 기조 및 원화 약세 심화",
-          "기업 결제 부담 가중 등 경제 전반에 영향 우려"
-        ],
-        "quote": "강달러고 그 다음에 우리 원화가 약세면 이제 그 (기업이) 결제를 하더라도 더 많은 돈을 주고 해야 하니까..",
-        "context": "글로벌 경제 불확실성과 미국의 고금리 기조가 지속되면서 '강달러' 현상이 심화되고 있다. 이는 원화 약세를 유발하여 수입 물가 상승, 기업 환차손 등 국내 경제에 부담을 주고 있으며, 정부는 외환 시장 안정화를 위해 적극 개입할 움직임을 보이고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/448/0000617623?sid=004"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20line%20chart%20showing%20rising%20currency%20exchange%20rate%2C%20money%20bag%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45422&nologo=true"
-    },
-    {
-      "id": "economy-002",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "AI 반도체發 증시 변동성, 코스피 7900선 이하 매수 기회?",
-      "subtitle": "금리 인하 기대와 실질 성장주 주목",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "7900",
-            "label": "코스피 지지선"
-          },
-          {
-            "value": "9월",
-            "label": "연준 FOMC 예상 시점"
-          }
-        ],
-        "main_number": "Buy",
-        "main_text": "하반기 금리 인하 기대감으로 실질 성장주 투자 유망"
-      },
-      "image_prompt": "cute pastel infographic illustration, stock market chart with AI chip icon, dollar signs, no text",
-      "detail": {
-        "summary": "AI 반도체 관련 이슈로 증시 변동성이 커지는 가운데, 코스피 7900선 이하를 매수 기회로 보고 AI 관련 실질 성장주에 주목하라는 분석이 나왔다.",
-        "points": [
-          "AI 반도체 관련 이슈로 인한 증시 변동성 확대",
-          "코스피 7900선 이하 매수 관점 유효 분석",
-          "유안타증권, 9월 FOMC까지 연준 '기다려 보자' 스탠스 예상",
-          "금리 인하 기대감으로 AI, IT하드웨어, 조선·방산·원전 등 실질 성장주 주목",
-          "고용환경 하방 위험 및 물가 디스인플레이션 흐름 고려"
-        ],
-        "quote": "AI 반도체, IT하드웨어, 조선·방산·원전으로 대표되는 실질 성장주가 그 대상이다.",
-        "context": "최근 AI 산업의 폭발적인 성장과 함께 관련 반도체 기업들의 주가가 큰 변동성을 보이고 있다. 시장 전문가들은 금리 인하 가능성과 함께 견조한 실적을 내는 '실질 성장주'에 대한 장기적인 투자 관점을 제시하며, 단기적인 변동성을 기회로 삼을 것을 조언하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006300358?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20stock%20market%20chart%20with%20AI%20chip%20icon%2C%20dollar%20signs%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62033&nologo=true"
-    },
-    {
-      "id": "economy-003",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart_country_comparison",
-      "title": "코트라, 발칸 방산전서 K-방산 홍보…동유럽 시장 공략",
-      "subtitle": "러시아-우크라이나 전쟁 장기화, 방산 시장 확대 기회",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "발칸",
-            "label": "지역"
-          },
-          {
-            "value": "K-방산",
-            "label": "수출 품목"
-          }
-        ],
-        "main_number": "↑",
-        "main_text": "K-방산, 동유럽 시장 공략 가속화"
-      },
-      "image_prompt": "cute pastel infographic illustration, a map of balkans region with korean flag and military equipment icons, no text",
-      "detail": {
-        "summary": "코트라가 발칸 지역 최대 방위산업 전시회에 참가해 K-방산을 홍보하며 동유럽 시장 진출을 적극 지원했다.",
-        "points": [
-          "코트라, 발칸 지역 최대 방위산업 전시회 참가",
-          "한국 방산 기업의 중동부 유럽 시장 진출 지원",
-          "러시아-우크라이나 전쟁 및 중동 분쟁 장기화로 방산 수요 증가",
-          "K-방산의 기술력과 신뢰성 국제적 인정",
-          "동유럽 국가들과의 방위 산업 협력 강화 기대"
-        ],
-        "quote": "대한무역투자진흥공사(코트라)가 발칸 지역 최대 방위산업 전시회에서 한국 방산 기업의 중동부 유럽 시장 진출을 지원했다.",
-        "context": "러시아-우크라이나 전쟁 장기화로 인해 전 세계적으로 국방비 지출이 늘고 있으며, 특히 동유럽 국가들은 안보 강화를 위해 무기 수입을 늘리고 있다. 한국의 방위산업은 우수한 기술력과 합리적인 가격을 바탕으로 이 시장에서 강력한 경쟁자로 부상하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002653109?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20of%20balkans%20region%20with%20korean%20flag%20and%20military%20equipment%20icons%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16363&nologo=true"
-    },
-    {
-      "id": "tech-001",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "map_with_timeline",
-      "title": "젠슨 황 CEO, 한국 주요 기업/대학 종횡무진 AI 협력 모색",
-      "subtitle": "LG, 서울대, 현대차, 네이버 등 방문",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1일",
-            "label": "방문 기간"
-          },
-          {
-            "value": "4곳+",
-            "label": "주요 방문지"
-          }
-        ],
-        "main_number": "↑",
-        "main_text": "국내 AI 및 로보틱스 산업에 대한 관심 증대"
-      },
-      "image_prompt": "cute pastel infographic illustration, a map of Seoul showing locations of LG, Seoul National University, Hyundai, Naver, with Jensen Huang's caricature, no text",
-      "detail": {
-        "summary": "엔비디아 젠슨 황 CEO가 LG, 서울대, 현대차, 네이버 등 국내 주요 기업 및 대학을 방문하며 한국의 AI 및 로보틱스 산업과의 협력을 모색했다.",
-        "points": [
-          "젠슨 황 CEO, 서울 여의도 LG트윈타워 방문",
-          "서울대, 현대차그룹 양재 사옥, 네이버 1784 사옥 방문",
-          "AI 인프라, 로보틱스, 피지컬 AI 분야 협력 논의",
-          "국내 AI 스타트업들과 만남 예정",
-          "한국의 AI 및 로보틱스 기술력에 대한 글로벌 관심 확인"
-        ],
-        "quote": "황 CEO는 각 기관에서 AI 인프라와 로보틱스, 피지컬 AI 관련 협력 방안을 논의할 것으로 전해졌다.",
-        "context": "AI 기술의 선두 주자인 엔비디아의 CEO가 한국을 방문하여 주요 기업 및 학계와 접촉한 것은, 한국의 AI 및 로보틱스 기술 잠재력과 함께 글로벌 AI 생태계에서의 한국의 중요성이 커지고 있음을 시사한다. 이는 국내 산업 발전에 긍정적인 영향을 미칠 것으로 기대된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/654/0000184434?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20of%20Seoul%20showing%20locations%20of%20LG%2C%20Seoul%20National%20University%2C%20Hyundai%2C%20Naver%2C%20with%20Jensen%20Huang%27s%20caricature%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6402&nologo=true"
-    },
-    {
-      "id": "tech-002",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart_comparison",
-      "title": "AI 전력 수요 급증, 전력기기 시장 판도 변화 예고",
-      "subtitle": "엔비디아, 2027년부터 800VDC 전력 인프라 전환 제시",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "800VDC",
-            "label": "새로운 전압"
-          },
-          {
-            "value": "48V",
-            "label": "기존 전압"
-          }
-        ],
-        "main_number": "+수주",
-        "main_text": "AI 시대, 고전압 전력기기 수요 폭증"
-      },
-      "image_prompt": "cute pastel infographic illustration, server racks with electricity flow, showing voltage change from 48V to 800V, no text",
-      "detail": {
-        "summary": "엔비디아가 차세대 AI 팩토리 구현을 위해 2027년부터 800VDC 전력 인프라 전환을 제시하며, AI의 급증하는 전력 수요가 전력기기 시장의 판도를 바꾸고 있다.",
-        "points": [
-          "엔비디아, 2027년부터 800VDC 전력 인프라 전환 제시",
-          "기존 48~54V 저전압 체계의 한계 도달 (발열, 전압 강하)",
-          "AI 데이터센터의 전력 소모량 급증",
-          "전력기기 산업의 대규모 수주 증가 전망",
-          "AI 혁명이 전력 인프라 전반에 걸친 변화 유도"
-        ],
-        "quote": "엔비디아는 차세대 AI 팩토리 구현을 위해 2027년부터 1MW급 IT 랙 이상을 지원하는 800VDC 전력 인프라 전환을 제시했다.",
-        "context": "AI 기술 발전은 엄청난 컴퓨팅 파워를 요구하며, 이는 데이터센터의 전력 소모량을 급증시키고 있다. 이에 따라 기존의 전력 인프라로는 한계에 다다랐고, 엔비디아와 같은 선두 기업들이 새로운 고전압 시스템을 제시하면서 전력기기 산업에 대규모 투자와 혁신이 일어날 것으로 예상된다.",
-        "source_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=842555"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20server%20racks%20with%20electricity%20flow%2C%20showing%20voltage%20change%20from%2048V%20to%20800V%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=89108&nologo=true"
-    },
-    {
-      "id": "tech-003",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
       "viz_type": "timeline",
-      "title": "앤트로픽, \"AI 개발 속도 조절\" 제언…글로벌 AI 경쟁 논란",
-      "subtitle": "안전성 확보 위한 일시 중단 제안, 업계 내 뜨거운 감자",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1개사",
-            "label": "제언 주체"
-          },
-          {
-            "value": "일시 중단",
-            "label": "제언 내용"
-          }
-        ],
-        "main_number": "Slow down",
-        "main_text": "AI 안전성 우려, 개발 속도 조절 필요성 제기"
-      },
-      "image_prompt": "cute pastel infographic illustration, a stop sign on a road with AI robot icon, gears slowing down, no text",
-      "detail": {
-        "summary": "주요 AI 기업인 앤트로픽이 AI 개발 속도 조절 또는 일시 중단을 제언하며 글로벌 AI 경쟁 속 안전성 확보에 대한 논의를 촉발했다.",
-        "points": [
-          "앤트로픽 CEO, 'frontier AI 개발 속도 조절 또는 일시 중단' 제언",
-          "AI 기술의 잠재적 위험에 대한 우려 제기",
-          "업계 내 'Hey Anthropic, stop it.' 등 반발 목소리도",
-          "글로벌 AI 기업 간 개발 경쟁 과열에 대한 경고",
-          "AI 안전성 및 윤리적 개발에 대한 사회적 논의 필요성 대두"
-        ],
-        "quote": "우리는 프론티어 AI 개발을 늦추거나 일시적으로 중단하는 선택지가 세상에 있는 것이 좋을 것이라고 믿는다.",
-        "context": "최근 생성형 AI 기술이 급속도로 발전하면서 그 효용성과 함께 잠재적 위험성에 대한 우려도 커지고 있다. 주요 AI 개발사 내부에서조차 통제 불가능한 발전에 대한 경고가 나오면서, AI의 안전하고 윤리적인 개발 방향에 대한 국제적인 합의와 규제 논의가 더욱 중요해지고 있다.",
-        "source_url": "http://www.newstown.co.kr/news/articleView.html?idxno=705427"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20stop%20sign%20on%20a%20road%20with%20AI%20robot%20icon%2C%20gears%20slowing%20down%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62391&nologo=true"
-    },
-    {
-      "id": "society-002",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "profile_card",
-      "title": "20년 만의 '여성 총리' 한성숙 중기부 장관 지명",
-      "subtitle": "AI 대전환 시대 이끌 적임자 기대",
+      "title": "한성숙 국무총리 지명: 20년 만의 여성 총리, IT 전문가 발탁",
+      "subtitle": "이재명 대통령, 중기부 장관 한성숙을 제2대 총리로 지명",
       "viz_data": {
         "stats": [
           {
@@ -399,186 +15,648 @@
             "label": "여성 총리 공백"
           },
           {
-            "value": "IT전문가",
-            "label": "주요 경력"
+            "value": "2대",
+            "label": "총리 지명"
+          },
+          {
+            "value": "1세대",
+            "label": "IT 전문가"
           }
         ],
-        "main_number": "First Woman CEO",
-        "main_text": "네이버 첫 여성 CEO 출신"
+        "main_number": "IT+경영",
+        "main_text": "민생경제와 AI 국가전략 완수 기대"
       },
-      "image_prompt": "cute pastel infographic illustration, a professional woman with a microphone in front of a digital background, representing IT and leadership, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "한성숙 중소벤처기업부 장관이 새 총리 후보자로 지명되며 20년 만에 여성 총리 탄생에 대한 기대감이 커지고 있다.",
+        "summary": "이재명 대통령이 한성숙 중소벤처기업부 장관을 제2대 국무총리로 지명했다. 이는 20년 만에 발탁되는 여성 총리이자, 민간 IT 기업 출신 비정치인으로서, AI 대전환 시대에 민생경제 회복과 미래 산업 경쟁력 강화에 대한 기대를 모으고 있다.",
         "points": [
-          "한성숙 중소벤처기업부 장관, 새 총리 후보로 지명",
-          "20년 만의 여성 총리 탄생 가능성",
-          "IT 기업 대표(네이버 첫 여성 CEO) 및 중기부 장관 역임",
-          "강훈식 비서실장, \"AI 대전환 시대 이끌 적임자\" 평가",
-          "국민 일부가 아닌 대한민국 모두의 성장 기여 기대"
+          "20년 만의 여성 총리 발탁, IT 기업 경영 전문가",
+          "민간 IT 기업 출신 비정치인으로서 신선한 인사",
+          "AI 국가전략 및 반도체 호황, 수출 확대 등 목표",
+          "민생경제 안정과 실행력에 방점을 둔 인사"
         ],
-        "quote": "시대적 과제인 AI 대전환을 차질 없이 완수하고 국민 일부가 아닌 대한민국 모두의 성장을 이끌 적임자로 기대됩니다.",
-        "context": "국정 운영의 중요한 자리에 여성 IT 전문가가 지명된 것은 디지털 전환과 AI 시대에 대한 정부의 강력한 의지를 보여주는 것으로 해석된다. 이는 다양성 증진과 함께 미래 성장 동력 확보라는 두 가지 사회적 기대를 충족시킬 수 있을지 주목된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/437/0000494936?sid=100"
+        "quote": "IT 기업 경영과 중기부 장관 경험을 바탕으로 AI 대전환을 완수하고 반도체 호황·수출 확대에 기여할 것.",
+        "context": "전통적인 관료/정치인형 총리 인선에서 벗어나, 기술 변화와 시장 경쟁을 직접 경험한 IT 전문가를 통해 현 정부의 경제 성과형 내각 기조를 강화하려는 의도로 해석된다.",
+        "source_url": "https://theopiniontimes.news/%ec%9d%b4%ec%9e%ac%eb%aa%85-%eb%8c%80%ed%86%b5%eb%a0%b9-2%eb%8c%80-%ec%b4%9d%eb%a6%ac%ec%97%90-%ed%95%9c%ec%84%b1%ec%88%99-%ec%a4%91%ea%b8%b0%eb%b6%80-%ec%9e%a5%ea%b4%80-%ec%a7%80%eb%aa%8520/"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20professional%20woman%20with%20a%20microphone%20in%20front%20of%20a%20digital%20background%2C%20representing%20IT%20and%20leadership%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91471&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=85372&nologo=true"
     },
     {
-      "id": "society-003",
+      "id": "world-china-nk-multipolar",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "world_map",
+      "title": "시진핑, 北과 '세계 다극화 공동 추진' 강조",
+      "subtitle": "중국-북한, 국제 질서 수호 및 패권주의 반대 입장 표명",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2국",
+            "label": "협력 주체"
+          },
+          {
+            "value": "다극화",
+            "label": "추진 방향"
+          },
+          {
+            "value": "반대",
+            "label": "패권주의"
+          }
+        ],
+        "main_number": "공동수호",
+        "main_text": "정치적 안전 및 국제 질서"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "시진핑 주석이 기고문을 통해 북한과 '세계 다극화'를 공동 추진하고 '포용적 경제 세계화'를 옹호하며 국제 질서를 수호하겠다는 입장을 밝혔다. 이는 패권주의와 강권정치에 반대하며 양국의 정치적 안전을 확고히 지키겠다는 의지를 담고 있다.",
+        "points": [
+          "중국-북한, 세계 다극화 및 포용적 경제 세계화 공동 추진",
+          "패권주의와 강권정치에 대한 공동 반대 입장 표명",
+          "양국의 정치적 안전 확고히 수호 강조",
+          "지역의 안전과 안정에 위협을 주는 모든 행위 반대"
+        ],
+        "quote": "자기 나라의 실정에 맞는 사회주의 건설 추진하며, 나라의 정치적 안전을 확고히 수호해야 한다.",
+        "context": "미국 중심의 일극 체제에 대한 반대 의사를 명확히 하고, 북한과의 연대를 강화하여 새로운 국제 질서 형성에 대한 의지를 보여준 것으로 해석된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0013992450?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79175&nologo=true"
+    },
+    {
+      "id": "world-korea-africa-cooperation",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "반크, 한-아프리카 외교장관회의 기념 홍보영상 공개",
+      "subtitle": "한국-아프리카 청년 간 문화적 유대감 강화를 위한 2편 영상 제작",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2편",
+            "label": "제작 영상 수"
+          },
+          {
+            "value": "문화",
+            "label": "협력 분야"
+          },
+          {
+            "value": "청년",
+            "label": "주요 대상"
+          }
+        ],
+        "main_number": "국경 초월",
+        "main_text": "자유를 향한 투쟁의 유대감"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "반크가 '한-아프리카 외교장관회의'를 기념하여 홍보영상 2편을 공개했다. 이 영상은 경제적, 정치적 협력을 넘어 한국과 아프리카 청년들이 역사적 경험과 정서적 유대감을 공유할 수 있는 문화적 토대를 마련하기 위해 기획되었다.",
+        "points": [
+          "한-아프리카 외교장관회의 기념 홍보영상 2편 공개",
+          "경제·정치 협력을 넘어 문화적 유대감 강화 목표",
+          "'국경은 달라도, 자유를 향한 투쟁은 하나였다' 메시지",
+          "한국과 아프리카 청년 간 역사적 경험 공유 강조"
+        ],
+        "quote": "국경은 달라도, 자유를 향한 투쟁은 하나였다.",
+        "context": "외교적 관계를 넘어 민간 차원의 문화 교류를 통해 양 지역의 미래 세대 간 이해와 협력을 증진하려는 노력의 일환이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016124898?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92500&nologo=true"
+    },
+    {
+      "id": "world-hannon-ford-q1",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "world_map",
+      "title": "한온시스템 美 캐리 공장, 포드 ‘Q1 인증’ 획득",
+      "subtitle": "글로벌 27개 공장 포드 Q1 인증으로 세계적 품질 관리 시스템 입증",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "27개",
+            "label": "Q1 인증 공장"
+          },
+          {
+            "value": "4개",
+            "label": "글로벌 지역"
+          },
+          {
+            "value": "최고",
+            "label": "품질 수준"
+          }
+        ],
+        "main_number": "Q1 인증",
+        "main_text": "포드 최고 품질 표준 달성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한온시스템 미국 캐리 공장이 포드의 'Q1 인증'을 획득하며 전 세계 주요 거점에 위치한 총 27개 공장에서 포드 Q1 인증을 달성했다. 이는 아시아태평양, 유럽, 미주, 중국 등 글로벌 전 지역을 아우르는 한온시스템의 세계적 수준의 품질 관리 시스템과 제조 역량을 입증한다.",
+        "points": [
+          "한온시스템 美 캐리 공장, 포드 'Q1 인증' 획득",
+          "전 세계 총 27개 공장에서 포드 Q1 인증 달성",
+          "아태, 유럽, 미주, 중국 등 글로벌 전 지역 포함",
+          "세계적 수준의 품질 관리 시스템 및 제조 역량 입증"
+        ],
+        "quote": "글로벌 전 지역을 아우르는 한온시스템의 세계적 수준의 품질 관리 시스템과 제조 역량을 입증한다.",
+        "context": "자동차 부품 업계에서 포드 Q1 인증은 공급업체의 품질 및 제조 시스템이 포드의 엄격한 표준을 충족함을 의미하며, 글로벌 경쟁력을 강화하는 중요한 지표다.",
+        "source_url": "http://autotimes.co.kr/detail.php?number=687975&thread=27"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34076&nologo=true"
+    },
+    {
+      "id": "economy-pm-economic-policy",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "gauge",
+      "title": "한성숙 총리 후보자, 민생 경제 비상 상황 타개에 총력",
+      "subtitle": "당면한 민생 경제 문제 해결에 집중하여 정부의 정책 역량 결집",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1순위",
+            "label": "정책 목표"
+          },
+          {
+            "value": "비상",
+            "label": "경제 상황"
+          },
+          {
+            "value": "총력",
+            "label": "대응 의지"
+          }
+        ],
+        "main_number": "민생 집중",
+        "main_text": "경제 활력 회복 및 국민 삶 개선"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한성숙 국무총리 후보자가 '당면한 민생 경제 비상 상황을 타개하는 데 총력을 기울이겠다'고 밝혔다. 정부 출범 1주년을 맞아 혁신 성장, 민생경제 회복, 미래 산업 경쟁력 강화 등에 정책 역량을 집중하겠다는 메시지를 강조했다.",
+        "points": [
+          "한성숙 총리 후보자, 민생 경제 비상 상황 타개 강조",
+          "혁신 성장 및 민생경제 회복에 정책 역량 집중",
+          "미래 산업 경쟁력 강화를 위한 노력",
+          "사회 각계각층의 목소리 경청 및 갈등 해결 의지"
+        ],
+        "quote": "제가 국무총리의 중책을 맡게 된다면 먼저 당면한 민생 경제 비상 상황을 타개하는데 총력을 기울이겠습니다.",
+        "context": "고물가, 고금리 등으로 어려운 국민들의 경제적 부담을 완화하고, 장기적인 경제 성장을 위한 기반을 마련하는 것이 새 총리의 최우선 과제가 될 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/014/0005531683?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=68037&nologo=true"
+    },
+    {
+      "id": "economy-krw-usd-exchange-rate",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "원/달러 환율 1,555.2원 기록, 17년 3개월 만에 최고치",
+      "subtitle": "금융시장 변동성 심화 속 환율 급등에 당국 개입 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1,555.2원",
+            "label": "현재 환율"
+          },
+          {
+            "value": "17년 3개월",
+            "label": "최고치 기록"
+          },
+          {
+            "value": "긴급 회의",
+            "label": "정부 대응"
+          }
+        ],
+        "main_number": "+1.5%",
+        "main_text": "개장 직후 급등세"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "원/달러 환율이 개장과 동시에 1,555.2원까지 치솟으며 17년 3개월 만에 최고치를 기록했다. 구윤철 부총리 겸 재정경제부 장관을 비롯한 금융 당국은 전날 긴급 회의를 열어 환율 쏠림 현상을 좌시하지 않겠다고 밝혀, 시장 안정화에 대한 정부의 의지를 피력했다.",
+        "points": [
+          "원/달러 환율, 1,555.2원 개장하며 최고치 기록",
+          "17년 3개월 만에 가장 높은 수준 도달",
+          "금융 당국, 환율 쏠림 현상에 대한 적극적 개입 예고",
+          "한국 경제 핵심 산업인 반도체 수출에 영향 우려"
+        ],
+        "quote": "과도한 쏠림에 대해서는 필요한 조치를 다할 것이며, 시장을 면밀히 모니터링해 안정적인 금융시장을 유지할 것.",
+        "context": "미국 고용지표 강세로 인한 연준의 금리 인상 가능성 부각, 미 반도체 주식 급락 등 대외 변수에 한국 경제의 핵심인 반도체 산업의 불안정성이 더해지면서 환율 변동성이 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016124907?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19485&nologo=true"
+    },
+    {
+      "id": "economy-nyse-cpi-spacex",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "calendar",
+      "title": "주간 뉴욕 증시, 금리 인상 우려 속 CPI 발표에 촉각",
+      "subtitle": "이번 주 주요 경제지표 발표와 스페이스X 상장 등 시장 변동성 요인 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5월",
+            "label": "기대인플레이션"
+          },
+          {
+            "value": "CPI",
+            "label": "주요 지표"
+          },
+          {
+            "value": "상장",
+            "label": "스페이스X"
+          }
+        ],
+        "main_number": "금리 인상",
+        "main_text": "FOMC 회의록 및 고용지표 발표"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "이번 주 뉴욕 증시는 금리 인상 우려와 함께 소비자물가지수(CPI) 발표에 촉각을 세우고 있다. 8일 5월 1년 기대인플레이션, 9일 FOMC 회의록 공개, 10일 스페이스X 상장 루머 등이 예정되어 시장의 주요 변동성 요인으로 작용할 전망이다.",
+        "points": [
+          "이번 주 뉴욕 증시, 금리 인상 우려 및 CPI 발표 주목",
+          "8일 5월 1년 기대인플레이션 발표 예정",
+          "9일 연방공개시장위원회(FOMC) 회의록 공개",
+          "스페이스X 상장 루머 및 주요 기업 실적 발표"
+        ],
+        "quote": "다음은 이번 주 주요 경제지표 발표 일정이다.",
+        "context": "최근 발표된 예상보다 강한 미국 고용지표로 인해 연방준비제도(Fed)의 금리 인상 가능성이 높아지면서 시장 불확실성이 증대되고 있다. CPI 결과에 따라 Fed의 정책 방향 예측이 더욱 명확해질 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0013992469?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10430&nologo=true"
+    },
+    {
+      "id": "tech-skhynix-nvidia-fab",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "flow_chart",
+      "title": "SK하이닉스, 엔비디아와 ‘완전 자율 팹’ 구축 AI 동맹",
+      "subtitle": "SK하이닉스, AI 인프라 고도화 및 전 세계 AI 인프라 구축 수요 대응",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 팹",
+            "label": "구축 목표"
+          },
+          {
+            "value": "장기",
+            "label": "파트너십"
+          },
+          {
+            "value": "AI 메모리",
+            "label": "주요 제품"
+          }
+        ],
+        "main_number": "선제적",
+        "main_text": "글로벌 AI 인프라 시장 선도"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "SK하이닉스가 엔비디아와 장기 기술 파트너십을 체결하여 '완전 자율 팹' 구축에 나선다. 이를 통해 엔비디아의 AI 인프라 로드맵과 전 세계 AI 인프라 구축 수요에 부합하는 메모리를 지속 공급하며 AI 시대 핵심 기술 주도권을 강화할 계획이다.",
+        "points": [
+          "SK하이닉스, 엔비디아와 장기 기술 파트너십 체결",
+          "AI 기반 '완전 자율 팹(Fab)' 구축 추진",
+          "엔비디아의 AI 인프라 로드맵에 맞춘 메모리 공급",
+          "AI 인프라, 퍼스널 AI, 피지컬 AI 등 엔비디아의 전 영역 협력"
+        ],
+        "quote": "AI 인프라 로드맵과 전 세계 AI 인프라 구축 수요에 부합하는 메모리를 지속 공급해 나갈 것.",
+        "context": "AI 기술 발전과 함께 데이터센터 및 AI 팹의 중요성이 커지는 상황에서, SK하이닉스는 엔비디아와의 협력을 통해 차세대 메모리 기술을 선점하고 AI 시대의 핵심 공급망 역할을 공고히 하려는 전략이다.",
+        "source_url": "http://www.breaknews.com/1212458"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60351&nologo=true"
+    },
+    {
+      "id": "tech-naver-nvidia-aifactory",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "network_graph",
+      "title": "네이버-엔비디아, 기가와트급 글로벌 AI 팩토리 구축 협력",
+      "subtitle": "각국 독자적인 소버린 AI 역량 구축을 위한 구체적인 대안 제시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "기가와트급",
+            "label": "규모"
+          },
+          {
+            "value": "글로벌",
+            "label": "범위"
+          },
+          {
+            "value": "AI 팩토리",
+            "label": "개념"
+          }
+        ],
+        "main_number": "소버린 AI",
+        "main_text": "각국의 독립적 AI 역량 지원"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "네이버와 엔비디아가 기가와트급 글로벌 AI 팩토리 구축을 위한 협력을 발표했다. 이는 전 세계 각국이 독자적인 소버린 AI 역량을 구축할 수 있는 구체적인 대안을 제시하며, 네이버의 기술 인프라 경쟁력을 글로벌 시장으로 확장하는 계기가 될 것으로 기대된다.",
+        "points": [
+          "네이버-엔비디아, 기가와트급 글로벌 AI 팩토리 구축",
+          "각국 독자적인 '소버린 AI' 역량 구축 지원",
+          "네이버의 기술 인프라 글로벌 시장 도약 계기",
+          "AI 모델 학습 및 서비스 개발에 필요한 인프라 제공"
+        ],
+        "quote": "전 세계 각국이 독자적인 소버린 AI 역량을 구축할 수 있는 구체적인 대안을 제시할 수 있게 됐다.",
+        "context": "국가별 AI 주권 및 데이터 보호의 중요성이 커지는 가운데, 네이버와 엔비디아의 협력은 특정 국가에 종속되지 않고 자체적인 AI 기술력을 확보하려는 국가들에게 중요한 대안을 제공할 수 있다.",
+        "source_url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843125"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58584&nologo=true"
+    },
+    {
+      "id": "tech-ai-gaming-limitations",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 가능성과 한계: 게임 업계가 NDC를 주목하는 이유",
+      "subtitle": "AI 생산성 향상과 함께 고용 구조 위협 등 잠재적 부작용 분석",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "생산성",
+            "label": "주요 장점"
+          },
+          {
+            "value": "고용 구조",
+            "label": "주요 우려"
+          },
+          {
+            "value": "NDC",
+            "label": "주목 행사"
+          }
+        ],
+        "main_number": "양면성",
+        "main_text": "AI 기술의 빛과 그림자"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI 상용화는 IT 업계 전체의 대세로 자리 잡았지만, 생산성 향상과 더불어 기업 생태계와 고용 구조를 위협하는 잠재적 부작용도 지적되고 있다. 게임 업계는 NDC(넥슨 개발자 컨퍼런스)를 통해 AI의 가능성과 한계를 심층적으로 논의하며 지속 가능한 활용 방안을 모색한다.",
+        "points": [
+          "AI 상용화의 가속화 및 IT 업계 전반의 대세화",
+          "생산성 향상이라는 긍정적 측면",
+          "기업 생태계 및 고용 구조 위협 등 잠재적 부작용",
+          "게임 업계, AI의 가능성과 한계에 대한 심층적 논의 필요성 인식"
+        ],
+        "quote": "기술 확산 속도만큼이나 장기적으로 기업 생태계와 고용 구조를 위협하는 잠재적 부작용이 크다.",
+        "context": "AI 기술이 급속도로 발전하면서 여러 산업 분야에서 활용이 확대되고 있지만, 인간의 역할을 대체하고 사회 경제적 불균형을 초래할 수 있다는 우려 또한 커지고 있어 균형 있는 접근이 필요하다.",
+        "source_url": "https://www.tleaves.co.kr/news/articleView.html?idxno=9369"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27352&nologo=true"
+    },
+    {
+      "id": "society-president-press-conference",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "노년 치매 사회적 비용 1조 9천억원, 예방 노력 시급",
-      "subtitle": "입원 원인 1위 백내장, 사회적 교류 중요성 부각",
+      "title": "李 대통령, 취임 1주년 기자회견…사회문화 분야 의견 표명",
+      "subtitle": "민생경제, 정치·외교·안보, 사회문화 등 3개 분야 질의응답 진행",
       "viz_data": {
         "stats": [
           {
-            "value": "1조9000억",
-            "label": "치매 사회적 비용"
+            "value": "1주년",
+            "label": "취임 기간"
           },
           {
-            "value": "1위",
-            "label": "백내장 입원 원인"
-          }
-        ],
-        "main_number": "↑",
-        "main_text": "고령화 사회, 치매 및 노인 질환 부담 증가"
-      },
-      "image_prompt": "cute pastel infographic illustration, a pie chart showing breakdown of healthcare costs, elderly people interacting socially, no text",
-      "detail": {
-        "summary": "노년층 치매로 인한 사회적 비용이 연간 1조 9천억원에 달하며, 입원 원인 1위는 백내장으로 나타나 고령화 사회의 건강 문제에 대한 깊은 논의가 필요하다.",
-        "points": [
-          "노년층 치매 사회적 비용 1조 9천억원 추산",
-          "노년층 입원 원인 1위는 백내장",
-          "치매 예방에 사회적 교류의 긍정적 영향 강조",
-          "가족/친구와의 대화, 동호회, 봉사활동 등 권장",
-          "고혈압, 당뇨병, 고지혈증 등 만성질환 관리의 중요성"
-        ],
-        "quote": "특히 사회적 교류 역시 치매 예방에 긍정적인 영향을 준다. 가족이나 친구와의 대화, 동호회 활동, 봉사활동 등은 정서적 안정과 함께 인지 기능 유지에 도움을 준다.",
-        "context": "한국은 빠르게 고령화 사회로 진입하면서 노년층의 건강 문제, 특히 치매와 같은 질환으로 인한 사회적·경제적 부담이 커지고 있다. 질병 치료뿐만 아니라 사회적 활동과 예방적 관리가 중요함을 시사하며, 이에 대한 국가적 정책과 개인의 노력이 요구된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004133676?sid=103"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20pie%20chart%20showing%20breakdown%20of%20healthcare%20costs%2C%20elderly%20people%20interacting%20socially%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25208&nologo=true"
-    },
-    {
-      "id": "life-001",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "timeline_with_icons",
-      "title": "52살 키티·76살 스누피·81살 무민…장수 캐릭터의 생존 비법",
-      "subtitle": "세대별 공략 및 라이프스타일 확장으로 진화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "81년",
-            "label": "최장수 캐릭터"
+            "value": "100분",
+            "label": "회견 시간"
           },
           {
-            "value": "20억 달러",
-            "label": "연간 매출 (키티)"
+            "value": "3분야",
+            "label": "주요 의제"
           }
         ],
-        "main_number": "Evergreen",
-        "main_text": "캐릭터 IP, 다양한 연령층과 시장으로 확장"
+        "main_number": "소통 강화",
+        "main_text": "청년 세대와의 직접 소통"
       },
-      "image_prompt": "cute pastel infographic illustration, a timeline showing Hello Kitty, Snoopy, Moomin characters with their ages, different product categories, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "50년 이상 사랑받는 장수 캐릭터인 키티, 스누피, 무민이 각기 다른 전략으로 세대를 넘어 새로운 라이프스타일 시장을 개척하며 생존 비법을 공개했다.",
+        "summary": "이 대통령은 취임 1주년 기자회견에서 민생경제, 정치·외교·안보, 사회문화 등 세 분야로 나눠 약 100분간 기자들의 질문에 직접 답변했다. 특히 청년 세대와의 소통을 위해 대학 언론 소속 대학생 기자 2명도 초청해 질문 기회를 제공했다.",
         "points": [
-          "헬로키티 (52세), 스누피 (76세), 무민 (81세) 등 장수 캐릭터 조명",
-          "키티는 Z세대 공략 및 20억 달러 연간 매출",
-          "스누피는 명품 시계, 감성 굿즈로 '키덜트' 시장 선점",
-          "무민은 친환경 리빙, 미디어아트 전시로 3040세대 공략",
-          "캐릭터 IP의 라이프스타일 브랜드 확장 전략"
+          "이 대통령, 취임 1주년 기자회견 개최",
+          "민생경제, 정치·외교·안보, 사회문화 3대 분야 질문",
+          "약 100분간 기자 및 대학생 기자와 직접 소통",
+          "지난 6개월 간의 국정운영 성과와 비전 제시"
         ],
-        "quote": "과거에는 '이국적인 콘텐츠'로 소비됐다면 이제는 패션과 라이프스타일, 밈(meme)까지 확장되는 '문화 코드'로 작동한다.",
-        "context": "캐릭터 산업은 단순히 아동용 콘텐츠를 넘어 전 연령층이 즐기는 라이프스타일 전반으로 확장되고 있다. 장수 캐릭터들은 끊임없는 변화와 타겟 세대별 맞춤 전략을 통해 새로운 가치를 창출하며 문화 콘텐츠 시장에서 강력한 영향력을 유지하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/243/0000098813?sid=101"
+        "quote": "국민들의 삶에 직접적인 영향을 미치는 정책들을 최우선으로 추진해 나가겠습니다.",
+        "context": "대통령 취임 1주년을 맞아 국정 운영 전반에 대한 평가와 향후 비전을 제시하는 중요한 자리로, 다양한 사회적 이슈에 대한 대통령의 인식을 엿볼 수 있는 기회였다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004628612?sid=100"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20timeline%20showing%20Hello%20Kitty%2C%20Snoopy%2C%20Moomin%20characters%20with%20their%20ages%2C%20different%20product%20categories%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55137&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=75783&nologo=true"
     },
     {
-      "id": "life-002",
+      "id": "society-dating-app-politics",
       "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
+      "category": "society",
+      "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "저출산 시대의 역설, '골드키즈'가 키운 2조 시장",
-      "subtitle": "MZ세대 부모의 가치 소비, 프리미엄 유아동 시장 성장",
+      "title": "소개팅 앱에서 정치 성향부터 본다고? 연애의 '정치 양극화'",
+      "subtitle": "독일 연구팀, 데이팅 앱 사용자 분석으로 연애 속 정치 양극화 현상 확인",
       "viz_data": {
         "stats": [
           {
-            "value": "2조원",
-            "label": "시장 규모"
+            "value": "독일",
+            "label": "연구 국가"
           },
           {
-            "value": "1.02억",
-            "label": "유아동복 매출"
+            "value": "미국",
+            "label": "분석 대상"
+          },
+          {
+            "value": "영향",
+            "label": "가치관, 라이프스타일"
           }
         ],
-        "main_number": "↑",
-        "main_text": "MZ세대 부모, 자녀에 대한 투자 아끼지 않아"
+        "main_number": "양극화",
+        "main_text": "사회적 갈등이 연애에 영향"
       },
-      "image_prompt": "cute pastel infographic illustration, pie chart showing market segments for kids products, happy family with child, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "낮은 출생률에도 불구하고 '골드키즈' 현상으로 인해 유아동 시장이 2조원 규모로 성장했으며, MZ세대 부모의 가치 소비가 이를 견인하고 있다.",
+        "summary": "독일 연구팀의 미국 데이팅 앱 심층 분석 결과, 젊은 세대들이 소개팅 앱에서 상대방의 정치 성향을 중요하게 여기며 연애에도 '정치 양극화' 현상이 나타나고 있는 것으로 드러났다. 민주당 지지자가 공화당 지지자를 무조건 기피하는 경향이 관찰되었다.",
         "points": [
-          "낮은 출생률에도 유아동 시장 2조원 규모로 성장",
-          "자녀 한 명에게 아낌없이 투자하는 '골드키즈' 트렌드",
-          "MZ세대 부모, 자녀 패션을 통해 가족 라이프스타일 표현",
-          "패밀리룩, 시밀러룩, 미니미룩 등 적극 활용",
-          "고품질, 브랜드 유아동복 매출 증가"
+          "데이팅 앱에서 정치 성향이 중요한 판단 기준으로 작용",
+          "독일 연구팀, 미국 데이팅 앱 사용자 심층 분석",
+          "민주당 지지자, 공화당 지지자 기피 현상 확인",
+          "정치 양극화가 사회적 갈등을 넘어 연애와 배우자 선택에도 영향"
         ],
-        "quote": "실제로 최근 유아동 패션은 단순히 아이가 입는 옷을 넘어 부모와 가족의 라이프스타일을 보여주는 소비재로 자리매김했다.",
-        "context": "저출산으로 전체 인구는 감소하지만, 자녀 수가 적어지면서 한 자녀에 대한 부모의 투자와 관심은 오히려 증폭되고 있다. 특히 경제력을 갖춘 MZ세대 부모들은 자녀를 위한 고품질 프리미엄 제품 구매에 적극적이며, 이는 유아동 시장의 새로운 성장 동력이 되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/648/0000047781?sid=101"
+        "quote": "정치 성향은 상대방의 가치관, 라이프스타일을 대변하는 중요한 지표로 인식됩니다.",
+        "context": "정치적 양극화가 심화되면서 개인의 정치적 신념이 사회적 관계를 형성하는 데 있어 중요한 변수로 작용하고 있으며, 이는 연애 시장에서도 예외가 아님을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005690526?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20pie%20chart%20showing%20market%20segments%20for%20kids%20products%2C%20happy%20family%20with%20child%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=77459&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=47854&nologo=true"
     },
     {
-      "id": "life-003",
+      "id": "society-daewoo-const-csr",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "area_chart",
+      "title": "대우건설, 임직원 100여 명 참여 중랑천 생태복원 활동 전개",
+      "subtitle": "환경의 날 맞아 지역사회와 협력하여 도시 생태계 회복 지원",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100여 명",
+            "label": "참여 인원"
+          },
+          {
+            "value": "중랑천",
+            "label": "활동 지역"
+          },
+          {
+            "value": "5일",
+            "label": "환경의 날"
+          }
+        ],
+        "main_number": "생물 다양성",
+        "main_text": "증진을 위한 생태복원"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "대우건설이 환경의 날인 5일, 서울 성동구 중랑천 일대에서 성동구청 및 사회적협동조합 한강과 함께 임직원 100여 명이 참여하는 생태복원 활동을 진행했다. 이번 행사는 중랑천 생태복원 사업의 일환으로, 도시 생태계 회복과 생물다양성 증진에 기여하는 데 목적이 있다.",
+        "points": [
+          "대우건설 임직원 100여 명, 중랑천 생태복원 활동 참여",
+          "성동구청 및 사회적협동조합 한강과 협력",
+          "환경의 날(6월 5일) 기념 행사 진행",
+          "도시 생태계 회복 및 생물다양성 증진 목표"
+        ],
+        "quote": "지역사회와 협력해 도시 생태계 회복과 생물다양성 증진을 위한 직접적이고 지속 가능한 활동을 이어갈 것.",
+        "context": "기업의 사회적 책임(CSR) 활동의 일환으로, 환경 보호와 지역사회 공헌을 통해 지속 가능한 발전에 기여하려는 노력을 보여준다. 특히 환경의 날에 맞춰 진행되어 의미를 더한다.",
+        "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458241"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98599&nologo=true"
+    },
+    {
+      "id": "life-cruise-tourism",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "위버스콘 페스티벌, 세대·장르 대통합 'K 컬처 용광로' 입증",
-      "subtitle": "하이브 주최 뮤직&팬 라이프 페스티벌 성료",
+      "title": "관광공사, 크루즈 관광객 200만명 조기 달성 추진",
+      "subtitle": "2026 크루즈관광 활성화 계획 발표 및 마케팅 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "4회째",
-            "label": "개최 횟수"
+            "value": "200만명",
+            "label": "목표 관광객"
           },
           {
-            "value": "2일",
-            "label": "진행 기간"
+            "value": "2026년",
+            "label": "계획 발표"
           },
           {
-            "value": "다양",
-            "label": "참여 아티스트"
+            "value": "마케팅",
+            "label": "강화 전략"
           }
         ],
-        "main_number": "K-Pop",
-        "main_text": "팬덤 넘어 대중 문화 축제로 자리매김"
+        "main_number": "조기 달성",
+        "main_text": "크루즈 관광 시장 성장 가속화"
       },
-      "image_prompt": "cute pastel infographic illustration, a vibrant music festival scene with diverse crowd and stage, K-pop idols, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "하이브가 주최하는 '위버스콘 페스티벌'이 다양한 세대와 장르의 아티스트 및 팬들이 함께 즐기는 K-컬처 축제로 성공적으로 마무리되었다.",
+        "summary": "한국관광공사가 문화체육관광부와 함께 '2026 크루즈관광 활성화 계획'을 발표하고 크루즈 관광객 200만명 시대를 조기 달성하기 위한 마케팅 강화에 나섰다. 부산항 입항 글로벌 크루즈선 환영 행사 등 다양한 프로모션을 통해 크루즈 관광 시장을 확대할 예정이다.",
         "points": [
-          "하이브 주최 '2026 위버스콘 페스티벌' 이틀간 서울에서 개최",
-          "비, 김재중 등 1세대 아이돌부터 4세대 걸그룹까지 참여",
-          "뮤직&팬 라이프 페스티벌을 표방하며 팬덤 문화 확장",
-          "다양한 세대와 장르를 아우르는 'K 컬처 용광로' 역할",
-          "음악을 넘어 팬 경험과 라이프스타일을 연결하는 새로운 문화 트렌드 제시"
+          "한국관광공사, 크루즈 관광객 200만명 조기 달성 목표",
+          "문화체육관광부와 '2026 크루즈관광 활성화 계획' 발표",
+          "기항지 박람회 참가 및 선사 팸투어 등 마케팅 강화",
+          "지자체, 항만공사 등 유관기관과 협력 강화"
         ],
-        "quote": "세대와 장르 대통합 'K 컬처 용광로' 된 '위버스콘 페스티벌'",
-        "context": "K-팝을 필두로 한 K-컬처는 전 세계적으로 강력한 영향력을 행사하고 있으며, 단순 음악 소비를 넘어 팬덤 기반의 다양한 라이프스타일과 연계되고 있다. 위버스콘과 같은 대형 페스티벌은 이러한 흐름을 집약적으로 보여주며, K-컬처의 지속적인 확장을 예고한다.",
-        "source_url": "https://m.entertain.naver.com/article/382/0001277069"
+        "quote": "크루즈 관광객 200만명 시대 조기 달성을 위해 관계기관과 긴밀히 협력해 나갈 것.",
+        "context": "코로나19 팬데믹 이후 회복세에 있는 크루즈 관광 시장에서 한국의 매력을 알리고 국내 경제 활성화에 기여하기 위한 정부 차원의 전략적인 노력이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016124905?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20vibrant%20music%20festival%20scene%20with%20diverse%20crowd%20and%20stage%2C%20K-pop%20idols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=64002&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=89564&nologo=true"
+    },
+    {
+      "id": "life-alzheimers-diagnosis",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "피플바이오, 알츠하이머 조기진단 의료기기 美 FDA 혁신 의료기기 지정 신청 완료",
+      "subtitle": "8월 결과 기대, AI 인프라 사업과 시너지 창출 계획",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "FDA",
+            "label": "지정 신청"
+          },
+          {
+            "value": "알츠온 플러스",
+            "label": "제품명"
+          },
+          {
+            "value": "8월",
+            "label": "결과 발표"
+          }
+        ],
+        "main_number": "조기진단",
+        "main_text": "치매 극복의 핵심"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "피플바이오가 알츠하이머 조기진단 의료기기 '알츠온 플러스'에 대해 미국 FDA 혁신 의료기기 지정을 신청했다. 8월 중 결과 발표를 기대하며, 알츠하이머 조기진단 사업을 기반으로 건강 및 라이프 데이터를 연결하는 데이터 생태계 구축과 AI 인프라 사업과의 시너지를 통해 새로운 성장 동력을 확보할 계획이다.",
+        "points": [
+          "알츠하이머 조기진단 의료기기 美 FDA 혁신 의료기기 지정 신청",
+          "8월 중 지정 결과 발표 기대",
+          "40·50·60대 건강 및 라이프 데이터 연결 생태계 구축",
+          "AI 인프라 사업과의 시너지를 통한 성장 동력 확보"
+        ],
+        "quote": "알츠하이머 조기진단 사업을 기반으로 40·50·60대의 건강 데이터와 라이프 데이터를 연결하는 데이터 생태계를 구축하고, AI 인프라 사업과의 시너지를 통해 새로운 성장동력을 확보해 나가겠다.",
+        "context": "알츠하이머는 조기 진단이 매우 중요한 질병으로, FDA 혁신 의료기기 지정은 개발 중인 의료기기가 심각한 질병의 치료 또는 진단에 상당한 이점을 제공할 가능성이 있을 때 부여된다. 이는 제품의 상업화 및 시장 진입에 큰 영향을 미칠 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/015/0005295941?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49692&nologo=true"
+    },
+    {
+      "id": "life-ocean-exhibition",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "timeline",
+      "title": "충무아트센터, 내셔널지오그래픽 특별전 '오션 : 가장 거대한 기록' 개최",
+      "subtitle": "디즈니코리아와 협업, 해양 아카이브 및 XR 벨루가 체험 등 몰입형 콘텐츠",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10월 11일",
+            "label": "전시 기간"
+          },
+          {
+            "value": "3구역",
+            "label": "구성"
+          },
+          {
+            "value": "XR",
+            "label": "체험 기술"
+          }
+        ],
+        "main_number": "해양 기록",
+        "main_text": "가장 거대한 바다의 이야기"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "서울 충무아트센터 갤러리에서 내셔널지오그래픽 특별기획전 '오션 : 가장 거대한 기록'이 오는 10월 11일까지 진행된다. 디즈니코리아와 협업한 이번 전시는 '체인지', '액트', '라이프' 세 구역으로 구성되며, XR 벨루가 체험, 청음 공간 등 몰입형 콘텐츠를 제공한다.",
+        "points": [
+          "충무아트센터, 내셔널지오그래픽 '오션' 특별전 개최",
+          "디즈니코리아와 협업, 해양 아카이브 집중 조명",
+          "'체인지', '액트', '라이프' 3개 구역 구성",
+          "XR 벨루가 체험, 청음 공간 등 몰입형 콘텐츠 제공"
+        ],
+        "quote": "바다의 아름다움을 넘어 우리에게 던지는 질문과 해양 생태계 보호의 중요성을 전달하는 전시입니다.",
+        "context": "기후 변화와 해양 오염 문제에 대한 인식이 높아지는 가운데, 대규모 전시를 통해 대중에게 해양 환경의 중요성을 알리고 보전 의식을 고취하는 데 기여할 것으로 기대된다.",
+        "source_url": "https://www.seoulfn.com/news/articleView.html?idxno=630541"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66503&nologo=true"
     }
   ],
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T08:09:59.142009+09:00"
+  "generated_at": "2026-06-08T09:25:42.020096+09:00"
 }
