@@ -1,569 +1,606 @@
 {
   "cards": [
     {
-      "id": "world-us-iran-policy",
+      "id": "world-nk-china-legacy",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "comparison_chart",
-      "title": "美·이스라엘, 이란 정책 '엇갈린 이해관계'",
-      "subtitle": "트럼프 '종전' vs 네타냐후 '전쟁 지속' 정치적 계산",
+      "viz_type": "relationship_map",
+      "title": "북중 전략적 공조 심화, 김정은 핵보유국 인정 뜻 이뤄",
+      "subtitle": "중국의 비핵화 침묵 속, 김정은은 핵보유국 인정이라는 숙원을 달성해.",
       "viz_data": {
         "stats": [
           {
-            "value": "8일",
-            "label": "여론조사"
+            "value": "핵보유국",
+            "label": "김정은 목표"
           },
           {
-            "value": "선거",
-            "label": "주요 변수"
+            "value": "전략적 공조",
+            "label": "북중 관계"
+          },
+          {
+            "value": "추가 회담 전망",
+            "label": "트럼프"
           }
         ],
-        "main_number": "대치",
-        "main_text": "미국-이스라엘 지도자 간 이란전 시각 차이"
+        "main_number": "2026년",
+        "main_text": "중국 침묵 속 북한 핵보유국 지위 강화"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "이란전을 두고 트럼프 전 대통령은 종료를 주장하는 반면, 네타냐후 이스라엘 총리는 지속을 선호하며 상반된 정치적 입장을 보이고 있습니다. 이는 각국의 내부 정치 상황과 연계되어 있습니다.",
+        "summary": "중국의 비핵화 침묵이 김정은 위원장이 핵보유국으로 인정받으려는 뜻을 이루는 데 도움이 되었다는 분석. 트럼프 전 대통령의 재집권 시 추가 북미 회담 추진 가능성도 제기.",
         "points": [
-          "트럼프, 이란전 지속에 대한 정치적 부담으로 종전 선호",
-          "네타냐후, 이란전 지속을 통한 정치적 입지 강화 시도",
-          "양국 지도자 모두 선거를 앞두고 있어 정치적 계산 복잡",
-          "로이터-입소스 여론조사 등 대중 여론도 영향"
+          "중국, 북한 비핵화 언급 없이 경제 협력 초점",
+          "김정은, 핵보유국 지위 인정 목표",
+          "트럼프, 정치적 유산 위해 추가 회담 가능성"
         ],
-        "quote": "이번 사태로 몇 달 안 나란히 선거를 앞둔 트럼프 대통령과 베냐민 네타냐후 이스라엘 총리의 정치적 상황이 복잡하게 얽혀 있다.",
-        "context": "중동의 긴장감이 고조되는 가운데, 미국과 이스라엘 양국 지도자의 이란 정책 방향이 상이한 것은 국제 정세에 중대한 영향을 미치고 있습니다. 이는 각국 내부의 정치적 역학 관계와 맞물려 있으며, 향후 중동의 안정에 핵심 변수가 될 것입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/002/0002444530?sid=104"
+        "quote": "중국과 북한의 전략적 공조가 심화되고 있다.",
+        "context": "국제 사회의 비핵화 노력에도 불구하고 북한의 핵 프로그램은 지속되고 있으며, 중국의 외교적 스탠스가 북한에 유리하게 작용하고 있음.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016129436?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63353&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66455&nologo=true"
     },
     {
-      "id": "world-korea-eu-summit",
+      "id": "world-us-kr-jp-cooperation",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "summary_list",
-      "title": "韓-EU 정상회담, 경제·안보 협력 강화",
-      "subtitle": "세계 최대 무역 블록 EU와 무역 및 공급망 논의",
+      "viz_type": "network_diagram",
+      "title": "美 하원, 한·미·일 3자 협력법안 통과…의회 간 연례 대화 제도화",
+      "subtitle": "국방, 경제 안보, 신기술 등 공동 현안 논의 위한 의회 간 정기 대화 제도화.",
       "viz_data": {
         "stats": [
           {
-            "value": "125주년",
-            "label": "수교 기념"
+            "value": "3국",
+            "label": "참여국"
           },
           {
-            "value": "5가지",
-            "label": "주요 의제"
+            "value": "정기",
+            "label": "대화 주기"
+          },
+          {
+            "value": "8월 2023",
+            "label": "캠프 데이비드"
           }
         ],
-        "main_number": "확대",
-        "main_text": "EU와 경제 및 안보 분야 협력 지평 확대"
+        "main_number": "3대 핵심 분야",
+        "main_text": "안보, 경제, 기술 분야 협력 강화"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "이재명 대통령이 벨기에와 유럽연합(EU) 정상회담을 통해 무역, 공급망, 안보 분야 협력을 논의합니다. 이는 세계 최대 무역 블록과의 경제 교류를 강화하고 한반도 및 중동 정세에 대한 공조를 모색하는 자리입니다.",
+        "summary": "미국 하원에서 한·미·일 의원들이 정기적으로 만나 국방, 경제 안보, 신기술 등 공동 관심 현안을 논의하는 3자 협력법안이 통과됨.",
         "points": [
-          "벨기에·EU와 경제 교류 강화 논의",
-          "마약·테러 등 초국가 범죄 안보 협력 확대",
-          "한반도 및 중동 지역 정세 공조 방안",
-          "에너지·광물 공급망 관련 협력 논의"
+          "캠프 데이비드 정상회의 후속 조치",
+          "국방, 경제 안보, 신기술 분야 협력",
+          "의회 간 정례 대화 채널 구축"
         ],
-        "quote": "세계 최대 무역 블록인 EU와의 경제 교류 강화, 마약·테러와 초국가 범죄 등 안보 분야의 협력 확대 등이 논의됩니다.",
-        "context": "대한민국이 세계 주요 경제 및 안보 파트너인 EU와 협력을 강화하는 것은 글로벌 경제 불확실성 속에서 공급망 안정화와 안보 협력 확대를 위한 중요한 외교적 노력입니다. 이는 한국의 위상을 높이고 지속 가능한 발전을 도모하는 데 기여할 것입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/055/0001363047?sid=100"
+        "quote": "캠프 데이비드 정신을 이어받아 3국 협력을 더욱 심화할 것.",
+        "context": "2023년 캠프 데이비드 한·미·일 정상회의 이후 3국 간 안보 및 경제 협력 강화 흐름이 의회 차원으로 확대되는 중요한 진전.",
+        "source_url": "https://n.news.naver.com/mnews/article/469/0000935593?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38973&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=2107&nologo=true"
     },
     {
-      "id": "world-china-subsidies",
+      "id": "world-us-iran-airstrike",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "flow_chart",
-      "title": "중국 보조금 정책, 글로벌 경제 질서 재편",
-      "subtitle": "정부 주도 '보조금 기계'가 세계 자유시장 자본주의에 미치는 영향",
+      "viz_type": "timeline",
+      "title": "미군, 이란에 보복 공습 개시…중동 긴장 고조",
+      "subtitle": "아파치 헬기 격추에 대한 자위적 대응으로 이란 내 목표물 타격.",
       "viz_data": {
         "stats": [
           {
-            "value": "OECD",
-            "label": "보고서 지적"
+            "value": "1건",
+            "label": "격추 사건"
           },
           {
-            "value": "글로벌",
-            "label": "시장 영향"
+            "value": "보복 공습",
+            "label": "미군 대응"
+          },
+          {
+            "value": "긴장 고조",
+            "label": "중동 정세"
           }
         ],
-        "main_number": "재편",
-        "main_text": "중국 정책이 글로벌 무역과 산업 경쟁에 변화를 가져온다"
+        "main_number": "트럼프",
+        "main_text": "전 대통령도 보복 가능성 시사"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "중국 정부의 대규모 보조금 정책이 자유시장 자본주의의 근간을 흔들고 있으며, 서방 경제권은 이에 대한 근본적인 대응 선택에 직면했습니다. 이는 글로벌 무역 질서와 산업 경쟁에 큰 영향을 미치고 있습니다.",
+        "summary": "미군이 이란에 보복 공습을 개시하며 중동 지역의 긴장이 고조되고 있음. 아파치 헬기 격추에 대한 자위적 대응이라고 밝힘.",
         "points": [
-          "중국 정부의 보조금, 기업들에게 '무한한 자원' 제공",
-          "자유시장 원칙 훼손 및 글로벌 경쟁 왜곡",
-          "OECD 통상 보고서 등에서 문제점 지적",
-          "서방 경제권의 관세 장벽 외 근본적 대응 모색 필요"
+          "미국, 이란 내 목표물 공습",
+          "아파치 헬기 격추 사건에 대한 보복",
+          "트럼프 전 대통령도 보복 필요성 강조"
         ],
-        "quote": "중국 정부가 기업들에게 제공하는 '보조금 기계'는 서방의 자유시장 자본주의 근간을 뿌리째 흔들고 있다.",
-        "context": "중국의 국가 주도 경제 시스템과 서방의 자유시장 경제 시스템 간의 충돌은 단순한 무역 분쟁을 넘어 글로벌 경제 질서의 재편을 야기하고 있습니다. 이러한 변화는 각국의 산업 정책, 공급망 전략, 그리고 장기적인 국제 관계에 심대한 영향을 미칠 것입니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026060917571347880c8c1c064d_1"
+        "quote": "미국은 불가피하게 이번 공격에 대응해야만 한다.",
+        "context": "중동 지역에서 미국의 군사적 주둔과 이란의 영향력 확대가 충돌하면서 정기적으로 군사적 긴장이 발생하고 있으며, 이번 공습은 그 최신 사례.",
+        "source_url": "https://n.news.naver.com/mnews/article/448/0000618298?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6743&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23991&nologo=true"
     },
     {
-      "id": "economy-oil-import-china",
-      "is_headline": true,
+      "id": "economy-debt-investment-risk",
+      "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "中 5월 석유 수입 8년 만에 최저, 유가 안정에 영향",
-      "subtitle": "글로벌 유가 상승 억제하는 중국의 수요 둔화",
+      "title": "'빚투' 자금 64조원, 역대급 증시 변동성에 개미들 반대매매 공포",
+      "subtitle": "국내 증시 급락과 함께 신용융자 '빚투' 자금이 쌓이며 반대매매 우려 확산.",
       "viz_data": {
         "stats": [
           {
-            "value": "8년",
-            "label": "최저 기록"
+            "value": "64조원",
+            "label": "빚투 자금"
           },
           {
-            "value": "-29%",
-            "label": "전년比 감소"
+            "value": "급락",
+            "label": "증시 변동성"
           },
           {
-            "value": "780만",
-            "label": "일평균 배럴"
+            "value": "수천억",
+            "label": "반대매매"
           }
         ],
-        "main_number": "8년",
-        "main_text": "5월 중국 석유 수입 8년 만에 최저치"
+        "main_number": "공포 확산",
+        "main_text": "개미 투자자들 자금 위험 직면"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "세계 최대 석유 수입국인 중국의 5월 석유 수입량이 전년 대비 29% 감소하며 8년 만에 최저치를 기록, 이란 전쟁 등으로 인한 글로벌 유가 폭등을 억제하는 요인으로 작용하고 있습니다.",
+        "summary": "국내 증시 급락과 함께 '빚투'(빚내서 투자) 자금이 64조원까지 쌓이며 반대매매에 대한 개인 투자자들의 불안감이 커지고 있음.",
         "points": [
-          "중국 5월 석유 수입 전년 대비 29% 감소 (일평균 780만 배럴)",
-          "2017년 10월 이후 최저 수준 기록",
-          "높은 물가로 인한 중국 경제 활동 둔화가 주요 원인",
-          "이란 전쟁발 글로벌 유가 폭등 억제에 핵심 역할"
+          "증시 변동성 고조",
+          "개인 투자자 빚투 자금 역대급 규모",
+          "반대매매로 인한 추가 손실 우려"
         ],
-        "quote": "세계 최대 석유 수입국인 중국의 석유 수입 급감이 아이러니하게도 전 세계 석유 가격의 폭발적인 상승을 억제하는 핵심 펜스 역할을 하고 있다.",
-        "context": "중국 경제의 둔화와 높은 물가 압력으로 석유 수요가 감소하면서, 중동 정세 불안으로 인한 국제 유가 상승 압력을 상쇄하는 예상치 못한 효과를 낳고 있습니다. 이는 글로벌 경제에 큰 영향을 미칠 수 있는 중요한 지표입니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026060918025119650c8c1c064d_1"
+        "quote": "반대매매가 빚투로 우는 개미들에게 현실이 될 수 있다.",
+        "context": "고금리와 경기 불확실성 속에서 개인 투자자들이 위험 자산에 대규모로 투자하면서 시장의 작은 충격에도 큰 손실로 이어질 수 있는 취약한 구조.",
+        "source_url": "https://www.ajunews.com/view/20260610071019863"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58030&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=2551&nologo=true"
     },
     {
-      "id": "economy-elderly-employment",
+      "id": "economy-offshore-wind-investment",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "money_flow_chart",
+      "title": "국민성장펀드, 야월 해상풍력에 3000억 투자…국산 풍력 공급망 강화",
+      "subtitle": "전력 케이블 등 국산 사용 비중 확대, 에너지 안보 강화 및 수입 대체 효과 기대.",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3000억",
+            "label": "투자 규모"
+          },
+          {
+            "value": "국민성장펀드",
+            "label": "투자 주체"
+          },
+          {
+            "value": "국산 비중 확대",
+            "label": "목표"
+          }
+        ],
+        "main_number": "에너지 안보",
+        "main_text": "수입 의존도 낮춰 안보 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국민성장펀드가 야월 해상풍력 사업에 3000억원을 투자하여 국산 풍력 공급망을 강화하고, 에너지 안보와 수입 대체 효과를 노림.",
+        "points": [
+          "해상풍력 발전 투자 확대",
+          "국산 전력 케이블 등 핵심 부품 사용 비중 증대",
+          "에너지 안보 강화 및 수입 대체 효과 기대"
+        ],
+        "quote": "외산 장비 의존도를 낮춰야 장기적으로 에너지 안보를 강화하고 수입 대체 효과도 기대할 수 있다.",
+        "context": "정부의 재생에너지 전환 정책과 맞물려 국내 자본이 핵심 인프라 산업에 투자하여 국가 경제와 에너지 자립도를 높이려는 노력.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005774131?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=72321&nologo=true"
+    },
+    {
+      "id": "economy-tucson-hybrid-europe",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "bar_chart",
-      "title": "70세 이상 취업자 200만 시대, 노인 빈곤 문제 심화",
-      "subtitle": "OECD 최고 수준 노인 빈곤율, 경제활동 참여 증가 배경",
+      "title": "현대차 투싼 하이브리드, 유럽서 역대 최다 판매 기록…연 8만대 돌파 예상",
+      "subtitle": "1~4월 판매량 15% 증가, 전체 투싼 판매 10대 중 6대가 하이브리드 모델.",
       "viz_data": {
         "stats": [
           {
-            "value": "200만+",
-            "label": "70대 이상 취업자"
+            "value": "+15%",
+            "label": "판매 증가율 (1~4월)"
           },
           {
-            "value": "39.7%",
-            "label": "66세 이상 빈곤율"
+            "value": "60%",
+            "label": "하이브리드 비중"
+          },
+          {
+            "value": "8만대+",
+            "label": "연간 판매 전망"
           }
         ],
-        "main_number": "200만",
-        "main_text": "70세 이상 취업자, 처음으로 200만 명 돌파"
+        "main_number": "역대 최다",
+        "main_text": "유럽 시장에서 지속적인 판매 성장"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "70세 이상 취업자 수가 200만 명을 돌파하며 역대 최고치를 기록했습니다. 이는 한국 노인들의 높은 경제활동 참여율과 동시에 경제협력개발기구(OECD) 최고 수준의 노인 빈곤율을 반영합니다.",
+        "summary": "현대자동차 투싼 하이브리드 모델이 유럽 시장에서 역대 최다 판매를 기록하며 연간 8만대 판매 돌파가 예상됨.",
         "points": [
-          "70세 이상 취업자 200만 명 초과 (역대 최고)",
-          "66세 이상 노인 소득 빈곤율 39.7% (OECD 평균 14.8%의 2배 이상)",
-          "정부의 '노인 일자리 사업' 확대 기여",
-          "노인 빈곤 예방 위한 경제적 준비 필요성 강조"
+          "유럽 시장 투싼 판매 1~4월 15% 증가",
+          "판매량의 60%가 하이브리드 모델",
+          "친환경차 수요 증가에 성공적으로 대응"
         ],
-        "quote": "노인 빈곤 예방을 위해 노후 측면에서 경제적 준비 필요성을 미리 알려줘 노인 빈곤을 예방할 수 있도록 해야 한다.",
-        "context": "급격한 고령화 사회에서 노인들의 경제활동 참여 증가는 생산성 유지에 긍정적 측면도 있지만, 높은 빈곤율을 배경으로 한 생계형 취업의 비중이 크다는 점은 사회적 과제를 던집니다. 이는 노인 복지 정책과 고용 정책의 균형 있는 발전을 요구합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016129324?sid=102"
+        "quote": "현대차 준중형 SUV 투싼이 유럽 시장에서 하이브리드 모델을 앞세워 판매 기록을 새로 쓰고 있다.",
+        "context": "유럽의 엄격한 환경 규제와 친환경차 수요 증가에 발맞춰 현대차가 하이브리드 기술력을 강화하며 시장 점유율을 확대하는 추세.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002654314?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93953&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63561&nologo=true"
     },
     {
-      "id": "economy-japan-interest-rate",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "timeline",
-      "title": "일본은행, 6월 기준금리 1% 인상 유력",
-      "subtitle": "중동 사태 리스크 제한적 평가 속 금리 인상 가속화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1%",
-            "label": "기준금리"
-          },
-          {
-            "value": "6월",
-            "label": "정책회의"
-          }
-        ],
-        "main_number": "+1%",
-        "main_text": "일본은행, 금리 인상으로 긴축 기조 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "일본은행이 6월 정책회의에서 기준금리를 1%로 인상할 가능성이 높게 점쳐지고 있습니다. 중동 사태로 인한 경제 성장 하방 리스크가 제한적이라는 평가가 우세하며, 금리 인상과 함께 국채 매입 감축은 중단할 것으로 보입니다.",
-        "points": [
-          "6월 정책회의서 기준금리 1% 인상 유력",
-          "중동 사태 경제 리스크 아직 제한적 평가",
-          "국채 매입 감축은 중단하여 시장 안정화 병행",
-          "엔화 가치와 물가 상승 압력 조절 목표"
-        ],
-        "quote": "다행히 중동 사태로 인한 경제 성장 하방 리스크는 아직 제한적이라는 평가가 우세해 금리 인상에 힘이 실리고 있다.",
-        "context": "글로벌 금리 인상 기조 속에서 마지막까지 완화 정책을 유지했던 일본이 드디어 금리 인상에 나서는 것은 세계 경제에 중요한 신호가 될 것입니다. 이는 글로벌 금융 시장의 자금 흐름과 엔화 가치에 영향을 미 미치며, 투자 전략에도 변화를 가져올 수 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=202606100222536156e7e8286d56_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24299&nologo=true"
-    },
-    {
-      "id": "tech-anthropic-ai-mythos",
+      "id": "tech-samsung-biotech-investment",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
+      "viz_type": "company_profile",
+      "title": "삼성전자, 美 엘리먼트 바이오사이언스 1대 주주 등극…AI 접목 정밀의료 박차",
+      "subtitle": "DNA 시퀀싱 정확도 및 비용 효율성 제고, 정밀 의료 분야 시너지 기대.",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1대 주주",
+            "label": "삼성전자 지위"
+          },
+          {
+            "value": "DNA 시퀀싱",
+            "label": "핵심 기술"
+          },
+          {
+            "value": "정밀 의료",
+            "label": "적용 분야"
+          }
+        ],
+        "main_number": "AI/IT 기술",
+        "main_text": "바이오 분야 접목 통한 성장 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "삼성전자가 미국 DNA 분석 장비 기업 엘리먼트 바이오사이언스에 추가 투자하여 1대 주주가 되었으며, AI 및 IT 기술을 활용해 정밀 의료 분야 시너지를 기대.",
+        "points": [
+          "삼성전자의 바이오 분야 투자 확대",
+          "엘리먼트 바이오사이언스의 DNA 시퀀싱 기술",
+          "AI/IT 기술 접목으로 정밀 의료 시장 공략"
+        ],
+        "quote": "삼성전자의 인공지능 기술이 엘리먼트의 DNA 시퀀싱 기술과 결합하여 정밀 의료 분야를 혁신할 것이다.",
+        "context": "글로벌 IT 기업들이 미래 성장 동력으로 바이오, 헬스케어 분야에 주목하며 AI 및 데이터 기술을 접목하여 새로운 시장을 창출하려는 전략.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000515087?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18721&nologo=true"
+    },
+    {
+      "id": "tech-korean-telcos-ai-datacenter",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "국내 통신 3사, AI 데이터센터 구축 '올인'…막대한 투자로 시장 선점 경쟁",
+      "subtitle": "SKT, KT, LGU+ 모두 AI 인프라 구축에 대규모 투자 단행.",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3사",
+            "label": "참여 기업"
+          },
+          {
+            "value": "2조4천억",
+            "label": "KT 투자 (MS)"
+          },
+          {
+            "value": "선점 경쟁",
+            "label": "시장 동향"
+          }
+        ],
+        "main_number": "AI 인프라",
+        "main_text": "초거대 AI 시대 대비 핵심 인프라"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국내 통신 3사(SKT, KT, LGU+)가 AI 데이터센터 구축에 막대한 투자를 단행하며 시장 선점 경쟁에 나서고 있음.",
+        "points": [
+          "통신 3사의 AI 인프라 투자 집중",
+          "KT, MS와 2.4조원 규모 AI/클라우드 파트너십",
+          "AI 시대 핵심 경쟁력 확보 목표"
+        ],
+        "quote": "AI 시대에 초거대 AI 인프라 구축은 통신사의 핵심 경쟁력이 될 것이다.",
+        "context": "인공지능 기술의 발전과 함께 컴퓨팅 자원의 중요성이 커지면서, 대규모 데이터를 처리하고 AI 모델을 구동할 수 있는 데이터센터가 핵심 인프라로 부상.",
+        "source_url": "https://www.newsway.co.kr/news/view?ud=2026060917091614310"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66258&nologo=true"
+    },
+    {
+      "id": "tech-ai-semiconductor-economic-impact",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line_chart",
+      "title": "AI 반도체 호황, 경제 성장 견인하지만 물가·금리 상승 압력 가중",
+      "subtitle": "IT 수출 증가로 성장률 상향 조정, 하지만 인플레이션 우려도 커져.",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+5.9%",
+            "label": "IT 수출 증가율"
+          },
+          {
+            "value": "+3.9%",
+            "label": "제조업 생산 증가"
+          },
+          {
+            "value": "+6.6%",
+            "label": "설비투자 증가"
+          }
+        ],
+        "main_number": "+9.2%",
+        "main_text": "실질 국민총소득(GNI) 급증"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI 반도체 호황으로 한국 경제가 성장세를 보이고 있으나, 이로 인한 물가 및 금리 상승 압력도 높아지고 있다는 분석.",
+        "points": [
+          "AI 반도체 및 IT 수출 주도 경제 성장",
+          "제조업 생산, 설비투자 증가세",
+          "성장률 상향 조정 속 물가·금리 상승 우려"
+        ],
+        "quote": "AI 반도체 호황은 경제 성장과 함께 잠재적 인플레이션 압력을 동반한다.",
+        "context": "글로벌 AI 기술 경쟁이 심화되면서 AI 반도체 수요가 폭증하고 있으며, 이는 관련 산업의 성장을 촉진하지만, 동시에 거시 경제에 예상치 못한 영향을 미칠 수 있음.",
+        "source_url": "https://n.news.naver.com/mnews/article/037/0000038307?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74831&nologo=true"
+    },
+    {
+      "id": "society-healthcare-fund-crisis",
+      "is_headline": true,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "의료개혁 추진 시 건보 준비금 2년 조기 소진 우려 (2031년→2029년)",
+      "subtitle": "국회예산정책처 보고서, 지역의료 혁신 시범사업 등으로 소진 시기 앞당겨질 전망.",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2년",
+            "label": "조기 소진"
+          },
+          {
+            "value": "2031년",
+            "label": "기존 소진"
+          },
+          {
+            "value": "2029년",
+            "label": "예상 소진"
+          }
+        ],
+        "main_number": "재정 악화",
+        "main_text": "의료개혁 재원 마련 시급성 증대"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국회예산정책처 보고서에 따르면 의료개혁을 추진할 경우 건강보험 준비금이 기존 예상보다 2년 빠른 2029년에 바닥날 것으로 전망됨.",
+        "points": [
+          "국회예산정책처, 의료개혁 재정 영향 분석",
+          "건강보험 준비금 소진 시기 2031년→2029년 앞당겨짐",
+          "지역사회 일차의료 혁신 시범사업 등 재정 부담"
+        ],
+        "quote": "의료개혁은 장기적인 재정 건전성 확보 방안과 함께 추진되어야 한다.",
+        "context": "고령화 심화와 의료비 증가로 건강보험 재정 압박이 가중되는 가운데, 정부의 의료개혁이 재정 악화를 더욱 가속화할 수 있다는 우려 제기.",
+        "source_url": "https://www.medigatenews.com/news/316125501"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23238&nologo=true"
+    },
+    {
+      "id": "society-election-integrity",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "checklist",
+      "title": "선거관리위원회, '선거 무결성' 훼손 논란…국민 신뢰 추락",
+      "subtitle": "공정성 의문 제기되는 선관위의 대처 방식, 제도적 개선 요구 증폭.",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "훼손",
+            "label": "선거 무결성"
+          },
+          {
+            "value": "신뢰 추락",
+            "label": "국민 인식"
+          },
+          {
+            "value": "제도 개선",
+            "label": "요구"
+          }
+        ],
+        "main_number": "도덕적 무효",
+        "main_text": "권력의 도덕적 정당성 흔들림"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "선거관리위원회의 일련의 조치들이 선거의 무결성을 훼손했다는 비판이 제기되며, 이로 인해 선출된 권력의 도덕적 정당성까지 의심받는 상황.",
+        "points": [
+          "선거 과정에서의 공정성 문제 제기",
+          "선관위의 불투명한 대처 비판",
+          "민주주의 근간 흔드는 중대한 문제"
+        ],
+        "quote": "선거가 오염되면 그 선거로 선출된 이가 행사하는 권력은 법적으로는 유효할지 몰라도 도덕·정치적으로는 무효가 되는 게 당연지사다.",
+        "context": "민주주의의 꽃인 선거 과정에서 공정성과 투명성이 확보되지 못할 경우, 국민적 불신과 사회적 혼란을 야기할 수 있어 이에 대한 철저한 진상 규명과 제도 개선이 시급함.",
+        "source_url": "https://news.cpbc.co.kr/article/1173492?division=NAVER"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79658&nologo=true"
+    },
+    {
+      "id": "society-teacher-rights-crisis",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
       "viz_type": "comparison_chart",
-      "title": "앤트로픽, 최상위 AI '미토스급' 일반 공개",
-      "subtitle": "보안 강화 모델 '페이블5' 출시, AI 경쟁 심화",
+      "title": "'GTO'와 '참교육'으로 본 교권 붕괴…씁쓸한 한국 교육 현장",
+      "subtitle": "대중문화 콘텐츠 속 학교폭력과 교권 침해, 현실 반영 우려.",
       "viz_data": {
         "stats": [
           {
-            "value": "페이블5",
-            "label": "신규 모델"
+            "value": "1990년",
+            "label": "GTO"
           },
           {
-            "value": "IPO",
-            "label": "기업공개 예정"
+            "value": "2026년",
+            "label": "참교육"
+          },
+          {
+            "value": "수십 년",
+            "label": "지속 문제"
           }
         ],
-        "main_number": "진화",
-        "main_text": "앤트로픽 AI 기술력의 새로운 단계"
+        "main_number": "현실 반영",
+        "main_text": "콘텐츠 넘어선 교육 현장 위기"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "인공지능(AI) 스타트업 앤트로픽이 그동안 비공개였던 최상위급 '미토스' 수준의 AI 모델을 처음으로 일반에 공개하고, 사이버보안 기능을 강화한 '페이블5'를 출시했습니다. 이는 AI 시장 경쟁을 더욱 가열시킬 전망입니다.",
+        "summary": "일본의 'GTO'와 한국의 '참교육' 같은 대중문화 콘텐츠의 흥행은 양국 사회가 겪는 교권 붕괴와 교육 현장의 치명적인 균열을 반영하고 있음.",
         "points": [
-          "최상위 '미토스급' AI 모델 첫 일반 공개",
-          "사이버보안 기능 특화된 '페이블5' 출시",
-          "기업공개(IPO) 추진 중인 앤트로픽의 전략적 행보",
-          "AI 기술 경쟁 심화 및 활용 분야 확대"
+          "학교 폭력, 교권 침해 문제 지속",
+          "대중문화 콘텐츠가 현실 문제 대변",
+          "교육 현장의 구조적 위기 심화"
         ],
-        "quote": "기업공개(IPO)를 추진 중인 인공지능(AI) 스타트업 앤트로픽이 그동안 일반 공개를 미뤄왔던 최상위급 ‘미토스(Mithos)’ 수준의 AI 모델을 처음 공개했다.",
-        "context": "빅테크 기업들의 AI 경쟁이 심화되는 가운데, 앤트로픽의 '미토스급' AI 모델 공개는 기술 혁신과 함께 시장 판도를 뒤흔들 수 있는 중요한 사건입니다. 특히 보안 기능을 강화한 모델은 산업 전반에 걸쳐 AI 도입을 가속화할 잠재력을 가지고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002654286?sid=104"
+        "quote": "대중문화가 기형적인 형태로 대리만족시키고 있음을 보여주는 방증이라고 할 수 있다.",
+        "context": "교권 침해와 학교 폭력 문제가 사회적 문제로 대두되면서, 교육 현장의 어려움이 대중문화에서도 자주 다루어지고 있으며, 이는 문제 해결의 시급성을 시사.",
+        "source_url": "https://www.globale.co.kr/news/articleView.html?idxno=38730"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40780&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66983&nologo=true"
     },
     {
-      "id": "tech-apple-google-ai",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "flow_chart",
-      "title": "애플-구글 AI 협력, 애플의 AI 경쟁력 강화 시도",
-      "subtitle": "WWDC 2026, 구글 제미나이 활용한 AI 부진 만회 시험대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "WWDC 2026",
-            "label": "중요 이벤트"
-          },
-          {
-            "value": "제미나이",
-            "label": "구글 AI 모델"
-          }
-        ],
-        "main_number": "협력",
-        "main_text": "애플, 구글 AI 통해 자사 플랫폼에 AI 기능 통합"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "애플이 구글의 AI 모델 '제미나이'를 자사 플랫폼에 통합하며 AI 부문에서의 부진을 만회하려 합니다. 이번 WWDC 2026(세계 개발자 컨퍼런스)은 애플의 AI 신뢰성을 검증하는 중요한 시험대가 될 것입니다.",
-        "points": [
-          "애플, 구글 제미나이 통합 발표 예상",
-          "AI 부문 경쟁력 확보 위한 전략적 움직임",
-          "WWDC 2026에서 AI 비전 및 기능 공개 예정",
-          "글로벌 IT 시장조사 기관, 애플 AI의 '신뢰성 검증 시험대' 평가"
-        ],
-        "quote": "이번 WWDC 2026을 일컬어 '애플 AI의 신뢰성을 검증하는 시험대'라고 평가했다.",
-        "context": "오랜 기간 독자적인 생태계를 구축해 온 애플이 AI 분야에서 구글과 협력하는 것은 AI 기술 경쟁이 얼마나 치열한지를 보여줍니다. 이는 소비자 경험을 혁신하고, AI 시장의 판도를 변화시킬 수 있는 빅테크 간의 중요한 전략적 제휴입니다.",
-        "source_url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=188330"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61705&nologo=true"
-    },
-    {
-      "id": "tech-military-humanoid-robot",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "美 군사용 휴머노이드 로봇, 전장 미래 앞당기나",
-      "subtitle": "인간형 로봇 병사, 전투 환경에 새로운 패러다임 제시",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "미국",
-            "label": "주도국"
-          },
-          {
-            "value": "전투",
-            "label": "활용 분야"
-          }
-        ],
-        "main_number": "현실화",
-        "main_text": "휴머노이드 로봇 병사, 전장 투입 가능성 제기"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "미국에서 군사용 휴머노이드 로봇 개발이 활발히 진행되며 인간형 로봇 병사의 현실화 가능성이 커지고 있습니다. 이는 미래 전장의 모습을 근본적으로 변화시킬 잠재력을 가지고 있습니다.",
-        "points": [
-          "미국 IT 개발 단지 내 군사용 휴머노이드 로봇 개발",
-          "전투 환경 변화 및 인간 병력 대체 가능성",
-          "휴머노이드 로봇의 기술적 진보 (이동성, 조작성)",
-          "전장 윤리 및 사회적 수용성 논의 필요"
-        ],
-        "quote": "지상전의 미래가 눈앞에 펼쳐질 것이라 예상했다.",
-        "context": "휴머노이드 로봇의 군사적 활용은 인명 피해를 줄이고 위험한 임무를 수행하는 데 기여할 수 있지만, 동시에 자율 살상 무기 등 윤리적, 사회적 논쟁을 불러일으킬 수 있습니다. 기술 개발 속도에 맞춰 이에 대한 사회적 합의와 규제 마련이 시급합니다.",
-        "source_url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=188331"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34406&nologo=true"
-    },
-    {
-      "id": "society-election-reform",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "process_flow",
-      "title": "민주당, '선거제도 개혁 TF' 첫 회의 개최",
-      "subtitle": "투표용지 부족 사태 계기, 선거관리 전면 개혁 추진",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "TF",
-            "label": "개혁 기구"
-          },
-          {
-            "value": "국회",
-            "label": "논의 장소"
-          }
-        ],
-        "main_number": "개혁",
-        "main_text": "선거 제도 개선을 위한 첫걸음"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "더불어민주당이 '선거제도 개혁 TF' 첫 회의를 열고 최근 발생한 투표용지 부족 사태를 계기로 선거관리 전면 개혁을 추진합니다. 송기헌 의원이 단장을 맡아 본격적인 논의에 착수합니다.",
-        "points": [
-          "민주당 선거제도 개혁 TF 출범",
-          "투표용지 부족 사태 등 선거 불신 해소 목표",
-          "선거관리 전면 개혁 방안 논의",
-          "국민들의 민주주의 신뢰 회복 기대"
-        ],
-        "quote": "선거관리 전반에 걸친 개혁과 제도 개선 방안을 논의하겠다.",
-        "context": "최근 선거 과정에서 불거진 문제들은 민주주의의 근간인 선거 시스템에 대한 국민적 신뢰를 훼손할 우려를 낳았습니다. 이에 정치권의 선거 제도 개혁 논의는 유권자의 참여를 독려하고 민주주의를 한 단계 발전시키는 데 중요한 역할을 할 것입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/123/0002384418?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61911&nologo=true"
-    },
-    {
-      "id": "society-youth-mental-health",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "청소년 정신건강, 사회적 낙인에 치료 접근성 낮아",
-      "subtitle": "정신질환 진단 청소년 100명 중 6명만 서비스 이용",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "100명",
-            "label": "진단 청소년"
-          },
-          {
-            "value": "6명",
-            "label": "서비스 이용"
-          },
-          {
-            "value": "낮음",
-            "label": "치료 접근성"
-          }
-        ],
-        "main_number": "6%",
-        "main_text": "정신건강 서비스 이용률 심각하게 낮아"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "청소년들의 정신질환 진단은 증가하고 있지만, 사회적 낙인과 부정적 인식으로 인해 실제 정신건강 서비스 이용률은 6% 수준에 그쳐 치료 접근성이 매우 낮은 것으로 지적됩니다.",
-        "points": [
-          "소아·청소년 정신질환 진단 증가 추세",
-          "정신질환에 대한 사회적 낙인 여전",
-          "정신건강 서비스 이용률 6%로 매우 저조",
-          "조기 치료 부족으로 문제 심화 우려"
-        ],
-        "quote": "정신질환에 대한 사회적 낙인과 부정적 인식이 여전히 청소년들의 치료 접근을 가로막고 있다는 지적이 나온다.",
-        "context": "청소년 시기의 정신건강 문제는 학업, 대인 관계, 미래 설계 등 삶 전반에 걸쳐 심각한 영향을 미칠 수 있습니다. 사회적 인식 개선과 함께, 청소년들이 부담 없이 정신건강 서비스를 이용할 수 있도록 국가적 차원의 지원 시스템과 접근성 강화가 시급합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005369579?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27703&nologo=true"
-    },
-    {
-      "id": "society-elderly-care-hospital",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "diagram",
-      "title": "초고령사회, 대학병원 연계 실버타운 확산",
-      "subtitle": "어르신 응급 상황 대응 위한 의료 인프라 강화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "KB골든라이프케어",
-            "label": "시설명"
-          },
-          {
-            "value": "아주대병원",
-            "label": "연계 병원"
-          }
-        ],
-        "main_number": "강화",
-        "main_text": "고령층 의료·주거 복합 서비스 모델"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "대학병원과 연계된 프리미엄 실버타운 'KB골든라이프케어 광교빌리지' 사례를 통해 어르신 응급 상황에 대한 신속한 대응이 가능한 새로운 형태의 노인 주거 및 의료 복합 서비스 모델이 주목받고 있습니다.",
-        "points": [
-          "대학병원과 바로 연결된 요양시설 모델",
-          "응급 상황 발생 시 신속한 의료 연계 강점",
-          "고령층을 위한 프리미엄 주거 및 의료 통합 서비스",
-          "초고령사회 대비한 새로운 주거-의료 인프라 구축"
-        ],
-        "quote": "건물 서쪽으로 아주대병원과 아주대요양병원이 붙어 있는 지상 7층 규모 요양시설로 작년 9월 문을 열었다.",
-        "context": "고령화가 빠르게 진행되면서 노인 의료 및 돌봄 서비스에 대한 수요가 급증하고 있습니다. 대학병원과 연계된 실버타운은 응급 상황에 대한 불안감을 해소하고 고품격 의료 서비스를 제공하여 노인들의 삶의 질을 향상시키는 중요한 대안이 될 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/023/0003981106?sid=004"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46599&nologo=true"
-    },
-    {
-      "id": "life-kfashion-seongsu",
+      "id": "life-kbeauty-us-expansion",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "map_chart",
-      "title": "성수동, K-패션·뷰티 '글로벌 쇼핑 성지' 부상",
-      "subtitle": "글로벌 셀럽 방문 증가, K-콘텐츠에서 K-소비재로 한류 확장",
+      "viz_type": "map",
+      "title": "올리브영, 美 1호점 '오픈런'…K뷰티 글로벌 확장 가속화",
+      "subtitle": "LA 고소득 라이프스타일 상권 진출, K-웰니스 카테고리까지 확대.",
       "viz_data": {
         "stats": [
           {
-            "value": "글로벌",
-            "label": "셀럽 방문"
+            "value": "LA 패서디나",
+            "label": "미국 1호점"
           },
           {
             "value": "K-뷰티",
-            "label": "인기 품목"
+            "label": "주력 상품"
+          },
+          {
+            "value": "K-웰니스",
+            "label": "카테고리 확장"
           }
         ],
-        "main_number": "성장",
-        "main_text": "성수동 K-패션/뷰티 시장의 세계적 인기"
+        "main_number": "글로벌 확장",
+        "main_text": "현지 라이프스타일 중심 공략"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "성수동이 K-패션과 K-뷰티의 '쇼핑 성지'로 떠오르며 전 세계 셀럽들의 발길이 이어지고 있습니다. K-팝, K-드라마 등 콘텐츠 중심이던 한류가 일상 소비재 영역으로 확장되는 현상을 보여줍니다.",
+        "summary": "올리브영이 미국 LA에 1호점을 성공적으로 오픈하며 K-뷰티의 글로벌 확장을 이끌고 있으며, K-웰니스 카테고리까지 판매 영역을 넓힘.",
         "points": [
-          "성수동, K-패션·뷰티 쇼핑 명소로 자리매김",
-          "세계적인 셀럽들의 방문 및 관심 증폭",
-          "한류의 영역이 콘텐츠에서 소비재(패션·뷰티)로 확장",
-          "글로벌 팬덤과 관광객 유입 증가"
+          "LA 고소득 상권에 미국 1호점 오픈",
+          "K-뷰티 제품의 폭발적인 현지 반응",
+          "건강식품, 스낵 등 K-웰니스 카테고리 확대"
         ],
-        "quote": "세계 경제와 스포츠, 대중문화를 주름잡는 글로벌 톱클래스 셀럽들이 한국의 패션과 뷰티 문화에 주목하고 있다.",
-        "context": "성수동의 부상은 K-컬처의 영향력이 단순한 엔터테인먼트를 넘어 실물 경제와 라이프스타일 전반으로 확대되고 있음을 보여줍니다. 이는 지역 경제 활성화는 물론, 한국의 국가 브랜드 가치를 높이는 데 기여하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0013997054?sid=101"
+        "quote": "K팝의 압도적인 인기와 더불어 한국의 화장품과 옷, 음식 전반에 대한 관심이 높아지고 있다.",
+        "context": "K-컬처의 세계적 인기와 함께 K-뷰티, K-푸드 등 한국의 라이프스타일 전반에 대한 해외 수요가 증가하고 있으며, 이에 발맞춰 국내 기업들의 해외 진출이 활발.",
+        "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=201742"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=29439&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40728&nologo=true"
     },
     {
-      "id": "life-dating-political-tendency",
+      "id": "life-camping-trend",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "pie_chart",
-      "title": "연인 선택 기준, '정치 성향'이 외모·직업 앞서",
-      "subtitle": "MZ세대 데이팅 트렌드 변화, 가치관 중요성 부각",
+      "viz_type": "growth_chart",
+      "title": "텐트왕 라제건, 초대형 캠핑 제국 공개…변화하는 캠핑 문화 트렌드",
+      "subtitle": "캠핑이 단순 취미 넘어 생활 문화로 자리매김, 시장 규모 확대.",
       "viz_data": {
         "stats": [
           {
-            "value": "가치관",
-            "label": "중요도 증가"
+            "value": "생활 문화",
+            "label": "캠핑 위상"
           },
           {
-            "value": "정치",
-            "label": "성향 확인"
+            "value": "초대형",
+            "label": "캠핑장 규모"
+          },
+          {
+            "value": "세계 시장",
+            "label": "사업 확장"
           }
         ],
-        "main_number": "변화",
-        "main_text": "데이트 상대 선택의 새로운 주요 기준"
+        "main_number": "성장세",
+        "main_text": "캠핑 산업의 새로운 비전 제시"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "최근 외모나 직업보다 상대방의 '정치 성향'이 연인 선택의 중요한 기준으로 떠오르고 있습니다. 이는 MZ세대를 중심으로 가치관과 라이프스타일의 일치 여부가 관계에서 더 중요해지고 있음을 보여줍니다.",
+        "summary": "'텐트왕'으로 불리는 라제건 대표가 초대형 캠핑 제국을 공개하며, 캠핑이 단순 취미를 넘어 하나의 생활 문화로 자리 잡았음을 보여줌.",
         "points": [
-          "데이팅 앱 프로필에 정치 성향 명시 증가",
-          "가치관, 라이프스타일, 성격 일치 여부 중시",
-          "정치적 극단화가 개인의 선택에도 영향",
-          "연애를 통한 자기 정체성 확인 경향"
+          "캠핑 시장의 지속적인 성장",
+          "캠핑 트렌드의 다양화 및 고급화",
+          "관련 산업의 확대 및 새로운 사업 모델 등장"
         ],
-        "quote": "단 몇 장의 사진과 프로필만으로 상대방의 가치관, 라이프스타일, 성격은 물론 내 주변 사람들이 이 연애를 지지해 줄지까지 가늠하게 하는 아주 강력한 정보가 된다.",
-        "context": "사회 전반의 가치관 변화와 정치적 양극화가 개인의 친밀한 관계에도 영향을 미치고 있습니다. 이는 단순한 연애 트렌드를 넘어, 젊은 세대가 관계를 통해 자신의 가치관을 확인하고 표현하려는 경향을 반영하는 사회 현상으로 볼 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004629404?sid=102"
+        "quote": "캠핑이 하나의 생활 문화로 자리 잡은 가운데 이번 방송은 단순히 캠핑을 즐기는 모습을 넘어 세계 시장을 향한 K-캠핑의 위상을 보여준다.",
+        "context": "팬데믹 이후 야외 활동에 대한 수요가 급증하면서 캠핑이 대중적인 여가 문화로 자리 잡았고, 이는 관련 산업의 성장과 새로운 비즈니스 모델 창출로 이어지고 있음.",
+        "source_url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=429534"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9161&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48119&nologo=true"
     },
     {
-      "id": "life-foreign-tourist-spending",
+      "id": "life-kfood-export",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "외국인 관광객 지출액 역대 최고 기록",
-      "subtitle": "쇼핑, 뷰티, 패션 등 K-콘텐츠 외 소비재로 확장",
+      "title": "K-푸드, 이제는 명실상부한 수출 산업…해외 시장에서 폭발적 인기",
+      "subtitle": "비비고 만두, 김치 등 현지 라이프스타일 맞춘 한국 식문화 전 세계 각광.",
       "viz_data": {
         "stats": [
           {
-            "value": "1.3조원+",
-            "label": "총 지출액"
+            "value": "수출 산업",
+            "label": "K-푸드 위상"
           },
           {
-            "value": "38.4%",
-            "label": "쇼핑 비중"
+            "value": "비비고 만두",
+            "label": "대표 주자"
+          },
+          {
+            "value": "글로벌 마케팅",
+            "label": "성공 요인"
           }
         ],
-        "main_number": "최고",
-        "main_text": "외국인 관광객 소비가 한국 경제에 활력"
+        "main_number": "글로벌 트렌드",
+        "main_text": "한국 식문화의 세계적 확산"
       },
       "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "외국인 관광객의 한국 내 지출액이 1조 3,287억 원으로 역대 최고치를 기록했습니다. 쇼핑이 전체 소비의 38.4%를 차지하며 가장 큰 비중을 보였고, 뷰티·웰니스, 패션 분야도 높은 성장세를 보였습니다.",
+        "summary": "비비고 만두, 김치 등을 중심으로 K-푸드가 현지인의 라이프스타일에 맞춰 전 세계에서 각광받으며 명실상부한 수출 산업으로 부상.",
         "points": [
-          "외국인 관광객 총 지출액 1조 3,287억 원 (역대 최고)",
-          "쇼핑이 지출액의 38.4%로 1위",
-          "뷰티·웰니스 22%, 패션 14%로 뒤이어",
-          "K-팝, K-드라마 등 한류 영향으로 한국 방문 증가"
+          "K-푸드 수출액 지속적 증가",
+          "만두, 김치 등 대표 K-푸드의 세계화",
+          "현지화 전략 및 디지털 마케팅의 성공"
         ],
-        "quote": "외국인 관광객이 지출한 금액은 1조3287억원으로 역대 최고치를 기록했다.",
-        "context": "코로나19 팬데믹 이후 한국 관광 시장이 빠르게 회복하고 있으며, 외국인 관광객의 소비 증가는 내수 경제 활성화에 긍정적인 영향을 미치고 있습니다. 특히 K-콘텐츠의 인기가 K-뷰티, K-패션 등 소비재 분야로 확산되면서 한국의 매력이 더욱 다각화되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/023/0003981090?sid=101"
+        "quote": "비비고 만두, 김치 등 현지인의 라이프스타일과 트렌드에 맞춘 한국 식문화가 전 세계에서 각광받고 있다.",
+        "context": "K-팝, K-드라마 등 K-컬처의 인기가 K-푸드로 이어지면서, 한국의 음식 문화가 전 세계 소비자들의 입맛을 사로잡으며 글로벌 식문화 트렌드를 주도하고 있음.",
+        "source_url": "https://n.news.naver.com/mnews/article/032/0003451038?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73702&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96246&nologo=true"
     }
   ],
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T06:11:11.360043+09:00"
+  "generated_at": "2026-06-10T07:35:54.101193+09:00"
 }
