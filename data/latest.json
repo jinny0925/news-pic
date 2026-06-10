@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-xi-visit-nk",
+      "id": "world-001",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "chart",
-      "title": "시진핑 방북: 김정은 부부동반 의전, 주애는 불참",
-      "subtitle": "북중 밀착 속 주목받는 의전 변화와 그 의미",
+      "viz_type": "bar_chart",
+      "title": "美의회, 100조원 이민 단속 예산 처리",
+      "subtitle": "트럼프 임기말까지 재원 확보, 이민 정책 갈등 지속",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100조원",
+            "label": "예산 규모"
+          },
+          {
+            "value": "1월",
+            "label": "갈등 시작"
+          },
+          {
+            "value": "2명",
+            "label": "사망자 언급"
+          }
+        ],
+        "main_number": "100조원",
+        "main_text": "미국 이민 단속 및 국경 안보에 투입될 막대한 예산 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국 의회가 약 100조 원 규모의 이민 단속 예산을 처리하며 트럼프 행정부 임기 말까지 재원을 확보했습니다. 이는 이민 단속 요원 총격 사건 이후 이민 정책 개혁을 둘러싼 여야 갈등이 격화된 가운데 이루어졌습니다.",
+        "points": [
+          "미 의회, 100조원 규모 이민 단속 예산 승인",
+          "트럼프 행정부 임기 말까지 이민 단속 재원 확보",
+          "지난 1월 미네소타주 이민 단속 요원 총격 사망 사건 이후 갈등 격화",
+          "ICE 예산 문제, 정치권의 핵심 쟁점으로 부상"
+        ],
+        "quote": "이민 단속 정책 개혁을 둘러싼 여야 갈등이 격화되면서 ICE 예산 문제가 정치권의 핵심 쟁점으로 떠올랐습니다.",
+        "context": "이민 정책은 미국 정치에서 늘 뜨거운 감자였으며, 대선이 다가오면서 더욱 중요한 이슈로 부각되고 있습니다. 이번 예산 통과는 이민 강경책을 유지하려는 트럼프 행정부의 의지를 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000515123?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=89500&nologo=true"
+    },
+    {
+      "id": "world-002",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "미군, 이란 전격 공습…중동 긴장 고조",
+      "subtitle": "트럼프 '헬기 격추에 비례적 대응' 발언으로 불확실성 증폭",
       "viz_data": {
         "stats": [
           {
             "value": "1회",
-            "label": "시진핑 방북"
+            "label": "공습 횟수"
           },
           {
-            "value": "참석",
-            "label": "김정은 부부"
+            "value": "2국",
+            "label": "주요 관련국"
           },
           {
-            "value": "불참",
-            "label": "주애"
+            "value": "격화",
+            "label": "중동 긴장"
           }
         ],
-        "main_number": "밀착 강화",
-        "main_text": "북중 관계, 미국의 압박에 대한 대응으로 해석"
+        "main_number": "확산 우려",
+        "main_text": "간신히 유지되던 중동 정전 체제 뒤흔들며 전면전 확산 우려 심화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, xi jinping, kim jong un, north korea, china, diplomatic meeting",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "시진핑 주석의 방북 시 김정은 부부가 밀착 의전을 보였으나, 딸 주애는 불참하여 이목을 끌었다. 이는 미국의 군사적 압박에 대응하려는 북중 밀착 전략으로 해석된다.",
+        "summary": "미군이 이란을 전격 공습하며 트럼프 대통령이 '헬기 격추에 대한 비례적 대응'을 언급해 중동 지역의 전면전 확산 우려가 커지고 있습니다.",
         "points": [
-          "시진핑 방북, 김정은 부부동반 의전",
-          "딸 주애 공식 일정 불참",
-          "미국 군사적 압박에 대한 대응 전략",
-          "북중 관계 밀착 강화 시사"
+          "미군, 이란 지역 전격 공습 단행",
+          "트럼프, 헬기 격추에 대한 비례적 대응 시사",
+          "이스라엘-헤즈볼라 분쟁과 맞물려 중동 정세 불안정 심화",
+          "취약한 정전 체제 붕괴 우려, 전면전 확산 가능성 제기"
         ],
-        "quote": "이 같은 북중 밀착은 미국의 군사적 압박에 대응하려는 중국 전략의 한 축으로 볼 수 있습니다.",
-        "context": "미국과의 긴장이 고조되는 가운데, 북중 양국이 군사적, 외교적 협력을 강화하려는 움직임이 포착되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/448/0000618315?sid=104"
+        "quote": "이란 군대는 영토와 주권을 침해하는 위협을 묵과하지 않고 대가를 치르게 할 것",
+        "context": "최근 이스라엘의 레바논 헤즈볼라 진지 폭격 등과 맞물려 중동 지역의 긴장이 고조되는 가운데, 미군의 이란 공습이 중동의 안보 상황에 심각한 영향을 미칠 것으로 분석됩니다.",
+        "source_url": "https://www.pointe.co.kr/news/articleView.html?idxno=80454"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20xi%20jinping%2C%20kim%20jong%20un%2C%20north%20korea%2C%20china%2C%20diplomatic%20meeting%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46076&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=35132&nologo=true"
     },
     {
-      "id": "world-korea-eu-summit",
+      "id": "world-003",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "network_graph",
-      "title": "李대통령, 벨기에·EU와 정상회담…무역·공급망 협력 강화",
-      "subtitle": "세계 최대 무역 블록 EU와 경제·안보 공조 논의",
+      "viz_type": "line_chart",
+      "title": "글로벌 군비 경쟁 심화, K-방산 '슈퍼사이클' 기대",
+      "subtitle": "세계 방위산업 장기적 성장 국면 진입, 한국 방산 주목",
       "viz_data": {
         "stats": [
           {
-            "value": "벨기에, EU",
-            "label": "회담 대상"
+            "value": "지속적 증가",
+            "label": "세계 국방비"
           },
           {
-            "value": "경제, 안보",
-            "label": "주요 의제"
+            "value": "성장 국면",
+            "label": "방위산업"
           },
           {
-            "value": "확대",
-            "label": "협력 목표"
+            "value": "K-방산",
+            "label": "주목"
           }
         ],
-        "main_number": "최대 블록",
-        "main_text": "EU와 경제 교류 강화 및 공급망 공조 방안 모색"
+        "main_number": "↑",
+        "main_text": "글로벌 군비 경쟁 심화로 방위산업 시장 성장 가속화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, korean president, belgium flag, eu flag, handshake, trade, supply chain",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "이 대통령이 벨기에 및 EU와 정상회담을 통해 세계 최대 무역 블록인 EU와의 경제 교류 강화, 에너지·광물 공급망 공조, 마약·테러 등 안보 협력 확대 방안을 논의한다.",
+        "summary": "전 세계적으로 군비 경쟁이 심화되면서 글로벌 방위산업이 새로운 성장 국면에 진입했으며, 한국 방산이 '슈퍼사이클'에 진입할 것으로 전망됩니다.",
         "points": [
-          "EU와 경제 교류 강화",
-          "에너지·광물 공급망 공조",
-          "안보 분야 협력 확대",
-          "새 정부 대유럽 정상외교 출발점"
+          "글로벌 분쟁 상시화로 세계 방위산업 성장",
+          "총알, 미사일 등 군수품 부족 현상 심화",
+          "K-방산, 세계 시장에서 경쟁력 강화 및 수주 확대",
+          "사우디 세계 방위산업 전시회 등 국제 행사 참여 활발"
         ],
-        "quote": "세계 최대 무역 블록인 EU와의 경제 교류 강화, 에너지·광물 공급망 관련 공조 방안... 등이 논의될 예정이다.",
-        "context": "글로벌 경제 불확실성과 지정학적 리스크가 증대하는 상황에서, 한국은 EU와의 협력을 통해 경제 안보를 강화하고 글로벌 현안에 공동 대응하려는 전략이다.",
-        "source_url": "https://www.ngonews.kr/news/articleView.html?idxno=230937"
+        "quote": "글로벌 분쟁의 상시화와 국가 안보... 공군 특수비행팀 블랙이글스가 사우디 '세계 방위산업 전시회(WDS 2026)' 참가를 마치고 지난 2월 24일 한국으로...",
+        "context": "우크라이나 전쟁, 중동 분쟁 등 전 세계 곳곳에서 분쟁이 지속되면서 각국의 국방비 지출이 증가하고 있습니다. 이는 한국 방위산업에 새로운 기회를 제공하며, 글로벌 시장에서의 위상을 높일 것으로 기대됩니다.",
+        "source_url": "http://www.newsian.co.kr/news/articleView.html?idxno=90727"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20korean%20president%2C%20belgium%20flag%2C%20eu%20flag%2C%20handshake%2C%20trade%2C%20supply%20chain%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62532&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=50908&nologo=true"
     },
     {
-      "id": "world-crypto-hacking",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "트루비트, 이더리움 기반 해킹으로 2620만 달러 탈취",
-      "subtitle": "AI 악용된 가상자산 해킹, 전 세계 금융시장 위협",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "$2620만",
-            "label": "탈취 금액"
-          },
-          {
-            "value": "트루비트",
-            "label": "피해 기업"
-          },
-          {
-            "value": "이더리움",
-            "label": "기반"
-          }
-        ],
-        "main_number": "+$3670만",
-        "main_text": "전 세계 디파이 해킹 피해액 증가"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, crypto currency, ethereum, hacker, cyber attack, money lost, secure",
-      "detail": {
-        "summary": "이더리움 기반 대기업 트루비트가 AI 기술을 악용한 해킹으로 2620만 달러를 탈취당했다. 이는 전 세계 디파이 프로토콜의 취약점을 노린 공격으로, 글로벌 금융시장에 경각심을 주고 있다.",
-        "points": [
-          "2620만 달러 가상자산 탈취",
-          "AI 기술 악용 해킹",
-          "디파이 프로토콜 표적 공격",
-          "글로벌 금융시장 보안 위협 증가"
-        ],
-        "quote": "전 세계 디파이 프로토콜은 검증되지 않은 스마트 계약을 표적으로 삼은 해킹 공격으로 인해 최소 3,670만 달러...",
-        "context": "AI 기술의 발전과 함께 가상자산 시장의 규모가 커지면서 이를 노리는 고도화된 사이버 범죄가 급증하고 있으며, 이에 대한 보안 대책 마련이 시급하다.",
-        "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458885"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20crypto%20currency%2C%20ethereum%2C%20hacker%2C%20cyber%20attack%2C%20money%20lost%2C%20secure%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96656&nologo=true"
-    },
-    {
-      "id": "economy-ai-chip-export-control",
-      "is_headline": true,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "flow_chart",
-      "title": "대만, AI 칩 대중 수출 전면 통제 검토",
-      "subtitle": "국제 수출 통제 강화, 미·대만 협의 중",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "강화",
-            "label": "수출 통제"
-          },
-          {
-            "value": "AI 칩",
-            "label": "주요 품목"
-          },
-          {
-            "value": "미·대만",
-            "label": "협의 주체"
-          }
-        ],
-        "main_number": "확대",
-        "main_text": "첨단 기술 제품 감독 범위 확대"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, chip, taiwan flag, china flag, export control",
-      "detail": {
-        "summary": "대만이 국제 수출 통제 기준에 맞춰 '전략적 첨단 기술 제품'에 대한 감독을 강화하며, 미국과 첨단 칩 수출 통제 관련 협의를 진행 중이다.",
-        "points": [
-          "국제 수출 통제 기준 적용",
-          "첨단 칩 포함 사안 논의",
-          "대만-미국 협의 진행",
-          "중국 AI 산업에 영향 예상"
-        ],
-        "quote": "규제 통제 아래 첨단 칩을 포함하는 사안과 관련해 대만과 미국이 협의하고 있다.",
-        "context": "미중 기술 경쟁이 심화되는 가운데, 대만의 AI 칩 수출 통제는 글로벌 반도체 공급망과 지정학적 관계에 큰 영향을 미칠 것으로 예상된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016129529?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20chip%2C%20taiwan%20flag%2C%20china%20flag%2C%20export%20control%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=5285&nologo=true"
-    },
-    {
-      "id": "economy-korea-q1-growth",
+      "id": "economy-001",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "한국 경제 1분기 1.8% 성장…반도체 수출이 견인",
-      "subtitle": "제조업 3.9% 증가, 컴퓨터·전자·광학기기 중심",
+      "title": "외환 당국 강력 개입, 원/달러 환율 1,530원대 횡보",
+      "subtitle": "과도한 환율 변동성 용납 않겠다는 메시지 명확히 전달",
       "viz_data": {
         "stats": [
           {
-            "value": "1.8%",
-            "label": "1분기 성장률"
+            "value": "1,530원대",
+            "label": "환율 수준"
           },
           {
-            "value": "3.9%",
-            "label": "제조업 증가"
+            "value": "강력 개입",
+            "label": "당국 스탠스"
           },
           {
-            "value": "반도체",
-            "label": "주요 동력"
+            "value": "횡보",
+            "label": "시장 움직임"
           }
         ],
-        "main_number": "순항",
-        "main_text": "주요 산업 수출 호조로 견고한 성장세 유지"
+        "main_number": "1,530원",
+        "main_text": "환율 과도한 변동성 방어를 위한 외환 당국 개입"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, korean economy, growth chart, semiconductor chip, factory",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "한국 경제가 1분기에 전기 대비 1.8% 성장했으며, 이는 반도체 등 컴퓨터·전자·광학기기를 중심으로 한 제조업 수출의 증가(3.9%)가 주요 동력으로 작용했다.",
+        "summary": "외환 당국의 강력한 개입으로 원/달러 환율이 1,530원대에서 횡보하고 있습니다. 정부와 한국은행은 펀더멘털에 비해 과도한 변동성을 용납하지 않겠다는 의지를 밝혔습니다.",
         "points": [
-          "1분기 경제성장률 1.8%",
-          "반도체 수출이 성장 견인",
-          "제조업 3.9% 증가",
-          "컴퓨터·전자·광학기기 주도"
+          "외환 당국, 원/달러 환율 시장에 강력 개입",
+          "환율 1,550원대 돌파 후 1,530원대에서 횡보",
+          "재정경제부 및 한국은행의 구두 개입 병행",
+          "펀더멘털 대비 과도한 변동성 용납 않겠다는 메시지"
         ],
-        "quote": "경제활동별로는 제조업이 컴퓨터·전자·광학기기를 중심으로 전기 대비 3.9% 증가했다.",
-        "context": "글로벌 경기 둔화 우려 속에서도 한국 경제가 반도체 산업의 힘입어 견조한 성장세를 보이고 있으며, 이는 향후 경제 전망에 긍정적인 신호로 해석된다.",
-        "source_url": "https://weekly.hankooki.com/news/articleView.html?idxno=7168519"
+        "quote": "펀더멘털에 비해 과도한 변동성과 일방향 쏠림을 용납하지 않겠다는 메시지를 명확히 전달",
+        "context": "최근 국제 금융 시장의 불안정성과 국내 경제 상황이 맞물려 원/달러 환율이 급등하는 양상을 보였습니다. 이에 외환 당국이 시장 안정화를 위해 적극적으로 개입하고 있으며, 이는 기업과 가계의 경제 활동에 영향을 미칠 수 있습니다.",
+        "source_url": "https://www.gokorea.kr/news/articleView.html?idxno=868693"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20korean%20economy%2C%20growth%20chart%2C%20semiconductor%20chip%2C%20factory%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91170&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80799&nologo=true"
     },
     {
-      "id": "economy-kospi-fx-paradox",
+      "id": "economy-002",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "dual_axis_chart",
-      "title": "코스피 활황 vs. 환율 금융위기 수준…이례적 괴리",
-      "subtitle": "증시 강세에도 원화 약세 지속, 외신 주목",
+      "viz_type": "bar_chart",
+      "title": "아시아 증시 하락세, 코스피 및 반도체주 급락 출발",
+      "subtitle": "미국 반도체 종목 급락 여파, 한국 시장에도 영향",
       "viz_data": {
         "stats": [
           {
-            "value": "활황",
+            "value": "하락",
+            "label": "아시아 증시"
+          },
+          {
+            "value": "급락",
             "label": "코스피"
           },
           {
-            "value": "1510원+",
-            "label": "원/달러 환율"
-          },
-          {
-            "value": "이례적",
-            "label": "괴리 현상"
+            "value": "급락",
+            "label": "韓 CHIP주"
           }
         ],
-        "main_number": "주목",
-        "main_text": "통화와 증시의 비정상적 괴리 현상에 시장 긴장"
+        "main_number": "↓",
+        "main_text": "미국 반도체 시장 급락이 아시아 증시 전반에 영향"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, stock market chart up, currency exchange rate chart down, paradox, economic anomaly",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "코스피가 활황을 보이는 반면 원/달러 환율은 금융위기 수준으로 급등하며 이례적인 괴리 현상이 발생, 월스트리트저널 등 외신에서도 이를 주목하고 있다.",
+        "summary": "아시아 증시가 전반적으로 하락세로 출발했으며, 특히 코스피와 한국 반도체 관련 주식들이 미국 반도체 종목 급락의 영향으로 크게 하락했습니다.",
         "points": [
-          "코스피 시장 강세",
-          "원/달러 환율 1510원대 급등",
-          "통화-증시 이례적 괴리 현상",
-          "외신들도 상황 주시"
+          "일본 및 호주 증시 하락 출발",
+          "코스피와 한국 반도체 주식 급락",
+          "지난밤 미국 증시 주요 반도체 종목 급락 영향",
+          "나스닥 지수 및 S&P500 지수 하락"
         ],
-        "quote": "통화와 증시의 괴리 현상은 이례적인 것... 일반적으로 증시 강세는 통화 강세와 동반된다.",
-        "context": "일반적으로 증시 강세는 통화 가치 상승으로 이어지나, 현재 한국 시장은 대내외 변수로 인해 이례적인 동조화 이탈 현상을 보이며 경제 불확실성을 높이고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/277/0005774157?sid=101"
+        "quote": "미국 경제방송 씨엔비씨는 '앞서 지난밤 미국증시에서 주요 반도체 종목이 급락하며 나스닥 지수와 S&P500 지수를 하락시켰다'면서 '이런 분위기가 아시아시장, 특히 한국시장에도 영향을 미치고 있다'고 보도했습니다.",
+        "context": "반도체 산업은 글로벌 경제의 핵심 동력이며, 주요국 증시의 흐름에 큰 영향을 미칩니다. 미국 시장의 변화가 아시아 시장에 미치는 파급 효과를 보여주는 사례입니다.",
+        "source_url": "http://www.choicenews.co.kr/news/articleView.html?idxno=166351"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20stock%20market%20chart%20up%2C%20currency%20exchange%20rate%20chart%20down%2C%20paradox%2C%20economic%20anomaly%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86380&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25038&nologo=true"
     },
     {
-      "id": "tech-samsung-element-investment",
+      "id": "economy-003",
       "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "pie_chart",
-      "title": "삼성전자, 美 유전자 분석기업 '엘리먼트' 최대 주주 등극",
-      "subtitle": "정밀의료 시장 선점 위해 2670억 추가 투자",
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "프로메디우스, 215억원 규모 자금 유치 성공",
+      "subtitle": "8개 기관 참여, 엘렉트와 볼보건설기계의 협력 사례도 언급",
       "viz_data": {
         "stats": [
           {
-            "value": "엘리먼트",
-            "label": "투자 대상"
+            "value": "215억원",
+            "label": "유치 금액"
           },
           {
-            "value": "1대 주주",
-            "label": "지위"
+            "value": "8개",
+            "label": "참여 기관"
           },
           {
-            "value": "2670억",
-            "label": "추가 투자"
+            "value": "2023년",
+            "label": "엘렉트 협력"
+          }
+        ],
+        "main_number": "215억원",
+        "main_text": "다수의 기관으로부터 대규모 투자 유치 성공"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "프로메디우스가 이앤벤처파트너스 등 8개 기관으로부터 총 215억 원 규모의 자금을 유치했습니다. 이는 스타트업 생태계의 활력과 기술력에 대한 기대를 보여줍니다.",
+        "points": [
+          "프로메디우스, 215억원 규모 자금 유치",
+          "이앤벤처파트너스, 엔브이씨 등 8개 기관 참여",
+          "2023년 엘렉트와 볼보건설기계의 협력 사례 언급",
+          "스타트업 투자 활성화 및 기술 성장 기대"
+        ],
+        "quote": "이번 투자에는 이앤벤처파트너스, 엔브이씨, 마이다스동아, 신용보증기금, 시리즈벤처스, 경남벤처투자, 경남창조경제혁신센터, 부산지역대학연합기술지주 등 8개 기관이 참여했다.",
+        "context": "스타트업에 대한 투자는 미래 성장 동력을 확보하고 혁신을 촉진하는 중요한 경제 활동입니다. 이러한 투자는 새로운 기술과 서비스의 개발로 이어져 전반적인 산업 발전에 기여합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004629493?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7274&nologo=true"
+    },
+    {
+      "id": "tech-001",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "network",
+      "title": "삼성SDS, AI·클라우드 보안 경쟁력 강화 협력",
+      "subtitle": "美 엑스보우, 데이텀 시큐리티와 파트너십 체결",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2개",
+            "label": "협력사"
+          },
+          {
+            "value": "AI 기반",
+            "label": "탐지 역량"
+          },
+          {
+            "value": "클라우드",
+            "label": "보안 환경"
           }
         ],
         "main_number": "확대",
-        "main_text": "정밀의료 분야 AI·IT 기술 시너지 기대"
+        "main_text": "글로벌 파트너십으로 AI/클라우드 보안 역량 강화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, samsung logo, DNA analysis, precision medicine, investment, biotech",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "삼성전자가 미국 유전자 분석기업 엘리먼트에 2670억원을 추가 투자하여 1대 주주가 됐다. 이는 정밀의료 시장을 선점하고, 엘리먼트의 유전자 분석 정확도와 비용 효율성을 AI·IT 기술로 높이는 시너지를 창출하기 위함이다.",
+        "summary": "삼성SDS가 미국의 AI 보안 스타트업 엑스보우, 클라우드 보안 전문기업 데이텀 시큐리티와 협력하여 AI 및 클라우드 보안 경쟁력을 강화합니다.",
         "points": [
-          "엘리먼트에 2670억 추가 투자",
-          "삼성전자 1대 주주 등극",
-          "AI·IT 기술로 유전자 분석 정확도↑",
-          "정밀의료 시장 경쟁력 강화 목표"
+          "삼성SDS, 엑스보우와 AI 기반 취약점 탐지 협력",
+          "데이텀 시큐리티와 멀티 클라우드 보안 강화 협력",
+          "기업 고객의 웹 기반 IT 자산 보안 역량 확대",
+          "AI 기술 활용한 보안 취약 요소 선제적 대응 목표"
         ],
-        "quote": "엘리먼트 역시 삼성전자의 AI 및 IT 기술을 활용해 유전자 분석 정확도를 더욱 높이고 비용 효율성을 개선함으로써 정밀의료 시장에서 경쟁력을 강화할 것으로 기대하고 있다.",
-        "context": "글로벌 헬스케어 시장에서 정밀의료의 중요성이 커지는 가운데, 삼성전자는 AI 및 IT 기술력을 바탕으로 바이오 분야에서의 입지를 강화하며 미래 성장 동력을 확보하고 있다.",
-        "source_url": "https://www.kizmom.com/news/articleView.html?idxno=110845"
+        "quote": "삼성SDS는 엑스보우와의 협력을 통해 기업 고객의 웹 기반 IT 자산을 대상으로 한 AI 기반 취약점 탐지 역량을 확대한다.",
+        "context": "AI와 클라우드 기술의 확산과 함께 사이버 보안 위협 또한 고도화되고 있습니다. 이에 기업들은 AI 기반의 보안 기술을 도입하고 전문 기업들과 협력하여 방어 체계를 강화하는 추세입니다.",
+        "source_url": "https://www.viva100.com/article/20260610500228"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20samsung%20logo%2C%20DNA%20analysis%2C%20precision%20medicine%2C%20investment%2C%20biotech%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84528&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12093&nologo=true"
     },
     {
-      "id": "tech-ms-anthropic-ai-ethics",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bubble_chart",
-      "title": "MS CEO, 앤트로픽 겨냥 \"AI가 의식 있는 것처럼 행동…위험\"",
-      "subtitle": "AI 윤리 및 개발 방향에 대한 업계 최고위층의 경고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "MS",
-            "label": "발언 주체"
-          },
-          {
-            "value": "앤트로픽",
-            "label": "대상 기업"
-          },
-          {
-            "value": "위험",
-            "label": "주요 경고"
-          }
-        ],
-        "main_number": "심각성",
-        "main_text": "AI 의식 관련 논의의 심각성 부각"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, brain, AI chip, robot, microsoft logo, anthropics logo, ethical debate",
-      "detail": {
-        "summary": "마이크로소프트 AI 수장이 앤트로픽의 추측을 겨냥하여 'AI가 마치 의식 있는 것처럼 행동한다'는 발언이 '정말 정말 위험하다'고 경고하며 AI 윤리 논의의 심각성을 부각했다.",
-        "points": [
-          "MS AI 수장의 공개 경고",
-          "앤트로픽 AI 의식 주장 겨냥",
-          "'위험하다'는 표현으로 심각성 강조",
-          "AI 개발 윤리 및 방향성 논의 심화"
-        ],
-        "quote": "마이크로소프트(MS) AI 수장이 “앤트로픽의 추측은 ‘정말 정말’ 위험하다”고 말해 사안의 심각성을 부각했다고 전했다.",
-        "context": "AI 기술 발전 속도가 가속화되면서, AI의 자율성, 의식, 그리고 인간 사회에 미칠 영향에 대한 윤리적, 철학적 논쟁이 업계 최고위층 사이에서도 활발하게 전개되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/029/0003030945?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20brain%2C%20AI%20chip%2C%20robot%2C%20microsoft%20logo%2C%20anthropics%20logo%2C%20ethical%20debate%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48752&nologo=true"
-    },
-    {
-      "id": "tech-ai-funding-wallstreet",
+      "id": "tech-002",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "bar_chart",
-      "title": "AI 자금조달 열풍, 월가 전방위로 확산",
-      "subtitle": "데이터센터·반도체 확보에 막대한 현금 수요",
+      "title": "배스킨라빈스, 현대퓨처넷 AI 챗봇 도입",
+      "subtitle": "고객 편의 향상 및 효율적인 AI 어시스턴트 솔루션 제공",
       "viz_data": {
         "stats": [
           {
-            "value": "데이터센터",
-            "label": "주요 투자처"
+            "value": "도입",
+            "label": "AI 챗봇"
           },
           {
-            "value": "반도체",
-            "label": "필요 요소"
+            "value": "고객 편의",
+            "label": "주요 효과"
           },
           {
-            "value": "월가",
-            "label": "자금 공급원"
+            "value": "확장 가능",
+            "label": "서비스"
           }
         ],
-        "main_number": "막대한",
-        "main_text": "빅테크의 대규모 자본 지출이 월가에 영향"
+        "main_number": "↑",
+        "main_text": "AI 챗봇 도입으로 고객 서비스 품질 향상 및 효율화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, wall street, money, investment, AI chip, data center, funding boom",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "AI 기술 발전에 따라 데이터센터와 반도체 확보에 막대한 현금이 필요해지면서, 월가가 이 자금 수요를 전방위로 떠받치고 있으며, 빅테크의 대규모 자본 지출이 이 흐름의 중심에 있다.",
+        "summary": "현대퓨처넷이 비알코리아와 협력하여 배스킨라빈스에 AI 챗봇 어시스턴트 솔루션을 도입합니다. 이는 고객사의 IT 환경에 안정적으로 구동되며 향후 서비스 확장에 용이하도록 설계되었습니다.",
         "points": [
-          "AI 기술 개발에 막대한 자금 소요",
-          "데이터센터 및 반도체 확보 비용 급증",
-          "월가, AI 자금조달 전방위 지원",
-          "빅테크 기업들의 투자 주도"
+          "현대퓨처넷, 배스킨라빈스에 AI 챗봇 솔루션 도입",
+          "고객사의 IT 환경에서 안정적 구동 및 서비스 확장 용이",
+          "맞춤형 개발 가능한 자체 AI 엔진 기반",
+          "다양한 기업의 AI 서비스 도입 가속화"
         ],
-        "quote": "IT기업들이 데이터센터와 반도체 확보에 막대한 현금을 필요로 하면서 월가가 이 자금 수요를 전방위로 떠받치고 있다고 월스트리트저널(WSJ)이 9일... 보도했다.",
-        "context": "AI 산업의 폭발적인 성장은 기술 개발뿐만 아니라 인프라 구축에도 막대한 투자를 요구하며, 이는 금융 시장의 흐름과 투자 전략에도 큰 변화를 가져오고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026060918252995139a1f309431_1"
+        "quote": "앞으로 다양한 기업의 IT(정보기술) 환경에 빠르게 안정화하고 맞춤형 개발이 가능한 자체 AI 엔진을 기반으로 AI 어시스턴트 서비스 도입을 추진하겠다.",
+        "context": "AI 챗봇은 고객 서비스 효율화, 인력 비용 절감, 24시간 서비스 제공 등 다양한 이점으로 인해 유통 및 서비스 업계에서 도입이 활발하게 이루어지고 있습니다. 이는 고객 경험을 향상시키고 기업 경쟁력을 강화하는 중요한 요소입니다.",
+        "source_url": "https://daily.hankooki.com/news/articleView.html?idxno=1375128"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20wall%20street%2C%20money%2C%20investment%2C%20AI%20chip%2C%20data%20center%2C%20funding%20boom%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=64984&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76375&nologo=true"
     },
     {
-      "id": "society-earlychildhood-education",
+      "id": "tech-003",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "삼성전자, 美 DNA 분석업체 엘리먼트 최대주주 등극",
+      "subtitle": "메드텍·헬스케어 신사업 진출 본격화, AI·IT 기술 접목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "최대주주",
+            "label": "삼성전자 지위"
+          },
+          {
+            "value": "정밀 의료",
+            "label": "핵심 분야"
+          },
+          {
+            "value": "AI·IT",
+            "label": "활용 기술"
+          }
+        ],
+        "main_number": "확장",
+        "main_text": "AI·IT 기술을 활용한 메드텍 및 헬스케어 분야 신사업 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "삼성전자가 미국의 DNA 분석업체 '엘리먼트'의 최대주주가 되면서 메드텍 및 헬스케어 신사업 진출을 본격화했습니다. 삼성전자의 AI 및 IT 기술을 활용해 DNA 시퀀싱의 정확도를 높이고 비용을 절감할 계획입니다.",
+        "points": [
+          "삼성전자, 美 DNA 분석업체 '엘리먼트' 최대주주 지위 확보",
+          "메드텍 및 헬스케어 분야 신사업 진출 가속화",
+          "삼성전자의 AI 및 IT 기술을 엘리먼트에 접목",
+          "DNA 시퀀싱 정확도 향상 및 비용 절감 목표"
+        ],
+        "quote": "엘리먼트는 삼성전자의 AI 및 IT 기술을 활용해 DNA 시퀀싱 정확도를 더욱 높이고 비용을 낮춤으로써 정밀 의료 분야에서 다양한 사업 시너지를 기대할 수 있게 됐다.",
+        "context": "고령화 사회와 만성 질환 증가로 헬스케어 시장이 급성장하고 있으며, 특히 AI와 IT 기술이 융합된 정밀 의료 분야가 주목받고 있습니다. 삼성전자의 이번 투자는 미래 성장 동력 확보를 위한 전략적 행보로 해석됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0013997319?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73813&nologo=true"
+    },
+    {
+      "id": "society-001",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "윤건영 의원, '선관위 '무풍지대' 감사 및 개헌 필요' 주장",
+      "subtitle": "선거 관리 공정성 및 독립성 논란 재점화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "제기",
+            "label": "감사 요구"
+          },
+          {
+            "value": "개헌",
+            "label": "필요성 언급"
+          },
+          {
+            "value": "무풍지대",
+            "label": "논란 대상"
+          }
+        ],
+        "main_number": "재점화",
+        "main_text": "선관위 독립성 및 공정성 문제에 대한 사회적 논의 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "윤건영 의원이 선거관리위원회를 '무풍지대'로 지칭하며 감사와 필요시 개헌을 통해 공정성을 확보해야 한다고 주장했습니다. 이는 선관위의 독립성과 운영 방식에 대한 사회적 논란을 다시 불러일으키고 있습니다.",
+        "points": [
+          "윤건영 의원, 선관위를 '무풍지대'로 비판",
+          "선관위의 특혜성 휴직 및 소쿠리 투표 논란 언급",
+          "공정성 확보 위한 감사 요구 및 개헌 필요성 제기",
+          "정치권 내 선관위 개혁 논의 본격화"
+        ],
+        "quote": "선관위가 무풍지대였다. 소쿠리 (투표) 때도... 정권의 정치검찰이 많은 부분을 도륙 냈다.",
+        "context": "선거 관리의 공정성과 신뢰성은 민주주의의 근간을 이룹니다. 선관위의 운영에 대한 의혹 제기는 유권자들의 불신을 초래하고, 궁극적으로는 선거 결과의 정당성에도 영향을 미칠 수 있어 중요한 사회적 이슈로 다뤄집니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0008994953?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86695&nologo=true"
+    },
+    {
+      "id": "society-002",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "신한금융, 5조원 규모 '포용금융 2.0 프로젝트' 출격",
+      "subtitle": "금융사의 사회적 책임 이행 및 사회 안전망 역할 강화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5조원",
+            "label": "투자 금액"
+          },
+          {
+            "value": "2.0",
+            "label": "프로젝트 버전"
+          },
+          {
+            "value": "강화",
+            "label": "사회적 책임"
+          }
+        ],
+        "main_number": "5조원",
+        "main_text": "대규모 포용금융으로 사회적 가치 창출"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "신한금융이 5조원 규모의 '포용금융 2.0 프로젝트'를 시작하며 금융사의 사회적 책임 이행과 사회 안전망 역할을 강화하겠다고 밝혔습니다.",
+        "points": [
+          "신한금융, 5조원 규모의 '포용금융 2.0 프로젝트' 가동",
+          "금융 취약 계층 지원 및 사회적 가치 창출 목표",
+          "금융사의 사회적 책임 실질적 이행 강조",
+          "고객 신뢰 기반의 기업 시민으로서 역할 수행"
+        ],
+        "quote": "이번 프로젝트는 단순한 지원을 넘어 금융사가 사회적 책임을 실질적으로 이행하는 과정이며, 사회 안전망 역할을 다하는 기업시민으로서 고객의 신뢰에 반드시 보답하겠다.",
+        "context": "금융의 사회적 역할은 단순히 이윤 창출을 넘어 사회 구성원 모두에게 혜택이 돌아가도록 하는 것입니다. 특히 경제적 어려움을 겪는 이들에게 금융 접근성을 높이고 지원하는 포용금융은 사회의 지속가능한 발전에 기여합니다.",
+        "source_url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=79097"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38546&nologo=true"
+    },
+    {
+      "id": "society-003",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "영유아 무상교육 공약, 사교육 방조 비판",
-      "subtitle": "공공성 논의 속 사설 교육 활성화 지적",
+      "title": "특수고용 노동자, '일은 똑같이 해도 권리는 없어'",
+      "subtitle": "노동법 사각지대 특수고용 노동자 권리 문제 심층 조명",
       "viz_data": {
         "stats": [
           {
-            "value": "무상 교육",
-            "label": "공약"
+            "value": "동일",
+            "label": "노동 내용"
           },
           {
-            "value": "사교육",
-            "label": "문제 제기"
+            "value": "부재",
+            "label": "노동 권리"
           },
           {
-            "value": "정치 입안자",
-            "label": "비판 대상"
+            "value": "대기업",
+            "label": "고용 형태"
           }
         ],
-        "main_number": "방조",
-        "main_text": "영유아 교육의 공공성 훼손 우려 증대"
+        "main_number": "사각지대",
+        "main_text": "특수고용 노동자들의 권리 보호 공백 심각성 제기"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, kindergarten, school, teacher, children, education policy, money",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "영유아 무상교육 공약이 오히려 유치원과 어린이집의 사교육을 방조하고 조기 인지교육을 부추긴다는 비판이 제기되었다. 정치 입안자들이 영유아 교육의 공공성보다 사설 교육을 활성화한다는 지적이다.",
+        "summary": "특수고용 노동자들이 일반 노동자와 동일하게 일하지만 노동법의 보호를 받지 못해 권리 사각지대에 놓여있다는 문제가 제기되었습니다.",
         "points": [
-          "무상교육 공약의 역효과 지적",
-          "유치원/어린이집 사교육 방조",
-          "조기 인지교육 심화 우려",
-          "공공성보다 사설 교육 활성화 비판"
+          "특수고용 노동자, 정규직과 동일한 노동에도 권리 부재",
+          "노동법 밖 사각지대에 놓인 다양한 특수고용 형태",
+          "대기업 위주 고용 형태, 사회적 책임 요구 증가",
+          "질 좋은 일자리 부족 문제와 연계된 사회적 이슈"
         ],
-        "quote": "오히려 정치 입안자들은 무상교육 공약을 통해 유치원과 어린이집의 사교육을 방조하고 조기 인지교육을...",
-        "context": "저출산 문제와 함께 영유아 교육의 질과 공공성 확보가 중요한 사회적 과제로 떠오르는 가운데, 정책의 실효성과 부작용에 대한 심도 깊은 논의가 필요하다.",
-        "source_url": "https://www.ibabynews.com/news/articleView.html?idxno=151878"
+        "quote": "위탁계약으로 노동자를 사용하는 회사들 대부분이 대기업인데, 이런 기업들의 사회적 책임을 물어야 한다고 생각합니다.",
+        "context": "플랫폼 노동의 확산과 함께 특수고용 형태의 노동자가 급증하면서 이들의 노동권 보호 문제가 중요한 사회적 이슈로 떠오르고 있습니다. 이들의 권리 보장은 건강한 노동 시장을 구축하고 사회적 불평등을 해소하는 데 필수적입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/002/0002444542?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20kindergarten%2C%20school%2C%20teacher%2C%20children%2C%20education%20policy%2C%20money%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74346&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=71350&nologo=true"
     },
     {
-      "id": "society-women-politics",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "여성 정치 참여↑, 대표성 전국 '하위권' 유지",
-      "subtitle": "여성 정치인 수 증가에도 진정한 대표성 부족",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "증가",
-            "label": "참여율"
-          },
-          {
-            "value": "하위권",
-            "label": "대표성"
-          },
-          {
-            "value": "전국",
-            "label": "범위"
-          }
-        ],
-        "main_number": "격차",
-        "main_text": "여성 정치인 수와 실질적 영향력 간의 격차"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, women in politics, equal representation, voting, parliament, gender equality",
-      "detail": {
-        "summary": "여성의 정치 참여는 늘었지만, 실제 대표성은 전국적으로 하위권에 머무르고 있다는 분석이 나왔다. 이는 여성 정치인 수의 증가가 곧 진정한 대표성 확대로 이어지지 않음을 시사한다.",
-        "points": [
-          "여성 정치 참여율 증가 추세",
-          "여성 대표성 전국 하위권",
-          "수적 증가 vs. 실질적 영향력 격차",
-          "젠더 정치 불균형 문제 제기"
-        ],
-        "quote": "여성 정치 참여 늘었지만… 대표성은 전국 '하위권'",
-        "context": "민주주의 사회에서 다양한 계층의 목소리를 반영하기 위한 여성의 정치 참여 확대는 필수적이지만, 수치상의 증가를 넘어선 실질적인 대표성 확보 방안에 대한 고민이 필요하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016129498?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20women%20in%20politics%2C%20equal%20representation%2C%20voting%2C%20parliament%2C%20gender%20equality%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=72611&nologo=true"
-    },
-    {
-      "id": "society-postoffice-savings",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "우체국 공익적금 운영, 2200명에 성취지원금 50만원",
-      "subtitle": "취약계층 경제 자립 지원, 포용금융 실현",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2200명",
-            "label": "지원 대상"
-          },
-          {
-            "value": "50만원",
-            "label": "성취지원금"
-          },
-          {
-            "value": "우체국",
-            "label": "운영 주체"
-          }
-        ],
-        "main_number": "2200+",
-        "main_text": "취약계층 경제적 자립 기반 마련"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, piggy bank, money, post office, savings, social welfare, financial support",
-      "detail": {
-        "summary": "우정사업본부가 '새로 봄 우체국 공익적금'을 운영, 2200명의 취약계층에 50만원의 성취지원금을 제공하여 저축 습관과 경제적 자립 기반을 마련하도록 돕는다.",
-        "points": [
-          "‘새로 봄 우체국 공익적금’ 운영",
-          "2200명 대상 선정",
-          "성취지원금 50만원 지급",
-          "저축 습관 및 경제 자립 지원"
-        ],
-        "quote": "우체국이 보유한 인프라를 적극 활용해 사회적 책임을 다하고 포용금융 실현을 위해 지속 노력하겠다”고 말했다.",
-        "context": "경제적 어려움을 겪는 이들에게 실질적인 지원을 제공하고 건강한 저축 습관을 형성할 수 있도록 돕는 사회공헌 사업으로, 포용적 금융 정책의 일환이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/119/0003099446?sid=105"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20piggy%20bank%2C%20money%2C%20post%20office%2C%20savings%2C%20social%20welfare%2C%20financial%20support%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48735&nologo=true"
-    },
-    {
-      "id": "life-korea-railroad-culture-exhibition",
+      "id": "life-001",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "timeline",
-      "title": "한국 철도문화전 개막, 서울역에서 역사와 미래를",
-      "subtitle": "철도 2026년 역사와 미래 집대성, 대규모 전시",
+      "title": "청와대 사랑채 '팔색찬란 K' 특별전 개최",
+      "subtitle": "K-콘텐츠 확장 과정과 정상외교 기록 공개",
       "viz_data": {
         "stats": [
           {
-            "value": "서울역",
-            "label": "장소"
+            "value": "이달",
+            "label": "개최 시기"
           },
           {
-            "value": "역사, 미래",
-            "label": "주제"
+            "value": "1층",
+            "label": "전시 장소"
           },
           {
-            "value": "2026년",
-            "label": "개최 연도"
+            "value": "확장",
+            "label": "K-콘텐츠"
           }
         ],
-        "main_number": "재조명",
-        "main_text": "한국 철도의 발자취와 미래 비전 제시"
+        "main_number": "↑",
+        "main_text": "국민과 함께 걸어온 'K'의 뿌리와 확장 과정을 조명"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, train, railroad tracks, historical timeline, exhibition, culture",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "서울역에서 대한민국 철도의 역사와 미래를 집대성한 대규모 철도문화전 '서울역 2026 다시 뛰는 철도'가 개막한다. 올해 전시 주제는 '다시 뛰는 철도'로, 철도의 사회적 역할과 미래상을 제시한다.",
+        "summary": "청와대 사랑채에서 '오색찬란 K' 특별전이 이달 개최됩니다. K-콘텐츠의 확장 과정과 함께 국민과 세계인에게 K-컬처를 알린 정상외교의 기록이 전시됩니다.",
         "points": [
-          "서울역에서 대규모 철도문화전 개막",
-          "한국 철도의 역사와 미래 조명",
-          "2026년 철도의 해 의미 부여",
-          "철도의 사회적 역할과 미래상 제시"
+          "청와대 사랑채 1층에서 '팔색찬란 K' 특별전 개최",
+          "'광장의 빛'으로 국민과 함께 한 지난 1년 정책 조명",
+          "K-컬처 교류 통한 정상외교 장면 및 기록 공개",
+          "매주 문화요일 행사 및 공연 예정"
         ],
-        "quote": "내일, 이 서울역에서 대한민국 철도의 역사와 미래를 집대성한 대규모 철도문화전 ‘서울역 2026 다시 뛰는 철도’가 개막합니다.",
-        "context": "철도는 단순한 교통수단을 넘어 국가 발전의 핵심 동력이자 국민 생활의 중요한 부분이었다. 이번 문화전은 철도의 역사적 가치를 되새기고 미래 비전을 공유하는 기회가 될 것이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000873138?sid=103"
+        "quote": "청와대 사랑채에서 오색찬란한 'K'의 뿌리를 찾아가는 과정을 통해 대한민국의 문화적...",
+        "context": "K-컬처는 전 세계적으로 큰 인기를 얻으며 대한민국의 국가 브랜드를 높이고 있습니다. 이러한 특별전은 국민들에게 K-컬처의 발전상을 보여주고 자긍심을 고취하며, 외국인 관광객에게는 한국 문화를 체험할 기회를 제공합니다.",
+        "source_url": "https://www.ajunews.com/view/20260610090404067"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20train%2C%20railroad%20tracks%2C%20historical%20timeline%2C%20exhibition%2C%20culture%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=5537&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60154&nologo=true"
     },
     {
-      "id": "life-running-crew-trend",
+      "id": "life-002",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "러닝, 단순 운동 넘어 라이프스타일로…'런티켓' 등장",
-      "subtitle": "러닝 인구 증가 속 '어떻게 달릴 것인가'가 중요",
+      "viz_type": "bar_chart",
+      "title": "시몬스 N32, 첫 모션베드 라이브커머스 진행",
+      "subtitle": "온라인 공략 강화 및 새로운 홈 라이프스타일 제안",
       "viz_data": {
         "stats": [
           {
-            "value": "증가",
-            "label": "러닝 인구"
+            "value": "첫",
+            "label": "라이브커머스"
           },
           {
-            "value": "라이프스타일",
-            "label": "새로운 의미"
+            "value": "온라인",
+            "label": "공략 채널"
           },
           {
-            "value": "런티켓",
-            "label": "신조어"
+            "value": "5개",
+            "label": "플레이트"
           }
         ],
-        "main_number": "확장",
-        "main_text": "러닝 관련 시장 및 문화의 확장 가속화"
+        "main_number": "강화",
+        "main_text": "온라인 채널 확장 통한 새로운 라이프스타일 경험 제공"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, running shoes, group of runners, city park, healthy lifestyle, sports trend",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "러닝이 단순한 운동을 넘어 하나의 라이프스타일로 자리 잡으면서 '어떻게 달릴 것인가'가 중요해졌고, 러닝 크루 문화와 함께 '런티켓' 같은 신조어가 등장할 정도로 러닝 인구가 빠르게 증가하고 있다.",
+        "summary": "시몬스의 비건 매트리스 N32가 첫 모션베드 라이브커머스를 진행하며 온라인 시장 공략을 강화합니다. 이는 수면뿐만 아니라 독서, TV 시청 등 다양한 활동을 침대 위에서 즐기는 최신 홈 라이프 트렌드를 반영한 것입니다.",
         "points": [
-          "러닝, 단순 운동 넘어 라이프스타일로",
-          "러닝 인구 빠르게 증가",
-          "러닝 크루 문화 확산",
-          "'런티켓' 등 신조어 등장"
+          "시몬스 N32, 모션베드 라이브커머스 최초 진행",
+          "침대 위 다양한 활동 즐기는 홈 라이프 트렌드 반영",
+          "5개의 플레이트로 세밀한 각도 조절 가능",
+          "롯데백화점, 신세계백화점 등 백화점 입점 확대"
         ],
-        "quote": "러닝이 단순한 운동을 넘어 하나의 라이프스타일로 자리 잡으면서 달리는 행위 자체뿐만 아니라 '어떻게 달릴 것인가'도 중요한 이슈가 됐다.",
-        "context": "건강과 웰빙을 추구하는 현대인들에게 러닝은 손쉽게 접근할 수 있는 운동이자 커뮤니티 활동의 일환으로 각광받고 있으며, 관련 시장의 성장도 기대된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/665/0000007526?sid=102"
+        "quote": "N32 모션베드는 침대 위에서 수면은 물론 독서, TV 시청, 업무 등 다양한 활동을 하는 라이프스타일을 반영한 제품으로, 5개의 플레이트로 분절돼 사용자의 자세나 수면 환경 등에 따라 세밀하게 각도 조절이 가능하다.",
+        "context": "코로나19 팬데믹 이후 집에서 보내는 시간이 늘어나면서 '홈코노미'와 '홈 라이프' 트렌드가 확산되었습니다. 이에 따라 가구 업계는 단순히 가구의 기능을 넘어 사용자의 다양한 생활 양식을 지원하는 제품 개발과 마케팅에 주력하고 있습니다.",
+        "source_url": "https://www.ziksir.com/news/articleView.html?idxno=136319"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20running%20shoes%2C%20group%20of%20runners%2C%20city%20park%2C%20healthy%20lifestyle%2C%20sports%20trend%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38348&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=77506&nologo=true"
     },
     {
-      "id": "life-2026-worldcup-opener",
+      "id": "life-003",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "map",
-      "title": "2026 북중미 월드컵 D-1, 역대 최대 규모 개막",
-      "subtitle": "블랙핑크 리사, BTS 등 K-팝 스타 참여 예고",
+      "viz_type": "network",
+      "title": "KT·우리은행, 몽골TDB와 외국인 'K-라이프 패키지' 제공",
+      "subtitle": "한국 입국 전 통신·금융 서비스 한 번에 해결, 생활 편의 증진",
       "viz_data": {
         "stats": [
           {
-            "value": "3국",
-            "label": "개최국"
+            "value": "3사",
+            "label": "참여 기관"
           },
           {
-            "value": "48팀",
-            "label": "참가국"
+            "value": "원스톱",
+            "label": "서비스 형태"
           },
           {
-            "value": "12일",
-            "label": "개막일"
+            "value": "외국인",
+            "label": "주요 고객"
           }
         ],
-        "main_number": "최대",
-        "main_text": "역대 월드컵 중 가장 큰 규모와 K-팝 참여"
+        "main_number": "편리성 ↑",
+        "main_text": "외국인 국내 생활 정착을 위한 원스톱 통신·금융 서비스"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, world cup trophy, soccer ball, north america map, stadium, opening ceremony, k-pop star",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "2026 북중미 월드컵이 12일 개막하며 역대 최대 규모로 진행된다. 블랙핑크 리사가 개막식에, BTS는 결승전 하프타임 쇼에 참여하여 K-팝의 위상을 높일 예정이다.",
+        "summary": "KT가 우리은행, 몽골TDB은행과 협력하여 한국 입국 예정인 몽골 외국인들이 입국 전 휴대전화 개통 및 계좌 개설을 한 번에 해결할 수 있는 'K-라이프 토탈 패키지'를 제공합니다.",
         "points": [
-          "2026 북중미 월드컵 D-1",
-          "역대 최대 규모 월드컵",
-          "블랙핑크 리사 개막식 참여",
-          "BTS 결승전 하프타임 쇼 출연"
+          "KT, 우리은행, 몽골TDB은행 3사 협력",
+          "몽골 외국인 대상 'K-라이프 토탈 패키지' 제공",
+          "한국 입국 전 휴대폰 및 계좌 개설 원스톱 서비스",
+          "국내 체류 외국인의 조기 생활 정착 지원"
         ],
-        "quote": "역대 최대 규모 월드컵 12일 개막…한국, '장신 공격수' 박윤희 출격",
-        "context": "월드컵은 전 세계인의 축제이자 스포츠를 통한 문화 교류의 장이다. 이번 대회는 역대 최대 규모와 함께 K-팝 스타들의 참여로 더욱 풍성한 볼거리를 제공할 것으로 기대된다.",
-        "source_url": "http://www.newsian.co.kr/news/articleView.html?idxno=90718"
+        "quote": "아울러 KT와 우리은행은 계좌 자동이체 연계 웰컴 프로모션과 통신·금융 서비스, 생활 편의 혜택 등을 종합적으로 포함한 'K-라이프 토탈 패키지'를 공동 선보일 계획이다.",
+        "context": "국내 체류 외국인이 증가하면서 이들의 초기 정착을 돕기 위한 다양한 서비스의 필요성이 커지고 있습니다. 통신과 금융은 한국 생활의 필수 요소이므로, 이를 통합 제공하는 서비스는 외국인의 편의를 크게 향상시킬 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0013997320?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20world%20cup%20trophy%2C%20soccer%20ball%2C%20north%20america%20map%2C%20stadium%2C%20opening%20ceremony%2C%20k-pop%20star%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86862&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99086&nologo=true"
     }
   ],
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T08:24:38.978587+09:00"
+  "generated_at": "2026-06-10T09:29:38.618779+09:00"
 }
