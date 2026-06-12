@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-headline-musk",
-      "is_headline": true,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "number_stat",
-      "title": "일론 머스크, 세계 첫 '조만장자' 등극",
-      "subtitle": "스페이스X 상장 대박, 美 시총 6위 우뚝",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1조 달러+",
-            "label": "머스크 자산"
-          },
-          {
-            "value": "2.1조 달러",
-            "label": "스페이스X 시총"
-          },
-          {
-            "value": "6위",
-            "label": "美 기업 시총"
-          }
-        ],
-        "main_number": "+19.3%",
-        "main_text": "스페이스X 상장 첫날 상승률"
-      },
-      "image_prompt": "cute pastel infographic illustration of a rocket launching and coins flying, with Elon Musk's silhouette, symbolizing immense wealth and space technology achievement, no text",
-      "detail": {
-        "summary": "일론 머스크가 스페이스X의 성공적인 나스닥 상장과 함께 세계 최초로 1조 달러 이상의 자산을 보유한 '조만장자'가 됐다. 스페이스X는 상장 첫날 19.3% 급등하며 시가총액 2.1조 달러로 미국 기업 중 6위에 올랐다.",
-        "points": [
-          "스페이스X, 나스닥 상장 첫날 19.3% 급등",
-          "시가총액 2.1조 달러 기록, 미국 기업 6위",
-          "머스크, 지분 가치 8600억 달러로 '조만장자' 등극",
-          "세계 2위 부호 대비 자산 3배 이상"
-        ],
-        "quote": "머스크 자산은 세계 2위부터 6위까지 부자 5명의 자산을 모두 합친 것보다 더 많다. - CNBC",
-        "context": "스페이스X의 상장은 우주 산업의 성장 가능성과 혁신 기술 기업의 가치를 입증하며, 세계 경제 및 기술 지형에 중요한 변화를 가져올 것으로 전망된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/079/0004157445?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rocket%20launching%20and%20coins%20flying%2C%20with%20Elon%20Musk%27s%20silhouette%2C%20symbolizing%20immense%20wealth%20and%20space%20technology%20achievement%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=52489&nologo=true"
-    },
-    {
       "id": "world-korea-italy",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
+      "viz_type": "comparison",
       "title": "한-이탈리아 '특별 전략적 동반자' 격상",
-      "subtitle": "정치·경제·문화 등 협력 지평 확대",
+      "subtitle": "AI, 경제, 문화 등 4개 MOU 체결로 협력 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "30여 개",
-            "label": "기업 참여"
+            "value": "4건",
+            "label": "MOU"
           },
           {
-            "value": "7개+",
-            "label": "협력 분야"
+            "value": "AI·기술",
+            "label": "주요 분야"
           },
           {
-            "value": "특별 전략적",
-            "label": "관계 격상"
+            "value": "2국",
+            "label": "참여"
           }
         ],
-        "main_number": "30여 개",
-        "main_text": "양국 기업 비즈니스 라운드테이블 참여"
+        "main_number": "+",
+        "main_text": "전략적 동반자 관계 격상"
       },
-      "image_prompt": "cute pastel infographic illustration of two hands shaking, symbolizing international cooperation between South Korea and Italy, with flags, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "한국과 이탈리아 양국 정상이 만나 '특별 전략적 동반자 관계'로 관계를 격상하고, 정치, 외교, 교역, 투자, 과학기술, 국방, 우주, 문화 등 다양한 분야에서 협력을 확대하기로 했다.",
+        "summary": "양국 정상회담을 통해 AI, 중소기업, 아프리카 개발, 사회연대경제 등 4개 분야 MOU 체결, '특별 전략적 동반자 관계'로 격상.",
         "points": [
-          "양국 관계 '특별 전략적 동반자' 격상",
-          "30여개 기업 참여 비즈니스 라운드테이블 개최",
-          "AI·반도체·우주 등 첨단 기술 협력 강화",
-          "문화·인적 교류 확대 논의"
+          "AI, 중소기업 등 4개 분야 MOU 체결",
+          "정상회담 통해 관계 격상 합의",
+          "교역·투자, 과학기술 등 협력 지평 확대",
+          "문화적 호감도 기반 시너지 기대"
         ],
-        "quote": "양국은 상호 보완적인 관계이며, 서로에게 도움이 되는 최적의 파트너가 될 것이다. - 이재명 대통령",
-        "context": "글로벌 불확실성이 커지는 가운데, 양국 간 협력 강화를 통해 안정적인 공급망 확보와 첨단 기술 경쟁력 제고를 목표로 한다.",
+        "quote": "양국은 문화에 대한 상호 호감도 매우 높다. 이런 양자간 호감은 양국간 협력에 큰 자산이 될 것",
+        "context": "이재명 대통령의 이탈리아 국빈 방문을 계기로 양국 간 협력 관계를 심화하고 실질적인 성과를 도출하기 위한 움직임.",
         "source_url": "https://n.news.naver.com/mnews/article/277/0005775811?sid=100"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20hands%20shaking%2C%20symbolizing%20international%20cooperation%20between%20South%20Korea%20and%20Italy%2C%20with%20flags%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24667&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40839&nologo=true"
     },
     {
-      "id": "world-iran-agreement",
+      "id": "world-iran-deal",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "미-이란, 핵 협상 '합의 근접'",
-      "subtitle": "트럼프-이란, 주말 내 합의 가능성 시사",
+      "title": "美-이란 '핵 문제' 합의 임박?",
+      "subtitle": "미국 \"이란, 무기한 핵 포기 약속\", 이란 \"후속 협상에서 논의\"",
       "viz_data": {
         "stats": [
           {
-            "value": "주말/내주 초",
-            "label": "합의 시점"
+            "value": "미국",
+            "label": "주요국"
           },
           {
-            "value": "양국",
-            "label": "주요 협상국"
+            "value": "이란",
+            "label": "주요국"
           },
           {
-            "value": "수개월",
-            "label": "협상 진행"
+            "value": "핵 포기",
+            "label": "주요 의제"
           }
         ],
-        "main_number": "근접",
-        "main_text": "양측 모두 합의에 그 어느 때보다 근접"
+        "main_number": "임박",
+        "main_text": "핵 합의 기대감 상승"
       },
-      "image_prompt": "cute pastel infographic illustration of a diplomatic handshake between US and Iran, with a nuclear symbol in the background, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "트럼프 전 대통령이 이란과의 핵 협상 합의가 주말 또는 내주 초에 이뤄질 수 있다고 언급했으며, 이란 외무장관 또한 그 어느 때보다 합의에 근접했다고 밝혔다. 양측은 국내 정치적 상황을 고려하며 신중한 입장을 보이고 있다.",
+        "summary": "미국은 이란이 종전 양해각서에서 무기한 핵 포기를 약속했다고 발표했으며, 이란은 핵 문제 논의는 후속 협상에서 이뤄질 것이라고 밝혀 합의에 대한 기대감이 커지고 있다.",
         "points": [
-          "트럼프, '주말 내지 내주 초 합의' 언급",
-          "이란 외무장관, '합의에 그 어느 때보다 근접' 확인",
-          "핵 협상 내용 및 경제적 보상 논의 중",
-          "양측 국내 정치 상황 고려한 발언 해석"
+          "미국, 이란의 '무기한 핵 포기' 약속 발표",
+          "이란, 핵 문제는 후속 협상에서 논의 입장",
+          "미국-이란 종전 합의 기대감 증폭",
+          "이란 의무 이행 시 경제적 혜택 가능성"
         ],
-        "quote": "이란은 MOU 체결이나 협상 자체만으로는 아무런 혜택을 얻지 못한다. 합의에 따른 의무를 이행함으로써 경제적 보상을 받게 된다. - 이란 관계자",
-        "context": "이란 핵 협상은 국제 정세에 큰 영향을 미치며, 유가 및 글로벌 경제에도 파급 효과를 줄 수 있어 귀추가 주목된다. 합의 시 중동 지역의 긴장 완화 및 새로운 경제 질서가 형성될 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009001573?sid=104"
+        "quote": "미국은 이란이 종전 양해각서에서 무기한 핵 포기를 약속했다",
+        "context": "중동 지역의 안정과 국제 안보에 중요한 영향을 미칠 미국과 이란 간의 핵 협상 진전 가능성이 제기되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002365931?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20diplomatic%20handshake%20between%20US%20and%20Iran%2C%20with%20a%20nuclear%20symbol%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15469&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20851&nologo=true"
     },
     {
-      "id": "economy-youth-asset-ladder",
+      "id": "world-k-defense-exports",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "K-방산 수출 호황, 국내 협력사 과실은?",
+      "subtitle": "현지 생산·기술 이전 요구에 국내 경제 파급 효과 제한 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수조원",
+            "label": "수출액"
+          },
+          {
+            "value": "폴란드",
+            "label": "주요 구매국"
+          },
+          {
+            "value": "루마니아",
+            "label": "주요 구매국"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "K-방산 수출액"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "K-방산 수출이 역대급 호황을 맞았지만, 주요 구매국들이 현지 생산과 기술 이전을 요구하면서 수출 호황의 과실이 국내 협력사로 충분히 돌아오지 못하고 있다는 지적이 나온다.",
+        "points": [
+          "K-방산 수출, 가격 경쟁력 넘어 전략 파트너 인정",
+          "주요 구매국 현지 생산 및 기술 이전 요구",
+          "대기업 영업이익과 협력사 일감 격차 발생",
+          "수출 과실의 국내 경제 파급 효과에 대한 의문 제기"
+        ],
+        "quote": "한국산 파트너들이 굉장한 최신 무기를 수개월 안에 공급할 수 있을 것으로 봤다. 다른 파트너들의 경우 인도까지 수년이 걸린다고 했다.",
+        "context": "한국 방위산업이 글로벌 시장에서 빠르게 성장하며 수출액을 늘리고 있으나, 국내 산업 생태계 전반의 동반 성장을 위한 전략 마련이 시급하다는 목소리가 나오고 있다.",
+        "source_url": "http://www.newslock.co.kr/news/articleView.html?idxno=131233"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=2473&nologo=true"
+    },
+    {
+      "id": "economy-spacex-trillionaire",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "statistic",
+      "title": "일론 머스크, 세계 최초 '조만장자' 등극",
+      "subtitle": "스페이스X 상장으로 자산 1조달러 돌파, 부의 집중 논란 재점화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1조 달러",
+            "label": "순자산"
+          },
+          {
+            "value": "70%",
+            "label": "스페이스X 비중"
+          },
+          {
+            "value": "2위 3배",
+            "label": "자산 격차"
+          }
+        ],
+        "main_number": "최초",
+        "main_text": "세계 최초 조만장자 탄생"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "일론 머스크가 스페이스X 상장으로 순자산 1조달러를 돌파하며 세계 최초 '조만장자'가 되었지만, 부의 집중과 경제 시스템 불평등에 대한 비판도 함께 제기되고 있다.",
+        "points": [
+          "스페이스X 상장으로 일론 머스크 순자산 1조달러 돌파",
+          "세계 최초 '조만장자(trillionaire)' 탄생 기록",
+          "엘리자베스 워런 상원의원 등 부의 불평등 비판",
+          "기술 기업 성장 신화와 초고액 자산가 논란 심화"
+        ],
+        "quote": "머스크의 조달러 재산은 조작된 경제 시스템의 산물이며, 많은 사람들이 생존을 위해 버티는 상황에서 경종이 돼야 한다.",
+        "context": "스페이스X의 성공적인 상장은 기술 혁신이 개인의 부에 미치는 엄청난 영향을 보여주는 동시에, 사회적 양극화와 부의 공정 분배에 대한 근본적인 질문을 던지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009001582?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=97844&nologo=true"
+    },
+    {
+      "id": "economy-interest-rate",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "청년층 '자산 사다리' 흔들…집값·AI 영향",
-      "subtitle": "소득·자산 격차 심화로 미래 불확실성 증가",
+      "title": "한은 총재 \"늦지 않게 금리 인상\" 시사",
+      "subtitle": "중동 불안·美 금리 변수에 긴축 시점 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "물가",
+            "label": "최우선"
+          },
+          {
+            "value": "성장",
+            "label": "후순위"
+          },
+          {
+            "value": "중동·美",
+            "label": "주요 변수"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "금리 인상 필요성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "신현송 한은 총재가 물가 상승 기대심리 고착화 우려를 표하며 \"늦지 않게 금리를 인상해야 한다\"고 밝혀, 중동 사태와 미국 금리 정책 변화에 따른 국내 통화정책 방향에 관심이 쏠리고 있다.",
+        "points": [
+          "신현송 한은 총재, 금리 인상 필요성 언급",
+          "물가상승 기대심리 고착화 우려",
+          "중동 불안정 및 미국 금리 인상 변수 작용",
+          "반도체 등 IT 산업 의존 성장 지적"
+        ],
+        "quote": "물가상승 기대심리가 고착화될 경우 경제에 악영향을 미칠 수 있다.",
+        "context": "고물가 장기화와 국제 경제의 불확실성이 커지는 상황에서, 한국은행이 물가 안정을 최우선 과제로 삼고 금리 인상 카드를 만지작거리고 있어 금융 시장의 긴장감이 고조되고 있다.",
+        "source_url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=694349"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3405&nologo=true"
+    },
+    {
+      "id": "economy-household-debt",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "가계부채 관리, 은행 신용대출 문턱 높인다",
+      "subtitle": "투자성·예비성 대출 수요 억제, 실수요자 자금 흐름 관건",
       "viz_data": {
         "stats": [
           {
             "value": "↑",
-            "label": "집값 상승"
-          },
-          {
-            "value": "↑",
-            "label": "소득 격차"
+            "label": "신용대출 문턱"
           },
           {
             "value": "↓",
-            "label": "자산 형성 기회"
+            "label": "마통 수요"
+          },
+          {
+            "value": "하반기",
+            "label": "관리 핵심"
           }
         ],
-        "main_number": "양극화 심화",
-        "main_text": "청년층 자산 및 소득 양극화"
+        "main_number": "조절",
+        "main_text": "가계부채 속도 조절"
       },
-      "image_prompt": "cute pastel infographic illustration of a broken ladder with money and houses, representing asset inequality for young people, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "집값 상승과 AI 전환으로 인한 산업 간 소득 격차 확대로 청년층의 자산 형성 기회가 줄어들고 있다. 한국은행은 AI·IT 중심 성장이 새로운 양극화를 초래한다고 분석했다.",
+        "summary": "은행권이 신용대출 문턱을 높이며 가계부채 관리에 나섰다. 투자성·예비성 대출 수요를 억제하면서도 실수요자와 취약차주 자금 흐름을 유지하는 속도 조절이 하반기 핵심 변수가 될 전망이다.",
         "points": [
-          "집값 상승으로 인한 자산 격차 확대",
-          "AI·IT 전환으로 산업 간 소득 격차 심화",
-          "청년층의 자산 사다리 등반 어려움 가중",
-          "미래 불확실성 증대로 사회적 문제 야기"
+          "은행권 신용대출 문턱 상향 조정",
+          "가계부채 증가세 둔화 목표",
+          "투자성·예비성 대출 수요 억제 중점",
+          "실수요자 및 취약차주 자금 흐름 유지 과제"
         ],
-        "quote": "AI·IT가 키운 산업 간 소득 격차는 소득 측면에서도 새로운 양극화 흐름이 나타나고 있음을 보여준다. - 한국은행",
-        "context": "청년층의 경제적 불안정은 출산율 저하, 사회 활력 감소 등 국가 전반에 부정적인 영향을 미칠 수 있어 정책적 해법 마련이 시급하다.",
-        "source_url": "http://www.newsian.co.kr/news/articleView.html?idxno=90878"
+        "quote": "은행권이 투자성·예비성 대출 수요를 얼마나 걸러내느냐, 동시에 실수요자와 취약차주 자금 흐름을 얼마나 유지하느냐가 하반기 가계부채 관리의 핵심 변수가 될 전망이다.",
+        "context": "지속적인 금리 인상과 물가 상승으로 가계의 재정 부담이 커지는 가운데, 금융 당국과 은행권이 가계부채 관리에 고삐를 죄면서 서민 경제에 미칠 영향에 관심이 모아지고 있다.",
+        "source_url": "https://sateconomy.co.kr/news/view/1065566528795478"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20broken%20ladder%20with%20money%20and%20houses%2C%20representing%20asset%20inequality%20for%20young%20people%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23690&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98136&nologo=true"
     },
     {
-      "id": "economy-super-elnino",
+      "id": "tech-korea-ai-strategy",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "timeline",
-      "title": "76년 만의 '슈퍼 엘니뇨'…글로벌 경제 위협",
-      "subtitle": "극단적 기후변화, 공급망 및 경제 치명타 우려",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "radial_chart",
+      "title": "\"대한민국은 AI 풀스택 국가\" 목표",
+      "subtitle": "AI 주권 확보 및 기술 패권 경쟁 대응 전략 제시",
       "viz_data": {
         "stats": [
           {
-            "value": "76년 만",
-            "label": "발생 주기"
+            "value": "AI 풀스택",
+            "label": "국가 목표"
           },
           {
-            "value": "사상 최고",
-            "label": "기온 예측"
+            "value": "AX 2.0",
+            "label": "시대 전환"
           },
           {
-            "value": "공급망",
-            "label": "주요 영향 분야"
+            "value": "AI 주권",
+            "label": "핵심 과제"
           }
         ],
-        "main_number": "↑↑",
-        "main_text": "글로벌 공급망 및 경제 타격 우려 증폭"
+        "main_number": "강조",
+        "main_text": "AI 인프라 경쟁력 확보"
       },
-      "image_prompt": "cute pastel infographic illustration of extreme weather events like drought and heavy rain affecting global supply chains, with the Earth in the background, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "76년 만에 '슈퍼 엘니뇨' 현상이 예고되며 올해가 역대 가장 더운 해가 될 것으로 전망된다. 가뭄과 폭우 등 극단적인 기후변화는 글로벌 공급망과 경제에 치명적인 타격을 줄 것으로 우려된다.",
+        "summary": "홍진배 IITP 원장은 AI가 경제력과 안보를 결정하는 핵심 인프라가 되었음을 강조하며, 대한민국이 AI 풀스택 국가로서 AI 주권을 확보하고 AX 2.0 시대를 선도해야 한다고 밝혔다.",
         "points": [
-          "76년 만의 강한 엘니뇨 발생 예측",
-          "가뭄·극단적 폭우로 인한 피해 예상",
-          "글로벌 공급망 교란 및 경제적 타격 우려",
-          "한반도 해수면 온도 동반 상승, 영향 불가피"
+          "AI, 국가 경제력·안보·산업 경쟁력 핵심 인프라",
+          "대한민국 'AI 풀스택 국가' 목표",
+          "AI 주권 확보의 중요성 강조",
+          "AI 모델 외 인프라, 소프트웨어 등 중요성 언급"
         ],
-        "quote": "이번 슈퍼 엘니뇨가 몰고 올 가뭄과 극단적 폭우는 글로벌 공급망과 경제에도 치명적인 타격을 줄 수 있다는 우려도 나온다.",
-        "context": "기후변화가 전 세계 식량 생산과 물류에 미치는 영향이 커지면서, 엘니뇨는 단순한 기상 현상을 넘어 경제 안보의 주요 변수로 부상하고 있다.",
-        "source_url": "https://www.bntnews.co.kr/article/view/bnt202606130020"
+        "quote": "AI 주권은 반드시 확보해야 한다.",
+        "context": "전 세계적으로 AI 기술 패권 경쟁이 치열해지는 가운데, 한국이 단순한 AI 모델 개발을 넘어 전반적인 AI 생태계 구축을 통해 글로벌 리더십을 확보하려는 전략을 추진 중이다.",
+        "source_url": "https://www.ajunews.com/view/20260609164651524"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20extreme%20weather%20events%20like%20drought%20and%20heavy%20rain%20affecting%20global%20supply%20chains%2C%20with%20the%20Earth%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53730&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3422&nologo=true"
     },
     {
-      "id": "economy-tungsten-supply-chain",
+      "id": "tech-semiconductor-investment",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "中 텅스텐 보복, 日 반도체 가스 공급망 마비",
-      "subtitle": "핵심 소재 WF₆ 부족, 일본 생산량 급감 위기",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "기관, 2차전지 매도-반도체 매수...주도주 교체 움직임",
+      "subtitle": "코스닥 시장, 반도체 및 IT 서비스 분야 투자 집중",
       "viz_data": {
         "stats": [
           {
-            "value": "WF₆",
-            "label": "핵심 소재"
+            "value": "↑",
+            "label": "반도체 순매수"
           },
           {
-            "value": "中",
-            "label": "주요 공급국"
+            "value": "↓",
+            "label": "2차전지 순매도"
           },
           {
-            "value": "日",
-            "label": "피해국"
+            "value": "코스닥",
+            "label": "주요 시장"
           }
         ],
-        "main_number": "셧다운",
-        "main_text": "일본 내 반도체 가스 생산 사실상 중단"
+        "main_number": "변화",
+        "main_text": "기관 투자자 포트폴리오 변화"
       },
-      "image_prompt": "cute pastel infographic illustration of a broken supply chain with tiny chips and gas tanks, symbolizing semiconductor material disruption due to trade conflict, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "중국의 텅스텐 규제 보복 조치로 인해 일본의 반도체 가스 WF₆ 공급망이 사실상 마비 상태에 이르렀다. 이로 인해 일본 내 반도체 가스 생산량이 급감하며 산업계에 위기가 고조되고 있다.",
+        "summary": "코스닥 시장에서 기관 투자자들이 에코프로 등 2차전지 종목을 팔고 이오테크닉스 등 반도체 및 IT 서비스 종목을 대거 사들이며 주도주 교체 양상이 나타나고 있다.",
         "points": [
-          "중국의 텅스텐 수출 규제 조치 시작",
-          "일본 내 반도체 가스(WF₆) 생산량 급감",
-          "공급망 불안정으로 인한 산업 위기",
-          "반도체 제조에 필수적인 핵심 소재 부족"
+          "기관 투자자, 코스닥에서 2차전지 매도",
+          "반도체, IT 서비스 분야 종목 집중 매수",
+          "이오테크닉스, 아이티센글로벌 등 순매수 상위",
+          "AI 전환 기대감 반영된 주도주 변화"
         ],
-        "quote": "중국의 텅스텐 규제로 일본 내 반도체 가스 생산량이 급감하며 사실상 중단 수준의 위기에 직면했다. - Wccftech",
-        "context": "핵심 광물 및 소재를 둘러싼 글로벌 공급망의 불확실성이 커지면서, 주요 국가들은 자국 산업 보호를 위한 전략적 대응 마련에 고심하고 있다. 이는 글로벌 반도체 시장 전반에 영향을 미칠 수 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=20260613063628339fbbec65dfb_1"
+        "quote": "AI 전환과 디지털 혁신 관련 사업 경쟁력이 부각된 것으로 평가된다.",
+        "context": "글로벌 경제의 불확실성 속에서 인공지능(AI)과 디지털 전환이라는 거대한 흐름이 국내 주식 시장의 투자 심리를 움직이며 주요 산업 섹터의 재편을 가속화하고 있다.",
+        "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459800"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20broken%20supply%20chain%20with%20tiny%20chips%20and%20gas%20tanks%2C%20symbolizing%20semiconductor%20material%20disruption%20due%20to%20trade%20conflict%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59443&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98210&nologo=true"
     },
     {
-      "id": "tech-samsung-medtech",
+      "id": "tech-ai-in-pharma",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "pie_chart",
-      "title": "삼성전자, 美 메드테크 투자…AI·IT 융합",
-      "subtitle": "차세대 유전자 진단 시장 선점 목표",
+      "title": "제약 산업, AI 활용 영역 전방위 확대",
+      "subtitle": "신약 발굴부터 IT 지원 챗봇까지 효율성 극대화 모색",
       "viz_data": {
         "stats": [
           {
-            "value": "DNA 분석",
+            "value": "신약 발굴",
+            "label": "핵심 분야"
+          },
+          {
+            "value": "RA 챗봇",
+            "label": "운영 효율"
+          },
+          {
+            "value": "생산성",
+            "label": "기대 효과"
+          }
+        ],
+        "main_number": "+",
+        "main_text": "제약사 AI 도입율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "제약사들이 신약 발굴, 임상 설계, IT 지원 챗봇 등 다양한 분야에 AI 기술을 도입하며 업무 효율성과 생산성을 높이고 있다.",
+        "points": [
+          "AI, 신약 발굴 기간 단축 및 성공률 향상 기여",
+          "임상 설계 및 환자 모집 효율화",
+          "RA(규제 업무) 챗봇 도입으로 반복 업무 감소",
+          "IT 지원 서비스 운영 효율성 및 임직원 생산성 향상"
+        ],
+        "quote": "AI는 신약 발굴에 소요되는 시간과 비용을 획기적으로 줄여 성공률을 높이는 핵심 동력이다.",
+        "context": "빠르게 변화하는 제약 산업 환경에서 AI는 R&D 효율성을 높이고, 내부 업무 프로세스를 혁신하며, 궁극적으로 더 빠르고 효과적인 신약 개발을 가능하게 하는 핵심 도구로 부상하고 있다.",
+        "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=201825"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70005&nologo=true"
+    },
+    {
+      "id": "society-election-system",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "투표용지 부족 사태, 선거관리 시스템 개선 시급",
+      "subtitle": "선진 민주국가 사례 분석 통해 책임성·투명성 강화 필요",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "세계 10위권",
+            "label": "경제 규모"
+          },
+          {
+            "value": "세계 최고",
+            "label": "디지털 정부"
+          },
+          {
+            "value": "재검토",
+            "label": "체계 전반"
+          }
+        ],
+        "main_number": "경고",
+        "main_text": "민주주의 시스템 경고등"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "경제 규모 10위권, 디지털 정부 평가 세계 최고 수준인 대한민국에서 투표용지 부족 사태가 발생하며 선거관리 체계 전반에 대한 근본적인 재검토와 선진국 사례를 통한 책임성 강화가 요구된다.",
+        "points": [
+          "투표용지 부족 사태로 선거관리 독립성·책임성 논란",
+          "선진 민주국가 선거관리 시스템 분석 필요성 제기",
+          "의회 감사, 외부 평가, 성과 검증 등 책임성 장치 도입",
+          "국민 신뢰 유지 위한 조직문화 혁신 강조"
+        ],
+        "quote": "이번 사태를 일회성 해프닝으로 넘길 것인지, 아니면 선거관리 체계 전반을 혁신하는 계기로 삼을 것인지 갈림길에 서 있다.",
+        "context": "민주주의의 근간인 선거의 공정성과 투명성에 대한 국민적 우려가 커지면서, 선거관리 시스템의 혁신과 신뢰 회복을 위한 사회적 논의가 활발해지고 있다.",
+        "source_url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=694345"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38035&nologo=true"
+    },
+    {
+      "id": "society-ai-elderly-care",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map_chart",
+      "title": "신안군, AI 로봇 '효돌'로 섬 지역 어르신 돌봄 강화",
+      "subtitle": "보건복지부 공모사업 선정, 의료·돌봄 통합 서비스 시작",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2026년",
+            "label": "시작 년도"
+          },
+          {
+            "value": "장산면",
+            "label": "시범 지역"
+          },
+          {
+            "value": "AI 로봇",
             "label": "핵심 기술"
-          },
-          {
-            "value": "AI·IT",
-            "label": "융합 분야"
-          },
-          {
-            "value": "차세대 유전자",
-            "label": "진단 사업"
           }
         ],
-        "main_number": "M&A",
-        "main_text": "미국 메드테크 기업 투자로 M&A 전략 가속화"
+        "main_number": "돌봄",
+        "main_text": "사회 서비스 취약지 지원"
       },
-      "image_prompt": "cute pastel infographic illustration of Samsung logo integrating AI and DNA helix, symbolizing medical tech investment and future health diagnostics, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "삼성전자가 미국의 메드테크 기업 '엘리먼트'에 투자하며 AI·IT 기술을 접목한 차세대 유전자 진단 시장 선점을 노린다. 이는 삼성전자의 M&A 전략에 힘을 실어줄 것으로 보인다.",
+        "summary": "전남 신안군이 보건복지부의 2026년 사회서비스 취약지 지원 공모사업에 선정되어 장산면 어르신을 대상으로 AI 기반 의료·돌봄 통합 서비스를 시작하며, 고령화 사회의 돌봄 공백 해소를 기대하고 있다.",
         "points": [
-          "삼성전자, 美 메드테크 기업 '엘리먼트' 투자",
-          "엘리먼트의 DNA·멀티오믹스 분석 기술 활용",
-          "AI·IT 기술 접목, 차세대 유전자 진단 사업 추진",
-          "삼성전자의 헬스케어 M&A 전략 강화"
+          "신안군, 보건복지부 공모사업 선정",
+          "AI 로봇 '효돌' 활용 어르신 돌봄 서비스",
+          "장산면 어르신 대상 의료·돌봄 통합 서비스 제공",
+          "사회서비스 취약지 지원 모델 구축"
         ],
-        "quote": "삼성전자는 엘리먼트의 DNA·멀티오믹스 분석 기술을 인공지능(AI)·정보기술(IT) 기술과 접목시켜 차세대 유전자 진단 등 새로운 사업 기회를 선점해 나갈 방침이다.",
-        "context": "글로벌 헬스케어 시장에서 AI와 IT 기술의 융합이 가속화되는 가운데, 삼성전자는 바이오 및 의료기기 분야를 미래 성장 동력으로 삼고 투자를 확대하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002656009?sid=101"
+        "quote": "AI를 활용한 돌봄 서비스는 고령화가 빠르게 진행되는 섬 지역에 촘촘한 사회 안전망을 구축하는 데 기여할 것이다.",
+        "context": "고령화가 심화되고 의료 접근성이 낮은 지역의 사회적 돌봄 공백을 메우기 위해 첨단 AI 기술을 활용한 새로운 형태의 복지 서비스가 도입되며 지역사회에 긍정적인 영향을 미칠 것으로 기대된다.",
+        "source_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=844047"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20Samsung%20logo%20integrating%20AI%20and%20DNA%20helix%2C%20symbolizing%20medical%20tech%20investment%20and%20future%20health%20diagnostics%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80722&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61728&nologo=true"
     },
     {
-      "id": "tech-physical-ai",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "일상 속 '피지컬 AI' 확산…CES 2026 주목",
-      "subtitle": "로봇 형태의 AI, 다양한 분야에서 활용 기대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "CES 2026",
-            "label": "주목 행사"
-          },
-          {
-            "value": "로봇",
-            "label": "주요 형태"
-          },
-          {
-            "value": "일상생활",
-            "label": "활용 분야"
-          }
-        ],
-        "main_number": "확산",
-        "main_text": "인간의 물리적 활동을 돕는 피지컬 AI"
-      },
-      "image_prompt": "cute pastel infographic illustration of various robots performing daily tasks in a home setting, symbolizing physical AI integration into life, no text",
-      "detail": {
-        "summary": "2026년 CES에서 주목받은 '피지컬 AI'는 인간의 물리적 활동을 돕는 로봇 형태의 AI를 의미한다. 다양한 산업 분야와 일상생활에서 활용될 가능성이 커지고 있다.",
-        "points": [
-          "CES 2026에서 '피지컬 AI' 주요 화두 부상",
-          "인간의 물리적 활동을 돕는 로봇형 AI",
-          "제조, 의료, 서비스 등 산업 분야 확산",
-          "미래 일상생활 변화에 큰 영향 예상"
-        ],
-        "quote": "수천 개의 화려한 부스가 끝없이 늘어선 전시장 속에서, 유독 한 전시장 앞에 이례적인 정체 현상이 벌어지고 있었다.",
-        "context": "생성형 AI를 넘어 물리적 세계에서 상호작용하는 AI가 개발되면서, 미래 사회의 생산성 향상과 삶의 질 개선에 기여할 것으로 기대되지만, 동시에 윤리적, 사회적 과제도 동반한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/014/0005534341?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20various%20robots%20performing%20daily%20tasks%20in%20a%20home%20setting%2C%20symbolizing%20physical%20AI%20integration%20into%20life%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=11410&nologo=true"
-    },
-    {
-      "id": "tech-ai-collaboration-korea",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "국내 AI 협력 지형 변화…카카오의 부재",
-      "subtitle": "IT 업계 주요 AI 회동, 참가 기업들 희비 엇갈려",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "플랫폼 기업",
-            "label": "주요 주체"
-          },
-          {
-            "value": "변화",
-            "label": "AI 전환 흐름"
-          },
-          {
-            "value": "협력/경쟁",
-            "label": "업계 분위기"
-          }
-        ],
-        "main_number": "재편",
-        "main_text": "AI 전환의 분기점, 업계 경쟁 구도 재편"
-      },
-      "image_prompt": "cute pastel infographic illustration of a table with various company logos, some present and one missing, symbolizing AI industry collaboration and competition, no text",
-      "detail": {
-        "summary": "최근 IT 업계의 주요 AI 협력 회동에서 카카오가 불참하며 국내 AI 산업 지형에 변화가 감지되고 있다. 생성형 AI 경쟁이 심화되는 가운데 플랫폼 기업들의 희비가 엇갈리고 있다.",
-        "points": [
-          "국내 주요 IT 기업 AI 협력 회동 개최",
-          "카카오 불참, AI 전환 전략에 관심 집중",
-          "플랫폼 기업 간 AI 기술 경쟁 심화",
-          "AI 투자 및 전략적 제휴 중요성 증대"
-        ],
-        "quote": "이번 회동에서 가장 대비된 곳은 국내 플랫폼 업계다. - 언론 보도",
-        "context": "AI 기술 패권 경쟁이 심화되면서 국내 기업들도 대규모 투자와 협력을 통해 경쟁력 확보에 나서고 있다. 이러한 과정에서 각 기업의 AI 전략과 협력 관계가 미래 성패를 가를 중요한 변수가 될 것이다.",
-        "source_url": "https://www.sentv.co.kr/article/view/sentv202606120039"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20table%20with%20various%20company%20logos%2C%20some%20present%20and%20one%20missing%2C%20symbolizing%20AI%20industry%20collaboration%20and%20competition%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93969&nologo=true"
-    },
-    {
-      "id": "society-maternity-crisis",
+      "id": "society-health-insurance",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "line_chart",
-      "title": "분만실 폐원 위기…열악한 의료 환경의 그림자",
-      "subtitle": "저출산 시대, 산모들의 불안감 증폭",
+      "title": "건강보험 준비금 2029년 고갈 전망, 재정 구조 개편 시급",
+      "subtitle": "인구구조 변화와 보험료만으로는 한계, 재원 다변화 필요",
       "viz_data": {
         "stats": [
           {
-            "value": "↓",
-            "label": "분만 병원 수"
+            "value": "2029년",
+            "label": "고갈 예상"
           },
           {
-            "value": "↑",
-            "label": "출산 불안감"
+            "value": "다층적",
+            "label": "접근 필요"
           },
           {
-            "value": "↓",
-            "label": "의료 인력"
+            "value": "재정 책임",
+            "label": "정부 강화"
           }
         ],
-        "main_number": "시한폭탄",
-        "main_text": "갈수록 열악해지는 분만 환경에 대한 우려"
+        "main_number": "↓",
+        "main_text": "건보 준비금 감소 추세"
       },
-      "image_prompt": "cute pastel infographic illustration of a closed maternity ward door with a red cross, symbolizing a healthcare crisis for expecting mothers, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "지방의 한 분만 병원이 갑작스러운 폐원을 결정하면서 출산을 앞둔 임신부들과 지역 사회가 큰 충격에 빠졌다. 갈수록 열악해지는 분만 환경과 의료 인력 부족이 주된 원인으로 지목된다.",
+        "summary": "국회예산정책처가 건강보험 준비금이 2029년 바닥을 보일 것으로 전망하며, 보험료 인상만으로는 한계가 있어 재원 다변화와 정부 재정 책임 강화 등 다층적인 재정 구조 개편이 시급하다고 지적했다.",
         "points": [
-          "분만 병원의 갑작스러운 폐원 결정",
-          "임신부 및 지역 사회의 불안감 증폭",
-          "열악한 분만 환경과 의료 인력 부족 문제",
-          "사명감만으로는 감당하기 어려운 현실"
+          "건강보험 준비금 2029년 고갈 전망",
+          "인구구조 변화로 인한 재정 압박",
+          "보험료만으로는 재정 건전성 유지 한계",
+          "재원 다변화, 정부 재정 책임 강화 등 다층적 개편 제안"
         ],
-        "quote": "사명감만으로 안전한 분만을 감당할 수 없는 상황이 됐다.",
-        "context": "저출산 문제가 심화되는 가운데, 분만 인프라 붕괴는 산모들의 출산 기피를 더욱 부추기고 지역 의료 불균형을 심화시키는 심각한 사회 문제로 대두되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012199384?sid=102"
+        "quote": "주요국의 건강보험 운영은 재원 다변화, 정부 재정 책임의 강화, 인구구조 변화에 대응한 재정 구조 개편을 병행하는 다층적 접근의 필요성을 시사한다.",
+        "context": "급격한 고령화와 의료비 증가로 건강보험 재정 건전성에 대한 우려가 커지는 가운데, 지속 가능한 건강보험 시스템을 위한 근본적인 재정 개혁 논의가 사회적 화두로 떠오르고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014004369?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20closed%20maternity%20ward%20door%20with%20a%20red%20cross%2C%20symbolizing%20a%20healthcare%20crisis%20for%20expecting%20mothers%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92896&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=71859&nologo=true"
     },
     {
-      "id": "society-end-of-life-care",
+      "id": "life-genz-emotional-spending",
       "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "연명의료 결정, 서명 넘어 '숙고와 대화' 중요",
-      "subtitle": "초고령 사회, 환자 자기결정권 보장 위한 공론화 시작",
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "donut_chart",
+      "title": "중국 Z세대, 직접 키우는 '감정소비' 열풍",
+      "subtitle": "스마트 식물 재배기, DIY 취미 등 가치 중심 소비 확산",
       "viz_data": {
         "stats": [
           {
-            "value": "↑",
-            "label": "초고령 사회"
+            "value": "Z세대",
+            "label": "주요 소비자"
           },
           {
-            "value": "자기결정권",
-            "label": "핵심 가치"
+            "value": "3000위안+",
+            "label": "식물 재배기"
           },
           {
-            "value": "공론화",
-            "label": "사회적 논의"
-          }
-        ],
-        "main_number": "숙고",
-        "main_text": "연명의료 결정 시 충분한 숙고의 중요성"
-      },
-      "image_prompt": "cute pastel infographic illustration of a family discussing end-of-life care decisions with a doctor, symbolizing communication and patient autonomy, no text",
-      "detail": {
-        "summary": "초고령 사회 진입에 따라 연명의료 결정의 중요성이 커지는 가운데, 단순한 서명보다 환자의 자기결정권 보장을 위한 충분한 숙고와 대화가 더 중요하다고 강조된다. 복지부는 사회적 공론화를 시작할 계획이다.",
-        "points": [
-          "연명의료 결정, 서명보다 숙고와 대화 중요성 부각",
-          "초고령 사회, 환자의 자기결정권 보장 취지",
-          "국가생명윤리심의위원회 중심 사회적 공론화 예정",
-          "사전연명의료의향서 작성 인구 증가 추세"
-        ],
-        "quote": "연명의료는 치료 효과 없이 임종 과정 기간만 연장하는 의학적 시술이다.",
-        "context": "웰다잉 문화 확산과 고령화로 인한 의료비 증가 문제 속에서 연명의료 결정은 개인의 존엄성 보장뿐만 아니라 사회적 의료 자원의 효율적 배분 측면에서도 중요한 의제로 떠오르고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012199383?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20family%20discussing%20end-of-life%20care%20decisions%20with%20a%20doctor%2C%20symbolizing%20communication%20and%20patient%20autonomy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37918&nologo=true"
-    },
-    {
-      "id": "society-child-lying-study",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "line_chart",
-      "title": "아이 거짓말 16년 추적 연구…성장 발달과의 관계",
-      "subtitle": "유아기 거짓말 패턴, 성인기 사회성 영향 밝혀져",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "16년",
-            "label": "추적 기간"
-          },
-          {
-            "value": "유아기",
-            "label": "시작 연령"
-          },
-          {
-            "value": "22세",
-            "label": "성인기"
+            "value": "가치 중심",
+            "label": "소비 트렌드"
           }
         ],
         "main_number": "↑",
-        "main_text": "지속적인 거짓말 그룹, 성인기 반사회적 행동 증가"
+        "main_text": "감정소비 증가"
       },
-      "image_prompt": "cute pastel infographic illustration of a growing child with thought bubbles, showing the development of honesty and consequences of lying, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "16년간 진행된 연구에서 유아기 거짓말 행동 패턴이 성인기의 사회성 발달에 영향을 미치는 것으로 나타났다. 지속적으로 거짓말을 했던 그룹은 22세가 되었을 때 반사회적 행동이 증가하는 경향을 보였다.",
+        "summary": "중국 Z세대가 스마트 식물 재배기 구매, DIY 취미 등 '감정소비'에 적극적으로 나서며, 단순한 제품 구매를 넘어 개인의 가치와 만족을 중시하는 소비 트렌드를 형성하고 있다.",
         "points": [
-          "유아기 거짓말 행동 패턴 16년 추적 연구",
-          "거짓말 빈도에 따른 그룹 분류 및 비교",
-          "지속적인 거짓말 그룹의 성인기 반사회적 행동 증가",
-          "거짓말이 성장 발달의 일부라는 인식 필요성"
+          "중국 Z세대, 자기만족형 소비 트렌드 주도",
+          "스마트 식물 재배기, 반려동물 등 '키우는 소비'",
+          "DIY(Do It Yourself) 관련 취미 활동 증가",
+          "수천 위안대 제품 구매 등 적극적인 소비 행태"
         ],
-        "quote": "아동기 때 이뤄지는 거짓말은 발달 단계의 자연스러운 부분이라고 이해해야 한다. - 전문가",
-        "context": "아동의 거짓말을 단순히 부정적으로만 볼 것이 아니라, 인지 발달과 사회성 학습의 과정으로 이해하고 적절한 지도 방안을 모색하는 것이 중요하다는 점을 시사한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/277/0005775809?sid=104"
+        "quote": "소비는 단순히 물건을 사는 행위를 넘어, 자신의 감정을 충족시키고 가치를 표현하는 수단이 되고 있다.",
+        "context": "급변하는 사회 속에서 중국 Z세대가 불안감과 외로움을 해소하고 자신만의 공간에서 심리적 안정감을 찾기 위해 물질적 가치보다는 경험과 만족을 중시하는 소비 활동에 몰두하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005775810?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20growing%20child%20with%20thought%20bubbles%2C%20showing%20the%20development%20of%20honesty%20and%20consequences%20of%20lying%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31028&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6344&nologo=true"
     },
     {
-      "id": "life-china-marriage-trend",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "pie_chart",
-      "title": "中 MZ세대, '나홀로 결혼·이혼 인증' 새 트렌드",
-      "subtitle": "개인의 행복 중시, 전통 결혼관 변화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "MZ세대",
-            "label": "주도 세대"
-          },
-          {
-            "value": "↑",
-            "label": "개인 행복 중시"
-          },
-          {
-            "value": "↓",
-            "label": "전통 결혼관"
-          }
-        ],
-        "main_number": "인증샷",
-        "main_text": "결혼/이혼 후 SNS 인증 확산"
-      },
-      "image_prompt": "cute pastel infographic illustration of a young person taking a selfie with a wedding dress alone, and another with a divorce certificate, symbolizing changing marriage views in China, no text",
-      "detail": {
-        "summary": "중국 MZ세대 사이에서 결혼 사진을 혼자 찍거나 이혼 후 인증샷을 공유하는 등 전통적인 결혼관에서 벗어난 새로운 트렌드가 확산하고 있다. 이들은 개인의 행복과 정체성 표현을 더 중요하게 생각한다.",
-        "points": [
-          "중국 MZ세대, 결혼관의 큰 변화 직면",
-          "개인주의적 성향 강화, 결혼의 의미 재정의",
-          "나홀로 웨딩 촬영, 이혼 인증샷 등 새로운 문화 등장",
-          "SNS 통해 개인의 선택과 정체성 표현"
-        ],
-        "quote": "이런 문화는 전통적인 결혼이라는 제도에 얽매이기보다, 개인의 행복을 위한 소비와 정체성 표현에 집중하는 젊은 세대의 특징을 보여준다.",
-        "context": "저출산·고령화 문제와 함께 젊은 세대의 가치관 변화는 사회 전반에 영향을 미치고 있다. 이는 결혼 시장과 소비 트렌드에도 큰 변화를 가져올 것으로 분석된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/277/0005775808?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20young%20person%20taking%20a%20selfie%20with%20a%20wedding%20dress%20alone%2C%20and%20another%20with%20a%20divorce%20certificate%2C%20symbolizing%20changing%20marriage%20views%20in%20China%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91781&nologo=true"
-    },
-    {
-      "id": "life-silver-town",
+      "id": "life-worldcup-consumption",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "한 달 150만원대 '실버타운' 인기",
-      "subtitle": "초고령 사회 진입, 합리적 노후 생활 대안 부상",
+      "title": "월드컵 특수, 식음료업계 '응원 마케팅' 후끈",
+      "subtitle": "치맥, 배달음식, 간편식 등 집관족 겨냥 프로모션 활발",
       "viz_data": {
         "stats": [
           {
-            "value": "150만원",
-            "label": "월 평균 이용료"
+            "value": "↑",
+            "label": "배달 음식"
           },
           {
-            "value": "3천만원",
-            "label": "최저 보증금"
+            "value": "↑",
+            "label": "주류/안주"
           },
           {
-            "value": "초고령 사회",
-            "label": "진입 배경"
+            "value": "활발",
+            "label": "프로모션"
           }
         ],
-        "main_number": "↑",
-        "main_text": "실버타운 수요 및 관심 증가"
+        "main_number": "+",
+        "main_text": "월드컵 특수 소비 증가"
       },
-      "image_prompt": "cute pastel infographic illustration of a modern silver town building with happy senior residents, showing affordable living options, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "한 달 150만원대로 이용 가능한 실버타운이 등장하며 초고령 사회의 새로운 노후 생활 대안으로 주목받고 있다. 보증금을 낮추고 월 이용료를 합리적으로 책정하여 진입 장벽을 낮춘 것이 특징이다.",
+        "summary": "월드컵 개막을 맞아 식음료업계가 '집관족'(집에서 관람하는 사람들)을 겨냥한 다양한 응원 마케팅과 프로모션을 펼치며 특수를 누리고 있으며, 배달 음식과 간편식 수요가 크게 늘고 있다.",
         "points": [
-          "KB골든라이프케어 평창 카운티, 보증금 3천만원부터",
-          "월 이용료 150만원대로 합리적인 가격",
-          "다양한 서비스와 편의시설 제공",
-          "초고령 사회 대비, 새로운 주거 형태 대안"
+          "월드컵, 단순 스포츠 넘어 축제 성격",
+          "식음료업계, '집관족' 겨냥 마케팅 강화",
+          "치킨, 맥주 등 배달 음식 매출 증가",
+          "간편식, 스낵류 등 수요도 동반 상승"
         ],
-        "quote": "KB골든라이프케어 평창 카운티는 보증금을 일반 오피스텔 수준인 최저 3000만원으로 내렸습니다. 대신 이용료를 평형에...",
-        "context": "평균 수명 연장과 고령화 가속화로 노후 생활에 대한 관심이 높아지는 가운데, 경제적 부담을 줄이면서도 양질의 서비스를 누릴 수 있는 실버타운이 새로운 트렌드로 자리매김하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/023/0003981834?sid=101"
+        "quote": "월드컵은 단순한 스포츠 이벤트를 넘어 소비자들이 함께 즐기는 축제의 성격이 강하다. 응원 문화와 연계한 신제품과 프로모션에 대한 관심이 높아지면서 관련 마케팅도 더욱 다양해지고 있다.",
+        "context": "세계인의 축제인 월드컵은 스포츠 팬들을 넘어 일반 소비자들의 소비 심리에도 긍정적인 영향을 미치며, 유통 및 식음료 업계에는 중요한 마케팅 기회로 작용하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009001579?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20modern%20silver%20town%20building%20with%20happy%20senior%20residents%2C%20showing%20affordable%20living%20options%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44328&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=21823&nologo=true"
     },
     {
-      "id": "life-kpop-new-trend",
+      "id": "life-retirement-planning",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "K팝, '코르티스다움'으로 새로운 흐름 창출",
-      "subtitle": "창작성·팀 정체성 강화, 음악을 넘어선 문화 경험 제공",
+      "viz_type": "funnel_chart",
+      "title": "은퇴 후 '평생 월급' 만들기, 현금흐름 확보가 핵심",
+      "subtitle": "시니어 세대, 자산 규모보다 안정적 생활비 마련에 고심",
       "viz_data": {
         "stats": [
           {
-            "value": "확장",
-            "label": "문화 경험"
+            "value": "시니어",
+            "label": "주요 대상"
           },
           {
-            "value": "창작성",
+            "value": "현금흐름",
             "label": "핵심 요소"
           },
           {
-            "value": "팀 정체성",
-            "label": "강점"
+            "value": "안정적",
+            "label": "노후 목표"
           }
         ],
-        "main_number": "新 흐름",
-        "main_text": "기존 K팝 시스템과 차별화된 새로운 경향"
+        "main_number": "강조",
+        "main_text": "은퇴 준비 트렌드 변화"
       },
-      "image_prompt": "cute pastel infographic illustration of a K-pop idol group performing on stage, surrounded by musical notes and vibrant colors, symbolizing a new trend in music, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "평론가들은 '코르티스다움'이 기존 K팝 시스템과 차별화된 새로운 흐름을 만들고 있다고 분석했다. 멤버들의 창작성과 팀 정체성을 강화하여 음악을 넘어선 문화 경험으로 확장시키는 것이 특징이다.",
+        "summary": "은퇴를 앞둔 시니어들이 자산 규모보다 매달 안정적인 생활비를 확보하는 '평생 월급' 만들기에 주목하고 있으며, 전문가들은 안정적인 현금흐름 확보가 성공적인 노후의 핵심이라고 강조한다.",
         "points": [
-          "K팝, '코르티스다움'으로 새로운 지평 열어",
-          "멤버들의 창작성 및 팀 정체성 강화",
-          "음악을 넘어선 '문화 경험'으로 확장",
-          "기존 K팝 시스템과의 차별화된 접근"
+          "은퇴 시니어, 자산보다 현금흐름에 관심 집중",
+          "'평생 월급' 개념으로 안정적인 생활비 확보 강조",
+          "노후 준비의 핵심은 꾸준한 소득 창출",
+          "전문가, 은퇴 설계 시 현금흐름 관리 중요성 역설"
         ],
-        "quote": "하나의 문화 경험처럼 확장시키고 있다는 것이다. - K팝 평론가",
-        "context": "글로벌 음악 시장에서 K팝의 영향력이 커지는 가운데, 아티스트의 자율성과 창작성을 존중하는 새로운 시도는 K팝의 지속 가능한 성장과 다양성 확보에 중요한 역할을 할 것으로 기대된다.",
-        "source_url": "https://m.entertain.naver.com/article/003/0014004364"
+        "quote": "은퇴를 앞둔 시니어들의 가장 큰 고민은 자산 규모보다 매달 생활비를 어떻게 마련할 것인가에 맞춰지고 있다.",
+        "context": "평균 수명 연장과 저금리 시대가 맞물리면서 은퇴 이후의 삶에 대한 경제적 불확실성이 커지자, 개인의 자산을 단순히 불리는 것을 넘어 안정적인 생활 유지를 위한 실질적인 소득 창출 방안이 중요해지고 있다.",
+        "source_url": "https://bravo.etoday.co.kr/view/atc_view/19431"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20K-pop%20idol%20group%20performing%20on%20stage%2C%20surrounded%20by%20musical%20notes%20and%20vibrant%20colors%2C%20symbolizing%20a%20new%20trend%20in%20music%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28531&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15673&nologo=true"
     }
   ],
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T07:36:07.277083+09:00"
+  "generated_at": "2026-06-13T08:04:09.780896+09:00"
 }
