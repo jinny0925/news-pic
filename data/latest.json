@@ -1,259 +1,248 @@
 {
   "cards": [
     {
-      "id": "world-fifa-referee",
+      "id": "world-drone-dominance",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "美 추방 소말리아 심판, UEFA 슈퍼컵 주심 임명",
-      "subtitle": "FIFA, 美 이민 정책에 정치적 반격?",
+      "viz_type": "comparison",
+      "title": "미 국방의 아킬레스건, 중국 드론 역량 압도적 우위",
+      "subtitle": "실리콘밸리 전문가들, 중국의 드론 및 희토류 통제력 경고",
       "viz_data": {
         "stats": [
           {
-            "value": "1명",
-            "label": "심판"
+            "value": "수천 배",
+            "label": "드론 생산"
           },
           {
-            "value": "2기관",
-            "label": "관련 주체"
-          },
-          {
-            "value": "논란 시작",
-            "label": "사건 경과"
+            "value": "핵심 광물",
+            "label": "공급망 위협"
           }
         ],
-        "main_number": "정치적",
-        "main_text": "스포츠와 외교의 충돌"
+        "main_number": "압도적",
+        "main_text": "중국 드론 역량, 미군 대비 수천 배 이상"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of two military drones, one significantly larger and more numerous than the other, representing technological advantage, in pastel colors, no text",
       "detail": {
-        "summary": "미국에서 추방당한 소말리아 심판이 UEFA 슈퍼컵 주심으로 전격 임명되며 FIFA의 정치적 메시지에 대한 해석이 분분합니다.",
+        "summary": "실리콘밸리 전문가들이 미 국방의 취약점으로 중국의 드론 생산 역량과 희토류 공급망 통제력을 지목하며 국가 안보 위협을 경고했습니다.",
         "points": [
-          "미국, 테러 의심으로 심판 추방",
-          "FIFA, UEFA 슈퍼컵 주심으로 임명",
-          "미국 이민 정책에 대한 FIFA의 반격 해석",
-          "국제 축구계, FIFA의 행동에 주목"
+          "중국, 전술 드론 생산 역량 수천 배 우위",
+          "미국의 탄약 생산 인프라 2차 세계대전 이후 정체",
+          "중국, 희토류 및 핵심 광물 공급줄 쥐고 정치적 도구화",
+          "미 국가 안보에 치명적 위협으로 작용"
         ],
-        "quote": "FIFA는 세계의 왕이 아니다. (FIFA 해명)",
-        "context": "FIFA가 미국의 특정 정책에 대한 반대 의사를 표명한 것으로 해석되며, 국제 스포츠 기구의 정치적 영향력과 외교적 메시지에 대한 논란이 일고 있습니다.",
-        "source_url": "https://m.sports.naver.com/wfootball/article/109/0005551658"
+        "quote": "그들은 우리보다 수천 배 많은 전술 드론 역량을 가지고 있다.",
+        "context": "급변하는 국제 정세와 기술 패권 경쟁 속에서 미국의 국방력이 직면한 현실적인 도전 과제를 보여줍니다.",
+        "source_url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52815"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96230&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20two%20military%20drones%2C%20one%20significantly%20larger%20and%20more%20numerous%20than%20the%20other%2C%20representing%20technological%20advantage%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56424&nologo=true"
     },
     {
-      "id": "world-cuba-sanctions",
+      "id": "world-worldcup-controversy",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "美, 쿠바 국영석유회사 제재…부정부패 악용 지적",
-      "subtitle": "카스트로 일가 사치·군부 탄압 등 악용 사례 공개",
+      "viz_type": "heatmap",
+      "title": "2026 북중미 월드컵, 정치적 논란으로 얼룩",
+      "subtitle": "가디언, 트럼프 대통령 연계 비판 '분열과 배제의 대회'",
       "viz_data": {
         "stats": [
           {
-            "value": "2국가",
-            "label": "관련국"
+            "value": "2026년",
+            "label": "개최 연도"
           },
           {
-            "value": "제재항목",
-            "label": "국영석유"
+            "value": "북중미",
+            "label": "개최지"
           },
           {
-            "value": "3+ 용처",
-            "label": "지목된 악용"
+            "value": "FIFA 회장",
+            "label": "트럼프와 관계"
           }
         ],
-        "main_number": "경제적",
-        "main_text": "제재를 통한 압박"
+        "main_number": "논란 확산",
+        "main_text": "개최국 미국 둘러싼 정치적 구설수 세계 축구계 흐려"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of a soccer ball with a crack or dividing line, surrounded by protesting figures, reflecting political controversy in a global sports event, in pastel colors, no text",
       "detail": {
-        "summary": "미국이 쿠바 국영석유회사를 제재하며, 이 자금이 쿠바 공산 지도부의 부정부패와 국민 탄압에 악용되고 있다고 비판했습니다.",
+        "summary": "2026 북중미 월드컵이 개막했지만, 개최국 미국과 트럼프 대통령을 둘러싼 정치적 논란으로 인해 '분열과 배제의 대회'라는 비판이 나오고 있습니다.",
         "points": [
-          "미국, 쿠바 국영석유회사에 제재 가함",
-          "카스트로 일가 전용기, 보안군 연료 등에 사용 지적",
-          "빈 관광호텔 불 밝히기, 가짜 시위 동원에도 악용",
-          "쿠바 국민에게 돌아갈 자원 착취 비판"
+          "2026 북중미 월드컵 개막, 개최국 미국에 정치적 논란 제기",
+          "가디언, FIFA 회장과 트럼프 대통령의 밀접한 관계 비판",
+          "FIFA의 정치적 중립성 훼손 우려 제기",
+          "대회 전부터 트럼프 관련 구설수가 세계 축구계에 부정적 영향"
         ],
-        "quote": "카스트로 일가의 전용기, 쿠바 국민을 탄압하는 데 동원되는 보안군 연료... (미국 정부)",
-        "context": "미국은 쿠바 정권의 인권 탄압과 부정부패를 비판하며, 경제 제재를 통해 쿠바 정부의 자금줄을 차단하려는 움직임을 지속하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0008999697?sid=104"
+        "quote": "잔니 인판티노 FIFA 회장이 트럼프 대통령과 지나치게 밀접한 관계를 유지하고 있다.",
+        "context": "스포츠의 정치적 중립성과 글로벌 이벤트의 개최국 선정에 대한 윤리적 논쟁을 부각하며 국제사회에서 정치와 스포츠의 복합적인 관계를 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/032/0003451609?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31896&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20a%20soccer%20ball%20with%20a%20crack%20or%20dividing%20line%2C%20surrounded%20by%20protesting%20figures%2C%20reflecting%20political%20controversy%20in%20a%20global%20sports%20event%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49221&nologo=true"
     },
     {
-      "id": "world-trump-iran",
+      "id": "world-korea-italy-partnership",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "트럼프 '주말 종전 서명' 발언…이란 '결정 아직'",
-      "subtitle": "미-이란 핵협상, 휴전 이후 진전 여부 주목",
+      "viz_type": "venn_diagram",
+      "title": "한국-이탈리아, 142년 신뢰 바탕 '특별 전략적 동반자' 격상",
+      "subtitle": "경제·산업, 문화 교류 확대 및 중소기업 협력 MOU 체결",
       "viz_data": {
         "stats": [
           {
-            "value": "4월 초",
-            "label": "휴전 시점"
+            "value": "142년",
+            "label": "수교 역사"
           },
           {
-            "value": "핵 문제",
-            "label": "주요 쟁점"
-          },
-          {
-            "value": "2국가",
-            "label": "관련국"
+            "value": "MOU",
+            "label": "중소기업·사회연대경제"
           }
         ],
-        "main_number": "협상 중",
-        "main_text": "미-이란 핵협상 장기화"
+        "main_number": "격상",
+        "main_text": "양국 관계, 특별 전략적 동반자 관계로 격상"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of two intertwined hands, one representing Korea and the other Italy, with icons for economy, industry, and culture, symbolizing partnership and cooperation, in pastel colors, no text",
       "detail": {
-        "summary": "트럼프 대통령이 주말쯤 이란과의 종전 서명을 예고했으나, 이란 측은 아직 결정된 바 없다고 밝히며 양국 간 핵협상 진전 여부에 관심이 쏠립니다.",
+        "summary": "이 대통령은 이탈리아와의 관계를 '특별 전략적 동반자'로 격상하며 142년간의 신뢰를 바탕으로 경제·산업, 문화 분야 협력을 확대하기로 했습니다.",
         "points": [
-          "트럼프, 이란과의 '종전 서명' 언급",
-          "이란 측, 결정된 바 없다고 반박",
-          "4월 초 휴전 이후 협상 장기화",
-          "미국 내 국제유가 및 휘발유 가격 상승 부담"
+          "한국-이탈리아, 특별 전략적 동반자 관계 격상",
+          "경제·산업 분야 협력 확대 뜻 모아",
+          "중소기업 협력 및 사회연대경제 협력 MOU 체결",
+          "영화 공동제작 협정 추진 등 문화 교류 확대 방안 제시"
         ],
-        "quote": "트럼프 대통령 체면을 세워주면서도 이란이 받아들일 수 있는 안이... (전문가)",
-        "context": "미국과 이란 간의 핵협상 타결 지연은 국제 정세에 불안정성을 더하고 있으며, 특히 미국 내 경제적 부담을 가중시키고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000873975?sid=104"
+        "quote": "양국 경제 생태계가 더욱 활성화될 중요한 기반이 될 것",
+        "context": "오랜 수교 역사를 가진 양국이 현대 국제사회에서 경제, 기술, 문화 등 다방면으로 협력을 강화하는 중요한 외교적 성과를 보여줍니다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=525460"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33932&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20two%20intertwined%20hands%2C%20one%20representing%20Korea%20and%20the%20other%20Italy%2C%20with%20icons%20for%20economy%2C%20industry%2C%20and%20culture%2C%20symbolizing%20partnership%20and%20cooperation%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96013&nologo=true"
     },
     {
-      "id": "economy-factory-safety",
+      "id": "economy-gold-silver-volatility",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "금·은 가격, 고금리·전쟁·제재 복합 요인으로 변동성 증폭",
+      "subtitle": "온스당 금 4217달러, 은 67달러... 주요 수치 기록",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "$4,217",
+            "label": "금 가격 (온스당)"
+          },
+          {
+            "value": "$67",
+            "label": "은 가격 (온스당)"
+          }
+        ],
+        "main_number": "복합적",
+        "main_text": "미 재정적자, 국제 갈등, 유럽 불확실성 등 복합적 요인 작용"
+      },
+      "image_prompt": "infographic illustration of fluctuating gold and silver prices on a graph, with small icons representing war, sanctions, and interest rates as influencing factors, in pastel colors, no text",
+      "detail": {
+        "summary": "고금리, 전쟁, 제재 등 복합적인 정치·정책 요인이 겹치면서 금과 은 가격의 변동성이 커지고 있으며, 각각 온스당 4,217달러와 67달러를 기록했습니다.",
+        "points": [
+          "금과 은 가격, 복합적 요인으로 높은 변동성",
+          "미국 재정적자, 국채 금리 변동 영향",
+          "러시아·이란 제재 및 미·중 갈등 심화",
+          "유럽 재정·정치 불확실성 가중",
+          "중국·인도의 금·은 수요 논의도 변수"
+        ],
+        "quote": "복합적인 정치·정책 요인이 겹쳐 있는 것으로 평가된다.",
+        "context": "글로벌 경제의 불확실성이 커지는 상황에서 안전자산으로 여겨지는 금과 은의 가격이 여러 외부 요인에 의해 크게 요동치는 현상을 보여줍니다.",
+        "source_url": "https://www.tokenpost.kr/news/economy/368423"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20fluctuating%20gold%20and%20silver%20prices%20on%20a%20graph%2C%20with%20small%20icons%20representing%20war%2C%20sanctions%2C%20and%20interest%20rates%20as%20influencing%20factors%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27245&nologo=true"
+    },
+    {
+      "id": "economy-gyeonggi-pass",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "bar_chart",
-      "title": "잇따른 대형 화재에 공장·창고 19만동 전수조사",
-      "subtitle": "정부, 안전 실태 점검 및 고위험 시설 우선 조치",
+      "title": "'The 경기패스' 2년 만에 가입자 200만 돌파, 월 평균 5.3만원 환급",
+      "subtitle": "교통비 부담 경감 및 기후위기 대응에 기여",
       "viz_data": {
         "stats": [
           {
-            "value": "19만동",
-            "label": "대상 시설"
+            "value": "2년",
+            "label": "서비스 기간"
           },
           {
-            "value": "4개",
-            "label": "관계부처"
+            "value": "200만+",
+            "label": "가입자 수"
           },
           {
-            "value": "화재안전",
-            "label": "점검 항목"
+            "value": "5.3만원",
+            "label": "월 평균 환급액"
           }
         ],
-        "main_number": "대규모",
-        "main_text": "산업 안전 강화"
+        "main_number": "200만+",
+        "main_text": "가입자 200만명 돌파, 도민 교통비 부담 경감"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of people commuting with public transport, a card with '200만' on it, and money being refunded, symbolizing public transport benefits and ridership, no text",
       "detail": {
-        "summary": "정부가 최근 잇따른 대형 공장·창고 화재에 대한 대응으로 전국 19만 동에 달하는 시설에 대한 화재안전 실태 전수조사를 실시합니다.",
+        "summary": "'The 경기패스'가 출시 2년 만에 가입자 200만 명을 돌파했으며, 도민들은 월 평균 5.3만원의 교통비를 환급받아 민생경제 회복에 기여하고 있습니다.",
         "points": [
-          "올해 대형 공장 화재 빈번히 발생",
-          "국토부 등 4개 부처 합동 실태조사 추진",
-          "연면적 500㎡ 이상 공장·창고 19만 동 대상",
-          "고위험 시설 우선 점검 및 안전 관리 강화"
+          "'The 경기패스' 출시 2년 만에 가입자 200만 명 돌파",
+          "도민 200만 명, 월 평균 5.3만원 교통비 환급",
+          "교통비 부담 경감으로 민생경제 회복 기여",
+          "기후위기 대응 및 체감형 정책 확대로 이어질 것"
         ],
-        "quote": "이 같은 내용을 담은 ‘공장·창고 화재안전 실태조사 추진계획’을 발표했다. (정부 발표)",
-        "context": "대규모 인명 및 재산 피해를 야기하는 공장·창고 화재가 반복되면서, 정부는 산업 안전 강화 및 예방 대책 마련에 총력을 기울이고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006303917?sid=101"
+        "quote": "200만 명 돌파는 도민의 선택과 신뢰가 만든 의미 있는 성과",
+        "context": "대중교통 이용 활성화와 도민의 경제적 부담 완화를 동시에 목표하는 정책이 성공적으로 안착하며 실질적인 효과를 거두고 있음을 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004630388?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=71361&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20people%20commuting%20with%20public%20transport%2C%20a%20card%20with%20%27200%EB%A7%8C%27%20on%20it%2C%20and%20money%20being%20refunded%2C%20symbolizing%20public%20transport%20benefits%20and%20ridership%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7899&nologo=true"
     },
     {
-      "id": "economy-homeplus-closure",
+      "id": "economy-industry-finance-alliance",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "홈플러스, 37개 점포 폐점…시장 경쟁력 약화 우려",
-      "subtitle": "3천5백 명 인력 유출 및 규모의 경제 붕괴 전망",
+      "viz_type": "hierarchy",
+      "title": "글로벌 패권 경쟁 속 '산업·금융' 동맹 선언, 미래 성장동력 확보",
+      "subtitle": "글로벌 경제질서 재편에 대응, 한국 산업정책 규모 감소 추세 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "37개",
-            "label": "폐점 점포"
+            "value": "급격한",
+            "label": "경제질서 재편"
           },
           {
-            "value": "3천5백 명",
-            "label": "인력 유출"
+            "value": "심화",
+            "label": "기술패권 경쟁"
           },
           {
-            "value": "규모의 경제",
-            "label": "주요 우려"
+            "value": "불안정",
+            "label": "공급망"
           }
         ],
-        "main_number": "-37개",
-        "main_text": "대형마트 위기 심화"
+        "main_number": "동맹",
+        "main_text": "글로벌 경쟁 속 산업과 금융의 조화 필수"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of interconnected gears (industry) and coins/charts (finance) forming a strong alliance, with a globe in the background, symbolizing global economic competition and strategy, in pastel colors, no text",
       "detail": {
-        "summary": "홈플러스가 37개 점포 폐점을 결정하며 3,500여 명의 인력 유출이 예상되는 가운데, 업계에서는 시장 경쟁력 약화와 규모의 경제 붕괴를 우려하고 있습니다.",
+        "summary": "글로벌 경제 질서 재편과 기술 패권 경쟁이 심화되는 가운데, 산업과 금융의 동맹을 통해 미래 성장 동력을 확보해야 한다는 목소리가 커지고 있습니다.",
         "points": [
-          "홈플러스, 전국 37개 점포 폐점 단행",
-          "3천5백 명 규모의 인력 유출 전망",
-          "규모의 경제 붕괴 및 상품 소싱 역량 약화 우려",
-          "회생 성공 여부와 상관없이 시장 경쟁력 타격 지적"
+          "글로벌 경제 질서 급격한 재편 및 기술패권 경쟁 심화",
+          "공급망 불안정성 증가에 대한 대응 필요성",
+          "한국 산업정책 규모, 전 세계적 강화 흐름과 달리 감소 추세",
+          "산업과 금융의 조화가 미래 성장을 위한 필수 요소"
         ],
-        "quote": "회생에 성공하더라도 과거와 같은 위상을 되찾기 어려울 것 (업계 관계자)",
-        "context": "대형마트 산업은 온라인 쇼핑의 성장과 소비 트렌드 변화로 인해 어려움을 겪고 있으며, 홈플러스의 대규모 점포 폐점은 이러한 위기를 상징하는 사례로 해석됩니다.",
-        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=220720"
+        "quote": "전 세계적인 산업정책 강화 흐름과 달리, 한국의 산업정책 규모는 오히려 감소 추세이다.",
+        "context": "국제적인 경제 패권 경쟁이 격화되는 상황에서 한국 경제의 미래 성장 전략을 모색하는 중요한 논의가 진행되고 있음을 보여줍니다.",
+        "source_url": "http://www.thevaluenews.co.kr/news/view.php?idx=199325"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32380&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20interconnected%20gears%20%28industry%29%20and%20coins/charts%20%28finance%29%20forming%20a%20strong%20alliance%2C%20with%20a%20globe%20in%20the%20background%2C%20symbolizing%20global%20economic%20competition%20and%20strategy%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33175&nologo=true"
     },
     {
-      "id": "economy-japan-bitcoin",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "timeline",
-      "title": "오사카 증권거래소, 2028년 비트코인 선물 출시",
-      "subtitle": "일본, 가상자산 시장 글로벌 경쟁 본격화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2028년",
-            "label": "출시 예정"
-          },
-          {
-            "value": "세계 3위",
-            "label": "주식시장 규모"
-          },
-          {
-            "value": "비트코인 선물",
-            "label": "주요 상품"
-          }
-        ],
-        "main_number": "새로운",
-        "main_text": "가상자산 제도화 경쟁"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "세계 3위 주식시장인 일본 오사카 증권거래소가 2028년 비트코인 선물을 출시하며, 미국과 홍콩에 이어 가상자산 시장의 제도화를 본격화할 예정입니다.",
-        "points": [
-          "일본, 2028년 오사카 증권거래소 비트코인 선물 출시",
-          "미국, 홍콩에 이어 가상자산 제도화 추진",
-          "세계 3위 주식시장의 가상자산 시장 본격 진입",
-          "글로벌 가상자산 경쟁 심화 전망"
-        ],
-        "quote": "일본이 ETF와 비트코인 선물을 모두 허용할 경우 세계에서 가장 제도화된 시장이 될 것. (업계 전문가)",
-        "context": "각국 정부와 금융 당국이 가상자산에 대한 규제를 강화하거나 제도권으로 편입시키려는 움직임을 보이면서, 일본의 이번 결정은 글로벌 금융 시장에 큰 영향을 미칠 것으로 보입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006303915?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=41410&nologo=true"
-    },
-    {
-      "id": "tech-samsung-google-2nm",
+      "id": "tech-samsung-google-ai-chip-headline",
       "is_headline": true,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "comparison",
-      "title": "삼성, 구글 2나노 AI 칩 'TPU' 생산 유력",
-      "subtitle": "구글 10세대 AI 칩 '아이스피시' 핵심 부품 위탁 논의",
+      "viz_type": "growth_chart",
+      "title": "삼성전자, 구글 차세대 AI칩 수주 기대…2나노 공정 유력",
+      "subtitle": "TSMC 독점 깨고 파운드리 시장 경쟁 심화 예고",
       "viz_data": {
         "stats": [
           {
@@ -261,361 +250,363 @@
             "label": "공정 기술"
           },
           {
-            "value": "10세대",
-            "label": "TPU 버전"
+            "value": "구글 TPU",
+            "label": "차세대 AI칩"
           },
           {
-            "value": "2026년+",
-            "label": "양산 목표"
+            "value": "삼성",
+            "label": "수주 기대"
           }
         ],
-        "main_number": "2nm",
-        "main_text": "차세대 AI 반도체 생산"
+        "main_number": "빅딜",
+        "main_text": "AI 반도체 시장 판도 변화의 신호탄"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of microchips with 'AI' and '2nm' labels, one chip transforming into another, symbolizing a major deal between Samsung and Google, in pastel colors, no text",
       "detail": {
-        "summary": "삼성전자 파운드리가 구글의 차세대 AI 칩인 10세대 TPU '아이스피시'의 주요 부품을 2나노 공정으로 생산할 가능성이 높다고 보도되었습니다.",
+        "summary": "삼성전자가 구글의 차세대 AI 칩인 '텐서처리장치(TPU)'의 일부 생산을 수주할 가능성이 커지면서, 2나노 공정을 활용한 TSMC의 독점 구도가 흔들릴 것이라는 기대감이 커지고 있습니다.",
         "points": [
-          "구글, 10세대 TPU '아이스피시' 개발 중",
-          "삼성전자-TSMC에 부품 생산 나눠 맡길 방침",
-          "삼성, 첨단 2나노 공정 기술력 입증 기회",
-          "AI 반도체 시장 주도권 경쟁 심화"
+          "삼성전자, 구글 차세대 TPU 생산 협력 논의 중",
+          "TSMC 독주 체제에 균열 가능성 제기",
+          "삼성, 2나노 공정 수주 유력 전망",
+          "AI 반도체 파운드리 시장 경쟁 심화 예고",
+          "HBM 등 메모리 분야 삼성의 경쟁력 부각"
         ],
-        "quote": "구글이 '아이스피시' 10세대 TPU를 부품별로 삼성전자와 TSMC에 나눠 맡길 방침 (미국 IT 전문매체 디인포메이션)",
-        "context": "AI 기술 경쟁이 심화되면서 고성능 AI 반도체 수요가 폭증하고 있으며, 파운드리 업계는 초미세 공정 기술력 확보에 사활을 걸고 있습니다. 삼성전자가 구글과의 협력을 통해 AI 반도체 시장에서 입지를 강화할지 주목됩니다.",
-        "source_url": "https://www.financialpost.co.kr/news/articleView.html?idxno=262331"
+        "quote": "구글은 차세대 TPU 생산 과정에서 삼성전자 파운드리 사업부 활용을 검토하고 있다고 보도했다.",
+        "context": "글로벌 IT 공룡 구글의 핵심 AI 반도체 생산을 둘러싼 삼성전자와 TSMC의 경쟁은 AI 시대의 기술 주도권과 반도체 산업의 미래를 결정짓는 중요한 분기점이 될 것입니다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2592965"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88628&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20microchips%20with%20%27AI%27%20and%20%272nm%27%20labels%2C%20one%20chip%20transforming%20into%20another%2C%20symbolizing%20a%20major%20deal%20between%20Samsung%20and%20Google%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4555&nologo=true"
     },
     {
-      "id": "tech-ai-jobcuts",
+      "id": "tech-waymo-subscription",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "line_chart",
-      "title": "美 기술업계, AI 투자 확대 속 감원 확산",
-      "subtitle": "한 주 새 4,375명 추가 해고, AI 전환기 고용 불안정 심화",
+      "viz_type": "gauge_chart",
+      "title": "웨이모, 월 4만원대 로보택시 구독 서비스 도입",
+      "subtitle": "충성고객 확보 및 완전 자율주행 서비스 확대 목표",
       "viz_data": {
         "stats": [
           {
-            "value": "4,375명",
-            "label": "주간 감원"
+            "value": "월 4만원대",
+            "label": "구독료"
           },
           {
-            "value": "AI",
-            "label": "투자 동인"
-          },
-          {
-            "value": "IT 기업",
-            "label": "주요 산업"
+            "value": "샌프란시스코 외 2곳",
+            "label": "시범 운영"
           }
         ],
-        "main_number": "+AI, -일자리",
-        "main_text": "기술 발전의 양면성"
+        "main_number": "프리미어",
+        "main_text": "초청 기반 유료 멤버십 '웨이모 프리미어' 출시"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of a futuristic self-driving car with a subscription icon, showing a lock and satisfied customers, in pastel colors, no text",
       "detail": {
-        "summary": "미국 기술업계에서 AI 투자가 확대되는 가운데 감원이 확산되며, 한 주 만에 4,375명이 추가 해고되는 등 AI 전환기 고용 불안정성이 심화되고 있습니다.",
+        "summary": "웨이모가 월 4만원대 유료 멤버십 서비스 '웨이모 프리미어'를 도입하며 로보택시 충성고객을 확보하고 완전 자율주행 차량 호출 서비스를 확대해나가고 있습니다.",
         "points": [
-          "미국 기술 기업들의 AI 투자 가속화",
-          "동시에 감원 발표 이어져, 주간 4,375명 추가 해고",
-          "세일즈포스, 구글 등 대형 IT 기업 감원 주도",
-          "AI 기술 도입에 따른 업무 효율화 및 인력 재배치"
+          "웨이모, 초청 기반 유료 멤버십 '웨이모 프리미어' 출시",
+          "월 4만원대 구독료로 로보택시 서비스 제공",
+          "샌프란시스코, 로스앤젤레스, 피닉스 일부 이용자 대상 시범 운영",
+          "완전 자율주행 차량 호출 서비스 개선 및 확대 목표"
         ],
-        "quote": "AI 산업 가치의 과대평가에 대한 우려인 ‘AI거품론’이 오히려 꺼져가고 있다. (전문가)",
-        "context": "AI 기술이 빠르게 발전하면서 기업들은 생산성 향상과 비용 절감을 위해 AI 도입에 적극적이지만, 이로 인해 기존 인력 구조가 변화하고 일부 직무에서는 해고가 발생하며 사회적 논의가 필요해지고 있습니다.",
-        "source_url": "https://www.tokenpost.kr/news/tech/368410"
+        "quote": "전 세계 더 많은 이용자에게 완전 자율주행 차량 호출 서비스를 제공하기 위해 서비스를 지속적으로 개선하고 있다.",
+        "context": "자율주행 기술 상용화의 다음 단계로 서비스 모델 혁신이 중요해지는 가운데, 웨이모의 구독 서비스 도입은 시장 경쟁 심화와 소비자 행동 변화를 이끌 것으로 보입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/092/0002426324?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=89722&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20a%20futuristic%20self-driving%20car%20with%20a%20subscription%20icon%2C%20showing%20a%20lock%20and%20satisfied%20customers%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27275&nologo=true"
     },
     {
-      "id": "tech-ai-security",
+      "id": "tech-siri-ai-partnership",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "pie_chart",
-      "title": "AI 공격 겨냥 'AI 보안 기술' 쏟아진다",
-      "subtitle": "딥페이크, AI 오작동 등 4대 주요 사이버 위협 대응",
+      "viz_type": "flowchart",
+      "title": "애플 시리 AI, 구글 제미나이와 협력 구조 윤곽 드러나",
+      "subtitle": "애플 인텔리전스에 적용, 개인정보 보호 방식 주목",
       "viz_data": {
         "stats": [
           {
-            "value": "4대",
-            "label": "주요 위협"
+            "value": "시리 AI",
+            "label": "애플 AI"
           },
           {
-            "value": "AI 기반",
-            "label": "보안 기술"
+            "value": "제미나이",
+            "label": "구글 AI 모델"
           },
           {
-            "value": "새로운 기능",
-            "label": "행동 되돌리기"
+            "value": "개인정보 보호",
+            "label": "핵심 요소"
           }
         ],
-        "main_number": "+AI 보안",
-        "main_text": "진화하는 사이버 방어"
+        "main_number": "협력",
+        "main_text": "두 거대 기술 기업의 AI 협력 모델"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of two intertwined logos (Apple and Google) with arrows pointing to a stylized brain (AI), representing their collaboration on Siri AI and data flow, in pastel colors, no text",
       "detail": {
-        "summary": "AI 기술을 활용한 사이버 공격이 증가함에 따라, 딥페이크, AI 오작동 등 4대 주요 위협에 대응하기 위한 AI 기반 보안 기술과 제품이 속속 출시되고 있습니다.",
+        "summary": "애플의 시리 AI가 구글의 AI 모델 '제미나이'와 협력하는 구조의 윤곽이 드러났으며, 애플 인텔리전스에 적용되는 구체적인 활용 방식과 개인정보 보호 구조에 관심이 집중되고 있습니다.",
         "points": [
-          "가트너, 4대 주요 사이버 위협으로 딥페이크, AI 오작동 지목",
-          "루브릭 등 기업, AI 전용 보안 제품 출시",
-          "'AI 행동 되돌리기' 등 혁신 기능 탑재",
-          "AI 시대 사이버 보안의 중요성 증대"
+          "애플 시리 AI, 구글 제미나이 활용 방식 공개",
+          "애플 인텔리전스에 제미나이 적용 확인",
+          "사용자 데이터 보호를 위한 협력 구조에 주목",
+          "구글, AI 모델군 및 지능형 비서에 제미나이 적용 확대",
+          "두 거대 기술 기업의 AI 동맹의 세부 사항 공개"
         ],
-        "quote": "공격자가 표적 취약점을 악용해 우위를 점할 수 있는 4대 주요 사이버 위협으로 ▲딥페이크 ▲AI... 지목 (IT시장 분석 업체 가트너)",
-        "context": "AI 기술의 발전은 사이버 공격의 지능화를 가져오고 있어, 이에 맞서는 AI 기반의 방어 기술 개발이 필수적입니다. AI 보안 시장은 빠르게 성장하며 미래 사이버 안보의 핵심이 될 것입니다.",
-        "source_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674357"
+        "quote": "애플 인텔리전스와 시리 AI에 적용된 제미나이의 구체적인 활용 방식과 개인정보 보호 구조가 베일을 벗고 있다.",
+        "context": "인공지능 기술이 급속도로 발전하면서 빅테크 기업 간의 전략적 제휴가 AI 서비스의 성능과 사용자 경험, 그리고 개인정보 보호 기준을 어떻게 변화시킬지 보여줍니다.",
+        "source_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674387"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=71005&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20two%20intertwined%20logos%20%28Apple%20and%20Google%29%20with%20arrows%20pointing%20to%20a%20stylized%20brain%20%28AI%29%2C%20representing%20their%20collaboration%20on%20Siri%20AI%20and%20data%20flow%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81768&nologo=true"
     },
     {
-      "id": "society-youth-protest",
+      "id": "society-webtoon-piracy",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "bar_chart",
-      "title": "2030 세대, '투표용지 부족 사태'에 분노 표출",
-      "subtitle": "'민주주의 근간 흔들려' 공정 사회 요구 확산",
+      "title": "웹툰 불법 복제 만화사이트 운영자 송환, 업계 엄정 처벌 촉구",
+      "subtitle": "창작자 권익 보호 및 건강한 창작 생태계 조성 기대",
       "viz_data": {
         "stats": [
           {
-            "value": "2030",
-            "label": "주요 참여 세대"
+            "value": "환영",
+            "label": "웹툰업계 반응"
           },
           {
-            "value": "공정성",
-            "label": "핵심 요구 가치"
+            "value": "엄정 처벌",
+            "label": "요구 사항"
           },
           {
-            "value": "선거 논란",
-            "label": "주요 이슈"
+            "value": "창작자 권익",
+            "label": "핵심 가치"
           }
         ],
-        "main_number": "2030",
-        "main_text": "청년들의 공정 요구"
+        "main_number": "불법 근절",
+        "main_text": "지속적인 수사와 공조로 불법 유통 근절 노력"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "infographic illustration of a stylized webtoon frame being protected by a shield from a 'piracy' icon, with scales of justice in the background, in pastel colors, no text",
       "detail": {
-        "summary": "2030 세대가 투표용지 부족 사태에 대한 분노를 표출하며 '공정'과 '민주주의의 근간'을 외치는 시위가 확산되고 있습니다.",
+        "summary": "웹툰업계가 불법 복제 만화사이트 운영자의 국내 송환을 환영하며, 창작자 권익 보호와 건강한 창작 생태계 조성을 위해 엄정 처벌을 촉구했습니다.",
         "points": [
-          "투표용지 부족 사태에 대한 2030 세대의 분노",
-          "'공정'에 대한 강한 요구와 민주주의 훼손 우려",
-          "대학생 중심의 자발적인 시국선언 및 항의",
-          "기성세대의 정쟁 소비 경고 및 청년들의 목소리 경청 촉구"
+          "불법 복제 만화사이트 운영자 국내 송환",
+          "웹툰업계, 관계기관 노력에 감사 및 엄정 처벌 촉구",
+          "불법 유통 근절 및 창작자 권익 보호 대응 지속",
+          "건강한 창작 생태계 조성 강조",
+          "사회적 경각심 제고 기대"
         ],
-        "quote": "열심히 노력해도 공정하지 못한 기울어진 운동장이 된 사회 구조로 청년들의 설 자리는 점점 좁아진다. (청년일보 인터뷰)",
-        "context": "최근 선거 관리와 관련된 논란은 젊은 세대의 공정성 민감도를 자극하며 사회 전반의 민주주의 시스템에 대한 신뢰도 저하로 이어지고 있습니다.",
-        "source_url": "https://www.youthdaily.co.kr/news/article.html?no=220647"
+        "quote": "이번 송환은 오랜 기간 창작자와 권리사, 플랫폼 모두에게 큰 상실감을 안겨준 불법 웹툰 유통을 근절하는 데 중요한 이정표가 될 것이다.",
+        "context": "디지털 콘텐츠 시대에 불법 복제 문제의 심각성을 인식하고, 창작자의 권리를 보호하며 공정한 시장 환경을 구축하기 위한 사회적 노력이 중요함을 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000515632?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67012&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20a%20stylized%20webtoon%20frame%20being%20protected%20by%20a%20shield%20from%20a%20%27piracy%27%20icon%2C%20with%20scales%20of%20justice%20in%20the%20background%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51837&nologo=true"
     },
     {
-      "id": "society-afterschool-program",
+      "id": "society-eunpyeong-burnout-prevention",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "map",
-      "title": "서울시교육청, 초등 방과후 교육 주말까지 확대",
-      "subtitle": "지역사회 연계로 미래교육, 독서, 문화예술 프로그램 제공",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "초등 4~6학년",
-            "label": "대상 학년"
-          },
-          {
-            "value": "주말 포함",
-            "label": "운영 기간"
-          },
-          {
-            "value": "4개 분야",
-            "label": "확대 영역"
-          }
-        ],
-        "main_number": "+확대",
-        "main_text": "초등 방과후 교육 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "서울시교육청이 지역사회와 협력하여 초등 방과후 교육을 주말까지 확대하며, 미래교육, 독서, 문화예술 등 다양한 프로그램을 학생들에게 제공합니다.",
-        "points": [
-          "서울시교육청, 초등 방과후 교육 모델 혁신",
-          "학교 울타리 넘어 지역사회 자원 적극 활용",
-          "주말 및 방학 중 초등 4~6학년 대상 프로그램 운영",
-          "미래교육, 문화예술 등 4개 분야 교육 기회 확대"
-        ],
-        "quote": "학교 내 공간과 프로그램의 한계를 보완하고, 지역사회가 보유한 교육 자원을 적극 활용해 학생들에게... (서울시교육청 관계자)",
-        "context": "사교육 부담 경감과 공교육 강화의 일환으로, 방과후 교육의 질과 접근성을 높이는 것은 학생들의 전인적 성장과 학부모 만족도를 높이는 중요한 정책 방향입니다.",
-        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=204062"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=14705&nologo=true"
-    },
-    {
-      "id": "society-ecosystem-restoration",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "금호석화, 여수 철새 서식지 복원…생태계 보전 앞장",
-      "subtitle": "지역 농가와 협력, 볍씨·고구마 공급 등 지속적 활동",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "여수",
-            "label": "활동 지역"
-          },
-          {
-            "value": "3주체",
-            "label": "참여 인원"
-          },
-          {
-            "value": "지속적",
-            "label": "활동 주기"
-          }
-        ],
-        "main_number": "환경+",
-        "main_text": "기업의 생태계 보전 노력"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "금호석화그룹이 여수 철새 서식지 복원 활동에 앞장서며, 지역 농가와의 협력을 통해 겨울철 먹이 공급 등 생태계 보전을 위한 정기적인 사회공헌 프로그램을 운영하고 있습니다.",
-        "points": [
-          "금호석화, 여수 철새 서식지 복원 프로젝트 진행",
-          "지역 농가, 겨울철 볍씨 및 고구마 먹이 공급 참여",
-          "금호석유화학 임직원, 현장 활동 동참",
-          "생태적 가치 보전 및 생물다양성 유지 목표"
-        ],
-        "quote": "여수의 생태적 가치를 보존하고 생물다양성을 지키는 일은 지역사회와 함께 성장해 온... (백종훈 금호석유화학 대표)",
-        "context": "기업의 사회적 책임(CSR) 활동이 중요해지는 가운데, 지역사회와 협력하여 환경 보호 및 생태계 보전에 기여하는 모범적인 사례로 평가받고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006303916?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22611&nologo=true"
-    },
-    {
-      "id": "life-seoul-bookfair",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "calendar",
-      "title": "2026 서울국제도서전, 24일부터 코엑스 개최",
-      "subtitle": "국내외 출판 생태계 조망, 다채로운 문화 프로그램",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "5일",
-            "label": "행사 기간"
-          },
-          {
-            "value": "코엑스",
-            "label": "장소"
-          },
-          {
-            "value": "다채로운",
-            "label": "프로그램"
-          }
-        ],
-        "main_number": "📚",
-        "main_text": "책으로 만나는 새로운 문화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "대한민국 대표 책 축제인 '2026 서울국제도서전'이 오는 24일부터 28일까지 5일간 코엑스에서 열려, 국내외 출판 생태계를 조망하고 다채로운 문화 프로그램을 선보입니다.",
-        "points": [
-          "대한민국 대표 책 축제, 서울국제도서전 개최",
-          "5일간 코엑스에서 국내외 출판계 교류의 장",
-          "도서전 핵심 가치 담은 강연 및 전시",
-          "새로운 문화적 경험 제공 및 독서 문화 확산"
-        ],
-        "quote": "국내외 출판 생태계를 한눈에 볼 수 있는 대한민국 대표 책 축제다. (주최 측)",
-        "context": "도서전은 독서 문화 확산과 출판 산업 활성화에 기여하며, 시민들에게 다양한 책과 작가를 만날 기회를 제공하는 중요한 문화 행사입니다.",
-        "source_url": "https://www.koscaj.com/news/articleView.html?idxno=324586"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15704&nologo=true"
-    },
-    {
-      "id": "life-jeju-bike-tour",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "map",
-      "title": "제주 중문골프장, 자전거+미식+여행 '미니벨로 페스타'",
-      "subtitle": "'라이프스타일 관광'으로 체류형 관광 콘텐츠 진화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "제주",
-            "label": "활동 지역"
-          },
-          {
-            "value": "3요소",
-            "label": "결합 컨셉"
-          },
-          {
-            "value": "체류형",
-            "label": "관광 목표"
-          }
-        ],
-        "main_number": "🚲🍴✈️",
-        "main_text": "제주 라이프스타일 관광"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "제주 중문골프장에서 자전거 라이딩, 미식, 여행을 결합한 '미니벨로 페스타'가 열리며, 단순한 대회를 넘어 라이프스타일 관광 콘텐츠로 진화하고 있습니다.",
-        "points": [
-          "제주관광공사, '제주&교촌 미니벨로 페스타' 개최",
-          "중문골프장 상공을 자전거로 달리는 이색 경험",
-          "라이딩, 자연, 미식, 감성 라이프스타일 결합",
-          "체류형 관광 콘텐츠로 지역 경제 활성화 기대"
-        ],
-        "quote": "단순한 자전거 대회가 아니라 라이딩과 자연, 미식, 감성적인 라이프스타일을 함께 경험하는 체류형... (제주관광공사 관계자)",
-        "context": "MZ세대를 중심으로 경험과 가치를 중시하는 여행 트렌드가 확산되면서, 단순한 관광을 넘어 특정 테마와 라이프스타일을 결합한 체류형 콘텐츠가 주목받고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/081/0003651919?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74072&nologo=true"
-    },
-    {
-      "id": "life-busan-recycle-design",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
       "viz_type": "pie_chart",
-      "title": "부산시, 리사이클 디자인 전시로 지속 가능성 실현",
-      "subtitle": "데스크테리어, 펫라이프 등 4개 주제로 업사이클 제품 선봬",
+      "title": "은평구, 구민 마음건강 증진 위한 '번아웃 예방 교육' 참여자 모집",
+      "subtitle": "현대사회 번아웃과 스트레스 문제 해결 노력",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "은평구",
+            "label": "주관 기관"
+          },
+          {
+            "value": "번아웃 예방",
+            "label": "교육 목표"
+          },
+          {
+            "value": "참여자 모집",
+            "label": "진행 방식"
+          }
+        ],
+        "main_number": "마음 건강",
+        "main_text": "주민 스스로 마음 상태 이해 및 건강한 회복 방법 모색"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person balancing various stressors (work, daily life) and a soothing green leaf icon, symbolizing burnout prevention and mental wellness, no text",
+      "detail": {
+        "summary": "은평구가 현대사회에서 흔히 겪는 번아웃과 스트레스 문제에 대응하기 위해 구민을 대상으로 '번아웃 예방 교육' 참여자를 모집하며 마음 건강 증진에 나섰습니다.",
+        "points": [
+          "은평구, '번아웃 예방 교육' 참여자 모집",
+          "현대사회 번아웃과 스트레스 문제 해결 목표",
+          "주민 스스로 마음 상태 이해 및 건강한 회복 방법 모색 기회",
+          "지역 사회의 마음 건강 증진을 위한 노력"
+        ],
+        "quote": "이번 교육이 주민들이 자신의 마음 상태를 이해하고 건강한 회복 방법을 찾는 계기가 되길 바란다.",
+        "context": "급변하는 사회 속에서 개인의 정신 건강 문제가 중요하게 대두되면서, 지역사회가 주민들의 마음 건강을 지키기 위한 실질적인 정책과 프로그램을 마련하고 있음을 보여줍니다.",
+        "source_url": "https://www.cnbizm.com/news/articleView.html?idxno=305299"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20balancing%20various%20stressors%20%28work%2C%20daily%20life%29%20and%20a%20soothing%20green%20leaf%20icon%2C%20symbolizing%20burnout%20prevention%20and%20mental%20wellness%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94892&nologo=true"
+    },
+    {
+      "id": "society-food-security-demographics",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison",
+      "title": "KAIST \"저출산, 식량안보의 새로운 위험…농업 인력 부족 심화\"",
+      "subtitle": "미래 사회 농지보다 노동력 부족이 더 큰 제약될 것",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "저출산",
+            "label": "주요 원인"
+          },
+          {
+            "value": "노동력 감소",
+            "label": "농업 문제"
+          },
+          {
+            "value": "식량 안보",
+            "label": "국가적 위협"
+          }
+        ],
+        "main_number": "위험",
+        "main_text": "세계 대부분 지역에서 농업 인력 부족이 핵심 요인"
+      },
+      "image_prompt": "infographic illustration of a farm field with no farmers, and a shrinking population graph next to it, symbolizing the impact of low birth rate on food security and agricultural labor, in pastel colors, no text",
+      "detail": {
+        "summary": "KAIST 연구팀이 저출산으로 인한 농업 인력 부족이 미래 식량 안보에 새로운 위험이 될 것이며, 세계 대부분 지역에서 농지 면적보다 노동력 부족이 더 큰 제약이 될 것이라고 경고했습니다.",
+        "points": [
+          "저출산으로 인한 농업 노동력 감소 심화",
+          "미래 식량 안보의 새로운 위험으로 부상",
+          "세계 대부분 지역에서 농지보다 노동력 부족이 더 큰 제약",
+          "인구 증가, 경제 성장, 산업 구조 변화에 따른 농업 노동력 감소 분석",
+          "공통 사회경제 경로(SSP)와 대표 농도경로(RCP) 시나리오 활용"
+        ],
+        "quote": "미래에는 세계 대부분 지역에서 농업 인력 부족이 실제 활용 가능한 농지 면적을 줄이는 핵심 요인이 되는 것으로 나타났다.",
+        "context": "인구 구조 변화가 단순히 사회 문제를 넘어 국가의 근간인 식량 안보에까지 영향을 미칠 수 있음을 보여주며, 지속 가능한 사회를 위한 근본적인 대책 마련의 필요성을 강조합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004630387?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20a%20farm%20field%20with%20no%20farmers%2C%20and%20a%20shrinking%20population%20graph%20next%20to%20it%2C%20symbolizing%20the%20impact%20of%20low%20birth%20rate%20on%20food%20security%20and%20agricultural%20labor%2C%20in%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=68415&nologo=true"
+    },
+    {
+      "id": "life-workation-busan",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map_chart",
+      "title": "'워케이션' 트렌드 확산, 부산이 새로운 거점으로 부상",
+      "subtitle": "IT·앱 개발 등 원격 근무 가능 업종 중심 수요 증가",
       "viz_data": {
         "stats": [
           {
             "value": "부산",
-            "label": "개최 도시"
+            "label": "인기 워케이션 장소"
           },
           {
-            "value": "4개",
-            "label": "전시 주제"
+            "value": "원격 업무",
+            "label": "핵심 조건"
           },
           {
-            "value": "다양한",
-            "label": "업사이클 제품"
+            "value": "다양한 업종",
+            "label": "수요층"
           }
         ],
-        "main_number": "♻️",
-        "main_text": "지속 가능한 라이프스타일"
+        "main_number": "확산",
+        "main_text": "서울 벗어나 새로운 워케이션 장소 찾는 트렌드"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a laptop on a beach or scenic view, with a map showing Busan as a popular remote work destination, symbolizing the workation trend, no text",
       "detail": {
-        "summary": "부산시가 리사이클 디자인 전시를 통해 지속 가능성을 실현하고 있으며, 데스크테리어, 펫라이프 등 4개 주제로 다양한 업사이클 제품을 선보입니다.",
+        "summary": "일과 휴가를 병행하는 '워케이션' 트렌드가 확산되며 부산이 서울을 벗어난 새로운 인기 거점으로 떠오르고 있으며, IT·앱 개발 등 원격 업무가 가능한 업종에서 수요가 높습니다.",
         "points": [
-          "부산시, '리사이클 디자인 산업 가치 확산' 전시 개최",
-          "데스크테리어, 펫라이프, 업사이클 패션 등 4개 주제",
-          "파쇄지 오브제, 유리병 재활용 조명 등 전시",
-          "지속 가능한 디자인 산업 활성화 및 기업 지원 목표"
+          "일과 휴가를 병행하는 '워케이션' 트렌드 확산",
+          "부산, 워케이션 인기 지역으로 부상",
+          "IT, 앱 개발, 디자인 등 원격 업무 가능 업종 중심 수요",
+          "단순 체험형보다 실제 업무 가능한 환경 선호",
+          "부산창조경제혁신센터, 워케이션 사업 민간 위탁 운영"
         ],
-        "quote": "리사이클 디자인 산업의 가치를 알리려고 기획됐다. (부산시 관계자)",
-        "context": "환경 보호와 자원 순환의 중요성이 커지면서, 재활용 소재를 활용한 업사이클 디자인은 지속 가능한 라이프스타일을 추구하는 현대 사회에서 중요한 가치로 부상하고 있습니다.",
-        "source_url": "https://www.newspim.com/news/view/20260612000058"
+        "quote": "최근에는 단순 체험형보다 실제 업무가 가능한 워케이션을 선호하는 이들이 늘고 있다.",
+        "context": "팬데믹 이후 확산된 유연근무 문화가 '워케이션'이라는 새로운 라이프스타일 트렌드를 만들며, 지역 경제 활성화에도 기여하고 있음을 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/021/0002797273?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3038&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20laptop%20on%20a%20beach%20or%20scenic%20view%2C%20with%20a%20map%20showing%20Busan%20as%20a%20popular%20remote%20work%20destination%2C%20symbolizing%20the%20workation%20trend%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32661&nologo=true"
+    },
+    {
+      "id": "life-xexymix-indonesia",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map_chart",
+      "title": "젝시믹스, 인도네시아 자카르타에 1호점 오픈…현지 프리미엄 시장 공략",
+      "subtitle": "아쉬타 디스트릭트 8 입점, 현지 문화 반영 제품 확대 예정",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "인도네시아",
+            "label": "진출 국가"
+          },
+          {
+            "value": "자카르타",
+            "label": "오픈 도시"
+          },
+          {
+            "value": "1호점",
+            "label": "매장 수"
+          }
+        ],
+        "main_number": "확장",
+        "main_text": "아세안 시장 공략 본격화, K-애슬레저 위상 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a stylized map of Indonesia with a spotlight on Jakarta, and a fashion brand logo (Xexymix), representing global market expansion and local adaptation, no text",
+      "detail": {
+        "summary": "애슬레저 브랜드 젝시믹스가 인도네시아 자카르타의 프리미엄 복합문화공간 '아쉬타 디스트릭트 8'에 1호점을 열고 현지 프리미엄 시장 공략에 나섰습니다.",
+        "points": [
+          "젝시믹스, 인도네시아 자카르타 1호점 오픈",
+          "아쉬타 디스트릭트 8 입점, 프리미엄 라이프스타일 공간",
+          "현지 연예인 및 인플루언서 초청 프리 오프닝",
+          "히잡, 롱슬리브 등 현지 문화 반영 제품 확대 예정",
+          "인도네시아 상류층 및 젊은 트렌드 소비자 공략"
+        ],
+        "quote": "향후 히잡, 롱슬리브, 테니스 스커트 등 현지 문화와 스포츠 트렌드를 반영한 제품군을 확대하며 시장 공략을 강화할 방침이다.",
+        "context": "국내 패션 브랜드가 해외 시장, 특히 동남아시아의 성장 잠재력을 보고 현지 문화에 맞춰 마케팅과 제품 전략을 펼치는 글로벌 트렌드를 보여줍니다.",
+        "source_url": "https://www.cstimes.com/news/articleView.html?idxno=709524"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stylized%20map%20of%20Indonesia%20with%20a%20spotlight%20on%20Jakarta%2C%20and%20a%20fashion%20brand%20logo%20%28Xexymix%29%2C%20representing%20global%20market%20expansion%20and%20local%20adaptation%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15727&nologo=true"
+    },
+    {
+      "id": "life-winix-aircon-sales",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "위닉스, 이른 더위에 창문형 에어컨 매출 전년 대비 300% 증가",
+      "subtitle": "소비자의 라이프스타일에 맞춘 냉방 솔루션 인기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "이른 더위",
+            "label": "매출 증가 원인"
+          },
+          {
+            "value": "300%+",
+            "label": "매출 증가율"
+          },
+          {
+            "value": "창문형",
+            "label": "인기 제품"
+          }
+        ],
+        "main_number": "+300%",
+        "main_text": "이른 초여름, 창문형 에어컨 시장 높은 관심"
+      },
+      "image_prompt": "cute pastel infographic illustration of a window air conditioner with a thermometer showing rising temperatures and a bar chart indicating a significant sales increase, symbolizing consumer trend in home appliances, no text",
+      "detail": {
+        "summary": "위닉스의 창문형 에어컨 매출이 이른 더위의 영향으로 전년 동기 대비 300% 이상 증가하며 소비자들의 높은 관심을 받고 있습니다.",
+        "points": [
+          "위닉스 창문형 에어컨 매출 전년 대비 300% 이상 증가",
+          "이른 초여름 시작으로 냉방 가전 수요 급증",
+          "소비자 라이프스타일에 맞춘 혁신적인 냉방 솔루션 인기",
+          "에너지 효율성 및 설치 편리성 부각"
+        ],
+        "quote": "올해는 이른 초여름부터 창문형에어컨 매출이 전년 동기 대비 300% 이상 증가하며 시장의 높은 관심을 확인할 수 있었다.",
+        "context": "기후 변화로 인한 이상 기후 현상(이른 더위)이 소비자의 라이프스타일과 가전제품 구매 트렌드에 직접적인 영향을 미치고 있음을 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/031/0001034604?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20window%20air%20conditioner%20with%20a%20thermometer%20showing%20rising%20temperatures%20and%20a%20bar%20chart%20indicating%20a%20significant%20sales%20increase%2C%20symbolizing%20consumer%20trend%20in%20home%20appliances%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3129&nologo=true"
     }
   ],
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T08:25:59.988351+09:00"
+  "generated_at": "2026-06-12T09:31:17.652144+09:00"
 }
