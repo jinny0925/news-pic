@@ -6,560 +6,561 @@
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "트럼프 \"14일 이란 합의 서명\"...본인 생일날로 특정",
-      "subtitle": "이란 핵 협상 타결, 호르무즈 해협 개방 예고",
+      "title": "美-이란, 종전 및 비핵화 합의 임박",
+      "subtitle": "트럼프, '14일 온라인 서명' 자신감 표명... 이란은 신중",
       "viz_data": {
         "stats": [
           {
             "value": "14일",
-            "label": "서명 예정"
+            "label": "예상 서명일"
           },
           {
-            "value": "80세",
-            "label": "트럼프 생일"
-          },
-          {
-            "value": "20%+",
-            "label": "호르무즈 해협 원유 통과량"
+            "value": "핵물질",
+            "label": "주요 의제"
           }
         ],
-        "main_number": "+20%",
-        "main_text": "세계 해상 원유 물동량 통과"
+        "main_number": "D-1",
+        "main_text": "합의 초읽기, 긴장 속 기대감"
       },
-      "image_prompt": "cute pastel infographic illustration, Trump, Iran flag, oil tanker, calendar with June 14, birthday cake, no text",
+      "image_prompt": "cute pastel infographic illustration of two hands shaking over a globe, with a peace symbol, soft pastel colors, no text",
       "detail": {
-        "summary": "트럼프 전 대통령이 자신의 80번째 생일인 14일 이란과의 종전 및 비핵화 합의에 서명할 예정이며, 서명 즉시 호르무즈 해협이 개방될 것이라고 밝혔다.",
+        "summary": "트럼프 전 대통령이 이란과의 종전 및 비핵화 합의가 14일 온라인 서명될 것이라고 밝히며, 이란 내 고농축 우라늄 등 핵물질 문제를 해결할 것이라고 강조했습니다. 호르무즈 해협 개방도 언급되어 국제 정세에 큰 영향을 미칠 전망입니다.",
         "points": [
-          "14일 이란 합의 서명 예정",
-          "트럼프 대통령 80세 생일에 맞춰 발표",
+          "트럼프, 14일 합의 서명 언급",
+          "핵물질 문제 해결 및 비핵화",
           "호르무즈 해협 즉시 개방 예상",
-          "세계 해상 원유 물동량 20% 통과"
+          "이란, 최종 확정은 아직이라며 신중"
         ],
-        "quote": "이란과의 합의가 14일 서명될 예정이며, 서명 직후 호르무즈 해협은 모두에게 개방된다.",
-        "context": "이번 합의는 중동 질서 재편과 전후 경제 협력, 국제 해협 안전 문제가 핵심 의제로 논의되고 있으며, 과거 핵합의 무력화 경험이 있어 후속 이행 과정이 중요함.",
-        "source_url": "http://www.4th.kr/news/articleView.html?idxno=2113140"
+        "quote": "이번 합의는 이란의 핵무기 보유를 원천 차단하는 내용이 될 것.",
+        "context": "미국과 이란 간의 해묵은 갈등이 평화적 해결 국면으로 전환될 가능성이 커지면서 중동 정세 안정과 세계 경제에 긍정적인 영향을 미칠 것으로 기대됩니다. 다만 이란의 최종 입장 발표까지는 불확실성이 남아있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005371428?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Trump%2C%20Iran%20flag%2C%20oil%20tanker%2C%20calendar%20with%20June%2014%2C%20birthday%20cake%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82024&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20hands%20shaking%20over%20a%20globe%2C%20with%20a%20peace%20symbol%2C%20soft%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95989&nologo=true"
     },
     {
-      "id": "world-nk-china-diplomacy",
+      "id": "world-korea-msci",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "heatmap",
-      "title": "김주애 없었던 시진핑 방북…세습정치의 한계?",
-      "subtitle": "북중 정상회담서 북한 후계자 김주애 미등장, 외교적 해석 분분",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1회",
-            "label": "정상외교 불참"
-          },
-          {
-            "value": "4대",
-            "label": "세습 부담"
-          }
-        ],
-        "main_number": "2026년",
-        "main_text": "김주애, 첫 정상외교 불참"
-      },
-      "image_prompt": "cute pastel infographic illustration, North Korea, China flags, handshake, silhouette of a child, no text",
-      "detail": {
-        "summary": "시진핑 주석의 방북 당시 김주애가 정상외교 무대에 모습을 드러내지 않아 북한의 '4대 세습'에 대한 중국의 정치적 부담이 작용한 것이 아니냐는 분석이 나온다.",
-        "points": [
-          "시진핑 방북 시 김주애 미등장",
-          "북한의 세습정치에 대한 중국의 부담 관측",
-          "외교적, 정치적 부담 고려 분석",
-          "일당지배 사회주의 국가의 공통점과 차이점"
-        ],
-        "quote": "중국은 권력 세습에 대한 거부감이 있다. 그런 부분들을 고려했을 거라는 거죠.",
-        "context": "북한은 그동안 김주애를 후계자로서 부각시키려는 움직임을 보였으나, 이번 중국과의 정상외교에서는 의도적으로 배제한 것으로 보이며 이는 중국의 체제 정당성 문제와 연관된 해석이 많다.",
-        "source_url": "https://n.news.naver.com/mnews/article/052/0002366202?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20North%20Korea%2C%20China%20flags%2C%20handshake%2C%20silhouette%20of%20a%20child%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80165&nologo=true"
-    },
-    {
-      "id": "world-china-iran-alliance",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "map",
-      "title": "중국과 이란 밀월, 호르무즈 딜레마의 원인",
-      "subtitle": "이란의 호르무즈 해협 공격과 중국의 침묵, 국제적 우려 증폭",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2021년",
-            "label": "이란 한국 선박 억류"
-          },
-          {
-            "value": "25%+",
-            "label": "세계 원유 수출 통과량"
-          }
-        ],
-        "main_number": "5월 4일",
-        "main_text": "이란, HMM 나무호 미사일 공격"
-      },
-      "image_prompt": "cute pastel infographic illustration, world map, China flag, Iran flag, oil tanker in strait, no text",
-      "detail": {
-        "summary": "이란의 호르무즈 해협 내 선박 공격 이후, 중국이 이란과의 밀월 관계를 유지하며 국제사회에 대한 이란의 영향력이 확대될 수 있다는 우려가 제기된다.",
-        "points": [
-          "이란, 호르무즈 해협 내 HMM 나무호 공격",
-          "미상의 비행체는 이란에서 개발된 것으로 확인",
-          "중국, 이란과의 밀월 관계 유지",
-          "호르무즈 딜레마로 한국 정부의 대응 필요성 제기"
-        ],
-        "quote": "우리 정부는 이란 군부의 사과를 공식적으로 받아내야 한다. 만일 이 같은 사과가 이뤄지지 않는다면, 그들에게 경제적인 보복 조치를 가해야 한다.",
-        "context": "호르무즈 해협은 전 세계 해상 원유 물동량의 약 25%가 통과하는 핵심 수송로로, 이란의 군사적 도발과 중국과의 관계가 복합적으로 작용하여 국제 정세에 불안정을 가중시키고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/053/0000059126?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20world%20map%2C%20China%20flag%2C%20Iran%20flag%2C%20oil%20tanker%20in%20strait%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44938&nologo=true"
-    },
-    {
-      "id": "economy-gdp-trade-imbalance",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
       "viz_type": "bar_chart",
-      "title": "글로벌 무역불균형 GDP 3.7%… G7 에비앙 정상회의 '뇌관' 부상",
-      "subtitle": "세계 경상수지 불균형 심화, G7 정상회의 주요 의제로 논의",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3.7%",
-            "label": "글로벌 무역 불균형"
-          },
-          {
-            "value": "15일",
-            "label": "G7 정상회의"
-          }
-        ],
-        "main_number": "↑3.7%",
-        "main_text": "세계 GDP 대비 경상수지 불균형 확대"
-      },
-      "image_prompt": "cute pastel infographic illustration, world economy, G7 flags, trade balance, GDP graph, no text",
-      "detail": {
-        "summary": "글로벌 경상수지 불균형이 세계 GDP의 3.7%까지 확대되며, 오는 15일 프랑스에서 열리는 G7 에비앙 정상회의의 핵심 의제로 부상했다.",
-        "points": [
-          "글로벌 경상수지 불균형 세계 GDP의 3.7% 도달",
-          "프랑스 마크롱 대통령, 주요 경제국 협력 강조",
-          "IMF, 중국의 외환시장 개입 및 자본통제 지적",
-          "과도한 불균형 해소를 위한 정책 조율 필요성"
-        ],
-        "quote": "주요 경제국들이 협력해 교정하지 않으면 이 문제가 통제 불능 상태로 빠질 수 있다.",
-        "context": "국제통화기금(IMF)은 지난해 전 세계 경상수지 흑자·적자 합산 규모가 세계 GDP의 3.7%를 기록했다고 분석하며, 특히 중국의 구조적인 무역 흑자 유도 정책이 주요 원인으로 지목된다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026061405523757292bd56fbc3c_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20world%20economy%2C%20G7%20flags%2C%20trade%20balance%2C%20GDP%20graph%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51608&nologo=true"
-    },
-    {
-      "id": "economy-dollar-deposits",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "당국 달러 매도 요청에도…기업 달러예금 3년5개월만에 최대",
-      "subtitle": "원/달러 환율 변동성 속 기업 달러예금 증가 추세",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3년 5개월",
-            "label": "최대치"
-          },
-          {
-            "value": "1500원+",
-            "label": "환율 유지 기간"
-          }
-        ],
-        "main_number": "↑최대",
-        "main_text": "기업 달러예금 3년 5개월만에 최대"
-      },
-      "image_prompt": "cute pastel infographic illustration, dollar bills, won coins, business people, line chart, no text",
-      "detail": {
-        "summary": "당국의 달러 매도 요청에도 불구하고 기업 달러예금이 3년 5개월 만에 최대치를 기록하며, 최근 원/달러 환율의 높은 변동성에 기업들이 대비하는 모습이다.",
-        "points": [
-          "기업 달러예금 3년 5개월만에 최대치 경신",
-          "원/달러 환율 5월 15일 이후 1,500원대 유지",
-          "미국 경제지표, 중동전쟁 등 지정학적 리스크 영향",
-          "외국인 자금 흐름에 따른 환율 변동성 심화"
-        ],
-        "quote": "원/달러 환율은 미국 경제지표와 중동전쟁 등 지정학적 리스크, 외국인 자금 흐름에 따라 등락을 반복하며 큰 변동성을 보이고 있다.",
-        "context": "최근 국제 정세 불안정과 미국 금리 인상 등 여러 요인으로 환율 변동성이 커지자, 기업들은 자산 방어 및 불확실성 대비 차원에서 달러 예금을 늘리고 있는 것으로 분석된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016137225?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20dollar%20bills%2C%20won%20coins%2C%20business%20people%2C%20line%20chart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79222&nologo=true"
-    },
-    {
-      "id": "economy-china-ev-market",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "보조금 삭감도 뚫었다…中 자동차 시장 3분의 2, 전기차가 전격 접수",
-      "subtitle": "중국 전기차 시장, 보조금 축소에도 불구하고 급성장 지속",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2/3",
-            "label": "전기차 시장 점유율"
-          },
-          {
-            "value": "60%",
-            "label": "브렌트유 가격 상승률"
-          }
-        ],
-        "main_number": "↑3배",
-        "main_text": "중국 EV 보조금 철폐 후에도 판매 급증"
-      },
-      "image_prompt": "cute pastel infographic illustration, electric car, China flag, market share pie chart, no text",
-      "detail": {
-        "summary": "중국 정부의 전기차 보조금 삭감에도 불구하고 중국 자동차 시장의 3분의 2를 전기차가 차지하며, 휘발유차는 성장 동력을 완전히 상실한 것으로 분석된다.",
-        "points": [
-          "중국 전기차 시장, 보조금 삭감에도 성장세 지속",
-          "중국 자동차 시장의 2/3 전기차 점유",
-          "휘발유차 시장 성장 동력 상실",
-          "중동 분쟁 등 지정학적 쇼크가 전기차 전환 가속화"
-        ],
-        "quote": "장기화되는 중동 분쟁과 지정학적 쇼크는 중국 전기차 제조사들에게 기회로 작용하고 있다.",
-        "context": "세계 최대 전기차 시장인 중국은 강력한 기술력과 규모의 경제를 바탕으로 글로벌 시장을 주도하고 있으며, 이는 지정학적 불안정 속 에너지 안보 강화 움직임과 맞물려 더욱 가속화되고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026061314461777740c8c1c064d_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20electric%20car%2C%20China%20flag%2C%20market%20share%20pie%20chart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84689&nologo=true"
-    },
-    {
-      "id": "tech-huawei-harmonyos7",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "화웨이, ‘하모니OS 7’에 2,000명 AI 에이전트 투입… 애플 中 공백 정조준",
-      "subtitle": "화웨이, 하모니OS 7에 AI 에이전트 대규모 투입하며 모바일 시장 경쟁 심화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2,000명",
-            "label": "AI 에이전트"
-          },
-          {
-            "value": "6,600만+",
-            "label": "활성화 기기"
-          }
-        ],
-        "main_number": "↑30%",
-        "main_text": "하모니OS 사용자 전년 대비 증가율"
-      },
-      "image_prompt": "cute pastel infographic illustration, Huawei logo, AI robot, smartphone, Apple logo, no text",
-      "detail": {
-        "summary": "화웨이가 차세대 모바일 운영체제 ‘하모니OS 7’에 2,000명의 AI 에이전트를 투입하며 애플의 중국 시장 공백을 공략하고 글로벌 모빌리티 및 IT 시장에서의 입지를 강화한다.",
-        "points": [
-          "화웨이, 하모니OS 7에 2,000명 AI 에이전트 투입",
-          "애플 시리 개편 발표에 맞서 AI 역량 강화",
-          "전 세계 6,600만 대 이상의 활성화 기기 확보",
-          "글로벌 모빌리티 및 IT 자본 시장 공략 가속화"
-        ],
-        "quote": "화웨이는 차세대 모바일 운영체제 하모니OS 7을 공식 발표하고 글로벌 모빌리티 및 IT 자본 시장에 완벽한 비전을 제시했다.",
-        "context": "미국의 제재 속에서도 화웨이는 자율적인 기술 생태계를 구축하며 모바일 시장에서의 경쟁력을 키우고 있으며, 특히 AI 기술을 전면에 내세워 애플 등 글로벌 기업과의 격차를 줄이려 한다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026061315000194090c8c1c064d_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Huawei%20logo%2C%20AI%20robot%2C%20smartphone%2C%20Apple%20logo%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95528&nologo=true"
-    },
-    {
-      "id": "tech-ai-korea-strategy",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "comparison",
-      "title": "AI 3강이라는 목표, 다시 묻는다",
-      "subtitle": "대한민국 AI 3강 목표 달성을 위한 전략과 현실 점검",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3강",
-            "label": "목표 순위"
-          },
-          {
-            "value": "수천 개",
-            "label": "中 스타트업 수"
-          }
-        ],
-        "main_number": "-10%",
-        "main_text": "AI 분야 경쟁력 지수 하락"
-      },
-      "image_prompt": "cute pastel infographic illustration, AI brain, magnifying glass, Korea flag, startup office, no text",
-      "detail": {
-        "summary": "대한민국이 'AI 3강'을 목표로 하고 있지만, 과거 IT 선진국이라는 자만심에 빠져 창업과 실패 용인 등 혁신적인 생태계 조성에 소홀했다는 지적이 제기된다.",
-        "points": [
-          "대한민국 'AI 3강' 목표 설정",
-          "과거 IT 선진국 자만심으로 혁신 지체 지적",
-          "중국, 수천 개 스타트업 경쟁 유도하며 성장",
-          "AI 시대, 개인의 정체성과 개성 중요성 증가"
-        ],
-        "quote": "우리는 스스로를 '정보기술(IT) 선진국'이라 불렀고, 그 자부심은 어느새 안도감이 됐다.",
-        "context": "AI 시대에는 기술 개발뿐만 아니라 창의적인 아이디어를 발굴하고 실패를 용인하는 생태계 조성이 필수적이다. 한국은 과거의 성공에 안주하지 않고 새로운 도전과 투자를 통해 AI 경쟁력을 확보해야 한다는 목소리가 크다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005371409?sid=110"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20AI%20brain%2C%20magnifying%20glass%2C%20Korea%20flag%2C%20startup%20office%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96639&nologo=true"
-    },
-    {
-      "id": "tech-hbm4-demand-anthropic",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bubble_chart",
-      "title": "\"HBM4 수요 둔화 압력 확산하나\" 엔스로픽 통제에 삼성·SK 긴장 고조",
-      "subtitle": "미국의 인공지능 통제 조치로 HBM4 수요 둔화 우려, 삼성·SK에 영향",
+      "title": "코스피, MSCI 선진지수 편입 가능성 재부상",
+      "subtitle": "수익률 1위 코스피, 국제 시장 위상 강화 기대",
       "viz_data": {
         "stats": [
           {
             "value": "1위",
-            "label": "HBM 시장 점유율 (삼성/SK)"
+            "label": "코스피 수익률"
           },
           {
-            "value": "3대",
-            "label": "투자 체크포인트"
+            "value": "6위",
+            "label": "시가총액 규모"
           }
         ],
-        "main_number": "↓20%",
-        "main_text": "예상 HBM4 성장률 하향 조정"
+        "main_number": "↑",
+        "main_text": "글로벌 지수 편입 기대감"
       },
-      "image_prompt": "cute pastel infographic illustration, semiconductor chip, AI brain, factory, dollar signs, no text",
+      "image_prompt": "cute pastel infographic illustration of a stock chart going up, with a global map background, no text",
       "detail": {
-        "summary": "미국의 인공지능(AI) 통제 조치가 엔스로픽 시스템 도입을 고려하던 글로벌 IT 기업들의 차세대 모델 도입 속도 조절로 이어지며, HBM4 수요 둔화 압력이 삼성과 SK 등 국내 반도체 기업에 긴장을 안겨주고 있다.",
+        "summary": "코스피가 세계 증시 중 수익률 1위를 기록하며, MSCI 선진시장 지수 편입에 대한 기대감이 다시 커지고 있습니다. 시가총액 규모로는 이미 세계 6위 수준입니다.",
         "points": [
-          "미국 AI 통제 조치, HBM4 수요 둔화 우려",
-          "엔스로픽 시스템 도입 기업들의 속도 조절",
-          "삼성·SK 등 국내 반도체 기업에 영향 예상",
-          "글로벌 IT 기업들의 투자 전략 재검토"
+          "코스피, 글로벌 증시 중 수익률 1위",
+          "MSCI 선진지수 후보 재진입 기대",
+          "시가총액 기준 세계 6대 증시",
+          "국제 위상 강화 및 투자 유치 효과"
         ],
-        "quote": "이 조치로 인해 엔스로픽 시스템을 도입하려던 글로벌 IT 기업들은 차세대 모델 도입의 속도 조절이 불가피해졌다.",
-        "context": "고대역폭 메모리(HBM)는 AI 시대의 핵심 반도체로, 삼성전자와 SK하이닉스가 시장을 선도하고 있다. 그러나 미국의 AI 기술 통제 정책이 강화되면서, 관련 하드웨어 시장에도 불확실성이 커지고 있어 기업들의 전략적 대응이 요구된다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=202606131412537851fbbec65dfb_1"
+        "quote": "글로벌 지수 산출 기관인 MSCI는 전 세계 주식시장을 선진시장, 신흥시장 등으로 분류한다.",
+        "context": "MSCI 선진지수 편입은 외국인 투자 자금 유입을 촉진하고 한국 증시의 국제적 위상을 높이는 중요한 계기가 될 수 있습니다. 이는 국내 기업들의 가치 평가에도 긍정적인 영향을 미칠 전망입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016137291?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20semiconductor%20chip%2C%20AI%20brain%2C%20factory%2C%20dollar%20signs%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=29931&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stock%20chart%20going%20up%2C%20with%20a%20global%20map%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4967&nologo=true"
     },
     {
-      "id": "society-retirement-age",
+      "id": "world-oil-shortage",
       "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "정년 2037년까지 65세로 가닥, 고용 충격 줄이고 청년 채용은?",
-      "subtitle": "2037년 정년 65세 연장 방안 추진, 고용 시장 영향 분석",
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "gauge",
+      "title": "하반기 원유 부족 경고, 유가 90달러 '착시' 주의보",
+      "subtitle": "호르무즈 해협 안정에도 불구하고 공급 우려 증폭",
       "viz_data": {
         "stats": [
           {
-            "value": "2037년",
-            "label": "정년 연장 목표"
+            "value": "90달러",
+            "label": "현재 유가"
           },
-          {
-            "value": "69.0%",
-            "label": "찬성 이유 (연금)"
-          }
-        ],
-        "main_number": "↑65세",
-        "main_text": "국민 정년 2037년까지 65세"
-      },
-      "image_prompt": "cute pastel infographic illustration, elderly person working, young person looking for job, calendar, gears, no text",
-      "detail": {
-        "summary": "정부가 2037년까지 정년을 65세로 연장하는 방안을 추진하며 고령층의 경제활동을 지원하지만, 청년 고용 시장에 미칠 충격과 사회적 합의 도출이 과제로 남아있다.",
-        "points": [
-          "2037년 정년 65세 연장 방안 가닥",
-          "고령층 경제활동 연장 필요성 증대",
-          "청년 고용 충격 완화 방안 요구",
-          "국민연금 수급 공백 해소가 주요 찬성 이유"
-        ],
-        "quote": "고령층의 경제활동 연장은 초고령사회 진입과 생산가능인구 감소 추세를 고려할 때 피할 수 없는 흐름이다.",
-        "context": "초고령사회 진입과 생산가능인구 감소는 불가피한 사회 현상으로, 정년 연장을 통해 고령층의 경제적 안정과 생산성 유지를 도모한다. 하지만 이로 인해 발생할 수 있는 청년층 일자리 감소 문제에 대한 종합적인 대책 마련이 시급하다.",
-        "source_url": "https://www.mhns.co.kr/news/articleView.html?idxno=750229"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20elderly%20person%20working%2C%20young%20person%20looking%20for%20job%2C%20calendar%2C%20gears%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51595&nologo=true"
-    },
-    {
-      "id": "society-obesity-rate",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "성인 3명중 1명 '비만'…30·40男 비만율 50% 넘어 가장 심각",
-      "subtitle": "성인 비만율 3명 중 1명 수준, 특히 30·40대 남성 심각",
-      "viz_data": {
-        "stats": [
           {
             "value": "1/3",
-            "label": "성인 비만율"
-          },
-          {
-            "value": "50%+",
-            "label": "30·40대 남성 비만율"
+            "label": "中 비축유 소진"
           }
         ],
-        "main_number": "↑53.1%",
-        "main_text": "30대 남성 비만율 가장 높아"
+        "main_number": "부족 위험",
+        "main_text": "원유 시장 하반기 불안정성 증대"
       },
-      "image_prompt": "cute pastel infographic illustration, overweight person, healthy food, gym, scale, no text",
+      "image_prompt": "cute pastel infographic illustration of oil barrels and a price chart going up, with a global map, no text",
       "detail": {
-        "summary": "질병관리청 조사 결과 성인 3명 중 1명이 비만이며, 특히 사회경제적 활동이 활발한 30대와 40대 남성의 비만율이 각각 53.1%, 50.3%로 가장 심각한 수준이다.",
+        "summary": "현재 유가 90달러 수준은 일시적인 착시 현상일 수 있으며, 하반기에는 세계 경제의 원유 부족 쇼크가 올 수 있다는 경고가 나오고 있습니다. 호르무즈 해협 정상화 기대감에도 불구하고 중국의 전략 비축유 소진 등이 주요 원인으로 지목됩니다.",
         "points": [
-          "성인 3명 중 1명이 비만",
-          "30대 남성 비만율 53.1%로 최고",
-          "40대 남성 비만율 50.3%로 뒤이어",
-          "2015년 대비 비만율 지속 증가 추세"
+          "현재 유가 90달러는 착시 효과",
+          "하반기 원유 부족 경고음",
+          "호르무즈 해협 안정에도 공급 우려",
+          "중국, 전략 비축유 1/3 소진"
         ],
-        "quote": "특히 사회·경제적 활동이 가장 활발한 30대와 40대 비만율이 각각 53.1%, 50.3%로 크게 높았다.",
-        "context": "비만은 당뇨, 고혈압 등 만성질환의 주요 원인으로, 사회 전반의 건강 증진을 위해 비만 예방 및 관리 정책의 강화가 시급하다. 특히 젊은 남성층의 비만율 증가는 향후 사회 전체의 의료비 부담 증가로 이어질 수 있어 주목된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016137231?sid=102"
+        "quote": "세계 경제가 고유가 쇼크와 호르무즈 해협 정상화 기대감 사이에서 위태로운 줄타기를 이어가고 있다.",
+        "context": "글로벌 원유 공급의 불안정성은 물가 상승 압력으로 작용하여 세계 경제 회복에 부담을 줄 수 있습니다. 주요국들의 에너지 정책과 생산량 조정이 하반기 유가 향방에 중요한 변수가 될 것입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001854764?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20overweight%20person%2C%20healthy%20food%2C%20gym%2C%20scale%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39229&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20oil%20barrels%20and%20a%20price%20chart%20going%20up%2C%20with%20a%20global%20map%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67789&nologo=true"
     },
     {
-      "id": "society-youth-isolation",
+      "id": "economy-oled-competition",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "한국 OLED, 중국에 기술 역전 우려…정책 지원 시급",
+      "subtitle": "글로벌 시장 점유율 격차 축소, IT용 OLED 기술 격차 3~4년",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "68.7%",
+            "label": "韓 OLED 점유율(23년)"
+          },
+          {
+            "value": "31.2%",
+            "label": "中 OLED 점유율(23년)"
+          },
+          {
+            "value": "3~4년",
+            "label": "IT용 기술 격차"
+          }
+        ],
+        "main_number": "-10%p",
+        "main_text": "시장 점유율 격차 감소 추세"
+      },
+      "image_prompt": "cute pastel infographic illustration comparing two countries' market share in tech, with a progress bar, no text",
+      "detail": {
+        "summary": "한국의 글로벌 OLED 시장 점유율이 여전히 높지만, 중국의 빠른 추격으로 격차가 줄고 있으며, 특히 IT 기기용 OLED 기술 격차는 3~4년으로 단축되었습니다. 한국수출입은행은 정책 지원과 R&D 확대가 시급하다고 지적했습니다.",
+        "points": [
+          "한국 OLED 글로벌 점유율 68.7%",
+          "중국 점유율 31.2%로 급성장",
+          "IT용 OLED 기술 격차 3~4년으로 단축",
+          "정부 정책 지원 및 R&D 투자 확대 필요성 강조"
+        ],
+        "quote": "R&D를 늦추면 중국에 또 역전당할 수 있다.",
+        "context": "OLED는 차세대 디스플레이의 핵심 기술로, 한국의 주력 산업 중 하나입니다. 중국의 공격적인 투자와 기술 발전은 한국의 초격차 유지에 위협이 되며, 산업 경쟁력 확보를 위한 정부와 기업의 협력이 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016137290?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20comparing%20two%20countries%27%20market%20share%20in%20tech%2C%20with%20a%20progress%20bar%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3069&nologo=true"
+    },
+    {
+      "id": "economy-forex-sell-korea",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "환율 1500원대 '굳어지나'…강달러·셀 코리아 압박 지속",
+      "subtitle": "외국인 자금 유출 심화로 원화 가치 하락",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1500원+",
+            "label": "환율 전망"
+          },
+          {
+            "value": "-6.9%",
+            "label": "원화 가치 하락(2월 말 대비)"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "원화 약세 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a currency exchange rate chart going up, with money falling out of Korea map, no text",
+      "detail": {
+        "summary": "강달러 기조와 외국인 투자자들의 '셀 코리아(한국 주식 매도)' 현상으로 원/달러 환율이 1500원대에 굳어질 수 있다는 우려가 커지고 있습니다. 미국-이란 전쟁 전인 2월 말 대비 원화 가치는 6.9% 하락했습니다.",
+        "points": [
+          "강달러 기조 지속",
+          "외국인 자금 '셀 코리아' 심화",
+          "원/달러 환율 1500원대 유지 가능성",
+          "2월 말 대비 원화 가치 6.9% 하락"
+        ],
+        "quote": "국내 경제 상황을 고려하면 이례적이다. 통상 증시가 오르면 외국인 자금이 유입돼 원화가 강세를 보인다.",
+        "context": "환율 상승은 수입 물가 상승으로 이어져 국내 인플레이션 압력을 가중시키고, 기업들의 대외 경쟁력에도 영향을 미칠 수 있습니다. 정부와 한국은행의 환율 방어 대책 마련이 시급해 보입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/037/0000038332?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20currency%20exchange%20rate%20chart%20going%20up%2C%20with%20money%20falling%20out%20of%20Korea%20map%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24178&nologo=true"
+    },
+    {
+      "id": "economy-farm-labor",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "외국인 계절근로자 10년, 농촌 인력난의 명암",
+      "subtitle": "고령화 심화 속 숨통, 그러나 부작용도 만만치 않아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "194.5만명",
+            "label": "농가 인구(24년)"
+          },
+          {
+            "value": "56.6%",
+            "label": "65세 이상 비율(24년)"
+          }
+        ],
+        "main_number": "↓100만명대",
+        "main_text": "사상 첫 100만명대 진입 농가 인구"
+      },
+      "image_prompt": "cute pastel infographic illustration of farm fields and farmers, with workers from different countries, no text",
+      "detail": {
+        "summary": "외국인 계절근로자 제도가 도입된 지 10년이 되면서 농촌 인력난 해소에 기여했지만, 인권 문제, 내국인 일자리 감소 등의 부작용도 발생하고 있습니다. 올해 농가 인구는 사상 처음 100만명대로 감소했으며, 고령화가 심화되고 있습니다.",
+        "points": [
+          "외국인 계절근로자 제도 10년",
+          "농촌 인력난 해소에 기여",
+          "인권 문제, 내국인 일자리 감소 등 부작용",
+          "2024년 농가 인구 100만명대 진입 (194.5만명)",
+          "65세 이상 농가 인구 비율 56.6%"
+        ],
+        "quote": "올해 농가 인구는 194만5천명으로 사상 처음 100만명대로 줄었다.",
+        "context": "농촌 고령화와 인구 감소는 식량 안보와 직결되는 중요한 사회 문제입니다. 외국인 계절근로자 제도의 개선과 함께 장기적인 농촌 활성화 및 인력 수급 대책 마련이 필요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016137287?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20farm%20fields%20and%20farmers%2C%20with%20workers%20from%20different%20countries%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=77964&nologo=true"
+    },
+    {
+      "id": "tech-ai-glasses-privacy",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "AI 안경, '편리함' 뒤 '사생활 침해' 논란 확산",
+      "subtitle": "미국, 영상녹화 기능 스마트 글라스 규제 논의 시작",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "70%",
+            "label": "규제 찬성 여론"
+          },
+          {
+            "value": "빠른 보급",
+            "label": "예상 성장세"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "AI 안경 출시 기업 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person wearing smart glasses, with privacy icons around them, no text",
+      "detail": {
+        "summary": "삼성전자와 애플 등 주요 IT 기업들이 스마트 글라스 출시를 예고하며 AI 안경 보급이 빨라질 것으로 예상되는 가운데, 몰카 및 컨닝 등의 사생활 침해 논란이 확산되고 있습니다. 미국에서는 영상 녹화 기능이 있는 스마트 글라스에 대한 규제 논의가 시작되었습니다.",
+        "points": [
+          "AI 안경 시장 빠르게 성장 중",
+          "주요 IT 기업 출시 계획 발표",
+          "몰카, 컨닝 등 사생활 침해 우려 확산",
+          "미국, 규제 입법 추진 논의 시작"
+        ],
+        "quote": "삼성전자와 애플 등 주요 IT기업들도 스마트 글라스 출시 계획을 밝힌 만큼, 스마트 글라스는 빠르게 보급될 것.",
+        "context": "혁신적인 AI 안경 기술은 일상생활의 편리함을 증진시키지만, 동시에 개인의 사생활 보호와 윤리적 사용에 대한 사회적 합의와 제도적 보완이 시급함을 보여줍니다. 기술 발전과 규제 사이의 균형점을 찾는 것이 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009002092?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20wearing%20smart%20glasses%2C%20with%20privacy%20icons%20around%20them%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46793&nologo=true"
+    },
+    {
+      "id": "tech-ai-business-models",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "compare",
+      "title": "AI 시장, 오픈AI vs 애플·구글 비즈니스 모델 경쟁",
+      "subtitle": "기업용 유료 모델 vs 개인 소비자 무료 모델",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "B2B",
+            "label": "오픈AI 주력"
+          },
+          {
+            "value": "B2C",
+            "label": "애플/구글 주력"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "AI 서비스 경쟁 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration comparing two business strategies, one focused on businesses and one on consumers, with AI icons, no text",
+      "detail": {
+        "summary": "AI 시장에서 오픈AI는 기업 고객을 대상으로 유료 서비스를 제공하며 '돈 되는 기업' 전략을 추구하는 반면, 애플과 구글은 기존 하드웨어 및 구독 서비스 수익을 바탕으로 '수십억 개인 소비자'에게 AI를 무료로 제공하는 전략을 펼치고 있습니다.",
+        "points": [
+          "오픈AI, 기업용 유료 AI 모델 집중",
+          "애플·구글, 개인 소비자 무료 AI 제공",
+          "기존 수익 모델 기반의 AI 전략 차이",
+          "가트너 애널리스트, 애플 전략 분석"
+        ],
+        "quote": "어차피 소비자들이 구매할 아이폰이나 아이클라우드 구독에서 수익을 메울 수 있으니, AI는 무료로 줘도 상관없다는 것이다.",
+        "context": "빅테크 기업들의 AI 전략 차이는 미래 AI 시장의 판도를 결정할 중요한 요소입니다. AI 기술의 확산과 수익화 모델이 어떻게 진화할지에 따라 산업 전반에 큰 변화가 예상됩니다.",
+        "source_url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=188467"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20comparing%20two%20business%20strategies%2C%20one%20focused%20on%20businesses%20and%20one%20on%20consumers%2C%20with%20AI%20icons%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=50654&nologo=true"
+    },
+    {
+      "id": "tech-ai-cost-shock",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "gauge",
+      "title": "'사람보다 비싼 AI'? 빅테크, 토큰 비용에 사용 제한",
+      "subtitle": "AI 예산 급증에 효율적인 활용 방안 모색",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4개월",
+            "label": "예산 소진 기간"
+          },
+          {
+            "value": "↑",
+            "label": "AI 도입 기업"
+          }
+        ],
+        "main_number": "비용 급증",
+        "main_text": "예상치 못한 AI 운영 비용 문제"
+      },
+      "image_prompt": "cute pastel infographic illustration of a piggy bank with AI brain icon, showing money flowing out rapidly, no text",
+      "detail": {
+        "summary": "빅테크 기업들이 AI 사용에 따른 '토큰 비용' 급증에 놀라 AI 활용을 제한하고 나섰습니다. 우버 CTO는 올해 AI 예산을 4개월 만에 소진했다고 밝히며, 실리콘밸리에서는 AI의 생산성 향상 기대와 달리 높은 운영 비용이 현실적인 문제로 대두되고 있습니다.",
+        "points": [
+          "AI 토큰 비용 급증 문제 부상",
+          "빅테크 기업, AI 사용 제한 움직임",
+          "우버 CTO, 4개월 만에 AI 예산 소진 고백",
+          "생산성 기대 vs 높은 운영 비용 현실화"
+        ],
+        "quote": "AI 사용이 늘면서 올해 책정한 AI 예산을 4개월 만에 다 소진했다.",
+        "context": "AI 기술 도입은 생산성 향상이라는 장점과 함께 예상치 못한 운영 비용이라는 과제를 안겨주고 있습니다. 기업들은 AI의 효율적인 활용 방안을 모색하고, 비용 대비 효과를 극대화하기 위한 전략을 수립해야 할 것입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/366/0001171675?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20piggy%20bank%20with%20AI%20brain%20icon%2C%20showing%20money%20flowing%20out%20rapidly%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99743&nologo=true"
+    },
+    {
+      "id": "society-election-commission",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "bubble_chart",
-      "title": "자기경영에 빠진 청년들, '풍요로운 고립'에 갇혔다",
-      "subtitle": "기술 발달과 개인주의 심화로 인한 청년층 '풍요로운 고립' 현상",
+      "viz_type": "timeline",
+      "title": "선관위 사태, 4년 전 이미 예견되었다",
+      "subtitle": "정치학자 보고서 통해 지적, '쉬쉬하다' 문제 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "1990년대",
-            "label": "완전고용 시대"
+            "value": "4년 전",
+            "label": "문제 지적 시점"
           },
           {
-            "value": "후기 산업사회",
-            "label": "개성 중시"
+            "value": "3천명",
+            "label": "선관위 직원 수"
           }
         ],
-        "main_number": "+30%",
-        "main_text": "청년 1인 가구 증가율"
+        "main_number": "↑",
+        "main_text": "선거 관리 문제 심화"
       },
-      "image_prompt": "cute pastel infographic illustration, young person on laptop, surrounded by social media icons, but looking alone, no text",
+      "image_prompt": "cute pastel infographic illustration of a voting booth and a calendar, showing past warnings, no text",
       "detail": {
-        "summary": "기술의 발달이 타인에게 의존하지 않고 홀로 생존할 수 있는 환경을 만들며, 청년들이 '자기경영'에 몰두하는 과정에서 '풍요로운 고립'이라는 새로운 사회적 문제에 직면하고 있다.",
+        "summary": "한 정치학자가 4년 전 보고서에서 선관위의 문제점, 특히 지자체 공무원에 실무를 떠넘기는 문제 등을 지적했으나 정치권에서 이를 '쉬쉬하다' 사태가 심화되었다고 비판했습니다. 정치권에 '선거발전 특위' 구성을 제안했습니다.",
         "points": [
-          "기술 발달로 개인의 고립 심화",
-          "후기 산업사회에서 개인의 정체성과 개성 중요성 증대",
-          "개인의 나약함이 아닌 사회 구조적 문제로 인식 필요",
-          "유럽/북미의 하우스메이트 문화 등 비친족 가구 모델 제시"
+          "정치학자, 4년 전 선관위 문제점 지적",
+          "지자체 공무원 실무 떠넘기기 등",
+          "정치권의 무관심으로 문제 심화",
+          "'선거발전 특위' 구성 제안"
         ],
-        "quote": "'풍요로운 고립'이라는 역설입니다. 타인에게 의존하지 않고 홀로 자립적으로 살아갈 수 있는 가능성이 극대화되고, 이 때문에 인간관계가 점차 필요하지 않은 사회가 되는 것이죠.",
-        "context": "과거 농경사회에서 공동체적 삶이 중요했던 것과 달리, 현대 사회는 개인주의가 확산되며 타인과의 관계망이 약화되고 있다. 이는 청년층의 정신 건강과 사회적 연대감을 저해할 수 있어 사회적 관심과 대안 모색이 요구된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/079/0004157528?sid=102"
+        "quote": "쉬쉬하다가 여기까지 왔다.",
+        "context": "선거 관리의 공정성과 효율성은 민주주의의 근간을 이루는 중요한 요소입니다. 과거부터 지적된 문제점들이 반복되지 않도록 투명하고 책임 있는 제도 개선 노력이 필요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016137280?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20young%20person%20on%20laptop%2C%20surrounded%20by%20social%20media%20icons%2C%20but%20looking%20alone%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55932&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20voting%20booth%20and%20a%20calendar%2C%20showing%20past%20warnings%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45840&nologo=true"
     },
     {
-      "id": "life-nostalgia-marketing",
+      "id": "society-youth-political-engagement",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "'정치 무관심' 대학가, 참정권 침해에 시국선언 봇물",
+      "subtitle": "2030세대, 투표용지 부족 사태 계기로 움직여",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "9일째",
+            "label": "집회 지속"
+          },
+          {
+            "value": "↑",
+            "label": "청년 참여율"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "대학가 정치적 목소리 증대"
+      },
+      "image_prompt": "cute pastel infographic illustration of young people protesting with signs, showing a shift from apathy to engagement, no text",
+      "detail": {
+        "summary": "평소 정치에 무관심하다고 평가받던 대학생들이 6·3 지방선거 과정에서 불거진 투표용지 부족 사태를 계기로 참정권 침해에 대한 분노를 표출하며 시국선언과 집회에 참여하고 있습니다. 기성 정치권 구호와 선을 긋고 제3의 공론장을 개척하려는 움직임도 보입니다.",
+        "points": [
+          "대학가, 6.3 지방선거 사태로 시국선언",
+          "투표용지 부족 사태가 도화선",
+          "평소 정치 무관심하던 청년층 움직임",
+          "기성 정치권과 다른 '제3의 공론장' 개척"
+        ],
+        "quote": "하지만 그 분노가 다른 정치적 주장으로 이용돼서는 안 됩니다.",
+        "context": "청년 세대의 정치 참여는 사회의 변화를 이끄는 중요한 동력입니다. 이번 사태를 계기로 청년들이 직접 자신의 목소리를 내고 새로운 정치적 담론을 형성하려는 시도는 한국 민주주의에 긍정적인 영향을 미칠 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014004884?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20young%20people%20protesting%20with%20signs%2C%20showing%20a%20shift%20from%20apathy%20to%20engagement%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28194&nologo=true"
+    },
+    {
+      "id": "society-human-evaporation",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "gauge",
+      "title": "사회적 유대 끊고 사라지는 '인간증발' 현상 심화",
+      "subtitle": "책임 회피 경향과 고립감 증대가 주요 원인",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "↑",
+            "label": "고립 가구 증가"
+          },
+          {
+            "value": "↑",
+            "label": "사회적 의무 회피"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "급증하는 자발적 사라짐"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person slowly fading away from a group, representing social isolation, no text",
+      "detail": {
+        "summary": "사회적 유대를 끊고 자발적으로 사라지는 '인간증발' 현상이 심화되고 있습니다. 과도한 사회적 책임, 고립감, 자유 추구 등 복합적인 원인이 지목되며, 현대 사회의 한 단면을 보여주는 현상으로 주목받고 있습니다.",
+        "points": [
+          "사회적 유대를 끊고 사라지는 '인간증발'",
+          "과도한 사회적 책임 회피 경향",
+          "개인의 고립감 증가",
+          "자유와 익명성 추구 심화"
+        ],
+        "quote": "사회적 의무에서 벗어나고자 하는 경향이 강해졌다.",
+        "context": "인간증발 현상은 개인의 삶의 방식 변화뿐만 아니라, 가족 해체, 고독사 등 다양한 사회 문제와 연결될 수 있습니다. 사회 안전망 강화와 공동체 의식 회복을 위한 노력이 필요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/469/0000936317?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20slowly%20fading%20away%20from%20a%20group%2C%20representing%20social%20isolation%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26809&nologo=true"
+    },
+    {
+      "id": "life-bts-busan-impact",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "무도 보고 포켓몬빵 먹던 아이, 직장인 됐다…향수 자극하는 기업들",
-      "subtitle": "MZ세대 겨냥한 향수 마케팅 활발, 소비 트렌드 변화 주목",
+      "viz_type": "map",
+      "title": "BTS가 바꾼 '보랏빛 부산', 지역 경제 활성화 견인",
+      "subtitle": "메가 컬래버레이션 '더 시티 부산' 성공적 사례",
       "viz_data": {
         "stats": [
           {
-            "value": "2030세대",
-            "label": "주요 고객층"
+            "value": "13주년",
+            "label": "BTS 데뷔"
           },
           {
-            "value": "2년",
-            "label": "포켓몬빵 재출시 성공"
+            "value": "인산인해",
+            "label": "매장 방문객"
           }
         ],
-        "main_number": "↑300%",
-        "main_text": "레트로 제품 판매량 증가"
+        "main_number": "↑",
+        "main_text": "지역 경제 활성화 효과"
       },
-      "image_prompt": "cute pastel infographic illustration, retro cassette player, old-school snack, young adult holding a product, no text",
+      "image_prompt": "cute pastel infographic illustration of a city map (Busan) with purple highlights, showing economic and cultural activity, no text",
       "detail": {
-        "summary": "어린 시절 추억의 콘텐츠와 제품을 소비하며 자란 MZ세대가 주요 소비층으로 성장하면서, 기업들이 이들의 향수를 자극하는 마케팅을 활발히 펼치고 있다.",
+        "summary": "방탄소년단(BTS) 데뷔 13주년을 맞아 부산에서 진행된 복합 문화 프로젝트 '더 시티 부산'이 지역 경제와 관광 산업에 엄청난 파급 효과를 가져왔습니다. 부산 전역이 '보랏빛'으로 물들며 'BTS 특수'를 체감했습니다.",
         "points": [
-          "MZ세대의 향수 자극 마케팅 인기",
-          "포켓몬빵 등 레트로 제품 재출시 성공",
-          "어린 시절 팬심이 구매력으로 전환",
-          "소비자경제학과 교수, '지속된 흐름'으로 분석"
+          "BTS 데뷔 13주년 기념 부산 프로젝트",
+          "복합 문화 프로젝트 '더 시티 부산' 진행",
+          "지역 경제 및 관광 산업 활성화",
+          "글로벌 아티스트와 도시 협업의 모범 사례"
         ],
-        "quote": "과거의 추억이 최근 다시 소환됐다기보다는 어린 시절부터 이어져 온 팬심이 계속된 흐름으로 봐야 할 것 같다.",
-        "context": "유년 시절의 긍정적인 경험은 성인이 되어서도 소비 행동에 영향을 미친다. 기업들은 이러한 심리를 활용해 과거의 인기 제품이나 캐릭터를 재소환하며 새로운 소비층을 확보하고, 강력한 브랜드 충성도를 구축하려 한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004135225?sid=101"
+        "quote": "가수 한 팀에 부산 난리났다",
+        "context": "K-팝을 대표하는 아티스트의 활동은 단순한 문화적 현상을 넘어 지역 경제에 직접적인 영향을 미치는 중요한 콘텐츠입니다. 이러한 문화-경제 융합 사례는 다른 도시들에게도 긍정적인 영감을 줄 수 있습니다.",
+        "source_url": "http://www.joynews24.com/view/1976291"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20retro%20cassette%20player%2C%20old-school%20snack%2C%20young%20adult%20holding%20a%20product%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=69572&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20city%20map%20%28Busan%29%20with%20purple%20highlights%2C%20showing%20economic%20and%20cultural%20activity%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65336&nologo=true"
     },
     {
-      "id": "life-art-exhibition-korea",
+      "id": "life-worldcup-panini",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "월드컵 열기 속 '파니니 스티커' 수집 문화 확산",
+      "subtitle": "멕시코 등 중남미·유럽에서 세대를 불문한 열광",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7.2억 달러",
+            "label": "카타르 월드컵 상품 매출"
+          },
+          {
+            "value": "↑",
+            "label": "수집 열풍"
+          }
+        ],
+        "main_number": "1장",
+        "main_text": "선수 스티커의 가치"
+      },
+      "image_prompt": "cute pastel infographic illustration of collectible sports stickers and a globe, showing a collecting trend, no text",
+      "detail": {
+        "summary": "월드컵 시즌을 알리는 상징적인 문화로 자리 잡은 '파니니 선수 스티커' 수집 열풍이 멕시코를 비롯한 중남미와 유럽 등지에서 뜨겁습니다. 2022년 카타르 월드컵 관련 파니니 상품 매출만 7억2천만 달러에 달하며 그 시장 규모를 보여주고 있습니다.",
+        "points": [
+          "월드컵 시즌 대표 수집 문화 '파니니 스티커'",
+          "멕시코 등 중남미·유럽에서 큰 인기",
+          "2022년 카타르 월드컵 관련 매출 7.2억 달러",
+          "세대를 불문한 수집 열풍 지속"
+        ],
+        "quote": "축구가 종교와도 같은 멕시코에서는 세대를 불문하고 모두가 이 문화에 열광한다.",
+        "context": "파니니 스티커 수집은 스포츠 팬덤과 연결되어 강력한 문화적 현상을 형성하고 있습니다. 이는 단순한 취미를 넘어 경제적 가치를 창출하며, 전 세계 팬들에게 월드컵을 즐기는 또 다른 방식을 제공합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016137279?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20collectible%20sports%20stickers%20and%20a%20globe%2C%20showing%20a%20collecting%20trend%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65239&nologo=true"
+    },
+    {
+      "id": "life-furniture-platform",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "timeline",
-      "title": "보티첼리·다빈치 걸작 서울 온다…국립중앙박물관-우피치 미술관 MOU 체결",
-      "subtitle": "이탈리아 우피치 미술관 걸작, 한국 국립중앙박물관 전시 추진",
+      "title": "가구업계, '생활 플랫폼'으로 대전환 가속",
+      "subtitle": "전통적인 가구 판매 넘어 펫, 패션, 뷰티 분야 확장",
       "viz_data": {
         "stats": [
           {
-            "value": "2026년",
-            "label": "전시 예상"
+            "value": "6개",
+            "label": "라이프스타일 브랜드"
           },
           {
-            "value": "24년",
-            "label": "피렌체 한국영화제 역사"
+            "value": "↑",
+            "label": "신규 사업 영역"
           }
         ],
-        "main_number": "↑20%",
-        "main_text": "관람객 증대 예상"
+        "main_number": "확장",
+        "main_text": "생활 전반 아우르는 플랫폼"
       },
-      "image_prompt": "cute pastel infographic illustration, famous artworks (Botticelli, Da Vinci), museum, South Korea flag, Italy flag, no text",
+      "image_prompt": "cute pastel infographic illustration of a house with various lifestyle icons (pet, fashion, beauty) around it, representing a platform expansion, no text",
       "detail": {
-        "summary": "국립중앙박물관이 이탈리아 피렌체의 우피치 미술관과 문화유산 교류 및 박물관 협력 강화를 위한 양해각서(MOU)를 체결하며 보티첼리와 다빈치 등 르네상스 걸작의 한국 전시를 추진한다.",
+        "summary": "가구업계가 기존 이사, 혼수 중심의 가구 판매에서 벗어나 펫, 패션, 뷰티 등 다양한 생활 분야로 사업 영역을 확장하며 '생활 플랫폼'으로 전환을 가속화하고 있습니다. 한샘, 현대리바트, 신세계까사 등 주요 기업들이 라이프스타일 브랜드 포트폴리오를 강화하고 있습니다.",
         "points": [
-          "국립중앙박물관-우피치 미술관 MOU 체결",
-          "보티첼리, 다빈치 등 르네상스 걸작 한국 전시 추진",
-          "양국 문화유산의 국제적 가치 확산 기대",
-          "문화 외교 협력 강화의 새 장 마련"
+          "가구업계, 사업 모델 전환 가속화",
+          "전통 가구 판매에서 '생활 플랫폼'으로 확장",
+          "펫, 패션, 뷰티 등 신규 영역 진출",
+          "주요 기업들의 라이프스타일 브랜드 강화"
         ],
-        "quote": "이번 협약은 한국과 이탈리아를 대표하는 문화기관 간 협력 기반을 마련하고 양국 문화유산의 국제적 가치 확산과 상호 이해 증진에 크게 기여할 것으로 기대된다.",
-        "context": "이재명 대통령의 이탈리아 국빈 방문을 계기로 이뤄진 이번 MOU는 한국과 이탈리아 간 문화 교류를 심화하고, 세계적인 문화유산을 국내에 소개함으로써 국민들의 문화 향유 기회를 확대하는 데 큰 의미가 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/666/0000111088?sid=100"
+        "quote": "신세계인터내셔날의 라이프스타일 브랜드 '자주'(JAJU) 영업 양수를 마무리하며 프리미엄 가구 중심이던...",
+        "context": "소비자들의 라이프스타일이 다양해지면서 기업들도 이에 맞춰 서비스와 제품을 확장하는 추세입니다. 가구업계의 이러한 변화는 단순한 가구 공급자를 넘어 생활 전반을 아우르는 솔루션 제공자로 진화하려는 시도로 해석됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009002072?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20famous%20artworks%20%28Botticelli%2C%20Da%20Vinci%29%2C%20museum%2C%20South%20Korea%20flag%2C%20Italy%20flag%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18585&nologo=true"
-    },
-    {
-      "id": "life-korea-aircon-usage",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "벌써 에어컨? 아열대화된 한반도…월 가동객 2년 새 3배 급증",
-      "subtitle": "기후 변화로 인한 한반도 아열대화, 에어컨 사용량 급증 추세",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3배",
-            "label": "월 가동객 증가"
-          },
-          {
-            "value": "+2.5℃",
-            "label": "지난 100년 한반도 기온 상승"
-          }
-        ],
-        "main_number": "↑300%",
-        "main_text": "에어컨 월 가동객 2년 새 급증"
-      },
-      "image_prompt": "cute pastel infographic illustration, melting ice, air conditioner, thermometer, hot weather, no text",
-      "detail": {
-        "summary": "한반도의 아열대화 현상이 심화되면서 에어컨 월 가동객이 2년 새 3배 가까이 급증했으며, 이는 단순한 냉방을 넘어 개인의 라이프스타일에 맞춘 스마트 제어 패턴으로 변화하고 있음을 보여준다.",
-        "points": [
-          "한반도 아열대화 심화로 에어컨 사용량 급증",
-          "2년 새 에어컨 월 가동객 3배 가까이 증가",
-          "단순 냉방에서 스마트 제어 라이프스타일로 변화",
-          "생성형 AI 기술 활용한 스마트루틴 기능 확대"
-        ],
-        "quote": "단순히 더울 때 기기를 켜고 끄는 것을 넘어 개인의 라이프스타일에 맞춘 '세부 제어' 패턴도 정착되는 추세다.",
-        "context": "기후 변화로 인한 폭염이 일상화되면서 에어컨은 선택이 아닌 필수가 되고 있다. 에어컨 사용 증가는 에너지 소비 증가와 연결되므로, 에너지 효율을 높이고 스마트 기술을 활용하여 환경 부담을 줄이는 방안이 중요해지고 있다.",
-        "source_url": "http://www.bizwnews.com/news/articleView.html?idxno=138540"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20melting%20ice%2C%20air%20conditioner%2C%20thermometer%2C%20hot%20weather%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44655&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20house%20with%20various%20lifestyle%20icons%20%28pet%2C%20fashion%2C%20beauty%29%20around%20it%2C%20representing%20a%20platform%20expansion%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22648&nologo=true"
     }
   ],
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T06:10:19.736092+09:00"
+  "generated_at": "2026-06-14T07:16:05.399340+09:00"
 }
