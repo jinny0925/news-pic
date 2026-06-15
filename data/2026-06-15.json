@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-11",
-      "is_headline": false,
+      "id": "world-us-iran-peace",
+      "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "미-이란, 106일 만에 종전 MOU 체결",
-      "subtitle": "호르무즈 해협 개방, 국제유가 급락 예고",
+      "title": "美-이란 평화 협상 타결, 106일 만의 종전",
+      "subtitle": "호르무즈 해협 재개방, 국제유가 안정 기대",
       "viz_data": {
         "stats": [
           {
             "value": "106일",
-            "label": "전쟁 기간"
+            "label": "개전 기간"
           },
           {
             "value": "19일",
-            "label": "서명 예정"
+            "label": "합의 서명일"
           },
           {
-            "value": "급락",
-            "label": "국제유가"
+            "value": "20%",
+            "label": "호르무즈 해협 원유 물동량"
           }
         ],
-        "main_number": "106일",
-        "main_text": "간의 전쟁, 19일 종전 협정 서명 예고"
+        "main_number": "종전",
+        "main_text": "양국 106일 만의 평화 협상 타결"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of two hands shaking, with an olive branch, global map in the background, no text",
       "detail": {
-        "summary": "미국과 이란이 106일간의 전쟁 끝에 종전 양해각서(MOU)를 체결하기로 합의했으며, 19일 서명과 함께 호르무즈 해협 개방 및 국제유가 급락이 예상된다.",
+        "summary": "미국과 이란이 106일간의 대립 끝에 평화 협상을 타결하고 종전 합의에 이르렀다. 이는 중동 지역 안정에 큰 영향을 미칠 것으로 보이며, 오는 19일 서명이 예정되어 있다.",
         "points": [
-          "미-이란 106일 전쟁 종전 합의",
-          "19일 MOU 서명 예정",
-          "호르무즈 해협 개방 수반",
-          "국제유가 급락 전망"
+          "106일 만에 美-이란 평화 협상 타결",
+          "호르무즈 해협 정상 운영 기대, 유가 안정화 전망",
+          "이란의 핵 프로그램 해체 및 핵물질 폐기 동의",
+          "해외 동결자산 해제 및 경제 제재 완화 단계적 이행"
         ],
-        "quote": "전 세계 선박들은 엔진을 가동해 석유가 흐르도록 하라.",
-        "context": "중동 정세 안정과 세계 경제에 미칠 영향이 크며, 트럼프 대통령의 중간선거 부담 완화도 기대된다.",
-        "source_url": "https://www.etoday.co.kr/news/view/2593427"
+        "quote": "세계의 선박들은 엔진을 가동해서 석유가 흐르도록 하라. - 트럼프 대통령",
+        "context": "미국과 이란 간의 군사적 대립은 국제유가 상승과 해상 운임 증가를 야기하며 글로벌 경제에 불안감을 가중시켰다. 이번 협상 타결은 세계 에너지 시장 안정화에 기여할 것으로 보인다.",
+        "source_url": "https://www.smartbizn.com/news/articleView.html?idxno=146126"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66416&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20hands%20shaking%2C%20with%20an%20olive%20branch%2C%20global%20map%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65359&nologo=true"
     },
     {
-      "id": "world-12",
+      "id": "world-eurosatory-defense",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "영국, 러시아 '그림자 함대' 유조선 첫 나포",
-      "subtitle": "서방 제재 회피 목적, 2022년 이후 선박 수 급증",
+      "viz_type": "stats",
+      "title": "K-방산, 유럽 최대 방산전시회 '유로사토리 2026' 참가",
+      "subtitle": "2년 주기, 2000개 기업 참여…유럽 시장 공략 박차",
       "viz_data": {
         "stats": [
           {
-            "value": "1척",
-            "label": "나포 유조선"
+            "value": "2년",
+            "label": "개최 주기"
           },
           {
-            "value": "+60%",
-            "label": "함대 규모 증가"
+            "value": "2000+",
+            "label": "참가 기업"
           },
           {
-            "value": "2022년 12월",
-            "label": "서방 제재 시작"
+            "value": "90+",
+            "label": "참가국"
           }
         ],
-        "main_number": "1척",
-        "main_text": "러시아 그림자 함대 유조선 첫 나포 사례 발생"
+        "main_number": "유럽 공략",
+        "main_text": "K-방산, 세계 최대 지상 방산전시회서 위상 강화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of military vehicles and exhibition booths with a European map in the background, no text",
       "detail": {
-        "summary": "영국군이 러시아의 서방 제재 회피 목적 '그림자 함대' 소속 유조선을 처음으로 나포했으며, 이는 국제법적 논란을 불러일으키고 있다.",
+        "summary": "방위사업청이 세계 최대 지상 방산전시회인 '유로사토리 2026'에 참가하여 K-방산의 우수성을 유럽 시장에 알린다. 2년마다 열리는 이번 행사에는 2000여 개 기업과 90여 개국 대표단이 참여한다.",
         "points": [
-          "영국, 러시아 유조선 첫 나포",
-          "서방 제재 회피 목적 '그림자 함대' 소속",
-          "2022년 12월 이후 규모 급증",
-          "국제법적 논란 확산"
+          "세계 최대 지상 방산전시회 '유로사토리 2026' 개최",
+          "K-방산, 유럽 방산 시장 본격 진출 및 홍보",
+          "2000여 개 기업, 90여 개국 공식 대표단 참가 규모",
+          "K-컬처 연계 홍보로 효과 극대화"
         ],
-        "quote": "그림자 함대는 국제법상 존재하지 않으며, EU의 '정치적 날조'이다.",
-        "context": "서방의 러시아 제재가 심화되는 가운데 러시아가 편법으로 석유를 운송하는 '그림자 함대'에 대한 국제사회의 대응이 본격화되는 신호탄이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006306283?sid=104"
+        "quote": "유로사토리 2026 통합한국관은 세계 방산시장에서 K-방산의 경쟁력을 입증하고 새로운 비즈니스 기회를 창출할 것입니다. - 김태곤 방사청 국제협력관",
+        "context": "최근 우크라이나 전쟁 등으로 유럽 각국의 방위산업 예산이 증가하고 있어, K-방산에게는 새로운 시장 개척의 기회가 되고 있다. 이번 전시회는 유럽 시장 진출의 중요한 발판이 될 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/021/0002797663?sid=100"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95350&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20military%20vehicles%20and%20exhibition%20booths%20with%20a%20European%20map%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33207&nologo=true"
     },
     {
-      "id": "world-15",
+      "id": "world-konai-global",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
+      "viz_type": "growth",
+      "title": "코나아이, '코스닥 글로벌기업' 지정…해외 매출 5배 성장",
+      "subtitle": "스마트카드 기술력 인정, 90여개국 500여 파트너사에 공급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "90+",
+            "label": "수출국"
+          },
+          {
+            "value": "500+",
+            "label": "파트너사"
+          },
+          {
+            "value": "2025년",
+            "label": "매출 1480억원"
+          }
+        ],
+        "main_number": "+5배",
+        "main_text": "해외 매출 5년간 성장"
+      },
+      "image_prompt": "cute pastel infographic illustration of a globe with smart cards flowing around it, showing growth, no text",
+      "detail": {
+        "summary": "코나아이가 한국거래소의 '코스닥 글로벌기업'으로 신규 지정됐다. 이는 글로벌 시장에서 스마트카드 기술력과 성장 가능성을 인정받은 결과로, 해외 매출은 5년간 5배 이상 급증했다.",
+        "points": [
+          "코나아이, '코스닥 글로벌기업' 신규 지정",
+          "스마트카드 기술력 기반으로 글로벌 시장 확장",
+          "전 세계 90여개국, 500여 파트너사에 스마트카드 공급",
+          "2020년 대비 2025년 해외 매출 5배 이상 성장"
+        ],
+        "quote": "이번 코스닥 글로벌기업 지정은 코나아이의 기술력과 글로벌 시장에서의 성장 가능성을 인정받은 결과입니다.",
+        "context": "코나아이는 지급결제 플랫폼 및 스마트카드 분야에서 독보적인 기술력을 보유하고 있으며, 특히 EMV 사양을 탑재한 스마트카드는 전 세계적으로 높은 수요를 보이고 있다. 글로벌 기업 지정은 투자 유치 및 해외 사업 확장에 긍정적인 영향을 미칠 것으로 예상된다.",
+        "source_url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360436"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20globe%20with%20smart%20cards%20flowing%20around%20it%2C%20showing%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=13622&nologo=true"
+    },
+    {
+      "id": "economy-job-decrease",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "상용직 일자리, 26년 5개월 만에 첫 감소…청년층 직격탄",
+      "subtitle": "제조업 부진 및 IT 고용 경력직 전환 영향",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "26년 5개월",
+            "label": "최초 감소"
+          },
+          {
+            "value": "5000명",
+            "label": "감소 규모 (전년 동월 대비)"
+          },
+          {
+            "value": "20·30대",
+            "label": "주요 감소 연령층"
+          }
+        ],
+        "main_number": "하락 전환",
+        "main_text": "상용직 일자리 증가세 꺾여"
+      },
+      "image_prompt": "cute pastel infographic illustration of a downward trend line graph with people in business attire, no text",
+      "detail": {
+        "summary": "지난달 상용직 일자리가 26년 5개월 만에 전년 동월 대비 첫 감소세를 기록하며, 특히 20~30대 청년층의 안정적인 일자리가 급감한 것으로 나타났다. 제조업 부진과 IT 분야 채용 트렌드 변화가 주요 원인으로 지목된다.",
+        "points": [
+          "상용직 일자리, 26년 5개월 만에 처음으로 전년 대비 감소",
+          "20~30대 청년층 상용직 일자리 급감",
+          "제조업 생산 부진 및 IT 분야 경력직 중심 채용 전환 영향",
+          "정부, 고용 시장 불확실성 주시 및 대응책 마련 예정"
+        ],
+        "quote": "고용은 실물경제에 후행하는 성격이 있는데, 2~3월 충격이 한 박자 늦게 나타난 것으로 보입니다. - 재정경제부 관계자",
+        "context": "상용직은 안정적인 일자리를 의미하며, 그 감소는 고용 시장의 불안정성을 보여주는 지표다. 특히 청년층의 고용 악화는 사회 전반에 걸쳐 부정적인 영향을 미칠 수 있어 정부의 적극적인 대책이 요구된다.",
+        "source_url": "https://www.thepowernews.co.kr/view.php?ud=202606150912585546de3f0aa1be_7"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20downward%20trend%20line%20graph%20with%20people%20in%20business%20attire%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67769&nologo=true"
+    },
+    {
+      "id": "economy-dleenc-jeju",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
       "viz_type": "timeline",
-      "title": "팔레스타인, 2027년 대통령 선거 실시 발표",
-      "subtitle": "국민의 정치 참여 및 대의 민주주의 확대 목적",
+      "title": "DL이앤씨, 5500억원 규모 동제주 복합발전소 수주…2030년 준공 목표",
+      "subtitle": "청정 수소 발전 전환으로 저탄소 에너지 솔루션 제시",
       "viz_data": {
         "stats": [
           {
-            "value": "2027년",
-            "label": "대선 예정"
+            "value": "5500억원",
+            "label": "수주 금액"
           },
           {
-            "value": "국민 참여율",
-            "label": "높이기 목표"
+            "value": "2030년",
+            "label": "준공 목표"
           },
           {
-            "value": "대의 민주주의",
-            "label": "확대"
+            "value": "100%",
+            "label": "청정 수소 전환 목표"
           }
         ],
-        "main_number": "2027년",
-        "main_text": "팔레스타인, 민주주의 확대를 위한 대선 발표"
+        "main_number": "착공",
+        "main_text": "제주 청정 수소 발전소 프로젝트"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a power plant with wind turbines and hydrogen molecules, indicating construction and clean energy, no text",
       "detail": {
-        "summary": "압바스 팔레스타인 대통령이 국민의 정치 참여율을 높이고 대의 민주주의를 확대하기 위해 2027년 대통령 선거 실시를 발표했다.",
+        "summary": "DL이앤씨가 5500억 원 규모의 동제주 복합발전소 건설 프로젝트를 수주했다. 2030년 준공을 목표로 하며, 청정 수소 발전 전환을 통해 경제적인 저탄소 에너지 솔루션을 제공할 예정이다.",
         "points": [
-          "압바스 대통령 2027년 대선 발표",
-          "국민 정치 참여율 증진 목표",
-          "대의 민주주의 확대 노력",
-          "새로운 대통령령 법 제정"
+          "DL이앤씨, 동제주 복합발전소 건설 프로젝트 수주",
+          "총 수주 금액 5500억 원 규모",
+          "2030년 준공 목표, 청정 수소 발전 전환 추진",
+          "신규 발전소 건설 대비 비용 절감 및 가동 중단 최소화"
         ],
-        "quote": "국민의 정치 참여율을 높이고 대의 민주주의의 확대를 위해 노력하겠다.",
-        "context": "팔레스타인 내부 정치 안정과 민주적 절차 강화는 중동 평화에도 중요한 영향을 미칠 수 있는 요소다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014005813?sid=104"
+        "quote": "청정 수소 발전 전환은 신규 발전소 건설 대비 가동 중단 기간을 최소화하고 비용도 절감할 수 있는 경제적인 저탄소 발전 솔루션입니다. - 유재호 DL이앤씨 플랜트사업본부장",
+        "context": "제주는 '탄소 없는 섬'을 목표로 재생에너지 전환에 박차를 가하고 있다. 이번 복합발전소 프로젝트는 제주의 에너지 자립 및 친환경 에너지 전환에 중요한 역할을 할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006306405?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38400&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20power%20plant%20with%20wind%20turbines%20and%20hydrogen%20molecules%2C%20indicating%20construction%20and%20clean%20energy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33183&nologo=true"
     },
     {
-      "id": "economy-28",
+      "id": "economy-hyundai-hint",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "BTS 부산 공연, 11만 아미가 만든 '보랏빛 경제효과'",
-      "subtitle": "지역 경제 활력 불어넣은 팬덤 파워 입증",
+      "viz_type": "stats",
+      "title": "현대차그룹, 청년 직무역량 강화 교육 ‘HINT’ 1기 모집",
+      "subtitle": "미취업 청년 500명 대상, 임베디드 AI·제조 지능화 교육",
       "viz_data": {
         "stats": [
           {
-            "value": "11만 명",
-            "label": "관람객"
+            "value": "500명",
+            "label": "모집 인원"
           },
           {
-            "value": "800개",
-            "label": "오레오 판매"
+            "value": "1기",
+            "label": "운영 기수"
           },
           {
-            "value": "2일",
-            "label": "공연 기간"
+            "value": "7월",
+            "label": "접수 마감"
           }
         ],
-        "main_number": "11만 명",
-        "main_text": "아미, 부산에 긍정적 경제 효과 선사"
+        "main_number": "미래 인재",
+        "main_text": "청년 직무역량 강화로 경쟁력 확보"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of young people learning with computers and robots, in a modern tech environment, no text",
       "detail": {
-        "summary": "부산에서 열린 BTS 공연에 11만 명의 팬이 운집하며 숙박, 음식, 기념품 판매 등 지역 경제에 상당한 활력을 불어넣는 '보랏빛 경제효과'를 창출했다.",
+        "summary": "현대차그룹이 미취업 청년 500명을 대상으로 'HINT(Hyundai INnovation Technology)' 1기 참가자를 모집한다. 임베디드 AI, 제조 지능화 등 미래 산업 핵심 기술 교육을 통해 청년들의 직무역량을 강화하고 미래 인재를 육성할 계획이다.",
         "points": [
-          "BTS 부산 공연 11만 명 운집",
-          "지역 경제에 활력 제공",
-          "다양한 분야에서 경제 효과 창출",
-          "팬덤의 파급력 입증"
+          "현대차그룹, 청년 직무역량 강화 교육 ‘HINT’ 1기 모집",
+          "미취업 청년 500명 대상, 7월까지 접수",
+          "임베디드 AI, 제조 지능화 등 전문 트랙 운영",
+          "미래 모빌리티 산업을 이끌 인재 양성 목표"
         ],
-        "quote": "이틀간 부산을 뒤덮은 보랏빛 물결은 무대 밖 지역 경제에도 활력을 불어넣고 있었다.",
-        "context": "엔터테인먼트 산업의 단순한 문화적 영향력을 넘어 지역 경제 활성화에 미치는 막대한 경제적 파급력을 보여주는 사례다.",
-        "source_url": "https://m.entertain.naver.com/article/312/0000763667"
+        "quote": "HINT는 청년들이 미래 모빌리티 산업의 핵심 인재로 성장할 수 있도록 지원하는 프로그램입니다. - 현대차그룹 관계자",
+        "context": "최근 청년 고용 불안정 문제가 심화되는 가운데, 기업의 사회적 책임과 미래 인재 확보를 위한 노력이 중요해지고 있다. 현대차그룹의 HINT 프로그램은 청년들의 취업 경쟁력을 높이고 산업 발전에 기여할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002656453?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=21499&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20young%20people%20learning%20with%20computers%20and%20robots%2C%20in%20a%20modern%20tech%20environment%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33458&nologo=true"
     },
     {
-      "id": "economy-32",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "세계 메모리 60% 책임지는 '한국 실리콘 칼라'",
-      "subtitle": "삼성전자·SK하이닉스 합친 '삼전닉스' 신조어 탄생",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "60%",
-            "label": "메모리 반도체 생산"
-          },
-          {
-            "value": "2개",
-            "label": "핵심 기업"
-          },
-          {
-            "value": "NYT",
-            "label": "소개 언론"
-          }
-        ],
-        "main_number": "60%",
-        "main_text": "한국 반도체 기업, 글로벌 시장 점유율로 주목"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "전 세계 메모리 반도체 생산의 60%를 차지하는 삼성전자와 SK하이닉스를 합쳐 '삼전닉스'라는 신조어가 생겨나며 한국 반도체 산업의 중요성을 보여주고 있다.",
-        "points": [
-          "삼성전자+SK하이닉스='삼전닉스'",
-          "글로벌 메모리 반도체 60% 생산",
-          "NYT 등 해외 언론 주목",
-          "반도체 열풍 속 한국의 위상"
-        ],
-        "quote": "이 두 기업이 한국 경제를 이끌어가는 핵심 주체로 떠오름에 따라 합쳐 부르는 말까지 나왔다고 NYT는 분석했지요.",
-        "context": "AI 시대가 가속화되면서 반도체 산업의 중요성이 더욱 부각되고 있으며, 한국의 주도적인 역할이 세계 경제에 미치는 영향이 커지고 있다.",
-        "source_url": "https://kids.donga.com/news/articleView.html?idxno=169117"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49440&nologo=true"
-    },
-    {
-      "id": "economy-04",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pros_cons",
-      "title": "'K-스틸법' 시행, 철강업계 '전기료 감면 없어 실효성 의문'",
-      "subtitle": "저탄소 전환 위한 지원책 필요성 대두",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "17일",
-            "label": "시행일"
-          },
-          {
-            "value": "감면 없음",
-            "label": "전기료"
-          },
-          {
-            "value": "WTO 규정",
-            "label": "통상 리스크"
-          }
-        ],
-        "main_number": "전기료 감면",
-        "main_text": "K-스틸법, 실효성 논란 속 시행"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "17일 'K-스틸법'이 시행되지만, 전력 다소비 업종인 철강업계는 전기료 감면 근거가 포함되지 않아 저탄소 전환 유도 실효성에 대한 우려를 표하고 있다.",
-        "points": [
-          "K-스틸법 17일 시행",
-          "저탄소 인증·특구 등 지원책 포함",
-          "전력 다소비 업종 전기료 감면 제외",
-          "통상 리스크 및 형평성 문제"
-        ],
-        "quote": "탄소중립 투자 유도를 위해서는 후속 보완책이 필요하다.",
-        "context": "글로벌 탄소중립 기조 속에서 산업계의 친환경 전환은 필수적이지만, 이를 위한 현실적인 지원책 마련이 기업 경쟁력과 직결되는 문제로 대두되고 있다.",
-        "source_url": "https://www.ajunews.com/view/20260614135120203"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40987&nologo=true"
-    },
-    {
-      "id": "tech-42",
-      "is_headline": true,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "스페이스X IPO 첫날 시총 2조 달러 돌파, 글로벌 6위 안착",
-      "subtitle": "일론 머스크, 세계 최초 억만장자 등극 기대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2조 달러",
-            "label": "시가총액"
-          },
-          {
-            "value": "6위",
-            "label": "글로벌 순위"
-          },
-          {
-            "value": "49억 달러",
-            "label": "지난해 손실"
-          }
-        ],
-        "main_number": "2조 달러",
-        "main_text": "스페이스X 시총, IPO 첫날 폭발적 상승"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "스페이스X가 IPO 첫 날 시가총액 2조 달러를 돌파하며 글로벌 기업 시총 순위 6위에 안착했고, 일론 머스크는 세계 최초 억만장자 등극이 기대된다.",
-        "points": [
-          "스페이스X 성공적 IPO",
-          "첫날 시총 2조 달러 돌파",
-          "글로벌 기업 시총 6위 기록",
-          "일론 머스크, 억만장자 기대"
-        ],
-        "quote": "머스크는 테슬라에 이어 시총 1조달러 이상 상장 기업 2개를 경영하게 됐다.",
-        "context": "우주 산업에 대한 투자자들의 높은 기대와 AI, 반도체에 이어 새로운 기술 혁신 분야로 주목받는 우주 기술의 잠재력을 보여준다.",
-        "source_url": "https://www.itbiznews.com/news/articleView.html?idxno=216147"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20098&nologo=true"
-    },
-    {
-      "id": "tech-47",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "pie_chart",
-      "title": "AI 넘어 국방으로…IT 기업, '미래 전장' 시장 선점 경쟁",
-      "subtitle": "클라우드·AI·로봇 기술로 국방 시장 진출 가속화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "클라우드",
-            "label": "핵심 기술 1"
-          },
-          {
-            "value": "AI 모델",
-            "label": "핵심 기술 2"
-          },
-          {
-            "value": "로봇 제어",
-            "label": "핵심 기술 3"
-          }
-        ],
-        "main_number": "IT 기업",
-        "main_text": "국방 시장 신규 성장 동력으로 부상"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "정보기술(IT) 및 게임 기업들이 클라우드, AI 모델, 로봇 제어 기술 등을 앞세워 국방 시장에 진출하며 '미래 전장' 시장 선점 경쟁을 벌이고 있다.",
-        "points": [
-          "IT·게임 기업 국방 시장 진출",
-          "클라우드, AI, 로봇 제어 기술 활용",
-          "미래 전장 시장 선점 목표",
-          "신성장 동력 확보 경쟁"
-        ],
-        "quote": "각자의 강점을 앞세워 미래 전장 시장을 선점하겠다는 전략이다.",
-        "context": "AI 기술의 발전이 군사 분야에도 적용되며, 민간 IT 기업의 기술력이 국가 안보와 미래 전력 증강에 중요한 역할을 하게 될 것으로 기대된다.",
-        "source_url": "https://www.newsway.co.kr/news/view?ud=2026061214475486646"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55585&nologo=true"
-    },
-    {
-      "id": "tech-98",
+      "id": "tech-samsung-hpc",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "comparison",
-      "title": "애플, 자존심 버리고 구글과 협력…Siri AI 전면 개편",
-      "subtitle": "온디바이스 AI와 클라우드 AI 결합으로 스마트 기능 강화",
+      "title": "삼성전자, 고성능 컴퓨팅 인프라 가동…검증 기간 1/7 단축",
+      "subtitle": "AI 및 가전·IT 완제품 개발 효율 극대화 기대",
       "viz_data": {
         "stats": [
           {
-            "value": "Apple Intelligence",
-            "label": "새 AI 명칭"
+            "value": "1/7",
+            "label": "검증 기간 단축"
           },
           {
-            "value": "온디바이스",
-            "label": "AI 방식 1"
+            "value": "HPC",
+            "label": "인프라 도입"
           },
           {
-            "value": "클라우드",
-            "label": "AI 방식 2"
+            "value": "AI",
+            "label": "개발 가속화"
           }
         ],
-        "main_number": "Siri AI",
-        "main_text": "애플, 구글 협력으로 대대적 업그레이드"
+        "main_number": "-86%",
+        "main_text": "제품 개발 검증 시간 대폭 단축"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a supercomputer server room with speed lines, indicating faster processing, no text",
       "detail": {
-        "summary": "애플이 세계개발자회의(WWDC26)에서 차세대 'Apple Intelligence'와 함께 구글과의 협력을 통해 Siri AI를 온디바이스 및 클라우드 AI 결합 형태로 전면 개편했다고 발표했다.",
+        "summary": "삼성전자가 고성능 컴퓨팅(HPC) 인프라를 본격 가동하며 제품 개발 검증 기간을 최대 1/7로 단축시켰다. AI 기술 개발 가속화와 스마트폰, TV, 세탁기 등 가전·IT 완제품 검증 효율을 극대화할 예정이다.",
         "points": [
-          "애플, WWDC26에서 새 AI 공개",
-          "Apple Intelligence 및 Siri 개편",
-          "구글과의 협력 발표",
-          "온디바이스+클라우드 AI 결합"
+          "삼성전자, 고성능 컴퓨팅(HPC) 인프라 구축 및 가동",
+          "제품 개발 검증 시간 최대 1/7 단축 효과",
+          "AI 기술 개발 및 가전·IT 완제품 검증 범위 확대",
+          "글로벌 가전업계의 개발 방식 전환 선도 목표"
         ],
-        "quote": "새로운 Apple Foundation Models와 Siri 기능이 온디바이스 AI와 클라우드 AI를 결합한 형태로 진화했다.",
-        "context": "AI 기술 경쟁이 심화되는 가운데, 애플이 자체 개발과 외부 협력을 병행하며 AI 시장에서의 경쟁력 강화를 꾀하는 중요한 전략적 변화다.",
-        "source_url": "https://www.e-science.co.kr/news/articleView.html?idxno=130565"
+        "quote": "이번 HPC 인프라는 제품 개발의 패러다임을 혁신하고, AI 시대에 더욱 빠르게 대응할 수 있는 기반을 마련했습니다. - 삼성전자 관계자",
+        "context": "AI 기술 경쟁이 심화되고 제품 개발 주기가 빨라지는 가운데, 고성능 컴퓨팅 인프라는 기업의 기술 경쟁력을 좌우하는 핵심 요소가 되고 있다. 삼성전자의 HPC 도입은 시장 선두 유지에 필수적인 투자로 평가된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009003349?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78513&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20supercomputer%20server%20room%20with%20speed%20lines%2C%20indicating%20faster%20processing%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53012&nologo=true"
     },
     {
-      "id": "society-16",
+      "id": "tech-pinkfong-amazon",
       "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "'금융양극화' 심화, 금융·정치권의 과제는 '금융소외' 해소",
-      "subtitle": "'금융기본권' 보장 위한 입법 논의도 부상",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "partnership",
+      "title": "더핑크퐁컴퍼니, 아마존과 손잡고 '베베핀' 글로벌 IP 도약",
+      "subtitle": "아마존 키즈 플러스 통해 신규 애니메이션 시리즈 제작",
       "viz_data": {
         "stats": [
           {
-            "value": "가속",
-            "label": "양극화 속도"
+            "value": "아마존",
+            "label": "글로벌 파트너"
           },
           {
-            "value": "금융기본권",
-            "label": "핵심 논의"
+            "value": "베베핀",
+            "label": "대표 IP"
           },
           {
-            "value": "입법",
-            "label": "해결 방안"
+            "value": "어린이",
+            "label": "주요 타겟층"
           }
         ],
-        "main_number": "금융소외",
-        "main_text": "금융·정치권의 시급한 사회적 과제"
+        "main_number": "글로벌 확장",
+        "main_text": "K-콘텐츠, 세계 시장 진출 가속화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a cartoon baby character (BebeFin) next to an Amazon logo, with world map in background, no text",
       "detail": {
-        "summary": "신용 수준과 담보 유무에 따라 금융 접근성이 달라지는 '금융 양극화'가 가속화되면서, 금융소외 해소가 금융권과 정치권의 주요 과제로 부상하고 '금융기본권' 입법 논의도 시작되었다.",
+        "summary": "더핑크퐁컴퍼니가 글로벌 IT 기업 아마존과 협력하여 대표 IP '베베핀'의 신규 애니메이션 시리즈를 제작한다. 아마존의 어린이 전용 구독 서비스 '아마존 키즈 플러스'를 통해 전 세계 어린이 시청자들을 만날 예정이다.",
         "points": [
-          "금융 양극화 심화 문제",
-          "신용 수준에 따른 금융 소외 증가",
-          "금융권·정치권의 주요 과제",
-          "'금융기본권' 입법 논의 시작"
+          "더핑크퐁컴퍼니, 아마존과 '베베핀' 애니메이션 시리즈 제작 협약",
+          "아마존 '키즈 플러스' 통해 글로벌 유통",
+          "'베베핀'의 글로벌 IP 경쟁력 강화",
+          "K-콘텐츠의 세계 시장 진출 확대"
         ],
-        "quote": "국민의 금융접근권을 보장하기 위한 '금융기본권' 논의도 시작됐다.",
-        "context": "사회 전반의 불평등이 심화되는 가운데, 금융 서비스 접근성에서의 차별이 개인의 경제적 기회와 삶의 질에 큰 영향을 미치므로 사회적 해결이 시급하다.",
-        "source_url": "http://www.metroseoul.co.kr/article/20260615500005"
+        "quote": "아마존과의 협력은 베베핀이 전 세계 어린이들에게 더욱 사랑받는 IP로 성장하는 중요한 전환점이 될 것입니다.",
+        "context": "K-콘텐츠의 글로벌 인기가 높아지면서 국내 IP 기업들이 해외 대형 플랫폼과의 협력을 통해 시장을 확대하고 있다. 이번 아마존과의 협력은 '베베핀'의 인지도를 높이고 새로운 수익 모델을 창출하는 데 기여할 것으로 기대된다.",
+        "source_url": "https://www.kizmom.com/news/articleView.html?idxno=110937"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67772&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20cartoon%20baby%20character%20%28BebeFin%29%20next%20to%20an%20Amazon%20logo%2C%20with%20world%20map%20in%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76461&nologo=true"
     },
     {
-      "id": "society-76",
+      "id": "tech-kakao-autonomous",
       "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "pie_chart",
-      "title": "스위스, '인구 1000만 상한' 반이민 국민투표 부결",
-      "subtitle": "경제계, 노동계의 이민 제한 반대 여론 승리",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "network",
+      "title": "카카오모빌리티, 'K-기술 연합'으로 자율주행 생태계 구축",
+      "subtitle": "스타트업·학계·제조사 협력, 방대한 데이터 및 고정밀지도 제공",
       "viz_data": {
         "stats": [
           {
-            "value": "1000만",
-            "label": "인구 상한 목표"
+            "value": "스타트업",
+            "label": "협력 주체"
           },
           {
-            "value": "부결",
-            "label": "투표 결과"
+            "value": "학계",
+            "label": "협력 주체"
           },
           {
-            "value": "EU",
-            "label": "최대 교역 상대"
+            "value": "제조사",
+            "label": "협력 주체"
           }
         ],
-        "main_number": "반이민 정책",
-        "main_text": "스위스 국민투표에서 부결돼 경제계 안도"
+        "main_number": "생태계",
+        "main_text": "자율주행 기술 협력으로 상생"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of interconnected gears and vehicles on a road, representing an autonomous driving ecosystem, no text",
       "detail": {
-        "summary": "스위스에서 인구를 1000만 명으로 제한하는 반이민 국민투표가 부결되면서, 이민 제한이 경제에 미칠 부정적인 영향을 우려하던 정부, 경제계, 노동계는 안도했다.",
+        "summary": "카카오모빌리티가 스타트업, 학계, 제조사와의 'K-기술 연합'을 통해 국내 자율주행 생태계 구축에 나선다. 방대한 자율주행 학습 데이터, 고정밀지도(HD Map), 차량 호출 서비스 등을 제공하여 기술 고도화를 지원할 계획이다.",
         "points": [
-          "스위스 반이민 국민투표 부결",
-          "인구 1000만 상한선 제안",
-          "정부·경제계·노동계 반대",
-          "이민 제한 시 경제 마비 우려"
+          "카카오모빌리티, 'K-기술 연합'으로 자율주행 생태계 조성",
+          "스타트업, 학계, 제조사와의 협력 강화",
+          "자율주행 학습 데이터, 고정밀지도(HD Map) 제공",
+          "차량 호출 및 관제 시스템 연동 지원"
         ],
-        "quote": "이민 제한이 스위스 경제를 마비시키고 최대 교역 상대인 유럽연합(EU)과의 관계를 악화시킬 것",
-        "context": "유럽 전반의 이민 문제가 사회적 논쟁의 중심에 있는 가운데, 경제적 실리를 우선시한 스위스의 결정은 이민 정책의 복합적인 면모를 보여준다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009003187?sid=104"
+        "quote": "스타트업과 학계, 제조사가 기술 고도화에 집중할 수 있도록 방대한 자율주행 학습 데이터와 고정밀지도를 제공할 것입니다. - 김진규 카카오모빌리티 부사장",
+        "context": "자율주행 기술은 고도의 복합 기술이 요구되며, 단일 기업의 노력으로는 한계가 있다. 다양한 주체들의 협력을 통해 기술 개발 속도를 높이고 상용화 시기를 앞당기는 것이 중요하다.",
+        "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092163829"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90064&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20interconnected%20gears%20and%20vehicles%20on%20a%20road%2C%20representing%20an%20autonomous%20driving%20ecosystem%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36508&nologo=true"
     },
     {
-      "id": "society-77",
+      "id": "society-starbucks-history-education",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "timeline",
-      "title": "구로구, AI 시대 미래 인재 양성 위한 명사 특강 개최",
-      "subtitle": "청소년·학부모 대상, AI 기술 발전과 사회 변화 통찰 제공",
+      "title": "스타벅스, 22일 전 매장 조기 영업 종료…전 임직원 역사 교육 실시",
+      "subtitle": "사회적 감수성 함양 및 마케팅 검수 시스템 전면 재정비",
       "viz_data": {
         "stats": [
           {
-            "value": "200명",
-            "label": "강연 대상"
+            "value": "22일",
+            "label": "조기 영업 종료일"
           },
           {
-            "value": "청소년",
-            "label": "주요 참가자"
+            "value": "전원",
+            "label": "교육 대상"
           },
           {
-            "value": "미래 인재",
-            "label": "육성 목표"
+            "value": "5·18",
+            "label": "논란 계기"
           }
         ],
-        "main_number": "AI 시대",
-        "main_text": "미래 역량 강화를 위한 구로구 특강"
+        "main_number": "사회적 책임",
+        "main_text": "역사 인식·사회적 감수성 교육 강화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of people learning about history, with a Starbucks logo subtly in the background, no text",
       "detail": {
-        "summary": "구로구가 AI 기술 발전과 사회 변화 속에서 청소년들이 미래 인재로 성장하도록 돕고 학부모들에게 통찰을 제공하기 위한 명사 특강을 개최한다.",
+        "summary": "최근 5·18 민주화운동 폄훼 마케팅 논란을 일으킨 스타벅스코리아가 오는 22일 전 매장의 조기 영업을 종료하고, 전 임직원을 대상으로 역사 인식 및 사회적 감수성 교육을 실시한다.",
         "points": [
-          "구로구 AI 시대 특강 개최",
-          "청소년 및 학부모 200명 대상",
-          "AI 기술과 사회 변화 통찰 제공",
-          "미래 인재 육성 지원"
+          "스타벅스, 22일 전국 매장 조기 영업 종료 (오후 3시)",
+          "정용진 회장 포함 이마트 부문 계열사 임직원 및 스벅 본사 전 직원 교육",
+          "마케팅 기획 시 '역사, 정치, 젠더, 혐오표현' 등 민감 이슈 사전 검토 강화",
+          "사회공헌 활동 확대 및 미래 세대 역사 활성화 지원"
         ],
-        "quote": "미래 사회를 준비하는 데 필요한 통찰을 전달할 예정이다.",
-        "context": "급변하는 AI 시대에 맞춰 미래 세대가 핵심 역량을 갖추도록 돕고, 사회 구성원들이 AI 시대에 대한 이해를 높이는 교육의 중요성이 커지고 있다.",
-        "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1381398"
+        "quote": "사회적 민감도가 높은 현안들에 대해서도 사전에 살피겠다는 의미입니다.",
+        "context": "최근 5·18 민주화운동을 폄훼하는 듯한 마케팅으로 큰 비판을 받은 스타벅스가 전사적인 교육과 시스템 개선을 통해 사회적 책임 경영을 강화하려는 움직임이다. 이는 기업의 사회적 감수성 요구가 커지는 시대적 흐름을 반영한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006306408?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78536&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20people%20learning%20about%20history%2C%20with%20a%20Starbucks%20logo%20subtly%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=14197&nologo=true"
     },
     {
-      "id": "life-121",
+      "id": "society-eu-cbam",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "process",
+      "title": "EU, 탄소국경조정제도(CBAM) 강화…우회 거래 차단",
+      "subtitle": "적용 대상 확대 및 탄소 중립 목표 달성 가속화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "EU",
+            "label": "시행 주체"
+          },
+          {
+            "value": "ESG",
+            "label": "주요 관점"
+          },
+          {
+            "value": "12일",
+            "label": "합의일"
+          }
+        ],
+        "main_number": "확대",
+        "main_text": "CBAM 적용 대상 및 규제 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a factory with green leaves and a border, representing carbon border adjustment mechanism, no text",
+      "detail": {
+        "summary": "유럽연합(EU) 이사회가 탄소국경조정제도(CBAM)를 강화하는 데 합의했다. CBAM 적용 대상을 일부 후방 제품으로 확대하고 우회 거래를 막는 방안을 추진하여, 탄소 누출 방지 및 기후 목표 달성에 집중할 계획이다.",
+        "points": [
+          "EU 이사회, CBAM 강화 방안 합의",
+          "CBAM 적용 대상 일부 후방(다운스트림) 제품으로 확대",
+          "탄소 누출 및 우회 거래 차단 목표",
+          "글로벌 탄소 중립 목표 달성 기여"
+        ],
+        "quote": "CBAM 강화를 통해 유럽 기업의 경쟁력을 보호하고, 전 세계적인 탄소 감축 노력을 촉진할 것입니다. - EU 이사회 관계자",
+        "context": "CBAM은 탄소 배출량이 많은 제품을 수입할 때 추가 요금을 부과하는 제도로, EU 역내 기업과의 공정한 경쟁을 유도하고 글로벌 탄소 감축을 장려한다. 이번 강화 조치는 기업들의 ESG 경영 부담을 가중시킬 수 있지만, 기후 위기 대응의 중요성을 강조한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/050/0000107326?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20factory%20with%20green%20leaves%20and%20a%20border%2C%20representing%20carbon%20border%20adjustment%20mechanism%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91339&nologo=true"
+    },
+    {
+      "id": "society-senior-food",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "고령친화식품, 사회복지·요양시설 등 단체 급식 시장 진출 확대",
+      "subtitle": "고령층 증가에 따른 시니어 급식 수요 증대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100%",
+            "label": "고령층 증가"
+          },
+          {
+            "value": "단체급식",
+            "label": "주요 시장"
+          },
+          {
+            "value": "연화식",
+            "label": "대표 유형"
+          }
+        ],
+        "main_number": "확대",
+        "main_text": "고령친화식품 시장 본격 성장"
+      },
+      "image_prompt": "cute pastel infographic illustration of diverse senior people eating healthy, soft food in a community setting, no text",
+      "detail": {
+        "summary": "고령층 증가에 발맞춰 고령친화식품이 사회복지시설, 요양시설 등 단체 급식 시장으로 공급을 확대하고 있다. 식감이 부드럽고 영양 균형을 맞춘 제품들이 시니어들의 건강한 식생활을 돕는다.",
+        "points": [
+          "고령층 증가로 고령친화식품 시장 성장 가속화",
+          "사회복지시설, 요양시설, 병원 등 단체 급식 현장으로 공급 확대",
+          "식감 및 영양을 고려한 맞춤형 제품 개발 활발",
+          "시니어들의 건강한 식생활 및 삶의 질 향상 기여"
+        ],
+        "quote": "고령친화식품은 단순히 먹는 것을 넘어, 시니어들의 삶의 질을 높이는 중요한 요소입니다. - 식품산업 관계자",
+        "context": "초고령사회 진입이 가속화되면서 고령층의 건강과 복지에 대한 사회적 관심이 커지고 있다. 고령친화식품은 이러한 시대적 요구에 부응하며 새로운 시장을 형성하고 있으며, 관련 산업의 발전이 기대된다.",
+        "source_url": "http://www.fsnews.co.kr/news/articleView.html?idxno=61232"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20diverse%20senior%20people%20eating%20healthy%2C%20soft%20food%20in%20a%20community%20setting%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66937&nologo=true"
+    },
+    {
+      "id": "life-jtbc-drama",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "'모닝 리추얼' 된 올리브 샷, 지중해식 웰니스 트렌드 확산",
-      "subtitle": "바쁜 현대인의 라이프스타일에 맞춘 간편 섭취 방식 인기",
+      "title": "JTBC 드라마, 첫방 3.7%→6회 만에 10.7%…시청률 고공행진",
+      "subtitle": "'재벌집 막내아들' 세계관 재해석, 빙의 설정으로 신선함 더해",
       "viz_data": {
         "stats": [
           {
-            "value": "지중해식",
-            "label": "식문화"
+            "value": "3.7%",
+            "label": "첫 회 시청률"
           },
           {
-            "value": "이너 뷰티",
-            "label": "트렌드"
+            "value": "10.7%",
+            "label": "6회 시청률"
           },
           {
-            "value": "스틱형",
-            "label": "제품 등장"
+            "value": "1위",
+            "label": "동시간대 드라마"
           }
         ],
-        "main_number": "올리브 오일",
-        "main_text": "아침 웰니스 '올리브 샷'으로 인기"
+        "main_number": "+7%p",
+        "main_text": "시청률 6회 만에 급상승"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a TV screen showing a drama scene with a rising bar chart overlay, no text",
       "detail": {
-        "summary": "엑스트라버진 올리브 오일이 지중해식 식문화, 웰니스, 이너 뷰티 트렌드와 결합하며 전 세계적으로 바쁜 현대인의 '모닝 리추얼'인 '올리브 샷'으로 인기를 얻고 있다.",
+        "summary": "JTBC 드라마 '신입사원 강회장'이 첫 방송 3.7%에서 6회 만에 10.7%로 시청률이 급등하며 동시간대 1위를 기록했다. '재벌집 막내아들'과 유사한 세계관에 빙의 설정을 더해 시청자들의 큰 호응을 얻고 있다.",
         "points": [
-          "올리브 오일 '올리브 샷' 트렌드",
-          "지중해식 식문화 확산",
-          "웰니스·이너 뷰티 관심 증가",
-          "스틱형 등 간편 제품 출시"
+          "JTBC 드라마 '신입사원 강회장', 시청률 급상승",
+          "첫 회 3.7%에서 6회 만에 10.7% 기록",
+          "동시간대 드라마 시청률 1위 달성",
+          "'재벌집 막내아들' 같은 세계관에 빙의 설정 더해 인기 견인"
         ],
-        "quote": "주방의 병 속에 머물던 엑스트라버진 올리브 오일은... 전세계 수많은 웰니스족의 모닝 리추얼이 됐다.",
-        "context": "건강과 아름다움을 중시하는 현대인의 라이프스타일 변화가 식습관과 소비 트렌드에 영향을 미치며, 간편하고 효과적인 건강 관리법이 각광받고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/023/0003982049?sid=004"
+        "quote": "신선한 설정과 탄탄한 스토리로 시청자들을 사로잡는 데 성공했습니다. - 드라마 평론가",
+        "context": "최근 K-드라마는 국내외에서 큰 인기를 얻으며 문화 콘텐츠의 핵심으로 자리매김하고 있다. 시청률 고공행진은 제작사와 방송사의 수익뿐만 아니라 관련 산업 전반에 긍정적인 영향을 미친다.",
+        "source_url": "https://www.wikitree.co.kr/articles/1141374"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=47709&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20TV%20screen%20showing%20a%20drama%20scene%20with%20a%20rising%20bar%20chart%20overlay%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82709&nologo=true"
     },
     {
-      "id": "life-127",
+      "id": "life-ai-adoption",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "폭염 예고에 '얼음정수기' 시장 경쟁 가열…대용량·AI 기능 강화",
-      "subtitle": "1인 가구, 미니멀 라이프 맞춤형 신제품 봇물",
+      "viz_type": "pie_chart",
+      "title": "국민 10명 중 9명 생성형 AI 경험…일상 인프라로 자리매김",
+      "subtitle": "절반 가까이 유료 구독 경험, 대중화 넘어 대중 필수 서비스로",
       "viz_data": {
         "stats": [
           {
-            "value": "11g",
-            "label": "최대 얼음 크기"
+            "value": "90%",
+            "label": "생성형 AI 경험"
           },
           {
-            "value": "강화",
-            "label": "AI 기능"
+            "value": "50%",
+            "label": "유료 구독 경험"
           },
           {
-            "value": "신혼부부",
-            "label": "타겟 고객"
+            "value": "일상",
+            "label": "주요 활용처"
           }
         ],
-        "main_number": "얼음정수기",
-        "main_text": "폭염 예보 속 맞춤형 제품 출시 활발"
+        "main_number": "대중화",
+        "main_text": "생성형 AI, 우리 삶에 깊숙이 침투"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of diverse people interacting with AI interfaces on their devices, with data points, no text",
       "detail": {
-        "summary": "기록적인 폭염이 예고되면서 얼음정수기 시장의 경쟁이 본격화되고 있으며, 대용량 얼음과 AI 기능, 1인 가구 및 미니멀 라이프에 맞춘 제품들이 잇따라 출시되고 있다.",
+        "summary": "최근 조사에 따르면 우리나라 소비자 10명 중 9명이 생성형 AI 서비스를 이용해 본 경험이 있으며, 절반에 가까운 이용자는 유료 구독까지 경험한 것으로 나타났다. 생성형 AI가 대중화를 넘어 일상 인프라로 자리 잡고 있음을 보여준다.",
         "points": [
-          "폭염 예고로 얼음정수기 시장 활황",
-          "대용량 얼음 및 AI 기능 강화",
-          "1인 가구·미니멀 라이프 맞춤형",
-          "소비자 니즈 반영한 신제품 출시"
+          "국민 90% 이상 생성형 AI 서비스 이용 경험",
+          "이용자 절반 가까이 유료 구독 경험",
+          "생성형 AI, 일상 생활 필수 인프라로 전환",
+          "콘텐츠 생성, 정보 검색, 업무 지원 등 다양한 분야 활용"
         ],
-        "quote": "업계 동급 얼음정수기 중 가장 큰 크기의 11g 얼음을 제공해 커피와 음료 등을 더욱 시원하게 즐길 수 있다.",
-        "context": "기후 변화로 인한 이상 기온 현상이 가전 시장의 트렌드를 변화시키고 있으며, 개인의 삶의 질을 높이는 맞춤형 가전제품의 수요가 증가하고 있다.",
-        "source_url": "https://www.cstimes.com/news/articleView.html?idxno=709592"
+        "quote": "생성형 AI는 이제 선택이 아닌 필수가 되고 있습니다. - IT 전문가",
+        "context": "생성형 AI 기술은 놀라운 속도로 발전하며 우리의 일상과 산업 전반에 혁명적인 변화를 가져오고 있다. 광범위한 AI 서비스의 보급은 생산성 향상과 새로운 가치 창출에 기여할 것으로 기대된다.",
+        "source_url": "https://www.sciencetimes.co.kr/news/sn/261970"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53025&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20diverse%20people%20interacting%20with%20AI%20interfaces%20on%20their%20devices%2C%20with%20data%20points%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17457&nologo=true"
     },
     {
-      "id": "life-134",
+      "id": "life-kblife-senior",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "map",
-      "title": "성남시, 국토부 스마트도시 특화단지 선정…168억 투입 '라이프모빌리티'",
-      "subtitle": "고령자 건강·이동 편의 지원 목표, 판교 일대 미래도시 구현",
+      "viz_type": "stats",
+      "title": "KB라이프, 시니어 주거시설 입주 경험 담은 첫 리포트 발간",
+      "subtitle": "초고령사회 진입 대비, 시니어 주거 관심 증대",
       "viz_data": {
         "stats": [
           {
-            "value": "168.3억 원",
-            "label": "총 사업비"
+            "value": "1호",
+            "label": "시니어 리포트"
           },
           {
-            "value": "80억 원",
-            "label": "국비 확보"
+            "value": "초고령사회",
+            "label": "시대적 배경"
           },
           {
-            "value": "3개",
-            "label": "핵심 서비스"
+            "value": "KB라이프",
+            "label": "발간 주체"
           }
         ],
-        "main_number": "168.3억 원",
-        "main_text": "투입, 성남형 라이프모빌리티 조성"
+        "main_number": "인사이트",
+        "main_text": "시니어 주거 트렌드 분석"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a modern senior living community with happy residents, and a magnifying glass over a report, no text",
       "detail": {
-        "summary": "성남시가 국토부 '스마트도시 특화단지 조성사업'에 선정되어 총 168.3억 원을 투입, 판교 일대에 의료·복지·이동 서비스를 연계한 '성남형 라이프모빌리티 특화단지'를 조성한다.",
+        "summary": "KB라이프가 초고령사회 진입에 발맞춰 시니어 주거시설 입주민의 삶과 경험 변화를 분석한 '2026 KB라이프 시니어 리포트'를 발간했다. 시니어 주거에 대한 관심 증대와 변화하는 수요를 파악하기 위함이다.",
         "points": [
-          "성남시 스마트도시 특화단지 선정",
-          "판교 일대 '라이프모빌리티' 조성",
-          "총 168.3억 원 사업비 투입",
-          "고령자 건강·이동 편의 지원"
+          "KB라이프, 첫 '2026 KB라이프 시니어 리포트' 발간",
+          "시니어 주거시설 입주민의 삶과 경험 변화 분석",
+          "초고령사회 진입에 따른 시니어 주거 관심 증대 반영",
+          "시니어 맞춤형 금융 및 주거 서비스 개발 기반 마련"
         ],
-        "quote": "고령자의 건강관리와 이동 편의를 동시에 지원하는 시민 체감형 스마트도시 구현이 목표다.",
-        "context": "고령화 사회가 심화됨에 따라 고령층의 삶의 질 향상을 위한 스마트 기술 기반의 도시 솔루션 도입이 중요해지고 있으며, 이는 미래 도시의 방향성을 제시한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004631065?sid=102"
+        "quote": "시니어 주거시설은 노년의 삶의 질을 결정하는 중요한 요소이며, 리포트는 미래 시니어 라이프스타일을 예측하는 데 기여할 것입니다. - KB라이프 관계자",
+        "context": "급격한 고령화는 주거, 의료, 복지 등 사회 전반에 걸쳐 새로운 변화를 요구한다. 시니어 주거시설은 단순한 거주 공간을 넘어 건강, 커뮤니티 활동 등 복합적인 서비스를 제공하며 중요한 라이프스타일 트렌드로 부상하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/030/0003437453?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10303&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20modern%20senior%20living%20community%20with%20happy%20residents%2C%20and%20a%20magnifying%20glass%20over%20a%20report%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15976&nologo=true"
     }
   ],
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T08:11:39.902476+09:00"
+  "generated_at": "2026-06-15T09:27:53.696643+09:00"
 }
