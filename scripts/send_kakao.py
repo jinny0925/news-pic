@@ -32,9 +32,14 @@ def get_kakao_access_token(client_id, client_secret, refresh_token, sender_name=
     response = requests.post(url, data=data, timeout=30)
 
     # 토큰 내용은 로그에 찍지 않음
-    print(f"🔑 [{sender_name}] 카카오 토큰 갱신 결과:", response.status_code, flush=True)
-
-    response.raise_for_status()
+    print(
+       f"🔑 [{sender_name}]",
+       response.status_code,
+       response.text,
+       flush=True
+   )
+   
+   response.raise_for_status()
     return response.json()["access_token"]
 
 
