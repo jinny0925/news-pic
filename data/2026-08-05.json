@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-01",
-      "is_headline": false,
+      "id": "world-1",
+      "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "호르무즈 해협 개방, 美-이란 협상 긍정적 신호",
-      "subtitle": "오만 중재로 기술적·정치적 차원 모두 순조롭게 진행 중",
+      "viz_type": "bar_chart_comparison",
+      "title": "美 규제에 '가성비 中 AI' 급부상",
+      "subtitle": "미국의 AI 규제에도 불구하고 중국 AI 시장이 전 세계로 확장 중",
       "viz_data": {
         "stats": [
           {
-            "value": "2국",
-            "label": "참여국"
+            "value": "6월 12일",
+            "label": "美 규제 발표"
           },
           {
-            "value": "긍정적",
-            "label": "진행"
-          },
-          {
-            "value": "안보 고려",
-            "label": "쟁점"
-          }
-        ],
-        "main_number": "합의 기대",
-        "main_text": "핵심 전략 수로 안전 항로 확보"
-      },
-      "image_prompt": "cute pastel infographic illustration of two countries negotiating over a sea lane, with a peace symbol, no text",
-      "detail": {
-        "summary": "미국과 이란이 오만을 중재로 호르무즈 해협 개방 협상에서 긍정적인 진전을 보이고 있다. 양국은 기술적, 정치적 차원에서 논의를 이어가며 선박 통행 효율화 메커니즘 구축에 협력할 예정이다.",
-        "points": [
-          "미국-이란, 오만 중재 하 호르무즈 해협 개방 협상 중",
-          "이란 외무부, 기술적·정치적 차원 모두 긍정적 평가",
-          "양국 주권적 권리와 국가 안보적 고려사항 반영 예정",
-          "핵심 전략 수로의 선박 통행 효율적 관리 메커니즘 구축 목표"
-        ],
-        "quote": "현재까지 진행된 양국 간 회담은 기술적, 정치적 차원 모두에서 긍정적 성과를 거두고 있다.",
-        "context": "호르무즈 해협은 전 세계 석유 수송의 주요 통로로, 이곳의 안정은 국제 유가 및 중동 정세에 막대한 영향을 미친다.",
-        "source_url": "https://n.news.naver.com/mnews/article/025/0003542377?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20countries%20negotiating%20over%20a%20sea%20lane%2C%20with%20a%20peace%20symbol%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6039&nologo=true"
-    },
-    {
-      "id": "world-02",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "comparison_bar",
-      "title": "트럼프, 유가 안정 위해 존스법 유예 검토, 국내 반발 예상",
-      "subtitle": "의회 및 해운업계는 국가 안보와 산업 보호를 이유로 반대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "유가 안정",
-            "label": "추진 목적"
-          },
-          {
-            "value": "의회",
-            "label": "주요 반대"
-          },
-          {
-            "value": "해운업계",
-            "label": "주요 반대"
-          }
-        ],
-        "main_number": "찬반 대립",
-        "main_text": "경제 안정 vs 국익 보호"
-      },
-      "image_prompt": "cute pastel infographic illustration of a tug-of-war between 'economy' and 'industry' over a barrel of oil, no text",
-      "detail": {
-        "summary": "트럼프 전 대통령이 유가 안정을 위해 존스법 유예 연장을 검토 중이나, 의회와 해운업계는 국가 안보 및 해운 산업 보호를 이유로 강력히 반대하고 있어 논란이 예상된다.",
-        "points": [
-          "트럼프, 유가 통제를 위한 존스법 유예 연장 검토",
-          "존스법은 미국 내 항로에 미국 선박만 이용하도록 강제",
-          "의회와 해운업계는 국가 안보와 자국 산업 보호를 이유로 반대",
-          "유가 통제 시도는 정치적으로 비현실적이거나 경제적 왜곡 초래 우려"
-        ],
-        "quote": "이란 전쟁에 따른 휘발유 가격 급등이 국내 정치 어젠다를 뒤흔들고 있다.",
-        "context": "존스법은 미국 해운업 보호를 위한 법으로, 유예 시 국내 산업에 미치는 영향과 국제 유가 안정이라는 상충되는 목표 사이에서 갈등이 심화되고 있다.",
-        "source_url": "https://www.newspim.com/news/view/20260805000026"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20tug-of-war%20between%20%27economy%27%20and%20%27industry%27%20over%20a%20barrel%20of%20oil%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91288&nologo=true"
-    },
-    {
-      "id": "world-03",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "line_chart",
-      "title": "美 재무부, 엔화 약세 및 원화 변동성 우려 표명",
-      "subtitle": "아시아 경제 전반에 안정적인 엔화 중요성 강조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "긴밀 소통",
-            "label": "도쿄 협력"
-          },
-          {
-            "value": "아시아 경제",
+            "value": "전 세계",
             "label": "영향 범위"
           },
           {
-            "value": "세계 경제",
-            "label": "안정 중요성"
+            "value": "AI 기술",
+            "label": "핵심 분야"
           }
         ],
-        "main_number": "통화 불안",
-        "main_text": "원화·엔화 움직임에 촉각"
+        "main_number": "↑ 중국산 AI 사용",
+        "main_text": "美 기업 규제로 인한 빈틈을 중국 AI가 빠르게 파고드는 중"
       },
-      "image_prompt": "cute pastel infographic illustration of global currencies (won, yen, dollar) on a seesaw, symbolizing fluctuation, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, two robots, one with US flag colors, one with China flag colors, standing on a seesaw, with the China robot going up and the US robot going down, global map in background",
       "detail": {
-        "summary": "미국 재무장관이 엔화 약세가 다른 아시아 통화로 번지고 있으며 원화 변동성도 과도하다고 우려를 표했다. 안정적인 엔화가 아시아 경제 전체에 중요하다고 강조하며 일본과의 긴밀한 소통을 밝혔다.",
+        "summary": "미국의 AI 기술 규제 정책이 오히려 중국산 AI의 전 세계 확장을 부추기고 있다는 분석이 나왔다. 백악관의 정책이 미국 기업 경쟁력을 저해한다는 비판이 제기된다.",
         "points": [
-          "미국 재무장관, 엔화 약세 확산 및 원화 변동성 우려",
-          "엔화 안정은 미국 및 아시아 경제 전체에 중요하다고 강조",
-          "미국, 일본(도쿄)과 긴밀히 소통 중 밝혀",
-          "세계 경제의 안정성을 위한 통화 정책 공조 필요성 제기"
+          "미국, AI 기술 수출 및 투자 규제 강화",
+          "중국, 오픈소스 AI 모델로 가성비 공략",
+          "미국 기업들, 중국 AI 대안 모색",
+          "백악관 정책이 미국의 AI 경쟁력을 위협한다는 비판"
         ],
-        "quote": "안정적인 엔화는 미국뿐 아니라 아시아 경제 전체에 중요하다.",
-        "context": "글로벌 경제 불안정 속에서 주요국의 통화 변동성은 무역 흐름과 금융 시장에 큰 영향을 미치며, 특히 아시아 지역 경제에 파급 효과가 크다.",
-        "source_url": "https://n.news.naver.com/mnews/article/448/0000631443?sid=104"
+        "quote": "현 행정부의 정책은 보안 리스크를 해결하지 못한 채 미국의 혁신을 위협하고 전 세계를 중국산 대안으로 밀어내고 있다.",
+        "context": "미국은 국가 안보를 이유로 중국의 첨단 AI 기술 접근을 제한하고 있으나, 중국 기업들은 가성비 높은 AI 모델을 전 세계에 공급하며 시장을 확대하고 있다. 이는 장기적으로 미국의 경제 안보와 경쟁력에 위협이 될 수 있다는 지적이다.",
+        "source_url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53476"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20global%20currencies%20%28won%2C%20yen%2C%20dollar%29%20on%20a%20seesaw%2C%20symbolizing%20fluctuation%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91290&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20two%20robots%2C%20one%20with%20US%20flag%20colors%2C%20one%20with%20China%20flag%20colors%2C%20standing%20on%20a%20seesaw%2C%20with%20the%20China%20robot%20going%20up%20and%20the%20US%20robot%20going%20down%2C%20global%20map%20in%20background%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25096&nologo=true"
     },
     {
-      "id": "economy-01",
+      "id": "world-2",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "中 증시, AI 기술주 빚투 7월 14% 급감",
-      "subtitle": "'AI 거품론' 확산 및 레버리지 청산 파동 영향",
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "line_chart_milestone",
+      "title": "삼성전자, AI 메모리 'zHBM·zNAND-O' 공개",
+      "subtitle": "13년 만의 '세계 최초' 기술, 차세대 AI 시대 주도 기대",
       "viz_data": {
         "stats": [
           {
-            "value": "7월",
-            "label": "기간"
+            "value": "13년 전",
+            "label": "V-NAND 발표"
           },
           {
-            "value": "14%",
-            "label": "급감률"
+            "value": "세계 최초",
+            "label": "신기술"
           },
           {
-            "value": "기술주",
-            "label": "대상"
+            "value": "HBM4E",
+            "label": "AI 플랫폼"
           }
         ],
-        "main_number": "-14%",
-        "main_text": "중국 기술주 빚투 감소"
+        "main_number": "↑ AI 성능",
+        "main_text": "삼성의 AI 메모리 신기술로 데이터 처리 효율 대폭 향상"
       },
-      "image_prompt": "cute pastel infographic illustration of a declining bar chart with Chinese stock market symbols and AI elements, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a microchip with glowing lines, symbolizing high-speed data flow, surrounded by abstract AI brain patterns",
       "detail": {
-        "summary": "중국 증시에서 7월 기술주 '빚투'가 14% 급감하며 'AI 거품론'과 레버리지 청산 파동이 심화됐다. 이는 향후 글로벌 빅테크 및 AI 관련주의 투심 위축과 베이징 당국의 증시 유동성 투입 확대를 자극할 전망이다.",
+        "summary": "삼성전자가 새로운 AI 메모리 기술인 'zHBM'과 'zNAND-O'를 공개하며 차세대 AI 시대의 기술 주도권을 강화하고 있다. 13년 전 V-NAND 기술 발표 이후 또다시 '세계 최초' 타이틀을 획득했다.",
         "points": [
-          "7월 중국 증시 기술주 '빚투' 14% 급감",
-          "AI 거품론 및 레버리지 청산 파동 주요 원인",
-          "글로벌 빅테크 및 AI 관련주 투심 위축 우려",
-          "베이징 당국의 증시 직접 유동성 투입 수위 확대 전망"
+          "zHBM: AI 훈련 및 추론 효율 극대화",
+          "zNAND-O: 고밀도 저장, 저전력 특성",
+          "HBM4E가 적용된 AI 플랫폼 및 웨이퍼 전시",
+          "AI 시장에서의 삼성전자 기술 리더십 강화"
         ],
-        "quote": "AI 거품론에 레버리지 청산 파동은, 향후 글로벌 빅테크 및 AI 관련주의 투심 위축을 자극할 핵심 거시경제 변수로 작용할 전망이다.",
-        "context": "글로벌 AI 투자 열풍 속에서도 중국 기술주 시장은 내부적인 거품 우려와 정부의 규제 및 시장 개입 가능성으로 인해 독특한 변동성을 보이고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026080418195172920c8c1c064d_1"
+        "quote": "삼성전자가 13년 전 같은 행사에서 세계 최초로 V-NAND 기술을 발표한 이후 이어온 기술 개발의 정점을 보여줬다.",
+        "context": "AI 기술의 발전은 고성능 메모리 반도체를 필수적으로 요구하고 있다. 삼성전자의 이번 신기술은 AI 데이터 처리 속도와 효율성을 혁신적으로 개선하여, 급증하는 AI 시장의 수요에 대응하고 글로벌 경쟁에서 우위를 점할 중요한 발판이 될 것이다.",
+        "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=115052"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20declining%20bar%20chart%20with%20Chinese%20stock%20market%20symbols%20and%20AI%20elements%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7918&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20microchip%20with%20glowing%20lines%2C%20symbolizing%20high-speed%20data%20flow%2C%20surrounded%20by%20abstract%20AI%20brain%20patterns%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56879&nologo=true"
     },
     {
-      "id": "economy-02",
+      "id": "world-3",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "쿠팡, 2분기 8350억 원 영업손실 기록",
-      "subtitle": "상장 후 분기 최대 적자, 상반기 첫 1조 원대 손실",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2분기",
-            "label": "기간"
-          },
-          {
-            "value": "8350억 원",
-            "label": "영업손실"
-          },
-          {
-            "value": "1조1895억 원",
-            "label": "상반기 누적"
-          }
-        ],
-        "main_number": "▲ 8350억",
-        "main_text": "2분기 영업손실 급증"
-      },
-      "image_prompt": "cute pastel infographic illustration of a falling graph line with a shopping cart and a red downward arrow, no text",
-      "detail": {
-        "summary": "쿠팡의 모회사 쿠팡Inc가 2분기 8350억 원의 영업손실을 기록하며 상장 후 분기 최대 적자를 냈다. 상반기 누적 영업손실은 처음으로 1조 원대를 넘어섰다.",
-        "points": [
-          "쿠팡 2분기 영업손실 8350억 원",
-          "상장 이후 분기 최대 적자 기록",
-          "상반기 누적 영업손실 1조1895억 원으로 첫 1조원대 진입",
-          "전자상거래 시장 경쟁 심화 및 투자 확대로 인한 손실"
-        ],
-        "quote": "2분기 영업손실 8350억원…상장 후 분기 최대 적자 상반기 영업손실 1조1895억원…첫 1조원대 손실",
-        "context": "글로벌 전자상거래 시장의 치열한 경쟁과 물류 인프라 확대를 위한 대규모 투자가 쿠팡의 수익성에 영향을 미치고 있다. 장기적인 성장 동력 확보와 수익성 개선이라는 두 가지 과제를 동시에 안고 있다.",
-        "source_url": "https://www.ajunews.com/view/20260805054353466"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20falling%20graph%20line%20with%20a%20shopping%20cart%20and%20a%20red%20downward%20arrow%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17476&nologo=true"
-    },
-    {
-      "id": "economy-03",
-      "is_headline": true,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "comparison_bar",
-      "title": "AI, 개도국엔 축복, 선진국엔 도전으로 작용",
-      "subtitle": "세계은행, AI의 경제적 영향에 대한 상이한 전망 제시",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "일자리 감소↓",
-            "label": "개도국"
-          },
-          {
-            "value": "일자리 취약↑",
-            "label": "선진국"
-          },
-          {
-            "value": "수혜↑",
-            "label": "선진국"
-          }
-        ],
-        "main_number": "극과 극",
-        "main_text": "AI 영향력의 글로벌 양극화"
-      },
-      "image_prompt": "cute pastel infographic illustration of two contrasting scales, one showing growth for developing countries and the other showing challenges for developed countries, with AI symbols, no text",
-      "detail": {
-        "summary": "세계은행(WB)은 인공지능(AI)이 개발도상국 경제에는 일자리 감소보다 더 큰 혜택을 줄 것이라고 전망했다. 반면 고소득 경제에서는 3분의 1이 넘는 일자리가 AI 자동화에 취약할 것이라고 덧붙였다.",
-        "points": [
-          "세계은행, AI의 글로벌 경제 영향 분석 발표",
-          "개발도상국에는 일자리 감소보다 더 큰 혜택 예상",
-          "고소득 경제에서는 3분의 1 이상 일자리가 AI 자동화에 취약",
-          "AI가 가져올 경제적 기회와 도전 과제에 대한 대비 필요"
-        ],
-        "quote": "이와 달리 고소득 경제에서는 3분의 1이 넘는 일자리가 AI 자동화에 취약하다.",
-        "context": "AI 기술의 발전은 전 세계 산업 구조와 노동 시장에 혁명적인 변화를 가져오고 있다. 이 보고서는 각국의 경제 발전 단계에 따라 AI의 영향이 다르게 나타날 수 있음을 시사한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/014/0005557293?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20contrasting%20scales%2C%20one%20showing%20growth%20for%20developing%20countries%20and%20the%20other%20showing%20challenges%20for%20developed%20countries%2C%20with%20AI%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24239&nologo=true"
-    },
-    {
-      "id": "tech-01",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "인도, 전자 제조 세제 혜택 2041년까지 연장",
-      "subtitle": "애플·구글 등 글로벌 IT 거물 유치 위한 장기 전략",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2041년",
-            "label": "혜택 종료"
-          },
-          {
-            "value": "15년+",
-            "label": "연장 기간"
-          },
-          {
-            "value": "애플, 구글",
-            "label": "주요 수혜"
-          }
-        ],
-        "main_number": "글로벌 허브",
-        "main_text": "인도, IT 제조 강국 도약 목표"
-      },
-      "image_prompt": "cute pastel infographic illustration of a timeline showing extended tax benefits with technology icons and country map of India, no text",
-      "detail": {
-        "summary": "인도 정부가 휴대전화, 노트북 등 IT 기기 생산 설비 및 부품 제조업체를 대상으로 한 법인세 감면 및 관세 인하 조치를 2041년까지 연장한다. 이는 애플, 구글 등 글로벌 IT 기업의 현지 투자를 적극 유도하여 글로벌 공급망 재편 속에서 자국을 IT 제조 허브로 육성하려는 전략이다.",
-        "points": [
-          "인도 정부, 전자 제조 세제 혜택 2041년까지 연장 발표",
-          "휴대전화, 노트북 등 IT 기기 생산 설비 및 부품 제조업체 대상",
-          "법인세 감면 및 관세 인하 조치 포함",
-          "애플, 구글 등 글로벌 IT 기업의 현지 투자 적극 유도 목적"
-        ],
-        "quote": "인도 정부는 휴대전화, 노트북, 서버 등 주요 IT 기기 생산 설비 및 관련 부품 제조업체를 대상으로 한 법인세 감면과 관세 인하 조치를 향후 15년 이상 연장한다.",
-        "context": "미중 기술 갈등과 팬데믹 이후 글로벌 공급망 재편이 가속화되면서, 많은 국가들이 자국을 첨단 제조업의 허브로 만들기 위해 파격적인 인센티브를 제공하고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=202608050014329560c8c1c064d_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20timeline%20showing%20extended%20tax%20benefits%20with%20technology%20icons%20and%20country%20map%20of%20India%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9403&nologo=true"
-    },
-    {
-      "id": "tech-02",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "line_chart",
-      "title": "스페이스X, IPO 후 AI 투자 급증",
-      "subtitle": "우주 AI 데이터센터 및 화성 로켓 개발에 집중 투자",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "IPO 후",
-            "label": "변화 시점"
-          },
-          {
-            "value": "AI 데이터",
-            "label": "주요 프로젝트"
-          },
-          {
-            "value": "화성 로켓",
-            "label": "주요 프로젝트"
-          }
-        ],
-        "main_number": "▲ 급증",
-        "main_text": "AI 지출 대폭 확대"
-      },
-      "image_prompt": "cute pastel infographic illustration of a rocket launching with AI brain symbols and upward trend lines, no text",
-      "detail": {
-        "summary": "스페이스X가 IPO 이후 AI 관련 지출을 대폭 늘리고 있다. 우주에 AI 데이터센터를 구축하고 화성에 도달할 수 있는 로켓을 개발하는 등 야심찬 목표 달성을 위해 AI 기술 투자를 확대하는 모습이다.",
-        "points": [
-          "스페이스X, 상장(IPO) 후 AI 투자 급증 발표",
-          "2분기 실적 발표에서 AI 지출 확대 확인",
-          "우주 AI 데이터센터 구축 목표",
-          "화성 도달 로켓 개발에 AI 기술 적용"
-        ],
-        "quote": "SpaceX showed just how much it is willing to spend to achieve its ambitious ideas, such as launching A.I. data centers into space and building a rocket powerful enough to reach Mars.",
-        "context": "우주 탐사 및 위성 인터넷 사업을 선도하는 스페이스X가 AI 기술을 접목하여 혁신적인 프로젝트들을 추진하며 미래 기술 경쟁력을 강화하고 있다. AI는 단순한 소프트웨어를 넘어 하드웨어와 결합하여 새로운 가치를 창출하고 있다.",
-        "source_url": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html?partner=naver"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rocket%20launching%20with%20AI%20brain%20symbols%20and%20upward%20trend%20lines%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82121&nologo=true"
-    },
-    {
-      "id": "tech-03",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "pie_chart",
-      "title": "중국 CXMT, 정부 지원으로 39조 원 투자",
-      "subtitle": "자국 반도체 자급률 강화 및 대규모 IT 생태계 구축",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "39조 원",
-            "label": "투자 규모"
-          },
-          {
-            "value": "중국 정부",
-            "label": "주요 지원"
-          },
-          {
-            "value": "알리바바 외",
-            "label": "수요처"
-          }
-        ],
-        "main_number": "국가 역량",
-        "main_text": "반도체 굴기 지속"
-      },
-      "image_prompt": "cute pastel infographic illustration of a large sum of money being invested into a semiconductor chip factory, with Chinese flag elements, no text",
-      "detail": {
-        "summary": "중국 정부가 자국 반도체 기업 CXMT에 39조 원을 쏟아부으며 '돈 못 벌어도 일단 고'라는 기조로 투자를 이어가고 있다. 이는 국가 주도형 산업기술 체계인 '레드테크'의 일환으로, 안정적인 수요처 확보와 함께 반도체 자급률을 강화하려는 전략이다.",
-        "points": [
-          "중국 CXMT, 정부 지원으로 39조 원 대규모 투자",
-          "반도체 자급률 강화를 위한 '레드테크' 전략",
-          "알리바바, 바이트댄스 등 중국 대형 IT 기업이 안정적인 수요처",
-          "수익성보다 국가 전략적 중요성을 우선시하는 투자"
-        ],
-        "quote": "중국 내 거대한 IT 생태계도 CXMT 성장의 기반이다. 알리바바클라우드와 바이트댄스, 텐센트, 레노버, 샤오미 등 대형 '레드테크' 기업들이 안정적인 수요처 역할을 하고 있다.",
-        "context": "미중 기술 패권 경쟁이 심화되면서 중국은 핵심 기술 분야인 반도체 자립을 위해 막대한 국가 자원을 동원하고 있다. 이는 글로벌 반도체 시장의 지형을 변화시킬 중요한 요인으로 작용할 전망이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005395705?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20large%20sum%20of%20money%20being%20invested%20into%20a%20semiconductor%20chip%20factory%2C%20with%20Chinese%20flag%20elements%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59533&nologo=true"
-    },
-    {
-      "id": "society-01",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "heatmap",
-      "title": "서울, 폭염 취약성 지역별 큰 차이",
-      "subtitle": "환경·사회적 요인 복합 작용, 무더위 쉼터 사각지대 존재",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "환경 위험",
-            "label": "주요 요인 1"
-          },
-          {
-            "value": "사회 취약성",
-            "label": "주요 요인 2"
-          },
-          {
-            "value": "인프라 부족",
-            "label": "주요 요인 3"
-          }
-        ],
-        "main_number": "지역 불균형",
-        "main_text": "폭염 대응 인프라 격차 심화"
-      },
-      "image_prompt": "cute pastel infographic illustration of a city map of Seoul with heat-sensitive areas highlighted and gaps in shaded areas, no text",
-      "detail": {
-        "summary": "서울시의 폭염 취약성 지도를 분석한 결과, 지역별로 뚜렷한 공간적 차이가 확인되었다. 환경적 위험, 사회적 취약성, 대응 인프라 접근성 등 복합적인 요인이 작용하며 무더위 쉼터 사각지대가 발생하고 있다.",
-        "points": [
-          "서울시 폭염 취약성, 지역별 뚜렷한 공간적 차이",
-          "환경적 위험, 사회적 취약성, 대응 인프라 접근성 복합 작용",
-          "무더위 쉼터 및 폭염 대응 인프라 사각지대 존재",
-          "도시 폭염 문제 해결 위한 종합적이고 지역 맞춤형 정책 필요"
-        ],
-        "quote": "서울시의 종합 폭염 취약성은 지역별로 뚜렷한 공간적 차이를 보인다.",
-        "context": "기후 변화로 인한 폭염은 도시 취약 계층의 건강과 안전을 위협하는 심각한 사회 문제이다. 효율적인 폭염 대응을 위해서는 취약 지역을 정확히 파악하고 맞춤형 대책을 마련하는 것이 중요하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016233959?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20city%20map%20of%20Seoul%20with%20heat-sensitive%20areas%20highlighted%20and%20gaps%20in%20shaded%20areas%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59461&nologo=true"
-    },
-    {
-      "id": "society-02",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "하반기 경찰 수사 인력 880명 보강",
-      "subtitle": "형소법 개정 이후 사건 급증에 선제적 대응",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "880명",
-            "label": "증원 인력"
-          },
-          {
-            "value": "하반기",
-            "label": "시점"
-          },
-          {
-            "value": "형소법 개정",
-            "label": "배경"
-          }
-        ],
-        "main_number": "+880명",
-        "main_text": "수사 인력 대폭 확충"
-      },
-      "image_prompt": "cute pastel infographic illustration of a growing bar chart representing police personnel, with legal scales and crime scene tape, no text",
-      "detail": {
-        "summary": "경찰청이 하반기 수사 인력 880명을 보강한다. 형사소송법 개정으로 인한 경찰 수사권 확대와 사건 급증에 대비하고, 사회적 약자 대상 사건 처리의 완결성을 높이기 위한 조치다.",
-        "points": [
-          "경찰, 하반기 수사 인력 880명 추가 배치 예정",
-          "형사소송법 개정으로 인한 경찰 수사권 확대 및 사건 급증에 대응",
-          "사회적 약자 대상 사건 처리 완결성 강화 목적",
-          "인력 보강 외에도 예산 확보 및 제도 개선 병행"
-        ],
-        "quote": "수사 인력과 예산을 빈틈없이 보강하겠다.",
-        "context": "검경 수사권 조정 이후 경찰의 수사 부담이 가중되고 있다. 변화된 환경에 맞춰 수사 역량을 강화하고 국민들에게 양질의 사법 서비스를 제공하기 위한 노력이 필요하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016233960?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20growing%20bar%20chart%20representing%20police%20personnel%2C%20with%20legal%20scales%20and%20crime%20scene%20tape%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93577&nologo=true"
-    },
-    {
-      "id": "society-03",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "process_flow",
-      "title": "국립희귀질환센터 설립 청원, 국가 컨트롤타워 요구",
-      "subtitle": "서울대병원, 희귀질환 진료 및 연구 역량 집대성 필요성 강조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "서울대병원",
-            "label": "제안 기관"
-          },
-          {
-            "value": "희귀질환",
-            "label": "대상"
-          },
-          {
-            "value": "컨트롤타워",
-            "label": "주요 역할"
-          }
-        ],
-        "main_number": "필요성 증대",
-        "main_text": "희귀질환 국가적 관리 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration of a medical center building with gears and a network connecting research and patient care, no text",
-      "detail": {
-        "summary": "서울대병원이 국가중앙병원으로서 희귀질환 임상데이터를 집대성하고 표준 진료 가이드라인을 개발할 '국립희귀질환센터' 설립을 청원했다. 고도의 유전학적 분석과 다학제 접근이 필요한 희귀질환 특성상 국가 차원의 컨트롤타워가 필요하다는 주장이다.",
-        "points": [
-          "서울대병원, '국립희귀질환센터' 설립 청원",
-          "희귀질환 임상데이터 집대성 및 표준 진료 가이드라인 개발 목표",
-          "고도의 유전학적 분석과 다학제 접근 필요성 강조",
-          "국가 차원의 컨트롤타워 역할 수행 요청"
-        ],
-        "quote": "서울대병원이 국가중앙병원으로서 희귀질환 임상데이터를 집대성하고 표준 진료 가이드라인을 개발할 최적의 역량을 갖췄다.",
-        "context": "희귀질환은 진단과 치료가 어렵고 환자 수가 적어 연구와 의료 자원 투자가 부족한 경우가 많다. 효과적인 관리를 위해서는 국가적 차원의 체계적인 시스템 구축이 필수적이다.",
-        "source_url": "https://www.monews.co.kr/news/articleView.html?idxno=413045"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20medical%20center%20building%20with%20gears%20and%20a%20network%20connecting%20research%20and%20patient%20care%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98970&nologo=true"
-    },
-    {
-      "id": "life-01",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
+      "category": "world",
+      "category_label": "🌍 국제",
       "viz_type": "map_chart",
-      "title": "금산, 역대 최대 32개국 2천여 명 국제태권도 축제 개최",
-      "subtitle": "겨루기·품새 경쟁 넘어선 글로벌 태권도 교류의 장",
+      "title": "아프리카 백신 공급, 특정 제조사 의존도↓",
+      "subtitle": "유바이오로직스 EuNmCV-5, 아프리카 백신 공급 다변화의 새 후보로 부상",
       "viz_data": {
         "stats": [
           {
-            "value": "32개국",
-            "label": "참가국"
+            "value": "WHO 사전적격성평가",
+            "label": "2023년 통과"
           },
           {
-            "value": "2천여 명",
-            "label": "참가자"
+            "value": "5개 혈청군",
+            "label": "대상"
           },
           {
-            "value": "금산",
-            "label": "개최지"
+            "value": "아프리카",
+            "label": "주요 공급처"
           }
         ],
-        "main_number": "글로벌 축제",
-        "main_text": "태권도로 하나되는 세계"
+        "main_number": "↑ 공급 다변화",
+        "main_text": "특정 백신 공급 의존도 감소로 물류·경제적 취약성 해소"
       },
-      "image_prompt": "cute pastel infographic illustration of a world map with pins on various countries converging on a point in Korea, symbolizing a Taekwondo festival, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a map of Africa with multiple arrows pointing to different countries, symbolizing diversified vaccine supply, a syringe icon, a protective shield icon",
       "detail": {
-        "summary": "충남 금산에서 오는 6일부터 10일까지 32개국 2천여 명이 참여하는 '역대 최대' 규모의 국제태권도 축제가 열린다. 겨루기와 품새 경쟁뿐만 아니라 태권도 교류와 문화 축제를 함께 즐길 수 있는 글로벌 스포츠 행사로 진행될 예정이다.",
+        "summary": "유바이오로직스의 5가 백신 후보 'EuNmCV-5'가 아프리카 지역의 백신 공급 다변화를 위한 중요한 대안으로 주목받고 있다. 특정 제조사에 대한 높은 의존도를 줄여 물류 및 경제적 취약성을 해소하는 데 기여할 것으로 기대된다.",
         "points": [
-          "충남 금산에서 6~10일 국제태권도 축제 개최",
-          "32개국 2천여 명 참가, 역대 최대 규모",
-          "겨루기, 품새 등 경쟁과 태권도 교류, 문화 축제 병행",
-          "개막식에 국내외 태권도 관계자 및 각국 대표단 참석"
+          "유바이오로직스 EuNmCV-5, 5개 혈청군 대상",
+          "2023년 WHO 사전적격성평가 통과 이력 (MenFive 백신)",
+          "특정 제조사 의존도 감소로 백신 접근성 향상",
+          "물류 및 경제적 취약성 해소에 기여"
         ],
-        "quote": "역대 가장 많은 국가가 참가하는 세계적인 태권도 축제가 될 것",
-        "context": "태권도는 한국의 대표적인 전통 무술이자 세계적인 스포츠로 자리매김했다. 이러한 국제 행사는 태권도의 위상을 높이고, 참가국 간의 문화 교류를 증진하는 중요한 역할을 한다.",
-        "source_url": "https://www.tournews21.com/news/articleView.html?idxno=140192"
+        "quote": "특정 제조사와 공급자에 대한 의존도가 높아질 경우 백신 도입 국가들이 물류·경제적 취약성에 노출될 수 있다는 설명이다.",
+        "context": "아프리카 대륙은 수막염 등 여러 감염병에 취약하지만, 백신 공급망이 불안정하고 특정 소수 제조사에 대한 의존도가 높아 안정적인 백신 확보에 어려움을 겪어왔다. 새로운 백신 공급자의 등장은 이러한 문제 해결에 긍정적인 영향을 미칠 것이다.",
+        "source_url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=68977"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20world%20map%20with%20pins%20on%20various%20countries%20converging%20on%20a%20point%20in%20Korea%2C%20symbolizing%20a%20Taekwondo%20festival%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=14859&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20map%20of%20Africa%20with%20multiple%20arrows%20pointing%20to%20different%20countries%2C%20symbolizing%20diversified%20vaccine%20supply%2C%20a%20syringe%20icon%2C%20a%20protective%20shield%20icon%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58808&nologo=true"
     },
     {
-      "id": "life-02",
+      "id": "economy-1",
       "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_bar_chart",
+      "title": "스페이스X, 매출 92% 급증에도 주가 8% 하락",
+      "subtitle": "AI 투자 지출 급증이 수익성 우려로 이어져",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+92%",
+            "label": "분기 매출 증가"
+          },
+          {
+            "value": "-8%",
+            "label": "시간외 주가 하락"
+          },
+          {
+            "value": "$25.6억",
+            "label": "AI 부문 매출"
+          }
+        ],
+        "main_number": "↑ 매출, ↓ 주가",
+        "main_text": "매출 성장에도 불구하고 AI 투자로 인한 수익성 압박"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a rocket launching upwards with a positive growth chart, but a downward arrow on a stock market graph, symbolizing conflicting financial signals",
+      "detail": {
+        "summary": "스페이스X가 첫 실적 발표에서 분기 매출 11조 원을 기록하며 전년 대비 92% 증가했으나, AI 사업 투자에 따른 자본 지출 급증으로 시간외거래에서 주가가 8% 하락했다.",
+        "points": [
+          "분기 매출 11조 원, 전년 대비 92% 증가",
+          "AI 사업 투자에 따른 자본 지출 급증",
+          "시간외거래 주가 8% 하락",
+          "우주 부문은 5억 4200만 달러 영업손실 기록"
+        ],
+        "quote": "인공지능(AI) 사업 투자에 따른 자본 지출도 급증한 것으로 확인되면서 시간외거래에서 주가는 8% 하락했다고 미 경제매체 CNBC 방송은 전했다.",
+        "context": "스페이스X는 위성 인터넷 '스타링크'와 AI 모델 '그록' 등을 포함한 여러 사업 부문에서 성장세를 보이고 있다. 그러나 혁신 기술 개발을 위한 막대한 투자 비용은 단기적인 수익성에는 부담으로 작용하여 투자자들의 우려를 사고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/029/0003040719?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20rocket%20launching%20upwards%20with%20a%20positive%20growth%20chart%2C%20but%20a%20downward%20arrow%20on%20a%20stock%20market%20graph%2C%20symbolizing%20conflicting%20financial%20signals%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92115&nologo=true"
+    },
+    {
+      "id": "economy-2",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart_comparison",
+      "title": "부동산 거래세 부담, OECD 권고에도 '그대로'",
+      "subtitle": "한국의 부동산 세제 개편, 거래세 낮추고 보유세 비중 높이라는 권고 외면",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "OECD",
+            "label": "권고 기관"
+          },
+          {
+            "value": "거래세↓ 보유세↑",
+            "label": "권고 내용"
+          },
+          {
+            "value": "세수 중립",
+            "label": "전환 목적"
+          }
+        ],
+        "main_number": "↔ 매물 잠김",
+        "main_text": "거래 문턱이 낮아지지 않아 매물 잠김 현상 심화 우려"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a house icon with a 'for sale' sign, but a large padlock on it, and two different sized money bag icons representing transaction tax and holding tax, in a balanced scale",
+      "detail": {
+        "summary": "정부가 부동산 세제를 손질했음에도 불구하고, OECD가 권고한 '거래세 부담을 낮추고 보유세 비중을 높이는' 방향과는 달리 거래 문턱은 그대로 유지되어 매물 잠김 현상이 심화될 것이라는 우려가 제기된다.",
+        "points": [
+          "OECD, 한국에 '거래세↓ 보유세↑' 세수 중립적 전환 권고",
+          "이번 개편, 보유세 강화 및 한시적 양도세 완화",
+          "거래세 부담은 여전하여 매물 잠김 심화 우려",
+          "주거 이동성 저해 및 시장 왜곡 가능성"
+        ],
+        "quote": "지난달 경제협력개발기구(OECD)는 한국에 부동산 거래세 부담을 낮추고 보유세 비중을 높이는 세수 중립적 전환을 통해 주거 이동성을 높이라고 권고했다.",
+        "context": "한국의 높은 부동산 거래세는 주택 매매를 어렵게 하여 시장의 유동성을 떨어뜨리고 '매물 잠김' 현상을 유발하는 요인으로 지목되어 왔다. OECD 역시 이러한 문제를 지적하며 정책 변화를 권고했지만, 실제 개편안에서는 반영되지 않아 논란이 예상된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004648634?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20house%20icon%20with%20a%20%27for%20sale%27%20sign%2C%20but%20a%20large%20padlock%20on%20it%2C%20and%20two%20different%20sized%20money%20bag%20icons%20representing%20transaction%20tax%20and%20holding%20tax%2C%20in%20a%20balanced%20scale%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48654&nologo=true"
+    },
+    {
+      "id": "economy-3",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart_impact",
+      "title": "농어촌 기본소득, 소멸 위기 지역에 활력",
+      "subtitle": "인구 감소 지역에 기본소득 지급으로 지역 경제 선순환 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "인구 소멸 위기",
+            "label": "대상 지역"
+          },
+          {
+            "value": "지역 경제",
+            "label": "활성화"
+          },
+          {
+            "value": "주민 삶의 질",
+            "label": "향상"
+          }
+        ],
+        "main_number": "↑ 지역 활력",
+        "main_text": "기본소득이 지역 경제 선순환과 사회적경제 활성화 기여"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a thriving rural village with smiling people, surrounded by fresh produce and small businesses, money flowing in a circular arrow, symbolizing basic income and economic circulation",
+      "detail": {
+        "summary": "인구 소멸 위기에 놓인 농어촌 지역에 '농어촌 기본소득' 시범사업이 시행되어 지역 경제 활성화와 주민 삶의 질 향상에 긍정적인 영향을 미치고 있다. 지역 화폐와 연계하여 사회적경제 조직의 참여도 확대되고 있다.",
+        "points": [
+          "인구 소멸 위기 지역에 기본소득 지급",
+          "지역 화폐를 통한 지역 경제 선순환 유도",
+          "사회연대경제 활성화 및 주민 삶의 질 향상",
+          "농산물, 서비스 등 다양한 분야로 연계 확대"
+        ],
+        "quote": "농어촌 기본소득 시범사업은 인구 소멸 위기에 놓인 지역의 주민에게 기본소득을 지급해 지역 경제 선순환, 사회연대경제 활성화 등을 통해 주민 삶의 질을 향상하고 지역균형발전을... ",
+        "context": "고령화와 인구 유출로 심각한 소멸 위기에 직면한 농어촌 지역의 지속가능성을 높이기 위해 '농어촌 기본소득' 모델이 도입되었다. 이는 단순히 소득을 보전하는 것을 넘어, 지역 내 소비를 촉진하고 사회적경제 생태계를 구축하여 지역 공동체 활력을 되찾는 데 초점을 맞추고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/308/0000038593?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20thriving%20rural%20village%20with%20smiling%20people%2C%20surrounded%20by%20fresh%20produce%20and%20small%20businesses%2C%20money%20flowing%20in%20a%20circular%20arrow%2C%20symbolizing%20basic%20income%20and%20economic%20circulation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87125&nologo=true"
+    },
+    {
+      "id": "tech-1",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
       "viz_type": "line_chart",
-      "title": "GLP-1 치료제 시장 급성장, 경구용 출시로 새 국면",
-      "subtitle": "비만 치료 목적의 경구용 위고비 등 시장 확대 가속화",
+      "title": "치솟는 메모리값, 애플·삼성 부담 가중",
+      "subtitle": "IT 업계 전반에 걸쳐 메모리 반도체 가격 상승의 여파 확산",
       "viz_data": {
         "stats": [
           {
-            "value": "2019년",
-            "label": "경구용 첫 출시"
+            "value": "↑ 메모리값",
+            "label": "가격 동향"
           },
           {
-            "value": "2026년 1월",
-            "label": "비만 치료제 출시"
+            "value": "스마트폰",
+            "label": "주요 영향"
           },
           {
-            "value": "남은 과제",
-            "label": "시장 성장"
+            "value": "PC/서버",
+            "label": "주요 영향"
           }
         ],
-        "main_number": "시장 폭발",
-        "main_text": "비만 치료 패러다임 변화"
+        "main_number": "+20%",
+        "main_text": "메모리 반도체 가격 평균 20% 이상 상승 (가정치)"
       },
-      "image_prompt": "cute pastel infographic illustration of a growing line chart with medicine bottles and a person silhouette, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a graph showing an upward trend of memory chip prices, with a smartphone and a laptop icon showing distress, symbolizing increased cost burden",
       "detail": {
-        "summary": "GLP-1 수용체 작용제 시장이 급성장하고 있으며, 2019년 경구용 '리벨서스'와 2026년 비만 치료 목적의 경구용 '위고비' 출시로 시장 확대가 가속화되고 있다. 하지만 성장하는 시장만큼 남은 과제도 많다.",
+        "summary": "메모리 반도체 가격이 급등하면서 애플, 삼성 등 주요 IT 기업들의 생산 비용 부담이 가중되고 있다. 이는 스마트폰, PC 등 다양한 IT 기기의 소비자 가격에도 영향을 미칠 수 있다.",
         "points": [
-          "GLP-1 수용체 작용제 시장 급성장 추세",
-          "2019년 세계 최초 경구용 GLP-1 치료제 '리벨서스' 출시",
-          "2026년 비만 치료 목적 경구용 '위고비' 출시",
-          "성장하는 시장과 함께 부작용, 접근성 등 남은 과제 존재"
+          "메모리 반도체 가격 지속 상승",
+          "애플, 삼성 등 대형 IT 기업의 원가 부담 증가",
+          "AI 및 데이터 센터 수요 증가가 주원인",
+          "스마트폰, PC 등 최종 제품 가격 상승 가능성"
         ],
-        "quote": "GLP-1 치료제, 성장하는 시장과 남은 과제",
-        "context": "비만은 현대 사회의 주요 건강 문제 중 하나로, GLP-1 치료제는 체중 감량에 효과를 보여 전 세계적으로 큰 주목을 받고 있다. 이는 사람들의 건강과 라이프스타일에 중대한 변화를 가져올 잠재력을 지니고 있다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539739"
+        "quote": "이제 IT를 알아야 시대를 읽을 수 있습니다. [오현승의 IT 스토리]가 세상을 움직이는 기술의 흐름, 그 중심에서 꼭 필요한 이야기만 골라 전합니다.",
+        "context": "인공지능(AI) 기술 발전과 데이터 센터 확대로 고성능 메모리 반도체 수요가 폭발적으로 증가하고 있다. 하지만 제한적인 공급과 생산 능력으로 인해 메모리 가격이 치솟고 있으며, 이는 전 세계 IT 산업 전반에 걸쳐 비용 상승 압박으로 작용하고 있다.",
+        "source_url": "http://www.segyebiz.com/newsView/20260804521763?OutUrl=naver"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20growing%20line%20chart%20with%20medicine%20bottles%20and%20a%20person%20silhouette%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20graph%20showing%20an%20upward%20trend%20of%20memory%20chip%20prices%2C%20with%20a%20smartphone%20and%20a%20laptop%20icon%20showing%20distress%2C%20symbolizing%20increased%20cost%20burden%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=47082&nologo=true"
     },
     {
-      "id": "life-03",
+      "id": "tech-2",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart_comparison",
+      "title": "북한, '해킹' 넘어 '사이버전' 강조하는 이유",
+      "subtitle": "암호화폐 탈취에서 국가 안보 위협으로 변화하는 북한의 사이버 활동",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "암호화폐 탈취",
+            "label": "과거 초점"
+          },
+          {
+            "value": "사이버전",
+            "label": "현재 강조"
+          },
+          {
+            "value": "외화벌이",
+            "label": "핵심 동기"
+          }
+        ],
+        "main_number": "↑ 위협 수준",
+        "main_text": "단순 해킹에서 국가 단위의 전략적 사이버전으로 발전"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, two computer screens, one showing a money bag with a lock and key, the other showing a global map with military icons, representing a shift from financial hacking to strategic cyber warfare",
+      "detail": {
+        "summary": "북한이 과거 주로 암호화폐 탈취 등 외화벌이 목적의 '해킹'에 초점을 맞추던 것에서, 이제는 국가 안보와 연계된 '사이버전'을 강조하며 사이버 활동의 위협 수준을 높이고 있다.",
+        "points": [
+          "미국-다국적제재감시팀, 북한 암호화폐 탈취 및 IT 노동자 경고",
+          "북한 외무성, '해킹' 아닌 '사이버전' 표현 사용",
+          "외화벌이 목적에서 전략적 국가 안보 위협으로 진화",
+          "국제사회 대북 제재 회피 수단으로 악용"
+        ],
+        "quote": "한국 사회는 북한 해킹을 주로 암호화폐 탈취, 금융 범죄, IT 노동자 문제로 본다. 제재 하에서 외화를... ",
+        "context": "북한은 국제사회의 강력한 경제 제재 속에서 사이버 활동을 주요 외화벌이 및 대남·대미 전략 수단으로 활용해 왔다. 최근 북한 당국이 '사이버전'이라는 용어를 공개적으로 사용하기 시작한 것은, 단순한 범죄 행위를 넘어 국가적 차원에서 사이버 역량을 강화하고 있음을 시사한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/119/0003118204?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20two%20computer%20screens%2C%20one%20showing%20a%20money%20bag%20with%20a%20lock%20and%20key%2C%20the%20other%20showing%20a%20global%20map%20with%20military%20icons%2C%20representing%20a%20shift%20from%20financial%20hacking%20to%20strategic%20cyber%20warfare%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93654&nologo=true"
+    },
+    {
+      "id": "tech-3",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart_growth",
+      "title": "우간다 청년 개발 AI 노트, 100개국 사용",
+      "subtitle": "아프리카 발 혁신 기술, 전 세계 교육 현장에 보급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100개국",
+            "label": "사용 국가"
+          },
+          {
+            "value": "20+ 언어",
+            "label": "지원 언어"
+          },
+          {
+            "value": "AI 노트",
+            "label": "핵심 기술"
+          }
+        ],
+        "main_number": "↑ 글로벌 확산",
+        "main_text": "아프리카 청년의 AI 기술이 전 세계 교육 현장에 긍정적 영향"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a stylized globe with various flags, connected by lines to a glowing AI notebook icon, symbolizing global reach and technological innovation",
+      "detail": {
+        "summary": "우간다 출신 청년이 개발한 AI 기반 노트 앱이 전 세계 100개국 이상에서 사용되며 교육 혁신에 기여하고 있다. 이 앱은 강의 영상에서 자동으로 핵심 내용을 요약하고 20개 이상의 언어로 번역을 지원한다.",
+        "points": [
+          "우간다 청년 개발 AI 노트 앱",
+          "강의 영상 자동 요약 및 20개 이상 언어 번역 지원",
+          "전 세계 100개국 이상에서 사용",
+          "서울 IT 기업 개발자 경력 바탕"
+        ],
+        "quote": "It is designed to work with videos on any website and can generate structured study notes in more than 20 major...",
+        "context": "아프리카의 젊은 인재들이 IT 분야에서 두각을 나타내며 글로벌 혁신에 기여하고 있다. 특히 교육 접근성이 중요한 개발도상국에서 AI 기술을 활용한 학습 도구는 지식 격차 해소와 학습 효율 증진에 큰 역할을 할 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016234014?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20stylized%20globe%20with%20various%20flags%2C%20connected%20by%20lines%20to%20a%20glowing%20AI%20notebook%20icon%2C%20symbolizing%20global%20reach%20and%20technological%20innovation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10801&nologo=true"
+    },
+    {
+      "id": "society-1",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map_chart",
+      "title": "거동 불편 어르신 위한 '이동 세탁 차량'",
+      "subtitle": "지역사회 복지 자원 활용, 취약계층의 삶의 질 향상 기여",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "거동 불편",
+            "label": "주요 대상"
+          },
+          {
+            "value": "지역 자원 연계",
+            "label": "운영 방식"
+          },
+          {
+            "value": "이불 세탁·건조",
+            "label": "핵심 서비스"
+          }
+        ],
+        "main_number": "↑ 복지 접근성",
+        "main_text": "세탁 지원과 함께 추가 돌봄 및 복지 연계 서비스 제공"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a cheerful mobile laundry truck driving through a neighborhood, with smiling elderly people receiving clean blankets, symbolizing community support",
+      "detail": {
+        "summary": "성민재가노인복지센터가 이동 세탁 차량을 활용하여 거동이 불편하거나 경제적으로 어려운 어르신들에게 이불 세탁 및 건조 서비스를 제공하고 있다. 추가적인 돌봄이나 복지 지원이 필요한 주민에게는 관련 기관을 연계한다.",
+        "points": [
+          "거동 불편/경제적 취약계층 대상 이불 세탁 지원",
+          "사단법인 성민원의 이동 세탁 차량 활용",
+          "세탁 지원 외 추가 돌봄·복지 서비스 연계",
+          "지역사회 복지 자원 활용 및 공공성 강화"
+        ],
+        "quote": "거동이 불편하거나 경제적으로 어려운 분들에게는 이불 한 채를 세탁하는 일도 큰 부담이 될 수 있다",
+        "context": "고령화 사회에서 거동이 불편하거나 경제적 어려움으로 기본적인 위생 관리에 어려움을 겪는 어르신들이 많다. 이러한 이동 세탁 서비스는 단순한 세탁 지원을 넘어 지역사회 돌봄 시스템의 중요한 한 축으로서 취약계층의 삶의 질을 실질적으로 개선하는 데 기여한다.",
+        "source_url": "http://www.mediagunpo.co.kr/21696"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20cheerful%20mobile%20laundry%20truck%20driving%20through%20a%20neighborhood%2C%20with%20smiling%20elderly%20people%20receiving%20clean%20blankets%2C%20symbolizing%20community%20support%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9804&nologo=true"
+    },
+    {
+      "id": "society-2",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart_participation",
+      "title": "'에너지의 날' 시민 참여형 탄소중립 실천",
+      "subtitle": "강원대학교 탄소중립지원센터, SNS 챌린지로 에너지 절약 문화 확산",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "에너지의 날",
+            "label": "행사 기간"
+          },
+          {
+            "value": "SNS 공유",
+            "label": "참여 방식"
+          },
+          {
+            "value": "탄소중립",
+            "label": "핵심 목표"
+          }
+        ],
+        "main_number": "↑ 실천율",
+        "main_text": "시민 스스로 에너지 절약 목표 설정 및 공유로 지속 가능한 문화 형성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a lightbulb turning off, surrounded by people holding smartphones, sharing energy-saving tips on social media, with a green leaf icon and globe in the background",
+      "detail": {
+        "summary": "강원대학교 춘천시 탄소중립지원센터가 '에너지의 날'을 맞아 시민 참여형 '에너지 절약 톡톡 챌린지'를 개최한다. 참가자들이 스스로 에너지 절약 목표를 설정하고 SNS에 공유하며 탄소중립 실천 문화를 확산한다.",
+        "points": [
+          "시민 참여형 '에너지 절약 톡톡 챌린지'",
+          "개인별 에너지 절약 목표 설정 및 SNS 공유",
+          "취약계층 참여 확대 및 지역사회 공감대 형성",
+          "강원대학교 춘천시 탄소중립지원센터 주관"
+        ],
+        "quote": "참가자들은 각자의 생활환경에 맞는 에너지 절약 목표를 직접 설정한 뒤 실천 과정을 사회관계망서비스(SNS)에 공유하며 서로의 활동을 응원하고 지속적인 실천 문화를 만들어갈 예정이다.",
+        "context": "기후변화 대응과 탄소중립 실현은 정부와 기업뿐만 아니라 시민 개개인의 참여가 필수적이다. 이러한 시민 참여형 캠페인은 에너지 절약에 대한 인식을 높이고, 지속 가능한 생활 습관을 장려하며, 지역사회 전체의 탄소중립 목표 달성에 중요한 동력이 된다.",
+        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=207632"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20lightbulb%20turning%20off%2C%20surrounded%20by%20people%20holding%20smartphones%2C%20sharing%20energy-saving%20tips%20on%20social%20media%2C%20with%20a%20green%20leaf%20icon%20and%20globe%20in%20the%20background%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=97516&nologo=true"
+    },
+    {
+      "id": "society-3",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart_comparison",
+      "title": "뇌졸중 초기 재활교육, 우울감↓ 삶의 질↑",
+      "subtitle": "질병관리청 연구, 재활 교육이 환자 회복 및 사회 복귀에 긍정적 영향 입증",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "65.7%",
+            "label": "교육군 직장 복귀율"
+          },
+          {
+            "value": "48.2%",
+            "label": "대조군 직장 복귀율"
+          },
+          {
+            "value": "↑ 삶의 질",
+            "label": "주요 효과"
+          }
+        ],
+        "main_number": "+17.5%",
+        "main_text": "교육군이 대조군 대비 직장 복귀율 17.5%p 높아"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, two bar charts comparing recovery rates, one for a group receiving rehabilitation education and another for a control group, showing a significant positive difference in mental health and work reintegration",
+      "detail": {
+        "summary": "질병관리청 국립보건연구원 연구 결과, 뇌졸중 환자에게 초기 재활교육을 제공했을 때 우울감이 감소하고 삶의 질이 향상되며 직장 복귀율 또한 크게 높아지는 것으로 나타났다.",
+        "points": [
+          "뇌졸중 초기 재활교육의 우울감 감소 효과",
+          "교육군 환자의 삶의 질 향상",
+          "퇴원 후 3개월 직장 복귀율, 교육군이 대조군 대비 17.5%p 높아",
+          "재활치료의 효과를 극대화하는 교육의 중요성 부각"
+        ],
+        "quote": "퇴원 후 3개월 시점 직장 복귀율은 교육군이 65.7%로 집계돼 대조군의 48.2%보다 통계적으로 유의하게 높았다.",
+        "context": "뇌졸중은 높은 발병률과 함께 심각한 후유증을 남길 수 있는 질환이다. 초기 재활치료의 중요성이 강조되는 가운데, 체계적인 교육 프로그램이 환자의 신체적 회복뿐만 아니라 심리적 안정과 사회 적응 능력을 향상시키는 데 결정적인 역할을 한다는 점이 과학적으로 입증되었다.",
+        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=207784"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20two%20bar%20charts%20comparing%20recovery%20rates%2C%20one%20for%20a%20group%20receiving%20rehabilitation%20education%20and%20another%20for%20a%20control%20group%2C%20showing%20a%20significant%20positive%20difference%20in%20mental%20health%20and%20work%20reintegration%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59197&nologo=true"
+    },
+    {
+      "id": "life-1",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "pie_chart",
-      "title": "K-헤어케어 열풍, 두피관리숍 외국인 고객 80%",
-      "subtitle": "K-뷰티 영역 확대, 방한 관광객 및 해외 수요 급증",
+      "viz_type": "pie_chart_impact",
+      "title": "AI, 돌봄에 지친 가족을 돕다",
+      "subtitle": "일본 CDI, 기업용 AI 'SOIN-L' 출시… 직장인 돌봄 고민 경감",
       "viz_data": {
         "stats": [
           {
-            "value": "80%",
-            "label": "외국인 고객"
+            "value": "SOIN-L",
+            "label": "AI 이름"
           },
           {
-            "value": "K-뷰티",
-            "label": "확장 영역"
+            "value": "직원 휴직 규정",
+            "label": "제공 정보"
           },
           {
-            "value": "방한 관광",
-            "label": "수요 동력"
+            "value": "돌봄 업무",
+            "label": "주요 지원"
           }
         ],
-        "main_number": "글로벌 대세",
-        "main_text": "K-헤어케어의 부상"
+        "main_number": "↓ 돌봄 부담",
+        "main_text": "AI가 가족 돌봄으로 인한 직장인의 퇴사 고민을 덜어줌"
       },
-      "image_prompt": "cute pastel infographic illustration of diverse people with healthy hair visiting a salon, with a pie chart showing a large foreign percentage, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a friendly AI robot helping an elderly person and a worried family member, with thought bubbles showing work-life balance and caregiving, symbolizing technological support for family caregivers",
       "detail": {
-        "summary": "한국 두피관리숍 방문 고객의 80%가 외국인으로 나타났다. 스킨케어와 색조로 세계 시장을 열었던 K-뷰티의 영역이 이제 두피와 모발로 넓어지면서 방한 관광객은 물론 해외에서도 K-헤어케어 제품 수요가 급증하고 있다.",
+        "summary": "일본 CDI가 가족 돌봄으로 인한 직장인의 퇴사 고민을 덜어주는 기업용 AI 'SOIN-L'을 출시했다. 부모의 병원 진료나 일상생활 지원 등 돌봄 업무에 필요한 정보를 제공하고, 심지어 회사 휴직 규정까지 찾아준다.",
         "points": [
-          "국내 두피관리숍 방문객 중 외국인 비율 80% 달성",
-          "K-뷰티의 영역이 스킨케어, 색조에서 헤어케어로 확장",
-          "방한 관광객의 직접 경험 및 해외 K-헤어케어 제품 수요 증가",
-          "한국인의 건강한 머릿결에 대한 관심이 글로벌 트렌드로 부상"
+          "일본 CDI, 기업용 AI 'SOIN-L' 출시",
+          "가족 돌봄으로 인한 직장인의 퇴사 고민 지원",
+          "병원 진료, 일상생활 지원 등 정보 제공",
+          "회사 휴직 규정 안내 등 실질적 도움"
         ],
-        "quote": "스킨케어와 색조로 세계 시장을 연 K뷰티의 영역이 얼굴에서 두피와 모발로 넓어지면서다.",
-        "context": "한류 문화의 확산과 함께 한국의 뷰티 산업은 전 세계적으로 큰 인기를 얻고 있다. 특히 K-뷰티의 혁신적인 기술력과 독특한 트렌드가 헤어케어 분야에서도 주목받으며 새로운 시장을 창출하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006344700?sid=101"
+        "quote": "부모의 병원 진료와 일상생활을 챙기느라 직장을 그만둘지 고민하는 직원에게 회사의 휴직 규정까지 찾아줘",
+        "context": "고령화 사회에서 가족 구성원의 돌봄은 많은 직장인에게 큰 부담으로 작용하며, 경력 단절의 주요 원인이 되기도 한다. AI 기술을 활용하여 돌봄 관련 정보를 체계적으로 제공하고 행정 절차를 지원하는 것은, 개인의 삶의 질 향상뿐만 아니라 기업의 생산성 유지에도 긍정적인 영향을 미칠 수 있다.",
+        "source_url": "https://bravo.etoday.co.kr/view/atc_view/19777"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20diverse%20people%20with%20healthy%20hair%20visiting%20a%20salon%2C%20with%20a%20pie%20chart%20showing%20a%20large%20foreign%20percentage%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51485&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20friendly%20AI%20robot%20helping%20an%20elderly%20person%20and%20a%20worried%20family%20member%2C%20with%20thought%20bubbles%20showing%20work-life%20balance%20and%20caregiving%2C%20symbolizing%20technological%20support%20for%20family%20caregivers%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28421&nologo=true"
+    },
+    {
+      "id": "life-2",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart_growth",
+      "title": "'리커버리노믹스' 시대, 잘 쉬는 데 돈 아끼지 않는다",
+      "subtitle": "건강한 회복과 웰니스에 투자하는 새로운 소비 트렌드 확산",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "↑ 웰니스 소비",
+            "label": "소비 트렌드"
+          },
+          {
+            "value": "2025년",
+            "label": "침구류 거래액"
+          },
+          {
+            "value": "+51%",
+            "label": "침구류 증가율"
+          }
+        ],
+        "main_number": "↑ 회복 소비",
+        "main_text": "패션·라이프스타일 플랫폼에서 침구·매트 거래액 대폭 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a person relaxing in a serene environment, surrounded by icons representing wellness products like comfortable bedding, healthy food, and spa services, with upward trend arrows",
+      "detail": {
+        "summary": "현대인들이 '잘 쉬는 것'에 아낌없이 투자하는 '리커버리노믹스' 시대가 도래했다. 신세계백화점의 회복식 메뉴나 29CM의 침구·매트 거래액 증가 등 웰니스 라이프스타일 전반에 걸쳐 소비가 확산되고 있다.",
+        "points": [
+          "'리커버리노믹스'는 건강한 회복을 위한 투자 증가 트렌드",
+          "신세계백화점, 회복식 메뉴 강화",
+          "패션·라이프스타일 플랫폼 29CM, 침구·매트 거래액 51% 증가 (2025년 2030세대)",
+          "웰니스 상품 및 서비스 시장 성장 가속화"
+        ],
+        "quote": "패션·라이프스타일 플랫폼 29CM에 따르면, 2025년 2030세대의 침구·매트 거래액은 전년 대비 51% 증가했으며",
+        "context": "장시간 노동과 스트레스에 시달리는 현대인들에게 '휴식'과 '회복'은 단순한 여가를 넘어선 필수적인 자기 관리 영역으로 자리 잡고 있다. 이에 따라 숙면, 건강한 식단, 스트레스 해소 등 회복과 관련된 제품 및 서비스에 대한 소비 지출이 크게 늘어나고 있으며, 이는 새로운 경제 트렌드를 형성하고 있다.",
+        "source_url": "https://woman.donga.com/3/all/12/6332932/1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20person%20relaxing%20in%20a%20serene%20environment%2C%20surrounded%20by%20icons%20representing%20wellness%20products%20like%20comfortable%20bedding%2C%20healthy%20food%2C%20and%20spa%20services%2C%20with%20upward%20trend%20arrows%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93838&nologo=true"
+    },
+    {
+      "id": "life-3",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart_types",
+      "title": "폭염 보험부터 6시간 차보험까지… 맞춤형 보험 '봇물'",
+      "subtitle": "고객의 실제 라이프스타일에 맞춘 혁신적인 보험 상품 출시 경쟁",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "폭염 보장",
+            "label": "신상품 유형 1"
+          },
+          {
+            "value": "단기 차보험",
+            "label": "신상품 유형 2"
+          },
+          {
+            "value": "디지털 헬스케어 연계",
+            "label": "신상품 유형 3"
+          }
+        ],
+        "main_number": "↑ 상품 다양성",
+        "main_text": "복잡한 장기 계약에서 벗어나 고객 니즈 중심의 보험 시장 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a grid of diverse icons representing new insurance products: a sun for heatwave, a car for short-term car insurance, a smartwatch for digital healthcare, symbolizing personalized insurance solutions",
+      "detail": {
+        "summary": "보험업계가 고객의 실제 라이프스타일과 건강 상태에 맞춰 '폭염 보장 보험', '6시간짜리 단기 자동차보험' 등 혁신적인 맞춤형 상품을 잇달아 출시하며 시장 경쟁이 뜨거워지고 있다. 디지털 헬스케어 연계 상품도 확대되는 추세다.",
+        "points": [
+          "기존 장기 계약 위주에서 단기·맞춤형 상품으로 변화",
+          "폭염으로 인한 질병 보장 보험 출시",
+          "필요할 때만 가입하는 초단기 자동차보험",
+          "디지털 헬스케어와 연계한 건강 리워드 보험 상품 증가"
+        ],
+        "quote": "과거 복잡하고 부담스러운 장기 계약 위주였던 보험 상품들이 고객의 실제 라이프스타일과 건강 상태에 맞춰 혁신적으로 변화하고 있다.",
+        "context": "과거 획일적이고 복잡했던 보험 상품들은 현대인의 다양하고 유동적인 라이프스타일을 반영하지 못한다는 지적을 받아왔다. 최근 보험사들은 고객의 특정 위험에 대한 단기적 보장이나 개인의 건강 관리 노력을 보상하는 등, 실제 생활에 밀착된 혁신적인 상품을 통해 새로운 시장을 개척하고 있다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719020"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20grid%20of%20diverse%20icons%20representing%20new%20insurance%20products%3A%20a%20sun%20for%20heatwave%2C%20a%20car%20for%20short-term%20car%20insurance%2C%20a%20smartwatch%20for%20digital%20healthcare%2C%20symbolizing%20personalized%20insurance%20solutions%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=5507&nologo=true"
     }
   ],
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T06:24:48.683970+09:00"
+  "generated_at": "2026-08-05T07:39:34.671178+09:00"
 }
