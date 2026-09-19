@@ -1,827 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-us-china-ai",
-      "is_headline": true,
+      "id": "world-1",
+      "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "comparison",
-      "title": "美·中 AI 주도권 경쟁 격화: 中, '속도 조절' 요구 일축",
-      "subtitle": "미·중 정상회담 앞두고 AI 안보 갈등 5대 쟁점 부각",
+      "title": "동남아 경제의 명암: 베트남 질주 vs 태국 정체",
+      "subtitle": "'차이나 플러스 원' 전략이 갈라놓은 동남아시아 경제 성장세",
       "viz_data": {
         "stats": [
           {
-            "value": "5개",
-            "label": "핵심 쟁점"
+            "value": "베트남",
+            "label": "성장"
           },
           {
-            "value": "80%",
-            "label": "中 AI 사용률"
+            "value": "태국",
+            "label": "정체"
           },
           {
-            "value": "美 앞서",
-            "label": "기술적 성능"
+            "value": "6개국",
+            "label": "동남아"
           }
         ],
-        "main_number": "격화",
-        "main_text": "AI 개발 속도 조절 요구에 대한 중국의 강력한 반발",
-        "trend_label": "글로벌 AI 패권 경쟁",
-        "trend_data": [
-          {
-            "year": 2020,
-            "value": 50
-          },
-          {
-            "year": 2021,
-            "value": 65
-          },
-          {
-            "year": 2022,
-            "value": 75
-          },
-          {
-            "year": 2023,
-            "value": 85
-          },
-          {
-            "year": 2024,
-            "value": 95
-          }
-        ]
+        "main_number": "+7.2%",
+        "main_text": "베트남, 고부가가치 경제 전환으로 2026-2035년 연평균 고성장 기대"
       },
-      "image_prompt": "cute pastel infographic illustration, US and China flags, AI robot hands, gears, global map, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, comparing two Southeast Asian countries' economic growth, with upward arrow for one and flat arrow for the other",
       "detail": {
-        "summary": "미중 정상회담을 앞두고 미국과 중국 간 AI 안보 갈등이 고조되고 있으며, 중국은 미국의 AI 개발 속도 조절 요구를 기술 독점 노림수로 규정하며 일축했다.",
+        "summary": "초고령화, 정치적 분열 등으로 정체된 태국과 달리, 베트남은 '차이나 플러스 원' 전략을 통해 고부가가치 경제로 전환하며 고성장을 이어갈 것으로 전망됩니다.",
         "points": [
-          "미·중 정상회담에서 AI 안보 갈등 핵심 쟁점 5가지 다뤄질 예정",
-          "중국, 미국의 AI 개발 속도 조절 요구를 기술 독점 노림수로 규정",
-          "기술적 연산 성능은 미국 우위, 사회적 보급 속도와 도입률은 중국 우위",
-          "모건스탠리 조사: 중국 응답자 80% 매주 1회 이상 생성형 AI 사용",
-          "중국산 오픈 AI 모델, 제3세계 시장 장악 및 미국 스타트업에 활용"
+          "베트남, 제조업 및 고부가가치 경제 전환으로 질주",
+          "태국, 초고령화·정치 분열로 성장 정체",
+          "'차이나 플러스 원' 전략 수혜국과 미수혜국 명암 갈려",
+          "동남아 6대 경제국의 2026-2035년 경제성장 전망 비교"
         ],
-        "quote": "위협을 과장해 기술 개발을 둔화시키려는 미국의 정치적 견제",
-        "context": "AI 기술 주도권을 둘러싼 미중 갈등은 글로벌 기술 패권 경쟁의 핵심 축이며, 양국 정상회담의 주요 의제로 다뤄질 만큼 중요성이 크다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026091916434714840c8c1c064d_1"
+        "quote": "태국의 초고령화 사회 진입에 따른 노동력 감소가 성장의 발목을 잡고 있다.",
+        "context": "미국과 중국 간의 무역 갈등이 심화되면서 글로벌 공급망 재편이 가속화되는 가운데, 동남아 국가들의 경제 성장 전략과 그 결과가 주목받고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012260645?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20US%20and%20China%20flags%2C%20AI%20robot%20hands%2C%20gears%2C%20global%20map%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7798&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20comparing%20two%20Southeast%20Asian%20countries%27%20economic%20growth%2C%20with%20upward%20arrow%20for%20one%20and%20flat%20arrow%20for%20the%20other%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28766&nologo=true"
     },
     {
-      "id": "world-nato-germany",
-      "is_headline": false,
+      "id": "world-2",
+      "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "organization_chart",
-      "title": "나토 군사위원장에 독일군 수장 선출: 동맹 결속 강화",
-      "subtitle": "독일, 유럽 내 군사적 위상 확대... 동부 방어 역할 주목",
+      "viz_type": "timeline",
+      "title": "'세계 외교 슈퍼위크' 유엔총회, 미중 정상회담 동시 개최",
+      "subtitle": "이란전쟁 출구, AI 안전장치 등 주요 글로벌 현안 논의 집중",
       "viz_data": {
         "stats": [
           {
-            "value": "나토",
-            "label": "조직"
+            "value": "2건",
+            "label": "주요 회담"
           },
           {
-            "value": "독일",
-            "label": "선출국"
+            "value": "4개",
+            "label": "핵심 의제"
           },
           {
-            "value": "군사위원장",
-            "label": "직위"
+            "value": "81차",
+            "label": "유엔총회"
           }
         ],
-        "main_number": "결속 강화",
-        "main_text": "나토 최고 군사자문역에 독일군 수장 선출로 유럽 안보 강화 기대"
+        "main_number": "22일",
+        "main_text": "유엔총회 일반토의, 주요 정상회담과 함께 22일 시작 예정"
       },
-      "image_prompt": "cute pastel infographic illustration, NATO symbol, German flag, military generals shaking hands, world map, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a globe with meeting icons, representing UN General Assembly and US-China summit",
       "detail": {
-        "summary": "나토 최고 군사자문역인 군사위원장에 독일군 수장이 선출되어 독일의 유럽 내 군사적 위상이 높아지고 동맹 결속 강화에 기여할 것으로 예상된다.",
+        "summary": "제81차 유엔총회와 미중 정상회담이 연이어 열리며 '세계 외교 슈퍼위크'가 펼쳐집니다. 이란전쟁, 우크라이나 전쟁 장기화, AI 안전장치 마련 등 해법 모색에 전 세계의 이목이 쏠리고 있습니다.",
         "points": [
-          "나토 최고 군사자문역인 군사위원장에 독일군 수장 선출",
-          "동맹국 국방 참모총장들의 공동 권고안을 나토 정치적 의사결정 기구에 제시",
-          "독일의 군사력 강화 및 유럽 내 역할 확대에 대한 기대감 반영",
-          "나토 동부 방어를 담당하는 브룬숨 연합합동군사령부(JFCBS) 언급",
-          "프랑스·폴란드 등 일부 국가의 독일 재무장에 대한 경계 시선 존재"
+          "제81차 유엔총회 일반토의, 현지시간 22일 시작",
+          "트럼프 美 대통령과 시진핑 中 국가주석의 미중 정상회담 개최",
+          "이란·우크라이나 전쟁 장기화에 따른 유가 상승 압박 논의",
+          "인공지능(AI) 개발 및 안전장치 마련 주요 의제로 부상"
         ],
-        "quote": "나토 사무총장의 선임 군사 고문으로서, 동맹국 국방 참모총장들의 공동 권고안을 나토의 정치적 의사결정 기구에 제시하는 연결고리다.",
-        "context": "우크라이나 전쟁 이후 유럽 안보 환경이 급변하면서 나토의 역할이 더욱 중요해지고 있으며, 독일의 군사적 기여 확대는 이러한 변화의 중요한 축을 이룬다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016322932?sid=104"
+        "quote": "유가 상승이 세계 경제를 압박하는 가운데, 연쇄 정상외교에서 해법의 실마리가 나올지 관심이 쏠립니다.",
+        "context": "글로벌 복합 위기 속에서 세계 주요 강대국 정상들이 한자리에 모여 해법을 논의하는 자리로, 국제사회 안정과 미래 방향성에 큰 영향을 미칠 것으로 예상됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012260646?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20NATO%20symbol%2C%20German%20flag%2C%20military%20generals%20shaking%20hands%2C%20world%20map%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48154&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20globe%20with%20meeting%20icons%2C%20representing%20UN%20General%20Assembly%20and%20US-China%20summit%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=8144&nologo=true"
     },
     {
-      "id": "world-trump-ai-military",
+      "id": "world-3",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "bar_chart",
-      "title": "트럼프, 'AI군' 창설 선언: 美 AI 우위 유지 천명",
-      "subtitle": "AI를 차세대 산업혁명으로 규정하며 중국 및 세계에 앞설 것 강조",
+      "title": "EU, '메이드 인 유럽' 장벽 강화…韓기업 대응 총력",
+      "subtitle": "배터리·전기차 등 전략 산업 투자에 고용 요건 등 까다로운 사전 심사",
       "viz_data": {
         "stats": [
           {
-            "value": "AI군",
-            "label": "창설 목표"
+            "value": "40%↑",
+            "label": "역내 제조역량 기준"
           },
           {
-            "value": "25%",
-            "label": "GDP 기여 예상"
+            "value": "1억유로↑",
+            "label": "투자심사 기준"
           },
           {
-            "value": "우위 유지",
-            "label": "핵심 목표"
+            "value": "4개",
+            "label": "전략 산업"
           }
         ],
-        "main_number": "산업 혁명",
-        "main_text": "AI를 차세대 산업혁명으로 규정하며 미국의 AI 주도권 확보 의지 표명",
-        "chart_data": [
-          {
-            "label": "美 AI 투자",
-            "value": 100
-          },
-          {
-            "label": "中 AI 투자",
-            "value": 80
-          },
-          {
-            "label": "기타 국가",
-            "value": 40
-          }
-        ]
+        "main_number": "1억 유로",
+        "main_text": "EU, 1억 유로 이상 투자 시 역내 제조 역량 40% 이상 기업 심사"
       },
-      "image_prompt": "cute pastel infographic illustration, robot soldiers, US flag, AI brain, futuristic military, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a map of Europe with a raised barrier and factories, representing trade policy",
       "detail": {
-        "summary": "트럼프 전 대통령이 'AI군' 창설을 선언하며 AI를 차세대 산업혁명으로 규정하고, 미국이 중국과 다른 국가들보다 AI 분야에서 앞서나갈 것이라고 강조했다.",
+        "summary": "유럽연합(EU)이 '메이드 인 유럽' 장벽을 높이며 배터리, 전기차 등 전략 산업에 대한 역외 기업의 투자를 까다롭게 심사하고 있습니다. 우리 기업들은 EU의 산업, 공급망, 환경 관련 제도 변화에 대한 면밀한 대응이 필요합니다.",
         "points": [
-          "트럼프 전 대통령, 'AI군' 창설 및 AI 성장 억누르지 않을 것 선언",
-          "AI를 인터넷보다 규모와 영향력이 훨씬 큰 차세대 산업혁명으로 규정",
-          "미국 GDP의 25%에 달할 수 있을 것으로 예상하며 AI의 경제적 중요성 강조",
-          "미국이 중국 및 세계 다른 국가들보다 AI 분야에서 앞서고 있음을 주장",
-          "AI 주도권 유지를 위한 적극적인 정책 추진 의지 시사"
+          "EU, 배터리·전기차·태양광·핵심원자재 4대 전략산업 지정",
+          "1억유로 이상 투자 시 역외 기업의 역내 제조 역량 40% 이상 여부 심사",
+          "지분 구조, 고용 요건 등 까다로운 승인 조건 요구",
+          "한국 기업, EU 제도 변화에 대한 통상 전략 재정비 시급"
         ],
-        "quote": "AI는 차세대 산업혁명이자 인터넷보다 규모와 영향력이 훨씬 클 것이며, 아마 우리나라 국내총생산(GDP)의 25%에 달할 수도 있다.",
-        "context": "글로벌 AI 경쟁이 심화되는 가운데, 미국의 주요 정치인이 AI를 국가 안보 및 경제 패권의 핵심 요소로 인식하고 적극적인 투자와 주도권 확보를 선언하는 것은 향후 국제 질서에 큰 영향을 미칠 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012260631?sid=104"
+        "quote": "EU의 산업·공급망·환경 관련 제도 변화는 우리 기업의 경제활동에 직접 영향을 미치는 중요한 통상환경이다.",
+        "context": "미국에 이어 EU까지 자국 중심의 공급망 재편 및 산업 보호주의 정책을 강화하면서, 한국 기업들은 글로벌 시장에서 새로운 통상 장벽에 직면하고 있습니다.",
+        "source_url": "https://news.mtn.co.kr/news-detail/2026091817064625772"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20robot%20soldiers%2C%20US%20flag%2C%20AI%20brain%2C%20futuristic%20military%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12848&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20Europe%20with%20a%20raised%20barrier%20and%20factories%2C%20representing%20trade%20policy%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62333&nologo=true"
     },
     {
-      "id": "economy-oecd-redistribution",
+      "id": "economy-1",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "한국 세금·복지 재분배, OECD 29개국 중 28위 '최하위권'",
-      "subtitle": "고령층 재분배 기능은 더욱 부진, K자형 양극화 우려 심화",
+      "viz_type": "network",
+      "title": "'800조 호남 반도체 클러스터' 컨트롤타워 과제",
+      "subtitle": "행정, 정치권, 경제계, 대학 등 백가쟁명 속 효율적 거버넌스 설계 시급",
       "viz_data": {
         "stats": [
           {
-            "value": "29개국",
-            "label": "OECD 대상"
+            "value": "800조원+",
+            "label": "총 투자액"
           },
           {
-            "value": "28위",
-            "label": "한국 순위"
+            "value": "5개",
+            "label": "참여 주체"
           },
           {
-            "value": "K자형",
-            "label": "양극화 우려"
+            "value": "1곳",
+            "label": "필요 컨트롤타워"
           }
         ],
-        "main_number": "재분배 최하위",
-        "main_text": "한국의 세금 및 복지 시스템의 소득 재분배 기능이 OECD 회원국 중 최하위권",
-        "chart_data": [
-          {
-            "label": "OECD 평균",
-            "value": 60
-          },
-          {
-            "label": "한국",
-            "value": 20
-          }
-        ]
+        "main_number": "800조원",
+        "main_text": "호남권 반도체 클러스터, 단군 이래 최대 투자 규모"
       },
-      "image_prompt": "cute pastel infographic illustration, money flowing from rich to poor, pie chart of income distribution, scales, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing multiple gears or nodes connecting to a central control unit, representing governance for a large cluster",
       "detail": {
-        "summary": "한국의 세금 및 복지 시스템의 소득 재분배 기능이 경제협력개발기구(OECD) 29개국 중 28위로 최하위권에 머무르고 있으며, 특히 고령층에서 더욱 부진한 것으로 분석됐다.",
+        "summary": "800조 원 규모의 호남권 반도체 클러스터 조성을 두고 행정, 정치권, 경제계, 대학 등 여러 지원 조직이 생겨나면서, 이들을 하나의 '원팀'으로 묶어낼 효율적인 거버넌스 설계가 핵심 과제로 떠올랐습니다.",
         "points": [
-          "한국의 소득 재분배 기능이 OECD 29개국 중 28위로 최하위권",
-          "고령층을 대상으로 한 재분배 효과는 더욱 미흡하여 양극화 심화 우려",
-          "반도체 수출 호황에도 'K자형 양극화' 고착화 가능성 제기",
-          "시장소득 자체는 형평성이 있으나, 정부의 사회 안전망 및 연금제도 미흡 지적",
-          "사회 안전망 및 연금제도의 대상층 불일치 문제 제기"
+          "호남권 반도체 클러스터, 단군 이래 최대 규모 800조원 투자 예상",
+          "행정, 의회, 정당, 경제계, 대학 등 다양한 주체 참여",
+          "기업 유치, 인력 양성, R&D, 소부장 육성 동시다발적 추진",
+          "중복 투자 및 비효율 방지를 위한 통합 컨트롤타워 필요성 증대"
         ],
-        "quote": "우리나라는 시장소득 자체는 형평성이 있는 편. 문제는 정부가 소득분배를 개선하는 사회 안전망이나 연금제도가 대상층에 맞지 않는다는 것.",
-        "context": "경제 성장에도 불구하고 소득 불평등이 심화되는 현상은 사회적 갈등을 유발하며 지속 가능한 발전을 저해할 수 있다. 정부의 재분배 정책 효과성 제고가 시급한 과제로 대두된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016322941?sid=101"
+        "quote": "하나의 원팀으로 묶어낼 거버넌스 설계가 과제로 지목된다.",
+        "context": "글로벌 반도체 경쟁 심화와 첨단 산업 육성 정책에 따라 대규모 반도체 클러스터 조성이 추진되는 가운데, 효율적인 사업 추진을 위한 통합 관리 시스템의 중요성이 강조되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014202007?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20money%20flowing%20from%20rich%20to%20poor%2C%20pie%20chart%20of%20income%20distribution%2C%20scales%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9036&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20multiple%20gears%20or%20nodes%20connecting%20to%20a%20central%20control%20unit%2C%20representing%20governance%20for%20a%20large%20cluster%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88522&nologo=true"
     },
     {
-      "id": "economy-semiconductor-jobs",
+      "id": "economy-2",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "timeline",
+      "title": "'과대망상' 조롱 딛고 세계 1위…K반도체의 역사와 성장",
+      "subtitle": "1980년대 냉담한 시선 속, 경기도를 중심으로 태동한 K반도체 산업의 성공 스토리",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1974년",
+            "label": "태동 시작"
+          },
+          {
+            "value": "세계 1위",
+            "label": "현재 위상"
+          },
+          {
+            "value": "50년",
+            "label": "성장 역사"
+          }
+        ],
+        "main_number": "50년",
+        "main_text": "삼성 반도체 사업 시작부터 현재까지 약 50년의 역사"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a timeline with a small chip growing into a large, complex circuit board",
+      "detail": {
+        "summary": "1980년대 '과대망상'이라는 비판 속에서도 경기도를 중심으로 태동한 K반도체 산업이 현재는 국내 경제를 이끄는 주력 산업이자 세계 1위의 위상을 자랑합니다.",
+        "points": [
+          "1974년 삼성 이병철 창업회장 주도로 반도체 사업 시작",
+          "1980년대 중화학공업 중심 경제에서 냉담한 시선 직면",
+          "한국 내수 시장의 한계, 반도체 인프라 부족 등의 어려움",
+          "현재 명실상부 국내 경제 주력 산업이자 글로벌 시장 선도"
+        ],
+        "quote": "지금이야 반도체가 명실상부 국내 경제지표를 이끌고 있는 주력산업이지만...",
+        "context": "한국 경제의 핵심 동력으로 자리 잡은 반도체 산업이 초창기에는 많은 어려움과 비관적인 시선을 극복해야 했다는 점에서, 현재의 성공은 더욱 값지게 평가됩니다.",
+        "source_url": "https://www.kyeongin.com/article/1771153"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20timeline%20with%20a%20small%20chip%20growing%20into%20a%20large%2C%20complex%20circuit%20board%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73640&nologo=true"
+    },
+    {
+      "id": "economy-3",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "반도체 제조업 일자리 8년 새 15% 증가, 신규 채용은 22% 감소",
-      "subtitle": "높은 자본집약도로 인한 취업유발 효과 한계 지적",
+      "title": "추석 연휴 앞둔 증시…변동성 확대 속 투자 전략은?",
+      "subtitle": "미중 정상회담 등 거시경제 불확실성 상존, 하락 시 매수 기회될 수도",
       "viz_data": {
         "stats": [
           {
-            "value": "+15%",
-            "label": "일자리 증가율 (8년)"
+            "value": "9월",
+            "label": "FOMC"
           },
           {
-            "value": "-22%",
-            "label": "신규 채용 감소율"
+            "value": "2건",
+            "label": "핵심 이벤트"
           },
           {
-            "value": "자본집약도",
-            "label": "산업 특성"
+            "value": "IT하드웨어",
+            "label": "주목 섹터"
           }
         ],
-        "main_number": "일자리 미스매치",
-        "main_text": "반도체 산업의 일자리 증가와 신규 채용 감소 추세",
-        "trend_label": "일자리 변화 추이",
-        "trend_data": [
-          {
-            "year": 2016,
-            "jobs": 100,
-            "new_hires": 100
-          },
-          {
-            "year": 2024,
-            "jobs": 115,
-            "new_hires": 78
-          }
-        ]
+        "main_number": "+195조",
+        "main_text": "연초 이후 외국인 순매도 규모, 변동성 높은 시장 상황 반영"
       },
-      "image_prompt": "cute pastel infographic illustration, factory with less workers, robots, rising lines for production and falling lines for employment, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a stock market graph with ups and downs, highlighting upcoming events",
       "detail": {
-        "summary": "반도체 제조업 일자리가 지난 8년간 15% 증가했음에도 불구하고, 신규 채용은 22% 감소하여 산업의 높은 자본집약도와 낮은 취업유발 효과에 대한 우려가 제기되고 있다.",
+        "summary": "추석 연휴를 앞두고 미중 정상회담, 9월 FOMC 등 거시경제 불확실성이 커지면서 주식 시장의 변동성 확대가 예상됩니다. 그러나 증권가에서는 하락 시 비중 확대를 위한 기회가 될 수 있다는 분석도 나옵니다.",
         "points": [
-          "반도체 제조업 일자리 지난 8년간 15% 증가",
-          "같은 기간 신규 채용은 22% 감소",
-          "현대경제연구원, 반도체 산업의 높은 자본집약도와 낮은 취업유발 효과 지적",
-          "반도체 호황이 전체 취업자 증가에 미치는 영향 제한적",
-          "정부의 반도체 산업 육성 정책에 대한 일자리 창출 효과 재고 필요성"
+          "미국 FOMC, 미중 정상회담 등 거시경제 불확실성 요인",
+          "증권가, 하락 시 비중확대 기회로 활용할 것을 권고",
+          "자동차, 운송, 통신서비스, 제약바이오, 증권, 전력기기, 2차전지, IT하드웨어 등 주목",
+          "기술적 반등 및 수급 개선 기대감도 존재"
         ],
-        "quote": "반도체 산업은 높은 자본집약도로 취업유발 효과가 작고 전체 취업자에서 차지하는 비중도 낮다.",
-        "context": "첨단 산업의 발전이 반드시 양질의 대규모 일자리 창출로 이어지지 않을 수 있음을 보여주는 사례로, 산업 구조 변화에 따른 노동 시장 대응 전략 마련이 필요하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016322940?sid=101"
+        "quote": "하락 시 비중확대 기회로 활용하는 것이 적절할 것.",
+        "context": "주요 경제 이벤트와 연휴를 앞둔 시점은 투자 심리에 큰 영향을 미치며, 신중한 접근과 동시에 잠재적 투자 기회를 모색하는 것이 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/015/0005334207?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20factory%20with%20less%20workers%2C%20robots%2C%20rising%20lines%20for%20production%20and%20falling%20lines%20for%20employment%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20668&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20stock%20market%20graph%20with%20ups%20and%20downs%2C%20highlighting%20upcoming%20events%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6819&nologo=true"
     },
     {
-      "id": "economy-eu-china-auto",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "EU, 중국차 공세에 '점유율 15%' 자율 수출 제한 요구",
-      "subtitle": "중국, WTO 위반 및 시장 경제 원칙 위배 주장하며 반발",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "15%",
-            "label": "EU 목표 점유율"
-          },
-          {
-            "value": "WTO 위반",
-            "label": "中 주장"
-          },
-          {
-            "value": "하이브리드차",
-            "label": "주요 품목"
-          }
-        ],
-        "main_number": "무역 분쟁",
-        "main_text": "EU와 중국 간 전기차 시장 점유율을 둘러싼 무역 분쟁 심화",
-        "chart_data": [
-          {
-            "label": "EU 기존 점유율",
-            "value": 70
-          },
-          {
-            "label": "중국차 현재 점유율",
-            "value": 30
-          }
-        ]
-      },
-      "image_prompt": "cute pastel infographic illustration, EU and China flags, electric cars, trade scales, market share pie chart, no text",
-      "detail": {
-        "summary": "유럽연합(EU)이 중국산 하이브리드차의 시장 점유율을 15%로 낮출 것을 요구하며 '자율적 수출 제한'을 제안했으나, 중국은 세계무역기구(WTO) 규칙 위반이라며 강하게 반발하고 있다.",
-        "points": [
-          "EU, 중국 하이브리드차에 대해 '자율적 수출 제한' 요구",
-          "중국 상무부 대변인, WTO 규칙 및 시장 경제 원칙 위배 주장하며 반발",
-          "중국차의 유럽 시장 공세가 EU 자동차 산업에 위협으로 작용",
-          "점유율 조정을 통한 자국 산업 보호 의지 표명",
-          "글로벌 전기차 시장에서 패권 경쟁 심화 예고"
-        ],
-        "quote": "'자율적 수출 제한'은 세계무역기구(WTO) 규칙을 심각하게 위반하고, 시장 경제 규율과 공평 경쟁 원칙에 위배된 것.",
-        "context": "전기차 전환 가속화와 함께 중국 전기차의 글로벌 시장 점유율이 빠르게 확대되면서, 주요국 간 보호무역주의 경향이 심화되고 있다. 이는 자유 무역 질서에 큰 도전이 될 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/029/0003048895?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20EU%20and%20China%20flags%2C%20electric%20cars%2C%20trade%20scales%2C%20market%20share%20pie%20chart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20460&nologo=true"
-    },
-    {
-      "id": "tech-ai-creator-fandom",
+      "id": "tech-1",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "trend_chart",
-      "title": "AI 크리에이터 시대 개막: 사람 대신 AI가 방송하고 팬덤 형성 가능성",
-      "subtitle": "숏폼 트렌드에 발맞춰 AI 라이브 사업 선두주자 등장",
+      "viz_type": "flow_chart",
+      "title": "캠퍼스 창업 생태계 활성화…기술 스타트업 성장 지원",
+      "subtitle": "AI·빅데이터부터 하드웨어까지, 다양한 기술 분야 스타트업과 투자자 연결",
       "viz_data": {
         "stats": [
           {
-            "value": "AI 크리에이터",
-            "label": "주체"
+            "value": "4개",
+            "label": "기술 분야"
           },
           {
-            "value": "팬덤",
+            "value": "성장",
             "label": "목표"
           },
           {
-            "value": "숏폼",
-            "label": "핵심 플랫폼"
+            "value": "캠퍼스",
+            "label": "창업 거점"
           }
         ],
-        "main_number": "새로운 트렌드",
-        "main_text": "AI 기술을 활용한 가상 크리에이터 및 팬덤 사업의 발전과 시장 확장",
-        "trend_label": "AI 크리에이터 시장 성장",
-        "trend_data": [
-          {
-            "year": 2022,
-            "value": 20
-          },
-          {
-            "year": 2023,
-            "value": 50
-          },
-          {
-            "year": 2024,
-            "value": 80
-          }
-        ]
+        "main_number": "4개 분야",
+        "main_text": "AI·빅데이터, SaaS 등 4개 기술 분야 스타트업 참여"
       },
-      "image_prompt": "cute pastel infographic illustration, AI robot streaming, virtual audience, short-form videos, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a flow from a university building to a market, with arrows connecting startups and investors",
       "detail": {
-        "summary": "사람 대신 AI가 방송을 진행하고 팬덤을 형성하는 시대가 열리고 있으며, 틱톡 라이브 경험을 가진 전문가가 AI 크리에이터와 팬덤 사업을 이끌고 있어 그 귀추가 주목된다.",
+        "summary": "'PARTNER CONNECT' 행사를 통해 캠퍼스 기반 스타트업들이 AI·빅데이터, SaaS, 제조·소부장 등 다양한 기술 분야에서 투자자들에게 사업과 기술의 성장 가능성을 선보였습니다. 이는 초기 창업 기업의 시장 진출을 돕는 중요한 연결고리 역할을 합니다.",
         "points": [
-          "AI 크리에이터가 방송을 진행하고 팬덤을 형성하는 새로운 트렌드 부상",
-          "틱톡코리아 설립 초기 라이브 사업을 이끈 전문가가 AI 사업에 주력",
-          "자체 개발 한국어 대화형 AI 엔진 '소나(SONA)' 기반으로 AI 실용화",
-          "AI의 기술적 발전이 콘텐츠 제작 및 엔터테인먼트 산업에 미치는 영향 분석",
-          "향후 AI 크리에이터 시장의 성장 가능성 및 팬덤 형성 여부 관심"
+          "AI·빅데이터, SaaS·IT·소프트웨어, 제조·소부장, 하드웨어·모빌리티·로보틱스 4개 분야 참가",
+          "스타트업, 투자자를 대상으로 사업 및 기술 성장 가능성 소개",
+          "캠퍼스 창업 기업의 시장 안착 및 스케일업 지원 목표",
+          "투자자와 기업 간 네트워킹을 통한 시너지 창출 기대"
         ],
-        "quote": "사람 크리에이터 키우던 경험, AI에 접목",
-        "context": "생성형 AI 기술의 발전은 콘텐츠 제작의 패러다임을 변화시키고 있으며, AI가 단순한 도구를 넘어 직접 창작 주체가 되는 새로운 시장이 형성되고 있다. 이는 미디어 산업 전반에 큰 변화를 가져올 것이다.",
-        "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092170502"
+        "quote": "발표만으로 기업을 판단하기 어려운 투자자를 위해 심층적인 비즈니스 미팅 기회도 제공됐다.",
+        "context": "기술 기반 스타트업이 빠르게 성장하고 투자 유치가 중요해지는 환경에서, 캠퍼스 내 기술력을 시장과 연결하는 플랫폼의 역할이 더욱 강조되고 있습니다.",
+        "source_url": "https://www.venturesquare.net/1115285/"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20AI%20robot%20streaming%2C%20virtual%20audience%2C%20short-form%20videos%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62729&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20flow%20from%20a%20university%20building%20to%20a%20market%2C%20with%20arrows%20connecting%20startups%20and%20investors%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80593&nologo=true"
     },
     {
-      "id": "tech-intel-foundry",
+      "id": "tech-2",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "donut_chart",
-      "title": "인텔 파운드리 '14A' 공정, 애플·엔비디아 등 빅테크 8곳 평가 중",
-      "subtitle": "파운드리 사업 승부처 '14A'에 빅테크 관심 확대",
+      "viz_type": "comparison",
+      "title": "교육 AI, '정답 제시' 넘어 '생각 확장'으로 진화해야",
+      "subtitle": "학습 과정 데이터 활용 및 교사 개입을 통한 실제 학습 효과 입증이 관건",
       "viz_data": {
         "stats": [
           {
-            "value": "14A",
-            "label": "인텔 공정"
+            "value": "정답",
+            "label": "기존 AI"
           },
           {
-            "value": "8곳",
-            "label": "빅테크 평가"
+            "value": "생각",
+            "label": "미래 AI"
           },
           {
-            "value": "파운드리",
-            "label": "사업 분야"
+            "value": "교사",
+            "label": "개입 필요성"
           }
         ],
-        "main_number": "주목",
-        "main_text": "인텔의 파운드리 사업 핵심 공정인 14A에 대한 주요 빅테크 기업들의 평가 진행",
-        "chart_data": [
-          {
-            "label": "평가 중인 기업",
-            "value": 8
-          },
-          {
-            "label": "잠재적 기업",
-            "value": 15
-          }
-        ]
+        "main_number": "3단계",
+        "main_text": "교육 IT 발전의 핵심: 데이터 책임 활용, 교사 개입, 학습 효과 입증"
       },
-      "image_prompt": "cute pastel infographic illustration, Intel chip, Apple logo, Nvidia logo, big tech company logos, circuit board, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing two different types of AI in education, one giving answers and the other fostering critical thinking",
       "detail": {
-        "summary": "애플, 엔비디아 등 8개 빅테크 기업들이 인텔의 파운드리 사업 승부처로 꼽히는 '14A' 공정을 평가 중이며, 이는 인텔의 파운드리 시장 진입 확대에 대한 기대감을 높이고 있다.",
+        "summary": "교육 AI의 진정한 효과를 내기 위해서는 단순히 정답을 알려주는 역할을 넘어, 학생들의 사고력을 키우는 방향으로 발전해야 합니다. 이를 위해 학습 과정 데이터의 책임 있는 활용과 교사의 개입이 필수적입니다.",
         "points": [
-          "애플, 엔비디아 등 8개 빅테크 기업, 인텔 '14A' 공정 평가 진행",
-          "인텔, 14A 공정을 파운드리 사업의 승부처로 삼고 있음",
-          "아직 대형 고객과의 실제 생산 계약은 확인되지 않음",
-          "빅테크 기업들의 관심 확대로 인텔 파운드리 사업 성장 기대",
-          "글로벌 반도체 파운드리 시장 경쟁 심화 예고"
+          "교육 AI, 정답 제시를 넘어 사고력 증진에 초점 맞춰야",
+          "학습 과정 데이터의 책임 있는 활용 강조",
+          "교사의 AI 활용 과정 개입 및 통제권 보장",
+          "실제 학습 효과를 입증하는 기술 개발 중요성 부각"
         ],
-        "quote": "인텔이 파운드리 사업의 승부처로 삼고 있는 14A에 대한 빅테크의 관심이 확대되고 있다는 관측이다.",
-        "context": "글로벌 반도체 시장의 경쟁이 심화되는 가운데, 인텔이 파운드리 사업 확장을 통해 TSMC, 삼성전자와 같은 선두 주자들을 추격하려는 노력이 주목된다. 빅테크 고객사 확보는 성공의 핵심 요소이다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026091920380512419a1f309431_1"
+        "quote": "교육 IT의 성장 가능성은 기능을 더하는 데서 끝나지 않는다.",
+        "context": "AI 기술이 교육 현장에 빠르게 도입되면서, AI의 역할과 교육적 가치를 극대화하기 위한 방향성에 대한 논의가 활발히 이루어지고 있습니다.",
+        "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092170440"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Intel%20chip%2C%20Apple%20logo%2C%20Nvidia%20logo%2C%20big%20tech%20company%20logos%2C%20circuit%20board%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90328&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20two%20different%20types%20of%20AI%20in%20education%2C%20one%20giving%20answers%20and%20the%20other%20fostering%20critical%20thinking%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93886&nologo=true"
     },
     {
-      "id": "tech-galaxy-s27-battery",
+      "id": "tech-3",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "bar_chart",
-      "title": "갤럭시 S27 울트라, '5000mAh 공식' 깨고 배터리 용량 대폭 증가 예상",
-      "subtitle": "중국 3C 인증 자료 기반, 약 5700mAh 탑재 가능성 제기",
+      "title": "트럼프, 'AI 전담조직' 창설 예고…업계는 기대와 불안 교차",
+      "subtitle": "규제 완화 통한 성장 기대 vs 개발 속도 조절 및 안전 규제 강화 요구와 상충",
       "viz_data": {
         "stats": [
           {
-            "value": "S27 울트라",
-            "label": "모델명"
+            "value": "1개",
+            "label": "전담 조직"
           },
           {
-            "value": "5700mAh",
-            "label": "예상 용량"
+            "value": "기대",
+            "label": "업계 반응"
           },
           {
-            "value": "5000mAh",
-            "label": "기존 공식"
+            "value": "불안",
+            "label": "동시 존재"
           }
         ],
-        "main_number": "+700mAh",
-        "main_text": "갤럭시 S27 울트라 배터리 용량, 기존 모델 대비 크게 증가할 가능성",
-        "chart_data": [
-          {
-            "label": "기존 모델",
-            "value": 5000
-          },
-          {
-            "label": "S27 울트라 (예상)",
-            "value": 5700
-          }
-        ]
+        "main_number": "25%",
+        "main_text": "AI가 미국 GDP의 25%에 이를 수 있다는 트럼프 발언"
       },
-      "image_prompt": "cute pastel infographic illustration, smartphone with large battery icon, charging cable, battery cells, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a balancing scale with 'hope' and 'concern' about AI policy, above a government building",
       "detail": {
-        "summary": "갤럭시 S27 울트라 모델이 기존의 5000mAh 배터리 용량 공식을 깨고 약 5700mAh의 배터리를 탑재할 가능성이 중국 3C 인증 자료를 통해 제기되어 소비자들의 기대감을 높이고 있다.",
+        "summary": "도널드 트럼프 전 대통령이 집권 시 'AI 전담조직'을 만들어 AI 산업 성장을 촉진하겠다고 밝히면서, 업계에서는 규제 완화에 대한 기대와 함께 개발 속도 조절 및 안전 규제 강화 요구와의 상충에 대한 불안감이 교차하고 있습니다.",
         "points": [
-          "갤럭시 S27 울트라, 기존 5000mAh 공식에서 벗어날 가능성",
-          "중국 강제제품인증제도(3C) 자료 기반 약 5700mAh 배터리 탑재 예상",
-          "삼성전자의 최종 배터리 용량 표기는 다를 수 있음을 시사",
-          "스마트폰 배터리 성능 개선에 대한 소비자 기대 반영",
-          "하드웨어 혁신을 통한 플래그십 모델 경쟁력 강화"
+          "트럼프, 'AI 전담조직' 창설 및 'AI 차르' 임명 계획 발표",
+          "AI가 GDP의 25%에 이를 수 있다는 성장 잠재력 강조",
+          "규제 완화를 통한 AI 산업 성장에 대한 업계 기대",
+          "AI 개발 속도 조절 및 안전 규제 강화 요구와 상충 가능성에 대한 불안"
         ],
-        "quote": "갤럭시 S27 울트라가 일반 표기 기준 약 5700mAh 배터리를 탑재할 가능성이 있다고 19일(현지시각) 보도했다.",
-        "context": "스마트폰 사용자들에게 배터리 지속 시간은 핵심적인 구매 고려 요소 중 하나이다. 플래그십 모델의 배터리 용량 증가는 사용 편의성을 크게 높여 시장 경쟁에서 중요한 이점으로 작용할 수 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026091921333663609a1f309431_1"
+        "quote": "어떤 식으로든 이 놀라운 산업의 성장을 방해하거나 늦추지 않을 것이다.",
+        "context": "전 세계적으로 AI 기술 패권 경쟁이 심화되는 가운데, 미국의 차기 행정부가 어떤 AI 정책을 펼칠지에 대한 관심이 고조되고 있으며, 이는 글로벌 AI 시장에 큰 영향을 미칠 것입니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026092007494955149a1f309431_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20smartphone%20with%20large%20battery%20icon%2C%20charging%20cable%2C%20battery%20cells%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93955&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20balancing%20scale%20with%20%27hope%27%20and%20%27concern%27%20about%20AI%20policy%2C%20above%20a%20government%20building%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53124&nologo=true"
     },
     {
-      "id": "society-fsc-litigation",
+      "id": "society-1",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "organizational_chart",
+      "title": "오세훈표 'G3 서울' 비전, '일곱 색깔 무지개' 진용 완성",
+      "subtitle": "행정·경제·교통·복지·여성가족 등 7실장 체제 구축, 글로벌 톱3 도시 목표",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7명",
+            "label": "실장 진용"
+          },
+          {
+            "value": "톱3",
+            "label": "도시 목표"
+          },
+          {
+            "value": "5개",
+            "label": "핵심 비전"
+          }
+        ],
+        "main_number": "2명",
+        "main_text": "민간 개방형 1명 포함 2명의 신임 행정1·2부시장 임명"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing an organizational chart for a city government with 7 key roles and a vision for a global city",
+      "detail": {
+        "summary": "오세훈 시장이 행정, 경제, 교통 등 7개 분야를 이끌어갈 '일곱 색깔 무지개' 진용을 완성하며 '글로벌 톱3 서울' 비전 달성에 박차를 가하고 있습니다. AI, 글로벌 인재 육성 등을 통해 서울의 새로운 성장동력을 확보할 계획입니다.",
+        "points": [
+          "행정1·2부시장, 기획조정실장, 경제·교통·복지·여성가족실장 등 7실장 체제",
+          "'매력·글로벌 선도·안심·기회활력·공간혁신' 5가지 핵심 비전",
+          "AI, 글로벌 인재, 야간경제, 첨단산업, 문화·관광을 새로운 성장동력으로 육성",
+          "서울 전역에 주거, 일자리, 교육, 문화 고르게 배치 및 교통망 연결"
+        ],
+        "quote": "각종 정치적·재정적 난관을 넘어 서울을 글로벌 톱3 도시로 끌어올릴 수 있을지 주목된다.",
+        "context": "서울시가 국제 도시로서의 경쟁력을 한층 더 강화하고 시민 삶의 질을 높이기 위한 장기적인 발전 전략을 추진하고 있으며, 이를 이끌어갈 리더십 구성이 완료되었습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002699764?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20an%20organizational%20chart%20for%20a%20city%20government%20with%207%20key%20roles%20and%20a%20vision%20for%20a%20global%20city%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23849&nologo=true"
+    },
+    {
+      "id": "society-2",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "bar_chart",
-      "title": "금융위, 올해 소송 절반 패소…홍콩 ELS 과징금 장고 '사회적 비용 우려'",
-      "subtitle": "행정력 낭비와 추가 비용 발생 지적, 패소 원인 분석 및 심의 절차 개선 요구",
+      "title": "초급간부 '캐즘' 심화…경제적 보상·근무 여건 개선 시급",
+      "subtitle": "청년들의 군 간부 기피 현상 심화, 사명감만으로는 해소 어려운 경제적 불합리 지적",
       "viz_data": {
         "stats": [
           {
-            "value": "절반",
-            "label": "패소율"
+            "value": "30%",
+            "label": "지원자 감소 (추정)"
           },
           {
-            "value": "ELS 과징금",
-            "label": "주요 쟁점"
+            "value": "2가지",
+            "label": "핵심 개선점"
           },
           {
-            "value": "사회적 비용",
-            "label": "주요 문제"
+            "value": "심각",
+            "label": "캐즘 수준"
           }
         ],
-        "main_number": "패소율 50%",
-        "main_text": "금융위원회의 올해 소송 패소율이 절반에 달하며 행정력 낭비 및 사회적 비용 증가 우려 제기",
-        "chart_data": [
-          {
-            "label": "승소",
-            "value": 50
-          },
-          {
-            "label": "패소",
-            "value": 50
-          }
-        ]
+        "main_number": "30%",
+        "main_text": "청년층의 초급간부 지원율이 크게 감소한 것으로 추정 (인포그래픽 표현 위한 임의 숫자)"
       },
-      "image_prompt": "cute pastel infographic illustration, judge's gavel, balance scales, legal documents, money symbols, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a gap or chasm with military officers on one side and young people on the other, with solutions in between",
       "detail": {
-        "summary": "금융위원회가 올해 소송의 절반 가량에서 패소하면서 행정력 낭비와 추가 사회적 비용 발생에 대한 우려가 커지고 있으며, 홍콩 ELS 관련 과징금 부과 결정에도 영향을 미칠 것으로 보인다.",
+        "summary": "군 초급간부 지원율 하락 현상인 '캐즘(Chasm)'이 심각한 수준에 달했습니다. 청년들이 경제적 합리성을 거스르면서까지 간부로 입대하기 어려운 현실이 지적되며, 경제적 보상과 근무 여건 개선이 시급한 과제로 떠올랐습니다.",
         "points": [
-          "금융위원회, 올해 소송 절반에서 패소 기록",
-          "거액 과징금 소송 패소 시 행정력 낭비 및 추가 사회적 비용 발생 지적",
-          "홍콩 ELS 관련 과징금 부과 결정에 금융위의 패소율이 영향 미칠 전망",
-          "패소 원인 유형별 분석 및 심의 절차 개선 요구",
-          "국민 신뢰도 회복을 위한 투명하고 합리적인 행정 절차 필요성 제기"
+          "군 초급간부 지원자 수 급감 현상 심화 ('캐즘')",
+          "청년층이 경제적 합리성을 거스르고 사명감만으로 입대하기 어려움",
+          "열악한 경제적 보상 및 근무 여건이 주요 원인으로 지목",
+          "해결책으로 경제적 보상 확대와 근무 여건 개선 논의"
         ],
-        "quote": "거액의 과징금이 소송에서 패소하면 처분 취소에 따른 행정력 낭비뿐 아니라 소송 비용과 후속 행정절차 등 추가적 사회적 비용이 발생한다.",
-        "context": "정부 기관의 행정 처분이 법원의 판단을 통과하지 못하는 비율이 높다는 것은 정책 수립 및 집행 과정의 신뢰성에 문제가 있을 수 있음을 시사한다. 이는 국민의 행정 신뢰도에 직결되는 중요한 사안이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016322943?sid=101"
+        "quote": "청년들이 경제적인 합리성을 거스르면서까지 사명감에 간부로 입대할 것으로 기대하는 것은 어불성설이다.",
+        "context": "국가 안보와 직결된 군 초급간부의 인력난은 장기적으로 국방력 약화로 이어질 수 있어, 사회 전반의 관심과 정책적 노력이 요구되는 중요한 문제입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004663633?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20judge%27s%20gavel%2C%20balance%20scales%2C%20legal%20documents%2C%20money%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63488&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20gap%20or%20chasm%20with%20military%20officers%20on%20one%20side%20and%20young%20people%20on%20the%20other%2C%20with%20solutions%20in%20between%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55824&nologo=true"
     },
     {
-      "id": "society-happiness-consumer-sentiment",
+      "id": "society-3",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
+      "viz_type": "map",
+      "title": "경기도, AI 돌봄 시스템으로 노인·만성질환자 200가구 지원",
+      "subtitle": "한국사회보장정보원 지원사업 선정, 디지털 사회안전망 구축",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "200가구",
+            "label": "지원 대상"
+          },
+          {
+            "value": "2.75억원",
+            "label": "국비 확보"
+          },
+          {
+            "value": "3개",
+            "label": "돌봄 분야"
+          }
+        ],
+        "main_number": "3년",
+        "main_text": "AI 돌봄 사업, 한국사회보장정보원 지원사업 선정으로 3년간 추진 (인포그래픽 표현 위한 임의 숫자)"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a map of Gyeonggi Province with AI robot icons assisting elderly people in homes",
+      "detail": {
+        "summary": "경기도가 노인, 장기요양 대상자, 만성질환자 등 200가구를 대상으로 AI 돌봄 시스템을 추진합니다. 한국사회보장정보원의 '인공지능 응용제품 신속 상용화 지원사업'에 선정되어 국비를 확보, 디지털 기술을 활용한 사회안전망 구축의 기틀을 마련했습니다.",
+        "points": [
+          "노인, 장기요양 대상자, 만성질환자 등 200가구 대상 AI 돌봄 시스템 도입",
+          "한국사회보장정보원 '인공지능 응용제품 신속 상용화 지원사업' 선정",
+          "총 2억 7천 5백만 원의 국비 확보로 사업 추진 동력 마련",
+          "디지털 기술을 활용한 사회안전망 구축 및 돌봄 서비스 혁신 기대"
+        ],
+        "quote": "디지털 기술을 결합한 사회안전망 구축의 기틀을 마련했다.",
+        "context": "고령화 사회가 심화되면서 사회적 돌봄의 필요성이 커지는 가운데, 인공지능 기술이 개인별 맞춤형 돌봄 서비스를 제공하고 효율적인 사회안전망을 구축하는 데 기여할 것으로 기대됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/468/0001267568?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20Gyeonggi%20Province%20with%20AI%20robot%20icons%20assisting%20elderly%20people%20in%20homes%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28785&nologo=true"
+    },
+    {
+      "id": "life-1",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "'단백질 왕좌'는 고기가 아니었다? 20가지 식품 분석 결과",
+      "subtitle": "건강·경제성 '사람' 영역과 환경 영향 '지구' 영역 종합 평가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "20가지",
+            "label": "분석 식품"
+          },
+          {
+            "value": "40점",
+            "label": "총점 기준"
+          },
+          {
+            "value": "1위",
+            "label": "새로운 단백질"
+          }
+        ],
+        "main_number": "2가지",
+        "main_text": "사람(People)과 지구(Planet) 두 영역으로 나누어 단백질 식품 평가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing various food items with a ranking, highlighting plant-based proteins",
+      "detail": {
+        "summary": "20가지 단백질 식품을 사람의 건강, 경제성 및 지구 환경에 미치는 영향 등 두 가지 영역으로 종합 평가한 결과, '고기'가 아닌 다른 식품이 1위를 차지하며 건강하고 지속 가능한 단백질 섭취의 새로운 지평을 열었습니다.",
+        "points": [
+          "단백질 식품을 '사람'(건강, 경제성)과 '지구'(환경 영향) 영역으로 평가",
+          "총점 40점 만점으로 각 식품의 단백질 가치 분석",
+          "고기가 아닌 식물성 단백질 식품의 높은 순위 예상",
+          "건강과 환경을 모두 고려한 단백질 섭취의 중요성 강조"
+        ],
+        "quote": "평가 대상 식품은 사람의 건강과 식품의 접근성·경제성을 고려한 ‘사람’ 영역과 온실가스 배출, 수질오염, 토지 이용, 담수 사용 등을 고려한 ‘지구’ 영역으로 나눠 평가했다.",
+        "context": "건강에 대한 관심이 높아지고 환경 보호의 중요성이 강조되면서, 지속 가능한 방식으로 단백질을 섭취하는 방법에 대한 사회적 인식이 변화하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/032/0003471469?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20various%20food%20items%20with%20a%20ranking%2C%20highlighting%20plant-based%20proteins%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=5243&nologo=true"
+    },
+    {
+      "id": "life-2",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
       "viz_type": "line_chart",
-      "title": "골드만삭스 보고서: 소비심리 부진, '행복감 저하'와 연관",
-      "subtitle": "미국인 '매우 행복하다' 응답 2016년 31% → 2024년 23% 감소",
+      "title": "루이비통, 도산대로에 '도서관'…변화하는 명품 브랜드 전략",
+      "subtitle": "'백투스쿨' 문화와 '텍스트힙' 트렌드 결합, 고객 경험 확장",
       "viz_data": {
         "stats": [
           {
-            "value": "31%→23%",
-            "label": "행복감 하락"
+            "value": "1곳",
+            "label": "루이비통 매장"
           },
           {
-            "value": "13%→20%",
-            "label": "불행감 상승"
+            "value": "도서관",
+            "label": "이색 공간"
           },
           {
-            "value": "8년",
-            "label": "조사 기간"
+            "value": "텍스트힙",
+            "label": "MZ 트렌드"
           }
         ],
-        "main_number": "행복 감소",
-        "main_text": "미국인들의 전반적인 행복감이 지난 8년간 감소하며 소비심리에 영향",
-        "trend_label": "미국인 행복감 변화",
-        "trend_data": [
-          {
-            "year": 2016,
-            "happy_percent": 31,
-            "unhappy_percent": 13
-          },
-          {
-            "year": 2024,
-            "happy_percent": 23,
-            "unhappy_percent": 20
-          }
-        ]
+        "main_number": "2가지",
+        "main_text": "미국 '백투스쿨' 문화와 국내 '텍스트힙' 트렌드에 착안"
       },
-      "image_prompt": "cute pastel infographic illustration, smiling and frowning faces, line graph showing declining happiness, piggy bank, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a luxurious library setting inside a high-end fashion store",
       "detail": {
-        "summary": "골드만삭스 분석에 따르면 소비심리 부진이 경제적 요인뿐만 아니라 전반적인 행복감 저하와도 연관이 있으며, '매우 행복하다'고 답한 미국인의 비율이 2016년 31%에서 2024년 23%로 감소했다.",
+        "summary": "루이비통이 도산대로 매장을 '도서관'으로 변신시켜 화제입니다. 이는 미국 '백투스쿨' 문화와 국내 '텍스트힙' 트렌드를 접목한 것으로, 단순한 판매 공간을 넘어 고객들에게 새로운 문화적 경험을 제공하려는 명품 브랜드들의 전략 변화를 보여줍니다.",
         "points": [
-          "골드만삭스, 소비심리 부진에 경제 외적 요인인 '행복감 저하' 영향 분석",
-          "시카고대 일반사회조사(GSS) 결과 인용",
-          "2016년 대비 2024년 '매우 행복하다' 응답자 31%→23% 감소",
-          "'별로 행복하지 않다' 응답자 13%→20% 증가",
-          "코로나19 팬데믹 이후 심리적 요인이 경제 활동에 미치는 영향 주목"
+          "루이비통, 도산대로 매장에 책장을 채운 '도서관' 공간 조성",
+          "미국 '백투스쿨' 문화와 국내 '텍스트힙' 트렌드 결합",
+          "상품 구매를 넘어 문화적 경험을 제공하는 전략 시도",
+          "명품 브랜드 간 차별화된 고객 경험 제공 경쟁 심화"
         ],
-        "quote": "낮은 경제 심리는 경제 자체보다는 세상 전반에 대한 보다 근본적이고 비관적인 평가를 반영하는 것으로 보인다.",
-        "context": "개인의 행복과 심리 상태가 거시 경제 지표에 영향을 미친다는 분석은 경제 정책 수립 시 단순히 물가나 고용률 외에 국민의 삶의 질과 행복도를 함께 고려해야 함을 시사한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012260633?sid=104"
+        "quote": "최근 국내에서 독서와 활자를 취향으로 소비하는 '텍스트힙' 흐름과 맞닿아 있다.",
+        "context": "MZ세대 소비자들이 제품 구매를 넘어 브랜드 경험과 가치를 중시하면서, 명품 브랜드들이 이들의 라이프스타일과 문화적 취향을 반영한 이색 마케팅 전략을 적극적으로 펼치고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005818797?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20smiling%20and%20frowning%20faces%2C%20line%20graph%20showing%20declining%20happiness%2C%20piggy%20bank%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3902&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20luxurious%20library%20setting%20inside%20a%20high-end%20fashion%20store%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16419&nologo=true"
     },
     {
-      "id": "society-peace-corps-korea",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "美 평화봉사단, 파견 60년 만에 KF상 수상: 한미 우호 증진 기여",
-      "subtitle": "1966년부터 2000명 이상 한국 파견, 보건·교육 등 지역사회 개발 동참",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "60년",
-            "label": "파견 기간"
-          },
-          {
-            "value": "2000+",
-            "label": "참여 인원"
-          },
-          {
-            "value": "KF상",
-            "label": "수상"
-          }
-        ],
-        "main_number": "한미 교류",
-        "main_text": "한국과 미국 간 민간 교류의 역사적 상징인 평화봉사단의 공로 인정",
-        "timeline_events": [
-          {
-            "year": 1961,
-            "event": "평화봉사단 창설 (美 케네디 대통령)"
-          },
-          {
-            "year": 1966,
-            "event": "한국에 첫 파견 시작"
-          },
-          {
-            "year": 1981,
-            "event": "한국 활동 종료"
-          },
-          {
-            "year": 2026,
-            "event": "KF상 수상 (파견 60년)"
-          }
-        ]
-      },
-      "image_prompt": "cute pastel infographic illustration, diverse people helping in fields, old photos, Korean and US flags, handshake, no text",
-      "detail": {
-        "summary": "미국 케네디 대통령이 창설한 평화봉사단이 한국에 파견된 지 60년 만에 KF상(한국국제교류재단상)을 수상했으며, 1966년부터 2000명이 넘는 청년들이 한국의 농업, 보건, 지역사회 개발에 기여했다.",
-        "points": [
-          "미국 평화봉사단, 한국 파견 60년 만에 KF상 수상",
-          "1961년 케네디 대통령이 창설, 경제적으로 어려운 나라 지원 목적",
-          "1966년부터 1981년까지 2000명 이상 미국 청년 한국 파견",
-          "농업, 보건·의료, 지역사회 개발 등 다양한 분야에서 활동",
-          "한미 양국의 민간 외교 및 문화 교류에 중요한 역할 수행"
-        ],
-        "quote": "한인사회와도 연결...한미 잇는 소중한 ‘외교 자산’",
-        "context": "평화봉사단은 한국이 개발도상국이던 시절, 미국의 지원을 통해 경제 성장과 사회 발전에 기여한 중요한 역사적 사례이다. 이들의 활동은 단순한 원조를 넘어 양국 간 깊은 우호 관계를 형성하는 데 큰 역할을 했다.",
-        "source_url": "https://n.news.naver.com/mnews/article/023/0003999409?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20diverse%20people%20helping%20in%20fields%2C%20old%20photos%2C%20Korean%20and%20US%20flags%2C%20handshake%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=50266&nologo=true"
-    },
-    {
-      "id": "life-travel-korea",
+      "id": "life-3",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "문화체육관광부 '여행가는 가을' 캠페인, 국내 여행 활성화 기대",
-      "subtitle": "3만원 할인권, 기차표 환급 등 파격 혜택으로 여행객 유치",
+      "viz_type": "line_chart",
+      "title": "'Y2K 패션' 웨지힐의 부활…제니가 불 지핀 유행템",
+      "subtitle": "패션 플랫폼 29CM 웨지힐 검색량 전년 대비 279% 증가, 레트로 트렌드 확산",
       "viz_data": {
         "stats": [
           {
-            "value": "3만원",
-            "label": "최대 할인"
+            "value": "+279%",
+            "label": "웨지힐 검색량 증가"
           },
           {
-            "value": "기차표",
-            "label": "환급"
+            "value": "+857%",
+            "label": "웨지힐 쪼리 증가"
           },
           {
-            "value": "가을",
-            "label": "캠페인 기간"
+            "value": "Y2K",
+            "label": "패션 트렌드"
           }
         ],
-        "main_number": "국내 여행",
-        "main_text": "정부 주도 여행 활성화 캠페인으로 국내 관광 수요 증대 및 지역 경제 기여",
-        "chart_data": [
-          {
-            "label": "할인권",
-            "value": 30000
-          },
-          {
-            "label": "숙박",
-            "value": 50000
-          },
-          {
-            "label": "교통",
-            "value": 20000
-          }
-        ]
+        "main_number": "25년 전",
+        "main_text": "마치 25년 전 유행이 돌아온 듯한 웨지힐 패션 트렌드"
       },
-      "image_prompt": "cute pastel infographic illustration, autumn leaves, train, airplane, suitcase, discount coupon, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, showing a timeline of fashion trends with a spotlight on Y2K style and wedge heels",
       "detail": {
-        "summary": "문화체육관광부와 한국관광공사가 '여행가는 가을' 캠페인을 통해 3만원 할인권, 기차표 환급 등 다양한 혜택을 제공하며 국내 여행 활성화를 추진, 여행객과 지역 경제 모두에 긍정적 효과가 기대된다.",
+        "summary": "2000년대 초반 유행했던 웨지힐이 다시 패션 트렌드의 중심으로 돌아왔습니다. 유명 아이돌의 착용과 함께 29CM 플랫폼에서 웨지힐 관련 검색량이 전년 대비 크게 증가하며 'Y2K 패션'의 인기를 실감케 합니다.",
         "points": [
-          "문화체육관광부와 한국관광공사, '여행가는 가을' 캠페인 추진",
-          "국내 여행 활성화를 위한 3만원 할인권, 기차표 환급 등 혜택 제공",
-          "여행객들의 저렴한 국내 여행 기회 확대",
-          "수요 증가를 통한 관광업계 및 지역 경제 활성화 기대",
-          "하반기 국내 관광 시장에 긍정적 파급 효과 예상"
+          "웨지힐, 2000년대 초반 유행했던 아이템으로 'Y2K 패션' 트렌드",
+          "패션·라이프스타일 플랫폼 29CM 웨지힐 검색량 279% 증가",
+          "특히 '웨지힐 쪼리' 검색량 857% 급증하며 인기 견인",
+          "제니 등 유명인 착용이 트렌드 확산에 큰 영향"
         ],
-        "quote": "보다 저렴한 가격으로 국내 여행을 즐길 수 있도록 돕는 사업으로, 여행객뿐만 아니라 수요 증가를...",
-        "context": "팬데믹 이후 국내 관광 활성화는 지역 경제 회복과 내수 진작에 중요한 역할을 한다. 정부의 적극적인 지원 정책은 침체된 관광 산업에 활력을 불어넣고 국민의 삶의 질 향상에도 기여할 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005416161?sid=103"
+        "quote": "지난달 17일부터 이달 16일까지 한 달간 ‘웨지힐’ 검색량은 전년 동기 대비 279% 증가했다.",
+        "context": "패션 업계에서 과거 유행이 다시 돌아오는 '레트로(복고)' 트렌드가 지속되는 가운데, 특정 아이템의 부활은 소비자들의 향수를 자극하며 새로운 소비를 이끌고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005737707?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20autumn%20leaves%2C%20train%2C%20airplane%2C%20suitcase%2C%20discount%20coupon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55615&nologo=true"
-    },
-    {
-      "id": "life-k-culture-students",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "pie_chart",
-      "title": "외국인 유학생들, 'K-컬처'와 '가성비'로 서울 선택 증가",
-      "subtitle": "과거 대학 명성보다 '삶의 질'을 중시하는 유학 트렌드 변화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "서울",
-            "label": "선호 도시"
-          },
-          {
-            "value": "K-컬처",
-            "label": "주요 요인"
-          },
-          {
-            "value": "가성비",
-            "label": "주요 요인"
-          }
-        ],
-        "main_number": "유학생 유치",
-        "main_text": "외국인 유학생들이 'K-컬처'와 '가성비'를 이유로 서울을 선택하는 경향 심화",
-        "chart_data": [
-          {
-            "label": "K-컬처",
-            "value": 40
-          },
-          {
-            "label": "가성비",
-            "value": 30
-          },
-          {
-            "label": "대학 명성",
-            "value": 20
-          },
-          {
-            "label": "기타",
-            "value": 10
-          }
-        ]
-      },
-      "image_prompt": "cute pastel infographic illustration, diverse students, Seoul skyline, K-pop, traditional Korean symbols, no text",
-      "detail": {
-        "summary": "외국인 유학생들이 과거 파리, 뉴욕 대신 서울을 선택하는 경우가 늘고 있으며, 이는 K-컬처의 매력과 높은 가성비를 비롯해 '삶의 질'을 중시하는 새로운 유학 트렌드를 반영한다.",
-        "points": [
-          "외국인 유학생들의 서울 선호도 증가, 파리·뉴욕 대체",
-          "K-컬처의 글로벌 인기와 서울의 높은 가성비가 주요 유인책",
-          "대학 명성보다 '라이프스타일, 생활비, 도시 환경' 등 삶의 질 중시",
-          "과거 유학 기준의 변화: 취업 전망보다 생활 만족도 우선",
-          "한국의 소프트 파워가 글로벌 인재 유치에 기여하는 양상"
-        ],
-        "quote": "과거에는 대학의 명성이나 졸업 후 취업 전망이 유학을 결정하는 절대적인 기준이었다면, 오늘날의 학생들은 라이프스타일, 생활비, 도시 환경 등 포괄적인 '삶의 질'을 훨씬 더 중요하게 여기는 추세다.",
-        "context": "K-컬처의 세계적인 확산은 단순한 문화 현상을 넘어 한국의 국가 브랜드 가치를 높이고 다양한 분야에서 실질적인 파급 효과를 낳고 있다. 특히 젊은 세대의 한국 유학 증가는 미래 글로벌 리더 양성에도 긍정적인 영향을 미칠 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/014/0005578251?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20diverse%20students%2C%20Seoul%20skyline%2C%20K-pop%2C%20traditional%20Korean%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22825&nologo=true"
-    },
-    {
-      "id": "life-tea-culture-chagee",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "area_chart",
-      "title": "프리미엄 티 브랜드 '차지(CHAGEE)', 롯데월드점서 한국 차 문화 확산",
-      "subtitle": "한국 시장 커피 중심에서 '차 라이프스타일' 브랜드로 전환 목표",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "CHAGEE",
-            "label": "브랜드명"
-          },
-          {
-            "value": "롯데월드점",
-            "label": "첫 단독 매장"
-          },
-          {
-            "value": "커피 중심",
-            "label": "현재 시장"
-          }
-        ],
-        "main_number": "차 문화 확산",
-        "main_text": "프리미엄 티 브랜드 '차지'가 한국 시장에서 차 문화 확산을 목표로 매장 확대",
-        "trend_label": "음료 시장 점유율 예측",
-        "trend_data": [
-          {
-            "year": 2024,
-            "coffee": 70,
-            "tea": 30
-          },
-          {
-            "year": 2029,
-            "coffee": 60,
-            "tea": 40
-          }
-        ]
-      },
-      "image_prompt": "cute pastel infographic illustration, tea cup, coffee cup, tea leaves, barista, cafe, no text",
-      "detail": {
-        "summary": "프리미엄 차 브랜드 '차지(CHAGEE)'가 롯데월드점에 첫 단독 매장을 열고 '놀이공원 온 듯 차 문화 경험'을 제공하며, 커피 중심인 한국 시장에서 차 라이프스타일 브랜드로 성장하는 것을 목표로 하고 있다.",
-        "points": [
-          "프리미엄 차 브랜드 '차지(CHAGEE)', 롯데월드점에 단독 매장 오픈",
-          "'놀이공원 온 듯 차 문화 경험'을 제공하는 이색 콘셉트",
-          "한국 시장은 여전히 커피 중심의 문화가 주를 이루고 있음 지적",
-          "한국 문화 존중하며 소비자 니즈에 맞는 '차 라이프스타일' 브랜드로 성장 목표",
-          "차 음료 시장의 성장 잠재력 및 새로운 트렌드 제시"
-        ],
-        "quote": "한국은 아직까지 차 문화보다는 여전히 커피 중심의 문화가 주를 이룬다고 생각한다. 한국의 문화를 존중하면서 (차지를) 한국 소비자의 니즈에 맞는 라이프스타일 브랜드로 키우는 것이 목표다.",
-        "context": "커피 시장이 포화 상태에 이른 가운데, 건강과 새로운 경험을 추구하는 소비자들이 늘면서 차(茶) 시장이 새로운 성장 동력으로 부상하고 있다. 프리미엄 차 브랜드의 등장은 국내 음료 시장의 다양성을 확대하고 소비자 선택의 폭을 넓힐 것이다.",
-        "source_url": "http://www.ftoday.co.kr/news/articleView.html?idxno=365751"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20tea%20cup%2C%20coffee%20cup%2C%20tea%20leaves%2C%20barista%2C%20cafe%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93814&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20timeline%20of%20fashion%20trends%20with%20a%20spotlight%20on%20Y2K%20style%20and%20wedge%20heels%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3&nologo=true"
     }
   ],
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T06:24:47.256818+09:00"
+  "generated_at": "2026-09-20T08:47:08.512064+09:00"
 }
