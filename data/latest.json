@@ -1,621 +1,632 @@
 {
   "cards": [
     {
-      "id": "world-oil-straits",
+      "id": "world-03",
       "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "map_timeline",
-      "title": "중동 원유길 2대 해협 봉쇄 위기, 국제유가 '몸살'",
-      "subtitle": "주요 해협 통항 막히며 에너지 대란 우려 고조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2대 해협",
-            "label": "봉쇄 위기"
-          },
-          {
-            "value": "1/3",
-            "label": "세계 원유 물동량"
-          },
-          {
-            "value": "380억 달러+",
-            "label": "이란 전쟁 비용 추정치"
-          }
-        ],
-        "main_number": "+20%",
-        "main_text": "원유 가격 상승 및 운송비 급등"
-      },
-      "image_prompt": "cute pastel infographic illustration, two red-blocked sea straits on a world map, with oil tankers struggling, no text",
-      "detail": {
-        "summary": "세계 원유 물동량의 3분의 1을 담당하는 중동의 두 주요 해협이 봉쇄 위기에 처하며 국제 유가가 급등하고 운송비가 치솟는 등 글로벌 에너지 시장에 비상이 걸렸다. 미국은 이란 전쟁에 뒷짐을 지고 있어 국제사회 우려가 커진다.",
-        "points": [
-          "바브엘만데브해협과 호르무즈 해협 봉쇄 우려 심화",
-          "세계 원유 물동량의 1/3 영향권, 국제유가 불안정 증폭",
-          "미국의 소극적 대응으로 이란 전쟁 장기화 우려",
-          "이란 전쟁 비용 추정치 380억 달러 돌파, 경제적 압박 지속"
-        ],
-        "quote": "전쟁이 지속되는 건 당사국과 국제사회의 공동 이익에 전혀 부합하지 않는다.",
-        "context": "중동의 지정학적 불안정은 글로벌 에너지 공급망과 경제에 직접적인 영향을 미치며, 특히 주요 해협의 봉쇄는 유가 폭등 및 물류 대란으로 이어져 세계 경제 전반에 큰 타격을 줄 수 있어 국제적 관심이 집중되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/036/0000054210?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20red-blocked%20sea%20straits%20on%20a%20world%20map%2C%20with%20oil%20tankers%20struggling%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78486&nologo=true"
-    },
-    {
-      "id": "world-vietnam-thailand",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart_comparison",
-      "title": "베트남 성장률 '질주' vs 태국 '정체', 무엇이 달랐나?",
-      "subtitle": "'차이나 플러스 원' 전략 수혜와 내부 요인이 갈라",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "고령화",
-            "label": "태국 발목"
-          },
-          {
-            "value": "정치 불안",
-            "label": "정책 약화"
-          },
-          {
-            "value": "투자 유치",
-            "label": "베트남 강점"
-          }
-        ],
-        "main_number": "↑GDP 7%",
-        "main_text": "베트남과 태국의 상반된 경제 성장률"
-      },
-      "image_prompt": "cute pastel infographic illustration, comparing two countries with rising and flat growth charts, no text",
-      "detail": {
-        "summary": "베트남은 '차이나 플러스 원' 전략의 수혜를 입어 고성장을 지속하는 반면, 태국은 고령화, 정치적 분열, 전통 제조업 경쟁력 약화 등으로 경제 성장이 정체되고 있어 대조를 이룬다.",
-        "points": [
-          "베트남, '차이나 플러스 원' 전략으로 외국인 투자 유치 활발",
-          "태국, 초고령화, 정치적 분열, 제조업 경쟁력 약화로 성장 정체",
-          "높은 가계 부채로 민간 소비 및 투자 위축 심화",
-          "태국 정부, 장기적 정책 실행력 약화 지적"
-        ],
-        "quote": "태국의 성장 발목을 잡는 내부 요인으로 초고령화 사회 진입에 따른 노동력 감소, 정치적 분열과 정책 실행력 약화, 그리고 전통 제조업의 경쟁력 약화를 꼽았습니다.",
-        "context": "글로벌 공급망 재편 속에서 동남아시아 국가들의 경제 성장 양상이 다양하게 나타나고 있으며, 각국의 정책 방향성과 내부적 요인이 성과에 큰 영향을 미치고 있음을 보여주는 사례다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012260645?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20comparing%20two%20countries%20with%20rising%20and%20flat%20growth%20charts%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32585&nologo=true"
-    },
-    {
-      "id": "world-un-ai-control",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "유엔 안보리, AI 안전 문제 첫 논의…글로벌 거버넌스 시작점",
-      "subtitle": "샘 올트먼 브리핑으로 AI 통제력 상실 위험 공론화",
+      "title": "미중 정상회담: 글로벌 외교의 분수령",
+      "subtitle": "유엔총회 후 주요국 외교전, 세계 경제 불확실성 속 돌파구 찾나",
       "viz_data": {
         "stats": [
           {
-            "value": "첫 논의",
-            "label": "안보리"
+            "value": "유엔총회",
+            "label": "직전 이벤트"
           },
           {
-            "value": "주요 주제",
-            "label": "유엔총회"
+            "value": "미중 정상",
+            "label": "참여 주체"
           },
           {
-            "value": "올트먼",
-            "label": "주요 브리핑"
+            "value": "경제·안보",
+            "label": "주요 의제"
           }
         ],
-        "main_number": "High",
-        "main_text": "AI 통제력 상실 위험성 인지"
+        "main_number": "2개국",
+        "main_text": "주요국 정상외교 집중"
       },
-      "image_prompt": "cute pastel infographic illustration, a world map with interconnected AI icons, showing security and regulation, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, global leaders meeting, globe, flags",
       "detail": {
-        "summary": "유엔 안보리가 처음으로 AI 통제력 상실 위험을 논의했으며, 샘 올트먼 OpenAI CEO가 브리핑에 참여하여 AI 안전 문제가 세계 안보 무대의 주요 의제가 되었다.",
+        "summary": "유엔총회 이후 미중 정상회담이 이어지며 글로벌 외교전이 심화되는 가운데, 이란·우크라이나 전쟁과 유가 상승 등 세계 경제의 불확실성 속에서 돌파구를 마련할지 주목됩니다.",
         "points": [
-          "유엔 안보리에서 AI 통제력 상실 위험 첫 공식 논의",
-          "OpenAI 샘 올트먼 CEO 브리핑 참여, 중요성 부각",
-          "AI 안전 문제, 유엔총회 주요 논의 주제로 부상",
-          "글로벌 AI 거버넌스 및 규제 마련 필요성 증대"
+          "유엔총회 계기 각국 정상외교 활발",
+          "미중 정상회담, 글로벌 외교전의 핵심",
+          "이란·우크라이나 전쟁 장기화, 유가 상승 압박",
+          "AI 안보, 희토류 등 경제·통상 현안 논의",
+          "지정학적 갈등과 경제 불확실성 해소 기대"
         ],
-        "quote": "AI는 다음 주 세계 정상들과의 논의에서 분명 주요 주제가 될 것.",
-        "context": "급변하는 AI 기술의 발전 속도에 맞춰 국제사회는 AI의 윤리적 사용, 안전성 확보, 잠재적 위험에 대한 글로벌 공통의 대응 방안 마련을 위해 긴밀한 협력을 모색하고 있다.",
-        "source_url": "https://www.tjb.co.kr/news05/bodo/view/id/103861"
+        "quote": "지정학적 갈등과 세계 경제의 불확실성이 커진 상황에서 연쇄 정상외교가 국제정세의 돌파구를 마련할 수 있을지 주목된다.",
+        "context": "미국과 중국 간의 관계는 글로벌 경제 및 안보에 막대한 영향을 미치며, 양국 정상의 대화는 전 세계적인 긴장 완화와 협력의 중요한 전환점이 될 수 있습니다.",
+        "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294981"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20world%20map%20with%20interconnected%20AI%20icons%2C%20showing%20security%20and%20regulation%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=50850&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20global%20leaders%20meeting%2C%20globe%2C%20flags%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28376&nologo=true"
     },
     {
-      "id": "economy-fed-rate-hike",
+      "id": "world-06",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "AI 속도조절론과 현실: 앤트로픽의 이중적 행보",
+      "subtitle": "'개발 속도 늦추자' 주장 후 새 모델 출시, 글로벌 AI 시장의 논란 가중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3800단어",
+            "label": "에세이 분량"
+          },
+          {
+            "value": "12일 전",
+            "label": "속도조절론 주장"
+          }
+        ],
+        "main_number": "새 모델",
+        "main_text": "출시 강행"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, gears turning fast and slow, paradox, contradiction",
+      "detail": {
+        "summary": "AI 개발 속도 조절을 주장했던 앤트로픽 CEO가 최근 새로운 AI 모델을 출시하며 논란이 되고 있습니다. 이는 전 세계적인 AI 개발 속도조절 논쟁을 심화시키고 있습니다.",
+        "points": [
+          "앤트로픽 CEO, AI 개발 속도 늦춰야 한다고 주장",
+          "주장 후 얼마 지나지 않아 새 AI 모델 출시",
+          "글로벌 AI 개발 속도조절론에 대한 논쟁 가열",
+          "AI의 윤리적, 사회적 영향에 대한 고민 필요",
+          "기술 발전과 규제의 균형점 탐색 중요"
+        ],
+        "quote": "앤트로픽의 다리오 아모데이 최고경영자는 지난 12일 3800단어 분량의 에세이에서 'AI 모델의 능력을 향상시키는 속도를 늦춰야 한다'고 주장했다.",
+        "context": "AI 기술은 인류의 삶을 혁신할 잠재력을 가졌지만, 동시에 윤리적 문제, 일자리 변화, 통제 불능 가능성 등 다양한 우려를 낳고 있습니다. 이에 대한 기술 기업의 책임 있는 자세가 요구됩니다.",
+        "source_url": "http://www.choicenews.co.kr/news/articleView.html?idxno=171508"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20gears%20turning%20fast%20and%20slow%2C%20paradox%2C%20contradiction%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6462&nologo=true"
+    },
+    {
+      "id": "world-07",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "AI발 반도체 시장 활황: 1조 6천억 달러 시대 개막",
+      "subtitle": "AI 인프라 투자 확대로 2030년 2조 달러 돌파 전망, 전 세계 산업의 핵심 동력",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1조 6천억$",
+            "label": "올해 전망"
+          },
+          {
+            "value": "2조$",
+            "label": "2030년 전망"
+          },
+          {
+            "value": "AI",
+            "label": "주요 성장 동력"
+          }
+        ],
+        "main_number": "+1조 6천억$",
+        "main_text": "반도체 시장 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, semiconductor chips, growth arrow, global market",
+      "detail": {
+        "summary": "인공지능(AI) 인프라 투자 확대에 힘입어 올해 세계 반도체 시장 규모가 1조 6천억 달러를 돌파하고 2030년에는 2조 달러에 이를 것으로 전망됩니다.",
+        "points": [
+          "글로벌 반도체 시장 규모 1조 6천억 달러 돌파 예상",
+          "AI 인프라 투자가 핵심 성장 동력",
+          "메모리 반도체 및 로직 IC의 가파른 성장",
+          "2030년까지 2조 달러 시장 규모 전망",
+          "AI 시대의 핵심 산업으로 부상"
+        ],
+        "quote": "보고서는 '반도체 시장은 AI로 인한 새로운 기회를 맞이하고 있으며, 혁신적인 기술과 투자가 지속될 것'이라고 밝혔다.",
+        "context": "AI 기술의 발전은 고성능 반도체 수요를 폭발적으로 증가시키고 있으며, 이는 전 세계 산업 지형과 경제에 막대한 영향을 미치고 있습니다. 반도체 패권 경쟁은 국가 안보와 직결되는 핵심 이슈로 부상했습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/654/0000201518?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20semiconductor%20chips%2C%20growth%20arrow%2C%20global%20market%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4070&nologo=true"
+    },
+    {
+      "id": "economy-05",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "gauge",
+      "title": "미국발 금리 인상: 국내 기업 자금조달 '빨간불'",
+      "subtitle": "취약 중소·한계기업 금리 상승 부담 가중, 정부의 면밀한 시장 점검 필요성 대두",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "금리 상승",
+            "label": "주요 원인"
+          },
+          {
+            "value": "중소기업",
+            "label": "주요 영향"
+          },
+          {
+            "value": "재무구조",
+            "label": "취약점"
+          }
+        ],
+        "main_number": "비상",
+        "main_text": "자금조달 경고등"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, piggy bank with crack, rising interest rate graph",
+      "detail": {
+        "summary": "미국발 금리 인상으로 인해 국내 기업들의 자금조달에 비상이 걸렸습니다. 특히 재무구조가 취약한 중소기업과 한계기업의 부담이 가중될 것으로 보입니다.",
+        "points": [
+          "미국 금리 인상이 국내 시장에 직접 영향",
+          "중소기업 및 한계기업 자금난 심화 우려",
+          "신용도 낮은 기업의 차입 의존도 높아",
+          "정부의 금리·환율 등 금융시장 점검 촉구",
+          "시장 변화에 따른 기업 지원책 마련 필요"
+        ],
+        "quote": "이시욱 대한상의 경제연구총괄은 '재무구조가 취약한 중소기업과 한계기업은 신용도가 낮고 차입 의존도가 높아 금리 상승 부담이 더 클 수 있다'고 지적했다.",
+        "context": "기준금리 인상은 대출 금리 상승으로 이어져 기업의 이자 부담을 늘리고 투자 및 고용 위축으로 이어질 수 있습니다. 특히 국내 경제의 근간을 이루는 중소기업에 미치는 파급 효과가 큽니다.",
+        "source_url": "http://www.segyebiz.com/newsView/20260920503140?OutUrl=naver"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20piggy%20bank%20with%20crack%2C%20rising%20interest%20rate%20graph%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27255&nologo=true"
+    },
+    {
+      "id": "economy-07",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "美 연준, 금리 인상 지속…인플레이션 우려 여전",
-      "subtitle": "견조한 경제 성장에도 물가 상승률 전망 상향",
+      "title": "비트코인, 1년 새 30% 하락…그럼에도 '죽지 않았다'?",
+      "subtitle": "캐시 우드, AI 시대 생산성 향상으로 경제성장률 7~8% 전망하며 낙관론 제시",
       "viz_data": {
         "stats": [
           {
-            "value": "3.6%→",
-            "label": "PCE 물가 전망"
+            "value": "-30%",
+            "label": "1년 새 하락"
           },
           {
-            "value": "견조",
-            "label": "경제 성장"
+            "value": "7~8%",
+            "label": "AI 시대 경제성장률"
           },
           {
-            "value": "높은 수준",
-            "label": "인플레이션"
+            "value": "디플레이션",
+            "label": "향후 전망"
           }
         ],
-        "main_number": "↑0.25%",
-        "main_text": "기준 금리 추가 인상"
+        "main_number": "-30%",
+        "main_text": "비트코인 1년 하락률"
       },
-      "image_prompt": "cute pastel infographic illustration, a rising line chart for interest rates and inflation, with economic indicators, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, bitcoin icon, downward and upward arrow, future trend",
       "detail": {
-        "summary": "미국 연준이 금리를 다시 인상하며 인플레이션이 여전히 높은 수준이라고 진단했다. 경제는 견조하지만 개인소비지출(PCE) 물가 상승률 전망치를 상향 조정했다.",
+        "summary": "비트코인 가격이 1년 새 30% 하락했지만, 투자전문가 캐시 우드는 AI 시대의 생산성 향상으로 경제성장률이 7~8%까지 오를 수 있다며 낙관적인 전망을 내놓았습니다.",
         "points": [
-          "미 연준, 기준금리 추가 인상 결정",
-          "미국 경제 견조한 성장세 유지 진단",
-          "인플레이션 여전히 높은 수준으로 평가",
-          "올해 PCE 물가 상승률 전망치 3.6%에서 상향 조정"
+          "비트코인 1년 전 대비 30% 가격 하락",
+          "캐시 우드, AI 기술이 경제성장 견인할 것 전망",
+          "생산성 및 효율성 증가로 7~8% 경제성장률 예상",
+          "AI로 인한 디플레이션 가능성 제기",
+          "단기 금리 상승이 금융권에 미칠 충격 우려"
         ],
-        "quote": "미국 경제가 견조한 성장세를 이어가고 있지만 인플레이션은 여전히 높은 수준이라고 진단했다.",
-        "context": "글로벌 경제는 미국 연준의 통화 정책에 큰 영향을 받으며, 금리 인상은 주식 시장, 환율, 기업 투자 등 전반적인 경제 활동에 파급 효과를 미친다. 지속적인 인플레이션 압력은 소비 심리에도 영향을 줄 수 있다.",
-        "source_url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318049"
+        "quote": "캐시 우드는 'AI 시대에 생산성과 효율성이 높아지면서 경제성장률이 7~8%까지 올라갈 수 있다'고 전망했다.",
+        "context": "암호화폐 시장은 거시 경제 환경, 기술 혁신, 규제 동향 등 다양한 요인에 의해 크게 영향을 받습니다. AI 기술의 발전은 금융 시장 전반에 새로운 변동성과 기회를 가져올 것으로 예측됩니다.",
+        "source_url": "https://www.tokenpost.kr/news/cryptocurrency/410944"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20rising%20line%20chart%20for%20interest%20rates%20and%20inflation%2C%20with%20economic%20indicators%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=43335&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20bitcoin%20icon%2C%20downward%20and%20upward%20arrow%2C%20future%20trend%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=72445&nologo=true"
     },
     {
-      "id": "economy-semicon-jobs",
+      "id": "economy-03",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "bar_chart_comparison",
-      "title": "반도체 산업, 일자리 ↑15% vs 신규채용 ↓22%…고용 역설",
-      "subtitle": "자본집약적 산업 특성, 고용 창출 효과 제한적",
+      "viz_type": "growth_chart",
+      "title": "웰에이징 시대: LG생활건강, 건기식 R&D로 신사업 육성",
+      "subtitle": "뷰티·웰니스 분야 스타트업 발굴 및 AI, 헬스케어 기술 협력으로 미래 성장 동력 확보",
       "viz_data": {
         "stats": [
           {
-            "value": "+15%",
-            "label": "전체 일자리"
+            "value": "웰에이징",
+            "label": "핵심 키워드"
           },
           {
-            "value": "-22%",
-            "label": "신규 채용"
+            "value": "R&D",
+            "label": "투자 분야"
           },
           {
-            "value": "낮음",
-            "label": "취업유발 효과"
+            "value": "스타트업",
+            "label": "협력 대상"
           }
         ],
-        "main_number": "↑15% vs ↓22%",
-        "main_text": "반도체 일자리와 신규채용의 상반된 변화"
+        "main_number": "+확대",
+        "main_text": "건기식 사업화"
       },
-      "image_prompt": "cute pastel infographic illustration, two contrasting bar charts showing rising overall jobs and declining new hires in tech, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, green leaves, healthy aging, science beaker, growth arrow",
       "detail": {
-        "summary": "반도체 산업의 전체 일자리는 15% 늘었지만, 신규 채용은 22% 감소하는 역설적인 상황이 발생했다. 이는 반도체 산업의 높은 자본집약도로 인한 낮은 취업유발 효과 때문으로 분석된다.",
+        "summary": "LG생활건강이 웰에이징(Well-aging) 트렌드에 발맞춰 건강기능식품(건기식) R&D 및 사업화를 확대하며 신사업 육성에 나섰습니다. 스타트업 협력을 통해 뷰티·웰니스 분야를 강화합니다.",
         "points": [
-          "반도체 산업 전체 일자리 15% 증가",
-          "신규 채용은 22% 감소하며 고용 시장의 불균형 심화",
-          "높은 자본집약도로 취업유발 효과가 작은 산업 특성",
-          "반도체 호황이 고용과 소득으로 환류되는 경로 제한"
+          "LG생활건강, '웰에이징'을 신사업 핵심으로 선정",
+          "건기식 R&D 및 사업화 적극 확대",
+          "서울창업허브 오픈이노베이션 참여로 스타트업 발굴",
+          "뷰티테크, AI, 컨슈머테크, 헬스케어 등 협업 분야",
+          "미래 성장 동력 확보를 위한 투자 강화"
         ],
-        "quote": "반도체 산업은 높은 자본집약도로 취업유발 효과가 작고 전체 취업자에서 차지하는 비중도 낮다.",
-        "context": "산업의 성장세가 반드시 비례적인 고용 창출로 이어지지 않을 수 있음을 보여주는 사례로, 특히 첨단 산업의 자동화와 고도화가 일자리 시장에 미치는 영향에 대한 논의가 필요하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/082/0001399067?sid=101"
+        "quote": "LG생활건강 관계자는 '급변하는 시장 환경에 선제적으로 대응하고 미래 성장 동력을 확보하기 위해 웰에이징 사업에 역량을 집중하고 있다'고 밝혔다.",
+        "context": "고령화 사회가 심화되면서 건강하고 아름답게 나이 들고자 하는 '웰에이징'에 대한 관심이 커지고 있습니다. 이에 따라 건강기능식품, 헬스케어, 뷰티 산업은 새로운 성장 기회를 맞이하고 있습니다.",
+        "source_url": "https://biz.newdaily.co.kr/site/data/html/2026/09/20/2026092000014.html"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20contrasting%20bar%20charts%20showing%20rising%20overall%20jobs%20and%20declining%20new%20hires%20in%20tech%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27413&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20green%20leaves%2C%20healthy%20aging%2C%20science%20beaker%2C%20growth%20arrow%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96506&nologo=true"
     },
     {
-      "id": "economy-yen-weakness",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "엔화 가치 폭락 지속, 160엔 방어선 붕괴 우려",
-      "subtitle": "금리 인상에도 약세 이어지며 엔캐리 트레이드 위기",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "↓",
-            "label": "엔화 가치"
-          },
-          {
-            "value": "160엔",
-            "label": "저지선"
-          },
-          {
-            "value": "높음",
-            "label": "대외 취약성"
-          }
-        ],
-        "main_number": "160엔",
-        "main_text": "달러당 엔화 환율, 심리적 저지선 위협"
-      },
-      "image_prompt": "cute pastel infographic illustration, a downward trend line for yen value against dollar, showing currency exchange, no text",
-      "detail": {
-        "summary": "일본이 금리를 인상했음에도 엔화 약세가 지속되어 달러당 160엔 수준을 위협하고 있다. 이는 글로벌 외환 시장에 불안감을 조성하며, 엔 캐리 트레이드의 대탈출 우려를 낳고 있다.",
-        "points": [
-          "일본의 금리 인상에도 불구하고 엔화 약세 지속",
-          "달러당 엔화 환율 160엔에 근접, 심리적 저지선 위협",
-          "글로벌 엔 캐리 트레이드 재편 및 대탈출 가능성 제기",
-          "엔화 약세 장기화, 한국 경제에도 긴장감 증폭"
-        ],
-        "quote": "엔화 약세가 장기화할 경우 글로벌 시장에서 한국 경제에도 상당한 긴장감을 던져준다.",
-        "context": "엔화의 지속적인 약세는 글로벌 금융 시장의 불안정성을 높이고, 한국을 포함한 수출 경쟁국들의 경제에 직간접적인 영향을 미칠 수 있어 주요 경제 지표로 주목받고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=202609200830556239e7e8286d56_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20downward%20trend%20line%20for%20yen%20value%20against%20dollar%2C%20showing%20currency%20exchange%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4975&nologo=true"
-    },
-    {
-      "id": "tech-samsung-ai-robot",
+      "id": "tech-04",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "infographic_chart",
-      "title": "삼성전자, 美 테크 포럼서 AI·로봇 사업 청사진 공개",
-      "subtitle": "글로벌 IT 리더들과 함께 AX(AI Experience) 시대 선도 비전 제시",
+      "viz_type": "roadmap",
+      "title": "삼성전자, 실리콘밸리서 AI·로봇 미래 전략 제시",
+      "subtitle": "'AX 선도기업' 비전 공유, 글로벌 IT 인재들과 기술 교류 확대",
       "viz_data": {
         "stats": [
+          {
+            "value": "80여명",
+            "label": "참석 개발자"
+          },
           {
             "value": "8회째",
             "label": "포럼 개최"
           },
           {
-            "value": "80여명",
-            "label": "참석자"
-          },
-          {
-            "value": "AX",
-            "label": "핵심 비전"
+            "value": "AI·로봇",
+            "label": "핵심 기술"
           }
         ],
-        "main_number": "2026",
-        "main_text": "AI·로봇 중심 미래 기술 로드맵"
+        "main_number": "AX",
+        "main_text": "선도기업 도약"
       },
-      "image_prompt": "cute pastel infographic illustration, robotic hand shaking human hand, surrounded by AI interfaces and smart devices, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, robot hand shaking human hand, AI brain, silicon valley skyline",
       "detail": {
-        "summary": "삼성전자가 미국 실리콘밸리에서 '테크 포럼'을 개최하고 AI와 로봇 기술을 중심으로 한 AX(AI Experience) 시대를 선도하겠다는 비전과 사업 전략을 공유했다.",
+        "summary": "삼성전자가 미국 실리콘밸리에서 '2026 테크 포럼'을 개최하고 AI와 로봇 기술을 통한 'AX(AI Experience) 선도기업' 비전을 공유하며 글로벌 인재들과 기술 교류를 확대했습니다.",
         "points": [
-          "삼성전자, 8회째 美 실리콘밸리 테크 포럼 개최",
-          "글로벌 IT 기업 리더급 개발자 80여명 참석",
-          "AI 일상 동반자 비전과 중장기 AI·로봇 사업 전략 공개",
-          "DX부문 핵심 수뇌부 대거 참석, AX 전환 가속화 의지 표명"
+          "삼성전자, 'AX 선도기업' 도약 비전 제시",
+          "AI·로봇 기술을 핵심 성장 동력으로 육성",
+          "글로벌 IT 기업 개발자 및 삼성 경영진 80여명 참석",
+          "최신 기술 트렌드 및 연구 분야 공유",
+          "미래 라이프스타일을 변화시킬 혁신 기술 모색"
         ],
-        "quote": "삼성은 AI 기술을 통해 고객의 일상에 새로운 가치를 더하고, 궁극적으로 더 나은 미래를 만들어나갈 것이다.",
-        "context": "AI와 로봇 기술은 미래 산업의 핵심 동력으로, 삼성전자는 글로벌 시장에서 이 분야의 리더십을 강화하고 기술 혁신을 통해 새로운 성장 동력을 확보하려는 전략을 추진 중이다.",
-        "source_url": "https://www.asiaa.co.kr/news/articleView.html?idxno=263333"
+        "quote": "노태문 DX부문 대표이사 사장은 '고객에게 최고의 AI 경험을 제공하는 AX 선도 기업으로 도약하겠다'고 밝혔다.",
+        "context": "AI와 로봇 기술은 미래 산업의 핵심 동력으로, 삼성전자는 이를 통해 가전, 모바일 등 다양한 제품 및 서비스에서 새로운 사용자 경험을 제공하고자 합니다. 글로벌 기술 인재와의 협력은 이러한 혁신을 가속화하는 중요한 요소입니다.",
+        "source_url": "https://www.sentv.co.kr/article/view/sentv202609200015"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20robotic%20hand%20shaking%20human%20hand%2C%20surrounded%20by%20AI%20interfaces%20and%20smart%20devices%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93628&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20robot%20hand%20shaking%20human%20hand%2C%20AI%20brain%2C%20silicon%20valley%20skyline%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36053&nologo=true"
     },
     {
-      "id": "tech-ai-datacenter-energy",
+      "id": "tech-05",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "AI 데이터센터, 전력 소비 절감 '탈탄소' 전략 부상",
-      "subtitle": "구글·엔비디아 등, 에너지 효율 기술 개발 박차",
+      "viz_type": "timeline",
+      "title": "AI 시대, IT 공채의 변화: 네이버·카카오 신입 채용 전략 재검토",
+      "subtitle": "생성형 AI 확산에 따른 인력 수급 전략 조정, IT 업계 전반에 영향 예상",
       "viz_data": {
         "stats": [
           {
-            "value": "5TWh",
-            "label": "2023년 소비량"
+            "value": "AI 확산",
+            "label": "주요 원인"
           },
           {
-            "value": "65TWh",
-            "label": "2060년 전망치"
+            "value": "채용 전략",
+            "label": "변화 방향"
           },
           {
-            "value": "135TWh",
-            "label": "급증 시나리오"
+            "value": "인력 수급",
+            "label": "중장기 검토"
           }
         ],
-        "main_number": "↑13배",
-        "main_text": "AI 데이터센터 전력 소비량 급증 전망"
+        "main_number": "멈춤",
+        "main_text": "대규모 공채 변화"
       },
-      "image_prompt": "cute pastel infographic illustration, a data center with green energy leaves and decreasing power consumption, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, robots hiring humans, job market shift, AI impact on employment",
       "detail": {
-        "summary": "AI 확산으로 데이터센터 전력 소비량이 급증할 것으로 예상되면서, 구글과 엔비디아 등 주요 기업들이 전력 효율을 높이는 '덜 쓰기' 전략과 기술 개발에 집중하고 있다.",
+        "summary": "네이버와 카카오 등 국내 주요 IT 기업들이 생성형 AI 확산에 따라 대규모 신입 공채 방식에 변화를 주며 중장기 인력 수급 전략을 재검토하고 있습니다. 이는 전체 IT 업계의 채용 흐름에 영향을 미칠 전망입니다.",
         "points": [
-          "국내 데이터센터 전력 소비량 2023년 5TWh → 2060년 65TWh 전망",
-          "AI 확산 시나리오에서는 135TWh까지 확대 가능성",
-          "구글, 엔비디아 등 20여개 기업 에너지 효율 기술 개발 투자",
-          "기존 전력 인프라 확장 대신 효율 개선으로 지속 가능성 모색"
+          "네이버·카카오, 신입 공채 방식 재검토",
+          "생성형 AI 확산이 채용 전략 변화의 주요 원인",
+          "사업 구조 변화 고려한 중장기 인력 수급 전략",
+          "수시 채용 및 경력직 중심 채용 강화 가능성",
+          "AI가 IT 업계 인력 구조에 미치는 영향 주목"
         ],
-        "quote": "AI 확산으로 데이터센터가 더 빠르게 늘어나는 시나리오에서는 135TWh까지 확대될 수 있다.",
-        "context": "AI 기술의 발전은 막대한 연산 능력과 그에 따른 전력 소비를 요구하며, 이는 탄소 배출 문제와 직결된다. 지속 가능한 AI 발전을 위해 전력 효율화는 핵심 과제로 부상하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/031/0001059948?sid=105"
+        "quote": "IT 업계 관계자는 'AI 기술이 빠르게 발전하면서 기업의 필요한 인재상과 조직 운영 방식이 변화하고 있다'고 언급했다.",
+        "context": "AI 기술의 발전은 기존의 업무 방식을 변화시키고, 새로운 기술 역량을 요구하며, 일부 직무의 필요성을 감소시킬 수 있습니다. 이에 기업들은 인재 확보 전략을 전면 재조정하고 있으며, 이는 미래 일자리 시장에 큰 영향을 미칠 것입니다.",
+        "source_url": "https://www.mediafine.co.kr/news/articleView.html?idxno=90294"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20data%20center%20with%20green%20energy%20leaves%20and%20decreasing%20power%20consumption%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37455&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20robots%20hiring%20humans%2C%20job%20market%20shift%2C%20AI%20impact%20on%20employment%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17263&nologo=true"
     },
     {
-      "id": "tech-ai-commerce",
+      "id": "tech-02",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "process_flow",
-      "title": "AI가 바꿔놓을 '에이전틱 커머스' 시대 개막",
-      "subtitle": "식품 유통 전반에 AI 접목, 구매 여정 자동화 가속화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "운영 자동화",
-            "label": "핵심 변화"
-          },
-          {
-            "value": "초개인화",
-            "label": "마케팅"
-          },
-          {
-            "value": "스마트 물류",
-            "label": "지능화"
-          }
-        ],
-        "main_number": "↑효율",
-        "main_text": "AI 기반 유통 시스템 효율 증대"
-      },
-      "image_prompt": "cute pastel infographic illustration, a seamless shopping experience with AI assistants, automated logistics, and personalized recommendations, no text",
-      "detail": {
-        "summary": "AI가 장보기, 물류, 멤버십 등을 넘어 '에이전틱 커머스' 시대를 열고 있다. 식품 유통 기업들은 AI 전환을 통해 운영 자동화, 수익 모델 다변화, 고객 경험 혁신을 추진 중이다.",
-        "points": [
-          "AI가 편의점, 물류, 멤버십 넘어 '에이전틱 커머스' 시대 주도",
-          "국내 식품 유통기업, AI 전환으로 운영 자동화 추진",
-          "초개인화 마케팅 및 물류 지능화로 고객 경험 혁신",
-          "구매 여정 자동화 및 공급망 수직 통합 가속화"
-        ],
-        "quote": "국내 식품 유통기업의 AI 전환은 운영 자동화와 수익모델 다변화, 공급망 수직적 통합, 고객 경험의 피지털화, 물류 지능화, 초개인화 마케팅, 구매 여정 자동화 등으로",
-        "context": "AI 기술은 단순히 생산성을 높이는 것을 넘어, 소비자의 구매 경험과 유통 산업의 비즈니스 모델 자체를 혁신하고 있다. 이는 미래 상업의 핵심 트렌드로 자리매김할 것이다.",
-        "source_url": "https://www.thepowernews.co.kr/view.php?ud=202609181504055468de3f0aa1be_7"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20seamless%20shopping%20experience%20with%20AI%20assistants%2C%20automated%20logistics%2C%20and%20personalized%20recommendations%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=13521&nologo=true"
-    },
-    {
-      "id": "society-korea-non-intervention",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "comparison_chart",
-      "title": "한국, 전쟁 '파병 없다' 선 그어…미국은 'AI군' 창설 구상",
-      "subtitle": "국내 파병 부정적 여론 vs 美 군사 혁신 대비",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "부정적",
-            "label": "한국 여론"
-          },
-          {
-            "value": "AI군",
-            "label": "美 창설 계획"
-          },
-          {
-            "value": "수위 조절",
-            "label": "정부 입장"
-          }
-        ],
-        "main_number": "NO 파병",
-        "main_text": "한국 정부의 전쟁 관여 최소화 기조"
-      },
-      "image_prompt": "cute pastel infographic illustration, two distinct panels, one showing a peaceful Korean flag, another showing a futuristic AI soldier, no text",
-      "detail": {
-        "summary": "한국은 중동 전쟁에 대한 '파병 없음'을 선언하며 수위 조절에 나선 반면, 미국은 트럼프 전 대통령 주도로 'AI군' 창설 구상을 밝히며 군사 혁신에 박차를 가하고 있다.",
-        "points": [
-          "한국 정부, 중동 전쟁 파병에 대해 부정적 입장 표명",
-          "국내 분위기와 정치권의 파병 반대 여론 고려",
-          "트럼프 전 대통령, 우주군 성공 바탕으로 'AI군' 창설 제안",
-          "AI가 차세대 산업혁명이자 GDP의 25% 차지할 잠재력 언급"
-        ],
-        "quote": "우리 내부 분위기나 정치권이나 파병에 대해서 상당히 부정적이거든요.",
-        "context": "국제 분쟁 속에서 각국은 자국의 안보와 국익을 고려한 정책을 펼치고 있다. 한국은 여론을 반영해 신중한 입장을 보이는 반면, 미국은 첨단 기술을 활용한 군사력 강화에 집중하며 미래 안보 패러다임 변화를 예고한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/052/0002409305?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20distinct%20panels%2C%20one%20showing%20a%20peaceful%20Korean%20flag%2C%20another%20showing%20a%20futuristic%20AI%20soldier%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12900&nologo=true"
-    },
-    {
-      "id": "society-sch-ai-education",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "순천향대, AI 혁신 교육과정으로 지역사회 인재 양성",
-      "subtitle": "AI 접목 교육 우수성 인정, 청년·재직자 창업·재교육 지원",
+      "title": "AI 데이터센터, 우리 동네는 '글쎄'… 미국인 11%만 찬성",
+      "subtitle": "급증하는 전력 수요와 전기요금 부담 우려, 정책적 해결 방안 모색 중",
       "viz_data": {
         "stats": [
           {
-            "value": "우수",
-            "label": "교육과정"
+            "value": "11%",
+            "label": "찬성 여론"
           },
           {
-            "value": "창업교육",
-            "label": "지역 청년"
+            "value": "전력수요",
+            "label": "주요 우려"
           },
           {
-            "value": "재직자",
-            "label": "직무 재교육"
+            "value": "전기요금",
+            "label": "경제적 부담"
           }
         ],
-        "main_number": "AI+",
-        "main_text": "AI 융합 교육의 확산"
+        "main_number": "11%",
+        "main_text": "AI 데이터센터 찬성률"
       },
-      "image_prompt": "cute pastel infographic illustration, a university building with AI icons and graduating students, connected to the local community, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, data center building, neighborhood houses, electric meter",
       "detail": {
-        "summary": "순천향대학교가 AI를 접목한 혁신 교육과정의 우수성을 인정받았으며, 지역 청년과 재직자를 대상으로 한 창업 교육, 직무 재교육 등 지역사회 공유 사업도 병행하고 있다.",
+        "summary": "미국에서 AI 데이터센터의 급증하는 전력 수요가 가계 전기요금 부담으로 이어질 수 있다는 우려가 커지면서, '우리 동네에 AI 데이터센터가 들어서는 것에 찬성한다'는 미국인은 11%에 불과한 것으로 나타났습니다.",
         "points": [
-          "순천향대, AI 접목 혁신 교육과정 우수성 인정",
-          "지역 청년 대상 창업 교육 및 직무 재교육 프로그램 운영",
-          "재취업·평생교육 프로그램 통해 지역 인재 역량 강화",
-          "AI·바이오 분야 인재가 지역 산업체에 정착하도록 지원"
+          "AI 데이터센터 전력 수요 급증에 대한 우려",
+          "미국인의 11%만이 지역 내 AI 데이터센터 찬성",
+          "가계 전기요금 부담 증가 가능성 제기",
+          "대규모 전력 사용자의 인프라 비용 부담 방안 논의",
+          "AI 기술 인프라와 지역사회 수용성 간의 갈등"
         ],
-        "quote": "지역사회와 공유하는 사업도 병행한다. 지역 청년과 재직자를 대상으로 한 창업교육과 직무 재교육, 재취업·평생교육 프로그램을 운영하고,",
-        "context": "대학이 지역사회 발전의 거점으로서 첨단 기술 교육을 통해 인재를 양성하고, 이들이 지역 산업에 기여할 수 있도록 연계하는 것은 지방 소멸과 산업 변화에 대응하는 중요한 전략이다.",
-        "source_url": "https://www.viva100.com/article/20260920500045"
+        "quote": "미국 정치권에서도 데이터센터의 급증하는 전력수요가 가계의 전기요금 부담으로 이어질 수 있다는 우려가 커지면서 대규모 전력 사용자가 전력 인프라 비용을 부담하도록 하는 방안이 논의되고 있다.",
+        "context": "AI 기술의 발전을 위해서는 대규모 데이터센터가 필수적이지만, 이들 시설은 막대한 전력을 소비하여 환경 및 지역사회에 부담을 줄 수 있습니다. 기술 발전과 지속가능성, 주민 수용성 사이의 균형을 찾는 것이 중요합니다.",
+        "source_url": "http://www.choicenews.co.kr/news/articleView.html?idxno=171506"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20university%20building%20with%20AI%20icons%20and%20graduating%20students%2C%20connected%20to%20the%20local%20community%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93102&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20data%20center%20building%2C%20neighborhood%20houses%2C%20electric%20meter%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57389&nologo=true"
     },
     {
-      "id": "society-asan-ai-semicon",
+      "id": "society-02",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "map_chart",
-      "title": "아산시, AI 반도체 핵심 거점으로 도약…지역 활력 기대",
-      "subtitle": "국가 경쟁력 강화 및 일자리 창출 효과",
+      "viz_type": "bar_chart",
+      "title": "청년 목소리 98% 반영: 충남도 청년정책, 전국 1위 달성",
+      "subtitle": "전세·취업 사기 예방 교육 확대 및 창업·주거 지원 호평으로 대통령 표창 수상",
       "viz_data": {
         "stats": [
           {
-            "value": "핵심 거점",
-            "label": "AI 반도체"
+            "value": "98%",
+            "label": "의견 반영률"
           },
           {
-            "value": "경쟁력 강화",
-            "label": "국가 산업"
+            "value": "2년",
+            "label": "상승 기간"
           },
           {
-            "value": "일자리",
-            "label": "창출 기대"
+            "value": "전국 1위",
+            "label": "평가"
           }
         ],
-        "main_number": "↑성장",
-        "main_text": "지역 경제 활성화 및 인구 유입"
+        "main_number": "98%",
+        "main_text": "청년 의견 반영률"
       },
-      "image_prompt": "cute pastel infographic illustration, a map of Asan with glowing AI chips and factories, showing economic growth and community benefits, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, young people celebrating, policy document, check mark",
       "detail": {
-        "summary": "아산시가 AI 반도체 핵심 거점으로 발돋움하며 국가 경쟁력 강화는 물론, 지역 경제 활성화와 일자리 창출에 크게 기여할 것으로 기대되고 있다.",
+        "summary": "충남도가 청년들의 제안을 실제 정책에 98% 반영하며 2년 만에 반영률을 24%p 상승시켜 전국 1위를 기록, 대통령 표창을 받았습니다. 전세·취업 사기 예방 교육 확대와 창업·주거 지원 등이 호평을 받았습니다.",
         "points": [
-          "아산시, 첨단 AI 반도체 산업의 중심지로 자리매김",
-          "국가 경쟁력 강화에 기여할 핵심 거점 역할 수행",
-          "지역 경제 활성화 및 대규모 일자리 창출 기대",
-          "지역사회 전반에 긍정적 파급 효과 예상"
+          "충남도 청년정책, 청년 의견 반영률 98% 달성",
+          "2년 새 반영률 24%p 대폭 상승",
+          "전세·취업 사기 예방 교육 고3까지 확대",
+          "창업 및 주거 지원 정책 호평",
+          "청년 참여 확대와 실효성 있는 정책 추진 인정"
         ],
-        "quote": "첨단 산업의 중심지로서 자리매김해 국가의 경쟁력을 강화하고, 또 다른 한편으로는 지역경제 활성화와 일자리 창출로 이어지며 지역사회 전반에 거쳐 긍정적인 영향을 미칠 수 있을 것으로 기대된다.",
-        "context": "첨단 산업의 지방 분산 및 육성은 지역 경제 불균형 해소와 더불어 국가 전체의 산업 경쟁력을 높이는 중요한 전략이다. 아산시의 사례는 이러한 지역 주도 성장의 가능성을 보여준다.",
-        "source_url": "https://www.viva100.com/article/20260920500044"
+        "quote": "충남도 관계자는 '청년들의 목소리에 귀 기울이고 이를 정책에 적극 반영한 결과'라며 '앞으로도 청년이 살기 좋은 충남을 만들기 위해 노력할 것'이라고 밝혔다.",
+        "context": "청년세대의 주거, 일자리, 금융 문제 등은 우리 사회의 핵심 과제입니다. 청년들의 실제 목소리를 정책에 반영하여 체감할 수 있는 변화를 만드는 것은 지속가능한 사회 발전에 필수적입니다.",
+        "source_url": "https://www.ajunews.com/view/20260920094554217"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20of%20Asan%20with%20glowing%20AI%20chips%20and%20factories%2C%20showing%20economic%20growth%20and%20community%20benefits%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65313&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20young%20people%20celebrating%2C%20policy%20document%2C%20check%20mark%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73045&nologo=true"
     },
     {
-      "id": "life-korean-brands-global",
+      "id": "society-04",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "노동계 주목: 금호타이어 생산직, 대체공휴일 가산임금 소송 승소",
+      "subtitle": "24시간 교대제 사업장 가산임금 지급 의무 명확화, 사회 전반 확대 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "금호타이어",
+            "label": "기업"
+          },
+          {
+            "value": "생산직",
+            "label": "원고"
+          },
+          {
+            "value": "일부 승소",
+            "label": "결과"
+          }
+        ],
+        "main_number": "최초",
+        "main_text": "가산임금 명확화 사례"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, calendar with holiday, money bag, factory workers",
+      "detail": {
+        "summary": "금호타이어 생산직 노동자들이 대체공휴일 가산임금 지급 소송에서 일부 승소했습니다. 이는 24시간 교대제로 운영되는 사업장의 가산임금 의무를 명확히 한 최초의 사례로 평가됩니다.",
+        "points": [
+          "금호타이어 생산직, 대체공휴일 가산임금 소송 승소",
+          "24시간 교대제 사업장 가산임금 지급 의무 명확화",
+          "노동조합, 판결의 사회 전반 확대 기대",
+          "노동자의 휴일 근무에 대한 정당한 보상 인정",
+          "유사 사업장의 노동 조건 개선에 영향 예상"
+        ],
+        "quote": "금호타이어 노동조합은 '이번 판결이 병원과 공장처럼 24시간 교대제로 운영되는 사업장의 대체공휴일 가산임금 지급 의무를 명확히 한 최초의 사례'라며 '사회 전반으로 확대되는 계기가 되기를 바란다'고 밝혔다.",
+        "context": "대체공휴일 제도는 국민의 휴식권을 보장하기 위해 도입되었으나, 24시간 교대제 사업장에서는 그 적용에 대한 해석이 분분했습니다. 이번 판결은 이러한 불확실성을 해소하고 노동자의 권익을 한층 더 강화하는 중요한 이정표가 될 것입니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202609200941582813153ddfb15a_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20calendar%20with%20holiday%2C%20money%20bag%2C%20factory%20workers%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86050&nologo=true"
+    },
+    {
+      "id": "society-08",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map",
+      "title": "경북 진료비 2.4조 순유출: 지역 의료 붕괴 위기",
+      "subtitle": "'대구패싱' 넘어 수도권 원정 심화, 지역 의료체계 악순환의 고리 끊어야",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2조 4천억",
+            "label": "연간 순유출액"
+          },
+          {
+            "value": "전국 1위",
+            "label": "유출 규모"
+          },
+          {
+            "value": "수도권 원정",
+            "label": "주요 원인"
+          }
+        ],
+        "main_number": "2.4조",
+        "main_text": "진료비 순유출액"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, map of Korea, money flowing out of region, hospital icons",
+      "detail": {
+        "summary": "경북 지역의 연간 진료비 순유출액이 2조 4천억 원을 넘어서며 전국 1위를 기록했습니다. 이는 '대구패싱'을 넘어 수도권으로의 진료 원정이 심화되고 있음을 보여주며, 지역 의료체계 붕괴를 경고하고 있습니다.",
+        "points": [
+          "경북 지역 진료비 연간 2조 4천억 원 순유출",
+          "전국에서 가장 높은 진료비 유출 규모 기록",
+          "중증·고난도 질환 치료를 위한 수도권 원정 증가",
+          "지역 의료체계의 구조적 악순환 심화 우려",
+          "의료 접근성 개선 및 지역 의료 활성화 시급"
+        ],
+        "quote": "민복기 대구시의사회장은 '대구의 상급종합병원은 중증·고난도 최종 치료에 전념하고, 경북의 거점병원은 응급·필수의료를 강화해야 한다'고 강조했다.",
+        "context": "지역 의료 불균형은 수도권으로의 환자 쏠림 현상을 심화시키고, 지역 의료기관의 경영난과 의료인력 이탈을 초래하여 의료 공백을 심화시킵니다. 이는 지역 주민의 건강권과 직결되는 심각한 사회 문제입니다.",
+        "source_url": "https://www.yeongnam.com/web/view.php?key=20260920028138106"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20map%20of%20Korea%2C%20money%20flowing%20out%20of%20region%2C%20hospital%20icons%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=75401&nologo=true"
+    },
+    {
+      "id": "life-05",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "map_chart",
-      "title": "K-라이프스타일 브랜드, 미국·중국 시장 공략 가속화",
-      "subtitle": "앤켓 美 대형 유통망 진출, 스노우피크 中 매장 확대",
+      "viz_type": "comparison",
+      "title": "'디 올 뉴 투싼' 공개: AI와 함께 더 커진 라이프스타일 경험",
+      "subtitle": "6년 만에 완전변경, 일상과 아웃도어를 아우르는 AI 기반 스마트 모빌리티 제안",
       "viz_data": {
         "stats": [
           {
-            "value": "美 대형",
-            "label": "유통망 진출"
+            "value": "6년",
+            "label": "완전변경 주기"
           },
           {
-            "value": "中 매장",
-            "label": "확대"
+            "value": "AI",
+            "label": "핵심 기술"
           },
           {
-            "value": "글로벌화",
-            "label": "K-브랜드"
+            "value": "XRT",
+            "label": "아웃도어 트림"
           }
         ],
-        "main_number": "↑수출",
-        "main_text": "K-패션/라이프스타일 브랜드의 약진"
+        "main_number": "확장",
+        "main_text": "라이프스타일 경험"
       },
-      "image_prompt": "cute pastel infographic illustration, a world map with pins on USA and China, showing Korean brand logos expanding globally, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, car, AI brain, mountain and city split view",
       "detail": {
-        "summary": "국내 패션·라이프스타일 브랜드들이 해외 핵심 상권 진출에 속도를 내고 있다. 앤켓은 미국 대형 유통망에 진출하고, 스노우피크 어패럴은 중국 매장을 확대하며 글로벌 시장 공략에 박차를 가하고 있다.",
+        "summary": "현대차가 6년 만에 완전변경 모델인 '디 올 뉴 투싼'을 공개했습니다. AI 기술을 품고 일상과 아웃도어 라이프스타일을 모두 아우르는 새로운 디자인과 기능을 선보입니다.",
         "points": [
-          "앤켓, 미국 대형 유통망 진출로 K-패션 위상 강화",
-          "스노우피크 어패럴, 중국 시장 매장 확대 및 반려동물 용품 도입",
-          "K-라이프스타일 브랜드의 해외 시장 경쟁력 입증",
-          "패션을 넘어 다양한 라이프스타일 영역으로 확장"
+          "현대차 '디 올 뉴 투싼' 6년 만에 완전변경 출시",
+          "AI 기술 접목으로 스마트한 주행 경험 제공",
+          "개방감과 직관성 강조한 실내 디자인",
+          "XRT 트림으로 아웃도어 라이프스타일 강조",
+          "고객의 다양한 라이프스타일 맞춤형 모델"
         ],
-        "quote": "국내 패션·라이프스타일 브랜드들이 해외 핵심 상권 진출에 속도를 내는 동시에 국내 프리미엄 매장 확장으로 투트랙 전략을 구사하고 있다.",
-        "context": "한류의 영향력 확대와 더불어 한국 브랜드들의 제품력과 디자인이 세계 시장에서 인정받고 있다. 이는 국내 브랜들이 해외 소비자들의 라이프스타일에 맞춰 다양한 전략을 구사하며 글로벌 경쟁력을 높이는 계기가 된다.",
-        "source_url": "https://www.slist.kr/news/articleView.html?idxno=767482"
+        "quote": "현대차는 'XRT를 일상과 아웃도어를 아우르는 라이프스타일을 추구하는 고객을 위한 모델'이라고 설명했다.",
+        "context": "자동차는 단순한 이동 수단을 넘어 개인의 라이프스타일을 반영하는 중요한 요소가 되고 있습니다. AI, 자율주행 등 첨단 기술의 도입은 차량의 기능성과 경험을 혁신하며 소비자 선택의 폭을 넓히고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/079/0004191243?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20world%20map%20with%20pins%20on%20USA%20and%20China%2C%20showing%20Korean%20brand%20logos%20expanding%20globally%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28648&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20car%2C%20AI%20brain%2C%20mountain%20and%20city%20split%20view%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17118&nologo=true"
     },
     {
-      "id": "life-laundry-drying",
+      "id": "life-07",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "pros_cons_chart",
-      "title": "건조기 vs 자연건조: 섬유 건강과 환경을 위한 선택",
-      "subtitle": "편의성 넘어 옷의 수명과 지속 가능성 고려",
+      "viz_type": "map",
+      "title": "신라모노그램, 베트남 하노이에 4호점…글로벌 라이프스타일 호텔 확장",
+      "subtitle": "다낭, 강릉, 시안에 이어 하노이 진출, 각 지역 문화 반영한 프리미엄 호텔 브랜드 지향",
       "viz_data": {
         "stats": [
           {
-            "value": "8가지",
-            "label": "자연건조 장점"
+            "value": "4호점",
+            "label": "글로벌 확장"
           },
           {
-            "value": "↓에너지",
-            "label": "환경 영향"
+            "value": "하노이",
+            "label": "새로운 거점"
           },
           {
-            "value": "↑수명",
-            "label": "옷의 건강"
+            "value": "2020년",
+            "label": "첫 진출"
           }
         ],
-        "main_number": "ECO",
-        "main_text": "자연건조의 친환경적 이점 부각"
+        "main_number": "4호점",
+        "main_text": "신라모노그램 글로벌 확장"
       },
-      "image_prompt": "cute pastel infographic illustration, a sunny outdoor clothesline with fresh laundry next to a modern laundry machine, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, hotel building, world map, dotted line connecting locations",
       "detail": {
-        "summary": "건조기의 편리함에도 불구하고, 섬유 전문가들은 자연건조가 옷의 색, 형태, 질감을 오래 유지하고 에너지 절약 등 8가지 장점이 있다고 강조하며 지속 가능한 라이프스타일 선택을 제안한다.",
+        "summary": "호텔신라가 베트남 수도 하노이에 라이프스타일 호텔 브랜드 '신라모노그램'의 네 번째 지점을 열고 글로벌 시장 공략을 본격화합니다. 다낭, 강릉, 시안에 이어 하노이로 확장합니다.",
         "points": [
-          "미국 라이프스타일 매체, 자연건조의 8가지 장점 소개",
-          "자연건조, 옷의 색상, 형태, 질감 보존에 유리",
-          "에너지 절약 및 환경 보호에 기여",
-          "세탁 전문가들, 섬유 건강 위한 자연건조 권장"
+          "호텔신라, 베트남 하노이에 '신라모노그램' 4호점 오픈",
+          "글로벌 라이프스타일 호텔 브랜드 확장 가속화",
+          "2020년 다낭 첫 진출 후 강릉, 시안으로 확대",
+          "'더 신라'의 노하우와 지역 문화 결합",
+          "어퍼업스케일 라이프스타일 브랜드 지향"
         ],
-        "quote": "전문가들은 자연건조가 옷의 색과 형태, 질감을 오래 유지하는 데 도움이 된다고",
-        "context": "환경 문제와 지속 가능한 소비에 대한 인식이 높아지면서, 일상생활 속 작은 습관 변화를 통해 환경 보호에 동참하려는 움직임이 확산되고 있다. 가전제품의 편리함과 전통적인 방식의 이점을 비교하며 합리적인 소비를 제고한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/032/0003471473?sid=103"
+        "quote": "호텔신라 관계자는 '하노이 진출을 계기로 베트남 내 사업 기반을 넓히는 동시에 신라모노그램을 글로벌 라이프스타일 호텔 브랜드로 확고히 할 것'이라고 밝혔다.",
+        "context": "글로벌 여행 수요 증가와 함께 지역적 특색을 살린 라이프스타일 호텔의 인기가 높아지고 있습니다. 호텔 브랜드들은 이러한 트렌드에 맞춰 차별화된 경험을 제공하며 해외 시장 확장에 적극 나서고 있습니다.",
+        "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277350"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20sunny%20outdoor%20clothesline%20with%20fresh%20laundry%20next%20to%20a%20modern%20laundry%20machine%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91491&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20hotel%20building%2C%20world%20map%2C%20dotted%20line%20connecting%20locations%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16853&nologo=true"
     },
     {
-      "id": "life-retro-fashion",
+      "id": "life-09",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "Y2K 열풍 이어 '웨지힐' 귀환…레트로 패션 트렌드 강세",
-      "subtitle": "MZ세대 사로잡은 2000년대 초반 유행 아이템",
+      "viz_type": "pie_chart",
+      "title": "추석 선물 트렌드 변화: '취향 저격' 라이프스타일 선물 인기",
+      "subtitle": "가격·품목 중심에서 받는 사람의 취향과 필요를 고려한 '알짜 구성'으로 진화",
       "viz_data": {
         "stats": [
           {
-            "value": "+279%",
-            "label": "웨지힐 검색량"
+            "value": "취향",
+            "label": "핵심 고려사항"
           },
           {
-            "value": "+857%",
-            "label": "웨지힐 쪼리"
+            "value": "라이프스타일",
+            "label": "주요 키워드"
           },
           {
-            "value": "Y2K",
-            "label": "트렌드 연장"
+            "value": "실용성",
+            "label": "선호도 상승"
           }
         ],
-        "main_number": "+279%",
-        "main_text": "웨지힐 검색량 폭발적 증가"
+        "main_number": "진화",
+        "main_text": "명절 선물 문화"
       },
-      "image_prompt": "cute pastel infographic illustration, a trend line showing a sharp increase in 'wedge heels' search, with a retro fashion icon, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, gift boxes with different icons, thought bubble, present delivery",
       "detail": {
-        "summary": "Y2K 패션 열풍에 이어 '웨지힐'이 다시 유행하며 레트로 패션 트렌드가 강세를 보이고 있다. 웨지힐 검색량은 전년 동기 대비 279% 증가했고, 웨지힐 쪼리는 857% 늘어 폭발적인 인기를 입증했다.",
+        "summary": "유통업계가 추석을 앞두고 가격과 품목 중심의 명절 선물에서 벗어나, 받는 사람의 취향과 라이프스타일을 고려한 '알짜 구성'의 선물 선택지를 확대하고 있습니다.",
         "points": [
-          "패션 플랫폼 29CM, 웨지힐 검색량 전년 대비 279% 증가",
-          "특히 '웨지힐 쪼리' 검색량 857% 급증하며 인기 견인",
-          "2000년대 초반 유행했던 웨지힐, MZ세대 사이에서 재유행",
-          "제니 등 셀럽 착용으로 관심 증폭, Y2K 트렌드 연장선"
+          "명절 선물 트렌드 변화: 취향·라이프스타일 중시",
+          "전통적인 선물 외 가전, 와인 등 품목 다양화",
+          "실용성과 개인 맞춤형 선물 선호도 증가",
+          "유통업계, 고객 니즈 반영한 맞춤형 상품 강화",
+          "명절 선물 시장의 진화와 소비 트렌드 변화"
         ],
-        "quote": "지난달 17일부터 이달 16일까지 한 달간 ‘웨지힐’ 검색량은 전년 동기 대비 279% 증가했다. ‘웨지힐 쪼리’ 검색량은 857% 늘었고",
-        "context": "패션 트렌드는 과거의 유행이 주기적으로 돌아오는 경향이 있다. 특히 MZ세대는 새로운 것과 과거의 것을 융합하여 자신만의 스타일을 창조하며, 이러한 레트로 트렌드가 소비 시장에 큰 영향을 미치고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/009/0005737707?sid=103"
+        "quote": "그랜드 하얏트 서울 관계자는 '한우, 수산물 같은 전통적 선물과 함께 와인, 라이프스타일 제품 등 다채로운 구성을 통해 고객 만족도를 높이고 있다'고 설명했다.",
+        "context": "개인의 개성과 만족을 중시하는 소비 트렌드가 확산되면서, 명절 선물 문화에도 변화가 나타나고 있습니다. 단순한 의무에서 벗어나 진정으로 상대방을 위한 '맞춤형 선물'을 고르려는 경향이 강해지고 있습니다.",
+        "source_url": "https://www.slist.kr/news/articleView.html?idxno=767495"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20trend%20line%20showing%20a%20sharp%20increase%20in%20%27wedge%20heels%27%20search%2C%20with%20a%20retro%20fashion%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92136&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20gift%20boxes%20with%20different%20icons%2C%20thought%20bubble%2C%20present%20delivery%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=11632&nologo=true"
     }
   ],
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T09:13:33.236904+09:00"
+  "generated_at": "2026-09-20T10:17:17.797376+09:00"
 }
