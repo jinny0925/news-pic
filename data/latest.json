@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-1",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "comparison",
-      "title": "동남아 경제의 명암: 베트남 질주 vs 태국 정체",
-      "subtitle": "'차이나 플러스 원' 전략이 갈라놓은 동남아시아 경제 성장세",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "베트남",
-            "label": "성장"
-          },
-          {
-            "value": "태국",
-            "label": "정체"
-          },
-          {
-            "value": "6개국",
-            "label": "동남아"
-          }
-        ],
-        "main_number": "+7.2%",
-        "main_text": "베트남, 고부가가치 경제 전환으로 2026-2035년 연평균 고성장 기대"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, comparing two Southeast Asian countries' economic growth, with upward arrow for one and flat arrow for the other",
-      "detail": {
-        "summary": "초고령화, 정치적 분열 등으로 정체된 태국과 달리, 베트남은 '차이나 플러스 원' 전략을 통해 고부가가치 경제로 전환하며 고성장을 이어갈 것으로 전망됩니다.",
-        "points": [
-          "베트남, 제조업 및 고부가가치 경제 전환으로 질주",
-          "태국, 초고령화·정치 분열로 성장 정체",
-          "'차이나 플러스 원' 전략 수혜국과 미수혜국 명암 갈려",
-          "동남아 6대 경제국의 2026-2035년 경제성장 전망 비교"
-        ],
-        "quote": "태국의 초고령화 사회 진입에 따른 노동력 감소가 성장의 발목을 잡고 있다.",
-        "context": "미국과 중국 간의 무역 갈등이 심화되면서 글로벌 공급망 재편이 가속화되는 가운데, 동남아 국가들의 경제 성장 전략과 그 결과가 주목받고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012260645?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20comparing%20two%20Southeast%20Asian%20countries%27%20economic%20growth%2C%20with%20upward%20arrow%20for%20one%20and%20flat%20arrow%20for%20the%20other%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28766&nologo=true"
-    },
-    {
-      "id": "world-2",
+      "id": "world-oil-straits",
       "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "'세계 외교 슈퍼위크' 유엔총회, 미중 정상회담 동시 개최",
-      "subtitle": "이란전쟁 출구, AI 안전장치 등 주요 글로벌 현안 논의 집중",
+      "viz_type": "map_timeline",
+      "title": "중동 원유길 2대 해협 봉쇄 위기, 국제유가 '몸살'",
+      "subtitle": "주요 해협 통항 막히며 에너지 대란 우려 고조",
       "viz_data": {
         "stats": [
           {
-            "value": "2건",
-            "label": "주요 회담"
+            "value": "2대 해협",
+            "label": "봉쇄 위기"
           },
           {
-            "value": "4개",
-            "label": "핵심 의제"
+            "value": "1/3",
+            "label": "세계 원유 물동량"
           },
           {
-            "value": "81차",
-            "label": "유엔총회"
+            "value": "380억 달러+",
+            "label": "이란 전쟁 비용 추정치"
           }
         ],
-        "main_number": "22일",
-        "main_text": "유엔총회 일반토의, 주요 정상회담과 함께 22일 시작 예정"
+        "main_number": "+20%",
+        "main_text": "원유 가격 상승 및 운송비 급등"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a globe with meeting icons, representing UN General Assembly and US-China summit",
+      "image_prompt": "cute pastel infographic illustration, two red-blocked sea straits on a world map, with oil tankers struggling, no text",
       "detail": {
-        "summary": "제81차 유엔총회와 미중 정상회담이 연이어 열리며 '세계 외교 슈퍼위크'가 펼쳐집니다. 이란전쟁, 우크라이나 전쟁 장기화, AI 안전장치 마련 등 해법 모색에 전 세계의 이목이 쏠리고 있습니다.",
+        "summary": "세계 원유 물동량의 3분의 1을 담당하는 중동의 두 주요 해협이 봉쇄 위기에 처하며 국제 유가가 급등하고 운송비가 치솟는 등 글로벌 에너지 시장에 비상이 걸렸다. 미국은 이란 전쟁에 뒷짐을 지고 있어 국제사회 우려가 커진다.",
         "points": [
-          "제81차 유엔총회 일반토의, 현지시간 22일 시작",
-          "트럼프 美 대통령과 시진핑 中 국가주석의 미중 정상회담 개최",
-          "이란·우크라이나 전쟁 장기화에 따른 유가 상승 압박 논의",
-          "인공지능(AI) 개발 및 안전장치 마련 주요 의제로 부상"
+          "바브엘만데브해협과 호르무즈 해협 봉쇄 우려 심화",
+          "세계 원유 물동량의 1/3 영향권, 국제유가 불안정 증폭",
+          "미국의 소극적 대응으로 이란 전쟁 장기화 우려",
+          "이란 전쟁 비용 추정치 380억 달러 돌파, 경제적 압박 지속"
         ],
-        "quote": "유가 상승이 세계 경제를 압박하는 가운데, 연쇄 정상외교에서 해법의 실마리가 나올지 관심이 쏠립니다.",
-        "context": "글로벌 복합 위기 속에서 세계 주요 강대국 정상들이 한자리에 모여 해법을 논의하는 자리로, 국제사회 안정과 미래 방향성에 큰 영향을 미칠 것으로 예상됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012260646?sid=104"
+        "quote": "전쟁이 지속되는 건 당사국과 국제사회의 공동 이익에 전혀 부합하지 않는다.",
+        "context": "중동의 지정학적 불안정은 글로벌 에너지 공급망과 경제에 직접적인 영향을 미치며, 특히 주요 해협의 봉쇄는 유가 폭등 및 물류 대란으로 이어져 세계 경제 전반에 큰 타격을 줄 수 있어 국제적 관심이 집중되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/036/0000054210?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20globe%20with%20meeting%20icons%2C%20representing%20UN%20General%20Assembly%20and%20US-China%20summit%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=8144&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20red-blocked%20sea%20straits%20on%20a%20world%20map%2C%20with%20oil%20tankers%20struggling%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78486&nologo=true"
     },
     {
-      "id": "world-3",
+      "id": "world-vietnam-thailand",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "EU, '메이드 인 유럽' 장벽 강화…韓기업 대응 총력",
-      "subtitle": "배터리·전기차 등 전략 산업 투자에 고용 요건 등 까다로운 사전 심사",
+      "viz_type": "bar_chart_comparison",
+      "title": "베트남 성장률 '질주' vs 태국 '정체', 무엇이 달랐나?",
+      "subtitle": "'차이나 플러스 원' 전략 수혜와 내부 요인이 갈라",
       "viz_data": {
         "stats": [
           {
-            "value": "40%↑",
-            "label": "역내 제조역량 기준"
+            "value": "고령화",
+            "label": "태국 발목"
           },
           {
-            "value": "1억유로↑",
-            "label": "투자심사 기준"
+            "value": "정치 불안",
+            "label": "정책 약화"
           },
           {
-            "value": "4개",
-            "label": "전략 산업"
+            "value": "투자 유치",
+            "label": "베트남 강점"
           }
         ],
-        "main_number": "1억 유로",
-        "main_text": "EU, 1억 유로 이상 투자 시 역내 제조 역량 40% 이상 기업 심사"
+        "main_number": "↑GDP 7%",
+        "main_text": "베트남과 태국의 상반된 경제 성장률"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a map of Europe with a raised barrier and factories, representing trade policy",
+      "image_prompt": "cute pastel infographic illustration, comparing two countries with rising and flat growth charts, no text",
       "detail": {
-        "summary": "유럽연합(EU)이 '메이드 인 유럽' 장벽을 높이며 배터리, 전기차 등 전략 산업에 대한 역외 기업의 투자를 까다롭게 심사하고 있습니다. 우리 기업들은 EU의 산업, 공급망, 환경 관련 제도 변화에 대한 면밀한 대응이 필요합니다.",
+        "summary": "베트남은 '차이나 플러스 원' 전략의 수혜를 입어 고성장을 지속하는 반면, 태국은 고령화, 정치적 분열, 전통 제조업 경쟁력 약화 등으로 경제 성장이 정체되고 있어 대조를 이룬다.",
         "points": [
-          "EU, 배터리·전기차·태양광·핵심원자재 4대 전략산업 지정",
-          "1억유로 이상 투자 시 역외 기업의 역내 제조 역량 40% 이상 여부 심사",
-          "지분 구조, 고용 요건 등 까다로운 승인 조건 요구",
-          "한국 기업, EU 제도 변화에 대한 통상 전략 재정비 시급"
+          "베트남, '차이나 플러스 원' 전략으로 외국인 투자 유치 활발",
+          "태국, 초고령화, 정치적 분열, 제조업 경쟁력 약화로 성장 정체",
+          "높은 가계 부채로 민간 소비 및 투자 위축 심화",
+          "태국 정부, 장기적 정책 실행력 약화 지적"
         ],
-        "quote": "EU의 산업·공급망·환경 관련 제도 변화는 우리 기업의 경제활동에 직접 영향을 미치는 중요한 통상환경이다.",
-        "context": "미국에 이어 EU까지 자국 중심의 공급망 재편 및 산업 보호주의 정책을 강화하면서, 한국 기업들은 글로벌 시장에서 새로운 통상 장벽에 직면하고 있습니다.",
-        "source_url": "https://news.mtn.co.kr/news-detail/2026091817064625772"
+        "quote": "태국의 성장 발목을 잡는 내부 요인으로 초고령화 사회 진입에 따른 노동력 감소, 정치적 분열과 정책 실행력 약화, 그리고 전통 제조업의 경쟁력 약화를 꼽았습니다.",
+        "context": "글로벌 공급망 재편 속에서 동남아시아 국가들의 경제 성장 양상이 다양하게 나타나고 있으며, 각국의 정책 방향성과 내부적 요인이 성과에 큰 영향을 미치고 있음을 보여주는 사례다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012260645?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20Europe%20with%20a%20raised%20barrier%20and%20factories%2C%20representing%20trade%20policy%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62333&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20comparing%20two%20countries%20with%20rising%20and%20flat%20growth%20charts%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32585&nologo=true"
     },
     {
-      "id": "economy-1",
+      "id": "world-un-ai-control",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "network",
-      "title": "'800조 호남 반도체 클러스터' 컨트롤타워 과제",
-      "subtitle": "행정, 정치권, 경제계, 대학 등 백가쟁명 속 효율적 거버넌스 설계 시급",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "800조원+",
-            "label": "총 투자액"
-          },
-          {
-            "value": "5개",
-            "label": "참여 주체"
-          },
-          {
-            "value": "1곳",
-            "label": "필요 컨트롤타워"
-          }
-        ],
-        "main_number": "800조원",
-        "main_text": "호남권 반도체 클러스터, 단군 이래 최대 투자 규모"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing multiple gears or nodes connecting to a central control unit, representing governance for a large cluster",
-      "detail": {
-        "summary": "800조 원 규모의 호남권 반도체 클러스터 조성을 두고 행정, 정치권, 경제계, 대학 등 여러 지원 조직이 생겨나면서, 이들을 하나의 '원팀'으로 묶어낼 효율적인 거버넌스 설계가 핵심 과제로 떠올랐습니다.",
-        "points": [
-          "호남권 반도체 클러스터, 단군 이래 최대 규모 800조원 투자 예상",
-          "행정, 의회, 정당, 경제계, 대학 등 다양한 주체 참여",
-          "기업 유치, 인력 양성, R&D, 소부장 육성 동시다발적 추진",
-          "중복 투자 및 비효율 방지를 위한 통합 컨트롤타워 필요성 증대"
-        ],
-        "quote": "하나의 원팀으로 묶어낼 거버넌스 설계가 과제로 지목된다.",
-        "context": "글로벌 반도체 경쟁 심화와 첨단 산업 육성 정책에 따라 대규모 반도체 클러스터 조성이 추진되는 가운데, 효율적인 사업 추진을 위한 통합 관리 시스템의 중요성이 강조되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014202007?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20multiple%20gears%20or%20nodes%20connecting%20to%20a%20central%20control%20unit%2C%20representing%20governance%20for%20a%20large%20cluster%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88522&nologo=true"
-    },
-    {
-      "id": "economy-2",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
+      "category": "world",
+      "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "'과대망상' 조롱 딛고 세계 1위…K반도체의 역사와 성장",
-      "subtitle": "1980년대 냉담한 시선 속, 경기도를 중심으로 태동한 K반도체 산업의 성공 스토리",
+      "title": "유엔 안보리, AI 안전 문제 첫 논의…글로벌 거버넌스 시작점",
+      "subtitle": "샘 올트먼 브리핑으로 AI 통제력 상실 위험 공론화",
       "viz_data": {
         "stats": [
           {
-            "value": "1974년",
-            "label": "태동 시작"
+            "value": "첫 논의",
+            "label": "안보리"
           },
           {
-            "value": "세계 1위",
-            "label": "현재 위상"
+            "value": "주요 주제",
+            "label": "유엔총회"
           },
           {
-            "value": "50년",
-            "label": "성장 역사"
+            "value": "올트먼",
+            "label": "주요 브리핑"
           }
         ],
-        "main_number": "50년",
-        "main_text": "삼성 반도체 사업 시작부터 현재까지 약 50년의 역사"
+        "main_number": "High",
+        "main_text": "AI 통제력 상실 위험성 인지"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a timeline with a small chip growing into a large, complex circuit board",
+      "image_prompt": "cute pastel infographic illustration, a world map with interconnected AI icons, showing security and regulation, no text",
       "detail": {
-        "summary": "1980년대 '과대망상'이라는 비판 속에서도 경기도를 중심으로 태동한 K반도체 산업이 현재는 국내 경제를 이끄는 주력 산업이자 세계 1위의 위상을 자랑합니다.",
+        "summary": "유엔 안보리가 처음으로 AI 통제력 상실 위험을 논의했으며, 샘 올트먼 OpenAI CEO가 브리핑에 참여하여 AI 안전 문제가 세계 안보 무대의 주요 의제가 되었다.",
         "points": [
-          "1974년 삼성 이병철 창업회장 주도로 반도체 사업 시작",
-          "1980년대 중화학공업 중심 경제에서 냉담한 시선 직면",
-          "한국 내수 시장의 한계, 반도체 인프라 부족 등의 어려움",
-          "현재 명실상부 국내 경제 주력 산업이자 글로벌 시장 선도"
+          "유엔 안보리에서 AI 통제력 상실 위험 첫 공식 논의",
+          "OpenAI 샘 올트먼 CEO 브리핑 참여, 중요성 부각",
+          "AI 안전 문제, 유엔총회 주요 논의 주제로 부상",
+          "글로벌 AI 거버넌스 및 규제 마련 필요성 증대"
         ],
-        "quote": "지금이야 반도체가 명실상부 국내 경제지표를 이끌고 있는 주력산업이지만...",
-        "context": "한국 경제의 핵심 동력으로 자리 잡은 반도체 산업이 초창기에는 많은 어려움과 비관적인 시선을 극복해야 했다는 점에서, 현재의 성공은 더욱 값지게 평가됩니다.",
-        "source_url": "https://www.kyeongin.com/article/1771153"
+        "quote": "AI는 다음 주 세계 정상들과의 논의에서 분명 주요 주제가 될 것.",
+        "context": "급변하는 AI 기술의 발전 속도에 맞춰 국제사회는 AI의 윤리적 사용, 안전성 확보, 잠재적 위험에 대한 글로벌 공통의 대응 방안 마련을 위해 긴밀한 협력을 모색하고 있다.",
+        "source_url": "https://www.tjb.co.kr/news05/bodo/view/id/103861"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20timeline%20with%20a%20small%20chip%20growing%20into%20a%20large%2C%20complex%20circuit%20board%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73640&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20world%20map%20with%20interconnected%20AI%20icons%2C%20showing%20security%20and%20regulation%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=50850&nologo=true"
     },
     {
-      "id": "economy-3",
+      "id": "economy-fed-rate-hike",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "추석 연휴 앞둔 증시…변동성 확대 속 투자 전략은?",
-      "subtitle": "미중 정상회담 등 거시경제 불확실성 상존, 하락 시 매수 기회될 수도",
+      "title": "美 연준, 금리 인상 지속…인플레이션 우려 여전",
+      "subtitle": "견조한 경제 성장에도 물가 상승률 전망 상향",
       "viz_data": {
         "stats": [
           {
-            "value": "9월",
-            "label": "FOMC"
+            "value": "3.6%→",
+            "label": "PCE 물가 전망"
           },
           {
-            "value": "2건",
-            "label": "핵심 이벤트"
+            "value": "견조",
+            "label": "경제 성장"
           },
           {
-            "value": "IT하드웨어",
-            "label": "주목 섹터"
+            "value": "높은 수준",
+            "label": "인플레이션"
           }
         ],
-        "main_number": "+195조",
-        "main_text": "연초 이후 외국인 순매도 규모, 변동성 높은 시장 상황 반영"
+        "main_number": "↑0.25%",
+        "main_text": "기준 금리 추가 인상"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a stock market graph with ups and downs, highlighting upcoming events",
+      "image_prompt": "cute pastel infographic illustration, a rising line chart for interest rates and inflation, with economic indicators, no text",
       "detail": {
-        "summary": "추석 연휴를 앞두고 미중 정상회담, 9월 FOMC 등 거시경제 불확실성이 커지면서 주식 시장의 변동성 확대가 예상됩니다. 그러나 증권가에서는 하락 시 비중 확대를 위한 기회가 될 수 있다는 분석도 나옵니다.",
+        "summary": "미국 연준이 금리를 다시 인상하며 인플레이션이 여전히 높은 수준이라고 진단했다. 경제는 견조하지만 개인소비지출(PCE) 물가 상승률 전망치를 상향 조정했다.",
         "points": [
-          "미국 FOMC, 미중 정상회담 등 거시경제 불확실성 요인",
-          "증권가, 하락 시 비중확대 기회로 활용할 것을 권고",
-          "자동차, 운송, 통신서비스, 제약바이오, 증권, 전력기기, 2차전지, IT하드웨어 등 주목",
-          "기술적 반등 및 수급 개선 기대감도 존재"
+          "미 연준, 기준금리 추가 인상 결정",
+          "미국 경제 견조한 성장세 유지 진단",
+          "인플레이션 여전히 높은 수준으로 평가",
+          "올해 PCE 물가 상승률 전망치 3.6%에서 상향 조정"
         ],
-        "quote": "하락 시 비중확대 기회로 활용하는 것이 적절할 것.",
-        "context": "주요 경제 이벤트와 연휴를 앞둔 시점은 투자 심리에 큰 영향을 미치며, 신중한 접근과 동시에 잠재적 투자 기회를 모색하는 것이 중요합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/015/0005334207?sid=101"
+        "quote": "미국 경제가 견조한 성장세를 이어가고 있지만 인플레이션은 여전히 높은 수준이라고 진단했다.",
+        "context": "글로벌 경제는 미국 연준의 통화 정책에 큰 영향을 받으며, 금리 인상은 주식 시장, 환율, 기업 투자 등 전반적인 경제 활동에 파급 효과를 미친다. 지속적인 인플레이션 압력은 소비 심리에도 영향을 줄 수 있다.",
+        "source_url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318049"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20stock%20market%20graph%20with%20ups%20and%20downs%2C%20highlighting%20upcoming%20events%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6819&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20rising%20line%20chart%20for%20interest%20rates%20and%20inflation%2C%20with%20economic%20indicators%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=43335&nologo=true"
     },
     {
-      "id": "tech-1",
+      "id": "economy-semicon-jobs",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart_comparison",
+      "title": "반도체 산업, 일자리 ↑15% vs 신규채용 ↓22%…고용 역설",
+      "subtitle": "자본집약적 산업 특성, 고용 창출 효과 제한적",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+15%",
+            "label": "전체 일자리"
+          },
+          {
+            "value": "-22%",
+            "label": "신규 채용"
+          },
+          {
+            "value": "낮음",
+            "label": "취업유발 효과"
+          }
+        ],
+        "main_number": "↑15% vs ↓22%",
+        "main_text": "반도체 일자리와 신규채용의 상반된 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration, two contrasting bar charts showing rising overall jobs and declining new hires in tech, no text",
+      "detail": {
+        "summary": "반도체 산업의 전체 일자리는 15% 늘었지만, 신규 채용은 22% 감소하는 역설적인 상황이 발생했다. 이는 반도체 산업의 높은 자본집약도로 인한 낮은 취업유발 효과 때문으로 분석된다.",
+        "points": [
+          "반도체 산업 전체 일자리 15% 증가",
+          "신규 채용은 22% 감소하며 고용 시장의 불균형 심화",
+          "높은 자본집약도로 취업유발 효과가 작은 산업 특성",
+          "반도체 호황이 고용과 소득으로 환류되는 경로 제한"
+        ],
+        "quote": "반도체 산업은 높은 자본집약도로 취업유발 효과가 작고 전체 취업자에서 차지하는 비중도 낮다.",
+        "context": "산업의 성장세가 반드시 비례적인 고용 창출로 이어지지 않을 수 있음을 보여주는 사례로, 특히 첨단 산업의 자동화와 고도화가 일자리 시장에 미치는 영향에 대한 논의가 필요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/082/0001399067?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20contrasting%20bar%20charts%20showing%20rising%20overall%20jobs%20and%20declining%20new%20hires%20in%20tech%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27413&nologo=true"
+    },
+    {
+      "id": "economy-yen-weakness",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "엔화 가치 폭락 지속, 160엔 방어선 붕괴 우려",
+      "subtitle": "금리 인상에도 약세 이어지며 엔캐리 트레이드 위기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "↓",
+            "label": "엔화 가치"
+          },
+          {
+            "value": "160엔",
+            "label": "저지선"
+          },
+          {
+            "value": "높음",
+            "label": "대외 취약성"
+          }
+        ],
+        "main_number": "160엔",
+        "main_text": "달러당 엔화 환율, 심리적 저지선 위협"
+      },
+      "image_prompt": "cute pastel infographic illustration, a downward trend line for yen value against dollar, showing currency exchange, no text",
+      "detail": {
+        "summary": "일본이 금리를 인상했음에도 엔화 약세가 지속되어 달러당 160엔 수준을 위협하고 있다. 이는 글로벌 외환 시장에 불안감을 조성하며, 엔 캐리 트레이드의 대탈출 우려를 낳고 있다.",
+        "points": [
+          "일본의 금리 인상에도 불구하고 엔화 약세 지속",
+          "달러당 엔화 환율 160엔에 근접, 심리적 저지선 위협",
+          "글로벌 엔 캐리 트레이드 재편 및 대탈출 가능성 제기",
+          "엔화 약세 장기화, 한국 경제에도 긴장감 증폭"
+        ],
+        "quote": "엔화 약세가 장기화할 경우 글로벌 시장에서 한국 경제에도 상당한 긴장감을 던져준다.",
+        "context": "엔화의 지속적인 약세는 글로벌 금융 시장의 불안정성을 높이고, 한국을 포함한 수출 경쟁국들의 경제에 직간접적인 영향을 미칠 수 있어 주요 경제 지표로 주목받고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202609200830556239e7e8286d56_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20downward%20trend%20line%20for%20yen%20value%20against%20dollar%2C%20showing%20currency%20exchange%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4975&nologo=true"
+    },
+    {
+      "id": "tech-samsung-ai-robot",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "flow_chart",
-      "title": "캠퍼스 창업 생태계 활성화…기술 스타트업 성장 지원",
-      "subtitle": "AI·빅데이터부터 하드웨어까지, 다양한 기술 분야 스타트업과 투자자 연결",
+      "viz_type": "infographic_chart",
+      "title": "삼성전자, 美 테크 포럼서 AI·로봇 사업 청사진 공개",
+      "subtitle": "글로벌 IT 리더들과 함께 AX(AI Experience) 시대 선도 비전 제시",
       "viz_data": {
         "stats": [
           {
-            "value": "4개",
-            "label": "기술 분야"
+            "value": "8회째",
+            "label": "포럼 개최"
           },
           {
-            "value": "성장",
-            "label": "목표"
+            "value": "80여명",
+            "label": "참석자"
           },
           {
-            "value": "캠퍼스",
-            "label": "창업 거점"
-          }
-        ],
-        "main_number": "4개 분야",
-        "main_text": "AI·빅데이터, SaaS 등 4개 기술 분야 스타트업 참여"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a flow from a university building to a market, with arrows connecting startups and investors",
-      "detail": {
-        "summary": "'PARTNER CONNECT' 행사를 통해 캠퍼스 기반 스타트업들이 AI·빅데이터, SaaS, 제조·소부장 등 다양한 기술 분야에서 투자자들에게 사업과 기술의 성장 가능성을 선보였습니다. 이는 초기 창업 기업의 시장 진출을 돕는 중요한 연결고리 역할을 합니다.",
-        "points": [
-          "AI·빅데이터, SaaS·IT·소프트웨어, 제조·소부장, 하드웨어·모빌리티·로보틱스 4개 분야 참가",
-          "스타트업, 투자자를 대상으로 사업 및 기술 성장 가능성 소개",
-          "캠퍼스 창업 기업의 시장 안착 및 스케일업 지원 목표",
-          "투자자와 기업 간 네트워킹을 통한 시너지 창출 기대"
-        ],
-        "quote": "발표만으로 기업을 판단하기 어려운 투자자를 위해 심층적인 비즈니스 미팅 기회도 제공됐다.",
-        "context": "기술 기반 스타트업이 빠르게 성장하고 투자 유치가 중요해지는 환경에서, 캠퍼스 내 기술력을 시장과 연결하는 플랫폼의 역할이 더욱 강조되고 있습니다.",
-        "source_url": "https://www.venturesquare.net/1115285/"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20flow%20from%20a%20university%20building%20to%20a%20market%2C%20with%20arrows%20connecting%20startups%20and%20investors%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80593&nologo=true"
-    },
-    {
-      "id": "tech-2",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "comparison",
-      "title": "교육 AI, '정답 제시' 넘어 '생각 확장'으로 진화해야",
-      "subtitle": "학습 과정 데이터 활용 및 교사 개입을 통한 실제 학습 효과 입증이 관건",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "정답",
-            "label": "기존 AI"
-          },
-          {
-            "value": "생각",
-            "label": "미래 AI"
-          },
-          {
-            "value": "교사",
-            "label": "개입 필요성"
-          }
-        ],
-        "main_number": "3단계",
-        "main_text": "교육 IT 발전의 핵심: 데이터 책임 활용, 교사 개입, 학습 효과 입증"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing two different types of AI in education, one giving answers and the other fostering critical thinking",
-      "detail": {
-        "summary": "교육 AI의 진정한 효과를 내기 위해서는 단순히 정답을 알려주는 역할을 넘어, 학생들의 사고력을 키우는 방향으로 발전해야 합니다. 이를 위해 학습 과정 데이터의 책임 있는 활용과 교사의 개입이 필수적입니다.",
-        "points": [
-          "교육 AI, 정답 제시를 넘어 사고력 증진에 초점 맞춰야",
-          "학습 과정 데이터의 책임 있는 활용 강조",
-          "교사의 AI 활용 과정 개입 및 통제권 보장",
-          "실제 학습 효과를 입증하는 기술 개발 중요성 부각"
-        ],
-        "quote": "교육 IT의 성장 가능성은 기능을 더하는 데서 끝나지 않는다.",
-        "context": "AI 기술이 교육 현장에 빠르게 도입되면서, AI의 역할과 교육적 가치를 극대화하기 위한 방향성에 대한 논의가 활발히 이루어지고 있습니다.",
-        "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092170440"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20two%20different%20types%20of%20AI%20in%20education%2C%20one%20giving%20answers%20and%20the%20other%20fostering%20critical%20thinking%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93886&nologo=true"
-    },
-    {
-      "id": "tech-3",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "트럼프, 'AI 전담조직' 창설 예고…업계는 기대와 불안 교차",
-      "subtitle": "규제 완화 통한 성장 기대 vs 개발 속도 조절 및 안전 규제 강화 요구와 상충",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1개",
-            "label": "전담 조직"
-          },
-          {
-            "value": "기대",
-            "label": "업계 반응"
-          },
-          {
-            "value": "불안",
-            "label": "동시 존재"
-          }
-        ],
-        "main_number": "25%",
-        "main_text": "AI가 미국 GDP의 25%에 이를 수 있다는 트럼프 발언"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a balancing scale with 'hope' and 'concern' about AI policy, above a government building",
-      "detail": {
-        "summary": "도널드 트럼프 전 대통령이 집권 시 'AI 전담조직'을 만들어 AI 산업 성장을 촉진하겠다고 밝히면서, 업계에서는 규제 완화에 대한 기대와 함께 개발 속도 조절 및 안전 규제 강화 요구와의 상충에 대한 불안감이 교차하고 있습니다.",
-        "points": [
-          "트럼프, 'AI 전담조직' 창설 및 'AI 차르' 임명 계획 발표",
-          "AI가 GDP의 25%에 이를 수 있다는 성장 잠재력 강조",
-          "규제 완화를 통한 AI 산업 성장에 대한 업계 기대",
-          "AI 개발 속도 조절 및 안전 규제 강화 요구와 상충 가능성에 대한 불안"
-        ],
-        "quote": "어떤 식으로든 이 놀라운 산업의 성장을 방해하거나 늦추지 않을 것이다.",
-        "context": "전 세계적으로 AI 기술 패권 경쟁이 심화되는 가운데, 미국의 차기 행정부가 어떤 AI 정책을 펼칠지에 대한 관심이 고조되고 있으며, 이는 글로벌 AI 시장에 큰 영향을 미칠 것입니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026092007494955149a1f309431_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20balancing%20scale%20with%20%27hope%27%20and%20%27concern%27%20about%20AI%20policy%2C%20above%20a%20government%20building%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53124&nologo=true"
-    },
-    {
-      "id": "society-1",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "organizational_chart",
-      "title": "오세훈표 'G3 서울' 비전, '일곱 색깔 무지개' 진용 완성",
-      "subtitle": "행정·경제·교통·복지·여성가족 등 7실장 체제 구축, 글로벌 톱3 도시 목표",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "7명",
-            "label": "실장 진용"
-          },
-          {
-            "value": "톱3",
-            "label": "도시 목표"
-          },
-          {
-            "value": "5개",
+            "value": "AX",
             "label": "핵심 비전"
           }
         ],
-        "main_number": "2명",
-        "main_text": "민간 개방형 1명 포함 2명의 신임 행정1·2부시장 임명"
+        "main_number": "2026",
+        "main_text": "AI·로봇 중심 미래 기술 로드맵"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing an organizational chart for a city government with 7 key roles and a vision for a global city",
+      "image_prompt": "cute pastel infographic illustration, robotic hand shaking human hand, surrounded by AI interfaces and smart devices, no text",
       "detail": {
-        "summary": "오세훈 시장이 행정, 경제, 교통 등 7개 분야를 이끌어갈 '일곱 색깔 무지개' 진용을 완성하며 '글로벌 톱3 서울' 비전 달성에 박차를 가하고 있습니다. AI, 글로벌 인재 육성 등을 통해 서울의 새로운 성장동력을 확보할 계획입니다.",
+        "summary": "삼성전자가 미국 실리콘밸리에서 '테크 포럼'을 개최하고 AI와 로봇 기술을 중심으로 한 AX(AI Experience) 시대를 선도하겠다는 비전과 사업 전략을 공유했다.",
         "points": [
-          "행정1·2부시장, 기획조정실장, 경제·교통·복지·여성가족실장 등 7실장 체제",
-          "'매력·글로벌 선도·안심·기회활력·공간혁신' 5가지 핵심 비전",
-          "AI, 글로벌 인재, 야간경제, 첨단산업, 문화·관광을 새로운 성장동력으로 육성",
-          "서울 전역에 주거, 일자리, 교육, 문화 고르게 배치 및 교통망 연결"
+          "삼성전자, 8회째 美 실리콘밸리 테크 포럼 개최",
+          "글로벌 IT 기업 리더급 개발자 80여명 참석",
+          "AI 일상 동반자 비전과 중장기 AI·로봇 사업 전략 공개",
+          "DX부문 핵심 수뇌부 대거 참석, AX 전환 가속화 의지 표명"
         ],
-        "quote": "각종 정치적·재정적 난관을 넘어 서울을 글로벌 톱3 도시로 끌어올릴 수 있을지 주목된다.",
-        "context": "서울시가 국제 도시로서의 경쟁력을 한층 더 강화하고 시민 삶의 질을 높이기 위한 장기적인 발전 전략을 추진하고 있으며, 이를 이끌어갈 리더십 구성이 완료되었습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002699764?sid=102"
+        "quote": "삼성은 AI 기술을 통해 고객의 일상에 새로운 가치를 더하고, 궁극적으로 더 나은 미래를 만들어나갈 것이다.",
+        "context": "AI와 로봇 기술은 미래 산업의 핵심 동력으로, 삼성전자는 글로벌 시장에서 이 분야의 리더십을 강화하고 기술 혁신을 통해 새로운 성장 동력을 확보하려는 전략을 추진 중이다.",
+        "source_url": "https://www.asiaa.co.kr/news/articleView.html?idxno=263333"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20an%20organizational%20chart%20for%20a%20city%20government%20with%207%20key%20roles%20and%20a%20vision%20for%20a%20global%20city%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23849&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20robotic%20hand%20shaking%20human%20hand%2C%20surrounded%20by%20AI%20interfaces%20and%20smart%20devices%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93628&nologo=true"
     },
     {
-      "id": "society-2",
+      "id": "tech-ai-datacenter-energy",
       "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
+      "category": "tech",
+      "category_label": "💻 기술",
       "viz_type": "bar_chart",
-      "title": "초급간부 '캐즘' 심화…경제적 보상·근무 여건 개선 시급",
-      "subtitle": "청년들의 군 간부 기피 현상 심화, 사명감만으로는 해소 어려운 경제적 불합리 지적",
+      "title": "AI 데이터센터, 전력 소비 절감 '탈탄소' 전략 부상",
+      "subtitle": "구글·엔비디아 등, 에너지 효율 기술 개발 박차",
       "viz_data": {
         "stats": [
           {
-            "value": "30%",
-            "label": "지원자 감소 (추정)"
+            "value": "5TWh",
+            "label": "2023년 소비량"
           },
           {
-            "value": "2가지",
-            "label": "핵심 개선점"
+            "value": "65TWh",
+            "label": "2060년 전망치"
           },
           {
-            "value": "심각",
-            "label": "캐즘 수준"
+            "value": "135TWh",
+            "label": "급증 시나리오"
           }
         ],
-        "main_number": "30%",
-        "main_text": "청년층의 초급간부 지원율이 크게 감소한 것으로 추정 (인포그래픽 표현 위한 임의 숫자)"
+        "main_number": "↑13배",
+        "main_text": "AI 데이터센터 전력 소비량 급증 전망"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a gap or chasm with military officers on one side and young people on the other, with solutions in between",
+      "image_prompt": "cute pastel infographic illustration, a data center with green energy leaves and decreasing power consumption, no text",
       "detail": {
-        "summary": "군 초급간부 지원율 하락 현상인 '캐즘(Chasm)'이 심각한 수준에 달했습니다. 청년들이 경제적 합리성을 거스르면서까지 간부로 입대하기 어려운 현실이 지적되며, 경제적 보상과 근무 여건 개선이 시급한 과제로 떠올랐습니다.",
+        "summary": "AI 확산으로 데이터센터 전력 소비량이 급증할 것으로 예상되면서, 구글과 엔비디아 등 주요 기업들이 전력 효율을 높이는 '덜 쓰기' 전략과 기술 개발에 집중하고 있다.",
         "points": [
-          "군 초급간부 지원자 수 급감 현상 심화 ('캐즘')",
-          "청년층이 경제적 합리성을 거스르고 사명감만으로 입대하기 어려움",
-          "열악한 경제적 보상 및 근무 여건이 주요 원인으로 지목",
-          "해결책으로 경제적 보상 확대와 근무 여건 개선 논의"
+          "국내 데이터센터 전력 소비량 2023년 5TWh → 2060년 65TWh 전망",
+          "AI 확산 시나리오에서는 135TWh까지 확대 가능성",
+          "구글, 엔비디아 등 20여개 기업 에너지 효율 기술 개발 투자",
+          "기존 전력 인프라 확장 대신 효율 개선으로 지속 가능성 모색"
         ],
-        "quote": "청년들이 경제적인 합리성을 거스르면서까지 사명감에 간부로 입대할 것으로 기대하는 것은 어불성설이다.",
-        "context": "국가 안보와 직결된 군 초급간부의 인력난은 장기적으로 국방력 약화로 이어질 수 있어, 사회 전반의 관심과 정책적 노력이 요구되는 중요한 문제입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004663633?sid=102"
+        "quote": "AI 확산으로 데이터센터가 더 빠르게 늘어나는 시나리오에서는 135TWh까지 확대될 수 있다.",
+        "context": "AI 기술의 발전은 막대한 연산 능력과 그에 따른 전력 소비를 요구하며, 이는 탄소 배출 문제와 직결된다. 지속 가능한 AI 발전을 위해 전력 효율화는 핵심 과제로 부상하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/031/0001059948?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20gap%20or%20chasm%20with%20military%20officers%20on%20one%20side%20and%20young%20people%20on%20the%20other%2C%20with%20solutions%20in%20between%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55824&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20data%20center%20with%20green%20energy%20leaves%20and%20decreasing%20power%20consumption%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37455&nologo=true"
     },
     {
-      "id": "society-3",
+      "id": "tech-ai-commerce",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "process_flow",
+      "title": "AI가 바꿔놓을 '에이전틱 커머스' 시대 개막",
+      "subtitle": "식품 유통 전반에 AI 접목, 구매 여정 자동화 가속화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "운영 자동화",
+            "label": "핵심 변화"
+          },
+          {
+            "value": "초개인화",
+            "label": "마케팅"
+          },
+          {
+            "value": "스마트 물류",
+            "label": "지능화"
+          }
+        ],
+        "main_number": "↑효율",
+        "main_text": "AI 기반 유통 시스템 효율 증대"
+      },
+      "image_prompt": "cute pastel infographic illustration, a seamless shopping experience with AI assistants, automated logistics, and personalized recommendations, no text",
+      "detail": {
+        "summary": "AI가 장보기, 물류, 멤버십 등을 넘어 '에이전틱 커머스' 시대를 열고 있다. 식품 유통 기업들은 AI 전환을 통해 운영 자동화, 수익 모델 다변화, 고객 경험 혁신을 추진 중이다.",
+        "points": [
+          "AI가 편의점, 물류, 멤버십 넘어 '에이전틱 커머스' 시대 주도",
+          "국내 식품 유통기업, AI 전환으로 운영 자동화 추진",
+          "초개인화 마케팅 및 물류 지능화로 고객 경험 혁신",
+          "구매 여정 자동화 및 공급망 수직 통합 가속화"
+        ],
+        "quote": "국내 식품 유통기업의 AI 전환은 운영 자동화와 수익모델 다변화, 공급망 수직적 통합, 고객 경험의 피지털화, 물류 지능화, 초개인화 마케팅, 구매 여정 자동화 등으로",
+        "context": "AI 기술은 단순히 생산성을 높이는 것을 넘어, 소비자의 구매 경험과 유통 산업의 비즈니스 모델 자체를 혁신하고 있다. 이는 미래 상업의 핵심 트렌드로 자리매김할 것이다.",
+        "source_url": "https://www.thepowernews.co.kr/view.php?ud=202609181504055468de3f0aa1be_7"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20seamless%20shopping%20experience%20with%20AI%20assistants%2C%20automated%20logistics%2C%20and%20personalized%20recommendations%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=13521&nologo=true"
+    },
+    {
+      "id": "society-korea-non-intervention",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "map",
-      "title": "경기도, AI 돌봄 시스템으로 노인·만성질환자 200가구 지원",
-      "subtitle": "한국사회보장정보원 지원사업 선정, 디지털 사회안전망 구축",
+      "viz_type": "comparison_chart",
+      "title": "한국, 전쟁 '파병 없다' 선 그어…미국은 'AI군' 창설 구상",
+      "subtitle": "국내 파병 부정적 여론 vs 美 군사 혁신 대비",
       "viz_data": {
         "stats": [
           {
-            "value": "200가구",
-            "label": "지원 대상"
+            "value": "부정적",
+            "label": "한국 여론"
           },
           {
-            "value": "2.75억원",
-            "label": "국비 확보"
+            "value": "AI군",
+            "label": "美 창설 계획"
           },
           {
-            "value": "3개",
-            "label": "돌봄 분야"
+            "value": "수위 조절",
+            "label": "정부 입장"
           }
         ],
-        "main_number": "3년",
-        "main_text": "AI 돌봄 사업, 한국사회보장정보원 지원사업 선정으로 3년간 추진 (인포그래픽 표현 위한 임의 숫자)"
+        "main_number": "NO 파병",
+        "main_text": "한국 정부의 전쟁 관여 최소화 기조"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a map of Gyeonggi Province with AI robot icons assisting elderly people in homes",
+      "image_prompt": "cute pastel infographic illustration, two distinct panels, one showing a peaceful Korean flag, another showing a futuristic AI soldier, no text",
       "detail": {
-        "summary": "경기도가 노인, 장기요양 대상자, 만성질환자 등 200가구를 대상으로 AI 돌봄 시스템을 추진합니다. 한국사회보장정보원의 '인공지능 응용제품 신속 상용화 지원사업'에 선정되어 국비를 확보, 디지털 기술을 활용한 사회안전망 구축의 기틀을 마련했습니다.",
+        "summary": "한국은 중동 전쟁에 대한 '파병 없음'을 선언하며 수위 조절에 나선 반면, 미국은 트럼프 전 대통령 주도로 'AI군' 창설 구상을 밝히며 군사 혁신에 박차를 가하고 있다.",
         "points": [
-          "노인, 장기요양 대상자, 만성질환자 등 200가구 대상 AI 돌봄 시스템 도입",
-          "한국사회보장정보원 '인공지능 응용제품 신속 상용화 지원사업' 선정",
-          "총 2억 7천 5백만 원의 국비 확보로 사업 추진 동력 마련",
-          "디지털 기술을 활용한 사회안전망 구축 및 돌봄 서비스 혁신 기대"
+          "한국 정부, 중동 전쟁 파병에 대해 부정적 입장 표명",
+          "국내 분위기와 정치권의 파병 반대 여론 고려",
+          "트럼프 전 대통령, 우주군 성공 바탕으로 'AI군' 창설 제안",
+          "AI가 차세대 산업혁명이자 GDP의 25% 차지할 잠재력 언급"
         ],
-        "quote": "디지털 기술을 결합한 사회안전망 구축의 기틀을 마련했다.",
-        "context": "고령화 사회가 심화되면서 사회적 돌봄의 필요성이 커지는 가운데, 인공지능 기술이 개인별 맞춤형 돌봄 서비스를 제공하고 효율적인 사회안전망을 구축하는 데 기여할 것으로 기대됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/468/0001267568?sid=102"
+        "quote": "우리 내부 분위기나 정치권이나 파병에 대해서 상당히 부정적이거든요.",
+        "context": "국제 분쟁 속에서 각국은 자국의 안보와 국익을 고려한 정책을 펼치고 있다. 한국은 여론을 반영해 신중한 입장을 보이는 반면, 미국은 첨단 기술을 활용한 군사력 강화에 집중하며 미래 안보 패러다임 변화를 예고한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002409305?sid=100"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20Gyeonggi%20Province%20with%20AI%20robot%20icons%20assisting%20elderly%20people%20in%20homes%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28785&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20distinct%20panels%2C%20one%20showing%20a%20peaceful%20Korean%20flag%2C%20another%20showing%20a%20futuristic%20AI%20soldier%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12900&nologo=true"
     },
     {
-      "id": "life-1",
+      "id": "society-sch-ai-education",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "순천향대, AI 혁신 교육과정으로 지역사회 인재 양성",
+      "subtitle": "AI 접목 교육 우수성 인정, 청년·재직자 창업·재교육 지원",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "우수",
+            "label": "교육과정"
+          },
+          {
+            "value": "창업교육",
+            "label": "지역 청년"
+          },
+          {
+            "value": "재직자",
+            "label": "직무 재교육"
+          }
+        ],
+        "main_number": "AI+",
+        "main_text": "AI 융합 교육의 확산"
+      },
+      "image_prompt": "cute pastel infographic illustration, a university building with AI icons and graduating students, connected to the local community, no text",
+      "detail": {
+        "summary": "순천향대학교가 AI를 접목한 혁신 교육과정의 우수성을 인정받았으며, 지역 청년과 재직자를 대상으로 한 창업 교육, 직무 재교육 등 지역사회 공유 사업도 병행하고 있다.",
+        "points": [
+          "순천향대, AI 접목 혁신 교육과정 우수성 인정",
+          "지역 청년 대상 창업 교육 및 직무 재교육 프로그램 운영",
+          "재취업·평생교육 프로그램 통해 지역 인재 역량 강화",
+          "AI·바이오 분야 인재가 지역 산업체에 정착하도록 지원"
+        ],
+        "quote": "지역사회와 공유하는 사업도 병행한다. 지역 청년과 재직자를 대상으로 한 창업교육과 직무 재교육, 재취업·평생교육 프로그램을 운영하고,",
+        "context": "대학이 지역사회 발전의 거점으로서 첨단 기술 교육을 통해 인재를 양성하고, 이들이 지역 산업에 기여할 수 있도록 연계하는 것은 지방 소멸과 산업 변화에 대응하는 중요한 전략이다.",
+        "source_url": "https://www.viva100.com/article/20260920500045"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20university%20building%20with%20AI%20icons%20and%20graduating%20students%2C%20connected%20to%20the%20local%20community%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93102&nologo=true"
+    },
+    {
+      "id": "society-asan-ai-semicon",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map_chart",
+      "title": "아산시, AI 반도체 핵심 거점으로 도약…지역 활력 기대",
+      "subtitle": "국가 경쟁력 강화 및 일자리 창출 효과",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "핵심 거점",
+            "label": "AI 반도체"
+          },
+          {
+            "value": "경쟁력 강화",
+            "label": "국가 산업"
+          },
+          {
+            "value": "일자리",
+            "label": "창출 기대"
+          }
+        ],
+        "main_number": "↑성장",
+        "main_text": "지역 경제 활성화 및 인구 유입"
+      },
+      "image_prompt": "cute pastel infographic illustration, a map of Asan with glowing AI chips and factories, showing economic growth and community benefits, no text",
+      "detail": {
+        "summary": "아산시가 AI 반도체 핵심 거점으로 발돋움하며 국가 경쟁력 강화는 물론, 지역 경제 활성화와 일자리 창출에 크게 기여할 것으로 기대되고 있다.",
+        "points": [
+          "아산시, 첨단 AI 반도체 산업의 중심지로 자리매김",
+          "국가 경쟁력 강화에 기여할 핵심 거점 역할 수행",
+          "지역 경제 활성화 및 대규모 일자리 창출 기대",
+          "지역사회 전반에 긍정적 파급 효과 예상"
+        ],
+        "quote": "첨단 산업의 중심지로서 자리매김해 국가의 경쟁력을 강화하고, 또 다른 한편으로는 지역경제 활성화와 일자리 창출로 이어지며 지역사회 전반에 거쳐 긍정적인 영향을 미칠 수 있을 것으로 기대된다.",
+        "context": "첨단 산업의 지방 분산 및 육성은 지역 경제 불균형 해소와 더불어 국가 전체의 산업 경쟁력을 높이는 중요한 전략이다. 아산시의 사례는 이러한 지역 주도 성장의 가능성을 보여준다.",
+        "source_url": "https://www.viva100.com/article/20260920500044"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20of%20Asan%20with%20glowing%20AI%20chips%20and%20factories%2C%20showing%20economic%20growth%20and%20community%20benefits%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65313&nologo=true"
+    },
+    {
+      "id": "life-korean-brands-global",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "'단백질 왕좌'는 고기가 아니었다? 20가지 식품 분석 결과",
-      "subtitle": "건강·경제성 '사람' 영역과 환경 영향 '지구' 영역 종합 평가",
+      "viz_type": "map_chart",
+      "title": "K-라이프스타일 브랜드, 미국·중국 시장 공략 가속화",
+      "subtitle": "앤켓 美 대형 유통망 진출, 스노우피크 中 매장 확대",
       "viz_data": {
         "stats": [
           {
-            "value": "20가지",
-            "label": "분석 식품"
+            "value": "美 대형",
+            "label": "유통망 진출"
           },
           {
-            "value": "40점",
-            "label": "총점 기준"
+            "value": "中 매장",
+            "label": "확대"
           },
           {
-            "value": "1위",
-            "label": "새로운 단백질"
+            "value": "글로벌화",
+            "label": "K-브랜드"
           }
         ],
-        "main_number": "2가지",
-        "main_text": "사람(People)과 지구(Planet) 두 영역으로 나누어 단백질 식품 평가"
+        "main_number": "↑수출",
+        "main_text": "K-패션/라이프스타일 브랜드의 약진"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing various food items with a ranking, highlighting plant-based proteins",
+      "image_prompt": "cute pastel infographic illustration, a world map with pins on USA and China, showing Korean brand logos expanding globally, no text",
       "detail": {
-        "summary": "20가지 단백질 식품을 사람의 건강, 경제성 및 지구 환경에 미치는 영향 등 두 가지 영역으로 종합 평가한 결과, '고기'가 아닌 다른 식품이 1위를 차지하며 건강하고 지속 가능한 단백질 섭취의 새로운 지평을 열었습니다.",
+        "summary": "국내 패션·라이프스타일 브랜드들이 해외 핵심 상권 진출에 속도를 내고 있다. 앤켓은 미국 대형 유통망에 진출하고, 스노우피크 어패럴은 중국 매장을 확대하며 글로벌 시장 공략에 박차를 가하고 있다.",
         "points": [
-          "단백질 식품을 '사람'(건강, 경제성)과 '지구'(환경 영향) 영역으로 평가",
-          "총점 40점 만점으로 각 식품의 단백질 가치 분석",
-          "고기가 아닌 식물성 단백질 식품의 높은 순위 예상",
-          "건강과 환경을 모두 고려한 단백질 섭취의 중요성 강조"
+          "앤켓, 미국 대형 유통망 진출로 K-패션 위상 강화",
+          "스노우피크 어패럴, 중국 시장 매장 확대 및 반려동물 용품 도입",
+          "K-라이프스타일 브랜드의 해외 시장 경쟁력 입증",
+          "패션을 넘어 다양한 라이프스타일 영역으로 확장"
         ],
-        "quote": "평가 대상 식품은 사람의 건강과 식품의 접근성·경제성을 고려한 ‘사람’ 영역과 온실가스 배출, 수질오염, 토지 이용, 담수 사용 등을 고려한 ‘지구’ 영역으로 나눠 평가했다.",
-        "context": "건강에 대한 관심이 높아지고 환경 보호의 중요성이 강조되면서, 지속 가능한 방식으로 단백질을 섭취하는 방법에 대한 사회적 인식이 변화하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/032/0003471469?sid=103"
+        "quote": "국내 패션·라이프스타일 브랜드들이 해외 핵심 상권 진출에 속도를 내는 동시에 국내 프리미엄 매장 확장으로 투트랙 전략을 구사하고 있다.",
+        "context": "한류의 영향력 확대와 더불어 한국 브랜드들의 제품력과 디자인이 세계 시장에서 인정받고 있다. 이는 국내 브랜들이 해외 소비자들의 라이프스타일에 맞춰 다양한 전략을 구사하며 글로벌 경쟁력을 높이는 계기가 된다.",
+        "source_url": "https://www.slist.kr/news/articleView.html?idxno=767482"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20various%20food%20items%20with%20a%20ranking%2C%20highlighting%20plant-based%20proteins%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=5243&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20world%20map%20with%20pins%20on%20USA%20and%20China%2C%20showing%20Korean%20brand%20logos%20expanding%20globally%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28648&nologo=true"
     },
     {
-      "id": "life-2",
+      "id": "life-laundry-drying",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pros_cons_chart",
+      "title": "건조기 vs 자연건조: 섬유 건강과 환경을 위한 선택",
+      "subtitle": "편의성 넘어 옷의 수명과 지속 가능성 고려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "8가지",
+            "label": "자연건조 장점"
+          },
+          {
+            "value": "↓에너지",
+            "label": "환경 영향"
+          },
+          {
+            "value": "↑수명",
+            "label": "옷의 건강"
+          }
+        ],
+        "main_number": "ECO",
+        "main_text": "자연건조의 친환경적 이점 부각"
+      },
+      "image_prompt": "cute pastel infographic illustration, a sunny outdoor clothesline with fresh laundry next to a modern laundry machine, no text",
+      "detail": {
+        "summary": "건조기의 편리함에도 불구하고, 섬유 전문가들은 자연건조가 옷의 색, 형태, 질감을 오래 유지하고 에너지 절약 등 8가지 장점이 있다고 강조하며 지속 가능한 라이프스타일 선택을 제안한다.",
+        "points": [
+          "미국 라이프스타일 매체, 자연건조의 8가지 장점 소개",
+          "자연건조, 옷의 색상, 형태, 질감 보존에 유리",
+          "에너지 절약 및 환경 보호에 기여",
+          "세탁 전문가들, 섬유 건강 위한 자연건조 권장"
+        ],
+        "quote": "전문가들은 자연건조가 옷의 색과 형태, 질감을 오래 유지하는 데 도움이 된다고",
+        "context": "환경 문제와 지속 가능한 소비에 대한 인식이 높아지면서, 일상생활 속 작은 습관 변화를 통해 환경 보호에 동참하려는 움직임이 확산되고 있다. 가전제품의 편리함과 전통적인 방식의 이점을 비교하며 합리적인 소비를 제고한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/032/0003471473?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20sunny%20outdoor%20clothesline%20with%20fresh%20laundry%20next%20to%20a%20modern%20laundry%20machine%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91491&nologo=true"
+    },
+    {
+      "id": "life-retro-fashion",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "line_chart",
-      "title": "루이비통, 도산대로에 '도서관'…변화하는 명품 브랜드 전략",
-      "subtitle": "'백투스쿨' 문화와 '텍스트힙' 트렌드 결합, 고객 경험 확장",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1곳",
-            "label": "루이비통 매장"
-          },
-          {
-            "value": "도서관",
-            "label": "이색 공간"
-          },
-          {
-            "value": "텍스트힙",
-            "label": "MZ 트렌드"
-          }
-        ],
-        "main_number": "2가지",
-        "main_text": "미국 '백투스쿨' 문화와 국내 '텍스트힙' 트렌드에 착안"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a luxurious library setting inside a high-end fashion store",
-      "detail": {
-        "summary": "루이비통이 도산대로 매장을 '도서관'으로 변신시켜 화제입니다. 이는 미국 '백투스쿨' 문화와 국내 '텍스트힙' 트렌드를 접목한 것으로, 단순한 판매 공간을 넘어 고객들에게 새로운 문화적 경험을 제공하려는 명품 브랜드들의 전략 변화를 보여줍니다.",
-        "points": [
-          "루이비통, 도산대로 매장에 책장을 채운 '도서관' 공간 조성",
-          "미국 '백투스쿨' 문화와 국내 '텍스트힙' 트렌드 결합",
-          "상품 구매를 넘어 문화적 경험을 제공하는 전략 시도",
-          "명품 브랜드 간 차별화된 고객 경험 제공 경쟁 심화"
-        ],
-        "quote": "최근 국내에서 독서와 활자를 취향으로 소비하는 '텍스트힙' 흐름과 맞닿아 있다.",
-        "context": "MZ세대 소비자들이 제품 구매를 넘어 브랜드 경험과 가치를 중시하면서, 명품 브랜드들이 이들의 라이프스타일과 문화적 취향을 반영한 이색 마케팅 전략을 적극적으로 펼치고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/277/0005818797?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20luxurious%20library%20setting%20inside%20a%20high-end%20fashion%20store%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16419&nologo=true"
-    },
-    {
-      "id": "life-3",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "'Y2K 패션' 웨지힐의 부활…제니가 불 지핀 유행템",
-      "subtitle": "패션 플랫폼 29CM 웨지힐 검색량 전년 대비 279% 증가, 레트로 트렌드 확산",
+      "title": "Y2K 열풍 이어 '웨지힐' 귀환…레트로 패션 트렌드 강세",
+      "subtitle": "MZ세대 사로잡은 2000년대 초반 유행 아이템",
       "viz_data": {
         "stats": [
           {
             "value": "+279%",
-            "label": "웨지힐 검색량 증가"
+            "label": "웨지힐 검색량"
           },
           {
             "value": "+857%",
-            "label": "웨지힐 쪼리 증가"
+            "label": "웨지힐 쪼리"
           },
           {
             "value": "Y2K",
-            "label": "패션 트렌드"
+            "label": "트렌드 연장"
           }
         ],
-        "main_number": "25년 전",
-        "main_text": "마치 25년 전 유행이 돌아온 듯한 웨지힐 패션 트렌드"
+        "main_number": "+279%",
+        "main_text": "웨지힐 검색량 폭발적 증가"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a timeline of fashion trends with a spotlight on Y2K style and wedge heels",
+      "image_prompt": "cute pastel infographic illustration, a trend line showing a sharp increase in 'wedge heels' search, with a retro fashion icon, no text",
       "detail": {
-        "summary": "2000년대 초반 유행했던 웨지힐이 다시 패션 트렌드의 중심으로 돌아왔습니다. 유명 아이돌의 착용과 함께 29CM 플랫폼에서 웨지힐 관련 검색량이 전년 대비 크게 증가하며 'Y2K 패션'의 인기를 실감케 합니다.",
+        "summary": "Y2K 패션 열풍에 이어 '웨지힐'이 다시 유행하며 레트로 패션 트렌드가 강세를 보이고 있다. 웨지힐 검색량은 전년 동기 대비 279% 증가했고, 웨지힐 쪼리는 857% 늘어 폭발적인 인기를 입증했다.",
         "points": [
-          "웨지힐, 2000년대 초반 유행했던 아이템으로 'Y2K 패션' 트렌드",
-          "패션·라이프스타일 플랫폼 29CM 웨지힐 검색량 279% 증가",
+          "패션 플랫폼 29CM, 웨지힐 검색량 전년 대비 279% 증가",
           "특히 '웨지힐 쪼리' 검색량 857% 급증하며 인기 견인",
-          "제니 등 유명인 착용이 트렌드 확산에 큰 영향"
+          "2000년대 초반 유행했던 웨지힐, MZ세대 사이에서 재유행",
+          "제니 등 셀럽 착용으로 관심 증폭, Y2K 트렌드 연장선"
         ],
-        "quote": "지난달 17일부터 이달 16일까지 한 달간 ‘웨지힐’ 검색량은 전년 동기 대비 279% 증가했다.",
-        "context": "패션 업계에서 과거 유행이 다시 돌아오는 '레트로(복고)' 트렌드가 지속되는 가운데, 특정 아이템의 부활은 소비자들의 향수를 자극하며 새로운 소비를 이끌고 있습니다.",
+        "quote": "지난달 17일부터 이달 16일까지 한 달간 ‘웨지힐’ 검색량은 전년 동기 대비 279% 증가했다. ‘웨지힐 쪼리’ 검색량은 857% 늘었고",
+        "context": "패션 트렌드는 과거의 유행이 주기적으로 돌아오는 경향이 있다. 특히 MZ세대는 새로운 것과 과거의 것을 융합하여 자신만의 스타일을 창조하며, 이러한 레트로 트렌드가 소비 시장에 큰 영향을 미치고 있다.",
         "source_url": "https://n.news.naver.com/mnews/article/009/0005737707?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20timeline%20of%20fashion%20trends%20with%20a%20spotlight%20on%20Y2K%20style%20and%20wedge%20heels%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20trend%20line%20showing%20a%20sharp%20increase%20in%20%27wedge%20heels%27%20search%2C%20with%20a%20retro%20fashion%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92136&nologo=true"
     }
   ],
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T08:47:08.512064+09:00"
+  "generated_at": "2026-09-20T09:13:33.236904+09:00"
 }
