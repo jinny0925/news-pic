@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-diesel-deal-reaction",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "network",
+      "title": "美-러 '경유 딜'에 유럽 반발 격화",
+      "subtitle": "EU \"전쟁 자금 대는 것\", 영국 \"우크라와 연대\" 강조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3국",
+            "label": "주요 당사자"
+          },
+          {
+            "value": "480만t",
+            "label": "예상 공급량"
+          },
+          {
+            "value": "강한 반발",
+            "label": "국제 반응"
+          }
+        ],
+        "main_number": "재고 촉구",
+        "main_text": "유럽, 美-러 에너지 합의에 강력 비판 표명"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing countries protesting a deal involving oil barrels, with flags of US, Russia, EU, and UK",
+      "detail": {
+        "summary": "미국과 러시아 간 대규모 경유 공급 합의에 대해 유럽연합(EU)과 영국이 강력히 반발하며 우크라이나 지원 및 대러 제재 강화를 강조했다.",
+        "points": [
+          "트럼프, 푸틴과 480만 톤 경유 공급 합의 발표",
+          "EU, 러시아에 전쟁 자금 제공 우려 표명",
+          "영국, 우크라이나와의 연대 재확인 및 제재 유지 입장",
+          "합의가 에너지 시장 및 국제 정세에 미칠 영향 주목"
+        ],
+        "quote": "\"전쟁 자금을 대는 것\" (EU 관계자)",
+        "context": "러시아의 우크라이나 침공 장기화 속, 에너지 시장 안정화를 명분으로 한 미국과 러시아의 경유 공급 합의가 유럽 국가들의 반발을 사고 있다. 이는 대러 제재 전선의 균열과 국제 안보 지형 변화 가능성을 시사한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009220053?sid=104"
+      },
+      "image_url": "data/images/2026-10-11/world-diesel-deal-reaction.jpg"
+    },
+    {
+      "id": "world-pope-death-penalty",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "교황, 美 총살형 생중계 비판",
+      "subtitle": "\"사형은 인간 존엄성 공격\", 세계 사형 폐지의 날 맞아 메시지",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "24회",
+            "label": "세계 사형 폐지의 날"
+          },
+          {
+            "value": "총살형",
+            "label": "논란 방식"
+          },
+          {
+            "value": "강한 비판",
+            "label": "국제 반응"
+          }
+        ],
+        "main_number": "재고 촉구",
+        "main_text": "교황청, 미국의 사형 집행 방식에 우려 표명"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a dove and a gavel, symbolizing justice and peace",
+      "detail": {
+        "summary": "교황 프란치스코가 제24회 '세계 사형 폐지의 날'을 맞아 미국의 총살형 생중계 방침을 비판하며 \"사형은 인간 존엄성 공격\"이라고 강력히 주장했다.",
+        "points": [
+          "미국 국방부, 총살형 생중계 방침 발표로 논란 증폭",
+          "교황, 인간의 불가침성과 존엄성에 대한 공격으로 규정",
+          "교황청 국무원장도 미국의 계획에 비판적 입장 표명",
+          "미국 내 부통령을 포함한 정치권과 종교계, 인권 단체 반발"
+        ],
+        "quote": "\"공개 처형은 우리 사회의 도덕적 토대를 더욱 훼손하고 국민의 양심에 오점으로 남을 뿐\" (미국 가톨릭 주교회의 의장)",
+        "context": "미국 국방부의 사형 집행 생중계 방침이 국제사회와 국내에서 인권 및 윤리적 논란을 불러일으키고 있는 가운데, 교황이 이에 대해 분명한 반대 입장을 밝히며 국제적 비판 여론에 힘을 실었다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016368606?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20dove%20and%20a%20gavel%2C%20symbolizing%20justice%20and%20peace%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39568&nologo=true"
+    },
+    {
+      "id": "world-trump-diesel-deal",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "pie_chart",
+      "title": "트럼프, 푸틴과 '경유 딜' 합의 논란",
+      "subtitle": "러시아산 경유 대규모 공급 합의, 우크라 지원 중단 시사 발언도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30만t",
+            "label": "초기 공급량"
+          },
+          {
+            "value": "480만t",
+            "label": "총 공급량"
+          },
+          {
+            "value": "에너지 시장",
+            "label": "주요 영향"
+          }
+        ],
+        "main_number": "친러 행보",
+        "main_text": "미국 야당, 트럼프의 '악마와 더러운 거래' 맹공"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing two leaders shaking hands over a barrel of oil, with a cloud of controversy",
+      "detail": {
+        "summary": "도널드 트럼프 전 미국 대통령이 블라디미르 푸틴 러시아 대통령과 러시아산 경유의 미국 및 세계 시장 공급에 합의했다고 밝히며 우크라이나에 대한 지원 중단 가능성까지 시사해 논란을 빚고 있다.",
+        "points": [
+          "트럼프, 푸틴과 경유 30만t 초기 공급, 총 480만t 합의",
+          "젤렌스키에 '새 대통령 필요' 발언으로 우크라이나 입장 논란",
+          "미국 야당, 합의를 '악마와 더러운 거래'로 비판하며 강한 반발",
+          "러시아 정유 시설 공습 자제 요청 등 우크라이나 정책에도 영향"
+        ],
+        "quote": "\"트럼프가 위태로워진 정치적 운명을 구하려 악마와 거래하고 있다\" (척 슈머 민주당 연방 상원 원내대표)",
+        "context": "2024년 미국 대선을 앞두고 트럼프 전 대통령의 외교적 행보가 국제 에너지 시장과 우크라이나 전쟁 상황에 미칠 영향이 주목받고 있다. 특히 러시아와의 직접적인 에너지 합의는 유럽 동맹국들의 강력한 반발을 사고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/025/0003556958?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20two%20leaders%20shaking%20hands%20over%20a%20barrel%20of%20oil%2C%20with%20a%20cloud%20of%20controversy%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78822&nologo=true"
+    },
+    {
+      "id": "economy-tax-arrears",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "국세 체납액 116조원 돌파, 사상 최대",
+      "subtitle": "5년여간 지연 가산세만 22조원, 세수 확보 비상",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "116조원",
+            "label": "총 체납액"
+          },
+          {
+            "value": "22조원",
+            "label": "가산세"
+          },
+          {
+            "value": "564만건",
+            "label": "체납 건수"
+          }
+        ],
+        "main_number": "+116조원",
+        "main_text": "누적 국세 체납액, 국가 재정에 부담 가중"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a pile of money with a large 'X' mark, representing unpaid taxes",
+      "detail": {
+        "summary": "올해 6월 말 기준 누적 국세 체납액이 116조원을 돌파하며 사상 최대치를 기록했다. 이 중 법인세 등 지연 가산세가 5년여간 22조원에 달해 국가 재정 건전성에 대한 우려가 커지고 있다.",
+        "points": [
+          "누적 국세 체납액 116조31억원으로 집계, 체납 건수 564만건",
+          "2021년 대비 지속적인 증가 추세, 세수 부족 심화 우려",
+          "법인세, 종합소득세, 부가가치세 등이 주요 체납 항목",
+          "정부의 세수 확보 노력 및 징수 강화 대책 필요성 대두"
+        ],
+        "quote": "\"경기 침체와 고금리 등으로 인한 기업 및 가계의 세금 납부 부담 증가가 체납액 증가의 주요 원인\" (전문가 의견)",
+        "context": "한국 경제의 불확실성이 지속되는 가운데, 역대 최대 규모의 국세 체납액은 정부의 재정 운용에 심각한 도전을 제기하고 있다. 이는 복지 확대 및 투자 재원 마련에 걸림돌이 될 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016368619?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20pile%20of%20money%20with%20a%20large%20%27X%27%20mark%2C%20representing%20unpaid%20taxes%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96593&nologo=true"
+    },
+    {
+      "id": "economy-bofk-fx-profit",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "한은 외화자산 운용수익 17조원, 역대 최대",
+      "subtitle": "전년 대비 32% 증가, 환율 변동성 속 고수익 달성",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "16.9조원",
+            "label": "작년 수익"
+          },
+          {
+            "value": "+32%",
+            "label": "전년 대비 증가"
+          },
+          {
+            "value": "2024년",
+            "label": "이전 최대"
+          }
+        ],
+        "main_number": "16.9조원",
+        "main_text": "한국은행, 외화자산 운용으로 사상 최대 수익 기록"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing currency symbols flowing into a central bank building, with an upward trend line",
+      "detail": {
+        "summary": "한국은행이 지난해 외화자산 운용으로 16조9천억원의 수익을 올려 역대 최대 기록을 경신했다. 이는 2024년 대비 32% 증가한 수치로, 글로벌 환율 변동성 심화 속에서 거둔 성과로 평가된다.",
+        "points": [
+          "지난해 외화자산 운용수익 총 16조9천억원 기록",
+          "2024년(12조8천억원)보다 4조1천억원(32%) 증가, 역대 최대",
+          "글로벌 금융시장 변동성 활용한 적극적인 운용 전략 주효",
+          "환율 안정화 및 국가 신인도 제고에 기여"
+        ],
+        "quote": "\"국제 금융시장 불안정 속에서도 안정적인 수익 창출 능력을 보여준 결과\" (한국은행 관계자)",
+        "context": "한국은행의 외화자산 운용수익 증가는 국가 외환보유액의 안정성을 높이고 대외 건전성을 강화하는 데 기여한다. 특히 최근 글로벌 경제 불확실성이 커지는 상황에서 이러한 성과는 더욱 주목받고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016368603?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20currency%20symbols%20flowing%20into%20a%20central%20bank%20building%2C%20with%20an%20upward%20trend%20line%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57054&nologo=true"
+    },
+    {
+      "id": "economy-construction-labor",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "area_chart",
+      "title": "건설업 임시일용직 30만명 이상 이탈",
+      "subtitle": "7개월 연속 비자발적 이직 증가, 건설 경기 침체 심화 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30만명+",
+            "label": "이탈 인력"
+          },
+          {
+            "value": "7개월",
+            "label": "연속 증가"
+          },
+          {
+            "value": "건설업",
+            "label": "주요 산업"
+          }
+        ],
+        "main_number": "-30만명",
+        "main_text": "건설업 일자리 감소, 노동 시장에 경고등"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing construction workers leaving a building site, with a downward trend",
+      "detail": {
+        "summary": "건설 임시일용직 노동자가 30만명 넘게 건설업을 떠났으며, 비자발적 이직이 7개월 연속 증가해 건설 경기 침체 장기화에 대한 우려가 커지고 있다.",
+        "points": [
+          "건설업 노동력 공급 측면에서 어려움 확인",
+          "8월 건설업 취업자 수 전년 동월 대비 3만명 감소",
+          "부총리 겸 재정경제부 장관, 제조·건설 고용 부진 언급",
+          "고금리 및 원자재값 상승으로 인한 건설 투자 위축이 원인"
+        ],
+        "quote": "\"제조·건설 등 고용 부진이 해소되지 않으면 경제 전반의 회복이 어려울 것\" (정부 관계자)",
+        "context": "고금리와 건설 원자재 가격 상승으로 인해 건설업 경기가 침체되면서, 일용직 노동자들이 일자리를 잃고 다른 산업으로 이동하고 있다. 이는 국내 경제 성장률 둔화에 부정적인 영향을 미칠 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016368598?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20construction%20workers%20leaving%20a%20building%20site%2C%20with%20a%20downward%20trend%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=42653&nologo=true"
+    },
+    {
+      "id": "tech-financial-hacking",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "한은·국책은행 해킹 시도 100만건 돌파",
+      "subtitle": "금융기관 사이버 공격 급증, 보안 강화 시급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100만건+",
+            "label": "올해 해킹 시도"
+          },
+          {
+            "value": "4개",
+            "label": "주요 은행"
+          },
+          {
+            "value": "145건",
+            "label": "한은 IT센터"
+          }
+        ],
+        "main_number": "+100만건",
+        "main_text": "금융권 해킹 시도, 디지털 금융 안전 위협"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a firewall protecting a bank building from digital threats",
+      "detail": {
+        "summary": "한국은행과 주요 국책은행에 대한 해킹 시도가 올해만 100만건 이상 급증하여 금융기관의 사이버 보안에 빨간불이 켜졌다.",
+        "points": [
+          "2020년부터 올해 9월까지 4개 은행 해킹 시도 증가 추세",
+          "한국은행 경기 IT센터, 설립 1년도 안 돼 145건 침해 시도",
+          "서비스 거부 공격, 정보 유출 시도 등 다양한 공격 방식",
+          "AI 기반 해킹 위협 증대, 금융권의 선제적 대응 필요"
+        ],
+        "quote": "\"금융 시스템의 안정성은 국가 경제 안보와 직결되며, 강력한 사이버 방어체계 구축이 필수적이다.\" (금융보안 전문가)",
+        "context": "디지털 금융으로의 전환이 가속화되면서 금융기관에 대한 사이버 공격 위험도 비례하여 증가하고 있다. 이는 고객 정보 유출 및 금융 시스템 마비로 이어질 수 있어 국가적 차원의 보안 강화가 요구된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000914332?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20firewall%20protecting%20a%20bank%20building%20from%20digital%20threats%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79670&nologo=true"
+    },
+    {
+      "id": "tech-samsungsdi-battery",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "삼성SDI, 9분 충전 전고체 배터리 양산 박차",
+      "subtitle": "20년 수명 목표, 전기차 시장 판도 변화 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "9분",
+            "label": "충전 시간"
+          },
+          {
+            "value": "20년",
+            "label": "수명 목표"
+          },
+          {
+            "value": "전고체",
+            "label": "배터리 종류"
+          }
+        ],
+        "main_number": "9분 충전",
+        "main_text": "꿈의 배터리, 전기차 대중화 앞당길 핵심 기술"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a fast-charging electric car battery icon with a timer",
+      "detail": {
+        "summary": "삼성SDI가 9분 충전으로 20년 수명 유지가 가능한 전고체 배터리 대량 생산 준비를 가속화하고 있다고 대만 매체가 보도했다. 이는 전기차 시장에 큰 변화를 가져올 핵심 기술로 주목받고 있다.",
+        "points": [
+          "삼성SDI, 전고체 배터리 대량 생산 준비 데이터 공개",
+          "9분 충전, 20년 수명 목표 설정",
+          "고체 전해질 도입으로 안전성과 효율성 증대",
+          "전기차 주행거리 불안감 해소 및 상용화 가속 기대"
+        ],
+        "quote": "\"기존 리튬이온 배터리의 한계를 극복할 차세대 배터리 기술의 선두 주자가 될 것\" (산업 전문가)",
+        "context": "전고체 배터리는 화재 위험이 적고 에너지 밀도가 높아 '꿈의 배터리'로 불린다. 삼성SDI의 양산 가속화는 전기차 시장의 대중화를 앞당기고 글로벌 배터리 기술 경쟁에서 한국의 입지를 강화할 것으로 예상된다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101023212130472bd56fbc3c_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20fast-charging%20electric%20car%20battery%20icon%20with%20a%20timer%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94062&nologo=true"
+    },
+    {
+      "id": "tech-aichip-rental-cost",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line_chart",
+      "title": "AI 칩 임대 비용 1년새 60% 급등",
+      "subtitle": "공급 부족 심화, 클로드 등 AI 서비스 장애 속출",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+60%",
+            "label": "1년새 가격 상승"
+          },
+          {
+            "value": "수년",
+            "label": "데이터센터 건설 기간"
+          },
+          {
+            "value": "공급 부족",
+            "label": "핵심 문제"
+          }
+        ],
+        "main_number": "60%↑",
+        "main_text": "AI 산업 성장 가로막는 컴퓨팅 자원 부족 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a rising graph with AI chips and a 'sold out' sign",
+      "detail": {
+        "summary": "AI 칩을 빌리는 비용이 1년 만에 60% 급등했으며, 클로드와 같은 주요 AI 서비스도 연산 자원 부족으로 잦은 장애를 겪는 등 AI 컴퓨팅 자원 부족이 심화되고 있다.",
+        "points": [
+          "AI 데이터센터 건설에 수년 소요, 규제 및 반발로 지연",
+          "발표된 컴퓨팅 용량과 실제 사용 가능한 물량 간 차이 존재",
+          "캐나다 AI 스타트업 등 신규 기업의 컴퓨팅 자원 확보 어려움",
+          "AI 기술 개발 및 서비스 확산에 걸림돌로 작용"
+        ],
+        "quote": "\"발표된 컴퓨팅 용량 가운데 실제로 현재 이용할 수 있는 것은 매우 적다\" (코히어 공동창업자)",
+        "context": "AI 기술 발전이 가속화되면서 고성능 AI 칩에 대한 수요가 폭발적으로 증가하고 있다. 하지만 공급이 이를 따라가지 못하고 비용마저 급증하면서 AI 산업 전반의 성장에 제동이 걸릴 수 있다는 우려가 나온다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014244589?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20rising%20graph%20with%20AI%20chips%20and%20a%20%27sold%20out%27%20sign%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90069&nologo=true"
+    },
+    {
+      "id": "society-election-probe",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "선관위 특검, 투표용지 공개검증 추진",
+      "subtitle": "올림픽공원 29일 유력, 국민적 의혹 해소 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "29일",
+            "label": "공개검증 예정"
+          },
+          {
+            "value": "올림픽공원",
+            "label": "장소"
+          },
+          {
+            "value": "국민적 의혹",
+            "label": "해소 목표"
+          }
+        ],
+        "main_number": "D-18",
+        "main_text": "투표용지 공개 검증, 선거 불신 해소 전환점 될까"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a ballot box with a magnifying glass over it, representing transparency",
+      "detail": {
+        "summary": "선거관리위원회 특별검사팀이 올림픽공원에서 투표용지 공개 검증을 진행할 예정이며, 29일이 유력한 날짜로 조율 중이다. 이는 선거 불신에 대한 국민적 의혹을 해소하는 계기가 될 것으로 보인다.",
+        "points": [
+          "특검팀, '법과 원칙'에 따라 독립적 수사 강조",
+          "청와대 수사 상황 보고 의혹 부인",
+          "공개 검증을 통해 투명성 확보 및 신뢰 회복 목표",
+          "선관위 관련 의혹 해소 여부에 국민적 관심 집중"
+        ],
+        "quote": "\"오직 법과 원칙에 따라 독립적으로 수사하고 있고, 앞으로도 어떠한 정치적 고려 없이 독립적으로 수사에 임할 것\" (특검팀)",
+        "context": "과거 선거 관련 의혹이 지속적으로 제기되면서 선거관리위원회에 대한 국민 신뢰가 하락한 상황이다. 이번 특검의 공개 검증은 이러한 불신을 해소하고 민주주의의 근간인 선거 제도의 투명성을 확보하는 데 중요한 역할을 할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016368612?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20ballot%20box%20with%20a%20magnifying%20glass%20over%20it%2C%20representing%20transparency%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=75505&nologo=true"
+    },
+    {
+      "id": "society-care-housing-imbalance",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "케어안심주택 43% 전남광주 쏠림",
+      "subtitle": "돌봄 노인 주거 지원 불균형 심화, 인천 등 인프라 부족",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "437호",
+            "label": "총 주택 수"
+          },
+          {
+            "value": "43.2%",
+            "label": "전남광주 비중"
+          },
+          {
+            "value": "0호",
+            "label": "인천 주택 수"
+          }
+        ],
+        "main_number": "43.2% 쏠림",
+        "main_text": "돌봄 노인 주거 인프라, 지역별 격차 심각"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a map of South Korea with a highlighted region for care homes, indicating imbalance",
+      "detail": {
+        "summary": "돌봄이 필요한 노인을 위한 케어안심주택 및 중간집 437호 중 43.2%가 전남광주특별시에 집중되어 있으며, 인천에는 단 한 호도 없는 등 지역별 주거 지원 인프라 불균형이 심각한 것으로 나타났다.",
+        "points": [
+          "케어안심주택은 지역사회 거주 돌봄 노인 지원 목적",
+          "전남광주에 압도적 비중 집중, 특정 지역 쏠림 현상",
+          "인천 지역 0호 등 수도권 및 다른 지역 인프라 부족",
+          "지역사회 통합 돌봄 시스템 구축에 장애 요인으로 작용"
+        ],
+        "quote": "\"돌봄 정책의 핵심은 지역사회 기반의 통합적 지원인데, 주거 인프라의 지역 편차는 이를 저해하는 요소다.\" (국회 보건복지위원)",
+        "context": "고령화 사회로 진입하면서 돌봄이 필요한 노인 인구가 급증하고 있다. 병원 퇴원 후 지역사회에서 안전하게 생활할 수 있도록 돕는 주거 지원 시설의 중요성이 커지고 있으나, 현재의 불균형은 정책 목표 달성에 큰 걸림돌이 된다.",
+        "source_url": "https://medicalworldnews.co.kr/news/view.php?idx=1510977768"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20South%20Korea%20with%20a%20highlighted%20region%20for%20care%20homes%2C%20indicating%20imbalance%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79544&nologo=true"
+    },
+    {
+      "id": "society-bank-hours",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison",
+      "title": "은행 영업시간 30분 단축 논란",
+      "subtitle": "고객 불편 및 사회적 비용 증가 우려 제기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30분",
+            "label": "단축 시간"
+          },
+          {
+            "value": "고객 불편",
+            "label": "주요 문제"
+          },
+          {
+            "value": "사회적 비용",
+            "label": "예상 피해"
+          }
+        ],
+        "main_number": "-30분",
+        "main_text": "은행 영업시간 조정, 시민 생활에 미칠 영향은?"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a clock face with changed opening hours and people waiting",
+      "detail": {
+        "summary": "금융당국이 은행 영업시간을 30분 늦추는 방안을 검토 중인 것으로 알려지면서 고객 불편과 사회적 비용 증가에 대한 우려가 제기되고 있다.",
+        "points": [
+          "영업시간 단축, 금융시장에 미치는 영향은 제한적 평가",
+          "고령층 등 디지털 금융 취약계층의 불편 가중 우려",
+          "출퇴근 시간 직장인 이용 어려움, 점심 시간 혼잡 예상",
+          "해외 사례에서도 고령층 디지털 금융 이용 어려움이 사회적 이슈화"
+        ],
+        "quote": "\"디지털 전환의 속도 조절과 함께 금융 소외계층을 위한 대책 마련이 병행되어야 한다.\" (시민단체 관계자)",
+        "context": "비대면 금융 거래가 확산되고 있지만, 여전히 많은 사람들이 은행 대면 서비스를 이용하고 있다. 특히 고령층이나 디지털 기기 사용에 익숙하지 않은 사람들에게 영업시간 단축은 금융 접근성을 떨어뜨려 사회적 불평등을 심화시킬 수 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202610081557008504cd0bfacc1c_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20clock%20face%20with%20changed%20opening%20hours%20and%20people%20waiting%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70601&nologo=true"
+    },
+    {
+      "id": "life-kpop-economic-impact",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "funnel",
+      "title": "K팝 팬덤, 韓 뷰티·푸드 소비로 연결",
+      "subtitle": "한류 수출 1억달러 증가 시 연관 산업 2.2억달러↑",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1억달러",
+            "label": "한류 수출 증가"
+          },
+          {
+            "value": "2.2억달러",
+            "label": "연관 산업 증가"
+          },
+          {
+            "value": "뷰티, 푸드",
+            "label": "주요 연관 산업"
+          }
+        ],
+        "main_number": "2.2배 효과",
+        "main_text": "K팝이 이끄는 한류 경제 효과, 소비 분야 확장"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing K-pop icons leading to beauty products and food items",
+      "detail": {
+        "summary": "K팝으로 형성된 해외 팬덤이 한국 뷰티, 푸드 등 연관 산업 소비로 확산되며 경제적 파급 효과를 일으키고 있다. 한류 수출 1억달러 증가 시 연관 산업 수출이 2억2백만달러 증가하는 것으로 추정된다.",
+        "points": [
+          "K팝을 통한 한국 문화 관심 증대가 소비로 이어짐",
+          "화장품, 식품, 의류, IT기기, 관광 등 다양한 연관 산업 수출 증가",
+          "한국콘텐츠진흥원 보고서, 한류 수출의 경제 효과 분석",
+          "민간 엔터테인먼트사와 정부 기관 협업으로 시너지 기대"
+        ],
+        "quote": "\"한류는 단순한 문화 현상을 넘어 한국 경제의 새로운 성장 동력으로 진화하고 있다.\" (대중문화교류위원회 관계자)",
+        "context": "한류의 글로벌 확산은 한국의 문화적 위상을 높일 뿐만 아니라, 국가 경제에도 긍정적인 영향을 미치고 있다. 특히 K팝 팬덤의 강력한 소비력은 한국 상품과 서비스의 해외 시장 진출에 중요한 교두보 역할을 한다.",
+        "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092171710"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20K-pop%20icons%20leading%20to%20beauty%20products%20and%20food%20items%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45455&nologo=true"
+    },
+    {
+      "id": "life-hyeri-sustainability",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "121억 건물주 혜리의 '일회용 칫솔 재활용'",
+      "subtitle": "화려함 뒤의 지속가능성 추구 라이프스타일 조명",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "121억원",
+            "label": "강남 건물 가치"
+          },
+          {
+            "value": "1회용 칫솔",
+            "label": "재활용 품목"
+          },
+          {
+            "value": "지속가능성",
+            "label": "추구 가치"
+          }
+        ],
+        "main_number": "절약 정신",
+        "main_text": "연예인의 실천하는 친환경 라이프스타일, 대중에게 메시지"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing a celebrity next to a recycling bin, symbolizing sustainability",
+      "detail": {
+        "summary": "121억원 상당의 강남 건물을 소유한 연예인 혜리가 비행기 일회용 칫솔을 버리지 않고 재활용하는 등 지속가능한 소비 습관을 실천하는 모습이 조명받고 있다.",
+        "points": [
+          "거액의 자산가임에도 일상 속 소소한 절약 습관 공개",
+          "일회용품 사용 절감 및 재활용을 통한 친환경 실천",
+          "화려한 이미지와 대비되는 실용적이고 지속가능한 라이프스타일",
+          "대중에게 환경 보호 및 윤리적 소비에 대한 메시지 전달"
+        ],
+        "quote": "\"자본가적 현실과 일상의 소소한 절약은 인간 이혜리로서의 입체적인 내면을 가감 없이 보여준다.\" (기사 설명)",
+        "context": "최근 환경 문제에 대한 대중의 인식이 높아지면서, 유명인들의 친환경적인 라이프스타일 실천이 사회적 영향력을 미치고 있다. 혜리의 사례는 개인의 소비 습관이 환경 보호에 기여할 수 있다는 메시지를 전달한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004165551?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20celebrity%20next%20to%20a%20recycling%20bin%2C%20symbolizing%20sustainability%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26932&nologo=true"
+    },
+    {
+      "id": "life-skinnyjeans-trend",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "'스키니진' 유행 재점화, 다이어트 약 영향?",
+      "subtitle": "웰니스 트렌드와 비만 치료제 확산이 패션에 미치는 나비효과",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "웰니스",
+            "label": "주요 트렌드"
+          },
+          {
+            "value": "다이어트 약",
+            "label": "확산 요인"
+          },
+          {
+            "value": "패션",
+            "label": "영향 분야"
+          }
+        ],
+        "main_number": "트렌드 변화",
+        "main_text": "건강 트렌드가 패션 트렌드에 미치는 영향"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, showing people wearing skinny jeans, with a 'wellness' thought bubble",
+      "detail": {
+        "summary": "비만 치료제 '마운자로', '위고비'의 확산과 전 세계적인 웰니스 트렌드가 맞물려 패션계에서 '스키니진' 유행이 다시 돌아올 조짐을 보이고 있다.",
+        "points": [
+          "다이어트약 열풍이 몸매 관리 및 자기관리 트렌드 강화",
+          "패션업계, 웰니스 추구 라이프스타일에 맞춰 신제품 출시 준비",
+          "과거 유행했던 스키니진 스타일의 재해석 기대",
+          "미용과 건강을 동시에 추구하는 현대인의 소비 경향 반영"
+        ],
+        "quote": "\"전 세계적인 라이프스타일이 웰니스를 추구하면서 자기관리가 더욱 중요해졌다.\" (패션업계 관계자)",
+        "context": "패션 트렌드는 사회, 경제, 문화 등 다양한 요소에 영향을 받는다. 최근 비만 치료제의 대중화와 건강한 신체 관리의 중요성이 부각되면서, 이러한 사회적 변화가 의류 소비 및 패션 스타일에 직접적인 영향을 미치고 있음을 보여준다.",
+        "source_url": "http://www.economytalk.kr/news/articleView.html?idxno=424552"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20people%20wearing%20skinny%20jeans%2C%20with%20a%20%27wellness%27%20thought%20bubble%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37532&nologo=true"
+    }
+  ],
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T06:10:25.997680+09:00"
+}
