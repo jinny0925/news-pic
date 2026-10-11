@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-diesel-deal-reaction",
-      "is_headline": true,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "network",
-      "title": "美-러 '경유 딜'에 유럽 반발 격화",
-      "subtitle": "EU \"전쟁 자금 대는 것\", 영국 \"우크라와 연대\" 강조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3국",
-            "label": "주요 당사자"
-          },
-          {
-            "value": "480만t",
-            "label": "예상 공급량"
-          },
-          {
-            "value": "강한 반발",
-            "label": "국제 반응"
-          }
-        ],
-        "main_number": "재고 촉구",
-        "main_text": "유럽, 美-러 에너지 합의에 강력 비판 표명"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing countries protesting a deal involving oil barrels, with flags of US, Russia, EU, and UK",
-      "detail": {
-        "summary": "미국과 러시아 간 대규모 경유 공급 합의에 대해 유럽연합(EU)과 영국이 강력히 반발하며 우크라이나 지원 및 대러 제재 강화를 강조했다.",
-        "points": [
-          "트럼프, 푸틴과 480만 톤 경유 공급 합의 발표",
-          "EU, 러시아에 전쟁 자금 제공 우려 표명",
-          "영국, 우크라이나와의 연대 재확인 및 제재 유지 입장",
-          "합의가 에너지 시장 및 국제 정세에 미칠 영향 주목"
-        ],
-        "quote": "\"전쟁 자금을 대는 것\" (EU 관계자)",
-        "context": "러시아의 우크라이나 침공 장기화 속, 에너지 시장 안정화를 명분으로 한 미국과 러시아의 경유 공급 합의가 유럽 국가들의 반발을 사고 있다. 이는 대러 제재 전선의 균열과 국제 안보 지형 변화 가능성을 시사한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009220053?sid=104"
-      },
-      "image_url": "data/images/2026-10-11/world-diesel-deal-reaction.jpg"
-    },
-    {
-      "id": "world-pope-death-penalty",
+      "id": "world-01",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "교황, 美 총살형 생중계 비판",
-      "subtitle": "\"사형은 인간 존엄성 공격\", 세계 사형 폐지의 날 맞아 메시지",
+      "viz_type": "timeline",
+      "title": "트럼프發 러-우크라 '에너지 휴전' 합의 논란",
+      "subtitle": "美 유가 안정 위한 정치적 행보, 우크라 발전소 피격 직후 발표",
       "viz_data": {
         "stats": [
           {
-            "value": "24회",
-            "label": "세계 사형 폐지의 날"
+            "value": "11월",
+            "label": "美 중간선거"
           },
-          {
-            "value": "총살형",
-            "label": "논란 방식"
-          },
-          {
-            "value": "강한 비판",
-            "label": "국제 반응"
-          }
-        ],
-        "main_number": "재고 촉구",
-        "main_text": "교황청, 미국의 사형 집행 방식에 우려 표명"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a dove and a gavel, symbolizing justice and peace",
-      "detail": {
-        "summary": "교황 프란치스코가 제24회 '세계 사형 폐지의 날'을 맞아 미국의 총살형 생중계 방침을 비판하며 \"사형은 인간 존엄성 공격\"이라고 강력히 주장했다.",
-        "points": [
-          "미국 국방부, 총살형 생중계 방침 발표로 논란 증폭",
-          "교황, 인간의 불가침성과 존엄성에 대한 공격으로 규정",
-          "교황청 국무원장도 미국의 계획에 비판적 입장 표명",
-          "미국 내 부통령을 포함한 정치권과 종교계, 인권 단체 반발"
-        ],
-        "quote": "\"공개 처형은 우리 사회의 도덕적 토대를 더욱 훼손하고 국민의 양심에 오점으로 남을 뿐\" (미국 가톨릭 주교회의 의장)",
-        "context": "미국 국방부의 사형 집행 생중계 방침이 국제사회와 국내에서 인권 및 윤리적 논란을 불러일으키고 있는 가운데, 교황이 이에 대해 분명한 반대 입장을 밝히며 국제적 비판 여론에 힘을 실었다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016368606?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20dove%20and%20a%20gavel%2C%20symbolizing%20justice%20and%20peace%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39568&nologo=true"
-    },
-    {
-      "id": "world-trump-diesel-deal",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "pie_chart",
-      "title": "트럼프, 푸틴과 '경유 딜' 합의 논란",
-      "subtitle": "러시아산 경유 대규모 공급 합의, 우크라 지원 중단 시사 발언도",
-      "viz_data": {
-        "stats": [
           {
             "value": "30만t",
-            "label": "초기 공급량"
+            "label": "러 경유 공급"
           },
           {
-            "value": "480만t",
-            "label": "총 공급량"
-          },
-          {
-            "value": "에너지 시장",
-            "label": "주요 영향"
+            "value": "급등",
+            "label": "유가 추이"
           }
         ],
-        "main_number": "친러 행보",
-        "main_text": "미국 야당, 트럼프의 '악마와 더러운 거래' 맹공"
+        "main_number": "발표 직후",
+        "main_text": "우크라 발전소 잇단 피격, 합의 실효성 의문"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing two leaders shaking hands over a barrel of oil, with a cloud of controversy",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "도널드 트럼프 전 미국 대통령이 블라디미르 푸틴 러시아 대통령과 러시아산 경유의 미국 및 세계 시장 공급에 합의했다고 밝히며 우크라이나에 대한 지원 중단 가능성까지 시사해 논란을 빚고 있다.",
+        "summary": "트럼프 전 대통령이 러시아-우크라이나 에너지 휴전 합의를 발표했으나, 직후 우크라이나 발전소 피격이 발생하며 합의의 진정성 및 정치적 배경에 대한 논란이 일고 있다.",
         "points": [
-          "트럼프, 푸틴과 경유 30만t 초기 공급, 총 480만t 합의",
-          "젤렌스키에 '새 대통령 필요' 발언으로 우크라이나 입장 논란",
-          "미국 야당, 합의를 '악마와 더러운 거래'로 비판하며 강한 반발",
-          "러시아 정유 시설 공습 자제 요청 등 우크라이나 정책에도 영향"
+          "트럼프, 美 중간선거 앞두고 에너지 가격 안정 명분 내세움",
+          "러시아산 경유 대규모 공급 합의 발표",
+          "발표 직후 우크라이나 에너지 시설 피격 발생, 합의 무력화",
+          "美 여야 상원의원들, 푸틴에게 돈줄 대는 행위라며 비판"
         ],
-        "quote": "\"트럼프가 위태로워진 정치적 운명을 구하려 악마와 거래하고 있다\" (척 슈머 민주당 연방 상원 원내대표)",
-        "context": "2024년 미국 대선을 앞두고 트럼프 전 대통령의 외교적 행보가 국제 에너지 시장과 우크라이나 전쟁 상황에 미칠 영향이 주목받고 있다. 특히 러시아와의 직접적인 에너지 합의는 유럽 동맹국들의 강력한 반발을 사고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/025/0003556958?sid=104"
+        "quote": "중간선거를 앞두고 '에너지 가격 안정'이라는 성과를 내세우기 위한 정치적 행보로 풀이된다.",
+        "context": "국제 유가 급등과 디젤 파동이 미국 중간선거에 미칠 영향을 의식한 트럼프 전 대통령의 행보로 해석되나, 우크라이나의 실제 상황과 괴리되며 논란이 커지고 있다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=91526"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20two%20leaders%20shaking%20hands%20over%20a%20barrel%20of%20oil%2C%20with%20a%20cloud%20of%20controversy%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78822&nologo=true"
+      "image_url": "data/images/2026-10-12/world-01.jpg"
     },
     {
-      "id": "economy-tax-arrears",
+      "id": "world-02",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
+      "category": "world",
+      "category_label": "🌍 국제",
       "viz_type": "bar_chart",
-      "title": "국세 체납액 116조원 돌파, 사상 최대",
-      "subtitle": "5년여간 지연 가산세만 22조원, 세수 확보 비상",
+      "title": "아르헨티나 3조원 잠수함 수주전, '금융 지원'이 관건",
+      "subtitle": "한국-독일-프랑스 경쟁 속 사업비 전액 금융 조달 경쟁 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "116조원",
-            "label": "총 체납액"
+            "value": "3조원",
+            "label": "총 사업비"
           },
           {
-            "value": "22조원",
-            "label": "가산세"
+            "value": "3개국",
+            "label": "경쟁 국가"
           },
           {
-            "value": "564만건",
-            "label": "체납 건수"
+            "value": "전액",
+            "label": "금융 조달"
           }
         ],
-        "main_number": "+116조원",
-        "main_text": "누적 국세 체납액, 국가 재정에 부담 가중"
+        "main_number": "100%",
+        "main_text": "사업비 전액 금융 지원 제안으로 수주전 과열"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a pile of money with a large 'X' mark, representing unpaid taxes",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "올해 6월 말 기준 누적 국세 체납액이 116조원을 돌파하며 사상 최대치를 기록했다. 이 중 법인세 등 지연 가산세가 5년여간 22조원에 달해 국가 재정 건전성에 대한 우려가 커지고 있다.",
+        "summary": "아르헨티나가 추진하는 3조원 규모의 잠수함 도입 사업을 두고 한국, 독일, 프랑스가 치열한 수주 경쟁을 벌이고 있으며, 특히 사업비 전액을 빌려주겠다는 금융 조달 제안이 핵심 변수로 떠올랐다.",
         "points": [
-          "누적 국세 체납액 116조31억원으로 집계, 체납 건수 564만건",
-          "2021년 대비 지속적인 증가 추세, 세수 부족 심화 우려",
-          "법인세, 종합소득세, 부가가치세 등이 주요 체납 항목",
-          "정부의 세수 확보 노력 및 징수 강화 대책 필요성 대두"
+          "한국, 독일, 프랑스 3국이 아르헨티나 잠수함 사업 경쟁",
+          "총 사업비 3조원 규모, '사업비 전액 금융 조달' 제안이 핵심",
+          "현지 언론, 특정 기종 선택 후에도 추가 절차 예상",
+          "사업 추진 여부가 정치적 판단에 달려있다는 분석"
         ],
-        "quote": "\"경기 침체와 고금리 등으로 인한 기업 및 가계의 세금 납부 부담 증가가 체납액 증가의 주요 원인\" (전문가 의견)",
-        "context": "한국 경제의 불확실성이 지속되는 가운데, 역대 최대 규모의 국세 체납액은 정부의 재정 운용에 심각한 도전을 제기하고 있다. 이는 복지 확대 및 투자 재원 마련에 걸림돌이 될 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016368619?sid=101"
+        "quote": "기종 선정과 사업 추진 여부가 정치적 판단에 달려 있다고 설명했다.",
+        "context": "막대한 국방비가 필요한 아르헨티나 입장에서 무기 구매에 대한 금융 지원은 매우 중요한 요소로, 이는 국제 방산 시장에서 수주 경쟁의 새로운 양상을 보여준다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=614209"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20pile%20of%20money%20with%20a%20large%20%27X%27%20mark%2C%20representing%20unpaid%20taxes%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96593&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18532&nologo=true"
     },
     {
-      "id": "economy-bofk-fx-profit",
+      "id": "world-03",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "한은 외화자산 운용수익 17조원, 역대 최대",
-      "subtitle": "전년 대비 32% 증가, 환율 변동성 속 고수익 달성",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "16.9조원",
-            "label": "작년 수익"
-          },
-          {
-            "value": "+32%",
-            "label": "전년 대비 증가"
-          },
-          {
-            "value": "2024년",
-            "label": "이전 최대"
-          }
-        ],
-        "main_number": "16.9조원",
-        "main_text": "한국은행, 외화자산 운용으로 사상 최대 수익 기록"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing currency symbols flowing into a central bank building, with an upward trend line",
-      "detail": {
-        "summary": "한국은행이 지난해 외화자산 운용으로 16조9천억원의 수익을 올려 역대 최대 기록을 경신했다. 이는 2024년 대비 32% 증가한 수치로, 글로벌 환율 변동성 심화 속에서 거둔 성과로 평가된다.",
-        "points": [
-          "지난해 외화자산 운용수익 총 16조9천억원 기록",
-          "2024년(12조8천억원)보다 4조1천억원(32%) 증가, 역대 최대",
-          "글로벌 금융시장 변동성 활용한 적극적인 운용 전략 주효",
-          "환율 안정화 및 국가 신인도 제고에 기여"
-        ],
-        "quote": "\"국제 금융시장 불안정 속에서도 안정적인 수익 창출 능력을 보여준 결과\" (한국은행 관계자)",
-        "context": "한국은행의 외화자산 운용수익 증가는 국가 외환보유액의 안정성을 높이고 대외 건전성을 강화하는 데 기여한다. 특히 최근 글로벌 경제 불확실성이 커지는 상황에서 이러한 성과는 더욱 주목받고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016368603?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20currency%20symbols%20flowing%20into%20a%20central%20bank%20building%2C%20with%20an%20upward%20trend%20line%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57054&nologo=true"
-    },
-    {
-      "id": "economy-construction-labor",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "area_chart",
-      "title": "건설업 임시일용직 30만명 이상 이탈",
-      "subtitle": "7개월 연속 비자발적 이직 증가, 건설 경기 침체 심화 우려",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "30만명+",
-            "label": "이탈 인력"
-          },
-          {
-            "value": "7개월",
-            "label": "연속 증가"
-          },
-          {
-            "value": "건설업",
-            "label": "주요 산업"
-          }
-        ],
-        "main_number": "-30만명",
-        "main_text": "건설업 일자리 감소, 노동 시장에 경고등"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing construction workers leaving a building site, with a downward trend",
-      "detail": {
-        "summary": "건설 임시일용직 노동자가 30만명 넘게 건설업을 떠났으며, 비자발적 이직이 7개월 연속 증가해 건설 경기 침체 장기화에 대한 우려가 커지고 있다.",
-        "points": [
-          "건설업 노동력 공급 측면에서 어려움 확인",
-          "8월 건설업 취업자 수 전년 동월 대비 3만명 감소",
-          "부총리 겸 재정경제부 장관, 제조·건설 고용 부진 언급",
-          "고금리 및 원자재값 상승으로 인한 건설 투자 위축이 원인"
-        ],
-        "quote": "\"제조·건설 등 고용 부진이 해소되지 않으면 경제 전반의 회복이 어려울 것\" (정부 관계자)",
-        "context": "고금리와 건설 원자재 가격 상승으로 인해 건설업 경기가 침체되면서, 일용직 노동자들이 일자리를 잃고 다른 산업으로 이동하고 있다. 이는 국내 경제 성장률 둔화에 부정적인 영향을 미칠 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016368598?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20construction%20workers%20leaving%20a%20building%20site%2C%20with%20a%20downward%20trend%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=42653&nologo=true"
-    },
-    {
-      "id": "tech-financial-hacking",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "한은·국책은행 해킹 시도 100만건 돌파",
-      "subtitle": "금융기관 사이버 공격 급증, 보안 강화 시급",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "100만건+",
-            "label": "올해 해킹 시도"
-          },
-          {
-            "value": "4개",
-            "label": "주요 은행"
-          },
-          {
-            "value": "145건",
-            "label": "한은 IT센터"
-          }
-        ],
-        "main_number": "+100만건",
-        "main_text": "금융권 해킹 시도, 디지털 금융 안전 위협"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a firewall protecting a bank building from digital threats",
-      "detail": {
-        "summary": "한국은행과 주요 국책은행에 대한 해킹 시도가 올해만 100만건 이상 급증하여 금융기관의 사이버 보안에 빨간불이 켜졌다.",
-        "points": [
-          "2020년부터 올해 9월까지 4개 은행 해킹 시도 증가 추세",
-          "한국은행 경기 IT센터, 설립 1년도 안 돼 145건 침해 시도",
-          "서비스 거부 공격, 정보 유출 시도 등 다양한 공격 방식",
-          "AI 기반 해킹 위협 증대, 금융권의 선제적 대응 필요"
-        ],
-        "quote": "\"금융 시스템의 안정성은 국가 경제 안보와 직결되며, 강력한 사이버 방어체계 구축이 필수적이다.\" (금융보안 전문가)",
-        "context": "디지털 금융으로의 전환이 가속화되면서 금융기관에 대한 사이버 공격 위험도 비례하여 증가하고 있다. 이는 고객 정보 유출 및 금융 시스템 마비로 이어질 수 있어 국가적 차원의 보안 강화가 요구된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000914332?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20firewall%20protecting%20a%20bank%20building%20from%20digital%20threats%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79670&nologo=true"
-    },
-    {
-      "id": "tech-samsungsdi-battery",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "삼성SDI, 9분 충전 전고체 배터리 양산 박차",
-      "subtitle": "20년 수명 목표, 전기차 시장 판도 변화 예고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "9분",
-            "label": "충전 시간"
-          },
-          {
-            "value": "20년",
-            "label": "수명 목표"
-          },
-          {
-            "value": "전고체",
-            "label": "배터리 종류"
-          }
-        ],
-        "main_number": "9분 충전",
-        "main_text": "꿈의 배터리, 전기차 대중화 앞당길 핵심 기술"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a fast-charging electric car battery icon with a timer",
-      "detail": {
-        "summary": "삼성SDI가 9분 충전으로 20년 수명 유지가 가능한 전고체 배터리 대량 생산 준비를 가속화하고 있다고 대만 매체가 보도했다. 이는 전기차 시장에 큰 변화를 가져올 핵심 기술로 주목받고 있다.",
-        "points": [
-          "삼성SDI, 전고체 배터리 대량 생산 준비 데이터 공개",
-          "9분 충전, 20년 수명 목표 설정",
-          "고체 전해질 도입으로 안전성과 효율성 증대",
-          "전기차 주행거리 불안감 해소 및 상용화 가속 기대"
-        ],
-        "quote": "\"기존 리튬이온 배터리의 한계를 극복할 차세대 배터리 기술의 선두 주자가 될 것\" (산업 전문가)",
-        "context": "전고체 배터리는 화재 위험이 적고 에너지 밀도가 높아 '꿈의 배터리'로 불린다. 삼성SDI의 양산 가속화는 전기차 시장의 대중화를 앞당기고 글로벌 배터리 기술 경쟁에서 한국의 입지를 강화할 것으로 예상된다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026101023212130472bd56fbc3c_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20fast-charging%20electric%20car%20battery%20icon%20with%20a%20timer%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94062&nologo=true"
-    },
-    {
-      "id": "tech-aichip-rental-cost",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "line_chart",
-      "title": "AI 칩 임대 비용 1년새 60% 급등",
-      "subtitle": "공급 부족 심화, 클로드 등 AI 서비스 장애 속출",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "+60%",
-            "label": "1년새 가격 상승"
-          },
-          {
-            "value": "수년",
-            "label": "데이터센터 건설 기간"
-          },
-          {
-            "value": "공급 부족",
-            "label": "핵심 문제"
-          }
-        ],
-        "main_number": "60%↑",
-        "main_text": "AI 산업 성장 가로막는 컴퓨팅 자원 부족 심화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a rising graph with AI chips and a 'sold out' sign",
-      "detail": {
-        "summary": "AI 칩을 빌리는 비용이 1년 만에 60% 급등했으며, 클로드와 같은 주요 AI 서비스도 연산 자원 부족으로 잦은 장애를 겪는 등 AI 컴퓨팅 자원 부족이 심화되고 있다.",
-        "points": [
-          "AI 데이터센터 건설에 수년 소요, 규제 및 반발로 지연",
-          "발표된 컴퓨팅 용량과 실제 사용 가능한 물량 간 차이 존재",
-          "캐나다 AI 스타트업 등 신규 기업의 컴퓨팅 자원 확보 어려움",
-          "AI 기술 개발 및 서비스 확산에 걸림돌로 작용"
-        ],
-        "quote": "\"발표된 컴퓨팅 용량 가운데 실제로 현재 이용할 수 있는 것은 매우 적다\" (코히어 공동창업자)",
-        "context": "AI 기술 발전이 가속화되면서 고성능 AI 칩에 대한 수요가 폭발적으로 증가하고 있다. 하지만 공급이 이를 따라가지 못하고 비용마저 급증하면서 AI 산업 전반의 성장에 제동이 걸릴 수 있다는 우려가 나온다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014244589?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20rising%20graph%20with%20AI%20chips%20and%20a%20%27sold%20out%27%20sign%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90069&nologo=true"
-    },
-    {
-      "id": "society-election-probe",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "선관위 특검, 투표용지 공개검증 추진",
-      "subtitle": "올림픽공원 29일 유력, 국민적 의혹 해소 기대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "29일",
-            "label": "공개검증 예정"
-          },
-          {
-            "value": "올림픽공원",
-            "label": "장소"
-          },
-          {
-            "value": "국민적 의혹",
-            "label": "해소 목표"
-          }
-        ],
-        "main_number": "D-18",
-        "main_text": "투표용지 공개 검증, 선거 불신 해소 전환점 될까"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a ballot box with a magnifying glass over it, representing transparency",
-      "detail": {
-        "summary": "선거관리위원회 특별검사팀이 올림픽공원에서 투표용지 공개 검증을 진행할 예정이며, 29일이 유력한 날짜로 조율 중이다. 이는 선거 불신에 대한 국민적 의혹을 해소하는 계기가 될 것으로 보인다.",
-        "points": [
-          "특검팀, '법과 원칙'에 따라 독립적 수사 강조",
-          "청와대 수사 상황 보고 의혹 부인",
-          "공개 검증을 통해 투명성 확보 및 신뢰 회복 목표",
-          "선관위 관련 의혹 해소 여부에 국민적 관심 집중"
-        ],
-        "quote": "\"오직 법과 원칙에 따라 독립적으로 수사하고 있고, 앞으로도 어떠한 정치적 고려 없이 독립적으로 수사에 임할 것\" (특검팀)",
-        "context": "과거 선거 관련 의혹이 지속적으로 제기되면서 선거관리위원회에 대한 국민 신뢰가 하락한 상황이다. 이번 특검의 공개 검증은 이러한 불신을 해소하고 민주주의의 근간인 선거 제도의 투명성을 확보하는 데 중요한 역할을 할 것으로 기대된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016368612?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20ballot%20box%20with%20a%20magnifying%20glass%20over%20it%2C%20representing%20transparency%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=75505&nologo=true"
-    },
-    {
-      "id": "society-care-housing-imbalance",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
+      "category": "world",
+      "category_label": "🌍 국제",
       "viz_type": "pie_chart",
-      "title": "케어안심주택 43% 전남광주 쏠림",
-      "subtitle": "돌봄 노인 주거 지원 불균형 심화, 인천 등 인프라 부족",
+      "title": "코이카 디지털 ODA, 중국 IT 장비 지원 논란",
+      "subtitle": "미국·EU 흐름과 배치되는 중국산 정보통신 제품 지원에 대한 지적",
       "viz_data": {
         "stats": [
           {
-            "value": "437호",
-            "label": "총 주택 수"
+            "value": "코이카",
+            "label": "원조 기관"
           },
           {
-            "value": "43.2%",
-            "label": "전남광주 비중"
+            "value": "중국산",
+            "label": "장비 출처"
           },
           {
-            "value": "0호",
-            "label": "인천 주택 수"
+            "value": "미국/EU",
+            "label": "주요국 기조"
           }
         ],
-        "main_number": "43.2% 쏠림",
-        "main_text": "돌봄 노인 주거 인프라, 지역별 격차 심각"
+        "main_number": "고위험",
+        "main_text": "중국·러시아 등 '고위험 공급망'과 연계된 장비 사용 지적"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a map of South Korea with a highlighted region for care homes, indicating imbalance",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "돌봄이 필요한 노인을 위한 케어안심주택 및 중간집 437호 중 43.2%가 전남광주특별시에 집중되어 있으며, 인천에는 단 한 호도 없는 등 지역별 주거 지원 인프라 불균형이 심각한 것으로 나타났다.",
+        "summary": "한국 코이카가 디지털 ODA 사업을 통해 중국산 IT 장비를 지원하는 것이 미국 및 유럽연합의 중국산 정보통신 제품 배제 흐름과 상충된다는 지적이 제기되었다.",
         "points": [
-          "케어안심주택은 지역사회 거주 돌봄 노인 지원 목적",
-          "전남광주에 압도적 비중 집중, 특정 지역 쏠림 현상",
-          "인천 지역 0호 등 수도권 및 다른 지역 인프라 부족",
-          "지역사회 통합 돌봄 시스템 구축에 장애 요인으로 작용"
+          "코이카, 디지털 ODA 사업에 중국산 IT 장비 활용",
+          "미국·EU 등 서방국의 중국산 IT 제품 배제 기조와 대조",
+          "'고위험 공급망' 연계 문제 제기",
+          "해외 원조의 전략적 방향성에 대한 재검토 요구"
         ],
-        "quote": "\"돌봄 정책의 핵심은 지역사회 기반의 통합적 지원인데, 주거 인프라의 지역 편차는 이를 저해하는 요소다.\" (국회 보건복지위원)",
-        "context": "고령화 사회로 진입하면서 돌봄이 필요한 노인 인구가 급증하고 있다. 병원 퇴원 후 지역사회에서 안전하게 생활할 수 있도록 돕는 주거 지원 시설의 중요성이 커지고 있으나, 현재의 불균형은 정책 목표 달성에 큰 걸림돌이 된다.",
-        "source_url": "https://medicalworldnews.co.kr/news/view.php?idx=1510977768"
+        "quote": "정부의 이런 ODA 원조는 미국과 유럽연합(EU) 등이 중국산 정보통신(IT) 제품을 공공부문 적용에서 배제하는 흐름과 배치된다.",
+        "context": "미·중 기술 패권 경쟁이 심화되는 가운데, 한국의 해외 원조가 국제적인 공급망 안보 및 동맹국과의 협력 기조를 고려해야 한다는 목소리가 나오고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369604?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20map%20of%20South%20Korea%20with%20a%20highlighted%20region%20for%20care%20homes%2C%20indicating%20imbalance%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79544&nologo=true"
+      "image_url": "data/images/2026-10-12/world-03.jpg"
     },
     {
-      "id": "society-bank-hours",
+      "id": "economy-01",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "부동산 자금출처조사, 지역별 증가율 격차 심화",
+      "subtitle": "서울청 4% vs 비서울청 51% 증가, 국세청 조사 현황 분석",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "19.2%",
+            "label": "전년 대비 증가율"
+          },
+          {
+            "value": "403건",
+            "label": "총 조사 건수"
+          },
+          {
+            "value": "6%p",
+            "label": "서울/비서울 차이"
+          }
+        ],
+        "main_number": "+51%",
+        "main_text": "서울 외 지역 부동산 자금출처조사 증가율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국세청의 부동산 자금출처조사 증가율이 지역별로 큰 차이를 보이며, 서울청은 4% 증가에 그친 반면 다른 지역은 51% 증가한 것으로 나타났다.",
+        "points": [
+          "부동산 자금출처조사 총 19.2% 증가 (338건→403건)",
+          "서울지방국세청 관할은 4% 증가에 그침",
+          "나머지 지방국세청 관할은 51% 급증",
+          "부동산 시장 활황 및 불법 증여 등 감시 강화 영향"
+        ],
+        "quote": "부동산 거래 관련 자금출처조사는 2024년 338건에서 2025년 403건으로 19.2% 늘었다.",
+        "context": "최근 몇 년간 부동산 시장의 과열과 이에 따른 불법 투기 및 탈세 의혹이 증가하면서, 국세청의 자금출처조사가 강화되고 있으며 지역별 부동산 시장 상황이 반영된 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369623?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40051&nologo=true"
+    },
+    {
+      "id": "economy-02",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "제약·바이오 산업, '녹색 에너지' 전환 가속화",
+      "subtitle": "RE100 달성 위한 재생에너지 조달 규모 2년 만에 7배 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2021년",
+            "label": "1,451GWh"
+          },
+          {
+            "value": "2023년",
+            "label": "1만GWh 이상"
+          },
+          {
+            "value": "RE100",
+            "label": "목표"
+          }
+        ],
+        "main_number": "+700%",
+        "main_text": "K-RE100 재생에너지 조달 규모 2년 새 7배 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "제약·바이오 산업에서 '녹색에너지' 전환이 중요 경쟁력으로 부상하며, K-RE100 재생에너지 조달 규모가 2년 만에 7배 이상 급증하는 등 산업계의 변화가 가속화되고 있다.",
+        "points": [
+          "제약·바이오 기업들, RE100 달성 위해 재생에너지 전환 노력",
+          "K-RE100 재생에너지 조달 규모 2021년 1451GWh → 2023년 1만GWh 이상",
+          "전력 소비량이 많은 산업군에서 녹색 프리미엄 중요성 증대",
+          "재생에너지 사용 실적 인정 방식과 경제성 고려 필요"
+        ],
+        "quote": "국내 K-RE100 재생에너지 조달 규모는 2021년 1451GWh에서 2023년 1만GWh 이상으로 증가했다.",
+        "context": "ESG 경영 및 탄소 중립 목표 달성이 기업의 필수 과제가 되면서, 전력 소비량이 많은 제약·바이오 산업에서도 재생에너지 사용을 통한 경쟁력 확보가 중요해지고 있다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546017"
+      },
+      "image_url": "data/images/2026-10-12/economy-02.jpg"
+    },
+    {
+      "id": "economy-03",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "상호금융권 연체율, 두 자릿수 급증하며 '부실 경고등'",
+      "subtitle": "339곳 연체율 10% 돌파, 반년 만에 66% 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "339곳",
+            "label": "연체율 두자릿수"
+          },
+          {
+            "value": "66%",
+            "label": "반년 새 증가"
+          },
+          {
+            "value": "두 자릿수",
+            "label": "평균 연체율"
+          }
+        ],
+        "main_number": "+66%",
+        "main_text": "상호금융권 연체율 반년 새 급증"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "상호금융권의 부실 우려가 커지고 있는 가운데, 339개 상호금융기관의 연체율이 두 자릿수를 기록했으며, 이는 반년 만에 66% 급증한 수치다.",
+        "points": [
+          "상호금융 339곳 연체율 10% 초과",
+          "반년 새 연체율 두 자릿수 기관 수 66% 증가",
+          "비조합원 대출 제한 등 규제 완화 필요성 제기",
+          "지역경제 기여 상호금융의 지방 공공금고 시장 확대 논의"
+        ],
+        "quote": "상호금융 부실이 단기간 극복하기 힘든 구조적인 문제로 등장했다.",
+        "context": "고금리 장기화와 경기 침체로 인해 서민들의 대출 상환 능력이 약화되면서, 지역 금융의 근간인 상호금융권의 건전성에 대한 우려가 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369612?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16362&nologo=true"
+    },
+    {
+      "id": "tech-01",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 시대, '에너지가 곧 안보'…데이터센터 전력 소비 2030년 2배↑",
+      "subtitle": "AI는 전략자산, 지속 가능한 에너지 시스템 없이는 불평등 심화 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "416TWh",
+            "label": "2024년 전력 소비"
+          },
+          {
+            "value": "945TWh",
+            "label": "2030년 예상"
+          },
+          {
+            "value": "불평등",
+            "label": "심화 위험"
+          }
+        ],
+        "main_number": "+127%",
+        "main_text": "2024년 대비 2030년 AI 데이터센터 전력 소비 증가 예상치"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI가 비즈니스, 안보를 포괄하는 전략자산이 되면서 AI 시대에는 '에너지가 곧 안보'라는 명제가 더욱 중요해졌다. 전 세계 데이터센터 전력 소비는 2030년까지 두 배 이상 증가할 것으로 예측된다.",
+        "points": [
+          "AI는 정치, 경제, 군사를 포괄하는 전략자산으로 부상",
+          "AI 시대에는 안정적인 '에너지' 확보가 국가 안보의 핵심",
+          "전세계 데이터센터 전력 소비 2024년 416TWh → 2030년 945TWh 예측",
+          "지속 가능한 에너지 시스템 없이는 AI가 불평등을 심화시킬 위험"
+        ],
+        "quote": "지속 가능한 에너지 시스템이 없다면 AI(인공지능)가 전 세계적인 불평등을 심화시킬 위험이 있다.",
+        "context": "인공지능 기술의 발전은 막대한 컴퓨팅 자원과 전력을 요구하며, 이는 단순한 기술 문제를 넘어 국가 안보와 경제적 경쟁력, 그리고 사회적 불평등에까지 영향을 미치는 거대한 이슈로 떠오르고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005424600?sid=101"
+      },
+      "image_url": "data/images/2026-10-12/tech-01.jpg"
+    },
+    {
+      "id": "tech-02",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line_chart",
+      "title": "휴머노이드 로봇 시대, 메모리 반도체 시장의 새 성장 동력",
+      "subtitle": "로봇 한 대에 고성능 D램 수십~수백개 탑재, 2030년 20배 수요 증가 전망",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수십~수백개",
+            "label": "로봇 1대 D램"
+          },
+          {
+            "value": "2030년",
+            "label": "20배 성장"
+          },
+          {
+            "value": "새로운",
+            "label": "수요처"
+          }
+        ],
+        "main_number": "+2000%",
+        "main_text": "2030년 휴머노이드 로봇 D램 수요 20배 증가 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "인공지능(AI) 성장 정체 우려 속, 휴머노이드 로봇이 메모리 반도체 업계의 새로운 수요처로 급부상하고 있다. 로봇 1대당 고성능 D램 수십~수백 개가 탑재될 전망이며, 2030년까지 D램 수요가 20배 늘어날 것으로 관측된다.",
+        "points": [
+          "휴머노이드 로봇, AI 시대 메모리 반도체 새 수요처로 부상",
+          "로봇 1대당 고성능 D램 수십~수백개 탑재 예상",
+          "2030년 휴머노이드 로봇 D램 수요 20배 증가 전망",
+          "AI 반도체 시장의 새로운 성장 동력"
+        ],
+        "quote": "휴머노이드의 지능이 고도화하며 로봇 한 대에도 챗GPT를 구동하는 AI 서버급의 고성능 D램 수십~수백개가 탑재될 것으로 예상된다.",
+        "context": "AI 기술 발달과 함께 로봇 산업이 급성장하면서, 특히 휴머노이드 로봇의 고도화된 지능 구현을 위한 고성능 메모리 반도체 수요가 폭발적으로 증가할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/025/0003557136?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34983&nologo=true"
+    },
+    {
+      "id": "tech-03",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "금융권 AI 해킹 위협 심화, 보안 예산은 '0.9%'",
+      "subtitle": "5대 은행 IT 예산 중 보안 비중 1% 미만, 내부자 이상행위 탐지에 집중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "0.9%",
+            "label": "보안 예산 비중"
+          },
+          {
+            "value": "2.3조원",
+            "label": "총 IT 예산"
+          },
+          {
+            "value": "AI 해킹",
+            "label": "새로운 위협"
+          }
+        ],
+        "main_number": "<1%",
+        "main_text": "AI 시대 사이버 보안 위협 대비 미흡한 금융권 투자"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "인공지능(AI) 해킹 위협이 증대되는 상황에서 국내 주요 은행들의 IT 예산 중 보안 예산 비중이 1%도 채 되지 않아 심각한 보안 취약점이 우려된다.",
+        "points": [
+          "5대 은행의 지난해 IT 관련 예산 총 2조 3580억원",
+          "전체 IT 예산 중 보안 예산 비중 0.9%에 불과",
+          "대부분 내부자 이상행위 탐지 시스템에만 투자 집중",
+          "AI 기술 활용한 해킹 위협에 대한 대비 부족 지적"
+        ],
+        "quote": "AI 시대에 접어들며 사이버 공격이 고도화되는 가운데 은행권의 보안 투자 인식이 안이하다는 지적이 나온다.",
+        "context": "금융권은 AI 도입을 통해 효율성을 높이고 있지만, 동시에 AI를 악용한 신종 해킹 위협에 노출될 위험이 커지고 있다. 하지만 이에 대한 보안 투자는 여전히 미흡한 수준이라는 비판이 제기된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005424580?sid=101"
+      },
+      "image_url": "data/images/2026-10-12/tech-03.jpg"
+    },
+    {
+      "id": "society-01",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "comparison",
-      "title": "은행 영업시간 30분 단축 논란",
-      "subtitle": "고객 불편 및 사회적 비용 증가 우려 제기",
+      "viz_type": "timeline",
+      "title": "수능 30년, 미래 사회에 필요한 인재 평가 고민",
+      "subtitle": "AI 시대, 사고력·판단력 등 역량 평가의 중요성 부각",
       "viz_data": {
         "stats": [
           {
-            "value": "30분",
-            "label": "단축 시간"
+            "value": "30년",
+            "label": "수능 역사"
           },
           {
-            "value": "고객 불편",
-            "label": "주요 문제"
+            "value": "AI 시대",
+            "label": "인재상 변화"
           },
           {
-            "value": "사회적 비용",
-            "label": "예상 피해"
+            "value": "사고력",
+            "label": "핵심 역량"
           }
         ],
-        "main_number": "-30분",
-        "main_text": "은행 영업시간 조정, 시민 생활에 미칠 영향은?"
+        "main_number": "변화 필요",
+        "main_text": "수능 30년, 미래 사회 요구에 맞는 평가 시스템 필요"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a clock face with changed opening hours and people waiting",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "금융당국이 은행 영업시간을 30분 늦추는 방안을 검토 중인 것으로 알려지면서 고객 불편과 사회적 비용 증가에 대한 우려가 제기되고 있다.",
+        "summary": "1994년 수능 도입 30주년을 맞아, AI 시대에 필요한 인재를 어떻게 평가할 것인지에 대한 사회적 논의가 활발히 진행되고 있다.",
         "points": [
-          "영업시간 단축, 금융시장에 미치는 영향은 제한적 평가",
-          "고령층 등 디지털 금융 취약계층의 불편 가중 우려",
-          "출퇴근 시간 직장인 이용 어려움, 점심 시간 혼잡 예상",
-          "해외 사례에서도 고령층 디지털 금융 이용 어려움이 사회적 이슈화"
+          "수능 30년, 초기 요구 인재상과 AI 시대 인재상 변화",
+          "세계 주요 교육 선진국에서도 역량 평가가 주요 과제",
+          "사고력, 판단력 등 미래 사회에 필요한 역량 강조",
+          "교육 환경, 사회적 요구, 문화적 특성 고려한 제도 개편 필요"
         ],
-        "quote": "\"디지털 전환의 속도 조절과 함께 금융 소외계층을 위한 대책 마련이 병행되어야 한다.\" (시민단체 관계자)",
-        "context": "비대면 금융 거래가 확산되고 있지만, 여전히 많은 사람들이 은행 대면 서비스를 이용하고 있다. 특히 고령층이나 디지털 기기 사용에 익숙하지 않은 사람들에게 영업시간 단축은 금융 접근성을 떨어뜨려 사회적 불평등을 심화시킬 수 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=202610081557008504cd0bfacc1c_1"
+        "quote": "미래 사회에 필요한 역량을 무엇으로, 어떻게 평가할 것인지 논의해야 한다.",
+        "context": "인공지능 기술의 발전은 산업 구조뿐 아니라 교육 시스템에도 근본적인 변화를 요구하고 있다. 기존의 지식 암기 위주 평가 방식으로는 미래 사회에 필요한 창의적이고 문제 해결 능력을 갖춘 인재를 양성하기 어렵다는 인식이 확산되고 있다.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=598451"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20clock%20face%20with%20changed%20opening%20hours%20and%20people%20waiting%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70601&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=1637&nologo=true"
     },
     {
-      "id": "life-kpop-economic-impact",
+      "id": "society-02",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "기업 담합 과징금, 관련 매출액 대비 6% 미만",
+      "subtitle": "공정위 담합 사건 분석 결과, 과징금 실효성 논란 제기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5.85%",
+            "label": "과징금 비율"
+          },
+          {
+            "value": "237건",
+            "label": "담합 사건"
+          },
+          {
+            "value": "낮은",
+            "label": "억제 효과"
+          }
+        ],
+        "main_number": "6% 미만",
+        "main_text": "담합 관련 매출액 대비 과징금 비율 평균"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "2024년부터 최근까지 공정위가 처리한 담합 사건에서 부과된 과징금이 관련 매출액의 6%에도 미치지 못해, 과징금의 담합 억제 효과가 미미하다는 지적이 나온다.",
+        "points": [
+          "공정위 담합 사건 237건 분석, 과징금 비율 5.85%",
+          "매출액 대비 과징금 비율이 낮아 담합 반복 가능성",
+          "현행법상 과징금 상한은 10%, 실제 부과율은 낮음",
+          "과징금 부과율 상향 및 실효성 강화 요구"
+        ],
+        "quote": "담합해도 과징금은 매출액의 6%뿐",
+        "context": "기업들의 담합 행위는 시장 경제의 공정성을 해치고 소비자에게 피해를 전가하는 심각한 문제다. 하지만 낮은 과징금 부과율은 기업들이 담합을 반복할 유인을 제공한다는 비판이 제기되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369613?sid=101"
+      },
+      "image_url": "data/images/2026-10-12/society-02.jpg"
+    },
+    {
+      "id": "society-03",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "전문가 가치 평가 논란, '상담료 vs 강연료' 격차",
+      "subtitle": "대중적 전문가와 학술 전문가의 보수 차이에 대한 사회적 인식 변화 요구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수백만원",
+            "label": "인기 전문가 상담"
+          },
+          {
+            "value": "30만원",
+            "label": "교수 강연료"
+          },
+          {
+            "value": "인식",
+            "label": "개선 필요"
+          }
+        ],
+        "main_number": "큰 격차",
+        "main_text": "대중적 전문가와 학술 전문가 간 보수 격차 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "인기 전문가의 상담료는 수백만 원에 달하는 반면, 교수들의 강연료는 30만 원 수준에 그쳐 전문가의 가치 평가와 사회적 대우에 대한 논란이 일고 있다.",
+        "points": [
+          "오은영 박사 등 인기 전문가 상담료 고가 형성",
+          "대학교수 등 학술 전문가 강연료는 상대적으로 저가",
+          "전문 지식과 경험에 대한 사회적 가치 평가의 불균형 지적",
+          "자본주의 사회 내 전문가 보수 책정의 자유와 현실적 문제"
+        ],
+        "quote": "우리 사회는 어떻게 대우해야 할까?",
+        "context": "현대 사회에서 '전문가'의 역할과 가치에 대한 논의가 활발하다. 특히 대중적 인지도를 가진 전문가와 학술적 전문성을 지닌 전문가 간의 보수 격차는 지식 노동의 가치와 사회적 인정에 대한 깊은 성찰을 요구한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005424599?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=41282&nologo=true"
+    },
+    {
+      "id": "life-01",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "funnel",
-      "title": "K팝 팬덤, 韓 뷰티·푸드 소비로 연결",
-      "subtitle": "한류 수출 1억달러 증가 시 연관 산업 2.2억달러↑",
+      "viz_type": "pie_chart",
+      "title": "56·66세 필수 폐 질환 검사, 국민 88% '인지 부족'",
+      "subtitle": "COPD, ILD 등 주요 폐 질환에 대한 낮은 국민 인식, 홍보 및 급여 확대 필요",
       "viz_data": {
         "stats": [
           {
-            "value": "1억달러",
-            "label": "한류 수출 증가"
+            "value": "88%",
+            "label": "정보 부족"
           },
           {
-            "value": "2.2억달러",
-            "label": "연관 산업 증가"
+            "value": "2.5억명",
+            "label": "COPD 환자(세계)"
           },
           {
-            "value": "뷰티, 푸드",
-            "label": "주요 연관 산업"
+            "value": "300만명",
+            "label": "연간 COPD 사망"
           }
         ],
-        "main_number": "2.2배 효과",
-        "main_text": "K팝이 이끄는 한류 경제 효과, 소비 분야 확장"
+        "main_number": "12%",
+        "main_text": "56·66세 폐 질환 검사 인지율"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing K-pop icons leading to beauty products and food items",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "K팝으로 형성된 해외 팬덤이 한국 뷰티, 푸드 등 연관 산업 소비로 확산되며 경제적 파급 효과를 일으키고 있다. 한류 수출 1억달러 증가 시 연관 산업 수출이 2억2백만달러 증가하는 것으로 추정된다.",
+        "summary": "만 56세와 66세에 권고되는 폐 질환 검사에 대해 국민 88%가 모른다고 답하며, 만성폐쇄성폐질환(COPD) 등 주요 폐 질환에 대한 인식 개선과 건강보험 급여 확대가 시급한 것으로 나타났다.",
         "points": [
-          "K팝을 통한 한국 문화 관심 증대가 소비로 이어짐",
-          "화장품, 식품, 의류, IT기기, 관광 등 다양한 연관 산업 수출 증가",
-          "한국콘텐츠진흥원 보고서, 한류 수출의 경제 효과 분석",
-          "민간 엔터테인먼트사와 정부 기관 협업으로 시너지 기대"
+          "만 56세, 66세 폐 질환 검사 권고, 국민 88% 인지 부족",
+          "COPD 세계 환자 2.5억명, 연간 300만명 사망하는 주요 질환",
+          "간질성폐질환(ILD)은 국민 63%가 '전혀 모른다' 또는 '잘 모른다' 답변",
+          "신약 및 치료제 건강보험 급여 확대 등 사회적 노력 요구"
         ],
-        "quote": "\"한류는 단순한 문화 현상을 넘어 한국 경제의 새로운 성장 동력으로 진화하고 있다.\" (대중문화교류위원회 관계자)",
-        "context": "한류의 글로벌 확산은 한국의 문화적 위상을 높일 뿐만 아니라, 국가 경제에도 긍정적인 영향을 미치고 있다. 특히 K팝 팬덤의 강력한 소비력은 한국 상품과 서비스의 해외 시장 진출에 중요한 교두보 역할을 한다.",
-        "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092171710"
+        "quote": "국민 88%가 '해당 검사가 있는 줄 몰랐다'고 응답했다.",
+        "context": "고령화 사회로 진입하면서 폐 질환의 유병률이 높아지고 있지만, 국민들의 질병 인지도는 여전히 낮다. 조기 진단과 치료를 위한 정보 제공 및 접근성 확대가 공중 보건의 중요한 과제로 떠오르고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004670089?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20K-pop%20icons%20leading%20to%20beauty%20products%20and%20food%20items%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45455&nologo=true"
+      "image_url": "data/images/2026-10-12/life-01.jpg"
     },
     {
-      "id": "life-hyeri-sustainability",
+      "id": "life-02",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "121억 건물주 혜리의 '일회용 칫솔 재활용'",
-      "subtitle": "화려함 뒤의 지속가능성 추구 라이프스타일 조명",
+      "title": "'김장 문화' 변화, 소용량·반조리 김치 시장 성장",
+      "subtitle": "간편함 추구하는 소비 트렌드에 따라 김치 구매 방식 변화",
       "viz_data": {
         "stats": [
           {
-            "value": "121억원",
-            "label": "강남 건물 가치"
+            "value": "감소",
+            "label": "가정 김장"
           },
           {
-            "value": "1회용 칫솔",
-            "label": "재활용 품목"
+            "value": "증가",
+            "label": "김치 구매"
           },
           {
-            "value": "지속가능성",
-            "label": "추구 가치"
+            "value": "간편함",
+            "label": "핵심 키워드"
           }
         ],
-        "main_number": "절약 정신",
-        "main_text": "연예인의 실천하는 친환경 라이프스타일, 대중에게 메시지"
+        "main_number": "소용량",
+        "main_text": "1인 가구 및 소가족 증가에 따른 소용량 김치 인기"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a celebrity next to a recycling bin, symbolizing sustainability",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "121억원 상당의 강남 건물을 소유한 연예인 혜리가 비행기 일회용 칫솔을 버리지 않고 재활용하는 등 지속가능한 소비 습관을 실천하는 모습이 조명받고 있다.",
+        "summary": "전통적인 김장 문화가 변화하면서 소비자들이 김치를 직접 담그기보다 구매하는 비중이 늘고 있으며, 특히 소용량, 반조리 형태의 김치 제품 시장이 성장하고 있다.",
         "points": [
-          "거액의 자산가임에도 일상 속 소소한 절약 습관 공개",
-          "일회용품 사용 절감 및 재활용을 통한 친환경 실천",
-          "화려한 이미지와 대비되는 실용적이고 지속가능한 라이프스타일",
-          "대중에게 환경 보호 및 윤리적 소비에 대한 메시지 전달"
+          "가구 형태 변화 및 간편함 추구로 김장 대신 김치 구매 증가",
+          "소용량 김치, 절임배추 등 소비자의 라이프스타일에 맞춘 상품군 확대",
+          "유통업계, 관련 상품군 강화 및 물량 선제적 확보",
+          "김치 시장의 새로운 성장 동력으로 작용"
         ],
-        "quote": "\"자본가적 현실과 일상의 소소한 절약은 인간 이혜리로서의 입체적인 내면을 가감 없이 보여준다.\" (기사 설명)",
-        "context": "최근 환경 문제에 대한 대중의 인식이 높아지면서, 유명인들의 친환경적인 라이프스타일 실천이 사회적 영향력을 미치고 있다. 혜리의 사례는 개인의 소비 습관이 환경 보호에 기여할 수 있다는 메시지를 전달한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004165551?sid=101"
+        "quote": "최근에는 소용량 제품이나 절임배추 등 소비자의 라이프스타일에 맞춰 관련 상품군을 더욱 확대하고 물량을 선제적으로 확보하는 추세",
+        "context": "1인 가구 및 핵가족의 증가, 바쁜 현대인의 라이프스타일 변화는 식문화 전반에 영향을 미치고 있다. 김장 문화 또한 이러한 변화에 맞춰 간편함을 추구하는 방향으로 진화하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001878025?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20celebrity%20next%20to%20a%20recycling%20bin%2C%20symbolizing%20sustainability%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26932&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3438&nologo=true"
     },
     {
-      "id": "life-skinnyjeans-trend",
+      "id": "life-03",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "'스키니진' 유행 재점화, 다이어트 약 영향?",
-      "subtitle": "웰니스 트렌드와 비만 치료제 확산이 패션에 미치는 나비효과",
+      "viz_type": "bar_chart",
+      "title": "백화점, K-브랜드 수출 전진기지로 변모",
+      "subtitle": "해외 판매 플랫폼 구축 및 K-뷰티, 라이프스타일 브랜드 글로벌 진출 지원",
       "viz_data": {
         "stats": [
           {
-            "value": "웰니스",
-            "label": "주요 트렌드"
+            "value": "30여개",
+            "label": "참여 브랜드"
           },
           {
-            "value": "다이어트 약",
-            "label": "확산 요인"
+            "value": "스킨케어",
+            "label": "주요 품목"
           },
           {
-            "value": "패션",
-            "label": "영향 분야"
+            "value": "K-라이프스타일",
+            "label": "글로벌 확장"
           }
         ],
-        "main_number": "트렌드 변화",
-        "main_text": "건강 트렌드가 패션 트렌드에 미치는 영향"
+        "main_number": "수출 증가",
+        "main_text": "K-브랜드의 글로벌 시장 진출 가속화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing people wearing skinny jeans, with a 'wellness' thought bubble",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "비만 치료제 '마운자로', '위고비'의 확산과 전 세계적인 웰니스 트렌드가 맞물려 패션계에서 '스키니진' 유행이 다시 돌아올 조짐을 보이고 있다.",
+        "summary": "국내 백화점들이 해외 관광객을 유치하던 역할에서 벗어나, 자체적으로 해외 판매 플랫폼을 구축하며 K-브랜드의 글로벌 수출을 지원하는 전진기지로 변모하고 있다.",
         "points": [
-          "다이어트약 열풍이 몸매 관리 및 자기관리 트렌드 강화",
-          "패션업계, 웰니스 추구 라이프스타일에 맞춰 신제품 출시 준비",
-          "과거 유행했던 스키니진 스타일의 재해석 기대",
-          "미용과 건강을 동시에 추구하는 현대인의 소비 경향 반영"
+          "백화점, 내수 시장 넘어 K-브랜드 해외 진출 지원",
+          "자체 온라인 해외 판매 플랫폼 구축 및 운영",
+          "스킨케어, 메이크업, 바디케어, 라이프스타일 등 30여개 브랜드 참여",
+          "K-뷰티 및 K-라이프스타일의 글로벌 인기 확산에 기여"
         ],
-        "quote": "\"전 세계적인 라이프스타일이 웰니스를 추구하면서 자기관리가 더욱 중요해졌다.\" (패션업계 관계자)",
-        "context": "패션 트렌드는 사회, 경제, 문화 등 다양한 요소에 영향을 받는다. 최근 비만 치료제의 대중화와 건강한 신체 관리의 중요성이 부각되면서, 이러한 사회적 변화가 의류 소비 및 패션 스타일에 직접적인 영향을 미치고 있음을 보여준다.",
-        "source_url": "http://www.economytalk.kr/news/articleView.html?idxno=424552"
+        "quote": "외국인 관광객을 맞이하는 역할을 넘어 K브랜드가 해외 시장에 진출할 수 있도록 돕는 전진기지가 되고 있다.",
+        "context": "K-컬처의 글로벌 인기와 함께 K-뷰티, K-라이프스타일 제품에 대한 해외 수요가 폭발적으로 증가하고 있다. 이에 국내 유통 기업들이 직접 해외 시장 진출을 돕는 새로운 비즈니스 모델을 구축하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001878002?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20people%20wearing%20skinny%20jeans%2C%20with%20a%20%27wellness%27%20thought%20bubble%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37532&nologo=true"
+      "image_url": "data/images/2026-10-12/life-03.jpg"
     }
   ],
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T06:10:25.997680+09:00"
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:09:04.957429+09:00"
 }

@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-01",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "트럼프發 러-우크라 '에너지 휴전' 합의 논란",
+      "subtitle": "美 유가 안정 위한 정치적 행보, 우크라 발전소 피격 직후 발표",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "11월",
+            "label": "美 중간선거"
+          },
+          {
+            "value": "30만t",
+            "label": "러 경유 공급"
+          },
+          {
+            "value": "급등",
+            "label": "유가 추이"
+          }
+        ],
+        "main_number": "발표 직후",
+        "main_text": "우크라 발전소 잇단 피격, 합의 실효성 의문"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "트럼프 전 대통령이 러시아-우크라이나 에너지 휴전 합의를 발표했으나, 직후 우크라이나 발전소 피격이 발생하며 합의의 진정성 및 정치적 배경에 대한 논란이 일고 있다.",
+        "points": [
+          "트럼프, 美 중간선거 앞두고 에너지 가격 안정 명분 내세움",
+          "러시아산 경유 대규모 공급 합의 발표",
+          "발표 직후 우크라이나 에너지 시설 피격 발생, 합의 무력화",
+          "美 여야 상원의원들, 푸틴에게 돈줄 대는 행위라며 비판"
+        ],
+        "quote": "중간선거를 앞두고 '에너지 가격 안정'이라는 성과를 내세우기 위한 정치적 행보로 풀이된다.",
+        "context": "국제 유가 급등과 디젤 파동이 미국 중간선거에 미칠 영향을 의식한 트럼프 전 대통령의 행보로 해석되나, 우크라이나의 실제 상황과 괴리되며 논란이 커지고 있다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=91526"
+      },
+      "image_url": "data/images/2026-10-12/world-01.jpg"
+    },
+    {
+      "id": "world-02",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "아르헨티나 3조원 잠수함 수주전, '금융 지원'이 관건",
+      "subtitle": "한국-독일-프랑스 경쟁 속 사업비 전액 금융 조달 경쟁 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3조원",
+            "label": "총 사업비"
+          },
+          {
+            "value": "3개국",
+            "label": "경쟁 국가"
+          },
+          {
+            "value": "전액",
+            "label": "금융 조달"
+          }
+        ],
+        "main_number": "100%",
+        "main_text": "사업비 전액 금융 지원 제안으로 수주전 과열"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "아르헨티나가 추진하는 3조원 규모의 잠수함 도입 사업을 두고 한국, 독일, 프랑스가 치열한 수주 경쟁을 벌이고 있으며, 특히 사업비 전액을 빌려주겠다는 금융 조달 제안이 핵심 변수로 떠올랐다.",
+        "points": [
+          "한국, 독일, 프랑스 3국이 아르헨티나 잠수함 사업 경쟁",
+          "총 사업비 3조원 규모, '사업비 전액 금융 조달' 제안이 핵심",
+          "현지 언론, 특정 기종 선택 후에도 추가 절차 예상",
+          "사업 추진 여부가 정치적 판단에 달려있다는 분석"
+        ],
+        "quote": "기종 선정과 사업 추진 여부가 정치적 판단에 달려 있다고 설명했다.",
+        "context": "막대한 국방비가 필요한 아르헨티나 입장에서 무기 구매에 대한 금융 지원은 매우 중요한 요소로, 이는 국제 방산 시장에서 수주 경쟁의 새로운 양상을 보여준다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=614209"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18532&nologo=true"
+    },
+    {
+      "id": "world-03",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "pie_chart",
+      "title": "코이카 디지털 ODA, 중국 IT 장비 지원 논란",
+      "subtitle": "미국·EU 흐름과 배치되는 중국산 정보통신 제품 지원에 대한 지적",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "코이카",
+            "label": "원조 기관"
+          },
+          {
+            "value": "중국산",
+            "label": "장비 출처"
+          },
+          {
+            "value": "미국/EU",
+            "label": "주요국 기조"
+          }
+        ],
+        "main_number": "고위험",
+        "main_text": "중국·러시아 등 '고위험 공급망'과 연계된 장비 사용 지적"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국 코이카가 디지털 ODA 사업을 통해 중국산 IT 장비를 지원하는 것이 미국 및 유럽연합의 중국산 정보통신 제품 배제 흐름과 상충된다는 지적이 제기되었다.",
+        "points": [
+          "코이카, 디지털 ODA 사업에 중국산 IT 장비 활용",
+          "미국·EU 등 서방국의 중국산 IT 제품 배제 기조와 대조",
+          "'고위험 공급망' 연계 문제 제기",
+          "해외 원조의 전략적 방향성에 대한 재검토 요구"
+        ],
+        "quote": "정부의 이런 ODA 원조는 미국과 유럽연합(EU) 등이 중국산 정보통신(IT) 제품을 공공부문 적용에서 배제하는 흐름과 배치된다.",
+        "context": "미·중 기술 패권 경쟁이 심화되는 가운데, 한국의 해외 원조가 국제적인 공급망 안보 및 동맹국과의 협력 기조를 고려해야 한다는 목소리가 나오고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369604?sid=104"
+      },
+      "image_url": "data/images/2026-10-12/world-03.jpg"
+    },
+    {
+      "id": "economy-01",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "부동산 자금출처조사, 지역별 증가율 격차 심화",
+      "subtitle": "서울청 4% vs 비서울청 51% 증가, 국세청 조사 현황 분석",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "19.2%",
+            "label": "전년 대비 증가율"
+          },
+          {
+            "value": "403건",
+            "label": "총 조사 건수"
+          },
+          {
+            "value": "6%p",
+            "label": "서울/비서울 차이"
+          }
+        ],
+        "main_number": "+51%",
+        "main_text": "서울 외 지역 부동산 자금출처조사 증가율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국세청의 부동산 자금출처조사 증가율이 지역별로 큰 차이를 보이며, 서울청은 4% 증가에 그친 반면 다른 지역은 51% 증가한 것으로 나타났다.",
+        "points": [
+          "부동산 자금출처조사 총 19.2% 증가 (338건→403건)",
+          "서울지방국세청 관할은 4% 증가에 그침",
+          "나머지 지방국세청 관할은 51% 급증",
+          "부동산 시장 활황 및 불법 증여 등 감시 강화 영향"
+        ],
+        "quote": "부동산 거래 관련 자금출처조사는 2024년 338건에서 2025년 403건으로 19.2% 늘었다.",
+        "context": "최근 몇 년간 부동산 시장의 과열과 이에 따른 불법 투기 및 탈세 의혹이 증가하면서, 국세청의 자금출처조사가 강화되고 있으며 지역별 부동산 시장 상황이 반영된 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369623?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40051&nologo=true"
+    },
+    {
+      "id": "economy-02",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "제약·바이오 산업, '녹색 에너지' 전환 가속화",
+      "subtitle": "RE100 달성 위한 재생에너지 조달 규모 2년 만에 7배 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2021년",
+            "label": "1,451GWh"
+          },
+          {
+            "value": "2023년",
+            "label": "1만GWh 이상"
+          },
+          {
+            "value": "RE100",
+            "label": "목표"
+          }
+        ],
+        "main_number": "+700%",
+        "main_text": "K-RE100 재생에너지 조달 규모 2년 새 7배 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "제약·바이오 산업에서 '녹색에너지' 전환이 중요 경쟁력으로 부상하며, K-RE100 재생에너지 조달 규모가 2년 만에 7배 이상 급증하는 등 산업계의 변화가 가속화되고 있다.",
+        "points": [
+          "제약·바이오 기업들, RE100 달성 위해 재생에너지 전환 노력",
+          "K-RE100 재생에너지 조달 규모 2021년 1451GWh → 2023년 1만GWh 이상",
+          "전력 소비량이 많은 산업군에서 녹색 프리미엄 중요성 증대",
+          "재생에너지 사용 실적 인정 방식과 경제성 고려 필요"
+        ],
+        "quote": "국내 K-RE100 재생에너지 조달 규모는 2021년 1451GWh에서 2023년 1만GWh 이상으로 증가했다.",
+        "context": "ESG 경영 및 탄소 중립 목표 달성이 기업의 필수 과제가 되면서, 전력 소비량이 많은 제약·바이오 산업에서도 재생에너지 사용을 통한 경쟁력 확보가 중요해지고 있다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546017"
+      },
+      "image_url": "data/images/2026-10-12/economy-02.jpg"
+    },
+    {
+      "id": "economy-03",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "상호금융권 연체율, 두 자릿수 급증하며 '부실 경고등'",
+      "subtitle": "339곳 연체율 10% 돌파, 반년 만에 66% 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "339곳",
+            "label": "연체율 두자릿수"
+          },
+          {
+            "value": "66%",
+            "label": "반년 새 증가"
+          },
+          {
+            "value": "두 자릿수",
+            "label": "평균 연체율"
+          }
+        ],
+        "main_number": "+66%",
+        "main_text": "상호금융권 연체율 반년 새 급증"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "상호금융권의 부실 우려가 커지고 있는 가운데, 339개 상호금융기관의 연체율이 두 자릿수를 기록했으며, 이는 반년 만에 66% 급증한 수치다.",
+        "points": [
+          "상호금융 339곳 연체율 10% 초과",
+          "반년 새 연체율 두 자릿수 기관 수 66% 증가",
+          "비조합원 대출 제한 등 규제 완화 필요성 제기",
+          "지역경제 기여 상호금융의 지방 공공금고 시장 확대 논의"
+        ],
+        "quote": "상호금융 부실이 단기간 극복하기 힘든 구조적인 문제로 등장했다.",
+        "context": "고금리 장기화와 경기 침체로 인해 서민들의 대출 상환 능력이 약화되면서, 지역 금융의 근간인 상호금융권의 건전성에 대한 우려가 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369612?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16362&nologo=true"
+    },
+    {
+      "id": "tech-01",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 시대, '에너지가 곧 안보'…데이터센터 전력 소비 2030년 2배↑",
+      "subtitle": "AI는 전략자산, 지속 가능한 에너지 시스템 없이는 불평등 심화 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "416TWh",
+            "label": "2024년 전력 소비"
+          },
+          {
+            "value": "945TWh",
+            "label": "2030년 예상"
+          },
+          {
+            "value": "불평등",
+            "label": "심화 위험"
+          }
+        ],
+        "main_number": "+127%",
+        "main_text": "2024년 대비 2030년 AI 데이터센터 전력 소비 증가 예상치"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI가 비즈니스, 안보를 포괄하는 전략자산이 되면서 AI 시대에는 '에너지가 곧 안보'라는 명제가 더욱 중요해졌다. 전 세계 데이터센터 전력 소비는 2030년까지 두 배 이상 증가할 것으로 예측된다.",
+        "points": [
+          "AI는 정치, 경제, 군사를 포괄하는 전략자산으로 부상",
+          "AI 시대에는 안정적인 '에너지' 확보가 국가 안보의 핵심",
+          "전세계 데이터센터 전력 소비 2024년 416TWh → 2030년 945TWh 예측",
+          "지속 가능한 에너지 시스템 없이는 AI가 불평등을 심화시킬 위험"
+        ],
+        "quote": "지속 가능한 에너지 시스템이 없다면 AI(인공지능)가 전 세계적인 불평등을 심화시킬 위험이 있다.",
+        "context": "인공지능 기술의 발전은 막대한 컴퓨팅 자원과 전력을 요구하며, 이는 단순한 기술 문제를 넘어 국가 안보와 경제적 경쟁력, 그리고 사회적 불평등에까지 영향을 미치는 거대한 이슈로 떠오르고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005424600?sid=101"
+      },
+      "image_url": "data/images/2026-10-12/tech-01.jpg"
+    },
+    {
+      "id": "tech-02",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line_chart",
+      "title": "휴머노이드 로봇 시대, 메모리 반도체 시장의 새 성장 동력",
+      "subtitle": "로봇 한 대에 고성능 D램 수십~수백개 탑재, 2030년 20배 수요 증가 전망",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수십~수백개",
+            "label": "로봇 1대 D램"
+          },
+          {
+            "value": "2030년",
+            "label": "20배 성장"
+          },
+          {
+            "value": "새로운",
+            "label": "수요처"
+          }
+        ],
+        "main_number": "+2000%",
+        "main_text": "2030년 휴머노이드 로봇 D램 수요 20배 증가 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "인공지능(AI) 성장 정체 우려 속, 휴머노이드 로봇이 메모리 반도체 업계의 새로운 수요처로 급부상하고 있다. 로봇 1대당 고성능 D램 수십~수백 개가 탑재될 전망이며, 2030년까지 D램 수요가 20배 늘어날 것으로 관측된다.",
+        "points": [
+          "휴머노이드 로봇, AI 시대 메모리 반도체 새 수요처로 부상",
+          "로봇 1대당 고성능 D램 수십~수백개 탑재 예상",
+          "2030년 휴머노이드 로봇 D램 수요 20배 증가 전망",
+          "AI 반도체 시장의 새로운 성장 동력"
+        ],
+        "quote": "휴머노이드의 지능이 고도화하며 로봇 한 대에도 챗GPT를 구동하는 AI 서버급의 고성능 D램 수십~수백개가 탑재될 것으로 예상된다.",
+        "context": "AI 기술 발달과 함께 로봇 산업이 급성장하면서, 특히 휴머노이드 로봇의 고도화된 지능 구현을 위한 고성능 메모리 반도체 수요가 폭발적으로 증가할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/025/0003557136?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34983&nologo=true"
+    },
+    {
+      "id": "tech-03",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "금융권 AI 해킹 위협 심화, 보안 예산은 '0.9%'",
+      "subtitle": "5대 은행 IT 예산 중 보안 비중 1% 미만, 내부자 이상행위 탐지에 집중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "0.9%",
+            "label": "보안 예산 비중"
+          },
+          {
+            "value": "2.3조원",
+            "label": "총 IT 예산"
+          },
+          {
+            "value": "AI 해킹",
+            "label": "새로운 위협"
+          }
+        ],
+        "main_number": "<1%",
+        "main_text": "AI 시대 사이버 보안 위협 대비 미흡한 금융권 투자"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "인공지능(AI) 해킹 위협이 증대되는 상황에서 국내 주요 은행들의 IT 예산 중 보안 예산 비중이 1%도 채 되지 않아 심각한 보안 취약점이 우려된다.",
+        "points": [
+          "5대 은행의 지난해 IT 관련 예산 총 2조 3580억원",
+          "전체 IT 예산 중 보안 예산 비중 0.9%에 불과",
+          "대부분 내부자 이상행위 탐지 시스템에만 투자 집중",
+          "AI 기술 활용한 해킹 위협에 대한 대비 부족 지적"
+        ],
+        "quote": "AI 시대에 접어들며 사이버 공격이 고도화되는 가운데 은행권의 보안 투자 인식이 안이하다는 지적이 나온다.",
+        "context": "금융권은 AI 도입을 통해 효율성을 높이고 있지만, 동시에 AI를 악용한 신종 해킹 위협에 노출될 위험이 커지고 있다. 하지만 이에 대한 보안 투자는 여전히 미흡한 수준이라는 비판이 제기된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005424580?sid=101"
+      },
+      "image_url": "data/images/2026-10-12/tech-03.jpg"
+    },
+    {
+      "id": "society-01",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "수능 30년, 미래 사회에 필요한 인재 평가 고민",
+      "subtitle": "AI 시대, 사고력·판단력 등 역량 평가의 중요성 부각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30년",
+            "label": "수능 역사"
+          },
+          {
+            "value": "AI 시대",
+            "label": "인재상 변화"
+          },
+          {
+            "value": "사고력",
+            "label": "핵심 역량"
+          }
+        ],
+        "main_number": "변화 필요",
+        "main_text": "수능 30년, 미래 사회 요구에 맞는 평가 시스템 필요"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "1994년 수능 도입 30주년을 맞아, AI 시대에 필요한 인재를 어떻게 평가할 것인지에 대한 사회적 논의가 활발히 진행되고 있다.",
+        "points": [
+          "수능 30년, 초기 요구 인재상과 AI 시대 인재상 변화",
+          "세계 주요 교육 선진국에서도 역량 평가가 주요 과제",
+          "사고력, 판단력 등 미래 사회에 필요한 역량 강조",
+          "교육 환경, 사회적 요구, 문화적 특성 고려한 제도 개편 필요"
+        ],
+        "quote": "미래 사회에 필요한 역량을 무엇으로, 어떻게 평가할 것인지 논의해야 한다.",
+        "context": "인공지능 기술의 발전은 산업 구조뿐 아니라 교육 시스템에도 근본적인 변화를 요구하고 있다. 기존의 지식 암기 위주 평가 방식으로는 미래 사회에 필요한 창의적이고 문제 해결 능력을 갖춘 인재를 양성하기 어렵다는 인식이 확산되고 있다.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=598451"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=1637&nologo=true"
+    },
+    {
+      "id": "society-02",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "기업 담합 과징금, 관련 매출액 대비 6% 미만",
+      "subtitle": "공정위 담합 사건 분석 결과, 과징금 실효성 논란 제기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5.85%",
+            "label": "과징금 비율"
+          },
+          {
+            "value": "237건",
+            "label": "담합 사건"
+          },
+          {
+            "value": "낮은",
+            "label": "억제 효과"
+          }
+        ],
+        "main_number": "6% 미만",
+        "main_text": "담합 관련 매출액 대비 과징금 비율 평균"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "2024년부터 최근까지 공정위가 처리한 담합 사건에서 부과된 과징금이 관련 매출액의 6%에도 미치지 못해, 과징금의 담합 억제 효과가 미미하다는 지적이 나온다.",
+        "points": [
+          "공정위 담합 사건 237건 분석, 과징금 비율 5.85%",
+          "매출액 대비 과징금 비율이 낮아 담합 반복 가능성",
+          "현행법상 과징금 상한은 10%, 실제 부과율은 낮음",
+          "과징금 부과율 상향 및 실효성 강화 요구"
+        ],
+        "quote": "담합해도 과징금은 매출액의 6%뿐",
+        "context": "기업들의 담합 행위는 시장 경제의 공정성을 해치고 소비자에게 피해를 전가하는 심각한 문제다. 하지만 낮은 과징금 부과율은 기업들이 담합을 반복할 유인을 제공한다는 비판이 제기되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016369613?sid=101"
+      },
+      "image_url": "data/images/2026-10-12/society-02.jpg"
+    },
+    {
+      "id": "society-03",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "전문가 가치 평가 논란, '상담료 vs 강연료' 격차",
+      "subtitle": "대중적 전문가와 학술 전문가의 보수 차이에 대한 사회적 인식 변화 요구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수백만원",
+            "label": "인기 전문가 상담"
+          },
+          {
+            "value": "30만원",
+            "label": "교수 강연료"
+          },
+          {
+            "value": "인식",
+            "label": "개선 필요"
+          }
+        ],
+        "main_number": "큰 격차",
+        "main_text": "대중적 전문가와 학술 전문가 간 보수 격차 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "인기 전문가의 상담료는 수백만 원에 달하는 반면, 교수들의 강연료는 30만 원 수준에 그쳐 전문가의 가치 평가와 사회적 대우에 대한 논란이 일고 있다.",
+        "points": [
+          "오은영 박사 등 인기 전문가 상담료 고가 형성",
+          "대학교수 등 학술 전문가 강연료는 상대적으로 저가",
+          "전문 지식과 경험에 대한 사회적 가치 평가의 불균형 지적",
+          "자본주의 사회 내 전문가 보수 책정의 자유와 현실적 문제"
+        ],
+        "quote": "우리 사회는 어떻게 대우해야 할까?",
+        "context": "현대 사회에서 '전문가'의 역할과 가치에 대한 논의가 활발하다. 특히 대중적 인지도를 가진 전문가와 학술적 전문성을 지닌 전문가 간의 보수 격차는 지식 노동의 가치와 사회적 인정에 대한 깊은 성찰을 요구한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005424599?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=41282&nologo=true"
+    },
+    {
+      "id": "life-01",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "56·66세 필수 폐 질환 검사, 국민 88% '인지 부족'",
+      "subtitle": "COPD, ILD 등 주요 폐 질환에 대한 낮은 국민 인식, 홍보 및 급여 확대 필요",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "88%",
+            "label": "정보 부족"
+          },
+          {
+            "value": "2.5억명",
+            "label": "COPD 환자(세계)"
+          },
+          {
+            "value": "300만명",
+            "label": "연간 COPD 사망"
+          }
+        ],
+        "main_number": "12%",
+        "main_text": "56·66세 폐 질환 검사 인지율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "만 56세와 66세에 권고되는 폐 질환 검사에 대해 국민 88%가 모른다고 답하며, 만성폐쇄성폐질환(COPD) 등 주요 폐 질환에 대한 인식 개선과 건강보험 급여 확대가 시급한 것으로 나타났다.",
+        "points": [
+          "만 56세, 66세 폐 질환 검사 권고, 국민 88% 인지 부족",
+          "COPD 세계 환자 2.5억명, 연간 300만명 사망하는 주요 질환",
+          "간질성폐질환(ILD)은 국민 63%가 '전혀 모른다' 또는 '잘 모른다' 답변",
+          "신약 및 치료제 건강보험 급여 확대 등 사회적 노력 요구"
+        ],
+        "quote": "국민 88%가 '해당 검사가 있는 줄 몰랐다'고 응답했다.",
+        "context": "고령화 사회로 진입하면서 폐 질환의 유병률이 높아지고 있지만, 국민들의 질병 인지도는 여전히 낮다. 조기 진단과 치료를 위한 정보 제공 및 접근성 확대가 공중 보건의 중요한 과제로 떠오르고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004670089?sid=103"
+      },
+      "image_url": "data/images/2026-10-12/life-01.jpg"
+    },
+    {
+      "id": "life-02",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "'김장 문화' 변화, 소용량·반조리 김치 시장 성장",
+      "subtitle": "간편함 추구하는 소비 트렌드에 따라 김치 구매 방식 변화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "감소",
+            "label": "가정 김장"
+          },
+          {
+            "value": "증가",
+            "label": "김치 구매"
+          },
+          {
+            "value": "간편함",
+            "label": "핵심 키워드"
+          }
+        ],
+        "main_number": "소용량",
+        "main_text": "1인 가구 및 소가족 증가에 따른 소용량 김치 인기"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "전통적인 김장 문화가 변화하면서 소비자들이 김치를 직접 담그기보다 구매하는 비중이 늘고 있으며, 특히 소용량, 반조리 형태의 김치 제품 시장이 성장하고 있다.",
+        "points": [
+          "가구 형태 변화 및 간편함 추구로 김장 대신 김치 구매 증가",
+          "소용량 김치, 절임배추 등 소비자의 라이프스타일에 맞춘 상품군 확대",
+          "유통업계, 관련 상품군 강화 및 물량 선제적 확보",
+          "김치 시장의 새로운 성장 동력으로 작용"
+        ],
+        "quote": "최근에는 소용량 제품이나 절임배추 등 소비자의 라이프스타일에 맞춰 관련 상품군을 더욱 확대하고 물량을 선제적으로 확보하는 추세",
+        "context": "1인 가구 및 핵가족의 증가, 바쁜 현대인의 라이프스타일 변화는 식문화 전반에 영향을 미치고 있다. 김장 문화 또한 이러한 변화에 맞춰 간편함을 추구하는 방향으로 진화하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001878025?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3438&nologo=true"
+    },
+    {
+      "id": "life-03",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "백화점, K-브랜드 수출 전진기지로 변모",
+      "subtitle": "해외 판매 플랫폼 구축 및 K-뷰티, 라이프스타일 브랜드 글로벌 진출 지원",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30여개",
+            "label": "참여 브랜드"
+          },
+          {
+            "value": "스킨케어",
+            "label": "주요 품목"
+          },
+          {
+            "value": "K-라이프스타일",
+            "label": "글로벌 확장"
+          }
+        ],
+        "main_number": "수출 증가",
+        "main_text": "K-브랜드의 글로벌 시장 진출 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국내 백화점들이 해외 관광객을 유치하던 역할에서 벗어나, 자체적으로 해외 판매 플랫폼을 구축하며 K-브랜드의 글로벌 수출을 지원하는 전진기지로 변모하고 있다.",
+        "points": [
+          "백화점, 내수 시장 넘어 K-브랜드 해외 진출 지원",
+          "자체 온라인 해외 판매 플랫폼 구축 및 운영",
+          "스킨케어, 메이크업, 바디케어, 라이프스타일 등 30여개 브랜드 참여",
+          "K-뷰티 및 K-라이프스타일의 글로벌 인기 확산에 기여"
+        ],
+        "quote": "외국인 관광객을 맞이하는 역할을 넘어 K브랜드가 해외 시장에 진출할 수 있도록 돕는 전진기지가 되고 있다.",
+        "context": "K-컬처의 글로벌 인기와 함께 K-뷰티, K-라이프스타일 제품에 대한 해외 수요가 폭발적으로 증가하고 있다. 이에 국내 유통 기업들이 직접 해외 시장 진출을 돕는 새로운 비즈니스 모델을 구축하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001878002?sid=101"
+      },
+      "image_url": "data/images/2026-10-12/life-03.jpg"
+    }
+  ],
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:09:04.957429+09:00"
+}
