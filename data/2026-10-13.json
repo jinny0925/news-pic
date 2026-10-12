@@ -1,0 +1,662 @@
+{
+  "cards": [
+    {
+      "id": "economy-imf-ai-growth",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "IMF, AI 투자로 세계 경제 성장 견인 전망",
+      "subtitle": "에너지 충격에도 AI 인프라 투자가 핵심 동력",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 투자",
+            "label": "성장 동력"
+          },
+          {
+            "value": "에너지 충격",
+            "label": "극복 요소"
+          },
+          {
+            "value": "세계 경제",
+            "label": "성장 전망"
+          }
+        ],
+        "main_number": "견인",
+        "main_text": "AI가 글로벌 성장 이끈다"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, AI robot with a rising graph, globe in background",
+      "detail": {
+        "summary": "IMF 총재는 대대적인 AI 인프라 투자가 에너지 공급 충격 속에서도 세계 경제 성장을 이끄는 핵심 동력이 될 것이라고 전망했다.",
+        "points": [
+          "AI 투자 확대가 경제 성장의 주요 동력",
+          "에너지 공급 충격 하방 압력에도 성장세 유지",
+          "글로벌 경제 회복 및 성장에 기여",
+          "미래 기술 투자의 중요성 강조"
+        ],
+        "quote": "AI 인프라에 대한 대대적인 투자는 올해 세계 경제 성장을 견인하는 핵심 동력이라고 말했습니다.",
+        "context": "인공지능(AI) 기술이 전 산업 분야에 미치는 영향이 커지면서, 글로벌 경제 성장에도 핵심적인 역할을 할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000537414?sid=101"
+      },
+      "image_url": "data/images/2026-10-13/economy-imf-ai-growth.jpg"
+    },
+    {
+      "id": "world-nk-russia-bet",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "김정은, 러시아 협력으로 핵·현금 확보",
+      "subtitle": "제재 속 핵무기 개발 및 정치적 자산 축적 분석",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "핵무기",
+            "label": "확보"
+          },
+          {
+            "value": "현금",
+            "label": "수익"
+          },
+          {
+            "value": "정치적 자산",
+            "label": "증대"
+          }
+        ],
+        "main_number": "2018년 이후",
+        "main_text": "핵실험/미사일 개발 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, North Korean leader figure with nuclear symbol and money bags, subtle Russian flag elements",
+      "detail": {
+        "summary": "김정은 위원장이 러시아와의 관계를 통해 핵무기 및 현금을 확보하고, 내부적으로도 정치적 자산을 축적했다는 분석이 나왔다.",
+        "points": [
+          "연이은 핵실험 및 미사일 개발 지속",
+          "대내외 정치적 입지 강화로 간부들 지지 확보",
+          "러시아와의 협력을 통한 제재 회피 가능성",
+          "젊은 지도자의 '성과' 인식 조성"
+        ],
+        "quote": "젊은 지도자가 핵무기도 만들고 미국 대통령까지 만나니 간부들 사이에서 ‘그래도 뭔가 해낸다’는 인식이 생긴 것이다.",
+        "context": "국제사회의 제재 속에서도 북한이 핵 개발을 지속하고 러시아와의 관계를 활용하여 자국 이익을 도모하는 상황을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006386796?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20North%20Korean%20leader%20figure%20with%20nuclear%20symbol%20and%20money%20bags%2C%20subtle%20Russian%20flag%20elements%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28999&nologo=true"
+    },
+    {
+      "id": "world-houthi-threat",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "후티 반군, 美 개입 시 '고통스러운 보복' 경고",
+      "subtitle": "예멘 내전 장기화, 중동 정세 긴장 고조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "美 개입",
+            "label": "경고"
+          },
+          {
+            "value": "사우디 공항",
+            "label": "재공격"
+          },
+          {
+            "value": "예멘 내전",
+            "label": "확전 우려"
+          }
+        ],
+        "main_number": "1170+",
+        "main_text": "예멘 내전 개전 일수"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, map of Middle East with conflict zones highlighted, warning signs",
+      "detail": {
+        "summary": "예멘 후티 반군이 미국이 내전에 개입할 경우 '고통스러운 보복'을 가하겠다고 경고하며 사우디 공항을 재공격했다.",
+        "points": [
+          "미국 및 역내 미국의 모든 이익 시설 겨냥 위협",
+          "사우디아라비아 공항에 대한 재공격 감행",
+          "예멘 내전 장기화 및 국제 개입 가능성",
+          "중동 지역 정세의 불안정성 증대"
+        ],
+        "quote": "미국이 예멘에 대한 공격에 가담한다면 우리는 대응에 주저하지 않을 것",
+        "context": "예멘 내전이 국제사회 개입과 맞물려 확전될 경우 중동 정세에 큰 영향을 미칠 수 있으며, 이는 세계 경제에도 파장을 미칠 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005827461?sid=104"
+      },
+      "image_url": "data/images/2026-10-13/world-houthi-threat.jpg"
+    },
+    {
+      "id": "world-china-ai-manufacturing",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "中 제조업, '자율 AI'로 글로벌 경쟁력 강화",
+      "subtitle": "저임금 모델 넘어 초고속 다품종 소량 생산 체제 전환",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "ERP",
+            "label": "기존 모델"
+          },
+          {
+            "value": "자율 AI",
+            "label": "신규 모델"
+          },
+          {
+            "value": "글로벌 진출",
+            "label": "목표"
+          }
+        ],
+        "main_number": "Agility",
+        "main_text": "생산 핵심 경쟁력"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, futuristic factory with AI robots managing production lines, old factory building faded in background",
+      "detail": {
+        "summary": "중국 제조업이 저임금 대량 생산 모델에서 벗어나 자율 AI 에이전트를 활용한 '애자일(Agility)' 생산 방식으로 글로벌 경쟁력을 강화하고 있다.",
+        "points": [
+          "설계·조달·스케줄링·품질 관리 전반에 AI 에이전트 배치",
+          "초고속 다품종 소량 생산 가능 시스템 구축",
+          "'세계의 공장' 모델에서 기술 중심 모델로 전환",
+          "글로벌 시장 진출 확대 및 경쟁력 확보"
+        ],
+        "quote": "저임금 노동력과 대량 생산에 기반했던 과거의 '세계의 공장' 모델에서 탈피해, 설계·조달·스케줄링·품질 관리 전반에 자율형 AI 에이전트를 배치",
+        "context": "글로벌 공급망 재편과 첨단 기술 경쟁 심화 속에서 중국이 산업 구조 혁신을 통해 새로운 성장 동력을 모색하고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101217515012800c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20futuristic%20factory%20with%20AI%20robots%20managing%20production%20lines%2C%20old%20factory%20building%20faded%20in%20background%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67797&nologo=true"
+    },
+    {
+      "id": "economy-germany-early-retirement",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "독일, 50세 이상 공무원 조기퇴직 추진",
+      "subtitle": "공공부채 감축 및 재정 여력 확보 목표",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "50세 이상",
+            "label": "대상"
+          },
+          {
+            "value": "월급 12배",
+            "label": "퇴직금 (최대)"
+          },
+          {
+            "value": "5%",
+            "label": "연간 감축 목표"
+          }
+        ],
+        "main_number": "GDP 대비 공공부채",
+        "main_text": "상한선 근접"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, public servant holding retirement papers, money bag next to them, German flag colors subtle in background",
+      "detail": {
+        "summary": "독일 정부가 공공부채 감축과 재정 여력 확보를 위해 50세 이상 공무원의 조기 퇴직을 추진하며, 최대 월급 12배를 지급할 계획이다.",
+        "points": [
+          "공공부채가 국내총생산(GDP) 대비 상한선에 근접",
+          "공무원 규모를 해마다 약 5%씩 줄이는 목표",
+          "경제 위기에 대비한 재정 여력 확보 추진",
+          "공공 부문 효율화 및 구조 개혁 일환"
+        ],
+        "quote": "정부는 공무원 규모를 해마다 약 5%씩 줄여 재정 부담을 낮추고, 예상치 못한 경제 충격에 대응할 재원을 확보한다는",
+        "context": "고령화와 경기 둔화로 인한 국가 재정 부담은 전 세계적인 과제로, 각국은 공공 부문 효율화를 통해 재정 건전성을 확보하려는 노력을 기울이고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004670502?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20public%20servant%20holding%20retirement%20papers%2C%20money%20bag%20next%20to%20them%2C%20German%20flag%20colors%20subtle%20in%20background%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7656&nologo=true"
+    },
+    {
+      "id": "economy-cptpp-fishery-impact",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "CPTPP 가입 시 수산업 연 817억 피해 예상",
+      "subtitle": "정부, 1조원 규모 기금 마련 촉구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "817억 원",
+            "label": "연간 피해액"
+          },
+          {
+            "value": "1조 원",
+            "label": "기금 요구"
+          },
+          {
+            "value": "수산업",
+            "label": "주요 피해 분야"
+          }
+        ],
+        "main_number": "CPTPP",
+        "main_text": "가입 추진의 영향"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, fishing boat with sad face, money disappearing, trade agreement papers",
+      "detail": {
+        "summary": "환태평양경제동반자협정(CPTPP) 가입 추진 시 국내 수산업이 연간 817억 원의 피해를 볼 것으로 예상되며, 이를 보전하기 위한 1조 원 규모의 기금 마련이 촉구됐다.",
+        "points": [
+          "CPTPP 가입으로 인한 수산업계 피해 우려",
+          "어업 생산성 감소 및 어촌 사회 위축 가능성 제기",
+          "관계부처 합동 '경제적 영향분석 결과' 발표",
+          "수산업 및 어촌 사회 지원 대책 마련 시급"
+        ],
+        "quote": "환태평양경제동반자협정(CPTPP) 가입 추진으로 인한 어촌 사회와 해양수산업계의... 연 817억 원에 달하는 경제적 피해가 예상",
+        "context": "주요 국제 무역 협정 가입 시 국내 산업에 미치는 영향을 면밀히 분석하고, 취약 산업을 보호하기 위한 정부의 정책적 지원 방안 마련이 중요하다.",
+        "source_url": "http://www.breaknews.com/1242484"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20fishing%20boat%20with%20sad%20face%2C%20money%20disappearing%2C%20trade%20agreement%20papers%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22095&nologo=true"
+    },
+    {
+      "id": "economy-tax-office-hacking",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "국세청 해킹 시도 급증, 올해 7만 건 돌파",
+      "subtitle": "최근 5년치 대비 2.8배, 사이버 보안 강화 시급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7만 3천283건",
+            "label": "올해 해킹 시도 (1~9월)"
+          },
+          {
+            "value": "2만 6천460건",
+            "label": "최근 5년간 총합 (2021~2025)"
+          },
+          {
+            "value": "2.8배",
+            "label": "증가율"
+          }
+        ],
+        "main_number": "70,000+",
+        "main_text": "해킹 시도 건수"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a shield with a padlock icon, cyber attack arrows aiming at it, government building in background",
+      "detail": {
+        "summary": "올해 1월부터 9월까지 국세청을 대상으로 한 외부 해킹 시도가 7만3천283건에 달해, 지난 5년간 총합의 2.8배를 기록하며 사이버 보안 강화의 중요성이 부각되고 있다.",
+        "points": [
+          "2021~2025년 5년간 총 해킹 시도 2.6만 건",
+          "올해 9개월간 7.3만 건으로 급증",
+          "정부 기관 대상 사이버 공격 위협 증가 추세",
+          "국민 정보 보호를 위한 보안 시스템 강화 필요"
+        ],
+        "quote": "올해 1∼9월 국세청을 타깃으로 한 외부 해킹 시도는 7만3천283건이었다. 2021∼2025년 5년간 합계(2만6천460건)의 2.8배",
+        "context": "정부 기관에 대한 사이버 공격은 개인 정보 유출 및 국가 안보에 심각한 위협이 될 수 있으므로, 이에 대한 철저한 대비와 대응이 필수적이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016372217?sid=101"
+      },
+      "image_url": "data/images/2026-10-13/economy-tax-office-hacking.jpg"
+    },
+    {
+      "id": "tech-korea-electronics-show",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "icon_grid",
+      "title": "한국전자전, AI·로보틱스 등 혁신 기술 총집결",
+      "subtitle": "28개국 500여개 기업 참가, 미래 기술 선도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "28개국",
+            "label": "참가국"
+          },
+          {
+            "value": "500여개사",
+            "label": "참가 기업"
+          },
+          {
+            "value": "6개 분야",
+            "label": "전시 테마"
+          }
+        ],
+        "main_number": "AI 전환",
+        "main_text": "전시회 핵심 키워드"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, futuristic exhibition hall with AI robots, smart devices, and screens displaying data",
+      "detail": {
+        "summary": "한국전자전이 삼성, LG 등 국내외 28개국 500여 개 기업이 참가한 가운데 AI 전환, 로보틱스, 모빌리티 등 6개 분야의 혁신 기술을 선보이며 막을 올렸다.",
+        "points": [
+          "AI 전환(AX) 기술을 집중적으로 조명",
+          "로보틱스, 모빌리티 등 미래 기술 전시",
+          "디지털 헬스·라이프, XR·공간컴퓨팅 분야 포함",
+          "글로벌 기술 트렌드 및 산업 동향 제시"
+        ],
+        "quote": "AI 전환, 로보틱스, 모빌리티, 디지털헬스·라이프, 확장현실(XR)·공간컴퓨팅, 전자부품·소재 등 6개 분야에서",
+        "context": "한국전자전은 국내 최대 전자·IT 산업 전시회로, 최신 기술 동향을 파악하고 미래 산업을 조망하는 중요한 기회다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=614501"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20futuristic%20exhibition%20hall%20with%20AI%20robots%2C%20smart%20devices%2C%20and%20screens%20displaying%20data%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7269&nologo=true"
+    },
+    {
+      "id": "tech-kyeongbok-ai-center",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "icon_grid",
+      "title": "경복대, 경기북부 AI·디지털 인재 양성 허브 구축",
+      "subtitle": "지역사회-산업계 아우르는 직업교육 거점센터 개소",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI",
+            "label": "핵심 기술"
+          },
+          {
+            "value": "디지털 전환(DX)",
+            "label": "교육 분야"
+          },
+          {
+            "value": "경기북부",
+            "label": "거점 지역"
+          }
+        ],
+        "main_number": "인재 양성",
+        "main_text": "미래 성장 동력"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, university building with a brain-shaped AI icon, students studying in a modern lab",
+      "detail": {
+        "summary": "경복대학교가 경기북부 지역 인재 양성을 위한 AI·디지털 전환(DX) 직업교육 거점센터를 개소하며, 지역사회와 산업계를 아우르는 허브 역할을 시작했다.",
+        "points": [
+          "인공지능(AI)·디지털 전환(DX) 직업교육 허브 가동",
+          "지역사회 및 산업계와의 협력 강화",
+          "실질적인 취업 및 사회 진출 성과 목표",
+          "경기북부 지역 산업 경쟁력 강화 기여"
+        ],
+        "quote": "지역사회와 산업계를 아우르는 인공지능(AI)·디지털 전환(DX) 직업교육 허브 가동에 본격 돌입했다.",
+        "context": "4차 산업혁명 시대에 필수적인 AI 및 디지털 역량을 갖춘 인재 양성은 지역 경제 활성화와 산업 경쟁력 강화에 핵심적이다.",
+        "source_url": "https://www.cstimes.com/news/articleView.html?idxno=723674"
+      },
+      "image_url": "data/images/2026-10-13/tech-kyeongbok-ai-center.jpg"
+    },
+    {
+      "id": "tech-geochang-geothermal-smartfarm",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "거창군, 스마트팜에 지열 냉난방 지원",
+      "subtitle": "저탄소 에너지시설 사업비 60억 원 확보",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "60억 원",
+            "label": "사업비"
+          },
+          {
+            "value": "스마트팜",
+            "label": "적용 분야"
+          },
+          {
+            "value": "지열 냉난방",
+            "label": "에너지 기술"
+          }
+        ],
+        "main_number": "저탄소",
+        "main_text": "에너지 전환 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, smart farm greenhouses with geothermal energy system elements, green leaves",
+      "detail": {
+        "summary": "거창군이 스마트팜에 지열 냉난방 시스템을 도입하는 저탄소 에너지시설 사업비 60억 원을 확보하며, 농업 분야의 친환경 에너지 전환을 가속화한다.",
+        "points": [
+          "스마트팜 지열 냉난방 시스템 도입",
+          "저탄소 에너지 시설 구축을 위한 사업비 확보",
+          "농업 분야의 에너지 효율성 증대",
+          "환경 친화적인 농업 환경 조성 기여"
+        ],
+        "quote": "거창군이 스마트팜 지열 냉난방 시스템을 위한 저탄소 에너지시설 사업비 60억 원을 확보했다.",
+        "context": "기후 변화 대응 및 지속 가능한 농업 발전을 위해 스마트팜과 같은 첨단 농업 기술에 친환경 에너지 시스템을 접목하는 시도가 확산되고 있다.",
+        "source_url": "http://www.breaknews.com/1242456"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20smart%20farm%20greenhouses%20with%20geothermal%20energy%20system%20elements%2C%20green%20leaves%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84971&nologo=true"
+    },
+    {
+      "id": "society-prosecutor-resignations",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "line_chart",
+      "title": "검사 퇴직자, 5년째 연 100명 이상 지속",
+      "subtitle": "올해도 누적 110명…정치적 논란 속 직무 이탈 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5년",
+            "label": "지속 기간"
+          },
+          {
+            "value": "100명+",
+            "label": "매년 퇴직자"
+          },
+          {
+            "value": "110명",
+            "label": "올해 누적"
+          }
+        ],
+        "main_number": "정치적 논리",
+        "main_text": "사직 사유"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, scales of justice, multiple figures walking away from a courthouse, resignation papers",
+      "detail": {
+        "summary": "최근 5년간 검사 퇴직자가 매년 100명 이상 발생하고 있으며, 올해도 누적 110명을 기록하는 등 정치적 논란과 맞물려 검찰 내부의 이탈이 심화되고 있다.",
+        "points": [
+          "매년 100명 이상 퇴직 현상이 5년째 지속",
+          "정치적으로 민감한 사건 수사로 인한 부담 증가",
+          "사법 제도의 근간을 흔드는 '정치적 논리'에 대한 반발",
+          "검찰의 직무 수행 환경 악화 우려"
+        ],
+        "quote": "정치적 논리가 사법 제도의 근간을 흔드는 상황에서 저는 더 이상 제가 지향하는 방식으로 직무를 수행하기 어렵다고 판단했습니다.",
+        "context": "검찰의 중립성과 독립성 훼손 논란이 지속되면서 유능한 검사들이 직무를 포기하는 현상은 사법 시스템의 신뢰도에 악영향을 미칠 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016372218?sid=102"
+      },
+      "image_url": "data/images/2026-10-13/society-prosecutor-resignations.jpg"
+    },
+    {
+      "id": "society-lobbyist-legalization",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pros_cons",
+      "title": "'돈·권력 로비' 방지 위한 로비스트 제도화 논의",
+      "subtitle": "투명성 확보 및 국민 공감대 형성 중요성 강조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "로비스트",
+            "label": "제도화"
+          },
+          {
+            "value": "투명성",
+            "label": "확보 과제"
+          },
+          {
+            "value": "국민 공감대",
+            "label": "필요성"
+          }
+        ],
+        "main_number": "법무부",
+        "main_text": "제도화 검토 중"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, scales of justice with money on one side and transparent voting box on the other, people debating",
+      "detail": {
+        "summary": "법무부가 로비스트 제도화를 검토하는 가운데, '돈과 권력 있는 곳만 로비한다'는 비판을 넘어 투명성을 확보하고 국민적 공감대를 형성하는 것이 중요하다는 지적이 나온다.",
+        "points": [
+          "법무부, 로비 관련 제도 도입 연구 용역 보고서 검토",
+          "로비스트 등록 및 활동에 관한 명확한 규정 마련 논의",
+          "음성적 로비를 양성화하여 투명성 제고 목표",
+          "국민적 이해와 공감대 형성의 중요성 부각"
+        ],
+        "quote": "법무부는 홍완식 건국대 법학전문대학원 교수의 '로비 관련 제도 도입에 관한 각종 쟁점 연구' 용역 보고서를 토대로 로비스트 제도화를 검토하고 있다.",
+        "context": "로비는 민주주의 사회에서 합법적인 정책 의견 개진 수단이 될 수 있지만, 불법적인 특혜 및 부패로 이어질 수 있어 투명한 제도적 장치 마련이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001160678?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20scales%20of%20justice%20with%20money%20on%20one%20side%20and%20transparent%20voting%20box%20on%20the%20other%2C%20people%20debating%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65416&nologo=true"
+    },
+    {
+      "id": "society-public-healthcare-funding",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "경기도의료원, 공공의료 위한 재정 안전망 촉구",
+      "subtitle": "공공병원 적자, 지역사회 필수 의료 기능 유지에 기여",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "공공병원",
+            "label": "운영"
+          },
+          {
+            "value": "재정 적자",
+            "label": "현실"
+          },
+          {
+            "value": "재정 안전망",
+            "label": "필요성"
+          }
+        ],
+        "main_number": "필수 의료",
+        "main_text": "기능 유지"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, hospital building with a money shield, doctors helping patients, community figures around",
+      "detail": {
+        "summary": "경기도의료원이 공공의료 서비스 유지를 위해 재정 안전망이 필요하다고 강조하며, 공공병원의 적자를 단순한 경영 성과로 볼 것이 아니라고 주장했다.",
+        "points": [
+          "공공병원의 적자는 지역사회 필수 의료 기능 유지 비용",
+          "단순한 경영 성과로 평가해서는 안 됨",
+          "경기도의사회 및 타 지역 의사회와 협력 체계 구축",
+          "의료진 채용 정보 공유 등 인프라 강화 노력"
+        ],
+        "quote": "공공병원의 적자를 단순한 경영성과로만 볼 것이 아니라, 지역사회에 필요한 의료 기능을 유지하는 데 드는 비용으로 인식해야 한다.",
+        "context": "지역사회의 의료 불균형 해소와 필수의료 제공을 위해 공공병원의 역할이 중요하며, 이를 위한 국가적 지원 체계 마련이 시급하다.",
+        "source_url": "http://www.bokuennews.com/news/article.html?no=285386"
+      },
+      "image_url": "data/images/2026-10-13/society-public-healthcare-funding.jpg"
+    },
+    {
+      "id": "life-shinsegae-factoryday",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "신세계 팩토리스토어, 역대 최대 규모 '팩토리데이'",
+      "subtitle": "200여 개 브랜드, 최대 85% 할인 행사 진행",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "200여개",
+            "label": "참여 브랜드"
+          },
+          {
+            "value": "85%",
+            "label": "최대 할인율"
+          },
+          {
+            "value": "연중 최대",
+            "label": "행사 규모"
+          }
+        ],
+        "main_number": "쇼핑 트렌드",
+        "main_text": "합리적인 소비"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, shopping bags with various brand logos and large discount tags, happy shoppers in a store",
+      "detail": {
+        "summary": "신세계 팩토리스토어가 역대 최대 규모의 '팩토리데이'를 개최, 해외 명품 및 국내외 패션, 뷰티·라이프스타일 등 200여 개 브랜드 상품을 최대 85% 할인 판매한다.",
+        "points": [
+          "정상가 대비 30~80% 할인에 추가 20% 할인 적용",
+          "해외 명품, K패션, 뷰티·라이프스타일 등 광범위한 상품군",
+          "리브랜딩 이후 2030세대 매출 비중 증가 반영",
+          "대규모 할인으로 소비자의 합리적 쇼핑 기회 제공"
+        ],
+        "quote": "해외 명품과 국내외 패션, 뷰티·라이프스타일 등 200여개 브랜드 상품을 최대 85% 할인 판매한다.",
+        "context": "고물가 시대에 합리적인 소비를 추구하는 소비자들이 늘면서, 대규모 할인 행사가 유통업계의 중요한 마케팅 전략으로 자리 잡고 있다.",
+        "source_url": "http://www.4th.kr/news/articleView.html?idxno=2119598"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20shopping%20bags%20with%20various%20brand%20logos%20and%20large%20discount%20tags%2C%20happy%20shoppers%20in%20a%20store%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44752&nologo=true"
+    },
+    {
+      "id": "life-detergent-consumption",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "icon_grid",
+      "title": "주방세제 과다 사용, 연간 '소주 두 잔' 마시는 셈",
+      "subtitle": "올바른 세제 사용 습관으로 건강 지키기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "소주잔 2잔",
+            "label": "연간 섭취량"
+          },
+          {
+            "value": "미세 세제 막",
+            "label": "잔류 원인"
+          },
+          {
+            "value": "표준 사용량",
+            "label": "준수 필요"
+          }
+        ],
+        "main_number": "건강",
+        "main_text": "위협 가능성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a person washing dishes with a lot of bubbles, a small glass with a tiny drop of liquid, health icon",
+      "detail": {
+        "summary": "수세미에 세제를 직접 짜서 거품을 많이 내는 습관은 그릇에 미세한 세제 막을 남겨, 연간 소주잔 두 잔 분량의 세제를 섭취하게 될 수 있다는 경고가 나왔다.",
+        "points": [
+          "주방세제 과다 사용이 건강에 미치는 영향",
+          "식기 표면에 남는 미세한 세제 막",
+          "세제 용기 뒷면의 '표준 사용량' 확인 중요",
+          "올바른 세제 사용 습관으로 잔류 세제 섭취 방지"
+        ],
+        "quote": "수세미에 펌핑하는 순간 ‘세제 폭탄’… 주방세제 뒷면 ‘표준 사용량’의 비밀",
+        "context": "일상생활 속 무심코 하는 행동이 건강에 미치는 영향을 인지하고 올바른 생활 습관을 통해 건강을 지키는 것이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004166106?sid=103"
+      },
+      "image_url": "data/images/2026-10-13/life-detergent-consumption.jpg"
+    },
+    {
+      "id": "life-jeonnam-gim-salt-festival",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "전남광주 김밥&소금 페스티벌, 12만 명 운집 대성공",
+      "subtitle": "3일간 진행, 지역 특산물 홍보 및 문화 관광 활성화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3일",
+            "label": "행사 기간"
+          },
+          {
+            "value": "12만 명",
+            "label": "방문객"
+          },
+          {
+            "value": "김·천일염",
+            "label": "주요 테마"
+          }
+        ],
+        "main_number": "2026",
+        "main_text": "성공적 개최"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, people enjoying a festival, large kimbap and salt shaker icons, festive atmosphere",
+      "detail": {
+        "summary": "‘2026 전남광주 세계 김밥&소금 페스티벌’이 3일간 12만 명의 관람객을 동원하며 성황리에 마무리, 전남광주 지역의 김과 천일염의 우수성을 알리고 문화·관광 활성화에 기여했다.",
+        "points": [
+          "전남광주 대표 수산물 김과 천일염의 우수성 홍보",
+          "온 가족이 즐길 수 있는 체류형 문화·관광 콘텐츠 기획",
+          "지역 경제 활성화 및 관광객 유치에 기여",
+          "명품 특산물로의 도약 기대 및 산업 경쟁력 강화"
+        ],
+        "quote": "이번 축제는 전남광주 지역의 풍부한 수산 자원인 김과 천일염의 우수성을 널리 알리고, 온 가족이 함께 즐길 수 있는 체류형 문화·관광 콘텐츠로 기획됐다.",
+        "context": "지역 특산물을 활용한 축제는 지역 경제 활성화뿐만 아니라 고유한 문화적 가치를 알리고 관광객을 유치하는 효과적인 방법이다.",
+        "source_url": "http://www.breaknews.com/1242478"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20people%20enjoying%20a%20festival%2C%20large%20kimbap%20and%20salt%20shaker%20icons%2C%20festive%20atmosphere%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=68115&nologo=true"
+    }
+  ],
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T06:09:00.044437+09:00"
+}
