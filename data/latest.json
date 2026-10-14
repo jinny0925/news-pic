@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "economy-us-fed-rate-forecast",
+      "id": "world-0",
       "is_headline": true,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "뉴욕연은 총재 \"美 금리, 올해 1회 추가 인상 뒤 내년 동결\"",
-      "subtitle": "인플레이션 둔화로 내년 금리 동결 전망, 시장 촉각",
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "status",
+      "title": "우크라이나 스타링크 속도 제한 '발칵'",
+      "subtitle": "군용 스타링크 이동 속도 제한으로 작전 차질 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "1회",
-            "label": "올해 추가 인상"
+            "value": "160km/h",
+            "label": "제한 속도"
           },
           {
-            "value": "2025년",
-            "label": "금리 동결 전망"
+            "value": "미 정부",
+            "label": "결정 주체"
           },
           {
-            "value": "+0.25%",
-            "label": "예상 인상폭"
+            "value": "작전 차질",
+            "label": "주요 영향"
           }
         ],
-        "main_number": "~0%",
-        "main_text": "내년 금리 변동 예상"
+        "main_number": "제한",
+        "main_text": "군용 스타링크 이동 속도, 미 정부 결정으로 제한"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, central bank building with interest rate graph going up then flat, calm market reaction",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "뉴욕 연은 총재는 올해 한 차례 추가 금리 인상 후 내년에는 금리가 동결될 것으로 전망하며, 디스인플레이션 추세를 근거로 들었다.",
+        "summary": "우크라이나 군용 스타링크의 이동 속도가 시속 160km로 제한되면서 장거리 작전 및 최전방 군수 지원에 차질이 발생하고 있다는 주장과 함께, 일론 머스크는 해당 시스템의 소유와 통제가 미국 정부에 있으며, 모든 제한은 미국 대통령이 최종 결정한다고 밝혔습니다.",
         "points": [
-          "올해 중 1회 추가 금리 인상 예측",
-          "내년 경제 상황 맞춰 금리 동결 예상",
-          "디스인플레이션 추세가 전망의 근거",
-          "시장의 불확실성 감소 기대"
+          "우크라이나, 군용 스타링크 속도 제한으로 작전 차질 주장",
+          "엘론 머스크, '스타실드는 미국 정부 소유 및 통제'라고 해명",
+          "속도 및 사용 제한은 미국 군 당국 및 대통령이 결정",
+          "우크라이나 측은 속도 제한이 정치적 상황과 연관되었다고 주장"
         ],
-        "quote": "\"내년이 되면 경제 상황에 맞춰 전망을 조정하겠지만 지금 흐름으로만 보면 내년에도 금리를 더 올릴 필요는 없을 것으로 보인다.\"",
-        "context": "미국 금리 정책은 글로벌 경제 및 금융 시장에 큰 영향을 미치며, 이번 발언은 향후 통화 정책 방향을 예측하는 중요한 지표가 될 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/014/0005588758?sid=101"
+        "quote": "\"스타실드 시스템은 미국 정부가 소유하고 통제 중이며, 모든 제한은 미국 대통령이 결정하는 사항이다.\"",
+        "context": "러시아-우크라이나 전쟁에서 스타링크는 통신 인프라 역할을 해왔으나, 미국 정부의 정책 결정이 전황에 영향을 미칠 수 있음을 보여주는 사례입니다.",
+        "source_url": "https://www.ajunews.com/view/20261015052033771"
       },
-      "image_url": "data/images/2026-10-14/economy-us-fed-rate-forecast.jpg"
+      "image_url": "data/images/2026-10-15/world-0.jpg"
     },
     {
-      "id": "world-aramco-oil-tension",
+      "id": "world-1",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "bar_chart",
-      "title": "후티 반군, 사우디 아람코 본사 공격 정황…국제유가 긴장",
-      "subtitle": "세계 최대 석유기업 공격 가능성에 중동 지정학적 위험 고조",
+      "title": "美 파운드리에 33조 투자하는 日",
+      "subtitle": "도쿄일렉트론·르네사스 등 일본 기업, 대미 투자 확대",
       "viz_data": {
         "stats": [
           {
-            "value": "사우디",
-            "label": "피습 주체"
+            "value": "33조원",
+            "label": "총 투자금액"
           },
           {
-            "value": "예멘 후티",
-            "label": "공격 주장"
+            "value": "2곳",
+            "label": "주요 참여 기업"
           },
           {
-            "value": "세계 1위",
-            "label": "아람코 규모"
+            "value": "세계 4위",
+            "label": "도쿄일렉트론 순위"
           }
         ],
-        "main_number": "+5%",
-        "main_text": "국제유가 변동폭"
+        "main_number": "33조원",
+        "main_text": "일본 기업들의 미국 파운드리 시장 투자 규모"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, oil barrel with rising price arrow, map of Middle East with tension points",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "예멘 후티 반군이 세계 최대 석유기업 사우디 아람코 본사 공격 정황이 포착되며 국제유가 시장에 긴장감이 고조되고 있다.",
+        "summary": "일본 주요 반도체 기업들이 미국 파운드리 시장에 33조원 규모의 대규모 투자를 단행하며, 전공정 장비 공급 및 차량용 반도체 분야에서 협력을 강화합니다. 이는 글로벌 반도체 공급망 재편과 일본의 경제 안보 강화 노력의 일환으로 풀이됩니다.",
         "points": [
-          "예멘 후티 반군, 사우디 아람코 본사 공격 가능성",
-          "사우디 국영 아람코는 시가총액 기준 세계 최대 석유기업",
-          "중동 지정학적 긴장 고조, 국제유가 변동성 확대",
-          "핵심 에너지 인프라 피해 여부 주목"
+          "도쿄일렉트론, 미국 파운드리 공장에 핵심 제조 장비 공급",
+          "르네사스일렉트로닉스, 대규모 투자로 차량용 반도체 협력 강화",
+          "총 33조원 규모의 일본 기업 대미 투자",
+          "글로벌 반도체 공급망 재편 및 자국 내 생산 유치 경쟁 심화"
         ],
-        "quote": "",
-        "context": "중동 지역의 불안정은 글로벌 에너지 공급망과 경제에 직접적인 영향을 미치며, 특히 세계 최대 석유기업에 대한 공격은 시장에 큰 충격을 줄 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/014/0005588759?sid=101"
+        "quote": "일본은 반도체 산업의 핵심 기술과 공급망을 강화하기 위해 전략적으로 미국과의 협력을 확대하고 있다.",
+        "context": "미중 기술 패권 경쟁 속에서 각국이 반도체 생산시설을 자국 내에 유치하려는 움직임이 가속화되고 있으며, 일본의 대미 투자는 이러한 흐름 속에서 양국의 경제 안보를 강화하려는 전략으로 해석됩니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202610150423149779e7e8286d56_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20oil%20barrel%20with%20rising%20price%20arrow%2C%20map%20of%20Middle%20East%20with%20tension%20points%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90006&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12079&nologo=true"
     },
     {
-      "id": "world-eu-windfall-tax",
+      "id": "world-2",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "donut_chart",
-      "title": "EU, 유가 급등에 석유·가스 기업 초과이익세 재도입 검토 착수",
-      "subtitle": "에너지 위기 대응 위해 세금 정책 재논의, 회원국 간 합의 주목",
+      "viz_type": "list",
+      "title": "주한미군사령관, 전작권 전환 새 기준 언급",
+      "subtitle": "브런슨 사령관, '세계 최고의 동맹 현대화' 강조",
       "viz_data": {
         "stats": [
           {
-            "value": "EU",
-            "label": "검토 주체"
+            "value": "찬성론자",
+            "label": "사령관 입장"
           },
           {
-            "value": "석유·가스",
-            "label": "대상 산업"
+            "value": "현대화",
+            "label": "전환 목표"
           },
           {
-            "value": "에너지 위기",
-            "label": "도입 배경"
+            "value": "새 기준",
+            "label": "주요 변화"
           }
         ],
-        "main_number": "€X억",
-        "main_text": "예상 세수 효과"
+        "main_number": "전작권 전환",
+        "main_text": "전작권 전환, 세계 최고의 동맹 현대화를 위한 새 기준 필요"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, EU flag, gas pump with money symbol, tax document",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "EU가 유가 급등에 대응하기 위해 석유 및 가스 기업에 대한 초과이익세 재도입을 검토 중이며, 이는 에너지 위기 상황에서 시민 부담 완화를 목표로 한다.",
+        "summary": "브런슨 주한미군사령관이 전작권 전환에 찬성하며 '세계 최고의 동맹을 현대화하는 것'이라고 강조했습니다. 그는 전작권 전환 조건에 변화가 있으며 새로운 기준이 생겼다고 언급, 이는 한미동맹의 미래 방향에 대한 논의를 촉발할 것으로 보입니다.",
         "points": [
-          "EU, 석유·가스 기업 초과이익세 재도입 검토",
-          "높은 에너지 가격에 대한 시민 불만 해소 목적",
-          "타당성 검토 후 회원국 간 정치적 합의 필요",
-          "에너지 시장 안정화 및 세수 확보 기대"
+          "브런슨 사령관, 전작권 전환 찬성 입장 표명",
+          "전작권 전환을 '세계 최고의 동맹 현대화'로 규정",
+          "기존 전작권 전환 조건에 변화가 생겼다고 언급",
+          "새로운 기준 마련의 필요성을 시사"
         ],
-        "quote": "\"많은 시민과 정치인들이 현재의 에너지 시장 상황에 깊은 부당함을 느끼고 있다.\"",
-        "context": "글로벌 에너지 위기는 각국 정부가 에너지 기업의 이익과 시민 부담 사이에서 균형을 찾아야 하는 과제를 안겼으며, EU의 이번 검토는 그 해법 중 하나로 주목받는다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026101405025655482bd56fbc3c_1"
+        "quote": "\"나는 전작권 전환 찬성론자이며, 이는 세계 최고의 동맹을 현대화하는 것이다.\"",
+        "context": "전시작전통제권(전작권) 전환은 한미동맹의 핵심 의제 중 하나로, 주한미군사령관의 발언은 한국군 주도의 방위 체계 구축을 위한 구체적인 논의를 가속화할 가능성을 내포합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003689120?sid=104"
       },
-      "image_url": "data/images/2026-10-14/world-eu-windfall-tax.jpg"
+      "image_url": "data/images/2026-10-15/world-2.jpg"
     },
     {
-      "id": "world-hyundai-india-investment",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "현대차그룹, 인도에 2032년까지 20조원 이상 투자 계획",
-      "subtitle": "세계 3대 자동차 시장 인도에서 생산량 및 입지 강화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "20조원+",
-            "label": "총 투자액"
-          },
-          {
-            "value": "2032년",
-            "label": "투자 목표 시기"
-          },
-          {
-            "value": "3대 시장",
-            "label": "인도 자동차 시장"
-          }
-        ],
-        "main_number": "+2000만대",
-        "main_text": "누적 생산 대수"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, car factory in India, rising investment graph, India map with a car icon",
-      "detail": {
-        "summary": "현대차그룹이 2032년까지 인도에 20조원 이상을 투자하여 생산량을 확대하고 인도 자동차 산업 성장에 기여하겠다는 계획을 발표했다.",
-        "points": [
-          "인도 자동차 시장, 세계 3번째 규모",
-          "현대차, 1998년부터 인도 시장 진출",
-          "2032년까지 20조원 이상 투자 예정",
-          "인도에서의 입지 강화 및 기술 기여 목표"
-        ],
-        "quote": "\"이번 투자 계획은 인도에서 (현대차의) 입지를 강화하고 인도 자동차 산업의 성장에 기여하겠다는 그룹의 의지를 반영한 것.\"",
-        "context": "인도는 세계에서 가장 인구가 많으며 빠르게 성장하는 자동차 시장 중 하나로, 현대차의 대규모 투자는 미래 시장 선점을 위한 전략적 행보로 풀이된다.",
-        "source_url": "http://www.beyondpost.co.kr/view.php?ud=2026101405512628372aaae0046f_30"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20car%20factory%20in%20India%2C%20rising%20investment%20graph%2C%20India%20map%20with%20a%20car%20icon%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57392&nologo=true"
-    },
-    {
-      "id": "economy-shadow-banking-growth",
+      "id": "economy-0",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "은행 밖 그림자금융 6천213조원…4년새 1천277조원 늘어",
-      "subtitle": "비은행 금융 중개 자산 급증, 잠재적 위험 관리 중요성 증대",
+      "title": "美 물가 상승, 10월 금리인상론 부상",
+      "subtitle": "연준 매파 기조에 무게, 고유가 충격 공급망 전반 확산",
       "viz_data": {
         "stats": [
           {
-            "value": "6,213조원",
-            "label": "총 자산"
+            "value": "5개월",
+            "label": "최대 상승 기간"
           },
           {
-            "value": "1,277조원",
-            "label": "4년새 증가액"
+            "value": "2%",
+            "label": "연준 물가 목표"
           },
           {
-            "value": "20.5%",
-            "label": "증가율"
-          }
-        ],
-        "main_number": "+20.5%",
-        "main_text": "4년간 자산 증가율"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, dark shadow over bank building, rising graph for non-bank finance",
-      "detail": {
-        "summary": "국내 비은행금융중개 자산 규모가 4년 만에 1천277조원 늘어 6천213조원에 달하며, 이에 따른 위험 관리가 중요해지고 있다.",
-        "points": [
-          "국내 비은행금융중개 자산 규모 6,213조원 기록 (2024년)",
-          "4년 동안 1,277조원 증가 (약 20.5% 성장)",
-          "부동산 및 가계·기업 부채와의 연계성 우려",
-          "감독 당국의 면밀한 위험 자산 비중 관리 촉구"
-        ],
-        "quote": "\"우리나라뿐 아니라 세계적으로 은행권 밖에서 이뤄지는 금융중개 활동과 관련 자산 규모가 확대되는 추세.\"",
-        "context": "은행권 밖에서 이루어지는 그림자금융은 경제 활성화에 기여할 수 있지만, 규제 사각지대에 놓여 시스템 리스크를 유발할 수 있어 주의 깊은 관리가 요구된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016374690?sid=101"
-      },
-      "image_url": "data/images/2026-10-14/economy-shadow-banking-growth.jpg"
-    },
-    {
-      "id": "economy-real-estate-sentiment",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "gauge_chart",
-      "title": "\"지금 안 사면 평생 못 산다?\"…무주택자, '영끌' 대신 연말까지 기다려라",
-      "subtitle": "부동산 시장 정책 변화 예고, 신중한 접근 권장",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "국토부",
-            "label": "주요 기관"
-          },
-          {
-            "value": "기재부",
-            "label": "주요 기관"
-          },
-          {
-            "value": "연말",
-            "label": "정책 변화 예상 시점"
-          }
-        ],
-        "main_number": "↓",
-        "main_text": "매수 심리 하락"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, house on a seesaw with 'wait' and 'buy now' options, calendar with 'End of Year' highlighted",
-      "detail": {
-        "summary": "부동산 시장의 경제 컨트롤타워 교체로 기존 정책 변화가 예상되므로, 무주택자들은 '영끌' 대신 연말까지 기다리는 것이 유리할 수 있다는 분석이 나왔다.",
-        "points": [
-          "국토부·기재부 장관 등 경제 컨트롤타워 대거 교체",
-          "기존 부동산 정책 방향 전환 기대",
-          "무리한 '영끌' 투자보다 관망세 권고",
-          "연말 전후로 획기적인 변혁 가능성 제시"
-        ],
-        "quote": "\"이는 기존의 잘못된 방향을 바로잡고 획기적인 변혁을 꾀하겠다는 강력한 신호다.\"",
-        "context": "부동산 시장은 정책 변화에 민감하게 반응하므로, 주요 부처 수장 교체는 시장 참여자들에게 중요한 신호로 받아들여지며 향후 시장 흐름에 영향을 줄 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004166456?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20house%20on%20a%20seesaw%20with%20%27wait%27%20and%20%27buy%20now%27%20options%2C%20calendar%20with%20%27End%20of%20Year%27%20highlighted%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74964&nologo=true"
-    },
-    {
-      "id": "tech-samsung-ai-memory",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "comparison",
-      "title": "삼성전자, HBM 넘어 ‘추론 메모리’ 판 키운다…AMD·엔비디아와 협력",
-      "subtitle": "차세대 AI 반도체 시장 선점 위한 기술 리더십 강화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "HBM",
-            "label": "현세대 기술"
-          },
-          {
-            "value": "추론 메모리",
-            "label": "차세대 기술"
-          },
-          {
-            "value": "AMD·엔비디아",
-            "label": "주요 협력사"
-          }
-        ],
-        "main_number": "Next Gen",
-        "main_text": "AI 메모리 시장"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, futuristic microchip, AI brain, magnifying glass focusing on 'Inference Memory'",
-      "detail": {
-        "summary": "삼성전자가 HBM을 넘어 '추론 메모리' 기술 개발 및 상용화에 박차를 가하며 AMD, 엔비디아 등 글로벌 기업과 협력해 AI 반도체 시장을 선도할 계획이다.",
-        "points": [
-          "HBM(고대역폭 메모리) 시장 선도",
-          "차세대 '추론 메모리' 기술 개발 집중",
-          "AMD, 엔비디아 등 글로벌 IT 기업과 협력",
-          "AI 인프라 사업 접점 확대 및 시장 혁신 주도"
-        ],
-        "quote": "",
-        "context": "AI 기술 발전의 핵심은 고성능 메모리 반도체에 있으며, 삼성전자의 추론 메모리 기술은 AI 시스템의 효율성을 극대화하여 미래 AI 시장의 판도를 바꿀 잠재력을 가진다.",
-        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131348397360368"
-      },
-      "image_url": "data/images/2026-10-14/tech-samsung-ai-memory.jpg"
-    },
-    {
-      "id": "tech-financial-cybersecurity",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "checklist",
-      "title": "금융권 해킹 잇따르자…금융당국, 오늘 보안대책 논의",
-      "subtitle": "반복되는 해킹 사고에 금융 시스템 안정성 강화 촉구",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "IP 차단",
-            "label": "주요 대책"
-          },
-          {
-            "value": "취약점 점검",
-            "label": "주요 대책"
-          },
-          {
-            "value": "실시간 관제",
-            "label": "주요 대책"
+            "value": "10월",
+            "label": "금리 인상론 시기"
           }
         ],
         "main_number": "↑",
-        "main_text": "보안 강화 노력"
+        "main_text": "美 9월 소비자 물가 5개월 만에 최대 상승"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, locked padlock over bank and computer icons, shield protecting data",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "금융권에서 잇따른 해킹 사고에 대응하여 금융당국이 보안대책 점검 회의를 열고 강화된 인증 절차 및 실시간 보안관제 체계 운영 등을 논의한다.",
+        "summary": "미국 9월 소비자물가가 5개월 만에 최대 폭으로 상승하면서 10월 금리 인상론에 다시 힘이 실리고 있습니다. 연방준비제도(연준)의 매파적 기조가 강화될 것으로 예상되며, 고유가 충격이 미국 공급망 전반으로 확산되고 있다는 보고도 나왔습니다.",
         "points": [
-          "금융권 해킹 사고 빈번 발생, 보안 위협 증대",
-          "금융당국, 강화된 보안대책 마련 시급",
-          "공격자 IP 차단, 취약점 점검 등 체크리스트 운영",
-          "외부 노출 IT 자산 및 서비스 보안 강화 강조"
+          "美 9월 소비자물가, 5개월 만에 최대 폭 상승",
+          "크리스토퍼 월러 연준 이사, 추가 금리 인상 필요성 언급",
+          "연준 베이지북, 고유가 충격이 공급망 전반으로 확산 보고",
+          "11월 중간선거 전 10월 동결론도 있으나, 매파 기조에 무게"
         ],
-        "quote": "",
-        "context": "디지털 금융 시대에 사이버 보안은 금융 시스템의 핵심적인 안전장치이다. 해킹 사고는 금융기관의 신뢰도를 떨어뜨리고 고객에게 큰 피해를 줄 수 있어 지속적인 보안 강화가 필수적이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/374/0000537639?sid=101"
+        "quote": "\"이번 베이지북은 지난 5일까지 수집한 지역별 경제 동향을 반영했다. 오는 27~28일 연방공개시장위원회(FOMC)를 앞두고 미국 경제의 물가와 고용 흐름을 가늠할 수 있는 자료다.\"",
+        "context": "높은 인플레이션은 미국 중앙은행의 통화 정책 결정에 가장 큰 영향을 미치는 요인 중 하나입니다. 금리 인상 여부는 글로벌 금융시장에도 직접적인 파급 효과를 미칩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009228658?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20locked%20padlock%20over%20bank%20and%20computer%20icons%2C%20shield%20protecting%20data%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20251&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51067&nologo=true"
     },
     {
-      "id": "tech-kakao-ai-economic-value",
+      "id": "economy-1",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "area_chart",
+      "title": "엔저·지배구조 효과, 日 외국인 M&A '역대 최대'",
+      "subtitle": "닛케이 아시아 보도, 폐쇄적 시장 변화 시사",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "역대 최대",
+            "label": "M&A 규모"
+          },
+          {
+            "value": "엔저",
+            "label": "주요 요인 1"
+          },
+          {
+            "value": "지배구조",
+            "label": "주요 요인 2"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "외국인의 일본 기업 M&A 역대 최대 폭발"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "엔저 현상과 일본 정부의 기업 지배구조 개선 노력에 힘입어 일본 기업을 향한 외국인 M&A 규모가 역대 최대를 기록했습니다. 이는 과거 폐쇄적이었던 일본 재계가 변화의 물결을 맞이하고 있음을 시사합니다.",
+        "points": [
+          "엔저 현상으로 일본 기업의 매력도 상승",
+          "경제산업성, '기업 인수 가이드라인' 발표로 지배구조 개선 유도",
+          "주주 행동주의 확산으로 일본 사회의 보수적 태도 변화",
+          "M&A 전문 리서치 기관 레코프 발표 인용"
+        ],
+        "quote": "폐쇄적이고 방어적인 태도로 일관하던 일본 재계가 경제산업성의 인수 지침 개정과 주주 행동주의 확산으로 변화하고 있다.",
+        "context": "일본의 경제정책 변화와 글로벌 투자 환경의 맞물림이 일본 시장에 새로운 활력을 불어넣고 있으며, 이는 장기적으로 일본 기업의 경쟁력 강화로 이어질 수 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101418014142700c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-10-15/economy-1.jpg"
+    },
+    {
+      "id": "economy-2",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "트럼프, 韓·日·대만 대미 투자 잇따라 발표",
+      "subtitle": "중간선거 앞두고 경제 치적 과시 행보",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "500억$",
+            "label": "韓 알래스카 LNG"
+          },
+          {
+            "value": "800억$",
+            "label": "대만 투자"
+          },
+          {
+            "value": "210억$",
+            "label": "日 반도체 공장"
+          }
+        ],
+        "main_number": "1510억$",
+        "main_text": "한국, 일본, 대만 대미 투자 총액"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "도널드 트럼프 전 대통령이 중간선거를 20일 앞두고 한국의 알래스카 LNG 프로젝트 500억 달러 투자, 대만의 가스 구매 800억 달러 투자, 일본의 반도체 공장 210억 달러 자금 조달 등을 잇따라 발표하며 자신의 '경제 치적'을 과시했습니다.",
+        "points": [
+          "트럼프, 중간선거 앞두고 동북아 우방국 대미 투자 발표",
+          "한국 알래스카 LNG 프로젝트에 500억 달러 투자 언급",
+          "대만 가스 구매 800억 달러, 일본 반도체 공장 210억 달러 유치",
+          "제조업 부흥, 일자리 창출, 무역 개선 등 경제 치적 부각"
+        ],
+        "quote": "\"일본, 한국, 대만으로부터의 투자 약속을 거대한 건설 프로젝트로 전환하고 있다. 미국에 변혁을 가져오고 여러 주에 엄청난 일자리를 창출할 것이다.\"",
+        "context": "미국 중간선거를 앞두고 유권자들의 최대 관심사인 경제 성과와 일자리 창출을 강조하며 지지층을 결집하려는 정치적 행보로 해석됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005426525?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93056&nologo=true"
+    },
+    {
+      "id": "tech-0",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 신약 혁명, 韓 바이오에 '판' 깔렸다",
+      "subtitle": "4천조 월가 큰손 진단, AI와 제조 역량 결합",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4000조원",
+            "label": "월가 투자 규모"
+          },
+          {
+            "value": "AI 발굴",
+            "label": "주요 역할 1"
+          },
+          {
+            "value": "韓 제조 역량",
+            "label": "주요 역할 2"
+          }
+        ],
+        "main_number": "4000조",
+        "main_text": "AI 신약 시장의 잠재적 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "월가의 큰손들이 AI 신약 혁명을 진단하며 한국 바이오 산업이 AI 발굴 기술과 세계적 제조 역량을 결합해 치료제를 임상 단계로 진입시킬 수 있는 기회가 왔다고 평가했습니다. 이는 4천조 원 규모의 거대한 시장을 한국 바이오 기업이 선점할 가능성을 시사합니다.",
+        "points": [
+          "AI가 발굴한 신약 표적과 한국의 제조 역량 결합",
+          "한국, 세포주 및 공정 개발, 임상 시료 생산 인프라 세계적 수준",
+          "글로벌 제약 시장에서 한국 바이오 기업의 역할 확대 기대",
+          "월가 전문가들, AI 기반 신약 개발 투자 확대 전망"
+        ],
+        "quote": "AI가 발굴한 신약 표적에 세계적 수준의 제조 역량을 결합해 치료제를 임상 단계로 진입시킬 수 있다.",
+        "context": "인공지능 기술이 신약 개발 기간과 비용을 획기적으로 단축시키면서, 바이오 산업의 패러다임을 변화시키고 있습니다. 한국은 특히 제조 및 임상 인프라에서 강점을 가지고 있어 기회가 많다는 분석입니다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727832"
+      },
+      "image_url": "data/images/2026-10-15/tech-0.jpg"
+    },
+    {
+      "id": "tech-1",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "map",
+      "title": "롯데이노베이트, 베트남 데이터센터 시장 공략",
+      "subtitle": "CMC그룹과 손잡고 현지 IT 사업 확장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "베트남",
+            "label": "진출 국가"
+          },
+          {
+            "value": "CMC그룹",
+            "label": "현지 파트너"
+          },
+          {
+            "value": "데이터센터",
+            "label": "주요 사업 분야"
+          }
+        ],
+        "main_number": "확장",
+        "main_text": "베트남 IT 신사업 분야 진출 및 확장"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "롯데이노베이트가 베트남 정보기술(IT) 기업 CMC그룹과 협력하여 현지 데이터센터 및 전기차 충전 인프라 시장에 진출합니다. 기존 금융 IT 서비스 중심에서 신사업 분야로 확장하여 베트남 시장 공략을 가속화할 계획입니다.",
+        "points": [
+          "롯데이노베이트, 베트남 CMC그룹과 협력",
+          "데이터센터 및 전기차 충전 인프라 시장 진출",
+          "기존 금융 IT 서비스에서 신사업 분야로 확장",
+          "베트남 IT 시장의 성장 잠재력 활용 목표"
+        ],
+        "quote": "기존 금융 IT 서비스 중심이던 베트남 사업을 신사업 분야로 확대한다는 계획이다.",
+        "context": "베트남은 동남아시아에서 빠르게 성장하는 IT 시장 중 하나로, 데이터센터와 전기차 인프라에 대한 수요가 급증하고 있습니다. 롯데이노베이트의 진출은 이러한 성장세를 포착하려는 전략입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004671382?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82690&nologo=true"
+    },
+    {
+      "id": "tech-2",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "number_card",
+      "title": "토스뱅크, 디지털·AI 문해학습장에 노트북 46대 기부",
+      "subtitle": "IT 자산 교육 현장 연결, 디지털 교육 활성화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "46대",
+            "label": "노트북 기부 수량"
+          },
+          {
+            "value": "디지털 문해",
+            "label": "기부 목적 1"
+          },
+          {
+            "value": "AI 학습",
+            "label": "기부 목적 2"
+          }
+        ],
+        "main_number": "46대",
+        "main_text": "토스뱅크의 디지털 교육 위한 노트북 기부 수량"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "토스뱅크가 '디지털·AI 문해학습장'에 노트북 46대를 기부하며 사용 가능한 IT 자산을 교육 현장에 연결하고 자원순환을 실천했습니다. 이는 디지털 교육 격차 해소와 학습 환경 개선에 기여할 것으로 기대됩니다.",
+        "points": [
+          "토스뱅크, IT 기기 기부 전문기관 통해 노트북 기부",
+          "총 46대의 노트북이 디지털·AI 문해학습장에 전달",
+          "디지털 교육 환경 개선 및 자원순환 실천 목적",
+          "교육 격차 해소에 기여할 것으로 기대"
+        ],
+        "quote": "사용 가능한 IT자산을 교육 현장에 연결해 자원순환을 실천하고 디지털 교육 활성화에 기여한다.",
+        "context": "디지털 문해력과 AI 교육의 중요성이 강조되는 시대에, 교육 현장에 필요한 IT 기기를 지원하는 것은 사회적 책임을 다하고 미래 인재 양성에 기여하는 중요한 활동입니다.",
+        "source_url": "http://www.bizwnews.com/news/articleView.html?idxno=148900"
+      },
+      "image_url": "data/images/2026-10-15/tech-2.jpg"
+    },
+    {
+      "id": "society-0",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "status",
+      "title": "소아진료 공백 심화, 지자체 '병원' 직접 짓는다",
+      "subtitle": "김천 등 지역구 의원, 정부 지원 요청",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "공백 심화",
+            "label": "문제 현황"
+          },
+          {
+            "value": "병원 건립",
+            "label": "지자체 대응"
+          },
+          {
+            "value": "정부 지원",
+            "label": "필요 요소"
+          }
+        ],
+        "main_number": "건립",
+        "main_text": "소아진료 공백 해소를 위한 지자체 직접 병원 건립 움직임"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "소아 진료 공백이 심화되면서 일부 지자체들이 직접 어린이 병원 건립에 나서고 있습니다. 김천 지역구 의원 등 정치권에서도 정부의 지원을 요청하며 문제 해결에 힘을 보태고 있습니다.",
+        "points": [
+          "소아과 진료 공백 문제 심화, 지자체들의 직접 병원 건립 추진",
+          "김천혁신도시 어린이병원 건립 사업 추진서 전달",
+          "복지부 차관 만나 정부 지원 요청",
+          "지역구 의원 등 정치권의 문제 해결 노력"
+        ],
+        "quote": "송 의원은 김천을 비롯한 경북 서북부 지역의 소아진료 시스템 공백 상황을 설명하며 정부의 적극적인 지원을 요청했다.",
+        "context": "저출산 심화와 함께 소아과 의사 감소로 인한 진료 공백은 지역 사회의 중요한 문제로 부상했습니다. 지자체와 정치권의 협력은 이 문제를 해결하기 위한 중요한 시도입니다.",
+        "source_url": "https://www.dailymedi.com/news/news_view.php?wr_id=941466"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99597&nologo=true"
+    },
+    {
+      "id": "society-1",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "gauge",
+      "title": "'축소사회' 맞춤형 인구전략, 삶의 질 제고 목표",
+      "subtitle": "인구전략기본법 개정 후 첫 청사진 제시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "0.72명",
+            "label": "2023년 합계출산율"
+          },
+          {
+            "value": "7.0점",
+            "label": "2030년 삶의 만족도 목표"
+          },
+          {
+            "value": "74.0%",
+            "label": "2030년 경제활동참가율 목표"
+          }
+        ],
+        "main_number": "7.0점",
+        "main_text": "2030년 국민 삶의 만족도 목표 (2025년 6.6점)"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "'인구전략기본법' 개정 이후 정부가 '축소사회'에 대비한 첫 청사진을 제시했습니다. 단순한 출산율 반등을 넘어 국민 '삶의 질 제고'와 사회의 '지속 가능성 확보'를 목표로, 2030년까지 삶의 만족도 및 경제활동참가율 향상을 추진합니다.",
+        "points": [
+          "기존 '저출산·고령사회기본법'이 '인구전략기본법'으로 전면 개정",
+          "정책 방점, 출산율 반등에서 국민 삶의 질 제고 및 사회 지속 가능성 확보로 이동",
+          "2030년까지 국민 삶의 만족도 7.0점(2025년 6.6점) 달성 목표",
+          "2030년까지 경제활동참가율 74.0%(현재 71.8%) 달성 목표"
+        ],
+        "quote": "정책의 방점을 단순한 '합계출산율 반등'에서 국민 '삶의 질 제고'와 사회의 '지속 가능성 확보'로 전환했다.",
+        "context": "우리나라는 세계 최저 수준의 저출산 국가로서 '축소사회' 진입이 불가피해진 상황입니다. 이러한 인구 구조 변화에 대응하기 위한 장기적이고 포괄적인 국가 전략이 시급합니다.",
+        "source_url": "https://www.mhns.co.kr/news/articleView.html?idxno=764302"
+      },
+      "image_url": "data/images/2026-10-15/society-1.jpg"
+    },
+    {
+      "id": "society-2",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "카카오 AI, 올해 사회경제적 가치 약 5500억 창출 전망",
-      "subtitle": "KAIST 공동 연구, AI 서비스의 사회적 기여도 입증",
+      "title": "'쉬었음 청년' 현실 공감, 37만명 본 글 화제",
+      "subtitle": "사회적 문제로 떠오른 청년들의 삶 조명",
       "viz_data": {
         "stats": [
           {
-            "value": "5,506억 원",
-            "label": "총 가치"
+            "value": "37만명",
+            "label": "글 조회수"
           },
           {
-            "value": "카카오",
-            "label": "주체"
+            "value": "취업",
+            "label": "어려움 1"
           },
           {
-            "value": "KAIST",
-            "label": "공동 연구"
+            "value": "사회생활",
+            "label": "어려움 2"
           }
         ],
-        "main_number": "5,500억",
-        "main_text": "AI 창출 사회경제적 가치 (연간)"
+        "main_number": "37만+",
+        "main_text": "'쉬었음 청년'의 현실을 다룬 글 조회수"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, abstract AI brain with gears and money symbols, growth chart",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "카카오의 인공지능 서비스와 기술이 올해 연간 약 5,506억 원의 사회경제적 가치를 창출할 것으로 KAIST 디지털경제연구센터와의 공동 연구를 통해 전망되었다.",
+        "summary": "사회적 문제로 부상한 '쉬었음 청년'이 되는 과정을 솔직하게 풀어낸 글이 온라인에서 37만명 이상의 공감을 얻으며 큰 화제가 되었습니다. 이 글은 구직 단념, 사회생활 경험 부족 등 청년들이 겪는 현실적인 어려움을 조명합니다.",
         "points": [
-          "카카오 AI 서비스, 연간 5,506억 원 가치 창출 예측",
-          "KAIST 디지털경제연구센터와 공동 연구 진행",
-          "AI 기술이 경제 및 사회에 미치는 긍정적 영향 분석",
-          "AI가 다양한 분야에서 생산성 향상에 기여"
+          "온라인 커뮤니티에서 '쉬었음 청년' 글 37만명 이상 조회",
+          "구직 활동에 대한 무기력감과 좌절감 표현",
+          "부모의 여유로 인한 사회생활 경험 부족 지적",
+          "청년들이 처한 경제적·사회적 어려움에 대한 사회적 관심 촉구"
         ],
-        "quote": "",
-        "context": "AI 기술은 단순한 편리함을 넘어 사회 전체의 생산성을 높이고 새로운 가치를 창출하는 핵심 동력으로 자리매김하고 있다. 기업의 AI 투자와 그 성과를 측정하는 것은 중요한 의미를 지닌다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004670946?sid=105"
+        "quote": "\"부모님이 여유 있으면 아르바이트도 안 해봐서 사회생활 경험도 없다. 남들은 한심하다고, 사지 멀쩡하고 젊은데 왜 일 안 하냐고 하지만…\"",
+        "context": "학업, 취업 준비 등 특별한 이유 없이 구직 활동을 하지 않는 청년, 즉 '쉬었음 청년'은 사회적 지원과 관심이 필요한 중요한 계층으로, 이들의 현실을 이해하는 것이 문제 해결의 첫걸음입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005426522?sid=102"
       },
-      "image_url": "data/images/2026-10-14/tech-kakao-ai-economic-value.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76696&nologo=true"
     },
     {
-      "id": "society-healthcare-unification",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "pros_cons",
-      "title": "의료일원화, 의사·한의사 '업무갈등' 줄일까",
-      "subtitle": "복지부, 사회적 논의 틀 마련…업무 범위 갈등 해소 주목",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "복지부",
-            "label": "논의 주체"
-          },
-          {
-            "value": "의사·한의사",
-            "label": "주요 이해관계자"
-          },
-          {
-            "value": "초음파·피부미용",
-            "label": "쟁점 분야"
-          }
-        ],
-        "main_number": "↔",
-        "main_text": "업무 범위 조정"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, doctor and traditional Korean doctor icons shaking hands, overlapping medical symbols",
-      "detail": {
-        "summary": "의사와 한의사 간의 반복되는 업무 범위 갈등을 해소하기 위한 의료일원화 논의가 복지부 주도로 추진될 예정이며, 초음파, 피부미용 등이 쟁점이 될 전망이다.",
-        "points": [
-          "의사-한의사 간 업무 범위 갈등 해소 목표",
-          "초음파, 피부미용 등 구체적 쟁점 부상",
-          "복지부, 사회적 논의의 틀 마련 및 연구 추진",
-          "국민 건강 증진 및 의료 시스템 효율화 기대"
-        ],
-        "quote": "\"의료일원화가 주목받는 배경에는 의사와 한의사의 반복되는 업무 범위 공방이 자리하고 있다.\"",
-        "context": "의료일원화는 의료 서비스의 질 향상과 국민 건강권 보장을 위해 오랜 시간 논의되어 온 중요한 사회적 과제이다. 전문 직역 간의 합의와 사회적 공감대 형성이 필수적이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006387459?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20doctor%20and%20traditional%20Korean%20doctor%20icons%20shaking%20hands%2C%20overlapping%20medical%20symbols%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57838&nologo=true"
-    },
-    {
-      "id": "society-senior-short-term-housing",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "flow_chart",
-      "title": "광산구에 퇴원 노인 단기주택 ‘중간집-선운’ 문 열어",
-      "subtitle": "고령자 회복 및 지역사회 복귀 돕는 새로운 돌봄 모델",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "광산구",
-            "label": "설치 지역"
-          },
-          {
-            "value": "3개월",
-            "label": "최대 이용 기간"
-          },
-          {
-            "value": "KB국민은행",
-            "label": "참여 기관"
-          }
-        ],
-        "main_number": "1호",
-        "main_text": "중간집 운영 시작"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, elderly person being cared for, house with a heart, arrows showing transition from hospital to home",
-      "detail": {
-        "summary": "광산구에 퇴원한 고령자가 회복 기간 동안 거주하며 돌봄 서비스를 받고 지역사회로 복귀하도록 돕는 단기 지원주택 '중간집-선운'이 개소했다.",
-        "points": [
-          "퇴원 고령자를 위한 단기 지원주택 '중간집' 개소",
-          "최대 3개월 거주하며 돌봄 서비스 제공",
-          "지역사회 복귀 및 자립 지원 목표",
-          "보건복지부-KB국민은행 협력 모델"
-        ],
-        "quote": "",
-        "context": "고령화 사회가 심화되면서 노인 돌봄의 필요성이 커지고 있다. '중간집'과 같은 단기 지원주택은 의료와 주거, 돌봄을 연계하여 노인들의 안정적인 사회 복귀를 돕는 혁신적인 모델로 평가받는다.",
-        "source_url": "https://www.vegannews.co.kr/news/article.html?no=392440"
-      },
-      "image_url": "data/images/2026-10-14/society-senior-short-term-housing.jpg"
-    },
-    {
-      "id": "society-zero-tuition-era",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "'등록금 0원' 시대, 국가가 지원해야 할 인재는 누구인가[발언대]",
-      "subtitle": "고등교육 이수율 최고 수준 한국, 미래 인재상 재정립 필요",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "71.1%",
-            "label": "고등교육 이수율"
-          },
-          {
-            "value": "2030년",
-            "label": "직무역량 변화 예상"
-          },
-          {
-            "value": "39%",
-            "label": "변화될 직무역량"
-          }
-        ],
-        "main_number": "71.1%",
-        "main_text": "OECD 최고 수준 고등교육 이수율"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, graduation cap with zero, thought bubble asking 'Who to support?', future job skills icons",
-      "detail": {
-        "summary": "한국의 높은 고등교육 이수율에도 불구하고 '등록금 0원' 시대를 맞아 국가가 지원해야 할 인재상과 미래 직업 세계에 필요한 역량에 대한 재고가 필요하다는 지적이 나왔다.",
-        "points": [
-          "한국, OECD 최고 수준 고등교육 이수율 (71.1%)",
-          "세계경제포럼, 2030년까지 직무역량 39% 변화 예상",
-          "'등록금 0원' 시대, 인재 지원 방향 재고",
-          "평생교육으로서의 직업교육 중요성 강조"
-        ],
-        "quote": "\"세계경제포럼의 《미래 일자리 보고서 2025》에 따르면 고용주들은 2030년까지 근로자에게 필요한 핵심 직무역량의 39%가 달라질 것으로 예상했다.\"",
-        "context": "급변하는 사회와 산업 환경 속에서 전통적인 교육 시스템은 한계에 직면하고 있다. 미래 사회에 필요한 인재를 양성하고 지원하기 위한 새로운 교육 패러다임과 정책적 논의가 요구된다.",
-        "source_url": "https://news.unn.net/news/articleView.html?idxno=598537"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20graduation%20cap%20with%20zero%2C%20thought%20bubble%20asking%20%27Who%20to%20support%3F%27%2C%20future%20job%20skills%20icons%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20974&nologo=true"
-    },
-    {
-      "id": "life-post-covid-drinking",
+      "id": "life-0",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "“아직 거리두기 안 끝난 느낌”…술집 매출, 코로나 첫해 수준으로 떨어져",
-      "subtitle": "회식 감소 및 절주 트렌드 확산으로 음주 문화 변화",
+      "viz_type": "map",
+      "title": "신세계백화점, 도쿄 시부야서 K-라이프스타일 팝업 개최",
+      "subtitle": "뉴욕 이어 글로벌 K-브랜드 판로 확대",
       "viz_data": {
         "stats": [
           {
-            "value": "코로나 첫해",
-            "label": "매출 수준"
+            "value": "도쿄 시부야",
+            "label": "행사 장소 1"
           },
           {
-            "value": "회식 감소",
-            "label": "주요 원인"
+            "value": "뉴욕 허드슨 야드",
+            "label": "행사 장소 2"
           },
           {
-            "value": "절주 트렌드",
-            "label": "주요 원인"
+            "value": "K-라이프스타일",
+            "label": "주요 컨셉"
           }
         ],
-        "main_number": "↓",
-        "main_text": "술집 매출"
+        "main_number": "글로벌",
+        "main_text": "신세계 하이퍼그라운드의 글로벌 K-브랜드 판로 확대"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, empty bar stools, clock showing time passing, graph with downward trend",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "코로나19 사회적 거리두기 해제 이후에도 술집 매출이 코로나 첫해 수준으로 떨어지는 현상이 나타나, 회식 문화 감소와 젊은 층의 절주 트렌드 확산이 원인으로 분석된다.",
+        "summary": "신세계백화점이 도쿄 시부야에서 K-패션, 뷰티를 넘어 식품, 생활용품 등 K-라이프스타일 브랜드 팝업을 개최합니다. 앞서 뉴욕 허드슨 야드에서도 팝업을 성공적으로 진행하며 글로벌 시장에서 한국 브랜드의 입지를 넓히고 있습니다.",
         "points": [
-          "술집 매출, 코로나19 첫해 수준으로 하락",
-          "사회적 거리두기 해제에도 매출 회복 부진",
-          "회식 문화 감소 및 절주 트렌드 확산",
-          "젊은 층 중심의 술 소비 문화 변화"
+          "도쿄 시부야 '시부야 히카리에'와 '시부야109'에서 팝업 행사",
+          "K-패션·뷰티 중심에서 식품 및 생활용품까지 확장",
+          "뉴욕 허드슨 야드에 이은 두 번째 글로벌 팝업",
+          "'키티버니포니' 등 국내 라이프스타일 브랜드 소개"
         ],
-        "quote": "\"업계에서는 회식이 줄고 젊은 층을 중심으로 술을 덜 마시는 문화가 자리 잡은 영향으로 보고 있다.\"",
-        "context": "코로나19 팬데믹은 사람들의 일상과 소비 습관에 영구적인 변화를 가져왔다. 음주 문화의 변화는 사회적 관계 방식과 건강에 대한 인식이 높아진 결과로 해석될 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/009/0005748103?sid=103"
+        "quote": "이달 초 미국 뉴욕 허드슨 야드에서 뷰티·라이프스타일 팝업 'NEWTRO SEOUL'을 진행한 데 이어 일본으로 무대를 옮겼다.",
+        "context": "한류 열풍과 함께 K-뷰티, K-패션에 이어 K-라이프스타일 전반에 대한 해외 소비자의 관심이 높아지고 있습니다. 백화점의 이러한 시도는 국내 중소 브랜드의 해외 진출을 돕는 플랫폼 역할을 합니다.",
+        "source_url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302663"
       },
-      "image_url": "data/images/2026-10-14/life-post-covid-drinking.jpg"
+      "image_url": "data/images/2026-10-15/life-0.jpg"
     },
     {
-      "id": "life-non-alcoholic-trend",
+      "id": "life-1",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "국민소득 7만달러 여는 한류 경제학",
+      "subtitle": "K컬처 라이프스타일 산업으로 외연 확장, 576억 달러 수출",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7만달러",
+            "label": "국민소득 목표"
+          },
+          {
+            "value": "576억$",
+            "label": "라이프스타일 수출액"
+          },
+          {
+            "value": "2024년",
+            "label": "화장품 수출 기준"
+          }
+        ],
+        "main_number": "576억$",
+        "main_text": "K컬처 라이프스타일 부문 지난해 수출액"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국민소득 7만 달러 시대를 여는 한류의 경제적 영향력이 확대되고 있습니다. K컬처가 라이프스타일 산업으로 외연을 넓히면서, 지난해에만 라이프스타일 부문 수출액이 576억 달러를 기록하며 K컬처 수출의 가장 큰 비중을 차지했습니다.",
+        "points": [
+          "K컬처, 영화·음악을 넘어 라이프스타일 산업으로 확장",
+          "지난해 라이프스타일 부문 수출액 576억 달러 기록",
+          "화장품 수출이 2024년에 100억 달러 돌파 예상",
+          "K컬처의 경제적 외연 확장이 국민소득 증대에 기여"
+        ],
+        "quote": "K컬처의 경제적 외연은 라이프스타일 산업으로 넓어지고 있다. 라이프스타일 부문의 지난해 수출액은 576억달러로 K컬처에서 가장 큰 비중을 차지했다.",
+        "context": "한류는 단순한 문화 현상을 넘어 한국의 상품과 서비스에 대한 글로벌 수요를 견인하며 경제 성장에 기여하고 있습니다. 특히 K-뷰티, K-푸드 등 라이프스타일 분야의 약진이 두드러집니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001160935?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4755&nologo=true"
+    },
+    {
+      "id": "life-2",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "pie_chart",
-      "title": "차례상부터 가을 캠핑장까지 점령했다…‘취향 존중’ 무알코올 전성시대",
-      "subtitle": "개인의 취향과 건강을 중시하는 소비 문화 확산",
+      "title": "스카이스캐너 '트래블 트렌드 2027' 발표",
+      "subtitle": "한국인 61% 특정 장소 전용 상품 구매 위해 여행",
       "viz_data": {
         "stats": [
           {
-            "value": "차례상",
-            "label": "주요 소비처"
+            "value": "61%",
+            "label": "특정 장소 상품 구매 여행"
           },
           {
-            "value": "캠핑장",
-            "label": "주요 소비처"
+            "value": "31%",
+            "label": "숙소 선정 시 피트니스 고려"
           },
           {
-            "value": "건강 중시",
-            "label": "확산 배경"
+            "value": "2027년",
+            "label": "전망 시기"
           }
         ],
-        "main_number": "↑",
-        "main_text": "무알코올 음료 시장 성장"
+        "main_number": "61%",
+        "main_text": "한국인 응답자 중 특정 장소 전용 상품 구매를 위해 여행 경험"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, various non-alcoholic beverages, diverse people enjoying drinks, health icons",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "무알코올 음료 시장이 명절 차례상부터 가을 캠핑장까지 넓은 범위에서 인기를 끌며, 개인의 취향과 건강을 중시하는 소비 문화의 확산을 보여주고 있다.",
+        "summary": "여행 플랫폼 스카이스캐너가 '트래블 트렌드 2027'을 발표했습니다. 한국인 응답자의 61%는 특정 장소 전용 상품 구매를 위해 여행을 다녀왔고, 31%는 숙소 선정 시 피트니스 시설을 중요하게 고려하는 등 변화된 라이프스타일과 소비 패턴을 반영한 결과를 공개했습니다.",
         "points": [
-          "무알코올 음료, 다양한 일상 공간에서 인기",
-          "소비자의 취향과 건강 중시 트렌드 반영",
-          "술을 마시지 않는 선택이 일상적인 문화로 정착",
-          "무알코올 시장의 지속적인 성장 기대"
+          "한국인 응답자 61%, 특정 장소 전용 상품 구매 목적으로 여행 경험",
+          "한국인 응답자 31%, 숙소 선정 시 피트니스 시설 중요하게 고려",
+          "개인화된 여행 경험과 건강을 중시하는 라이프스타일 반영",
+          "2027년까지의 여행 트렌드 전망 제시"
         ],
-        "quote": "\"술을 마시지 않는 선택이 일상적인 문화로 확고히 자리 잡는 모습이다.\"",
-        "context": "건강과 웰빙에 대한 관심이 높아지면서, 음주를 강요하지 않고 개인의 선택을 존중하는 문화가 확산되고 있다. 이는 무알코올 음료 시장의 성장을 견인하며 새로운 소비 트렌드를 형성하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/468/0001272321?sid=101"
+        "quote": "실제로 한국인 응답자 중 61%는 특정 장소 전용 상품 구매를 위해 여행을 다녀온 적이 있다고 답했으며, 31%는 숙소 선정 시 피트니스 시설을 적극 고려한다고 밝혔다.",
+        "context": "팬데믹 이후 여행 수요가 회복되면서, 여행 방식과 목적도 더욱 다양해지고 개인화되는 추세입니다. 특히 특정 경험과 건강 관리를 중시하는 현대인의 라이프스타일이 여행 트렌드에 반영되고 있습니다.",
+        "source_url": "https://www.onews.tv/news/articleView.html?idxno=289121"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20various%20non-alcoholic%20beverages%2C%20diverse%20people%20enjoying%20drinks%2C%20health%20icons%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15855&nologo=true"
-    },
-    {
-      "id": "life-senior-housing-design",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "comparison",
-      "title": "시니어 고객 의견 반영… 수납 늘리고 공간 활용도 높인다",
-      "subtitle": "시니어 레지던스, 실제 라이프스타일에 맞춘 평면 업그레이드",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "수납 공간",
-            "label": "주요 개선점"
-          },
-          {
-            "value": "공간 활용",
-            "label": "주요 개선점"
-          },
-          {
-            "value": "11월",
-            "label": "공개 시점"
-          }
-        ],
-        "main_number": "↑",
-        "main_text": "시니어 주거 만족도"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, modern senior living space, elderly person enjoying comfortable home, before and after renovation sketch",
-      "detail": {
-        "summary": "시니어 레지던스 '소요 한남'이 고객 의견을 반영하여 수납 공간을 늘리고 공간 활용도를 높이는 등 시니어 라이프스타일에 맞춘 업그레이드 평면을 11월에 공개할 예정이다.",
-        "points": [
-          "시니어 레지던스 '소요 한남', 평면 업그레이드",
-          "실제 시니어 고객의 의견 및 라이프스타일 반영",
-          "수납 공간 확충 및 공간 활용도 극대화",
-          "오는 11월 중순 리노베이션 평면 공개 예정"
-        ],
-        "quote": "\"“시니어가 진짜 원하는 주거 공간과 라이프스타일을 구현하기 위해 끊임없이 노력하고 있다.”\"",
-        "context": "고령화 사회에서 시니어 세대는 새로운 주거 및 생활 서비스의 주요 소비층으로 부상하고 있다. 이들의 실제 필요와 선호를 반영한 주거 공간은 삶의 질을 높이는 데 기여할 것이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/023/0004003663?sid=101"
-      },
-      "image_url": "data/images/2026-10-14/life-senior-housing-design.jpg"
+      "image_url": "data/images/2026-10-15/life-2.jpg"
     }
   ],
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T06:08:05.092254+09:00"
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T06:08:16.169036+09:00"
 }
