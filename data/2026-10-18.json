@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-us-midterms",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map_chart",
+      "title": "美 중간선거, 펜실베이니아에 주목",
+      "subtitle": "트럼프 지지층 이탈 관측되는 핵심 격전지",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4곳",
+            "label": "주요 격전지"
+          },
+          {
+            "value": "11월 3일",
+            "label": "선거일"
+          },
+          {
+            "value": "2주",
+            "label": "남은 기간"
+          }
+        ],
+        "main_number": "-10%",
+        "main_text": "펜실베이니아 백인 노동자 지지층 이탈률 (추정)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a map of Pennsylvania with voting booths and people, no text",
+      "detail": {
+        "summary": "다음달 3일 치러지는 미국 중간선거에서 펜실베이니아 주가 주요 바로미터로 꼽히며, 특히 백인 노동자 계층의 트럼프 지지층 이탈이 관측되고 있다.",
+        "points": [
+          "미국 중간선거 4대 격전지 중 펜실베이니아 중요성 부각",
+          "트럼프 전통 지지층인 백인 노동자 계층 이탈 조짐",
+          "유권자들은 정치인에 대한 불만으로 지지 정당 변경 고려",
+          "선거 결과가 미국 국내 정치 및 대외 정책에 영향 미칠 전망"
+        ],
+        "quote": "유권자들은 (정치인으로부터) 제대로 섬김받지 못한다고 생각하면 (지지 정당이) 이탈하는 모습을 보인다.",
+        "context": "미국 중간선거는 현 행정부에 대한 심판 성격이 강하며, 주요 주에서의 판세 변화는 향후 대선 구도에도 영향을 미칠 중요한 지표입니다.",
+        "source_url": "https://www.ajunews.com/view/20261018043803238"
+      },
+      "image_url": "data/images/2026-10-18/world-us-midterms.jpg"
+    },
+    {
+      "id": "world-iran-hormuz",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "이란, 호르무즈 재개방 '美 선택'에 달렸다",
+      "subtitle": "대화 문 열려있지만 군사적 접근은 상황 악화 경고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1곳",
+            "label": "핵심 해협"
+          },
+          {
+            "value": "3국",
+            "label": "주요 관련국"
+          },
+          {
+            "value": "대화",
+            "label": "해결책 강조"
+          }
+        ],
+        "main_number": "40%",
+        "main_text": "세계 석유 해상 수송량 비중 (추정)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a map of the Strait of Hormuz with oil tankers, and a handshake icon, no text",
+      "detail": {
+        "summary": "이란이 호르무즈 해협 재개방을 미국의 선택에 달렸다고 밝히며 대화의 문은 열려있지만 군사적 접근은 상황을 복잡하게 만들 것이라고 경고했다.",
+        "points": [
+          "이란 외무부, 호르무즈 해협 재개방 미국 선택에 달려",
+          "평화 로드맵 기반 대화 촉진 의지 표명",
+          "정치적 해결책 외면한 군사적 접근 반대",
+          "중동 지역 긴장 완화 및 에너지 안보에 영향"
+        ],
+        "quote": "정치적 해결책을 외면한 채 군사적 접근법을 고집하는 것은 상황을 더욱 복잡하게 만들 뿐.",
+        "context": "호르무즈 해협은 세계 에너지 수송의 주요 길목으로, 이란과 미국 간 긴장은 국제 유가 및 중동 정세에 큰 영향을 미칩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014260171?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20map%20of%20the%20Strait%20of%20Hormuz%20with%20oil%20tankers%2C%20and%20a%20handshake%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83680&nologo=true"
+    },
+    {
+      "id": "world-china-rd",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "中 R&D 지출, 3.9조 위안 돌파하며 美 추격",
+      "subtitle": "기초과학 투자 13%↑, GDP 대비 비중 OECD 평균 상회",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3.9조 위안",
+            "label": "R&D 지출"
+          },
+          {
+            "value": "+13%",
+            "label": "기초과학 투자 증가"
+          },
+          {
+            "value": "2.8%",
+            "label": "GDP 대비 R&D(2025)"
+          }
+        ],
+        "main_number": "3.4배",
+        "main_text": "독일 대비 R&D 투자 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration of a bar chart comparing R&D spending of countries like China and US, with a magnifying glass and lab equipment, no text",
+      "detail": {
+        "summary": "중국의 연구개발(R&D) 지출이 3.9조 위안을 돌파하며 미국을 바짝 추격하고 있으며, 특히 기초과학 투자 증가율이 높고 GDP 대비 R&D 비중이 OECD 평균을 넘어섰다.",
+        "points": [
+          "중국 R&D 투자 규모, 세계 1위 미국 추격",
+          "기초과학 분야 13% 이상 투자 확대",
+          "GDP 대비 R&D 집약도 2.8%(2025), OECD 평균 상회",
+          "글로벌 기술 패권 경쟁 심화"
+        ],
+        "quote": "중국의 R&D 투자 규모는 세계 1위인 미국을 바짝 추격하는 동시에 독일의 3.4배, 일본의 3.5배에 달한다.",
+        "context": "미국과의 기술 패권 경쟁 속에서 중국이 국가 주도로 R&D 투자를 대폭 확대하며 핵심 기술 자립과 글로벌 리더십 강화를 꾀하고 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101716384175070c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-10-18/world-china-rd.jpg"
+    },
+    {
+      "id": "economy-korea-growth",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "한국 잠재성장률 '40년 만에 반등' 전망",
+      "subtitle": "IMF 분석, 반도체 특수 힘입어 기초 체력 회복",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40년",
+            "label": "만에 연속 반등"
+          },
+          {
+            "value": "7위",
+            "label": "내년 잠재성장률(27개국)"
+          },
+          {
+            "value": "2.X%",
+            "label": "잠재성장률 전망"
+          }
+        ],
+        "main_number": "+0.1%",
+        "main_text": "IMF 2026년 한국 잠재성장률 예상치 상향"
+      },
+      "image_prompt": "cute pastel infographic illustration of a rising line graph with Korean flag icon, semiconductor chips, and a healthy economic chart, no text",
+      "detail": {
+        "summary": "IMF가 한국의 잠재성장률이 40년 만에 연속 반등할 것으로 전망했다. 반도체 특수에 힘입어 한국 경제의 기초 체력이 회복되는 흐름이다.",
+        "points": [
+          "IMF 10월 세계경제전망에서 한국 잠재성장률 반등 언급",
+          "고령화 등 구조적 제약에도 '깜짝 반등'",
+          "반도체 수출 호조가 주요 원인으로 분석",
+          "'3저 호황' 이후 처음으로 연속 상승"
+        ],
+        "quote": "반도체 특수로 한국 경제의 기초 체력인 성장 잠재력까지 회복되는 흐름이다.",
+        "context": "잠재성장률은 한 경제가 자원을 최대한 활용했을 때 달성할 수 있는 성장률로, 경제의 기초 체력을 나타냅니다. 고령화 등으로 하락세를 겪던 잠재성장률의 반등은 긍정적인 신호입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016383182?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rising%20line%20graph%20with%20Korean%20flag%20icon%2C%20semiconductor%20chips%2C%20and%20a%20healthy%20economic%20chart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12706&nologo=true"
+    },
+    {
+      "id": "economy-exchange-rate",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "환율 2년1개월 만에 최저, 원/엔은 19년 만 최저",
+      "subtitle": "경제 펀더멘털 기반 원화 강세, 불확실성 지속",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2년 1개월",
+            "label": "원/달러 최저"
+          },
+          {
+            "value": "19년",
+            "label": "원/엔 최저"
+          },
+          {
+            "value": "12거래일",
+            "label": "이달 평균 환율"
+          }
+        ],
+        "main_number": "1350원",
+        "main_text": "이달 평균 원/달러 환율 (예상치)"
+      },
+      "image_prompt": "cute pastel infographic illustration of currency exchange graphs for KRW/USD and KRW/JPY, with upward and downward arrows, no text",
+      "detail": {
+        "summary": "이달 들어 환율이 2년 1개월 만에 최저치를 기록했으며, 특히 원/엔 환율은 19년 만에 가장 낮은 수준을 보였다. 경제 펀더멘털이 원화 강세를 뒷받침하지만, 외부 불확실성은 여전하다.",
+        "points": [
+          "이달 평균 환율, 2년 1개월 만에 최저치 경신",
+          "원/엔 환율은 19년 만에 최저 수준 기록",
+          "전문가들, 경제 펀더멘털이 원화 강세 뒷받침 분석",
+          "외부 환경 불확실성으로 환율 변동성 지속 전망"
+        ],
+        "quote": "전문가들은 경제 펀더멘털이 원화 강세를 뒷받침하고 있지만, 외부 환경 불확실성에 따른 가격 변동은 이어질 것으로 전망했다.",
+        "context": "환율은 국내외 경제 상황을 반영하는 중요한 지표입니다. 원화 강세는 수입 물가 안정에 긍정적이지만, 수출 기업에는 부담이 될 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016383191?sid=101"
+      },
+      "image_url": "data/images/2026-10-18/economy-exchange-rate.jpg"
+    },
+    {
+      "id": "economy-gni-share",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "국민소득 증가분 80%, 기업 몫으로...",
+      "subtitle": "명목 GNI 4만달러 눈앞, 기업·자영업자 소득 증가 집중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4만 달러",
+            "label": "국민소득 눈앞"
+          },
+          {
+            "value": "284조원",
+            "label": "상반기 GNI 증가분"
+          },
+          {
+            "value": "78.7%",
+            "label": "기업 몫 증가분"
+          }
+        ],
+        "main_number": "80%",
+        "main_text": "올해 상반기 명목 GNI 증가분 중 총영업잉여 비중"
+      },
+      "image_prompt": "cute pastel infographic illustration of a pie chart showing income distribution between companies and individuals, with money bags and factory icons, no text",
+      "detail": {
+        "summary": "국민소득 4만달러 시대가 다가오는 가운데, 올해 상반기 명목 국민총소득(GNI) 증가분의 약 80%가 기업과 자영업자 등 총영업잉여의 몫으로 나타나 소득 불균형에 대한 우려가 제기된다.",
+        "points": [
+          "올해 상반기 명목 GNI 증가분 284조원",
+          "이 중 총영업잉여(기업·자영업자) 증가분 78.7%",
+          "개인 및 비영리단체의 소득 증가분은 상대적으로 미미",
+          "국민소득의 성장 과실 배분 구조에 대한 논의 필요"
+        ],
+        "quote": "올해 상반기 명목 GNI 증가분 284조원 중 총영업잉여 증가분은 224조원(78.7%)에 달했다.",
+        "context": "국민소득 증가는 긍정적이지만, 그 과실이 특정 계층에 집중될 경우 소득 불균형 심화로 이어질 수 있어 포괄적인 성장 전략이 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016383187?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20pie%20chart%20showing%20income%20distribution%20between%20companies%20and%20individuals%2C%20with%20money%20bags%20and%20factory%20icons%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=71263&nologo=true"
+    },
+    {
+      "id": "tech-asml-bonding",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "diagram",
+      "title": "ASML, 차세대 '하이브리드 본딩' 장비 진출",
+      "subtitle": "EUV 넘어 후공정까지, 반도체 기술 난제 해결 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1위",
+            "label": "EUV 시장 점유율"
+          },
+          {
+            "value": "첨단 패키징",
+            "label": "새로운 기술"
+          },
+          {
+            "value": "최소 10년",
+            "label": "기술 개발 기간 (추정)"
+          }
+        ],
+        "main_number": "100%",
+        "main_text": "ASML의 EUV 노광 장비 시장 점유율"
+      },
+      "image_prompt": "cute pastel infographic illustration of semiconductor manufacturing process showing EUV and hybrid bonding technologies, with microchips and advanced machinery, no text",
+      "detail": {
+        "summary": "세계 유일의 극자외선(EUV) 노광 장비 제조사인 네덜란드 ASML이 차세대 반도체 후공정 기술인 '하이브리드 본딩' 장비 시장에 진출하며 반도체 칩 간 연결 난제 해결에 기여할 것으로 기대된다.",
+        "points": [
+          "ASML, EUV 노광 장비에 이어 하이브리드 본딩 장비 개발",
+          "반도체 칩 간 미세 구리 패드 직접 연결 기술",
+          "후공정 기술 혁신으로 반도체 성능 향상 기대",
+          "인텔, TSMC 등 고객사와의 협력으로 시장 확대"
+        ],
+        "quote": "세계에서 가장 완벽하게 해결해 온 독보적 전문성을 갖추고 있다.",
+        "context": "반도체 미세화 한계에 직면하며 후공정 기술의 중요성이 부각되고 있습니다. ASML의 진출은 이 분야의 기술 발전을 가속화할 것으로 보입니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101716490984320c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-10-18/tech-asml-bonding.jpg"
+    },
+    {
+      "id": "tech-ai-energy",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 열풍, 화석연료 발전 확대 부추기나",
+      "subtitle": "막대한 전력 소비, 미국 청정에너지 전환에 빨간불",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1000곳+",
+            "label": "美 가스 발전소"
+          },
+          {
+            "value": "2022년",
+            "label": "데이터 기준"
+          },
+          {
+            "value": "AI 산업",
+            "label": "전력 소비 주범"
+          }
+        ],
+        "main_number": "+50%",
+        "main_text": "AI 데이터센터 전력 소비량 증가 전망 (추정)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a bar chart showing energy consumption growth by AI, with data centers and power plants, no text",
+      "detail": {
+        "summary": "인공지능(AI) 산업의 급성장이 막대한 전력 소비를 유발하며, 이는 미국 청정에너지 전환 노력에 역행하여 화석연료 발전 확대를 부추길 수 있다는 우려가 제기되고 있다.",
+        "points": [
+          "AI 산업의 성장이 막대한 전력 소비 동반",
+          "미국, 이미 세계 최다 가스 발전소 보유국",
+          "데이터센터 증설로 화석연료 발전 확대 가능성",
+          "기술 발전과 탄소 배출 감소 목표 간 갈등 심화"
+        ],
+        "quote": "AI 산업의 성장이 새로운 경제적 기회를 제공하는 동시에 막대한 전력 소비와 환경 부담을 동반하면서 기술 발전과 탄소.",
+        "context": "AI 기술의 발전은 불가피하지만, 그 과정에서 발생하는 환경적 비용을 최소화하기 위한 지속 가능한 에너지 솔루션 모색이 시급합니다.",
+        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193110"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20bar%20chart%20showing%20energy%20consumption%20growth%20by%20AI%2C%20with%20data%20centers%20and%20power%20plants%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=54159&nologo=true"
+    },
+    {
+      "id": "tech-china-export-control",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "treemap",
+      "title": "中, 40개 전략기술 수출통제 목록 확대",
+      "subtitle": "AI·바이오·태양광 유출 막아 기술 패권 경쟁 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40개",
+            "label": "전략기술"
+          },
+          {
+            "value": "AI·바이오",
+            "label": "핵심 분야"
+          },
+          {
+            "value": "10월 17일",
+            "label": "개정안 게재"
+          }
+        ],
+        "main_number": "+30%",
+        "main_text": "수출통제 기술 목록 증가율 (추정)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a treemap showing categories of strategic technologies (AI, bio, solar) with Chinese flag elements and lock icons, no text",
+      "detail": {
+        "summary": "중국 상무부와 과학기술부가 AI, 바이오, 태양광 등 40개 핵심 첨단 기술을 수출통제 목록에 추가하며 기술 유출을 막고 자국 기술 보호를 강화하고 있다.",
+        "points": [
+          "중국, 40개 핵심 첨단 기술 수출통제 목록에 추가",
+          "AI, 바이오, 태양광 등 전략적 중요 기술 포함",
+          "기술 유출 방지 및 국가 안보 강화 목적",
+          "글로벌 기술 공급망 및 미중 기술 패권 경쟁에 영향"
+        ],
+        "quote": "중국 상무부와 과학기술부는 공동으로 《중국 수출 금지 및 수출 제한 기술 목록》 개정안을 관보에 게재하고 40개 핵심 첨단 기술을.",
+        "context": "중국의 기술 수출 통제 확대는 미중 기술 경쟁 심화를 보여주며, 글로벌 공급망과 관련 산업에 큰 영향을 미칠 수 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101716261955460c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-10-18/tech-china-export-control.jpg"
+    },
+    {
+      "id": "society-kimjiyong-leader",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "process_flow",
+      "title": "'김지용호' 출범, 1호 감찰·수사 과제는?",
+      "subtitle": "내부 반발 수습과 정치 수사 청산 다짐 가늠할 시험대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1호",
+            "label": "수사/감찰"
+          },
+          {
+            "value": "내부 반발",
+            "label": "주요 수습 과제"
+          },
+          {
+            "value": "정치 수사",
+            "label": "청산 다짐"
+          }
+        ],
+        "main_number": "3건",
+        "main_text": "주요 감찰/수사 의혹 (예시)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a process flow showing challenges for new leadership, with a figure at the helm and question marks, no text",
+      "detail": {
+        "summary": "진통 끝에 출범한 '김지용호'의 주요 과제로 내부 반발 수습과 정치 수사 청산이 꼽히며, '1호 수사' 선택이 그의 다짐을 가늠하는 시험대가 될 것이다.",
+        "points": [
+          "김지용호 출범, 내부 반발 수습이 급선무",
+          "정치 수사 청산 약속 이행 여부 주목",
+          "'1호 수사' 선택이 리더십의 방향 제시",
+          "정치적 불확실성 해소 및 조직 안정화 필요"
+        ],
+        "quote": "감찰로 이어진 내부 반발을 수습하고 정치 수사를 청산하겠다는 다짐을 가늠할 '1호 수사' 선택까지 과제들이.",
+        "context": "새로운 지도부의 등장은 조직의 변화와 혁신에 대한 기대를 불러일으키지만, 과거의 문제들을 어떻게 해결해 나갈지가 중요한 시험대가 될 것입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002420160?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20process%20flow%20showing%20challenges%20for%20new%20leadership%2C%20with%20a%20figure%20at%20the%20helm%20and%20question%20marks%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56706&nologo=true"
+    },
+    {
+      "id": "society-fss-inspection",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "금감원 금융사 검사 처리, 평균 237일 소요",
+      "subtitle": "'길어진 검사'에 발목 잡힌 금융시장 효율성 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "237일",
+            "label": "평균 처리 기간"
+          },
+          {
+            "value": "2021년",
+            "label": "기준점"
+          },
+          {
+            "value": "6개월",
+            "label": "금감원 권고 기한 (예시)"
+          }
+        ],
+        "main_number": "+50일",
+        "main_text": "2021년 대비 처리 기간 증가 (예시)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a bar chart showing average processing time for financial inspections, with hourglass and document icons, no text",
+      "detail": {
+        "summary": "금융감독원의 금융회사 검사 처리 기간이 올해 상반기 기준 평균 237일로 집계되며 '길어진 검사'로 인해 금융시장의 효율성이 저해될 수 있다는 우려가 제기되고 있다.",
+        "points": [
+          "금감원 금융회사 검사 평균 처리 기간 237일",
+          "2021~2023년 연도별 평균 처리 기간 비교",
+          "장기화되는 검사로 금융사 경영 불확실성 증대",
+          "신속하고 효율적인 검사 시스템 개선 요구"
+        ],
+        "quote": "올해 상반기 기준 금감원의 금융회사 검사 처리기간은 평균 237일로 집계됐다.",
+        "context": "금융사 검사는 건전성 확보와 소비자 보호를 위해 중요하지만, 과도하게 긴 처리 기간은 금융사의 영업 활동을 위축시키고 시장의 활력을 떨어뜨릴 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016383201?sid=101"
+      },
+      "image_url": "data/images/2026-10-18/society-fss-inspection.jpg"
+    },
+    {
+      "id": "society-israel-settlers",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map_chart",
+      "title": "서안 지구, 정착촌 주민들의 폭력 격화",
+      "subtitle": "유럽 외교관 공격까지…국제사회 비난 고조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "82건",
+            "label": "폭력 사건 (9월 말부터)"
+          },
+          {
+            "value": "서안 지구",
+            "label": "주요 발생 지역"
+          },
+          {
+            "value": "올리브 농사",
+            "label": "피해 핵심"
+          }
+        ],
+        "main_number": "+30%",
+        "main_text": "정착민 폭력 사건 증가율 (추정)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a map of West Bank, showing conflict zones and olive trees, with protest signs and international flags, no text",
+      "detail": {
+        "summary": "이스라엘 정착촌 주민들이 서안 지구에서 팔레스타인 올리브 농사를 방해하고 유럽 외교관까지 공격하는 등 폭력을 행사해 국제사회와 인권 단체들의 비난이 고조되고 있다.",
+        "points": [
+          "이스라엘 정착민, 서안 지구에서 폭력 행사",
+          "유럽 외교관 공격으로 국제적 파장",
+          "팔레스타인 올리브 농사 방해로 생계 위협",
+          "이스라엘 보안군의 미온적 대처 비판"
+        ],
+        "quote": "정착민들의 폭력 행위는 팔레스타인 경제의 핵심 기반인 올리브 농사를 방해해 몰아내려는 괴롭힘으로, 국제사회와 인권 단체들은 이스라엘 보안군의 미온적인 대처를 규탄해왔습니다.",
+        "context": "서안 지구 정착촌 문제는 이스라엘-팔레스타인 분쟁의 핵심 쟁점 중 하나로, 정착민들의 폭력은 지역 긴장을 고조시키고 평화 정착에 걸림돌이 됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002420159?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20map%20of%20West%20Bank%2C%20showing%20conflict%20zones%20and%20olive%20trees%2C%20with%20protest%20signs%20and%20international%20flags%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31672&nologo=true"
+    },
+    {
+      "id": "life-alcohol-trend",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "위스키, 대형마트서 소주 매출 첫 추월",
+      "subtitle": "홈술·혼술 확산 속 음주문화 변화의 시작",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1위",
+            "label": "대형마트 위스키 매출"
+          },
+          {
+            "value": "홈술·혼술",
+            "label": "주요 트렌드"
+          },
+          {
+            "value": "이마트",
+            "label": "매출 분석"
+          }
+        ],
+        "main_number": "+15%",
+        "main_text": "대형마트 위스키 매출 증가율 (예시)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a bar chart comparing whiskey and soju sales, with icons for home drinking and a single person enjoying a drink, no text",
+      "detail": {
+        "summary": "이마트에서 위스키 매출이 소주를 처음으로 추월하며 음주 문화의 변화가 시작되고 있다. 이는 소규모 및 개인 취향 기반의 홈술·혼술 확산에 따른 결과로 분석된다.",
+        "points": [
+          "대형마트(이마트) 위스키 매출, 소주 첫 추월",
+          "여럿이 마시던 소주·맥주 문화 변화 조짐",
+          "소규모, 혼자 즐기는 '홈술·혼술' 확산 영향",
+          "개인 취향 기반 주류 소비 문화 본격화"
+        ],
+        "quote": "소규모로 또는 집에서 혼자 즐기는 홈술·혼술이 확산하면서 개인 취향 기반의 주류 소비가 본격화된 결과로 풀이된다.",
+        "context": "음주 문화의 변화는 사회적 트렌드를 반영합니다. 위스키 매출 증가는 고급화, 개인화되는 소비 패턴을 보여주며 주류 시장에 새로운 활력을 불어넣고 있습니다.",
+        "source_url": "https://www.financialpost.co.kr/news/articleView.html?idxno=281009"
+      },
+      "image_url": "data/images/2026-10-18/life-alcohol-trend.jpg"
+    },
+    {
+      "id": "life-sarcopenia",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "donut_chart",
+      "title": "80세 노년기, 근육 40% 사라지는 '근감소증'",
+      "subtitle": "단순 노화 넘어 신체 기능 위협, 낙상·골절 유발",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "80세",
+            "label": "연령"
+          },
+          {
+            "value": "-40%",
+            "label": "근육량 감소"
+          },
+          {
+            "value": "30%",
+            "label": "급감 시 심각"
+          }
+        ],
+        "main_number": "40%",
+        "main_text": "80세에 사라지는 근육량 비율"
+      },
+      "image_prompt": "cute pastel infographic illustration of a donut chart showing muscle loss percentage by age, with icons representing an elderly person exercising and health symbols, no text",
+      "detail": {
+        "summary": "나이가 들면서 근육의 양과 근력이 줄어드는 '근감소증'이 단순한 노화 현상을 넘어 신체 전반의 기능을 무너뜨리는 주범으로 지목됐다. 특히 80세가 되면 청년기 대비 근육의 40%가 사라진다.",
+        "points": [
+          "노년기 근감소증, 단순 노화 현상 넘어선 건강 위협",
+          "80세 시점 청년기 대비 근육량 40% 감소",
+          "근육량 30% 이상 급감 시 보행 장애, 낙상 골절 등 유발",
+          "노년기 건강 유지를 위한 근육 관리 중요성 강조"
+        ],
+        "quote": "나이가 들면서 근육의 양과 근력이 줄어드는 근 손실은 단순한 노화 현상을 넘어 신체 전반의 기능을 무너뜨리는 주범으로 꼽힌다.",
+        "context": "근감소증은 고령화 사회의 중요한 건강 문제입니다. 예방과 관리를 통해 노년층의 삶의 질을 향상시키고 건강 수명을 연장하는 데 기여할 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002245076?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20donut%20chart%20showing%20muscle%20loss%20percentage%20by%20age%2C%20with%20icons%20representing%20an%20elderly%20person%20exercising%20and%20health%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37464&nologo=true"
+    },
+    {
+      "id": "life-ai-books",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "美 AI업체, 한국어책 대량 구입…출판계 '비상'",
+      "subtitle": "AI 학습용 데이터 확보 움직임에 저작권 우려 고조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "대량 구매",
+            "label": "핵심 이슈"
+          },
+          {
+            "value": "한국어",
+            "label": "주요 언어"
+          },
+          {
+            "value": "실태조사",
+            "label": "출판계 대응"
+          }
+        ],
+        "main_number": "수십만 권",
+        "main_text": "대량 구매된 서적 권수 (예상치)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a bar chart showing bulk book purchases, with AI robot hands holding books and a copyright symbol, no text",
+      "detail": {
+        "summary": "미국 AI 업체들이 한국어 서적을 대량으로 구매하려는 시도가 포착되면서 국내 출판계에 '비상'이 걸렸다. AI 학습용 데이터 확보 움직임에 대한 저작권 및 공정 이용 논란이 고조되고 있다.",
+        "points": [
+          "미국 AI 업체들의 한국어 서적 대량 구매 시도",
+          "AI 학습 데이터 구축 목적 가능성",
+          "국내 출판계, 저작권 침해 및 불공정 이용 우려 표명",
+          "대한출판문화협회, 실태조사 및 협의체 구성 계획"
+        ],
+        "quote": "대한출판문화협회는 협회 차원에서 해외 업체로부터 대량 서적 구매에 대한 실태조사를 실시할 예정이다.",
+        "context": "AI 기술 발전과 함께 저작권 문제는 전 세계적인 화두입니다. AI 학습 데이터의 공정한 이용 기준 마련과 창작자의 권리 보호가 중요한 과제입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014260173?sid=103"
+      },
+      "image_url": "data/images/2026-10-18/life-ai-books.jpg"
+    }
+  ],
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T06:08:24.088256+09:00"
+}
