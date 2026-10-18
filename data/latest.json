@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-us-midterms",
+      "id": "world-001",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "map_chart",
-      "title": "美 중간선거, 펜실베이니아에 주목",
-      "subtitle": "트럼프 지지층 이탈 관측되는 핵심 격전지",
+      "viz_type": "number_highlight",
+      "title": "프랑스 고물가 시위 격화: 2400명 체포",
+      "subtitle": "마크롱 대통령, 폭력 용납 불가 강조",
       "viz_data": {
         "stats": [
           {
-            "value": "4곳",
-            "label": "주요 격전지"
+            "value": "2400명+",
+            "label": "체포 인원"
           },
           {
-            "value": "11월 3일",
-            "label": "선거일"
+            "value": "수일째",
+            "label": "시위 기간"
           },
           {
-            "value": "2주",
-            "label": "남은 기간"
+            "value": "전국적",
+            "label": "확산"
           }
         ],
-        "main_number": "-10%",
-        "main_text": "펜실베이니아 백인 노동자 지지층 이탈률 (추정)"
+        "main_number": "2400+",
+        "main_text": "프랑스 시위 체포 인원"
       },
-      "image_prompt": "cute pastel infographic illustration of a map of Pennsylvania with voting booths and people, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "다음달 3일 치러지는 미국 중간선거에서 펜실베이니아 주가 주요 바로미터로 꼽히며, 특히 백인 노동자 계층의 트럼프 지지층 이탈이 관측되고 있다.",
+        "summary": "프랑스 전역에서 고물가와 정부 정책에 대한 불만으로 시위가 격화되며 2,400명 이상이 체포되었고, 마크롱 대통령은 폭력 행위를 용납하지 않겠다고 밝혔다.",
         "points": [
-          "미국 중간선거 4대 격전지 중 펜실베이니아 중요성 부각",
-          "트럼프 전통 지지층인 백인 노동자 계층 이탈 조짐",
-          "유권자들은 정치인에 대한 불만으로 지지 정당 변경 고려",
-          "선거 결과가 미국 국내 정치 및 대외 정책에 영향 미칠 전망"
+          "고물가 및 정부 정책 불만으로 시위 격화",
+          "전국적으로 2,400명 이상 시위자 체포",
+          "마크롱 대통령, 폭력 행위 용납 불가 천명",
+          "차기 대선을 앞두고 마크롱 대통령에 정치적 부담"
         ],
-        "quote": "유권자들은 (정치인으로부터) 제대로 섬김받지 못한다고 생각하면 (지지 정당이) 이탈하는 모습을 보인다.",
-        "context": "미국 중간선거는 현 행정부에 대한 심판 성격이 강하며, 주요 주에서의 판세 변화는 향후 대선 구도에도 영향을 미칠 중요한 지표입니다.",
-        "source_url": "https://www.ajunews.com/view/20261018043803238"
+        "quote": "약탈과 폭력은 용서할 수 없으며, 국민이 이런 짓을 벌인다는 것에 분노와 수치심을 느낀다.",
+        "context": "차기 대선을 앞두고 마크롱 대통령의 임기 말 국정 운영에 큰 정치적 부담을 주고 있으며, 사회적 대화를 통한 해결 노력이 요구되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002420426?sid=104"
       },
-      "image_url": "data/images/2026-10-18/world-us-midterms.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15023&nologo=true"
     },
     {
-      "id": "world-iran-hormuz",
+      "id": "world-002",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "이란, 호르무즈 재개방 '美 선택'에 달렸다",
-      "subtitle": "대화 문 열려있지만 군사적 접근은 상황 악화 경고",
+      "viz_type": "map_highlight",
+      "title": "캐나다 앨버타주 분리독립 투표 D-1",
+      "subtitle": "최대 원유 생산지, 경제적 자율성 요구 vs 캐나다 연방 유지",
       "viz_data": {
         "stats": [
           {
-            "value": "1곳",
-            "label": "핵심 해협"
+            "value": "D-1",
+            "label": "투표일 임박"
           },
           {
-            "value": "3국",
-            "label": "주요 관련국"
+            "value": "최대",
+            "label": "원유 생산지"
           },
           {
-            "value": "대화",
-            "label": "해결책 강조"
+            "value": "경제 자율성",
+            "label": "주요 논점"
           }
         ],
-        "main_number": "40%",
-        "main_text": "세계 석유 해상 수송량 비중 (추정)"
+        "main_number": "D-1",
+        "main_text": "앨버타 분리독립 투표 임박"
       },
-      "image_prompt": "cute pastel infographic illustration of a map of the Strait of Hormuz with oil tankers, and a handshake icon, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "이란이 호르무즈 해협 재개방을 미국의 선택에 달렸다고 밝히며 대화의 문은 열려있지만 군사적 접근은 상황을 복잡하게 만들 것이라고 경고했다.",
+        "summary": "캐나다 최대 원유 생산지인 앨버타주가 분리독립 투표를 하루 앞두고 있으며, 풍부한 에너지 자원을 기반으로 독자적인 경제 정책을 펼치려는 움직임과 미국 개입 논란이 불거지고 있다.",
         "points": [
-          "이란 외무부, 호르무즈 해협 재개방 미국 선택에 달려",
-          "평화 로드맵 기반 대화 촉진 의지 표명",
-          "정치적 해결책 외면한 군사적 접근 반대",
-          "중동 지역 긴장 완화 및 에너지 안보에 영향"
+          "캐나다 최대 원유·가스 생산지 앨버타주",
+          "독자적인 경제 정책 추진 목표",
+          "투표를 앞두고 미국 개입 논란 확산",
+          "캐나다 연방 경제에 미칠 파급 효과 주목"
         ],
-        "quote": "정치적 해결책을 외면한 채 군사적 접근법을 고집하는 것은 상황을 더욱 복잡하게 만들 뿐.",
-        "context": "호르무즈 해협은 세계 에너지 수송의 주요 길목으로, 이란과 미국 간 긴장은 국제 유가 및 중동 정세에 큰 영향을 미칩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014260171?sid=104"
+        "quote": "앨버타주가 독립할 경우 풍부한 에너지 자원을 기반으로 독자적인 경제 정책을 펼칠 수 있다.",
+        "context": "앨버타주는 캐나다 경제에서 중요한 역할을 하며, 연방 정부와의 갈등 속에서 경제적 자율성 확보를 목표로 분리독립 투표를 추진해왔다.",
+        "source_url": "https://n.news.naver.com/mnews/article/014/0005590842?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20map%20of%20the%20Strait%20of%20Hormuz%20with%20oil%20tankers%2C%20and%20a%20handshake%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83680&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=13086&nologo=true"
     },
     {
-      "id": "world-china-rd",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "中 R&D 지출, 3.9조 위안 돌파하며 美 추격",
-      "subtitle": "기초과학 투자 13%↑, GDP 대비 비중 OECD 평균 상회",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3.9조 위안",
-            "label": "R&D 지출"
-          },
-          {
-            "value": "+13%",
-            "label": "기초과학 투자 증가"
-          },
-          {
-            "value": "2.8%",
-            "label": "GDP 대비 R&D(2025)"
-          }
-        ],
-        "main_number": "3.4배",
-        "main_text": "독일 대비 R&D 투자 규모"
-      },
-      "image_prompt": "cute pastel infographic illustration of a bar chart comparing R&D spending of countries like China and US, with a magnifying glass and lab equipment, no text",
-      "detail": {
-        "summary": "중국의 연구개발(R&D) 지출이 3.9조 위안을 돌파하며 미국을 바짝 추격하고 있으며, 특히 기초과학 투자 증가율이 높고 GDP 대비 R&D 비중이 OECD 평균을 넘어섰다.",
-        "points": [
-          "중국 R&D 투자 규모, 세계 1위 미국 추격",
-          "기초과학 분야 13% 이상 투자 확대",
-          "GDP 대비 R&D 집약도 2.8%(2025), OECD 평균 상회",
-          "글로벌 기술 패권 경쟁 심화"
-        ],
-        "quote": "중국의 R&D 투자 규모는 세계 1위인 미국을 바짝 추격하는 동시에 독일의 3.4배, 일본의 3.5배에 달한다.",
-        "context": "미국과의 기술 패권 경쟁 속에서 중국이 국가 주도로 R&D 투자를 대폭 확대하며 핵심 기술 자립과 글로벌 리더십 강화를 꾀하고 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026101716384175070c8c1c064d_1"
-      },
-      "image_url": "data/images/2026-10-18/world-china-rd.jpg"
-    },
-    {
-      "id": "economy-korea-growth",
+      "id": "world-003",
       "is_headline": true,
-      "category": "economy",
-      "category_label": "💰 경제",
+      "category": "world",
+      "category_label": "🌍 국제",
       "viz_type": "line_chart",
-      "title": "한국 잠재성장률 '40년 만에 반등' 전망",
-      "subtitle": "IMF 분석, 반도체 특수 힘입어 기초 체력 회복",
+      "title": "미중 경제 갈등 심화: 中, 美 국채 보유량 18년 만에 최저",
+      "subtitle": "40조 달러 미국 부채 불안 속, 중국의 대미 영향력 축소 가속화",
       "viz_data": {
         "stats": [
           {
-            "value": "40년",
-            "label": "만에 연속 반등"
+            "value": "40조 달러",
+            "label": "美 부채 규모"
           },
           {
-            "value": "7위",
-            "label": "내년 잠재성장률(27개국)"
+            "value": "18년 만",
+            "label": "최저 기록"
           },
           {
-            "value": "2.X%",
-            "label": "잠재성장률 전망"
+            "value": "1위→",
+            "label": "채권국 지위 변화"
           }
         ],
-        "main_number": "+0.1%",
-        "main_text": "IMF 2026년 한국 잠재성장률 예상치 상향"
+        "main_number": "↓",
+        "main_text": "中, 美 국채 보유량 18년 만에 최저"
       },
-      "image_prompt": "cute pastel infographic illustration of a rising line graph with Korean flag icon, semiconductor chips, and a healthy economic chart, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "IMF가 한국의 잠재성장률이 40년 만에 연속 반등할 것으로 전망했다. 반도체 특수에 힘입어 한국 경제의 기초 체력이 회복되는 흐름이다.",
+        "summary": "미국 부채가 40조 달러에 육박하며 불안감이 커지는 가운데, 중국의 미국 국채 보유량이 18년 만에 최저치를 기록하며 미중 간 경제적 영향력 다툼이 심화되고 있다.",
         "points": [
-          "IMF 10월 세계경제전망에서 한국 잠재성장률 반등 언급",
-          "고령화 등 구조적 제약에도 '깜짝 반등'",
-          "반도체 수출 호조가 주요 원인으로 분석",
-          "'3저 호황' 이후 처음으로 연속 상승"
+          "미국 부채 40조 달러 육박, 금융 시장 불안 증대",
+          "중국의 미국 국채 보유량 18년 만에 최저치 기록",
+          "트럼프 행정부 무역 분쟁 이후 감소세 지속",
+          "러시아 외환보유액 동결 조치도 중국에 영향"
         ],
-        "quote": "반도체 특수로 한국 경제의 기초 체력인 성장 잠재력까지 회복되는 흐름이다.",
-        "context": "잠재성장률은 한 경제가 자원을 최대한 활용했을 때 달성할 수 있는 성장률로, 경제의 기초 체력을 나타냅니다. 고령화 등으로 하락세를 겪던 잠재성장률의 반등은 긍정적인 신호입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016383182?sid=101"
+        "quote": "중국은 과거 1조 3,000억 달러가 넘는 미 국채를 보유하며 세계 1위 채권국 지위를 누렸으나...",
+        "context": "과거 세계 최대 미 국채 보유국이었던 중국이 미중 무역 분쟁과 지정학적 리스크 심화로 인해 대미 금융 자산을 지속적으로 줄이며 글로벌 금융 시장에 변화를 예고하고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101816374795230c8c1c064d_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rising%20line%20graph%20with%20Korean%20flag%20icon%2C%20semiconductor%20chips%2C%20and%20a%20healthy%20economic%20chart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12706&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=46783&nologo=true"
     },
     {
-      "id": "economy-exchange-rate",
+      "id": "economy-001",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "환율 2년1개월 만에 최저, 원/엔은 19년 만 최저",
-      "subtitle": "경제 펀더멘털 기반 원화 강세, 불확실성 지속",
+      "title": "국감 민생 난타전: 집값과 주가, 불안한 경제지표",
+      "subtitle": "국정감사 후반, 여야 주요 경제 현안 집중 공방",
       "viz_data": {
         "stats": [
           {
-            "value": "2년 1개월",
-            "label": "원/달러 최저"
+            "value": "국감 후반",
+            "label": "주요 시기"
           },
           {
-            "value": "19년",
-            "label": "원/엔 최저"
+            "value": "상승세",
+            "label": "집값 동향"
           },
           {
-            "value": "12거래일",
-            "label": "이달 평균 환율"
+            "value": "출렁",
+            "label": "주가 변동성"
           }
         ],
-        "main_number": "1350원",
-        "main_text": "이달 평균 원/달러 환율 (예상치)"
+        "main_number": "↑↓",
+        "main_text": "집값 상승과 주가 하락, 민생 경제 위기감 고조"
       },
-      "image_prompt": "cute pastel infographic illustration of currency exchange graphs for KRW/USD and KRW/JPY, with upward and downward arrows, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "이달 들어 환율이 2년 1개월 만에 최저치를 기록했으며, 특히 원/엔 환율은 19년 만에 가장 낮은 수준을 보였다. 경제 펀더멘털이 원화 강세를 뒷받침하지만, 외부 불확실성은 여전하다.",
+        "summary": "국정감사 후반에 접어들면서 여야가 민생 경제의 핵심인 집값과 주가 등 경제 현안을 두고 치열한 공방을 벌이고 있으며, 특히 주거와 금융 시장 불안이 주요 쟁점으로 떠올랐다.",
         "points": [
-          "이달 평균 환율, 2년 1개월 만에 최저치 경신",
-          "원/엔 환율은 19년 만에 최저 수준 기록",
-          "전문가들, 경제 펀더멘털이 원화 강세 뒷받침 분석",
-          "외부 환경 불확실성으로 환율 변동성 지속 전망"
+          "국정감사 주요 쟁점: 집값, 주가, 민생경제",
+          "재정경제기획위원회, 국토위 종합감사 예정",
+          "주택 공급 및 금융 시장 안정화 방안 논의",
+          "고금리, 고물가 지속으로 서민 부담 가중"
         ],
-        "quote": "전문가들은 경제 펀더멘털이 원화 강세를 뒷받침하고 있지만, 외부 환경 불확실성에 따른 가격 변동은 이어질 것으로 전망했다.",
-        "context": "환율은 국내외 경제 상황을 반영하는 중요한 지표입니다. 원화 강세는 수입 물가 안정에 긍정적이지만, 수출 기업에는 부담이 될 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016383191?sid=101"
+        "quote": "올해 국정감사가 후반전에 들어서는 가운데 이번 주 국감에서는 여야가 주로 집값과 주가 등 경제·민생 현안을 두고 치열한 공방을 벌일 것으로 예상된다.",
+        "context": "고금리, 고물가 상황이 지속되면서 서민들의 주거비 부담이 커지고 주식 시장의 변동성이 확대되는 등 민생 경제의 어려움이 심화되고 있어 국감에서 심도 있는 논의가 요구된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001161284?sid=101"
       },
-      "image_url": "data/images/2026-10-18/economy-exchange-rate.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=50984&nologo=true"
     },
     {
-      "id": "economy-gni-share",
+      "id": "economy-002",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "국민소득 증가분 80%, 기업 몫으로...",
-      "subtitle": "명목 GNI 4만달러 눈앞, 기업·자영업자 소득 증가 집중",
+      "viz_type": "timeline",
+      "title": "가상자산 과세 유예론 확산: 정부와 거래소의 준비와 논의",
+      "subtitle": "과세 시행 코앞, 정치권의 유예 요구 속 재검토 여부 주목",
       "viz_data": {
         "stats": [
           {
-            "value": "4만 달러",
-            "label": "국민소득 눈앞"
+            "value": "5곳",
+            "label": "거래소 점검"
           },
           {
-            "value": "284조원",
-            "label": "상반기 GNI 증가분"
+            "value": "여야",
+            "label": "유예론 확산"
           },
           {
-            "value": "78.7%",
-            "label": "기업 몫 증가분"
+            "value": "시행 임박",
+            "label": "과세 정책"
           }
         ],
-        "main_number": "80%",
-        "main_text": "올해 상반기 명목 GNI 증가분 중 총영업잉여 비중"
+        "main_number": "시행 임박",
+        "main_text": "가상자산 과세, 유예론 속 준비"
       },
-      "image_prompt": "cute pastel infographic illustration of a pie chart showing income distribution between companies and individuals, with money bags and factory icons, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "국민소득 4만달러 시대가 다가오는 가운데, 올해 상반기 명목 국민총소득(GNI) 증가분의 약 80%가 기업과 자영업자 등 총영업잉여의 몫으로 나타나 소득 불균형에 대한 우려가 제기된다.",
+        "summary": "가상자산 과세 시행을 위한 정부의 행정 준비가 진행되는 가운데, 정치권에서 과세 유예 요구가 확산되면서 제도 시행 여부가 다시 주목받고 있다.",
         "points": [
-          "올해 상반기 명목 GNI 증가분 284조원",
-          "이 중 총영업잉여(기업·자영업자) 증가분 78.7%",
-          "개인 및 비영리단체의 소득 증가분은 상대적으로 미미",
-          "국민소득의 성장 과실 배분 구조에 대한 논의 필요"
+          "가상자산 과세 시행을 위한 행정 준비 중",
+          "정치권 내 여야 가리지 않고 유예론 확산",
+          "정부, 5대 주요 가상자산 거래소 점검",
+          "투자자 보호 및 시장 안정화 문제 논의"
         ],
-        "quote": "올해 상반기 명목 GNI 증가분 284조원 중 총영업잉여 증가분은 224조원(78.7%)에 달했다.",
-        "context": "국민소득 증가는 긍정적이지만, 그 과실이 특정 계층에 집중될 경우 소득 불균형 심화로 이어질 수 있어 포괄적인 성장 전략이 중요합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016383187?sid=101"
+        "quote": "과세 시행을 위한 행정 준비가 진행되는 상황에서 정치권의 유예 요구까지 커지면서 제도 시행 여부가 다시 수면 위로 떠오르고 있다.",
+        "context": "가상자산 시장의 변동성이 크고 투자자 보호 문제가 여전히 존재하는 상황에서 과세가 시장에 미칠 영향을 두고 의견이 분분하며, 현실적인 정책 조정이 요구되고 있다.",
+        "source_url": "https://www.moneystorm.kr/news/articleView.html?idxno=7375"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20pie%20chart%20showing%20income%20distribution%20between%20companies%20and%20individuals%2C%20with%20money%20bags%20and%20factory%20icons%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=71263&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51740&nologo=true"
     },
     {
-      "id": "tech-asml-bonding",
+      "id": "economy-003",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "comparison_chart",
+      "title": "항암 신약 급여 확대: 환자 치료 접근성과 경제적 부담 완화",
+      "subtitle": "고가 비급여 항암제, 건강보험 적용으로 새로운 치료 기회",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2종",
+            "label": "암종 추가"
+          },
+          {
+            "value": "급여 전환",
+            "label": "정책 효과"
+          },
+          {
+            "value": "완화",
+            "label": "환자 부담"
+          }
+        ],
+        "main_number": "↓",
+        "main_text": "항암 신약 급여, 환자 부담 완화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "위암과 요로상피암 등 특정 암종에 대한 항암 신약의 건강보험 급여가 확대되면서, 고가 비급여로 인해 치료에 제약을 받던 환자들의 경제적 부담이 크게 완화되고 치료 접근성이 높아졌다.",
+        "points": [
+          "위암, 요로상피암 신약 건강보험 급여 확대",
+          "환자들의 경제적 부담 완화 및 치료 접근성 향상",
+          "치료 선택권 확대 및 생존율 개선 기대",
+          "기존 화학요법 대비 병용요법의 생존 개선 효과 입증"
+        ],
+        "quote": "그동안 높은 비급여 비용으로 치료 선택에 제약을 받았던 환자들의 경제적 부담도 완화될 것으로 기대된다.",
+        "context": "정부의 건강보험 보장성 강화 정책의 일환으로, 경제적 어려움으로 첨단 의약품 치료를 받기 어려웠던 중증 환자들에게 새로운 희망을 제시하며 공공 보건 향상에 기여할 것으로 보인다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546615"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26950&nologo=true"
+    },
+    {
+      "id": "tech-001",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "diagram",
-      "title": "ASML, 차세대 '하이브리드 본딩' 장비 진출",
-      "subtitle": "EUV 넘어 후공정까지, 반도체 기술 난제 해결 기대",
+      "viz_type": "line_chart",
+      "title": "AI 거품론 확산: 증시, 닷컴버블 급락장과 유사성 분석",
+      "subtitle": "고금리 환경 속 기술주 투매, AI 산업의 미래 가치 시험대",
       "viz_data": {
         "stats": [
           {
-            "value": "1위",
-            "label": "EUV 시장 점유율"
+            "value": "2000년",
+            "label": "닷컴버블 비교"
           },
           {
-            "value": "첨단 패키징",
-            "label": "새로운 기술"
+            "value": "급락",
+            "label": "코스피 동향"
           },
           {
-            "value": "최소 10년",
-            "label": "기술 개발 기간 (추정)"
+            "value": "의구심",
+            "label": "AI 성장성"
+          }
+        ],
+        "main_number": "60일",
+        "main_text": "닷컴버블과 유사한 V자 반등 실패 기간"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "현재 코스피 지수의 단기간 급락세가 2000년대 닷컴 버블 당시와 유사하다는 분석이 나오며, 고금리 환경과 AI 산업 성장성에 대한 의구심이 기술주 투매를 촉발하고 있다.",
+        "points": [
+          "코스피 지수 단기간 급격한 하락세 관측",
+          "2000년 닷컴 버블 급락장과 구조적 유사성 제기",
+          "고금리 환경 및 AI 산업 성장성에 대한 의구심 확산",
+          "AI 가치 사슬 전반에 걸친 실적 발표 결과 주목"
+        ],
+        "quote": "AI산업 의구심 해소 안되면 주가 저평가 장기화 각오해야",
+        "context": "과거 IT 버블 붕괴 경험을 통해 현재 AI 산업의 과열된 투자와 기대감에 대한 경고가 제기되며, 실질적인 수익성과 지속 가능한 성장에 대한 검증이 필요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005750325?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25203&nologo=true"
+    },
+    {
+      "id": "tech-002",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "MS, 英 최대 AI 데이터센터 계약 파기: 전력망 부족 현실화",
+      "subtitle": "폭증하는 AI 수요, 전력 인프라 한계 봉착",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "英 최대",
+            "label": "규모"
+          },
+          {
+            "value": "2030년대",
+            "label": "전력 부족 예상"
+          },
+          {
+            "value": "계약 파기",
+            "label": "결과"
+          }
+        ],
+        "main_number": "2030년대",
+        "main_text": "英 AI 데이터센터 전력 부족 예상 시점"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "마이크로소프트가 영국 최대 규모의 AI 데이터센터 구축 계약을 파기했는데, 이는 2030년대까지 해당 지역에 AI 데이터센터를 가동할 충분한 전기가 없다는 분석 때문으로, AI 인프라의 전력 문제가 현실화되고 있다.",
+        "points": [
+          "마이크로소프트, 영국 AI 데이터센터 계약 파기 결정",
+          "2030년대까지 AI 데이터센터 운영에 필요한 전력 부족 예상",
+          "노후화된 전력망과 송전 병목 현상 지적",
+          "전 세계 AI 인프라 구축의 주요 걸림돌로 부상"
+        ],
+        "quote": "빅테크 기업들이 천문학적인 자금을 쏟아부어도 송전망 구축과 변전소 인프라가 따라가지 못하면 AI 인프라는 모래성이나 다름없다.",
+        "context": "인공지능 기술 발전과 함께 데이터센터의 전력 소비량이 기하급수적으로 증가하면서, 기존 전력 인프라의 한계가 글로벌 AI 산업 성장에 심각한 제약이 될 수 있음을 보여준다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=91954"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16773&nologo=true"
+    },
+    {
+      "id": "tech-003",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison_chart",
+      "title": "전기차 시장 경쟁 격화: 현대차·기아, 테슬라 모델Y 대항마로 부상",
+      "subtitle": "가격 및 급속 충전 성능으로 시장 점유율 확대 전략",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5종",
+            "label": "경쟁 모델"
+          },
+          {
+            "value": "가격",
+            "label": "현대차·기아 강점"
+          },
+          {
+            "value": "급속충전",
+            "label": "현대차·기아 강점"
+          }
+        ],
+        "main_number": "5종",
+        "main_text": "테슬라 모델Y 대항마 전기차"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국 전기차 시장에서 현대자동차 아이오닉5와 기아 EV6 등 5개 차종이 테슬라 모델Y의 강력한 대항마로 주목받고 있으며, 현대차·기아는 가격과 급속충전 성능에서 경쟁력을 갖추고 있다.",
+        "points": [
+          "현대차 아이오닉5, 기아 EV6 등 5종 주목",
+          "테슬라 모델Y와 치열한 경쟁 구도 형성",
+          "현대차·기아의 가격 및 급속충전 성능 우위",
+          "테슬라의 주행거리 및 충전 인프라 강점"
+        ],
+        "quote": "현대차·기아는 가격과 급속충전 성능에서 경쟁력을 갖춘 반면 테슬라는 주행거리와 충전 네트워크에서 강점을 보인다.",
+        "context": "전기차 시장이 빠르게 성장하며 소비자들의 선택 폭이 넓어지는 가운데, 각 제조사들이 차별화된 전략으로 시장 점유율 확대를 위한 치열한 경쟁을 벌이고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101821010793569a1f309431_1"
+      },
+      "image_url": "data/images/2026-10-19/tech-003.jpg"
+    },
+    {
+      "id": "society-001",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "line_chart",
+      "title": "2050년 치매 환자 급증 전망: 전 세계 신규 환자 25년 새 2배 증가",
+      "subtitle": "고령화 사회의 그림자, 의료·사회적 자원 확충 시급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2470만명",
+            "label": "2050년 예측"
+          },
+          {
+            "value": "2배+",
+            "label": "증가율 (25년)"
+          },
+          {
+            "value": "고령화",
+            "label": "주요 원인"
+          }
+        ],
+        "main_number": "2470만 명",
+        "main_text": "2050년 전 세계 치매 신규 환자 예측"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "2050년에는 전 세계적으로 치매 신규 환자가 2,470만 명에 달하며 25년 만에 2배 이상 증가할 것으로 전망되어, 이에 따른 의료 및 사회적 자원 확충이 시급하다.",
+        "points": [
+          "2023년 대비 2050년 치매 신규 환자 2배 이상 증가 전망",
+          "전 세계적인 고령화가 치매 환자 증가의 주된 요인",
+          "여성 치매 발병 위험이 남성보다 높은 경향",
+          "규칙적인 신체활동, 사회적 교류로 치매 예방 가능"
+        ],
+        "quote": "치매 환자가 빠르게 증가하는 데 비해 진단과 치료, 돌봄에 필요한 의료·사회적 자원은 상대적으로 부족하다.",
+        "context": "전 세계적인 고령화 추세가 가속화되면서 치매는 개인의 삶의 질뿐만 아니라 사회 전체의 지속 가능성을 위협하는 심각한 공중 보건 문제로 부상하고 있다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546587"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49386&nologo=true"
+    },
+    {
+      "id": "society-002",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "19조 고등교육 예산 시대: 지역 대학 넘어 수도권 중소 대학 지원 필요성",
+      "subtitle": "지역 균형 발전과 수도권 대학 경쟁력 강화, 두 마리 토끼 잡기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "19조원",
+            "label": "고등교육 예산"
+          },
+          {
+            "value": "지역 대학",
+            "label": "기존 초점"
+          },
+          {
+            "value": "중소 대학",
+            "label": "새로운 지원 대상"
+          }
+        ],
+        "main_number": "19조원",
+        "main_text": "고등교육 예산 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "고등교육 예산이 19조 원 시대를 맞이하면서 지역 대학의 발전뿐만 아니라 수도권 중소 대학의 혁신과 경쟁력 강화에도 국가의 적극적인 지원이 필요하다는 목소리가 나오고 있다.",
+        "points": [
+          "고등교육 예산 규모 19조 원 시대 진입",
+          "지역 대학의 지속 가능한 성장을 위한 지원 강화",
+          "수도권 중소 대학의 혁신 및 경쟁력 강화 필요성 제기",
+          "국가 차원의 균형 있는 고등교육 투자 방향 모색"
+        ],
+        "quote": "지역대학의 발전은 지역사회의 지속 가능한 성장과 직결된다. 다만 이러한 투자가 지역대학의 경쟁력 강화와 함께 수도권 중소 대학의 혁신을 이끌어내는지 살펴야 한다.",
+        "context": "국가 균형 발전을 위한 지역 대학 지원이 중요하지만, 수도권 내 경쟁력을 잃어가는 중소 대학들 역시 고등교육 생태계의 중요한 축이므로 간과해서는 안 된다는 지적이다.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=598721"
+      },
+      "image_url": "data/images/2026-10-19/society-002.jpg"
+    },
+    {
+      "id": "society-003",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "약사사회 릴레이 집회 394일차: 약 배송·상비약 등 제도 개선 촉구",
+      "subtitle": "국회 앞 지속적인 요구, 약사 현안 해결 촉구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "394일",
+            "label": "집회 지속 기간"
+          },
+          {
+            "value": "다수",
+            "label": "주요 현안"
+          },
+          {
+            "value": "국회 앞",
+            "label": "집회 장소"
+          }
+        ],
+        "main_number": "394일",
+        "main_text": "약사사회 릴레이 집회 지속 기간"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "대한약사회의 국회 앞 릴레이 집회가 394일차를 맞이하며 약 배송, 상비약 확대, 한약사 면허 범위 등 약사 사회의 주요 현안에 대한 제도 개선을 지속적으로 촉구하고 있다.",
+        "points": [
+          "한약사 면허 범위 문제 해결 요구",
+          "약 배송 제도 개선 촉구",
+          "상비약 품목 확대 논의",
+          "국회 앞에서 394일째 릴레이 집회 지속"
+        ],
+        "quote": "약 배송과 창고형 약국 등 약사사회 주요 현안에 대한 제도 개선을 촉구하는 활동으로 이어지고 있다.",
+        "context": "약사 직능의 고유 영역과 공공성 침해 우려가 제기되는 정책들에 대해 약사들이 직접 행동에 나서며 국회와 정부의 전향적인 태도 변화를 요구하고 있다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546633"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44302&nologo=true"
+    },
+    {
+      "id": "life-001",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "탐조, MZ세대가 즐기는 새로운 트렌드 취미로 부상",
+      "subtitle": "'아재 취미'에서 벗어나 젊은 세대의 자연 친화적 활동으로 각광",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "MZ세대",
+            "label": "주요 참여층"
+          },
+          {
+            "value": "자연 친화",
+            "label": "활동 특성"
+          },
+          {
+            "value": "↑",
+            "label": "인기 상승"
+          }
+        ],
+        "main_number": "MZ세대",
+        "main_text": "탐조 취미 주요 참여층 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "과거 중장년층의 '아재 취미'로 여겨지던 '탐조'가 자연과의 교감을 중시하는 MZ세대의 새로운 라이프스타일 트렌드로 떠오르며 높은 관심을 받고 있다.",
+        "points": [
+          "탐조 활동의 MZ세대 확산 현상",
+          "자연 친화적 가치 추구하는 새로운 취미",
+          "소셜 미디어를 통한 정보 공유 및 확산",
+          "아웃도어 활동 증가와 함께 탐조 인구 증가"
+        ],
+        "quote": "최근 MZ세대를 중심으로 '자연'과 '여유'를 즐기려는 수요가 늘면서 조류 관찰이 새로운 취미로 각광받고 있다.",
+        "context": "팬데믹 이후 자연과 아웃도어 활동에 대한 관심이 높아지면서, 지속 가능하고 환경 친화적인 취미를 찾는 젊은층 사이에서 탐조가 매력적인 대안으로 자리매김하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/469/0000960182?sid=103"
+      },
+      "image_url": "data/images/2026-10-19/life-001.jpg"
+    },
+    {
+      "id": "life-002",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "flow_chart",
+      "title": "현대백화점, 고객 기부 에코백 재활용 캠페인 '새활용'",
+      "subtitle": "일회용품 줄이기, 친환경 소비 문화 확산 앞장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "고객 기부",
+            "label": "참여 방식"
+          },
+          {
+            "value": "새활용",
+            "label": "캠페인 목적"
+          },
+          {
+            "value": "↓",
+            "label": "일회용품 사용"
           }
         ],
         "main_number": "100%",
-        "main_text": "ASML의 EUV 노광 장비 시장 점유율"
+        "main_text": "고객 기부 에코백 재활용률"
       },
-      "image_prompt": "cute pastel infographic illustration of semiconductor manufacturing process showing EUV and hybrid bonding technologies, with microchips and advanced machinery, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "세계 유일의 극자외선(EUV) 노광 장비 제조사인 네덜란드 ASML이 차세대 반도체 후공정 기술인 '하이브리드 본딩' 장비 시장에 진출하며 반도체 칩 간 연결 난제 해결에 기여할 것으로 기대된다.",
+        "summary": "현대백화점이 고객으로부터 사용하지 않는 에코백을 기부받아 장바구니 등으로 재활용하는 '새활용' 캠페인을 통해 일회용품 사용을 줄이고 친환경 소비 문화를 확산하고 있다.",
         "points": [
-          "ASML, EUV 노광 장비에 이어 하이브리드 본딩 장비 개발",
-          "반도체 칩 간 미세 구리 패드 직접 연결 기술",
-          "후공정 기술 혁신으로 반도체 성능 향상 기대",
-          "인텔, TSMC 등 고객사와의 협력으로 시장 확대"
+          "고객이 사용하지 않는 에코백 기부 유도",
+          "기부된 에코백을 장바구니 등으로 '새활용'",
+          "일상 속 친환경 활동 참여 기회 확대",
+          "일회용품 사용 절감 및 지속 가능한 소비 문화 구축"
         ],
-        "quote": "세계에서 가장 완벽하게 해결해 온 독보적 전문성을 갖추고 있다.",
-        "context": "반도체 미세화 한계에 직면하며 후공정 기술의 중요성이 부각되고 있습니다. ASML의 진출은 이 분야의 기술 발전을 가속화할 것으로 보입니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026101716490984320c8c1c064d_1"
+        "quote": "고객들이 일상적인 장보기 과정에서 친환경 활동에 참여할 수 있는 기회를 넓혀 일회용품 사용을 줄이는 소비 문화를 확산한다는 구상이다.",
+        "context": "기업의 사회적 책임과 환경 보호에 대한 인식이 높아지면서, 유통업계는 자원 순환을 촉진하고 소비자들의 친환경 소비를 독려하는 다양한 캠페인을 전개하고 있다.",
+        "source_url": "https://www.apnews.kr/news/articleView.html?idxno=3052210"
       },
-      "image_url": "data/images/2026-10-18/tech-asml-bonding.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33068&nologo=true"
     },
     {
-      "id": "tech-ai-energy",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "AI 열풍, 화석연료 발전 확대 부추기나",
-      "subtitle": "막대한 전력 소비, 미국 청정에너지 전환에 빨간불",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1000곳+",
-            "label": "美 가스 발전소"
-          },
-          {
-            "value": "2022년",
-            "label": "데이터 기준"
-          },
-          {
-            "value": "AI 산업",
-            "label": "전력 소비 주범"
-          }
-        ],
-        "main_number": "+50%",
-        "main_text": "AI 데이터센터 전력 소비량 증가 전망 (추정)"
-      },
-      "image_prompt": "cute pastel infographic illustration of a bar chart showing energy consumption growth by AI, with data centers and power plants, no text",
-      "detail": {
-        "summary": "인공지능(AI) 산업의 급성장이 막대한 전력 소비를 유발하며, 이는 미국 청정에너지 전환 노력에 역행하여 화석연료 발전 확대를 부추길 수 있다는 우려가 제기되고 있다.",
-        "points": [
-          "AI 산업의 성장이 막대한 전력 소비 동반",
-          "미국, 이미 세계 최다 가스 발전소 보유국",
-          "데이터센터 증설로 화석연료 발전 확대 가능성",
-          "기술 발전과 탄소 배출 감소 목표 간 갈등 심화"
-        ],
-        "quote": "AI 산업의 성장이 새로운 경제적 기회를 제공하는 동시에 막대한 전력 소비와 환경 부담을 동반하면서 기술 발전과 탄소.",
-        "context": "AI 기술의 발전은 불가피하지만, 그 과정에서 발생하는 환경적 비용을 최소화하기 위한 지속 가능한 에너지 솔루션 모색이 시급합니다.",
-        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193110"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20bar%20chart%20showing%20energy%20consumption%20growth%20by%20AI%2C%20with%20data%20centers%20and%20power%20plants%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=54159&nologo=true"
-    },
-    {
-      "id": "tech-china-export-control",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "treemap",
-      "title": "中, 40개 전략기술 수출통제 목록 확대",
-      "subtitle": "AI·바이오·태양광 유출 막아 기술 패권 경쟁 심화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "40개",
-            "label": "전략기술"
-          },
-          {
-            "value": "AI·바이오",
-            "label": "핵심 분야"
-          },
-          {
-            "value": "10월 17일",
-            "label": "개정안 게재"
-          }
-        ],
-        "main_number": "+30%",
-        "main_text": "수출통제 기술 목록 증가율 (추정)"
-      },
-      "image_prompt": "cute pastel infographic illustration of a treemap showing categories of strategic technologies (AI, bio, solar) with Chinese flag elements and lock icons, no text",
-      "detail": {
-        "summary": "중국 상무부와 과학기술부가 AI, 바이오, 태양광 등 40개 핵심 첨단 기술을 수출통제 목록에 추가하며 기술 유출을 막고 자국 기술 보호를 강화하고 있다.",
-        "points": [
-          "중국, 40개 핵심 첨단 기술 수출통제 목록에 추가",
-          "AI, 바이오, 태양광 등 전략적 중요 기술 포함",
-          "기술 유출 방지 및 국가 안보 강화 목적",
-          "글로벌 기술 공급망 및 미중 기술 패권 경쟁에 영향"
-        ],
-        "quote": "중국 상무부와 과학기술부는 공동으로 《중국 수출 금지 및 수출 제한 기술 목록》 개정안을 관보에 게재하고 40개 핵심 첨단 기술을.",
-        "context": "중국의 기술 수출 통제 확대는 미중 기술 경쟁 심화를 보여주며, 글로벌 공급망과 관련 산업에 큰 영향을 미칠 수 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026101716261955460c8c1c064d_1"
-      },
-      "image_url": "data/images/2026-10-18/tech-china-export-control.jpg"
-    },
-    {
-      "id": "society-kimjiyong-leader",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "process_flow",
-      "title": "'김지용호' 출범, 1호 감찰·수사 과제는?",
-      "subtitle": "내부 반발 수습과 정치 수사 청산 다짐 가늠할 시험대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1호",
-            "label": "수사/감찰"
-          },
-          {
-            "value": "내부 반발",
-            "label": "주요 수습 과제"
-          },
-          {
-            "value": "정치 수사",
-            "label": "청산 다짐"
-          }
-        ],
-        "main_number": "3건",
-        "main_text": "주요 감찰/수사 의혹 (예시)"
-      },
-      "image_prompt": "cute pastel infographic illustration of a process flow showing challenges for new leadership, with a figure at the helm and question marks, no text",
-      "detail": {
-        "summary": "진통 끝에 출범한 '김지용호'의 주요 과제로 내부 반발 수습과 정치 수사 청산이 꼽히며, '1호 수사' 선택이 그의 다짐을 가늠하는 시험대가 될 것이다.",
-        "points": [
-          "김지용호 출범, 내부 반발 수습이 급선무",
-          "정치 수사 청산 약속 이행 여부 주목",
-          "'1호 수사' 선택이 리더십의 방향 제시",
-          "정치적 불확실성 해소 및 조직 안정화 필요"
-        ],
-        "quote": "감찰로 이어진 내부 반발을 수습하고 정치 수사를 청산하겠다는 다짐을 가늠할 '1호 수사' 선택까지 과제들이.",
-        "context": "새로운 지도부의 등장은 조직의 변화와 혁신에 대한 기대를 불러일으키지만, 과거의 문제들을 어떻게 해결해 나갈지가 중요한 시험대가 될 것입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/052/0002420160?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20process%20flow%20showing%20challenges%20for%20new%20leadership%2C%20with%20a%20figure%20at%20the%20helm%20and%20question%20marks%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56706&nologo=true"
-    },
-    {
-      "id": "society-fss-inspection",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "금감원 금융사 검사 처리, 평균 237일 소요",
-      "subtitle": "'길어진 검사'에 발목 잡힌 금융시장 효율성 우려",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "237일",
-            "label": "평균 처리 기간"
-          },
-          {
-            "value": "2021년",
-            "label": "기준점"
-          },
-          {
-            "value": "6개월",
-            "label": "금감원 권고 기한 (예시)"
-          }
-        ],
-        "main_number": "+50일",
-        "main_text": "2021년 대비 처리 기간 증가 (예시)"
-      },
-      "image_prompt": "cute pastel infographic illustration of a bar chart showing average processing time for financial inspections, with hourglass and document icons, no text",
-      "detail": {
-        "summary": "금융감독원의 금융회사 검사 처리 기간이 올해 상반기 기준 평균 237일로 집계되며 '길어진 검사'로 인해 금융시장의 효율성이 저해될 수 있다는 우려가 제기되고 있다.",
-        "points": [
-          "금감원 금융회사 검사 평균 처리 기간 237일",
-          "2021~2023년 연도별 평균 처리 기간 비교",
-          "장기화되는 검사로 금융사 경영 불확실성 증대",
-          "신속하고 효율적인 검사 시스템 개선 요구"
-        ],
-        "quote": "올해 상반기 기준 금감원의 금융회사 검사 처리기간은 평균 237일로 집계됐다.",
-        "context": "금융사 검사는 건전성 확보와 소비자 보호를 위해 중요하지만, 과도하게 긴 처리 기간은 금융사의 영업 활동을 위축시키고 시장의 활력을 떨어뜨릴 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016383201?sid=101"
-      },
-      "image_url": "data/images/2026-10-18/society-fss-inspection.jpg"
-    },
-    {
-      "id": "society-israel-settlers",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "map_chart",
-      "title": "서안 지구, 정착촌 주민들의 폭력 격화",
-      "subtitle": "유럽 외교관 공격까지…국제사회 비난 고조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "82건",
-            "label": "폭력 사건 (9월 말부터)"
-          },
-          {
-            "value": "서안 지구",
-            "label": "주요 발생 지역"
-          },
-          {
-            "value": "올리브 농사",
-            "label": "피해 핵심"
-          }
-        ],
-        "main_number": "+30%",
-        "main_text": "정착민 폭력 사건 증가율 (추정)"
-      },
-      "image_prompt": "cute pastel infographic illustration of a map of West Bank, showing conflict zones and olive trees, with protest signs and international flags, no text",
-      "detail": {
-        "summary": "이스라엘 정착촌 주민들이 서안 지구에서 팔레스타인 올리브 농사를 방해하고 유럽 외교관까지 공격하는 등 폭력을 행사해 국제사회와 인권 단체들의 비난이 고조되고 있다.",
-        "points": [
-          "이스라엘 정착민, 서안 지구에서 폭력 행사",
-          "유럽 외교관 공격으로 국제적 파장",
-          "팔레스타인 올리브 농사 방해로 생계 위협",
-          "이스라엘 보안군의 미온적 대처 비판"
-        ],
-        "quote": "정착민들의 폭력 행위는 팔레스타인 경제의 핵심 기반인 올리브 농사를 방해해 몰아내려는 괴롭힘으로, 국제사회와 인권 단체들은 이스라엘 보안군의 미온적인 대처를 규탄해왔습니다.",
-        "context": "서안 지구 정착촌 문제는 이스라엘-팔레스타인 분쟁의 핵심 쟁점 중 하나로, 정착민들의 폭력은 지역 긴장을 고조시키고 평화 정착에 걸림돌이 됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/052/0002420159?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20map%20of%20West%20Bank%2C%20showing%20conflict%20zones%20and%20olive%20trees%2C%20with%20protest%20signs%20and%20international%20flags%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31672&nologo=true"
-    },
-    {
-      "id": "life-alcohol-trend",
+      "id": "life-003",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "위스키, 대형마트서 소주 매출 첫 추월",
-      "subtitle": "홈술·혼술 확산 속 음주문화 변화의 시작",
+      "viz_type": "line_chart",
+      "title": "MZ세대 사우나 문화 즐기다: 웰니스 트렌드의 새로운 강자",
+      "subtitle": "유통업계, '웰니스족' 겨냥 사우나 관련 제품 및 서비스 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "1위",
-            "label": "대형마트 위스키 매출"
+            "value": "MZ세대",
+            "label": "주요 고객층"
           },
           {
-            "value": "홈술·혼술",
-            "label": "주요 트렌드"
+            "value": "웰니스",
+            "label": "핵심 트렌드"
           },
           {
-            "value": "이마트",
-            "label": "매출 분석"
+            "value": "급증",
+            "label": "관련 매출"
           }
         ],
-        "main_number": "+15%",
-        "main_text": "대형마트 위스키 매출 증가율 (예시)"
+        "main_number": "MZ세대",
+        "main_text": "사우나 웰니스 트렌드 주도층"
       },
-      "image_prompt": "cute pastel infographic illustration of a bar chart comparing whiskey and soju sales, with icons for home drinking and a single person enjoying a drink, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "이마트에서 위스키 매출이 소주를 처음으로 추월하며 음주 문화의 변화가 시작되고 있다. 이는 소규모 및 개인 취향 기반의 홈술·혼술 확산에 따른 결과로 분석된다.",
+        "summary": "MZ세대를 중심으로 사우나를 통한 웰니스 문화가 확산되면서, 유통업계가 이들을 겨냥한 사우나 관련 제품 및 서비스 강화에 나서며 관련 매출이 급증하고 있다.",
         "points": [
-          "대형마트(이마트) 위스키 매출, 소주 첫 추월",
-          "여럿이 마시던 소주·맥주 문화 변화 조짐",
-          "소규모, 혼자 즐기는 '홈술·혼술' 확산 영향",
-          "개인 취향 기반 주류 소비 문화 본격화"
+          "MZ세대의 사우나 및 웰니스 문화 향유 증가",
+          "유통업계의 관련 상품 출시 및 마케팅 강화",
+          "스웨디시 웰니스 라이프스타일 브랜드 인기 상승",
+          "스트레스 해소 및 건강 관리 수요 증가 반영"
         ],
-        "quote": "소규모로 또는 집에서 혼자 즐기는 홈술·혼술이 확산하면서 개인 취향 기반의 주류 소비가 본격화된 결과로 풀이된다.",
-        "context": "음주 문화의 변화는 사회적 트렌드를 반영합니다. 위스키 매출 증가는 고급화, 개인화되는 소비 패턴을 보여주며 주류 시장에 새로운 활력을 불어넣고 있습니다.",
-        "source_url": "https://www.financialpost.co.kr/news/articleView.html?idxno=281009"
+        "quote": "이처럼 업계가 사우나를 통한 웰니스족 잡기에 나선 것은 관련 매출이 급증하고 있기 때문이다.",
+        "context": "건강과 휴식을 중요시하는 웰니스 트렌드가 확산되면서, 사우나가 단순한 목욕을 넘어 심신 단련과 스트레스 해소를 위한 라이프스타일 활동으로 MZ세대에게 각광받고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/020/0003755789?sid=101"
       },
-      "image_url": "data/images/2026-10-18/life-alcohol-trend.jpg"
-    },
-    {
-      "id": "life-sarcopenia",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "donut_chart",
-      "title": "80세 노년기, 근육 40% 사라지는 '근감소증'",
-      "subtitle": "단순 노화 넘어 신체 기능 위협, 낙상·골절 유발",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "80세",
-            "label": "연령"
-          },
-          {
-            "value": "-40%",
-            "label": "근육량 감소"
-          },
-          {
-            "value": "30%",
-            "label": "급감 시 심각"
-          }
-        ],
-        "main_number": "40%",
-        "main_text": "80세에 사라지는 근육량 비율"
-      },
-      "image_prompt": "cute pastel infographic illustration of a donut chart showing muscle loss percentage by age, with icons representing an elderly person exercising and health symbols, no text",
-      "detail": {
-        "summary": "나이가 들면서 근육의 양과 근력이 줄어드는 '근감소증'이 단순한 노화 현상을 넘어 신체 전반의 기능을 무너뜨리는 주범으로 지목됐다. 특히 80세가 되면 청년기 대비 근육의 40%가 사라진다.",
-        "points": [
-          "노년기 근감소증, 단순 노화 현상 넘어선 건강 위협",
-          "80세 시점 청년기 대비 근육량 40% 감소",
-          "근육량 30% 이상 급감 시 보행 장애, 낙상 골절 등 유발",
-          "노년기 건강 유지를 위한 근육 관리 중요성 강조"
-        ],
-        "quote": "나이가 들면서 근육의 양과 근력이 줄어드는 근 손실은 단순한 노화 현상을 넘어 신체 전반의 기능을 무너뜨리는 주범으로 꼽힌다.",
-        "context": "근감소증은 고령화 사회의 중요한 건강 문제입니다. 예방과 관리를 통해 노년층의 삶의 질을 향상시키고 건강 수명을 연장하는 데 기여할 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/138/0002245076?sid=103"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20donut%20chart%20showing%20muscle%20loss%20percentage%20by%20age%2C%20with%20icons%20representing%20an%20elderly%20person%20exercising%20and%20health%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37464&nologo=true"
-    },
-    {
-      "id": "life-ai-books",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "美 AI업체, 한국어책 대량 구입…출판계 '비상'",
-      "subtitle": "AI 학습용 데이터 확보 움직임에 저작권 우려 고조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "대량 구매",
-            "label": "핵심 이슈"
-          },
-          {
-            "value": "한국어",
-            "label": "주요 언어"
-          },
-          {
-            "value": "실태조사",
-            "label": "출판계 대응"
-          }
-        ],
-        "main_number": "수십만 권",
-        "main_text": "대량 구매된 서적 권수 (예상치)"
-      },
-      "image_prompt": "cute pastel infographic illustration of a bar chart showing bulk book purchases, with AI robot hands holding books and a copyright symbol, no text",
-      "detail": {
-        "summary": "미국 AI 업체들이 한국어 서적을 대량으로 구매하려는 시도가 포착되면서 국내 출판계에 '비상'이 걸렸다. AI 학습용 데이터 확보 움직임에 대한 저작권 및 공정 이용 논란이 고조되고 있다.",
-        "points": [
-          "미국 AI 업체들의 한국어 서적 대량 구매 시도",
-          "AI 학습 데이터 구축 목적 가능성",
-          "국내 출판계, 저작권 침해 및 불공정 이용 우려 표명",
-          "대한출판문화협회, 실태조사 및 협의체 구성 계획"
-        ],
-        "quote": "대한출판문화협회는 협회 차원에서 해외 업체로부터 대량 서적 구매에 대한 실태조사를 실시할 예정이다.",
-        "context": "AI 기술 발전과 함께 저작권 문제는 전 세계적인 화두입니다. AI 학습 데이터의 공정한 이용 기준 마련과 창작자의 권리 보호가 중요한 과제입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014260173?sid=103"
-      },
-      "image_url": "data/images/2026-10-18/life-ai-books.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65166&nologo=true"
     }
   ],
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T06:08:24.088256+09:00"
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T06:12:25.471832+09:00"
 }
