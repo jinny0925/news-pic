@@ -1,0 +1,593 @@
+{
+  "cards": [
+    {
+      "id": "tech-ai-deepseek-ban",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "美, 연방기관 中 '딥시크 AI' 전면 퇴출 명령",
+      "subtitle": "사이버 안보 우려로, 기술 패권 경쟁 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "19일",
+            "label": "발표일"
+          },
+          {
+            "value": "연방기관",
+            "label": "대상"
+          },
+          {
+            "value": "전면제거",
+            "label": "조치"
+          }
+        ],
+        "main_number": "NO DeepSeek",
+        "main_text": "미국, 중국 AI 기술 사용 전면 금지"
+      },
+      "image_prompt": "cute pastel infographic illustration, a firewall blocking Chinese AI robot, a US flag subtly in background, cybersecurity theme, no text",
+      "detail": {
+        "summary": "미국 국토안보부(DHS)가 모든 연방 민간기관에 중국 AI 기업 딥시크(DeepSeek) 제품을 IT 시스템에서 제거하고 사용을 전면 금지하는 명령을 내렸다. 이는 딥시크 AI 모델 기반의 제3자 서비스에도 적용된다.",
+        "points": [
+          "미 국토안보부(DHS) 발표",
+          "연방 민간기관 대상",
+          "중국 AI 딥시크 제품 및 기반 서비스 사용 금지",
+          "사이버보안법 근거, 기술 패권 경쟁 심화"
+        ],
+        "quote": "민감 정보가 중국으로 넘어갈 수 있다는 우려에 따른 조치다.",
+        "context": "미국은 사이버 안보와 데이터 주권 확보를 위해 중국 기술에 대한 규제를 강화하고 있으며, 이는 AI 분야에서도 이어지고 있다. 이번 조치는 미중 기술 디커플링의 한 단면을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002245245?sid=105"
+      },
+      "image_url": "data/images/2026-10-20/tech-ai-deepseek-ban.jpg"
+    },
+    {
+      "id": "world-france-crisis",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "프랑스, 생활고·정치갈등으로 '벼랑 끝'",
+      "subtitle": "치솟는 생활비와 공공부채, 거리의 분노 동시 폭발",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3조 5955억 유로",
+            "label": "공공부채"
+          },
+          {
+            "value": "119%",
+            "label": "GDP 대비 부채"
+          }
+        ],
+        "main_number": "↑119%",
+        "main_text": "GDP 대비 공공부채 비율 역대 최대"
+      },
+      "image_prompt": "cute pastel infographic illustration, France map with rising debt chart, protesting crowd, broken parliament building, no text",
+      "detail": {
+        "summary": "프랑스가 치솟는 생활비에 대한 항의 시위와 막대한 공공부채, 정치적 반발로 인해 '벼랑 끝'에 섰다는 평가를 받고 있다. 공공부채는 3조 5955억 유로로 사상 최대치를 기록했으며, GDP의 119%에 달한다.",
+        "points": [
+          "생활비 부담에 따른 학생 시위 확산",
+          "코로나19, 전쟁 비용으로 공공재정 악화",
+          "공공부채 사상 최대 3조 5955억 유로",
+          "정치권 대립으로 사회적 타협 어려움"
+        ],
+        "quote": "프랑스 정부는 빚과 정치, 거리의 분노에 동시에 흔들리고 있다.",
+        "context": "코로나19 팬데믹과 우크라이나·이란 전쟁에 따른 비용 부담이 프랑스의 재정 악화를 심화시켰으며, 정치적 대립이 사회적 불안을 가중시키고 있다.",
+        "source_url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54441"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20France%20map%20with%20rising%20debt%20chart%2C%20protesting%20crowd%2C%20broken%20parliament%20building%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80765&nologo=true"
+    },
+    {
+      "id": "world-nk-doctrine",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "flow_chart",
+      "title": "北 '적대적 두 국가론', 핵보유국 인정 노림수",
+      "subtitle": "비핵화 대신 관리·억제 강조, '현실 인정' 활용 가능성",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "핵보유국",
+            "label": "목표"
+          },
+          {
+            "value": "관리·억제",
+            "label": "전략"
+          }
+        ],
+        "main_number": "↔ 비핵화",
+        "main_text": "기존 비핵화 요구에서 입장 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration, two divided countries with a nuclear symbol, diplomatic negotiation theme, no text",
+      "detail": {
+        "summary": "북한의 '적대적 두 국가론'은 미국 지도자들이 북한을 핵 강국으로 부르거나 비핵화보다 관리와 억제에 무게를 둔다면, 이를 '현실 인정'의 증거로 활용하여 핵보유국 지위를 공고히 하려는 의도가 담겨 있다.",
+        "points": [
+          "북한, '적대적 두 국가론' 강조",
+          "미국의 북한 핵보유국 인정 유도",
+          "비핵화 대신 핵 관리·억제에 초점",
+          "향후 국제사회 대북 전략 변화 촉발 가능성"
+        ],
+        "quote": "미국 지도자가 북한을 핵 강국으로 부르거나 비핵화보다 관리와 억제에 무게를 둔다면 북한은 이를 '현실 인정'의 증거로 활용할 수 있다.",
+        "context": "북한은 국제사회로부터 핵보유국 지위를 인정받기 위한 다양한 외교적·정치적 시도를 지속하고 있으며, 이는 한반도 비핵화 논의에 새로운 도전이 되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001161406?sid=110"
+      },
+      "image_url": "data/images/2026-10-20/world-nk-doctrine.jpg"
+    },
+    {
+      "id": "world-rare-earth-dependency",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "'脫中' 희토류 전쟁: 美 국방산업의 딜레마",
+      "subtitle": "핵심 부품 희토류, 중국 의존도 90% 이상…미국 방산업계 위기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4만 8천 톤",
+            "label": "美 수요량"
+          },
+          {
+            "value": "300 톤",
+            "label": "美 생산량"
+          },
+          {
+            "value": "90%+",
+            "label": "中 공급 점유율"
+          }
+        ],
+        "main_number": "↓99%",
+        "main_text": "중국, 중희토류 분리·정제 시장 99% 독점"
+      },
+      "image_prompt": "cute pastel infographic illustration, world map with China highlighted, rare earth symbols, supply chain visualization, military industry element, no text",
+      "detail": {
+        "summary": "미국 국방산업이 핵심 부품인 자석 제조에 필요한 희토류의 중국 의존도가 심화되면서 '탈중국' 목표 달성에 어려움을 겪고 있다. 전 세계 희토류 공급의 90% 이상을 중국이 점유하며, 특히 중희토류 분리·정제 시장은 99% 독점 상태다.",
+        "points": [
+          "미국 희토류 자석 수요 4만 8천 톤, 생산 300톤",
+          "중국, 전 세계 희토류 공급 90% 이상 점유",
+          "중희토류 분리·정제 시장 중국이 99% 독점",
+          "미국, 2025년 4월까지 탈중국 목표 달성 압박"
+        ],
+        "quote": "중국은 전 세계 희토류 공급의 90% 이상을 틀어쥐고 있으며, 특히 고온 작동에 필수적인 디스프로슘(Dy), 테르븀(Tb) 등 중(重)희토류 분리·정제 시장의 약 99%를 사실상 독점하고 있다.",
+        "context": "희토류는 첨단 산업 및 방위 산업의 핵심 소재로, 특정 국가에 대한 공급망 의존은 안보 및 경제적 취약성을 야기한다. 미국은 공급망 다변화를 통해 중국의 영향력에서 벗어나고자 노력 중이다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026101918135838080c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20world%20map%20with%20China%20highlighted%2C%20rare%20earth%20symbols%2C%20supply%20chain%20visualization%2C%20military%20industry%20element%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37001&nologo=true"
+    },
+    {
+      "id": "economy-eu-china-ev-trade",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "EU, 中 하이브리드차 이어 부품까지 규제 강화",
+      "subtitle": "중국산 전기차 및 부품 의존도 낮추려는 EU의 움직임",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "35만 대",
+            "label": "하이브리드차"
+          },
+          {
+            "value": "70%",
+            "label": "부품 국산화율 목표"
+          }
+        ],
+        "main_number": "↓35만 대",
+        "main_text": "EU, 중국산 하이브리드차 수입량 제한"
+      },
+      "image_prompt": "cute pastel infographic illustration, EU and China flags with trade barrier icon, electric car components, supply chain visualization, no text",
+      "detail": {
+        "summary": "유럽연합(EU)이 중국산 하이브리드차 수입량을 35만 대로 제한한 데 이어, 이번에는 전기차 부품에 대한 규제까지 강화하고 있다. 이는 EU 내 산업 보호와 중국 의존도를 낮추기 위한 전략으로 풀이된다.",
+        "points": [
+          "EU, 중국산 하이브리드차 수입량 제한 조치",
+          "전기차 부품까지 규제 대상 확대",
+          "독일·프랑스, 부품 국산화율 70% 목표 제시",
+          "EU의 역내 산업 보호 및 중국 의존도 축소 전략"
+        ],
+        "quote": "독일·프랑스 등 주요 EU 회원국은 자국 전기차 산업 보호를 위해 부품 국산화율 70%를 목표로 중국산 부품 의존도를 줄이고 있다.",
+        "context": "글로벌 전기차 시장에서 중국의 영향력이 커지면서, EU는 자국 자동차 산업의 경쟁력을 보호하고 공급망 안정성을 확보하기 위해 강력한 무역 정책을 펼치고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004672929?sid=104"
+      },
+      "image_url": "data/images/2026-10-20/economy-eu-china-ev-trade.jpg"
+    },
+    {
+      "id": "economy-global-market-trends",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "유가 급등에 글로벌 금융시장 동반 변동",
+      "subtitle": "달러 강세, 국채금리 상승, 금·엔화 가치 하락세",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "급등",
+            "label": "WTI 유가"
+          },
+          {
+            "value": "상승",
+            "label": "달러인덱스"
+          },
+          {
+            "value": "상승",
+            "label": "美 국채금리"
+          }
+        ],
+        "main_number": "101.99",
+        "main_text": "미국 달러인덱스 0.15% 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration, various financial charts (oil barrel, dollar sign, gold bar, yen coin) showing up and down trends, global economy theme, no text",
+      "detail": {
+        "summary": "국제유가(WTI) 급등세 속에서 글로벌 금융시장이 동반 변동을 보였다. 달러인덱스는 상승하고 미국 국채금리도 올랐으며, 반대로 금값과 엔화 가치는 하락세를 기록했다.",
+        "points": [
+          "WTI 국제유가 급등 지속",
+          "미국 달러인덱스 0.15% 상승 (101.99)",
+          "미국 국채금리 동반 상승",
+          "금값 및 엔화 가치 하락"
+        ],
+        "quote": "국제유가가 높은 수준을 유지하면서 거시경제 불확실성이 남아있다.",
+        "context": "글로벌 유가 변동은 물가 상승 압력으로 작용하여 각국 중앙은행의 통화정책에 영향을 미치고, 이는 환율 및 금리 등 전반적인 금융시장의 흐름을 좌우한다.",
+        "source_url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172367"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20various%20financial%20charts%20%28oil%20barrel%2C%20dollar%20sign%2C%20gold%20bar%2C%20yen%20coin%29%20showing%20up%20and%20down%20trends%2C%20global%20economy%20theme%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63581&nologo=true"
+    },
+    {
+      "id": "economy-youtuber-income",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "유튜버 법인, 상위 10%가 전체 수입 76% 독점",
+      "subtitle": "1인 미디어 시장의 양극화 심화, 경제적 불균형 초래",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10%",
+            "label": "상위 유튜버"
+          },
+          {
+            "value": "76%",
+            "label": "수입 점유율"
+          },
+          {
+            "value": "2024개",
+            "label": "총 법인 수"
+          }
+        ],
+        "main_number": "↑76%",
+        "main_text": "상위 10% 법인이 전체 수입의 76% 차지"
+      },
+      "image_prompt": "cute pastel infographic illustration, pie chart showing income disparity among YouTubers, small and large money bags, social media icons, no text",
+      "detail": {
+        "summary": "국회 재정경제기획위원회 자료에 따르면, 2025년 기준 유튜버 등 1인 미디어 창작자 법인 중 상위 10%가 전체 신고 수입의 76%를 차지하며 소득 집중 현상이 심화되고 있는 것으로 나타났다.",
+        "points": [
+          "2025년 유튜버 법인 총 2,024개",
+          "상위 10% 법인이 신고 수입의 76% 차지",
+          "1인 미디어 시장 소득 양극화 심화",
+          "국세청 과세 자료 기반"
+        ],
+        "quote": "유튜버 법인 상위 10%가 신고 수입 76% 차지…집중 더 심화.",
+        "context": "콘텐츠 크리에이터 경제가 성장하면서 새로운 소득원이 창출되고 있지만, 동시에 성공한 소수에게 부가 집중되는 양극화 현상에 대한 우려도 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016387045?sid=101"
+      },
+      "image_url": "data/images/2026-10-20/economy-youtuber-income.jpg"
+    },
+    {
+      "id": "tech-iphone-sales",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "아이폰 신제품, 사전예약 30분 만에 '완판 행진'",
+      "subtitle": "미국 내 배송 예정일 2027년 1월로 밀리며 폭발적 인기 입증",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30분",
+            "label": "품절 시간"
+          },
+          {
+            "value": "2027년 1월",
+            "label": "미국 배송일"
+          },
+          {
+            "value": "역대급",
+            "label": "인기 수준"
+          }
+        ],
+        "main_number": "↓30분",
+        "main_text": "역대 아이폰 사전예약 중 가장 빠른 품절 기록"
+      },
+      "image_prompt": "cute pastel infographic illustration, new iPhone showing 'sold out' and calendar with '2027 Jan' highlighted, fast delivery trucks, no text",
+      "detail": {
+        "summary": "애플의 아이폰 신제품 '아이폰 듀오(가칭)'가 사전예약 개시 30분 만에 품절되며 미국 내 배송 예정일이 2027년 1월로 밀렸다. 이는 역대 아이폰 신제품 사전예약 중 가장 빠른 품절 기록이다.",
+        "points": [
+          "아이폰 신제품 '듀오' 출시",
+          "사전예약 30분 만에 품절",
+          "미국 내 배송 2027년 1월로 연기",
+          "역대급 판매 기록 경신"
+        ],
+        "quote": "미국 IT 전문지 맥월드는 '역대 아이폰 신제품 사전예약에서 배송 예정일이 개시 30분 만에 석 달 뒤인 2027년 1월로 밀린 것은 이례적'이라고 평가했다.",
+        "context": "스마트폰 시장의 침체에도 불구하고 아이폰 신제품은 여전히 강력한 브랜드 파워와 충성도 높은 고객층을 기반으로 높은 판매량을 기록하며 시장을 주도하고 있다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=92025"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20new%20iPhone%20showing%20%27sold%20out%27%20and%20calendar%20with%20%272027%20Jan%27%20highlighted%2C%20fast%20delivery%20trucks%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=98241&nologo=true"
+    },
+    {
+      "id": "tech-korea-poland-mou",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison_chart",
+      "title": "한국-폴란드, 반도체·AI 공동연구 협력 강화",
+      "subtitle": "한국공학대-실레시안 공대 MOU 체결, 기술 교류 활발",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2개교",
+            "label": "참여대학"
+          },
+          {
+            "value": "반도체, AX",
+            "label": "주요 연구분야"
+          }
+        ],
+        "main_number": "MOU",
+        "main_text": "한국과 폴란드 명문 공대 간 협력 증진"
+      },
+      "image_prompt": "cute pastel infographic illustration, Korean and Polish flags shaking hands, semiconductor chips and AI brains connected, research lab theme, no text",
+      "detail": {
+        "summary": "한국공학대학교가 폴란드 명문 실레시안 공과대학교와 반도체 및 AX(Artificial intelligence-eXperience) 분야 공동연구를 위한 업무협약(MOU)을 체결했다. ESG 산학 연계 프로젝트 및 기술검증센터 운영 성과도 공유했다.",
+        "points": [
+          "한국공학대-실레시안 공대 MOU 체결",
+          "반도체, AX 분야 공동연구 추진",
+          "ESG 산학 연계 프로젝트 및 기술검증센터 성과 공유",
+          "산업단지 밀착형 협력 노하우 전달"
+        ],
+        "quote": "양교는 이번 협약을 기점으로 실질적인 협력 관계를 구축하고 미래 기술 발전에 기여할 예정이다.",
+        "context": "글로벌 기술 경쟁 시대에 국가 간 협력을 통한 연구 개발은 핵심 산업의 경쟁력을 강화하고 인재 양성에 기여하는 중요한 요소로 평가된다.",
+        "source_url": "https://www.cstimes.com/news/articleView.html?idxno=724497"
+      },
+      "image_url": "data/images/2026-10-20/tech-korea-poland-mou.jpg"
+    },
+    {
+      "id": "society-us-election-ai-ads",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "美 중간선거, AI 생성 정치 광고 1,800억 투입",
+      "subtitle": "민주당, 공화당 네거티브전에 AI 적극 활용하며 선거판 혼탁 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "220건",
+            "label": "AI 광고 수"
+          },
+          {
+            "value": "1,820억 원",
+            "label": "총 지출액"
+          },
+          {
+            "value": "네거티브전",
+            "label": "주요 사용처"
+          }
+        ],
+        "main_number": "↑220건",
+        "main_text": "최소 220건의 AI 생성 정치 광고 유포"
+      },
+      "image_prompt": "cute pastel infographic illustration, US election ballot box with AI robot hands, 'AI AD' labels, money flowing, negative campaign theme, no text",
+      "detail": {
+        "summary": "미국 중간선거에서 최소 220건의 AI 생성 정치 광고가 유포되었으며, 여기에 1억3천700만 달러(약 1천820억원)가 집행되었다. 주로 네거티브 캠페인에 활용되어 선거의 공정성에 대한 우려를 낳고 있다.",
+        "points": [
+          "미 중간선거에서 AI 생성 정치 광고 급증",
+          "최소 220건 광고 유포 확인",
+          "총 1억 3천 7백만 달러(약 1,820억 원) 지출",
+          "주로 상대 후보 비방 목적의 네거티브전에 활용"
+        ],
+        "quote": "AI 생성 광고는 선거 캠페인의 효율성을 높일 수 있지만, 정보 조작 및 허위 정보 확산 위험도 상존한다.",
+        "context": "인공지능 기술이 정치 분야에 깊숙이 침투하면서, 선거 캠페인 방식과 정보 전달 방식에 큰 변화를 가져오고 있다. 이에 따른 규제와 윤리적 기준 마련의 중요성이 부각되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012276725?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20US%20election%20ballot%20box%20with%20AI%20robot%20hands%2C%20%27AI%20AD%27%20labels%2C%20money%20flowing%2C%20negative%20campaign%20theme%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=72004&nologo=true"
+    },
+    {
+      "id": "society-abortion-pill-access",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison_chart",
+      "title": "임신중지약, 한국은 '병원' 해외는 '약국'",
+      "subtitle": "비급여 방식과 병원 내 제한으로 환자 접근성 및 경제적 부담 가중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "병원 내",
+            "label": "한국 접근"
+          },
+          {
+            "value": "약국 판매",
+            "label": "해외 추세"
+          }
+        ],
+        "main_number": "↔ 해외",
+        "main_text": "임신중지 의약품 접근성 국내외 차이"
+      },
+      "image_prompt": "cute pastel infographic illustration, a comparison of hospital vs pharmacy for medication access, different country flags, policy debate, no text",
+      "detail": {
+        "summary": "해외 여러 국가에서는 임신중지 의약품을 약국에서 처방받아 복용할 수 있도록 하고 있지만, 한국은 병원 내에서만 취급하고 비급여 방식으로 인해 환자의 경제적 부담이 크다는 지적이 제기되었다.",
+        "points": [
+          "건강사회를 위한 약사회(건약) 보고서 발표",
+          "해외 국가(캐나다, 호주 등) 약국 판매 사례 소개",
+          "한국, 병원 내 제한 및 비급여 방식으로 접근성 낮음",
+          "환자의 경제적 부담 및 정보 접근성 문제"
+        ],
+        "quote": "특히 비급여 방식에서는 환자의 경제적 부담을 제도적으로 통제하기 어렵다는 지적이 가능하다.",
+        "context": "임신중지 의약품의 접근성은 여성의 건강권과 밀접하게 연관되어 있으며, 여러 국가에서 약물 접근성을 높이는 방향으로 정책을 전환하고 있다. 한국도 관련 정책 개선의 필요성이 제기되고 있다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546746"
+      },
+      "image_url": "data/images/2026-10-20/society-abortion-pill-access.jpg"
+    },
+    {
+      "id": "society-drug-prevention",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "organization_chart",
+      "title": "약사회, '대한마약퇴치운동본부' 설립 추진",
+      "subtitle": "예방·교육 중심의 마약류 중독 방지 활동 강화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "예방/교육",
+            "label": "주요 기능"
+          },
+          {
+            "value": "대한약사회",
+            "label": "설립 주체"
+          }
+        ],
+        "main_number": "New Org",
+        "main_text": "약사회 회장 직속 산하기구 신설"
+      },
+      "image_prompt": "cute pastel infographic illustration, syringe with 'stop' sign, educational symbols (books, megaphone), pharmacists working together, community outreach, no text",
+      "detail": {
+        "summary": "대한약사회가 마약류 중독 예방 및 교육 분야에서 약사들의 역할을 강화하기 위해 회장 직속 산하기구인 '대한마약퇴치운동본부' 설립을 추진한다. 이는 기존 재활 중심의 마약퇴치 운동과 별도로 예방에 초점을 맞출 예정이다.",
+        "points": [
+          "대한약사회 주도",
+          "회장 직속 산하기구로 '대한마약퇴치운동본부' 설립",
+          "마약류 중독 예방 및 교육 활동 강화",
+          "기존 재활 중심과 차별화된 예방 활동 집중"
+        ],
+        "quote": "마약류 예방·교육 분야에서 약사들의 역할을 보다 명확하게 하기 위해 약사회 산하 '대한마약퇴치운동본부' 설립을 추진한다.",
+        "context": "최근 마약류 오남용 문제가 사회적 문제로 대두되면서, 마약 중독의 심각성을 알리고 예방 교육을 강화하는 것이 중요해졌다. 약사들의 전문성을 활용한 예방 활동이 기대된다.",
+        "source_url": "https://www.medipana.com/news/articleView.html?idxno=419636"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20syringe%20with%20%27stop%27%20sign%2C%20educational%20symbols%20%28books%2C%20megaphone%29%2C%20pharmacists%20working%20together%2C%20community%20outreach%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23484&nologo=true"
+    },
+    {
+      "id": "life-k-hair-global",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "world_map",
+      "title": "K-헤어, 아시아 넘어 美 시장 공략 가속화",
+      "subtitle": "K-뷰티 관심과 두피 관리 트렌드에 힘입어 서비스 다각화로 승부",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "아시아, 美",
+            "label": "주요 시장"
+          },
+          {
+            "value": "두피 관리",
+            "label": "트렌드"
+          }
+        ],
+        "main_number": "↑K-Beauty",
+        "main_text": "K-문화 확산과 함께 K-헤어 시장 성장"
+      },
+      "image_prompt": "cute pastel infographic illustration, world map with K-Hair salon icon, diverse hairstyles, beauty trends, no text",
+      "detail": {
+        "summary": "K-문화 확산으로 K-뷰티에 대한 관심이 높아지면서, K-헤어 산업이 아시아를 넘어 미국 시장으로 진출을 가속화하고 있다. 현지 고객의 라이프스타일과 특성에 맞는 서비스 다각화로 경쟁력을 확보하고 있다.",
+        "points": [
+          "K-문화 확산에 따른 K-헤어 관심 증대",
+          "아시아를 넘어 미국 시장 공략 목표",
+          "현지 고객 라이프스타일 및 모발 특성 반영",
+          "두피 관리 등 서비스 다각화 전략"
+        ],
+        "quote": "K문화에서 촉발된 K뷰티에 대한 관심이 기초·색조 화장품을 넘어 헤어·두피 건강 분야로 확장되고 있다.",
+        "context": "한류 열풍은 한국의 문화 콘텐츠뿐만 아니라 뷰티, 패션 등 라이프스타일 전반에 대한 글로벌 수요를 견인하고 있다. K-헤어는 이러한 흐름 속에서 새로운 성장 동력을 찾고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006391847?sid=101"
+      },
+      "image_url": "data/images/2026-10-20/life-k-hair-global.jpg"
+    },
+    {
+      "id": "life-legoland-success",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "레고랜드, 수도권 가족의 '맘심' 사로잡은 비결",
+      "subtitle": "놀이기구 규모보다 체험 콘텐츠와 운영 노하우가 성공 요인",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "가족 단위",
+            "label": "주요 고객"
+          },
+          {
+            "value": "체험 콘텐츠",
+            "label": "핵심 요소"
+          },
+          {
+            "value": "3곳",
+            "label": "국내 운영"
+          }
+        ],
+        "main_number": "↑ Attraction",
+        "main_text": "멀린 코리아, 국내 3곳의 어트랙션 운영"
+      },
+      "image_prompt": "cute pastel infographic illustration, Legoland bricks, happy family silhouette, theme park map, attractions, no text",
+      "detail": {
+        "summary": "레고랜드 코리아 리조트가 놀이기구 규모보다는 체험 콘텐츠와 운영 노하우를 통해 수도권 가족 단위 고객들의 마음을 사로잡았다. 멀린 코리아는 레고랜드를 비롯해 씨라이프 코엑스, 부산 아쿠아리움 등 국내 3곳의 어트랙션을 운영 중이다.",
+        "points": [
+          "레고랜드 코리아, 수도권 가족 대상 인기",
+          "놀이기구 규모보다 체험 콘텐츠 중요성 강조",
+          "멀린 코리아, 국내 3곳 어트랙션 통합 운영",
+          "야외 테마파크와 실내 수족관 운영 노하우"
+        ],
+        "quote": "놀이기구 규모보다 콘텐츠와 운영 노하우로 승부했다.",
+        "context": "엔데믹 이후 가족 단위의 여가 활동이 증가하면서 테마파크 시장의 경쟁이 심화되고 있다. 차별화된 콘텐츠와 고객 맞춤형 서비스 전략이 시장에서 성공하는 중요한 요소로 작용하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/468/0001273714?sid=103"
+      },
+      "image_url": "data/images/2026-10-20/life-legoland-success.jpg"
+    },
+    {
+      "id": "life-kitchen-hygiene",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "변기보다 더러운 '주방 수세미', 세균 540억 마리",
+      "subtitle": "식중독 예방을 위한 주기적 교체 및 통풍 건조 필수",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "540억 마리",
+            "label": "세균 수 (1㎤당)"
+          },
+          {
+            "value": "2~3주",
+            "label": "권장 교체 주기"
+          },
+          {
+            "value": "필수",
+            "label": "통풍 건조"
+          }
+        ],
+        "main_number": "↑540억",
+        "main_text": "주방 수세미 1㎤당 최대 540억 마리 세균"
+      },
+      "image_prompt": "cute pastel infographic illustration, dirty kitchen sponge with bacteria symbols, clean sponge icon, toilet vs sink, hygiene tips, no text",
+      "detail": {
+        "summary": "주방 수세미가 1㎤당 최대 540억 마리의 세균을 품고 있어 변기보다 더러울 수 있다는 경고가 나왔다. 식중독 및 감염 예방을 위해 살균보다 2~3주마다 주기적으로 교체하고 통풍 건조하는 것이 필수적이다.",
+        "points": [
+          "주방 수세미 1㎤당 세균 최대 540억 마리 발견",
+          "대변 샘플과 유사한 밀도",
+          "내성균 증식 위험, 살균보다 교체 중요",
+          "2~3주마다 주기적 교체 및 통풍 건조 권장"
+        ],
+        "quote": "‘삶고 돌려도’ 내성균만 증식… 살균보다 ‘주기적 교체’가 답.",
+        "context": "일상생활 속 청결은 건강 유지에 매우 중요하며, 특히 주방 위생은 식중독과 같은 질병 예방에 직결된다. 평소 간과하기 쉬운 주방용품의 위생 관리에 대한 경각심을 일깨우는 내용이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004168005?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20dirty%20kitchen%20sponge%20with%20bacteria%20symbols%2C%20clean%20sponge%20icon%2C%20toilet%20vs%20sink%2C%20hygiene%20tips%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99787&nologo=true"
+    }
+  ],
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T06:11:30.931238+09:00"
+}
