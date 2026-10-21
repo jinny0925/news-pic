@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-019",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "푸틴-트럼프-시진핑, 다음달 3자회담 추진",
+      "subtitle": "글로벌 정세, 새로운 전환점 맞나",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3명",
+            "label": "정상"
+          },
+          {
+            "value": "APEC",
+            "label": "회의"
+          },
+          {
+            "value": "1곳",
+            "label": "개최지"
+          }
+        ],
+        "main_number": "APEC",
+        "main_text": "아시아태평양경제협력체(APEC) 정상회의 기간 논의"
+      },
+      "image_prompt": "cute pastel infographic illustration of three world leaders (Putin, Trump, Xi Jinping) meeting, with a globe in the background, no text",
+      "detail": {
+        "summary": "러시아 크렘린궁이 다음 달 중국에서 열리는 APEC 정상회의 기간에 미국, 중국 정상과 3자회담을 준비 중이라고 밝히며 우크라이나 사태 이후 새로운 국제관계 구도 형성 가능성에 주목.",
+        "points": [
+          "러시아, 美·中 정상과의 APEC 회담 추진 공식 발표",
+          "우크라이나 분쟁 해결 및 경제 관계 발전 논의 기대",
+          "트럼프 전 대통령 발언으로 러시아 제재 유예 가능성 언급",
+          "바이든 정부와 차별화된 새로운 외교 노선 가능성 제기"
+        ],
+        "quote": "우크라이나 분쟁이 끝난 뒤 양국의 경제 관계가 발전할 수 있을 것.",
+        "context": "미국, 중국, 러시아 세 주요 강대국 정상이 한자리에 모여 국제 주요 현안을 논의하는 것은 글로벌 정치 및 경제 지형에 막대한 영향을 미칠 수 있는 중대한 사건이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002712637?sid=104"
+      },
+      "image_url": "data/images/2026-10-22/world-019.jpg"
+    },
+    {
+      "id": "world-081",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "한국 경제 규모, 세계 12위 유지",
+      "subtitle": "구매력 기준 13위, 글로벌 위상 확인",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "12위",
+            "label": "명목 GDP"
+          },
+          {
+            "value": "13위",
+            "label": "PPP"
+          },
+          {
+            "value": "1위",
+            "label": "美 명목 GDP"
+          }
+        ],
+        "main_number": "#12",
+        "main_text": "한국, 명목 GDP 기준 세계 경제 규모 12위"
+      },
+      "image_prompt": "cute pastel infographic illustration of a world map with numbers indicating economic rankings, a chart with bars, no text",
+      "detail": {
+        "summary": "한국의 올해 경제 규모가 명목 국내총생산(GDP) 기준 세계 12위, 구매력평가(PPP) 기준으로는 13위를 기록할 것으로 전망되어 글로벌 경제에서의 위상을 재확인했다.",
+        "points": [
+          "한국 명목 GDP 기준 세계 12위 전망",
+          "구매력평가(PPP) 기준 세계 13위 전망",
+          "미국은 명목 GDP 세계 1위, 중국은 PPP 기준 1위",
+          "국가별 물가 차이 반영 시 순위 변동"
+        ],
+        "quote": "미국은 명목 GDP에서 세계 1위를 유지하지만 국가별 물가 차이를 반영하면 중국이 세계 1위에 오를 것으로 예상됩니다.",
+        "context": "세계 경제 순위는 한 국가의 경제력과 국제 사회에서의 영향력을 보여주는 중요한 지표로, 한국의 위치를 파악하고 미래 성장 전략을 수립하는 데 기초가 된다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102122222960179a1f309431_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20world%20map%20with%20numbers%20indicating%20economic%20rankings%2C%20a%20chart%20with%20bars%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56393&nologo=true"
+    },
+    {
+      "id": "world-089",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "ranking",
+      "title": "서울, 세계 AI 도시 경쟁력 3위 달성",
+      "subtitle": "AI 도입·활용 분야 세계 1위 쾌거",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3위",
+            "label": "종합 순위"
+          },
+          {
+            "value": "1위",
+            "label": "도입·활용"
+          },
+          {
+            "value": "100+",
+            "label": "평가 도시"
+          }
+        ],
+        "main_number": "TOP 3",
+        "main_text": "서울, 영국 옵서버 'AI 도시지수' 종합 3위"
+      },
+      "image_prompt": "cute pastel infographic illustration of a city skyline with AI elements like robots and circuits, showing a medal or ranking, no text",
+      "detail": {
+        "summary": "서울이 세계 인공지능(AI) 도시 경쟁력 평가에서 종합 3위에 올랐으며, 특히 기업과 정부, 교육기관, 지역사회에서 AI를 활용하는 역량을 평가하는 'AI 도입·활용' 분야에서는 세계 1위를 기록했다.",
+        "points": [
+          "서울, AI 도시지수 종합 3위 (샌프란시스코, 뉴욕 다음)",
+          "AI 도입·활용 분야에서는 세계 1위 차지",
+          "AI 활용 인프라, 제도, 전문인력 등 기반 역량 높이 평가",
+          "영국 옵서버(Observer)가 발표한 평가 결과"
+        ],
+        "quote": "서울은 특히 기업과 정부, 교육기관, 지역사회에서 AI를 활용하는 역량을 평가하는 'AI 도입·활용' 분야에서 1위에 올랐다.",
+        "context": "글로벌 AI 경쟁이 심화되는 가운데, 서울이 AI 기술의 실제 도입 및 활용 측면에서 세계 최고 수준임을 입증하며 미래 도시 경쟁력을 강화하고 있음을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/629/0000544321?sid=102"
+      },
+      "image_url": "data/images/2026-10-22/world-089.jpg"
+    },
+    {
+      "id": "economy-022",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "임금근로자 10명 중 9명 비정규직",
+      "subtitle": "비정규직 사상 최고치 867만명, 임금격차 역대 최대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "867만명",
+            "label": "비정규직"
+          },
+          {
+            "value": "10명 중 9명",
+            "label": "비정규직 비율"
+          },
+          {
+            "value": "60세 이상",
+            "label": "집중"
+          }
+        ],
+        "main_number": "↑867만",
+        "main_text": "비정규직 임금근로자 사상 최고치 기록"
+      },
+      "image_prompt": "cute pastel infographic illustration of people working, showing a disparity between regular and non-regular workers with percentages, no text",
+      "detail": {
+        "summary": "지난 8월 임금근로자 중 비정규직이 867만명으로 사상 최고치를 기록했으며, 월평균 임금격차 또한 역대 최대로 벌어져 취업난 속 고용시장 양극화가 심화되고 있다.",
+        "points": [
+          "지난 8월 비정규직 임금근로자 867만명 (역대 최고)",
+          "월평균 임금격차도 역대 최대 수준",
+          "비정규직 증가는 60세 이상 고령층과 보건·사회복지업에 집중",
+          "기업들의 정규직 채용 부담 증가 요인으로 지목"
+        ],
+        "quote": "“월급 200씩 더 드는데 정규직 뽑겠나”",
+        "context": "고용시장 내 비정규직의 증가는 안정적인 일자리 감소와 임금 불균형 심화로 이어져 사회 경제적 불평등을 확대시킬 수 있는 중요한 문제로 분석된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005752146?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20people%20working%2C%20showing%20a%20disparity%20between%20regular%20and%20non-regular%20workers%20with%20percentages%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81340&nologo=true"
+    },
+    {
+      "id": "economy-024",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "서울 초소형 아파트값 16% 상승",
+      "subtitle": "좁아진 내집 마련 선택지, 소형 평수 선호도↑",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+16%",
+            "label": "상승률"
+          },
+          {
+            "value": "전용 40㎡ 이하",
+            "label": "면적"
+          },
+          {
+            "value": "1~9월",
+            "label": "기간"
+          }
+        ],
+        "main_number": "+16%",
+        "main_text": "서울 전용 40㎡ 이하 아파트 매매가 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration of a small apartment building with upward arrows, showing price increase, no text",
+      "detail": {
+        "summary": "올해 1월부터 9월까지 서울 전용 40㎡ 이하 초소형 아파트값이 평균 16% 상승하며, 높은 부동산 가격으로 인해 내집 마련을 위한 선택지가 좁아지고 소형 평수에 대한 수요가 집중되고 있다.",
+        "points": [
+          "2026년 1~9월 서울 초소형 아파트값 16% 상승",
+          "전용 40㎡ 이하 아파트 대상",
+          "높은 집값과 금리 부담으로 소형 평수 선호 심화",
+          "내집 마련을 위한 진입 장벽 여전히 높아"
+        ],
+        "quote": "좁아진 내집 마련 선택지…서울 초소형 아파트값 16% 뛰었다.",
+        "context": "부동산 시장에서 소형 아파트의 가격 상승은 청년층이나 1인 가구의 주거 부담을 가중시키며, 주거 안정성 문제를 심화시킬 수 있는 주요 경제 지표로 간주된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004673825?sid=101"
+      },
+      "image_url": "data/images/2026-10-22/economy-024.jpg"
+    },
+    {
+      "id": "economy-031",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "gauge_chart",
+      "title": "중동 정세 악화 시 경제 성장률 및 물가 영향",
+      "subtitle": "내년 성장률 0.16%p ↓, 물가 0.32%p ↑",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "-0.16%p",
+            "label": "성장률"
+          },
+          {
+            "value": "+0.32%p",
+            "label": "물가"
+          },
+          {
+            "value": "2027년",
+            "label": "전망"
+          }
+        ],
+        "main_number": "↓0.16%p",
+        "main_text": "국회예산정책처, 중동 악화시 내년 성장률 하락 전망"
+      },
+      "image_prompt": "cute pastel infographic illustration of a graph showing downward arrow for growth and upward arrow for inflation, with oil barrels, no text",
+      "detail": {
+        "summary": "국회예산정책처는 중동 정세 악화로 원유 공급망에 차질이 생길 경우, 한국 경제의 내년 성장률이 0.16%p 깎이고 물가는 0.32%p 오를 것이라는 분석을 내놓으며 경제 불확실성을 경고했다.",
+        "points": [
+          "중동 정세 악화 시 2027년 한국 경제 성장률 0.16%p 하락",
+          "동일 조건에서 소비자 물가는 0.32%p 상승 전망",
+          "원유 공급망 차질이 주요 원인",
+          "국회예산정책처 '2027년 NABO 경제전망' 보고서 발표"
+        ],
+        "quote": "한국 경제 성장세가 둔화하고 물가 상승 압력이 커질 수 있다는 국회예산정책처의 경고가 나왔다.",
+        "context": "중동 지역의 불안정성은 국제 유가 변동을 야기하며, 이는 원유 수입 의존도가 높은 한국 경제에 직접적인 타격을 줄 수 있어 면밀한 대비가 요구된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016392750?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20graph%20showing%20downward%20arrow%20for%20growth%20and%20upward%20arrow%20for%20inflation%2C%20with%20oil%20barrels%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22449&nologo=true"
+    },
+    {
+      "id": "tech-041",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison",
+      "title": "AI 데이터센터, 이젠 ‘추론 효율’로 평가",
+      "subtitle": "PUE 넘어 새로운 표준으로 AI 성능 측정",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "추론 효율",
+            "label": "새 표준"
+          },
+          {
+            "value": "PUE",
+            "label": "기존 표준"
+          },
+          {
+            "value": "SC 39",
+            "label": "분과위"
+          }
+        ],
+        "main_number": "새 표준",
+        "main_text": "AI 데이터센터의 실제 AI 성능에 초점 맞춘 평가"
+      },
+      "image_prompt": "cute pastel infographic illustration of an AI data center with servers and energy efficiency indicators, showing old vs new metrics, no text",
+      "detail": {
+        "summary": "AI 데이터센터의 효율성을 평가하는 기준이 기존 전력 효율(PUE)에서 AI 장비가 얼마나 쓸모 있는 추론 작업을 하는지에 초점 맞춘 '추론 효율'로 변화하고 있으며, 관련 표준화 논의가 활발하다.",
+        "points": [
+          "AI 데이터센터 효율성 평가 기준 '추론 효율'로 전환",
+          "기존 PUE(전력효율)는 AI 성능 측정에 한계",
+          "ISO/IEC JTC 1/SC 39에서 IT 및 데이터센터 지속가능성 논의",
+          "AI 반도체 및 하드웨어 성능과 직결되는 핵심 지표"
+        ],
+        "quote": "PUE는 데이터센터 전체 전력과 IT 장비 전력의 비율로 시설 효율을 보여주지만, 그 전력으로 쓸모 있는 추론을 얼마나 하는지는 보여주지 못한다.",
+        "context": "AI 기술이 발전함에 따라 AI 데이터센터의 단순한 전력 소비를 넘어 실제 AI 연산 능력과 효율성을 객관적으로 평가할 수 있는 새로운 표준의 필요성이 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002245537?sid=105"
+      },
+      "image_url": "data/images/2026-10-22/tech-041.jpg"
+    },
+    {
+      "id": "tech-043",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "OpenAI, 프롬프트 캐시 쓰기 가격 2.5배 인상",
+      "subtitle": "12시간 최소 보관 기준, 비용 효율 전략 필요",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2.5배",
+            "label": "인상률"
+          },
+          {
+            "value": "12시간",
+            "label": "최소 보관"
+          },
+          {
+            "value": "30분",
+            "label": "단기 옵션"
+          }
+        ],
+        "main_number": "↑2.5X",
+        "main_text": "OpenAI의 프롬프트 캐시 쓰기 비용 인상"
+      },
+      "image_prompt": "cute pastel infographic illustration of a cash register or price tag with AI logos, showing increased cost, no text",
+      "detail": {
+        "summary": "OpenAI가 프롬프트 캐시 쓰기 가격을 기본 요율의 2.5배로 책정했으며, 12시간 최소 보관 기준을 제시해 AI 애플리케이션 개발자들이 비용 효율성을 고려한 캐시 재사용 전략을 세워야 할 필요성이 커졌다.",
+        "points": [
+          "OpenAI, 프롬프트 캐시 쓰기 가격 기본 요율의 2.5배",
+          "캐시 최소 보관 시간 12시간 설정",
+          "자주 변경되는 데이터는 30분 보관 옵션 제공",
+          "애플리케이션 비용 절감을 위한 캐시 재사용 빈도 중요"
+        ],
+        "quote": "Whether either choice lowers an application's costs depends on how often it reuses the cache.",
+        "context": "AI 서비스 활용에 있어 비용 효율성은 중요한 고려사항으로, OpenAI의 가격 정책 변화는 개발자들이 AI 모델 활용 방식을 최적화하고 비용 관리 전략을 재고하도록 만들 것이다.",
+        "source_url": "https://econotimes.com/OpenAI-Prices-12-Hour-Minimum-Prompt-Cache-Writes-at-2-5-Times-Base-Rate-1759449"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20cash%20register%20or%20price%20tag%20with%20AI%20logos%2C%20showing%20increased%20cost%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82483&nologo=true"
+    },
+    {
+      "id": "tech-044",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "AI 업무 활용, 노사협상 의제로 떠올라",
+      "subtitle": "“혼자 AI 쓰면 배신”, 평가 불이익 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "IT 업계",
+            "label": "주요 논의"
+          },
+          {
+            "value": "노조",
+            "label": "촉구 주체"
+          },
+          {
+            "value": "AI 활용",
+            "label": "핵심 의제"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "AI 업무 활용이 노사관계 주요 쟁점으로 부상"
+      },
+      "image_prompt": "cute pastel infographic illustration of human workers and robots collaborating or in discussion, with speech bubbles, no text",
+      "detail": {
+        "summary": "AI 활용이 활발한 정보기술(IT) 업계에서 AI 업무 활용이 노사협상의 새로운 의제로 떠올랐으며, 노조는 AI로 인한 직원 평가 불이익 등을 우려하며 관련 합의를 촉구하고 있다.",
+        "points": [
+          "IT 업계, AI 업무 활용 관련 노사협상 촉구",
+          "노조, AI 활용 시 직원 평가 불이익 우려 제기",
+          "일부 기업은 이미 AI 관련 합의 도출",
+          "AI 시대 일자리 변화와 노동권 보호 문제 부각"
+        ],
+        "quote": "“김과장, 혼자 AI로 업무하면 배신이야”",
+        "context": "AI 기술의 급속한 발전은 업무 환경과 고용 구조에 큰 변화를 가져오고 있으며, 노동자의 권리를 보호하고 AI 기술을 공정하게 활용하기 위한 사회적 합의와 제도 마련이 시급하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005752148?sid=105"
+      },
+      "image_url": "data/images/2026-10-22/tech-044.jpg"
+    },
+    {
+      "id": "society-000",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "'타다' 잔혹사, 혁신 가로막는 규제 논란",
+      "subtitle": "15년째 국회 문턱 못 넘는 의료 민영화 우려 법안",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "15년",
+            "label": "법안 계류"
+          },
+          {
+            "value": "2011년",
+            "label": "논란 시작"
+          },
+          {
+            "value": "의료민영화",
+            "label": "주요 우려"
+          }
+        ],
+        "main_number": "15년",
+        "main_text": "혁신 서비스 법안, 장기간 국회 문턱 넘지 못해"
+      },
+      "image_prompt": "cute pastel infographic illustration of a stalled vehicle with political figures debating in the background, showing regulatory hurdles, no text",
+      "detail": {
+        "summary": "혁신적인 모빌리티 서비스 '타다'의 좌초를 통해 본 규제 논란이 여전히 계속되고 있으며, 의료 민영화 우려를 제기한 의료계와 정치권의 반발에 막혀 15년째 국회 문턱을 넘지 못하는 법안 문제가 재조명되고 있다.",
+        "points": [
+          "혁신 서비스 '타다'의 실패 사례 재조명",
+          "의료 민영화 우려 법안, 15년째 국회 계류 중",
+          "경제수장 및 경제단체 입법 촉구에도 무산 반복",
+          "새로운 서비스와 기존 규제 간의 충돌 문제 지속"
+        ],
+        "quote": "‘타다’ 잔혹사, 언제까지 되풀이할 건가",
+        "context": "혁신적인 서비스가 기존 산업과 충돌하거나 사회적 우려에 직면했을 때, 정부와 정치권이 유연하고 합리적인 규제 환경을 마련하는 것이 미래 성장 동력 확보에 필수적이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004673827?sid=110"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stalled%20vehicle%20with%20political%20figures%20debating%20in%20the%20background%2C%20showing%20regulatory%20hurdles%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37752&nologo=true"
+    },
+    {
+      "id": "society-004",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison",
+      "title": "민감한 사건까지 금융상품화? 예측시장 윤리 논란",
+      "subtitle": "코넬대 집단성폭행 기소 여부에 6억 베팅, 규제 시급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "6억원",
+            "label": "베팅 금액"
+          },
+          {
+            "value": "코넬대 사건",
+            "label": "주요 사례"
+          },
+          {
+            "value": "예측시장",
+            "label": "플랫폼"
+          }
+        ],
+        "main_number": "6억원",
+        "main_text": "형사 재판 결과에 대한 예측시장 베팅 논란"
+      },
+      "image_prompt": "cute pastel infographic illustration of scales of justice with money bags on one side, representing ethical dilemmas, no text",
+      "detail": {
+        "summary": "예측시장 플랫폼이 대중화되면서 코넬대 집단성폭행 사건의 기소 여부에 6억 원이 걸리는 등 민감한 형사 재판과 비극적 사건까지 금융 상품화하는 현상이 발생, 윤리적 가이드라인과 규제 마련이 시급하다는 지적이 나온다.",
+        "points": [
+          "예측시장 플랫폼, 민감한 사건 금융상품화 논란",
+          "코넬대 집단성폭행 기소 여부에 6억 원 베팅 사례",
+          "정치·사회적 이슈 넘어 형사 재판까지 대상 확대",
+          "윤리적 가이드라인 마련 및 규제당국 제재 시급"
+        ],
+        "quote": "예측시장 플랫폼이 대중화되면서 정치·사회적 이슈를 넘어 민감한 형사 재판과 비극적 사건까지 금융 상품화하는 현상을 두고 윤리적 가이드라인 마련과 규제당국의 제재가 시급하다는 지적이 나온다.",
+        "context": "민감한 사회적 사건들이 돈벌이 수단으로 변질되는 현상은 윤리적 문제를 야기하고 사회적 공분을 살 수 있어, 새로운 디지털 금융 플랫폼에 대한 책임 있는 규제와 윤리 기준 확립이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005429884?sid=104"
+      },
+      "image_url": "data/images/2026-10-22/society-004.jpg"
+    },
+    {
+      "id": "society-067",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "돌봄로봇, 신체보조 기술 고도화",
+      "subtitle": "복지·돌봄 AI 로드맵 발표, 현장 실증 및 보급 과제",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 로봇",
+            "label": "핵심 기술"
+          },
+          {
+            "value": "낙상 감지",
+            "label": "주요 기능"
+          },
+          {
+            "value": "2026년",
+            "label": "로드맵 발표"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "정부, 복지·돌봄 AI 대전환 로드맵 발표"
+      },
+      "image_prompt": "cute pastel infographic illustration of an elderly person interacting with a friendly robot, showing technological assistance, no text",
+      "detail": {
+        "summary": "정부가 '복지·돌봄 AI 대전환 로드맵'을 통해 돌봄로봇 및 신체보조 기술 고도화를 추진하고 있으나, 현장 실증과 보급 확산이 중요한 과제로 남아있다.",
+        "points": [
+          "정부 '복지·돌봄 AI 대전환 로드맵' 발표",
+          "AI 기반 안전·건강 모니터링 및 낙상 방지 기술 개발 추진",
+          "현장 실증과 보급 확산을 위한 정책 연계 강조",
+          "고령화 사회에 대응하는 돌봄 기술 발전 기대"
+        ],
+        "quote": "은성호 보건복지부 인구·사회서비스정책실장은 지난 6일 정부가 발표한 '복지·돌봄 AI 대전환 로드맵'을 토대로 기술개발과 현장 실증을 연계하는 정책 방향을 소개했다.",
+        "context": "초고령화 사회로 진입하면서 돌봄 인력 부족 문제가 심화되고 있는 가운데, AI 기반 돌봄로봇은 노인과 장애인의 삶의 질을 향상시키는 핵심 대안이 될 수 있다.",
+        "source_url": "https://www.medipana.com/news/articleView.html?idxno=419799"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20an%20elderly%20person%20interacting%20with%20a%20friendly%20robot%2C%20showing%20technological%20assistance%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4297&nologo=true"
+    },
+    {
+      "id": "life-117",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map",
+      "title": "롯데百, 15년 만에 서울 영토 확장",
+      "subtitle": "'롯데몰 벨리타운 청량리' 23일 오픈, 라이프스타일 거점 목표",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "15년",
+            "label": "확장 공백"
+          },
+          {
+            "value": "롯데몰 벨리타운",
+            "label": "신규 점포"
+          },
+          {
+            "value": "청량리",
+            "label": "오픈 지역"
+          }
+        ],
+        "main_number": "15년만",
+        "main_text": "롯데백화점, 서울 청량리에 새 거점 오픈"
+      },
+      "image_prompt": "cute pastel infographic illustration of a shopping mall with people enjoying various lifestyle activities, a map indicating a new location, no text",
+      "detail": {
+        "summary": "롯데백화점이 15년 만에 서울 영토를 확장하며 23일 '롯데몰 벨리타운 청량리'를 오픈한다. 청량리역과 연결되는 지하 1층에는 미니소, 니토리 등 라이프스타일 브랜드를 입점시켜 새로운 쇼핑 경험을 제공할 예정이다.",
+        "points": [
+          "롯데백화점, 15년 만에 서울 내 신규 점포 오픈",
+          "23일 '롯데몰 벨리타운 청량리' 개점",
+          "청량리역과 연결, 라이프스타일 전문 브랜드 대거 입점",
+          "벨리곰 상품 판매 숍인숍 매장 등 차별화된 콘텐츠 제공"
+        ],
+        "quote": "변화하는 라이프스타일에 맞춰 고객에게 새로운 경험을 제공할 것입니다.",
+        "context": "대형 유통업체들이 소비자의 변화하는 라이프스타일에 맞춰 쇼핑과 문화, 여가를 한 번에 즐길 수 있는 복합문화공간으로 진화하며 오프라인 유통의 경쟁력을 강화하고 있다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2638582"
+      },
+      "image_url": "data/images/2026-10-22/life-117.jpg"
+    },
+    {
+      "id": "life-129",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "word_cloud",
+      "title": "Z세대 새로운 트렌드 '조모(JOMO)' 확산",
+      "subtitle": "남들 다 해도 난 안 해, 자신에게 집중하는 즐거움",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "JOMO",
+            "label": "신조어"
+          },
+          {
+            "value": "Z세대",
+            "label": "주도층"
+          },
+          {
+            "value": "FOMO 반대",
+            "label": "개념"
+          }
+        ],
+        "main_number": "JOMO",
+        "main_text": "Fear of Missing Out (FOMO)의 반대 개념, Joy of Missing Out (JOMO)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person calmly enjoying their own space and activities, surrounded by bubbles of 'missing out' that they ignore, no text",
+      "detail": {
+        "summary": "Z세대 사이에서 '남들 다 해도 난 안 해'라는 '조모(JOMO: Joy of Missing Out)' 트렌드가 확산되고 있다. 유행이나 타인의 관심에 무작정 휩쓸리기보다 자신에게 중요한 가치에 집중하며 진정한 만족감을 찾는 라이프스타일이다.",
+        "points": [
+          "Z세대 주도로 '조모(JOMO)' 라이프스타일 부상",
+          "FOMO(Fear of Missing Out)의 반대 개념",
+          "타인의 시선보다 자신에게 중요한 가치에 집중",
+          "국내에서도 새로운 라이프스타일로 주목"
+        ],
+        "quote": "유행이나 타인의 관심을 무작정 좇기보다 자신에게 중요한 가치에 집중하는 태도",
+        "context": "디지털 시대에 정보 과부하와 타인과의 끊임없는 비교 속에서 피로감을 느끼는 현대인들이, 특히 젊은 세대를 중심으로 내면의 만족과 자기 돌봄을 중시하는 경향이 강해지고 있음을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014269998?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20calmly%20enjoying%20their%20own%20space%20and%20activities%2C%20surrounded%20by%20bubbles%20of%20%27missing%20out%27%20that%20they%20ignore%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26725&nologo=true"
+    },
+    {
+      "id": "life-131",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "before_after",
+      "title": "40대 여성, 85kg 감량 성공 비결",
+      "subtitle": "살 빠지고 혈당 수치 정상화, 건강한 식단과 습관의 힘",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "-85kg",
+            "label": "감량"
+          },
+          {
+            "value": "41세",
+            "label": "나이"
+          },
+          {
+            "value": "혈당 정상",
+            "label": "건강 변화"
+          }
+        ],
+        "main_number": "-85kg",
+        "main_text": "비만 극복, 건강한 라이프스타일 전환 성공"
+      },
+      "image_prompt": "cute pastel infographic illustration showing a person's journey of weight loss and health improvement, with healthy food and exercise elements, no text",
+      "detail": {
+        "summary": "어릴 적부터 비만이었던 40대 여성이 85kg을 감량하고 혈당 수치를 정상화하는 데 성공하며, 건강한 식단과 꾸준한 생활 습관의 중요성을 보여주는 사례가 소개되었다.",
+        "points": [
+          "41세 여성, 총 85kg 감량 성공",
+          "어릴 적부터 비만, 패스트푸드 섭취 습관",
+          "감량 후 혈당 수치 정상화 및 건강 개선",
+          "꾸준한 식단 관리와 생활 습관 변화가 핵심"
+        ],
+        "quote": "살 빠지고 혈당 수치 정상",
+        "context": "개인의 건강한 삶을 위한 노력은 단순히 체중 감량을 넘어 전반적인 신체 건강과 활력을 되찾는 과정이며, 이는 많은 사람들에게 긍정적인 동기 부여가 될 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/346/0000117687?sid=103"
+      },
+      "image_url": "data/images/2026-10-22/life-131.jpg"
+    }
+  ],
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T06:08:04.317074+09:00"
+}

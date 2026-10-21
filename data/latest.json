@@ -1,636 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-france-riot",
+      "id": "world-019",
       "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "프랑스 폭력 시위, 경제적 피해 1조 8천억 원",
-      "subtitle": "상점 3천 곳 약탈, 장기화 우려",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1.8조 원",
-            "label": "피해액"
-          },
-          {
-            "value": "3000곳",
-            "label": "약탈 상점"
-          },
-          {
-            "value": "24일",
-            "label": "추가 시위 예고"
-          }
-        ],
-        "main_number": "3000+",
-        "main_text": "피해 상점 수"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing broken shop windows and scattered goods, with a large number indicating economic damage",
-      "detail": {
-        "summary": "프랑스 전역에서 발생한 폭력 시위로 상점 3천여 곳이 약탈당하고 1조 8천억 원에 달하는 경제적 피해가 발생했습니다. 정부는 진압에 나섰으나 추가 시위가 예고되어 있어 경제적 파장이 커질 전망입니다.",
-        "points": [
-          "약탈 상점 3천여 곳",
-          "추정 피해액 1조 8천억 원 (13억 유로)",
-          "까르푸 등 유통업체 실적 전망 하향",
-          "정부, 피해 수습 및 재발 방지 대책 마련 부심",
-          "오는 24일 추가 집회 예고"
-        ],
-        "quote": "\"프랑스에는 성장이 없다. 프랑스는 사회복지 프로그램들이 가혹할 정도로 부담이 크다.\"",
-        "context": "프랑스에서는 17세 알제리계 청년 나헬 사망 사건 이후 전국적으로 폭력 시위가 확산되었습니다. 이로 인해 막대한 경제적 피해가 발생하며 사회 전반에 큰 우려를 낳고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/366/0001199217?sid=104"
-      },
-      "image_url": "data/images/2026-10-21/world-france-riot.jpg"
-    },
-    {
-      "id": "world-eu-arctic",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "map",
-      "title": "EU, 북극 전략 채택: 해저 케이블 보호 및 쇄빙선 확충",
-      "subtitle": "지정학적 중요성 부각, 안보 및 과학 협력 강화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1",
-            "label": "신규 전략"
-          },
-          {
-            "value": "2",
-            "label": "핵심 과제"
-          },
-          {
-            "value": "8개",
-            "label": "북극권 국가"
-          }
-        ],
-        "main_number": "새로운",
-        "main_text": "EU 북극 전략"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing an arctic map with submarine cables and icebreakers",
-      "detail": {
-        "summary": "유럽연합(EU)이 해저 케이블 보호와 쇄빙선 확충 등을 골자로 하는 새로운 북극 전략을 채택했습니다. 이는 북극의 지정학적 중요성이 증대됨에 따라 안보 및 과학 협력을 강화하려는 의도로 풀이됩니다.",
-        "points": [
-          "해저 케이블 보호 강화",
-          "쇄빙선 선단 확충 및 투자",
-          "기후 변화 대응 및 환경 보호",
-          "북극권 연구 및 과학 협력 증진",
-          "안정적인 국제 협력 기반 구축"
-        ],
-        "quote": "\"(2021년 정책에서) 북극 또는 인접 지역의 추가 매장량 개발 및 수력 발전 구매를 포괄하는 다자간 법적 의무를 모색하겠다는 약속을 반복하지 않았다.\"",
-        "context": "북극은 기후 변화로 인한 해빙 가속화로 새로운 항로가 열리고 자원 개발 가능성이 커지면서 주요 강대국들의 전략적 경쟁 공간이 되고 있습니다. EU는 이러한 변화에 대응하여 독자적인 영향력 강화를 모색하고 있습니다.",
-        "source_url": "https://econotimes.com/EU-Adopts-Arctic-Strategy-With-Cable-Protection-and-Icebreaker-Plans-1758098"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20an%20arctic%20map%20with%20submarine%20cables%20and%20icebreakers%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=93602&nologo=true"
-    },
-    {
-      "id": "world-ukraine-patriot",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "우크라이나, 겨울 방어 위해 패트리엇 요격 미사일 300기 요청",
-      "subtitle": "미국 공급 상황이 방어력에 결정적 영향",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "300기",
-            "label": "요청량"
-          },
-          {
-            "value": "겨울",
-            "label": "필요 시기"
-          },
-          {
-            "value": "미국",
-            "label": "주요 공급국"
-          }
-        ],
-        "main_number": "300",
-        "main_text": "패트리엇 요격기 요청 수"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, showing patriot missile launchers and interceptor missiles, with a clear number indicating the quantity requested",
-      "detail": {
-        "summary": "우크라이나가 다가오는 겨울 방어를 위해 미국에 패트리엇 요격 미사일 300기를 요청했습니다. 미국의 공급 능력이 우크라이나의 방어력에 결정적인 영향을 미칠 것으로 보입니다.",
-        "points": [
-          "우크라이나, 패트리엇 요격 미사일 300기 긴급 요청",
-          "러시아의 겨울 공세 대비 필수적",
-          "미국 공급 역량에 따라 방어력 좌우",
-          "미국, 러시아 전쟁 자금 생성 차단 노력",
-          "OFAC, 러시아 제재 관련 일반 면허 135호 발행"
-        ],
-        "quote": "\"러시아의 전쟁 자금을 마련할 수 있다.\"",
-        "context": "러시아-우크라이나 전쟁이 장기화되면서 우크라이나는 방공망 강화를 절실히 필요로 하고 있습니다. 특히 겨울철 러시아의 에너지 인프라 공격에 대비해 패트리엇 시스템과 같은 고성능 방공 무기 확보가 시급한 상황입니다.",
-        "source_url": "https://econotimes.com/Ukraine-Seeks-300-Patriot-Interceptors-as-U-S-Supply-Shapes-Winter-Defense-1758084"
-      },
-      "image_url": "data/images/2026-10-21/world-ukraine-patriot.jpg"
-    },
-    {
-      "id": "economy-housing-loan",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
       "viz_type": "timeline",
-      "title": "서울 집값 88주 연속 상승… 정부, 대출 규제 강화",
-      "subtitle": "100주 상승 막으려 15억 이하 주택 대출 한도 축소",
+      "title": "푸틴-트럼프-시진핑, 다음달 3자회담 추진",
+      "subtitle": "글로벌 정세, 새로운 전환점 맞나",
       "viz_data": {
         "stats": [
           {
-            "value": "88주",
-            "label": "연속 상승"
+            "value": "3명",
+            "label": "정상"
           },
           {
-            "value": "15억 원",
-            "label": "규제 기준"
+            "value": "APEC",
+            "label": "회의"
           },
           {
-            "value": "6억 원",
-            "label": "최대 대출액"
+            "value": "1곳",
+            "label": "개최지"
           }
         ],
-        "main_number": "+88주",
-        "main_text": "서울 집값 상승"
+        "main_number": "APEC",
+        "main_text": "아시아태평양경제협력체(APEC) 정상회의 기간 논의"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a line chart trending upwards for housing prices, with a scale indicating government loan regulations",
+      "image_prompt": "cute pastel infographic illustration of three world leaders (Putin, Trump, Xi Jinping) meeting, with a globe in the background, no text",
       "detail": {
-        "summary": "서울 집값이 88주 연속 상승하며 역대 최장 기록을 경신했습니다. 정부는 '세 자릿수 상승'이라는 정치적 부담을 덜기 위해 15억 원 이하 주택에 대한 최대 대출 한도를 6억 원으로 축소하는 등 대출 규제를 강화하고 있습니다.",
+        "summary": "러시아 크렘린궁이 다음 달 중국에서 열리는 APEC 정상회의 기간에 미국, 중국 정상과 3자회담을 준비 중이라고 밝히며 우크라이나 사태 이후 새로운 국제관계 구도 형성 가능성에 주목.",
         "points": [
-          "서울 집값 88주째 연속 상승 (사상 최장)",
-          "문재인 정부 85주 기록 경신",
-          "정부, 100주 상승에 정치적 부담",
-          "15억 원 이하 주택 대출 최대 6억 원으로 제한",
-          "서민들의 '내 집 마련' 사다리 끊길 우려"
+          "러시아, 美·中 정상과의 APEC 회담 추진 공식 발표",
+          "우크라이나 분쟁 해결 및 경제 관계 발전 논의 기대",
+          "트럼프 전 대통령 발언으로 러시아 제재 유예 가능성 언급",
+          "바이든 정부와 차별화된 새로운 외교 노선 가능성 제기"
         ],
-        "quote": "\"당국은 세 자릿수 상승에 따른 정치적 부담을 덜기 위해 현재 15억 원 이하 주택에 적용되는 최대 6억 원 대출 한도를 ... 조만간 축소할 방침이다.\"",
-        "context": "고금리와 경기 침체 우려 속에서도 서울 주택 시장은 꾸준한 상승세를 보이며 가계 부채 증가에 대한 우려를 키우고 있습니다. 정부는 시장 과열을 막기 위해 지속적으로 규제 정책을 내놓고 있으나, 이는 실수요자들의 내 집 마련 기회를 제한할 수 있다는 비판도 제기됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004168337?sid=101"
+        "quote": "우크라이나 분쟁이 끝난 뒤 양국의 경제 관계가 발전할 수 있을 것.",
+        "context": "미국, 중국, 러시아 세 주요 강대국 정상이 한자리에 모여 국제 주요 현안을 논의하는 것은 글로벌 정치 및 경제 지형에 막대한 영향을 미칠 수 있는 중대한 사건이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002712637?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20line%20chart%20trending%20upwards%20for%20housing%20prices%2C%20with%20a%20scale%20indicating%20government%20loan%20regulations%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39754&nologo=true"
+      "image_url": "data/images/2026-10-22/world-019.jpg"
     },
     {
-      "id": "economy-youtuber-income",
+      "id": "world-081",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
+      "category": "world",
+      "category_label": "🌍 국제",
       "viz_type": "bar_chart",
-      "title": "유튜버 연수입 10억 이상 207명… 크리에이터 경제 규모 성장",
-      "subtitle": "1인 미디어 법인 수 2천24곳, 수입 10억 이상 상위 1%",
+      "title": "한국 경제 규모, 세계 12위 유지",
+      "subtitle": "구매력 기준 13위, 글로벌 위상 확인",
       "viz_data": {
         "stats": [
           {
-            "value": "207명",
-            "label": "10억 이상"
+            "value": "12위",
+            "label": "명목 GDP"
           },
           {
-            "value": "2024곳",
-            "label": "법인 수"
+            "value": "13위",
+            "label": "PPP"
           },
           {
-            "value": "2025년",
-            "label": "조사 기준"
+            "value": "1위",
+            "label": "美 명목 GDP"
           }
         ],
-        "main_number": "207명",
-        "main_text": "연수입 10억 이상 유튜버"
+        "main_number": "#12",
+        "main_text": "한국, 명목 GDP 기준 세계 경제 규모 12위"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a pie chart or bar chart of income distribution for YouTubers, with a clear number for high earners",
+      "image_prompt": "cute pastel infographic illustration of a world map with numbers indicating economic rankings, a chart with bars, no text",
       "detail": {
-        "summary": "국회 자료에 따르면 2025년 기준 연수입 10억 원 이상을 신고한 1인 미디어 관련 법인 사업자는 207명에 달합니다. 이는 전체 1인 미디어 법인 2천24곳 중 상위 1%에 해당하는 수치로, 크리에이터 경제의 양극화 현상을 보여줍니다.",
+        "summary": "한국의 올해 경제 규모가 명목 국내총생산(GDP) 기준 세계 12위, 구매력평가(PPP) 기준으로는 13위를 기록할 것으로 전망되어 글로벌 경제에서의 위상을 재확인했다.",
         "points": [
-          "2025년 1인 미디어 법인 총 2024곳",
-          "연수입 10억 원 이상 법인 207곳",
-          "상위 1%가 고소득 독점",
-          "국세청 자료 기반 통계",
-          "유튜버 등 1인 미디어 인기 증가세"
+          "한국 명목 GDP 기준 세계 12위 전망",
+          "구매력평가(PPP) 기준 세계 13위 전망",
+          "미국은 명목 GDP 세계 1위, 중국은 PPP 기준 1위",
+          "국가별 물가 차이 반영 시 순위 변동"
         ],
-        "quote": "\"국세청에서 제출받은 자료에 따르면 2025년 법인세 신고 기준 1인 미디어 관련 업종 법인은 2024곳이며, 이들이 신고한 수입 금액은 총...\"",
-        "context": "젊은 세대를 중심으로 유튜버를 비롯한 1인 미디어가 선호 직업으로 떠오르고 있지만, 실제 고수익을 얻는 크리에이터는 소수에 불과합니다. 이러한 통계는 크리에이터 경제의 현실과 함께 콘텐츠 산업의 성장 가능성 및 도전 과제를 동시에 보여줍니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/009/0005751529?sid=101"
+        "quote": "미국은 명목 GDP에서 세계 1위를 유지하지만 국가별 물가 차이를 반영하면 중국이 세계 1위에 오를 것으로 예상됩니다.",
+        "context": "세계 경제 순위는 한 국가의 경제력과 국제 사회에서의 영향력을 보여주는 중요한 지표로, 한국의 위치를 파악하고 미래 성장 전략을 수립하는 데 기초가 된다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102122222960179a1f309431_1"
       },
-      "image_url": "data/images/2026-10-21/economy-youtuber-income.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20world%20map%20with%20numbers%20indicating%20economic%20rankings%2C%20a%20chart%20with%20bars%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56393&nologo=true"
     },
     {
-      "id": "economy-ifrs18",
+      "id": "world-089",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "ranking",
+      "title": "서울, 세계 AI 도시 경쟁력 3위 달성",
+      "subtitle": "AI 도입·활용 분야 세계 1위 쾌거",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3위",
+            "label": "종합 순위"
+          },
+          {
+            "value": "1위",
+            "label": "도입·활용"
+          },
+          {
+            "value": "100+",
+            "label": "평가 도시"
+          }
+        ],
+        "main_number": "TOP 3",
+        "main_text": "서울, 영국 옵서버 'AI 도시지수' 종합 3위"
+      },
+      "image_prompt": "cute pastel infographic illustration of a city skyline with AI elements like robots and circuits, showing a medal or ranking, no text",
+      "detail": {
+        "summary": "서울이 세계 인공지능(AI) 도시 경쟁력 평가에서 종합 3위에 올랐으며, 특히 기업과 정부, 교육기관, 지역사회에서 AI를 활용하는 역량을 평가하는 'AI 도입·활용' 분야에서는 세계 1위를 기록했다.",
+        "points": [
+          "서울, AI 도시지수 종합 3위 (샌프란시스코, 뉴욕 다음)",
+          "AI 도입·활용 분야에서는 세계 1위 차지",
+          "AI 활용 인프라, 제도, 전문인력 등 기반 역량 높이 평가",
+          "영국 옵서버(Observer)가 발표한 평가 결과"
+        ],
+        "quote": "서울은 특히 기업과 정부, 교육기관, 지역사회에서 AI를 활용하는 역량을 평가하는 'AI 도입·활용' 분야에서 1위에 올랐다.",
+        "context": "글로벌 AI 경쟁이 심화되는 가운데, 서울이 AI 기술의 실제 도입 및 활용 측면에서 세계 최고 수준임을 입증하며 미래 도시 경쟁력을 강화하고 있음을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/629/0000544321?sid=102"
+      },
+      "image_url": "data/images/2026-10-22/world-089.jpg"
+    },
+    {
+      "id": "economy-022",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "pie_chart",
-      "title": "국제회계기준(IFRS18) 도입 임박…기업 수익 인식 변화",
-      "subtitle": "영업이익 산정 범위 조정, 글로벌 기업 140여 개국 의무화",
+      "title": "임금근로자 10명 중 9명 비정규직",
+      "subtitle": "비정규직 사상 최고치 867만명, 임금격차 역대 최대",
       "viz_data": {
         "stats": [
           {
-            "value": "140+",
-            "label": "적용 국가"
+            "value": "867만명",
+            "label": "비정규직"
           },
           {
-            "value": "IFRS18",
-            "label": "신규 기준"
+            "value": "10명 중 9명",
+            "label": "비정규직 비율"
+          },
+          {
+            "value": "60세 이상",
+            "label": "집중"
+          }
+        ],
+        "main_number": "↑867만",
+        "main_text": "비정규직 임금근로자 사상 최고치 기록"
+      },
+      "image_prompt": "cute pastel infographic illustration of people working, showing a disparity between regular and non-regular workers with percentages, no text",
+      "detail": {
+        "summary": "지난 8월 임금근로자 중 비정규직이 867만명으로 사상 최고치를 기록했으며, 월평균 임금격차 또한 역대 최대로 벌어져 취업난 속 고용시장 양극화가 심화되고 있다.",
+        "points": [
+          "지난 8월 비정규직 임금근로자 867만명 (역대 최고)",
+          "월평균 임금격차도 역대 최대 수준",
+          "비정규직 증가는 60세 이상 고령층과 보건·사회복지업에 집중",
+          "기업들의 정규직 채용 부담 증가 요인으로 지목"
+        ],
+        "quote": "“월급 200씩 더 드는데 정규직 뽑겠나”",
+        "context": "고용시장 내 비정규직의 증가는 안정적인 일자리 감소와 임금 불균형 심화로 이어져 사회 경제적 불평등을 확대시킬 수 있는 중요한 문제로 분석된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005752146?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20people%20working%2C%20showing%20a%20disparity%20between%20regular%20and%20non-regular%20workers%20with%20percentages%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81340&nologo=true"
+    },
+    {
+      "id": "economy-024",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "서울 초소형 아파트값 16% 상승",
+      "subtitle": "좁아진 내집 마련 선택지, 소형 평수 선호도↑",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+16%",
+            "label": "상승률"
+          },
+          {
+            "value": "전용 40㎡ 이하",
+            "label": "면적"
+          },
+          {
+            "value": "1~9월",
+            "label": "기간"
+          }
+        ],
+        "main_number": "+16%",
+        "main_text": "서울 전용 40㎡ 이하 아파트 매매가 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration of a small apartment building with upward arrows, showing price increase, no text",
+      "detail": {
+        "summary": "올해 1월부터 9월까지 서울 전용 40㎡ 이하 초소형 아파트값이 평균 16% 상승하며, 높은 부동산 가격으로 인해 내집 마련을 위한 선택지가 좁아지고 소형 평수에 대한 수요가 집중되고 있다.",
+        "points": [
+          "2026년 1~9월 서울 초소형 아파트값 16% 상승",
+          "전용 40㎡ 이하 아파트 대상",
+          "높은 집값과 금리 부담으로 소형 평수 선호 심화",
+          "내집 마련을 위한 진입 장벽 여전히 높아"
+        ],
+        "quote": "좁아진 내집 마련 선택지…서울 초소형 아파트값 16% 뛰었다.",
+        "context": "부동산 시장에서 소형 아파트의 가격 상승은 청년층이나 1인 가구의 주거 부담을 가중시키며, 주거 안정성 문제를 심화시킬 수 있는 주요 경제 지표로 간주된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004673825?sid=101"
+      },
+      "image_url": "data/images/2026-10-22/economy-024.jpg"
+    },
+    {
+      "id": "economy-031",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "gauge_chart",
+      "title": "중동 정세 악화 시 경제 성장률 및 물가 영향",
+      "subtitle": "내년 성장률 0.16%p ↓, 물가 0.32%p ↑",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "-0.16%p",
+            "label": "성장률"
+          },
+          {
+            "value": "+0.32%p",
+            "label": "물가"
           },
           {
             "value": "2027년",
-            "label": "시행 예정"
+            "label": "전망"
           }
         ],
-        "main_number": "140+",
-        "main_text": "IFRS 적용 국가 수"
+        "main_number": "↓0.16%p",
+        "main_text": "국회예산정책처, 중동 악화시 내년 성장률 하락 전망"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing financial statements and accounting symbols, with a global map highlighting IFRS adoption",
+      "image_prompt": "cute pastel infographic illustration of a graph showing downward arrow for growth and upward arrow for inflation, with oil barrels, no text",
       "detail": {
-        "summary": "국제회계기준(IFRS) 18이 2027년부터 도입될 예정으로, 기업의 수익과 비용을 영업·투자·재무 등으로 나누는 등 영업이익 산정 범위가 크게 바뀝니다. 현재 전 세계 140곳 이상 국가에서 IFRS 적용이 의무화되어 있습니다.",
+        "summary": "국회예산정책처는 중동 정세 악화로 원유 공급망에 차질이 생길 경우, 한국 경제의 내년 성장률이 0.16%p 깎이고 물가는 0.32%p 오를 것이라는 분석을 내놓으며 경제 불확실성을 경고했다.",
         "points": [
-          "IFRS18, 2027년 시행 예정",
-          "기업의 수익·비용 분류 방식 변경 (영업·투자·재무)",
-          "영업이익 산정 범위 조정",
-          "전 세계 140개 이상 국가 IFRS 의무 적용",
-          "기업 실적 평가 및 비교에 영향 예상"
+          "중동 정세 악화 시 2027년 한국 경제 성장률 0.16%p 하락",
+          "동일 조건에서 소비자 물가는 0.32%p 상승 전망",
+          "원유 공급망 차질이 주요 원인",
+          "국회예산정책처 '2027년 NABO 경제전망' 보고서 발표"
         ],
-        "quote": "\"현재 세계 140곳 이상의 국가·지역에서 상장기업 전체 또는 대부분에 대해 IFRS 적용을 의무화하고 있다.\"",
-        "context": "회계 기준의 변화는 기업의 재무제표에 직접적인 영향을 미치며, 투자자와 시장의 기업 가치 평가에도 중요한 기준이 됩니다. IFRS18 도입은 기업의 실적을 투명하게 공개하고 글로벌 비교 가능성을 높이는 데 기여할 것으로 기대됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/009/0005751532?sid=101"
+        "quote": "한국 경제 성장세가 둔화하고 물가 상승 압력이 커질 수 있다는 국회예산정책처의 경고가 나왔다.",
+        "context": "중동 지역의 불안정성은 국제 유가 변동을 야기하며, 이는 원유 수입 의존도가 높은 한국 경제에 직접적인 타격을 줄 수 있어 면밀한 대비가 요구된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016392750?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20financial%20statements%20and%20accounting%20symbols%2C%20with%20a%20global%20map%20highlighting%20IFRS%20adoption%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9695&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20graph%20showing%20downward%20arrow%20for%20growth%20and%20upward%20arrow%20for%20inflation%2C%20with%20oil%20barrels%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22449&nologo=true"
     },
     {
-      "id": "tech-china-satellite",
+      "id": "tech-041",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "comparison_chart",
-      "title": "중국 독자 위성망 'GW', 스타링크 추격… 북극 관측 인프라 구축",
-      "subtitle": "저궤도 위성망 경쟁 심화, 365일 연중무휴 해양 데이터 수집",
+      "viz_type": "comparison",
+      "title": "AI 데이터센터, 이젠 ‘추론 효율’로 평가",
+      "subtitle": "PUE 넘어 새로운 표준으로 AI 성능 측정",
       "viz_data": {
         "stats": [
           {
-            "value": "GW",
-            "label": "중국 위성망"
+            "value": "추론 효율",
+            "label": "새 표준"
           },
           {
-            "value": "스타링크",
-            "label": "경쟁사"
+            "value": "PUE",
+            "label": "기존 표준"
           },
           {
-            "value": "365일",
-            "label": "관측 기간"
+            "value": "SC 39",
+            "label": "분과위"
           }
         ],
-        "main_number": "경쟁 심화",
-        "main_text": "글로벌 위성망 시장"
+        "main_number": "새 표준",
+        "main_text": "AI 데이터센터의 실제 AI 성능에 초점 맞춘 평가"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing satellites orbiting earth, with two distinct constellations representing GW and Starlink, highlighting their coverage areas",
+      "image_prompt": "cute pastel infographic illustration of an AI data center with servers and energy efficiency indicators, showing old vs new metrics, no text",
       "detail": {
-        "summary": "중국이 독자 저궤도 위성망 'GW'를 통해 지구 양극단을 실시간으로 연결하고 스타링크를 맹추격하고 있습니다. GW 위성망과 국산 장비의 결합으로 해빙 및 해양 물리 데이터를 연중무휴 수집하는 경제적 관측 인프라를 구축했습니다.",
+        "summary": "AI 데이터센터의 효율성을 평가하는 기준이 기존 전력 효율(PUE)에서 AI 장비가 얼마나 쓸모 있는 추론 작업을 하는지에 초점 맞춘 '추론 효율'로 변화하고 있으며, 관련 표준화 논의가 활발하다.",
         "points": [
-          "중국 독자 위성망 GW, 글로벌 저궤도 시장 진출",
-          "허지엔펑 수석 과학자, 경제적 관측 인프라 구축 강조",
-          "해빙 상태 및 해양 물리 데이터 365일 수집",
-          "스타링크 등 기존 위성망과 경쟁",
-          "지구 양극단 실시간 연결 목표"
+          "AI 데이터센터 효율성 평가 기준 '추론 효율'로 전환",
+          "기존 PUE(전력효율)는 AI 성능 측정에 한계",
+          "ISO/IEC JTC 1/SC 39에서 IT 및 데이터센터 지속가능성 논의",
+          "AI 반도체 및 하드웨어 성능과 직결되는 핵심 지표"
         ],
-        "quote": "\"저렴한 국산 관측 장비와 GW 위성망의 결합을 통해 해빙 상태와 해양 물리 데이터를 365일 연중무휴로 수집할 수 있는 경제적 관측 인프라를 구축했다.\"",
-        "context": "저궤도 위성망은 초고속 인터넷 제공뿐만 아니라 기후 변화 모니터링, 재난 대응 등 다양한 분야에서 활용도가 높아지면서 국가 간 경쟁이 치열해지고 있습니다. 중국의 GW는 이러한 흐름 속에서 독자적인 기술력과 인프라를 바탕으로 글로벌 시장에서 존재감을 키우고 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=202610201806386170c8c1c064d_1"
+        "quote": "PUE는 데이터센터 전체 전력과 IT 장비 전력의 비율로 시설 효율을 보여주지만, 그 전력으로 쓸모 있는 추론을 얼마나 하는지는 보여주지 못한다.",
+        "context": "AI 기술이 발전함에 따라 AI 데이터센터의 단순한 전력 소비를 넘어 실제 AI 연산 능력과 효율성을 객관적으로 평가할 수 있는 새로운 표준의 필요성이 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002245537?sid=105"
       },
-      "image_url": "data/images/2026-10-21/tech-china-satellite.jpg"
+      "image_url": "data/images/2026-10-22/tech-041.jpg"
     },
     {
-      "id": "tech-medical-ai",
+      "id": "tech-043",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "flow_chart",
-      "title": "평화이즈, 의료 IT 'AI Native' 전환 가속화",
-      "subtitle": "통합의료정보시스템(HIS) 기반, 데이터·AI 역량 강화",
+      "viz_type": "bar_chart",
+      "title": "OpenAI, 프롬프트 캐시 쓰기 가격 2.5배 인상",
+      "subtitle": "12시간 최소 보관 기준, 비용 효율 전략 필요",
       "viz_data": {
         "stats": [
           {
-            "value": "HIS",
-            "label": "기존 시스템"
+            "value": "2.5배",
+            "label": "인상률"
           },
           {
-            "value": "DATA·AI",
-            "label": "미래 핵심"
+            "value": "12시간",
+            "label": "최소 보관"
           },
           {
-            "value": "의료 IT",
-            "label": "적용 분야"
+            "value": "30분",
+            "label": "단기 옵션"
           }
         ],
-        "main_number": "변화",
-        "main_text": "의료IT 패러다임"
+        "main_number": "↑2.5X",
+        "main_text": "OpenAI의 프롬프트 캐시 쓰기 비용 인상"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a hospital setting with data flowing into AI brain icons, depicting the transition from traditional HIS to AI-native medical IT",
+      "image_prompt": "cute pastel infographic illustration of a cash register or price tag with AI logos, showing increased cost, no text",
       "detail": {
-        "summary": "의료IT 전문기업 평화이즈가 통합의료정보시스템(HIS) 구축·운영 경험을 바탕으로 데이터와 AI 기술을 접목한 'AI Native 의료IT' 시대를 열고 있습니다. 이를 통해 의료 현장의 실질적인 변화를 이끌고 미래 시장을 선도할 계획입니다.",
+        "summary": "OpenAI가 프롬프트 캐시 쓰기 가격을 기본 요율의 2.5배로 책정했으며, 12시간 최소 보관 기준을 제시해 AI 애플리케이션 개발자들이 비용 효율성을 고려한 캐시 재사용 전략을 세워야 할 필요성이 커졌다.",
         "points": [
-          "HIS 구축·운영 전문성 축적",
-          "DATA·AI 기반 기술 역량 강화",
-          "'AI Native 의료IT' 시대 선도",
-          "의료현장의 실질적 변화 유도",
-          "미래 의료IT 시장 경쟁력 확보"
+          "OpenAI, 프롬프트 캐시 쓰기 가격 기본 요율의 2.5배",
+          "캐시 최소 보관 시간 12시간 설정",
+          "자주 변경되는 데이터는 30분 보관 옵션 제공",
+          "애플리케이션 비용 절감을 위한 캐시 재사용 빈도 중요"
         ],
-        "quote": "\"HIS·DATA·AI를 아우르는 기술 역량을 기반으로 의료현장의 실질적인 변화를 이끌고, 미래 의료IT 시장에서...\"",
-        "context": "의료 분야에서 AI 기술은 진단 정확도 향상, 맞춤형 치료법 개발, 운영 효율성 증대 등 혁신적인 변화를 가져오고 있습니다. 평화이즈와 같은 기업들은 축적된 의료 데이터를 AI와 결합하여 환자 중심의 더욱 효율적이고 고도화된 의료 서비스를 제공하는 데 기여할 것으로 기대됩니다.",
-        "source_url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014288"
+        "quote": "Whether either choice lowers an application's costs depends on how often it reuses the cache.",
+        "context": "AI 서비스 활용에 있어 비용 효율성은 중요한 고려사항으로, OpenAI의 가격 정책 변화는 개발자들이 AI 모델 활용 방식을 최적화하고 비용 관리 전략을 재고하도록 만들 것이다.",
+        "source_url": "https://econotimes.com/OpenAI-Prices-12-Hour-Minimum-Prompt-Cache-Writes-at-2-5-Times-Base-Rate-1759449"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20hospital%20setting%20with%20data%20flowing%20into%20AI%20brain%20icons%2C%20depicting%20the%20transition%20from%20traditional%20HIS%20to%20AI-native%20medical%20IT%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34460&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20cash%20register%20or%20price%20tag%20with%20AI%20logos%2C%20showing%20increased%20cost%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82483&nologo=true"
     },
     {
-      "id": "tech-china-semiconductor",
+      "id": "tech-044",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "pie_chart",
-      "title": "중국, 반도체 시장 점유율 확대… D램 4위로 부상",
-      "subtitle": "칩 설계부터 장비·소재·AI까지 전방위 역량 강화",
+      "title": "AI 업무 활용, 노사협상 의제로 떠올라",
+      "subtitle": "“혼자 AI 쓰면 배신”, 평가 불이익 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "7%",
-            "label": "D램 점유율"
+            "value": "IT 업계",
+            "label": "주요 논의"
           },
           {
-            "value": "4위",
-            "label": "D램 시장"
+            "value": "노조",
+            "label": "촉구 주체"
           },
           {
-            "value": "2분기",
-            "label": "조사 기준"
+            "value": "AI 활용",
+            "label": "핵심 의제"
           }
         ],
-        "main_number": "+7%",
-        "main_text": "中 D램 시장 점유율"
+        "main_number": "↑",
+        "main_text": "AI 업무 활용이 노사관계 주요 쟁점으로 부상"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a pie chart of global DRAM market share with China's percentage highlighted, surrounded by microchips and circuit boards",
+      "image_prompt": "cute pastel infographic illustration of human workers and robots collaborating or in discussion, with speech bubbles, no text",
       "detail": {
-        "summary": "중국 창신메모리(CXMT)의 2분기 세계 D램 점유율이 7%로 4위를 기록하며 빠르게 성장하고 있습니다. 중국은 칩 설계부터 장비, 소재, AI 역량까지 반도체 공급망 전반에 걸쳐 자립화 및 경쟁력 강화를 추진 중입니다.",
+        "summary": "AI 활용이 활발한 정보기술(IT) 업계에서 AI 업무 활용이 노사협상의 새로운 의제로 떠올랐으며, 노조는 AI로 인한 직원 평가 불이익 등을 우려하며 관련 합의를 촉구하고 있다.",
         "points": [
-          "창신메모리, 2분기 세계 D램 점유율 7% (4위)",
-          "공격적인 생산능력 확대",
-          "한국 기업 점유율 잠식 우려",
-          "칩 설계·장비·소재·AI 등 전방위 투자",
-          "반도체 공급망 자립화 목표"
+          "IT 업계, AI 업무 활용 관련 노사협상 촉구",
+          "노조, AI 활용 시 직원 평가 불이익 우려 제기",
+          "일부 기업은 이미 AI 관련 합의 도출",
+          "AI 시대 일자리 변화와 노동권 보호 문제 부각"
         ],
-        "quote": "\"카운터포인트리서치에 따르면 창신메모리의 2분기 세계 D램 점유율은 7%로 4위다. 생산능력을 공격적으로 늘리고 있어 한국 기업의 점유율 잠식 우려가 커지고 있다.\"",
-        "context": "미중 기술 패권 경쟁이 심화되면서 중국은 반도체 산업의 자립을 국가적 과제로 삼고 막대한 투자를 이어가고 있습니다. 특히 메모리 반도체 분야에서 빠르게 추격하며 한국 등 기존 강자들에게 위협으로 작용하고 있어 글로벌 반도체 시장의 지각변동이 예상됩니다.",
-        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201529573560356"
+        "quote": "“김과장, 혼자 AI로 업무하면 배신이야”",
+        "context": "AI 기술의 급속한 발전은 업무 환경과 고용 구조에 큰 변화를 가져오고 있으며, 노동자의 권리를 보호하고 AI 기술을 공정하게 활용하기 위한 사회적 합의와 제도 마련이 시급하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005752148?sid=105"
       },
-      "image_url": "data/images/2026-10-21/tech-china-semiconductor.jpg"
+      "image_url": "data/images/2026-10-22/tech-044.jpg"
     },
     {
-      "id": "society-youth-struggle",
+      "id": "society-000",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "경쟁과 자립 요구 속, '성장할 조건' 잃는 청년들",
-      "subtitle": "건강 악화, 사회적 고립 악순환...개인의 책임만 강조하는 사회",
+      "viz_type": "timeline",
+      "title": "'타다' 잔혹사, 혁신 가로막는 규제 논란",
+      "subtitle": "15년째 국회 문턱 못 넘는 의료 민영화 우려 법안",
       "viz_data": {
         "stats": [
           {
-            "value": "사회와 멀어짐",
-            "label": "악순환 시작"
+            "value": "15년",
+            "label": "법안 계류"
           },
           {
-            "value": "건강 악화",
-            "label": "주요 문제"
+            "value": "2011년",
+            "label": "논란 시작"
           },
           {
-            "value": "영국",
-            "label": "관련 사례"
+            "value": "의료민영화",
+            "label": "주요 우려"
           }
         ],
-        "main_number": "경쟁",
-        "main_text": "청년에게 요구되는 가치"
+        "main_number": "15년",
+        "main_text": "혁신 서비스 법안, 장기간 국회 문턱 넘지 못해"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a young person struggling with burdens, surrounded by statistics on unemployment, mental health, and social isolation",
+      "image_prompt": "cute pastel infographic illustration of a stalled vehicle with political figures debating in the background, showing regulatory hurdles, no text",
       "detail": {
-        "summary": "청년들에게 끊임없이 경쟁력과 자립을 요구하면서도, 이들이 성장할 수 있는 조건을 제공하지 않는 사회의 모순을 지적합니다. 건강 악화와 사회적 고립의 악순환에 빠진 청년들의 현실을 조명하며, 이를 '일할 의지 부족'으로 치부하는 시선에 의문을 제기합니다.",
+        "summary": "혁신적인 모빌리티 서비스 '타다'의 좌초를 통해 본 규제 논란이 여전히 계속되고 있으며, 의료 민영화 우려를 제기한 의료계와 정치권의 반발에 막혀 15년째 국회 문턱을 넘지 못하는 법안 문제가 재조명되고 있다.",
         "points": [
-          "청년에게 경쟁력과 자립만 요구",
-          "'성장할 조건'은 개인의 책임으로 전가",
-          "건강 악화와 사회적 고립의 악순환",
-          "'일할 의지 부족'이라는 사회의 편견",
-          "청년 문화산업 종사자 생계 문제와 연관"
+          "혁신 서비스 '타다'의 실패 사례 재조명",
+          "의료 민영화 우려 법안, 15년째 국회 계류 중",
+          "경제수장 및 경제단체 입법 촉구에도 무산 반복",
+          "새로운 서비스와 기존 규제 간의 충돌 문제 지속"
         ],
-        "quote": "\"이 질문에 답하지 않고 경쟁력과 자립만 요구한다면, 정치 역시 산업이 신인에게 요구하는 것과 같은 모순에 빠진다.\"",
-        "context": "높은 실업률과 불안정한 일자리, 치솟는 주거 비용 등 여러 요인으로 인해 한국 사회의 청년들은 심각한 어려움을 겪고 있습니다. 이러한 구조적 문제를 개인의 책임으로 돌리는 사회적 시선에 대한 비판적 성찰이 요구됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/053/0000062442?sid=102"
+        "quote": "‘타다’ 잔혹사, 언제까지 되풀이할 건가",
+        "context": "혁신적인 서비스가 기존 산업과 충돌하거나 사회적 우려에 직면했을 때, 정부와 정치권이 유연하고 합리적인 규제 환경을 마련하는 것이 미래 성장 동력 확보에 필수적이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004673827?sid=110"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20young%20person%20struggling%20with%20burdens%2C%20surrounded%20by%20statistics%20on%20unemployment%2C%20mental%20health%2C%20and%20social%20isolation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=69269&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stalled%20vehicle%20with%20political%20figures%20debating%20in%20the%20background%2C%20showing%20regulatory%20hurdles%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=37752&nologo=true"
     },
     {
-      "id": "society-privacy-reserve",
+      "id": "society-004",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "pie_chart",
-      "title": "방첩본부, 민간인 예비역 59만 명 동향 자료 보관 논란",
-      "subtitle": "군 정보기관의 민간인 사찰, 정치 개입 우려 재점화",
+      "viz_type": "comparison",
+      "title": "민감한 사건까지 금융상품화? 예측시장 윤리 논란",
+      "subtitle": "코넬대 집단성폭행 기소 여부에 6억 베팅, 규제 시급",
       "viz_data": {
         "stats": [
           {
-            "value": "59만 명",
-            "label": "자료 보관"
+            "value": "6억원",
+            "label": "베팅 금액"
           },
           {
-            "value": "기무사",
-            "label": "전신 기관"
+            "value": "코넬대 사건",
+            "label": "주요 사례"
           },
           {
-            "value": "예비역지원과",
-            "label": "폐지 부서"
+            "value": "예측시장",
+            "label": "플랫폼"
           }
         ],
-        "main_number": "59만+",
-        "main_text": "동향자료 보관 민간인 수"
+        "main_number": "6억원",
+        "main_text": "형사 재판 결과에 대한 예측시장 베팅 논란"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a pie chart representing 590,000 individuals, with a magnifying glass icon and military intelligence symbols",
+      "image_prompt": "cute pastel infographic illustration of scales of justice with money bags on one side, representing ethical dilemmas, no text",
       "detail": {
-        "summary": "군 방첩본부가 민간인 신분이 된 예비역 59만 명의 동향 자료를 보관하고 있어 논란이 일고 있습니다. 이는 과거 기무사 해체 과정에서 정치 개입 논란으로 폐지된 '예비역지원과'의 업무를 방첩본부가 이어받은 것으로, 군 정보기관의 민간인 사찰 및 정치 개입 의혹을 다시 불러일으키고 있습니다.",
+        "summary": "예측시장 플랫폼이 대중화되면서 코넬대 집단성폭행 사건의 기소 여부에 6억 원이 걸리는 등 민감한 형사 재판과 비극적 사건까지 금융 상품화하는 현상이 발생, 윤리적 가이드라인과 규제 마련이 시급하다는 지적이 나온다.",
         "points": [
-          "민간인 예비역 59만 명 동향 자료 보관",
-          "기무사 해체 과정에서 폐지된 '예비역지원과' 업무 승계",
-          "군 정보기관의 민간인 사찰 의혹 재점화",
-          "정치 개입 논란 및 불법 행위 우려",
-          "군 당국, 관련 자료 즉각 폐기 촉구"
+          "예측시장 플랫폼, 민감한 사건 금융상품화 논란",
+          "코넬대 집단성폭행 기소 여부에 6억 원 베팅 사례",
+          "정치·사회적 이슈 넘어 형사 재판까지 대상 확대",
+          "윤리적 가이드라인 마련 및 규제당국 제재 시급"
         ],
-        "quote": "\"군 당국이 정치개입이나 민간인 사찰 등 과거 군 정보기관의 불법행위 논란을 스스로 자초하고 있다는 주장이...\"",
-        "context": "대한민국에서는 과거 군 정보기관의 민간인 사찰과 정치 개입이 심각한 사회 문제로 대두되어 왔습니다. 이로 인해 기무사가 해체되고 방첩본부로 전환되었으나, 유사한 논란이 재발하면서 정보기관의 투명성과 통제에 대한 사회적 요구가 커지고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004673364?sid=100"
+        "quote": "예측시장 플랫폼이 대중화되면서 정치·사회적 이슈를 넘어 민감한 형사 재판과 비극적 사건까지 금융 상품화하는 현상을 두고 윤리적 가이드라인 마련과 규제당국의 제재가 시급하다는 지적이 나온다.",
+        "context": "민감한 사회적 사건들이 돈벌이 수단으로 변질되는 현상은 윤리적 문제를 야기하고 사회적 공분을 살 수 있어, 새로운 디지털 금융 플랫폼에 대한 책임 있는 규제와 윤리 기준 확립이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005429884?sid=104"
       },
-      "image_url": "data/images/2026-10-21/society-privacy-reserve.jpg"
+      "image_url": "data/images/2026-10-22/society-004.jpg"
     },
     {
-      "id": "society-satamrun",
+      "id": "society-067",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "수능 '사탐런' 현상 심화, 유불리 논란 지속",
-      "subtitle": "자연계 학생의 사회탐구 선택 증가, 3년간 51.8% 기록",
+      "viz_type": "timeline",
+      "title": "돌봄로봇, 신체보조 기술 고도화",
+      "subtitle": "복지·돌봄 AI 로드맵 발표, 현장 실증 및 보급 과제",
       "viz_data": {
         "stats": [
           {
-            "value": "51.8%",
-            "label": "사탐 선택률"
+            "value": "AI 로봇",
+            "label": "핵심 기술"
           },
           {
-            "value": "3년",
-            "label": "조사 기간"
+            "value": "낙상 감지",
+            "label": "주요 기능"
           },
           {
-            "value": "26만+",
-            "label": "선택자 수"
+            "value": "2026년",
+            "label": "로드맵 발표"
           }
         ],
-        "main_number": "+51.8%",
-        "main_text": "수능 사회탐구 선택률"
+        "main_number": "↑",
+        "main_text": "정부, 복지·돌봄 AI 대전환 로드맵 발표"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a bar chart comparing science and social subjects choices in exams, with students studying",
+      "image_prompt": "cute pastel infographic illustration of an elderly person interacting with a friendly robot, showing technological assistance, no text",
       "detail": {
-        "summary": "자연계 학생들이 대학수학능력시험에서 과학탐구 대신 사회탐구 과목을 선택하는 '사탐런' 현상이 심화되고 있습니다. 최근 3년간 사회탐구 선택률은 51.8%에 달했으며, 이는 등급 획득의 유불리를 고려한 전략적 선택으로 분석됩니다.",
+        "summary": "정부가 '복지·돌봄 AI 대전환 로드맵'을 통해 돌봄로봇 및 신체보조 기술 고도화를 추진하고 있으나, 현장 실증과 보급 확산이 중요한 과제로 남아있다.",
         "points": [
-          "자연계 학생들의 '사탐런' 현상 가속화",
-          "2025학년도 수능 사회탐구 선택률 51.8%",
-          "총 26만 1508명 선택",
-          "과학탐구보다 상대적으로 쉬운 과목 선호",
-          "입시 전략 및 등급 획득 유불리 논란"
+          "정부 '복지·돌봄 AI 대전환 로드맵' 발표",
+          "AI 기반 안전·건강 모니터링 및 낙상 방지 기술 개발 추진",
+          "현장 실증과 보급 확산을 위한 정책 연계 강조",
+          "고령화 사회에 대응하는 돌봄 기술 발전 기대"
         ],
-        "quote": "\"최근 3년간 수능 사회·과학탐구를 선택한 지원자 중에서 사회탐구를 선택한 학생은 △2025학년도 51.8%(26만1508명)...\"",
-        "context": "대학 입시 제도와 과목별 난이도에 따라 수험생들의 선택은 매년 달라집니다. '사탐런'은 이러한 입시 제도의 틈새를 공략하는 전략으로 등장했지만, 이는 과목 간 유불리 문제와 교육 본연의 목적에 대한 논란을 야기하고 있습니다.",
-        "source_url": "http://www.newstomato.com/ReadNews.aspx?no=1317332&inflow=N"
+        "quote": "은성호 보건복지부 인구·사회서비스정책실장은 지난 6일 정부가 발표한 '복지·돌봄 AI 대전환 로드맵'을 토대로 기술개발과 현장 실증을 연계하는 정책 방향을 소개했다.",
+        "context": "초고령화 사회로 진입하면서 돌봄 인력 부족 문제가 심화되고 있는 가운데, AI 기반 돌봄로봇은 노인과 장애인의 삶의 질을 향상시키는 핵심 대안이 될 수 있다.",
+        "source_url": "https://www.medipana.com/news/articleView.html?idxno=419799"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20bar%20chart%20comparing%20science%20and%20social%20subjects%20choices%20in%20exams%2C%20with%20students%20studying%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25713&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20an%20elderly%20person%20interacting%20with%20a%20friendly%20robot%2C%20showing%20technological%20assistance%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4297&nologo=true"
     },
     {
-      "id": "life-5060-health",
+      "id": "life-117",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "list",
-      "title": "5060 세대, 건강 문제 방치로 악화되는 경향 심화",
-      "subtitle": "치아 통증, 관절 불편 등 사소한 이상 방치 1위 습관",
+      "viz_type": "map",
+      "title": "롯데百, 15년 만에 서울 영토 확장",
+      "subtitle": "'롯데몰 벨리타운 청량리' 23일 오픈, 라이프스타일 거점 목표",
       "viz_data": {
         "stats": [
           {
-            "value": "1위",
-            "label": "방치 습관"
+            "value": "15년",
+            "label": "확장 공백"
           },
           {
-            "value": "치아 통증",
-            "label": "주요 증상 1"
+            "value": "롯데몰 벨리타운",
+            "label": "신규 점포"
           },
           {
-            "value": "관절 불편",
-            "label": "주요 증상 2"
+            "value": "청량리",
+            "label": "오픈 지역"
           }
         ],
-        "main_number": "5060",
-        "main_text": "세대 건강 문제"
+        "main_number": "15년만",
+        "main_text": "롯데백화점, 서울 청량리에 새 거점 오픈"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a 50-60 year old person ignoring minor health symptoms, with icons representing common ailments like toothache and joint pain",
+      "image_prompt": "cute pastel infographic illustration of a shopping mall with people enjoying various lifestyle activities, a map indicating a new location, no text",
       "detail": {
-        "summary": "50~60대 중장년층이 치아 통증, 관절 불편 등 사소한 건강 이상을 '나이 들면 당연하다'며 방치하는 습관이 1위로 나타났습니다. 이는 치료를 미루다가 병을 키우는 결과를 초래하며, 결국 더 큰 비용과 고통으로 이어질 수 있습니다.",
+        "summary": "롯데백화점이 15년 만에 서울 영토를 확장하며 23일 '롯데몰 벨리타운 청량리'를 오픈한다. 청량리역과 연결되는 지하 1층에는 미니소, 니토리 등 라이프스타일 브랜드를 입점시켜 새로운 쇼핑 경험을 제공할 예정이다.",
         "points": [
-          "5060 세대, 건강 이상 방치 경향",
-          "'원래 나이 들면 그런 것' 인식",
-          "치아 통증, 관절 불편, 청력 저하 등",
-          "초기 방치 시 치료 비용 및 고통 증대",
-          "경제적 부담이 치료 지연의 원인"
+          "롯데백화점, 15년 만에 서울 내 신규 점포 오픈",
+          "23일 '롯데몰 벨리타운 청량리' 개점",
+          "청량리역과 연결, 라이프스타일 전문 브랜드 대거 입점",
+          "벨리곰 상품 판매 숍인숍 매장 등 차별화된 콘텐츠 제공"
         ],
-        "quote": "\"나이가 들수록 몸의 작은 이상을 '원래 나이 들면 그런 것'이라며 넘기기 쉽다.\"",
-        "context": "고령화 사회가 심화되면서 중장년층의 건강 관리는 더욱 중요해지고 있습니다. 초기 증상을 간과하거나 경제적 부담으로 인해 치료를 미루는 행태는 개인의 삶의 질 저하뿐만 아니라 사회 전체의 의료비 부담으로 이어질 수 있어 예방적 건강 관리의 중요성이 강조됩니다.",
-        "source_url": "https://bravo.etoday.co.kr/view/atc_view/20283"
+        "quote": "변화하는 라이프스타일에 맞춰 고객에게 새로운 경험을 제공할 것입니다.",
+        "context": "대형 유통업체들이 소비자의 변화하는 라이프스타일에 맞춰 쇼핑과 문화, 여가를 한 번에 즐길 수 있는 복합문화공간으로 진화하며 오프라인 유통의 경쟁력을 강화하고 있다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2638582"
       },
-      "image_url": "data/images/2026-10-21/life-5060-health.jpg"
+      "image_url": "data/images/2026-10-22/life-117.jpg"
     },
     {
-      "id": "life-microplastic-board",
+      "id": "life-129",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "플라스틱 도마, 칼질 한 번에 미세플라스틱 7천만 개 발생",
-      "subtitle": "미국 연구팀, 음식물 흡착 규명… 6개월~1년 주기 교체 권고",
+      "viz_type": "word_cloud",
+      "title": "Z세대 새로운 트렌드 '조모(JOMO)' 확산",
+      "subtitle": "남들 다 해도 난 안 해, 자신에게 집중하는 즐거움",
       "viz_data": {
         "stats": [
           {
-            "value": "7천만 개",
-            "label": "연간 발생"
+            "value": "JOMO",
+            "label": "신조어"
           },
           {
-            "value": "100㎛ 미만",
-            "label": "입자 크기"
+            "value": "Z세대",
+            "label": "주도층"
           },
           {
-            "value": "6~12개월",
-            "label": "권장 교체 주기"
+            "value": "FOMO 반대",
+            "label": "개념"
           }
         ],
-        "main_number": "7천만+",
-        "main_text": "연간 미세플라스틱 발생량"
+        "main_number": "JOMO",
+        "main_text": "Fear of Missing Out (FOMO)의 반대 개념, Joy of Missing Out (JOMO)"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a plastic cutting board with knife marks, with microplastic particles floating around food, and a small warning sign",
+      "image_prompt": "cute pastel infographic illustration of a person calmly enjoying their own space and activities, surrounded by bubbles of 'missing out' that they ignore, no text",
       "detail": {
-        "summary": "플라스틱 도마를 사용할 때 칼질 한 번으로 연간 약 7천만 개의 미세플라스틱이 발생하며 음식물에 흡착될 수 있다는 미국 연구팀의 결과가 나왔습니다. 특히 당근이나 육류를 썰 때 마모량이 증가하며, 칼자국이 깊다면 6개월에서 1년 주기로 교체하는 것이 권고됩니다.",
+        "summary": "Z세대 사이에서 '남들 다 해도 난 안 해'라는 '조모(JOMO: Joy of Missing Out)' 트렌드가 확산되고 있다. 유행이나 타인의 관심에 무작정 휩쓸리기보다 자신에게 중요한 가치에 집중하며 진정한 만족감을 찾는 라이프스타일이다.",
         "points": [
-          "플라스틱 도마 사용 시 미세플라스틱 발생",
-          "연간 약 7천만 개 음식물 흡착 가능성",
-          "칼날 마찰로 100㎛ 미만 미세 파편 발생",
-          "당근·육류 썰 때 마모량 증가",
-          "6개월~1년 주기 교체 필요성 제기"
+          "Z세대 주도로 '조모(JOMO)' 라이프스타일 부상",
+          "FOMO(Fear of Missing Out)의 반대 개념",
+          "타인의 시선보다 자신에게 중요한 가치에 집중",
+          "국내에서도 새로운 라이프스타일로 주목"
         ],
-        "quote": "\"美 연구팀, 조리 중 칼날 마찰로 100㎛ 미만 미세 파편 음식물 흡착 규명\"",
-        "context": "미세플라스틱은 환경뿐만 아니라 인체 건강에도 유해하다는 연구 결과들이 계속 발표되고 있습니다. 일상생활에서 흔히 사용하는 주방용품에서 미세플라스틱이 발생한다는 사실은 소비자들의 주의를 환기시키고, 안전한 제품 선택 및 사용 습관의 중요성을 강조합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004168338?sid=103"
+        "quote": "유행이나 타인의 관심을 무작정 좇기보다 자신에게 중요한 가치에 집중하는 태도",
+        "context": "디지털 시대에 정보 과부하와 타인과의 끊임없는 비교 속에서 피로감을 느끼는 현대인들이, 특히 젊은 세대를 중심으로 내면의 만족과 자기 돌봄을 중시하는 경향이 강해지고 있음을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014269998?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20showing%20a%20plastic%20cutting%20board%20with%20knife%20marks%2C%20with%20microplastic%20particles%20floating%20around%20food%2C%20and%20a%20small%20warning%20sign%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18329&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20calmly%20enjoying%20their%20own%20space%20and%20activities%2C%20surrounded%20by%20bubbles%20of%20%27missing%20out%27%20that%20they%20ignore%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26725&nologo=true"
     },
     {
-      "id": "life-pet-travel",
+      "id": "life-131",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "pie_chart",
-      "title": "반려동물 동반 여행 시장 성장… 호텔·여행 플랫폼 혜택 확대",
-      "subtitle": "반려견 동반 숙박 패키지 출시, 전용 서비스 강화",
+      "viz_type": "before_after",
+      "title": "40대 여성, 85kg 감량 성공 비결",
+      "subtitle": "살 빠지고 혈당 수치 정상화, 건강한 식단과 습관의 힘",
       "viz_data": {
         "stats": [
           {
-            "value": "스몰 스터프",
-            "label": "협력 브랜드"
+            "value": "-85kg",
+            "label": "감량"
           },
           {
-            "value": "5만 원",
-            "label": "이용권 증정"
+            "value": "41세",
+            "label": "나이"
           },
           {
-            "value": "다음 달 말",
-            "label": "혜택 기간"
+            "value": "혈당 정상",
+            "label": "건강 변화"
           }
         ],
-        "main_number": "성장",
-        "main_text": "반려동물 동반 여행 시장"
+        "main_number": "-85kg",
+        "main_text": "비만 극복, 건강한 라이프스타일 전환 성공"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, showing a family with a pet dog enjoying a vacation, with hotel and travel icons",
+      "image_prompt": "cute pastel infographic illustration showing a person's journey of weight loss and health improvement, with healthy food and exercise elements, no text",
       "detail": {
-        "summary": "반려동물과 함께 여행하는 문화가 확산되면서 호텔과 여행 플랫폼들이 관련 숙박 혜택을 확대하고 있습니다. 롯데호텔앤리조트는 반려견 동반 숙박 패키지를 출시하고 반려동물 라이프스타일 브랜드 이용권 등을 제공하며 시장 변화에 적극 대응하고 있습니다.",
+        "summary": "어릴 적부터 비만이었던 40대 여성이 85kg을 감량하고 혈당 수치를 정상화하는 데 성공하며, 건강한 식단과 꾸준한 생활 습관의 중요성을 보여주는 사례가 소개되었다.",
         "points": [
-          "반려동물 동반 여행 트렌드 확산",
-          "호텔·여행 플랫폼, 관련 혜택 확대",
-          "롯데호텔앤리조트 '미 앤 마이 펫' 패키지 출시",
-          "반려동물 라이프스타일 브랜드 '스몰 스터프' 이용권 증정",
-          "펫 프렌들리 숙박 시설 및 서비스 증가"
+          "41세 여성, 총 85kg 감량 성공",
+          "어릴 적부터 비만, 패스트푸드 섭취 습관",
+          "감량 후 혈당 수치 정상화 및 건강 개선",
+          "꾸준한 식단 관리와 생활 습관 변화가 핵심"
         ],
-        "quote": "\"롯데호텔앤리조트 다음 달 30일까지 반려견 동반 숙박 패키지 ‘미 앤 마이 펫’ 이용 고객에게는 반려동물 라이프스타일 브랜드 ‘스몰 스터프’의 5만원 이용권을...\"",
-        "context": "반려동물을 가족처럼 여기는 '펫팸족'이 증가하면서 반려동물 관련 산업이 빠르게 성장하고 있습니다. 특히 함께 여행하고 즐기려는 수요가 늘면서 숙박 및 여가 업계는 새로운 고객층을 확보하기 위해 다양한 맞춤형 서비스를 선보이고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004168333?sid=103"
+        "quote": "살 빠지고 혈당 수치 정상",
+        "context": "개인의 건강한 삶을 위한 노력은 단순히 체중 감량을 넘어 전반적인 신체 건강과 활력을 되찾는 과정이며, 이는 많은 사람들에게 긍정적인 동기 부여가 될 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/346/0000117687?sid=103"
       },
-      "image_url": "data/images/2026-10-21/life-pet-travel.jpg"
+      "image_url": "data/images/2026-10-22/life-131.jpg"
     }
   ],
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T06:15:27.788172+09:00"
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T06:08:04.317074+09:00"
 }
