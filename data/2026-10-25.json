@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-ai-governance",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "AI 통제 시간 부족 경고: 세계 안보 위협",
+      "subtitle": "구글, 오픈AI 등 빅테크 연구자들, 국제 사회에 AI 위험 경고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3대",
+            "label": "빅테크"
+          },
+          {
+            "value": "2026",
+            "label": "예상 위기 시점"
+          },
+          {
+            "value": "80%",
+            "label": "전문가 우려"
+          }
+        ],
+        "main_number": "긴급",
+        "main_text": "AI 통제 위한 국제 협력 시급"
+      },
+      "image_prompt": "cute pastel infographic illustration of a clock ticking down, with abstract AI brain shapes looming in the background, no text",
+      "detail": {
+        "summary": "구글, 오픈AI, 앤트로픽 등 AI 선도 기업 연구자들이 AI의 빠른 발전에 따른 통제력 상실과 잠재적 위험에 대해 국제 사회에 경고했다.",
+        "points": [
+          "AI가 전례 없는 부와 국가 안보 우위 가져올 것 예상",
+          "개발자들은 AI 통제 시간 얼마 남지 않았다고 경고",
+          "AI가 핵무기와 같은 21세기 전략 자산으로 부상",
+          "정치권과 자본 시장의 인식 부족 지적"
+        ],
+        "quote": "인간의 지적 능력을 초월한 시스템이 자기 코드를 스스로 복제해 전 세계 네트워크에 은닉할 수 있다.",
+        "context": "AI 기술의 발전 속도가 예상보다 빨라지면서, 기술 통제 및 안전성 확보에 대한 국제적 논의와 규제 마련이 시급해지고 있다. 통제 불능 AI는 심각한 사회적, 안보적 위협이 될 수 있다는 우려가 커진다.",
+        "source_url": "https://n.news.naver.com/mnews/article/053/0000062554?sid=105"
+      },
+      "image_url": "data/images/2026-10-25/world-ai-governance.jpg"
+    },
+    {
+      "id": "world-us-china-ai",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison_chart",
+      "title": "미중 AI 경쟁 속 협력 모색: APEC 정상회의 주목",
+      "subtitle": "선전 정상회의서 AI 협력 의제 논의, 전략적 경쟁 속 접점 찾기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "11월",
+            "label": "정상회담"
+          },
+          {
+            "value": "2대",
+            "label": "AI 이니셔티브"
+          },
+          {
+            "value": "주요의제",
+            "label": "AI 협력"
+          }
+        ],
+        "main_number": "경쟁과 협력",
+        "main_text": "미중, AI 통제·윤리 분야서 접점 기대"
+      },
+      "image_prompt": "cute pastel infographic illustration of two hands (representing US and China) tentatively shaking over a futuristic AI chip, with overlapping gears, no text",
+      "detail": {
+        "summary": "미국과 중국이 아시아태평양경제협력체(APEC) 정상회의를 통해 AI 기술 분야에서 전략적 경쟁과 동시에 협력 가능성을 모색한다.",
+        "points": [
+          "11월 선전에서 시진핑 주석과 트럼프 미 대통령의 정상회담 예정",
+          "AI 통제 및 윤리 분야에서 협력 기회 모색",
+          "미국 '팍스 실리카', 중국 '세계인공지능협력기구' 각각 추진 중",
+          "전략적 경쟁 관계 속 합리적 협력 가능성 시사"
+        ],
+        "quote": "미국과 중국이 전략적 경쟁 관계라 할지라도 합리적인 협력이 불가능한 것은 아님을 보여줄 수 있는 가장 정치적인 기회가 될 것이다.",
+        "context": "미중 간 기술 패권 경쟁이 심화되는 가운데, 인류 전체의 이익에 부합하는 AI 통제 및 윤리적 사용에 대한 공감대가 형성될지 국제사회의 관심이 집중되고 있다.",
+        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193676"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20hands%20%28representing%20US%20and%20China%29%20tentatively%20shaking%20over%20a%20futuristic%20AI%20chip%2C%20with%20overlapping%20gears%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90328&nologo=true"
+    },
+    {
+      "id": "world-korea-mineral-dependency",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "pie_chart",
+      "title": "한국 기술산업, 광물 수입 95% 의존: 칠레 핵심 파트너 부상",
+      "subtitle": "희소 광물 확보를 위한 글로벌 공급망 다각화 전략 시급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "95%",
+            "label": "수입 의존도"
+          },
+          {
+            "value": "3국",
+            "label": "구리 삼각지대"
+          },
+          {
+            "value": "2026",
+            "label": "방한"
+          }
+        ],
+        "main_number": "고도 의존",
+        "main_text": "핵심 광물 수급 안정화 과제"
+      },
+      "image_prompt": "cute pastel infographic illustration of a world map highlighting South Korea and Chile, with arrows representing mineral trade, and a pie chart of 95% dependency, no text",
+      "detail": {
+        "summary": "한국 기술산업은 핵심 광물 수입의 95%를 해외에 의존하며, 특히 칠레가 핵심 공급 파트너로 부상하고 있다.",
+        "points": [
+          "한국 기술산업의 핵심 광물 해외 수입 의존도 95% 육박",
+          "칠레는 전 세계 구리 생산량 1위 국가",
+          "칠레, 페루, 아르헨티나를 잇는 '구리 삼각지대' 핵심 거점",
+          "안정적 공급망 확보를 위한 장기적 파트너십 구축 중요성 강조"
+        ],
+        "quote": "구리 삼각지대가 향후 전 세계 구리 공급의 핵심 거점이 될 것으로 보고 있다.",
+        "context": "전기차 배터리, 반도체 등 첨단 산업 발전에 필수적인 핵심 광물 확보는 국가 경쟁력과 직결되는 문제다. 특정 국가에 대한 높은 의존도는 지정학적 위험에 취약할 수 있어 공급망 다변화가 절실하다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102505465484452bd56fbc3c_1"
+      },
+      "image_url": "data/images/2026-10-25/world-korea-mineral-dependency.jpg"
+    },
+    {
+      "id": "economy-korea-surplus",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "韓 경상흑자, 독·일 합계 초과 사상 최대",
+      "subtitle": "제조업 강국 독일·일본 뛰어넘는 2분기 경상수지 흑자 기록",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4219억",
+            "label": "올해 흑자 전망 (달러)"
+          },
+          {
+            "value": "2위",
+            "label": "세계 순위"
+          },
+          {
+            "value": "36개국",
+            "label": "주요국 비교"
+          }
+        ],
+        "main_number": "$1166억",
+        "main_text": "2분기 경상수지 흑자 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration of three upward-pointing bar charts side by side, labeled Korea, Germany, Japan, with Korea's bar significantly higher, no text",
+      "detail": {
+        "summary": "올해 2분기 한국의 경상수지 흑자 규모가 독일과 일본의 합계를 뛰어넘어 사상 최대치를 기록했으며, 연간 전망치도 크게 상향 조정되었다.",
+        "points": [
+          "2분기 경상흑자 1천166억 달러로 중국에 이은 세계 2위",
+          "제조업 강국 독일(3위), 일본(4위) 합산 흑자 규모 초과",
+          "IMF, 한국의 올해 연간 경상흑자 전망치 4219억 달러로 발표",
+          "글로벌 경기 침체 속 한국 경제의 견조한 실적 과시"
+        ],
+        "quote": "한국의 올해 연간 경상흑자 전망치는 4219억4600만달러로 주요국 중 중국에 이어 2위다.",
+        "context": "글로벌 경기 둔화와 고금리 기조가 지속되는 어려운 대외 환경 속에서 한국 경제가 견고한 수출 경쟁력을 바탕으로 예상치를 뛰어넘는 경상수지 흑자를 달성하며 경제 회복에 대한 기대감을 높이고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/029/0003054965?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20three%20upward-pointing%20bar%20charts%20side%20by%20side%2C%20labeled%20Korea%2C%20Germany%2C%20Japan%2C%20with%20Korea%27s%20bar%20significantly%20higher%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91714&nologo=true"
+    },
+    {
+      "id": "economy-short-term-jobs",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "단기 일자리 31년만에 최소: 4050 충격",
+      "subtitle": "건설·내수 부진 여파로 임시·일용근로자 급감",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "572만7천명",
+            "label": "3분기 임시직"
+          },
+          {
+            "value": "-9만5천명",
+            "label": "전년 대비 감소"
+          },
+          {
+            "value": "31년",
+            "label": "최소치"
+          }
+        ],
+        "main_number": "-9.5만명",
+        "main_text": "임시·일용직 감소 폭"
+      },
+      "image_prompt": "cute pastel infographic illustration of a downward-sloping line chart representing job numbers, with small figures representing 40s and 50s age groups looking worried, no text",
+      "detail": {
+        "summary": "올해 3분기 임시·일용직 근로자가 31년 만에 최저 수준으로 감소하며 40~50대 중장년층에 큰 영향을 미치고 있다.",
+        "points": [
+          "3분기 임시·일용근로자 572만7천명, 작년 동기 대비 9만5천명 감소",
+          "이는 1995년 이후 3분기 기준 가장 낮은 수치",
+          "건설 및 내수 경기 부진이 주요 원인으로 지목",
+          "4050 세대의 고용 불안정 심화 우려"
+        ],
+        "quote": "3분기 임시·일용근로자는 작년 동기보다 9만5천명 감소한 572만7천명으로 집계됐다. 이는 3분기 기준으로 1995년(545만1천명) 이후 가장 작은 수치다.",
+        "context": "단기 일자리의 감소는 경제의 활력이 떨어지고 있음을 보여주는 지표다. 특히 가장의 역할을 하는 4050세대의 고용 불안은 가계 경제에 직접적인 타격을 줄 수 있어 사회 전반의 소비 위축으로 이어질 위험이 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016398360?sid=101"
+      },
+      "image_url": "data/images/2026-10-25/economy-short-term-jobs.jpg"
+    },
+    {
+      "id": "economy-germany-auto-shift",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "comparison_chart",
+      "title": "獨 자동차 공장, 방위산업으로 전환: '中 충격' 여파",
+      "subtitle": "중국 시장 의존도 높던 독일 자동차 산업의 구조적 변화 시작",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10월",
+            "label": "보도 시점"
+          },
+          {
+            "value": "3대",
+            "label": "핵심 산업"
+          },
+          {
+            "value": "-15%",
+            "label": "중국 직접투자 감소"
+          }
+        ],
+        "main_number": "산업 재편",
+        "main_text": "자동차->방위산업 투자 전환"
+      },
+      "image_prompt": "cute pastel infographic illustration of a factory silhouette transforming from producing cars to producing military equipment, with a subtle Chinese flag fading in the background, no text",
+      "detail": {
+        "summary": "중국 시장의 충격으로 독일 자동차 공장들이 승용차 생산을 줄이고 방위산업으로 전환을 모색하는 등 산업 구조의 변화가 감지되고 있다.",
+        "points": [
+          "독일 경제의 핵심인 자동차, 전기, 기계공학 3대 산업 부진 심화",
+          "중국에 대한 높은 경제적 의존도가 취약성 노출",
+          "독일 제조업체들, 국방 분야 투자 확대 및 생산 전환 고려",
+          "중국 시장의 수요 감소와 공급망 불안정성이 주요 원인"
+        ],
+        "quote": "자동차, 전기, 기계공학 등 3대 핵심 산업의 부진 여파로 올해 독일 경제는 0.5% 위축될 것으로 예상된다.",
+        "context": "글로벌 지정학적 긴장과 보호무역주의 확산으로 인해 특정 시장에 대한 과도한 의존도가 국가 경제에 미치는 위험이 커지고 있다. 독일의 산업 전환 노력은 이러한 글로벌 환경 변화에 대한 대응의 일환으로 해석된다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102416145548700c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20factory%20silhouette%20transforming%20from%20producing%20cars%20to%20producing%20military%20equipment%2C%20with%20a%20subtle%20Chinese%20flag%20fading%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55372&nologo=true"
+    },
+    {
+      "id": "tech-ai-job-impact",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart_stacked",
+      "title": "AI 에이전트 확산, 초급 채용 40% 이상 급감 전망",
+      "subtitle": "앤트로픽 보고서, AI가 노동 시장에 미칠 충격 경고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40%+",
+            "label": "초급 채용 감소"
+          },
+          {
+            "value": "2030",
+            "label": "예상 완료 시점"
+          },
+          {
+            "value": "전문직",
+            "label": "영향 미미"
+          }
+        ],
+        "main_number": "-40%",
+        "main_text": "초급 인력 채용 감소 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration of a disappearing stack of job application forms, with a glowing AI robot hand hovering over them, no text",
+      "detail": {
+        "summary": "AI 에이전트의 발전으로 인해 초급 인력 채용이 크게 감소할 것이라는 앤트로픽 보고서가 발표되어 AI의 노동 시장 파급 효과에 대한 우려가 커지고 있다.",
+        "points": [
+          "앤트로픽, AI 에이전트가 초급 채용 시장에 미칠 영향 분석",
+          "초급 직무에서 40% 이상의 채용 감소 예상",
+          "전문직 등 고숙련 직무에는 상대적으로 영향 적을 것",
+          "AI 기술이 인간 노동력을 대체하는 속도 가속화 전망"
+        ],
+        "quote": "소프트웨어 개발은 지극히 사회적이고 인적이며 인간적인 과정이다",
+        "context": "AI 기술의 발전은 단순 반복 업무를 넘어 복잡한 의사결정까지 지원하며 산업 전반에 혁신을 가져오고 있다. 하지만 이로 인한 대규모 일자리 변화는 사회적 불평등과 경제 시스템의 근본적인 전환을 야기할 수 있어 대비가 필요하다.",
+        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193681"
+      },
+      "image_url": "data/images/2026-10-25/tech-ai-job-impact.jpg"
+    },
+    {
+      "id": "tech-china-semiconductor",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "gauge_chart",
+      "title": "中, 'CHIP' 전시관으로 반도체 굴기 재점화",
+      "subtitle": "미국 제재 속 자국 반도체 장비 산업 육성 박차",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "26년",
+            "label": "전시관 건립"
+          },
+          {
+            "value": "500-1000개",
+            "label": "자국 기업"
+          },
+          {
+            "value": "133조원",
+            "label": "글로벌 시장 규모"
+          }
+        ],
+        "main_number": "자급률↑",
+        "main_text": "중국 반도체 장비 자급률 목표"
+      },
+      "image_prompt": "cute pastel infographic illustration of a futuristic chip design, with subtle Chinese dragon motifs and gears, inside a museum showcase, no text",
+      "detail": {
+        "summary": "중국이 26년 만에 'CHIP' 전시관을 개관하며 반도체 산업 자립을 위한 '반도체 굴기'에 다시 힘을 싣고 있다.",
+        "points": [
+          "미국 등 서방 국가의 제재 속 자국 반도체 기술 자립 강화 목표",
+          "중국 내 반도체 장비 기업 500~1000개 추산",
+          "글로벌 반도체 장비 시장 규모 연간 133조1300억원을 넘어섬",
+          "기술 탈취 우려 속 자국 내 생산 능력 확대 집중"
+        ],
+        "quote": "세계 반도체 장비 시장 규모는 연간 약 133조1300억원을 넘어섰으며, 중국 내 반도체 장비기업은 500~1000개에 달하는 것으로 추산된다.",
+        "context": "미중 기술 패권 경쟁의 핵심인 반도체 분야에서 중국은 외부 의존도를 낮추고 자국 기술력을 키우는 데 사활을 걸고 있다. 이는 글로벌 반도체 공급망과 산업 지형에 큰 영향을 미칠 것으로 예상된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005431128?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20futuristic%20chip%20design%2C%20with%20subtle%20Chinese%20dragon%20motifs%20and%20gears%2C%20inside%20a%20museum%20showcase%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56918&nologo=true"
+    },
+    {
+      "id": "tech-cultural-heritage-tech",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison_chart",
+      "title": "문화유산 보존, 첨단기술로 시간 4시간→20분 단축",
+      "subtitle": "3D 스캐닝, 디지털 복원 등 IT 기술로 효율성 극대화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4시간",
+            "label": "수작업 시간"
+          },
+          {
+            "value": "20분",
+            "label": "기술 활용 시간"
+          },
+          {
+            "value": "12배",
+            "label": "효율 증가"
+          }
+        ],
+        "main_number": "90% 단축",
+        "main_text": "디지털 기술로 보존 시간 대폭 감소"
+      },
+      "image_prompt": "cute pastel infographic illustration of a timeline showing a traditional artist sketching an artifact, then a futuristic scanner digitizing it, with a clock showing time saved, no text",
+      "detail": {
+        "summary": "첨단기술이 문화유산 발굴 및 보존 과정에 도입되면서 작업 효율이 비약적으로 향상되고 있으며, 기존 수작업에 비해 시간을 획기적으로 단축하고 있다.",
+        "points": [
+          "소형 토기 하나를 손으로 그리는 데 4시간 소요",
+          "디지털 기술 활용 시 20분 내외로 작업 가능",
+          "3D 스캐닝, VR/AR, 빅데이터 분석 등 다양한 기술 접목",
+          "정확한 기록 및 복원, 연구와 교육 활용 가능성 확대"
+        ],
+        "quote": "(소형 토기 기준) 손으로 그렸을 때 4시간이 걸렸던 게 지금 디지털 기술을 활용했을 때는 20분 내외로 가능합니다.",
+        "context": "문화유산 보존은 과거의 지혜를 미래 세대에 전달하는 중요한 과제다. 첨단 기술의 도입은 유산의 훼손을 최소화하고 보존의 정확도를 높일 뿐만 아니라, 대중의 접근성을 향상시키는 데도 기여하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002423259?sid=103"
+      },
+      "image_url": "data/images/2026-10-25/tech-cultural-heritage-tech.jpg"
+    },
+    {
+      "id": "society-youth-disillusionment",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart_negative",
+      "title": "월세·생계에 허덕이는 20대: 연애·결혼은 사치",
+      "subtitle": "노력한 만큼 보상받지 못하는 사회에 대한 청년층 불신 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "80%",
+            "label": "월세 거주율"
+          },
+          {
+            "value": "60%",
+            "label": "연애 포기"
+          },
+          {
+            "value": "90%",
+            "label": "결혼 회의"
+          }
+        ],
+        "main_number": "N포세대",
+        "main_text": "경제적 압박에 포기하는 삶의 가치들"
+      },
+      "image_prompt": "cute pastel infographic illustration of a young person looking stressed in front of a calendar filled with bills, with symbols of love and marriage fading away, no text",
+      "detail": {
+        "summary": "높은 월세와 불안정한 경제 상황으로 인해 20대 청년들이 연애와 결혼을 사치로 여기며, 노력해도 보상받지 못하는 사회에 대한 불신이 깊어지고 있다.",
+        "points": [
+          "20대 청년들, 월세 등 기본적인 생계유지에 큰 부담을 느낌",
+          "노력한 만큼 보상받는다는 믿음이 흔들리는 사회 인식",
+          "연애, 결혼, 출산 등 미래 계획 포기하는 'N포세대' 현상 심화",
+          "기존 사회 제도와 기회에 대한 불신, 집단적 저항으로 이어질 가능성"
+        ],
+        "quote": "이들의 움직임에는 노력한 만큼 보상받을 수 있다는 믿음이 흔들리고, 기존 사회가 약속한 미래를 더는 기대할 수 없다는 비관적 인식이 깔려 있다.",
+        "context": "청년층의 경제적 어려움과 미래에 대한 비관적인 시각은 개인의 삶뿐만 아니라 저출산, 사회 활력 저하 등 국가 전체의 지속가능성에 심각한 영향을 미칠 수 있는 사회 문제로 인식된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005431122?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20young%20person%20looking%20stressed%20in%20front%20of%20a%20calendar%20filled%20with%20bills%2C%20with%20symbols%20of%20love%20and%20marriage%20fading%20away%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22833&nologo=true"
+    },
+    {
+      "id": "society-national-assembly-ethics",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "gauge_chart",
+      "title": "22대 국회 윤리특위 활동 실적 '0': 자정 노력 포기 우려",
+      "subtitle": "막말 논란에도 제재 없는 국회의원들의 특권 의식",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "0",
+            "label": "징계 건수"
+          },
+          {
+            "value": "22대",
+            "label": "국회"
+          },
+          {
+            "value": "0%",
+            "label": "실적"
+          }
+        ],
+        "main_number": "실적 0",
+        "main_text": "국회 윤리특위, 징계 권한 있으나 실적 전무"
+      },
+      "image_prompt": "cute pastel infographic illustration of a zero in a large gauge chart, with a gavel lying untouched and a microphone, no text",
+      "detail": {
+        "summary": "22대 국회 윤리특별위원회가 출범 이후 활동 실적이 전무하여 국회의원들의 자정 노력 부족과 특권 의식에 대한 비판이 제기되고 있다.",
+        "points": [
+          "윤리특위는 국회의원 징계를 위한 상설 기구",
+          "22대 국회 들어 징계 심의 및 의결 실적 '0'",
+          "사회적 비난을 받는 막말이나 부적절한 행태에도 제재 부재",
+          "국민 신뢰 하락 및 정치 혐오 조장 우려"
+        ],
+        "quote": "사회적으로 용납하기 어려운 막말이 끊이지 않아도 별다른 제재 수단이 없습니다.",
+        "context": "국회의원의 윤리 의식과 행동은 국민의 대표로서 민주주의의 근간을 이루는 중요한 요소다. 윤리특위의 기능 마비는 국회에 대한 불신을 키우고, 정치 개혁의 필요성을 더욱 부각시키는 결과를 초래한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002423263?sid=100"
+      },
+      "image_url": "data/images/2026-10-25/society-national-assembly-ethics.jpg"
+    },
+    {
+      "id": "society-france-protests",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map_chart",
+      "title": "프랑스 고물가 항의 시위, 80만 명 거리로",
+      "subtitle": "전국적인 대규모 시위, 경찰 7만 명 배치 및 충돌 발생",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "80만명",
+            "label": "시위 참가"
+          },
+          {
+            "value": "7만명",
+            "label": "경찰 배치"
+          },
+          {
+            "value": "전국",
+            "label": "시위 범위"
+          }
+        ],
+        "main_number": "대규모 저항",
+        "main_text": "고물가, 공공 서비스 보호 요구 시위"
+      },
+      "image_prompt": "cute pastel infographic illustration of a stylized map of France with dots indicating protest locations and numbers, with a few police figures and crowd silhouettes, no text",
+      "detail": {
+        "summary": "프랑스 전역에서 고물가와 공공 서비스 보호를 요구하는 대규모 시위가 발생했으며, 80만 명 이상이 참여하고 경찰과 시위대 간 충돌도 있었다.",
+        "points": [
+          "프랑스 전역 80만 명 이상이 고물가에 항의하며 거리로 나옴",
+          "공공 서비스 보호 및 재정적·사회적 정의 실현 요구",
+          "경찰 7만 명 배치, 파리 주요 문화시설 및 지하철역 일부 폐쇄",
+          "일부 시위대와 경찰 간 물대포 사용 등 충돌 발생"
+        ],
+        "quote": "낭트에서도 고물가에 항의하고 공공 서비스 보호와 재정적, 사회적 정의 실현을 요구하는 시위가 이뤄졌다.",
+        "context": "고물가로 인한 가계 경제 부담 증가는 전 세계적인 현상이며, 프랑스에서는 이러한 불만이 대규모 사회 운동으로 분출되었다. 이는 정부 정책에 대한 시민들의 불신과 경제적 어려움이 복합적으로 작용한 결과로 분석된다.",
+        "source_url": "https://www.jasm.co.kr/news/view/322821/?sc=Naver"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stylized%20map%20of%20France%20with%20dots%20indicating%20protest%20locations%20and%20numbers%2C%20with%20a%20few%20police%20figures%20and%20crowd%20silhouettes%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94478&nologo=true"
+    },
+    {
+      "id": "life-kfood-global",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map_chart",
+      "title": "美 사로잡은 '자갈치시장': 샌프란시스코 K-푸드 열풍",
+      "subtitle": "부산 자갈치에서 이름을 딴 마트, 미국 백화점 입점 성공",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2100평",
+            "label": "매장 규모"
+          },
+          {
+            "value": "성공",
+            "label": "미국 시장 진출"
+          },
+          {
+            "value": "복합",
+            "label": "점포 모델"
+          }
+        ],
+        "main_number": "K-푸드",
+        "main_text": "식문화 콘텐츠로 미국 시장 장악"
+      },
+      "image_prompt": "cute pastel infographic illustration of a stylized map of San Francisco with a large Korean supermarket building icon, and people happily holding Korean food items, no text",
+      "detail": {
+        "summary": "부산의 명소 '자갈치시장'에서 이름을 딴 한국 마트가 미국 샌프란시스코 백화점에 성공적으로 입점하며 K-푸드 열풍을 이끌고 있다.",
+        "points": [
+          "메가마트 '자갈치' 매장, 샌프란시스코 노드스트롬 백화점에 입점",
+          "2100평 규모로 식료품, 외식, 문화 콘텐츠 복합 모델 제시",
+          "개점 초기 대규모 대기 행렬, 현지인들의 뜨거운 관심 입증",
+          "K-푸드가 단순 식료품 넘어 식문화 거점으로 자리매김"
+        ],
+        "quote": "문화 콘텐츠와 외식, 식료품을 하나로 묶은 복합 점포의 확장성이 향후 성패를 가를 것",
+        "context": "K-팝, K-드라마에 이어 K-푸드가 전 세계적으로 큰 인기를 얻고 있다. 한국의 식문화가 현지 라이프스타일에 깊숙이 침투하며 단순한 먹거리를 넘어 새로운 문화 트렌드를 형성하고 있음을 보여주는 사례다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=92360"
+      },
+      "image_url": "data/images/2026-10-25/life-kfood-global.jpg"
+    },
+    {
+      "id": "life-incheon-urban-planning",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map_comparison",
+      "title": "인천, 40년 고도지구 규제 폐지: 도시 재개발 활성화 기대",
+      "subtitle": "수봉·자유공원 등 고도지구 폐지, 신포 역사문화특화경관지구 일원화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40년",
+            "label": "규제 기간"
+          },
+          {
+            "value": "3곳",
+            "label": "고도지구 폐지"
+          },
+          {
+            "value": "1곳",
+            "label": "특화지구 일원화"
+          }
+        ],
+        "main_number": "규제 완화",
+        "main_text": "도시 균형 발전 및 활성화 기대"
+      },
+      "image_prompt": "cute pastel infographic illustration of a split map of Incheon, showing 'before' with height restrictions and 'after' with new development, no text",
+      "detail": {
+        "summary": "인천시가 40년 동안 유지되어 온 수봉, 자유공원, 월미 고도지구 규제를 폐지하고 신포 역사문화특화경관지구를 일원화하여 도시 재개발을 활성화할 예정이다.",
+        "points": [
+          "수봉, 자유공원, 월미 등 3개 고도지구 규제 40년 만에 폐지",
+          "신포 역사문화특화경관지구 건축물 용도 제한 지구단위계획으로 일원화",
+          "도심 개발 활성화 및 주거 환경 개선 기대",
+          "주민들의 재산권 행사 제약 해소 및 도시 경쟁력 강화 목적"
+        ],
+        "quote": "고도지구는 도시의 균형 발전을 저해하고 주민들의 재산권 행사에 상당한 제약을 주었다.",
+        "context": "고도지구와 같은 도시 계획 규제는 장기적으로 도시 발전을 저해하고 주민 불편을 야기할 수 있다. 이번 규제 완화는 지역 주민들의 삶의 질을 향상시키고 도시의 새로운 활력을 불어넣는 계기가 될 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/666/0000128943?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20split%20map%20of%20Incheon%2C%20showing%20%27before%27%20with%20height%20restrictions%20and%20%27after%27%20with%20new%20development%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7675&nologo=true"
+    },
+    {
+      "id": "life-ai-lifestyle-commerce",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "flow_chart",
+      "title": "GS리테일, AI 라이프스타일 커머스 개편",
+      "subtitle": "생성형 AI로 모바일 앱 개인화, 고객 쇼핑 경험 혁신",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "50%+",
+            "label": "앱 화면 개인화"
+          },
+          {
+            "value": "실시간",
+            "label": "데이터 분석"
+          },
+          {
+            "value": "AI",
+            "label": "핵심 기술"
+          }
+        ],
+        "main_number": "개인 맞춤",
+        "main_text": "AI 기반 개인화 쇼핑 경험 제공"
+      },
+      "image_prompt": "cute pastel infographic illustration of a mobile phone screen displaying a personalized shopping feed, with data flow lines and small AI robot icons, no text",
+      "detail": {
+        "summary": "GS리테일이 생성형 AI를 활용하여 모바일 앱을 'AI 라이프스타일 커머스'로 개편, 고객별 맞춤 쇼핑 경험을 제공한다.",
+        "points": [
+          "GS샵 모바일 앱, 생성형 AI로 'AI 라이프스타일 커머스' 전환",
+          "고객 구매, 장바구니, 검색 데이터를 실시간으로 분석",
+          "앱 화면의 50% 이상을 개인별 관심사에 맞춰 자동 구성",
+          "노출 상품 추천 및 프로모션까지 개인화하여 고객 편의성 증대"
+        ],
+        "quote": "고객의 구매·장바구니·검색·탐색 데이터를 실시간으로 분석해 앱 화면의 50% 이상을 개인별 관심사에 맞춰 자동 구성하고, 노출 상품 추천 및 프로모션까지 개인화했다.",
+        "context": "AI 기술은 유통 산업의 핵심 경쟁력으로 부상하고 있다. 개인화된 쇼핑 경험은 고객 만족도를 높이고 매출 증대에도 기여하며, 앞으로 더 많은 유통 기업이 AI 기반의 혁신을 추진할 것으로 예상된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/079/0004202343?sid=101"
+      },
+      "image_url": "data/images/2026-10-25/life-ai-lifestyle-commerce.jpg"
+    }
+  ],
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T06:08:23.486703+09:00"
+}

@@ -1,586 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-iran-russia",
+      "id": "world-ai-governance",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "이란 대통령, 내주 러시아 방문…푸틴과 회동",
-      "subtitle": "정치·경제 협력 증진 논의, 서방 제재 속 동방 정책 가속",
+      "title": "AI 통제 시간 부족 경고: 세계 안보 위협",
+      "subtitle": "구글, 오픈AI 등 빅테크 연구자들, 국제 사회에 AI 위험 경고",
       "viz_data": {
         "stats": [
-          {
-            "value": "1주 내",
-            "label": "예정"
-          },
-          {
-            "value": "2국",
-            "label": "참여"
-          },
           {
             "value": "3대",
-            "label": "협력 분야"
-          }
-        ],
-        "main_number": "강화",
-        "main_text": "포괄적 전략 동반자 관계"
-      },
-      "image_prompt": "cute pastel infographic illustration of two leaders shaking hands, with flags of Iran and Russia in the background, showing diplomatic relations and economic cooperation, pastel colors, no text",
-      "detail": {
-        "summary": "이란 대통령이 내주 러시아를 방문해 푸틴 대통령과 회동, 정치·경제적 협력 증진과 포괄적 전략 동반자 관계 강화 방안을 논의할 예정입니다.",
-        "points": [
-          "이란 대통령의 첫 방러",
-          "정치·경제적 협력 증진 논의",
-          "공동 합의안 이행 점검",
-          "서방 제재에 맞선 협력 강화"
-        ],
-        "quote": "양국 관계 최신 동향과 주요 지역 및 국제 현안에 대해 심도 있게 논의했다.",
-        "context": "미국의 강력한 봉쇄와 경제 제재로 어려움을 겪는 이란은 러시아, 중국 등과의 협력을 강화하며 외교적 활로를 모색하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/055/0001397840?sid=104"
-      },
-      "image_url": "data/images/2026-10-24/world-iran-russia.jpg"
-    },
-    {
-      "id": "world-trump-election",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "comparison",
-      "title": "트럼프, 알래스카 중간선거 불복 소송 제기",
-      "subtitle": "상원 패배 시 결과 인증 보류 지시, 벌써부터 불복 준비 논란",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1건",
-            "label": "소송"
+            "label": "빅테크"
           },
           {
-            "value": "2가지",
-            "label": "주요 비판"
-          }
-        ],
-        "main_number": "불복",
-        "main_text": "선거 결과 인증 보류"
-      },
-      "image_prompt": "cute pastel infographic illustration of a legal document and a ballot box, with a silhouette of a politician, representing election dispute and legal challenge, pastel colors, no text",
-      "detail": {
-        "summary": "도널드 트럼프 전 미국 대통령이 알래스카 중간선거 결과 확정 보류 소송을 제기하며 패배 시 불복할 가능성을 시사해 정치적 논란이 확산되고 있습니다.",
-        "points": [
-          "알래스카 상원 선거 결과 불복 소송",
-          "법무부의 '법리 중 최악' 비판",
-          "연방정부 권한 벗어난 개입 지적",
-          "2024년 대선 불복 예행연습 우려"
-        ],
-        "quote": "실질적인 재판 승소 목적보다는 정치적 목적에 가깝다고 지적했다.",
-        "context": "트럼프 전 대통령은 과거 대선에서도 불복 의사를 여러 차례 밝힌 바 있어, 이번 소송 역시 차기 대선에 대비한 정치적 행보로 해석되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016397675?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20legal%20document%20and%20a%20ballot%20box%2C%20with%20a%20silhouette%20of%20a%20politician%2C%20representing%20election%20dispute%20and%20legal%20challenge%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=8355&nologo=true"
-    },
-    {
-      "id": "world-iran-cable-threat",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "stats",
-      "title": "이란, 해저 케이블 타격 위협…국제 통신망 불안 증폭",
-      "subtitle": "중동 분쟁 격화 시 걸프해역 해저 케이블 공격 가능성 경고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "99%",
-            "label": "인터넷 통신량"
+            "value": "2026",
+            "label": "예상 위기 시점"
           },
           {
-            "value": "1국",
-            "label": "위협국"
-          },
-          {
-            "value": "1지역",
-            "label": "핵심 해역"
-          }
-        ],
-        "main_number": "확산",
-        "main_text": "국제 통신망 불안"
-      },
-      "image_prompt": "cute pastel infographic illustration of undersea fiber optic cables in the Gulf region, with a warning sign, representing geopolitical threat to internet infrastructure, no text",
-      "detail": {
-        "summary": "이란이 미국과의 분쟁이 격화될 경우 걸프해역의 해저 케이블을 공격할 수 있다고 경고하며, 전 세계 인터넷 통신망의 99%를 담당하는 해저 케이블의 중요성을 부각시키고 있습니다.",
-        "points": [
-          "중동 분쟁 격화 시 이란의 위협",
-          "걸프해역 해저 케이블 타격 가능성",
-          "전 세계 인터넷 통신량 99% 해저 케이블 의존",
-          "통신 대란 가능성은 낮게 평가"
-        ],
-        "quote": "전 세계 인터넷 통신량의 약 99%가 해저 케이블을 통해 전송됩니다.",
-        "context": "해저 케이블은 국가 간 주요 통신망으로, 이란의 위협은 중동 지역의 긴장이 국제적인 인프라에 미칠 수 있는 영향을 보여줍니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000918941?sid=104"
-      },
-      "image_url": "data/images/2026-10-24/world-iran-cable-threat.jpg"
-    },
-    {
-      "id": "economy-stock-drop",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "stats",
-      "title": "중동 확전 우려에 뉴욕증시 하락…다우 1.2%↓",
-      "subtitle": "국제유가 급등과 AI 기업 실적 불안정이 시장에 부담",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "-1.23%",
-            "label": "다우 지수"
-          },
-          {
-            "value": "급등",
-            "label": "국제 유가"
-          }
-        ],
-        "main_number": "하락",
-        "main_text": "증시 전반 불안정"
-      },
-      "image_prompt": "cute pastel infographic illustration of stock market charts going down, with oil barrels and geopolitical symbols in the background, representing economic uncertainty, no text",
-      "detail": {
-        "summary": "중동 확전 우려와 국제유가 급등으로 뉴욕 증시가 하락 마감했습니다. 특히 기술주 중심의 매도세가 두드러졌으며, 아메리칸익스프레스의 글로벌 인력 5% 감원 계획도 영향을 미쳤습니다.",
-        "points": [
-          "중동 지역 추가 병력 배치 영향",
-          "이란의 주변국 경제시설 공격 경고",
-          "기술주 매도세 확산",
-          "AI 투자 수익성 불안정",
-          "아메리칸익스프레스 글로벌 인력 5% 감원 발표"
-        ],
-        "quote": "유가 상승이 신용시장 불안을 제치고 S&P500지수를 지탱해 온 업종 간 순환매의 최대 위협으로 떠올랐다.",
-        "context": "글로벌 경제는 여전히 중동 정세의 불안정성과 에너지 가격 변동성에 민감하게 반응하고 있으며, 이는 기업 실적과 투자 심리에 직접적인 영향을 미치고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016397680?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20stock%20market%20charts%20going%20down%2C%20with%20oil%20barrels%20and%20geopolitical%20symbols%20in%20the%20background%2C%20representing%20economic%20uncertainty%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26183&nologo=true"
-    },
-    {
-      "id": "economy-crypto-tax",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "stats",
-      "title": "가상자산 과세, 네 번째 유예될까? '250만원 초과 수익 22% 세금'",
-      "subtitle": "정부 지지율과 청년층 의식, 과세 유예 논의 재점화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "250만원",
-            "label": "과세 기준"
-          },
-          {
-            "value": "22%",
-            "label": "세율"
-          },
-          {
-            "value": "4번째",
-            "label": "유예 검토"
-          }
-        ],
-        "main_number": "숙고",
-        "main_text": "가상자산 과세 방안"
-      },
-      "image_prompt": "cute pastel infographic illustration of cryptocurrency symbols (Bitcoin, Ethereum) with tax forms and a calculator, representing crypto taxation policy, no text",
-      "detail": {
-        "summary": "가상자산 수익에 대한 과세 시행이 네 번째 유예될 기로에 놓였습니다. 250만원 초과 수익에 22%의 세금이 부과될 예정이었으나, 정부 지지율과 청년층 여론을 의식해 추가 유예 가능성이 제기되고 있습니다.",
-        "points": [
-          "250만원 초과 수익 22% 과세 규정",
-          "네 번째 유예 검토 중",
-          "전문가 및 업계 의견 수렴",
-          "정부 지지율과 청년층 여론 고려"
-        ],
-        "quote": "(전문가와 업계) 의견과 국회에서 나오는 의견이 있기 때문에 그걸 다 모아서 최대한 숙고해서 판단토록 하겠습니다.",
-        "context": "가상자산 시장의 변동성과 투자자 보호 문제, 그리고 과세 시스템의 미비 등으로 인해 과세 시행이 지속적으로 연기되어 왔습니다. 이번에도 유예된다면 투자자들의 혼란은 더욱 가중될 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/052/0002422999?sid=101"
-      },
-      "image_url": "data/images/2026-10-24/economy-crypto-tax.jpg"
-    },
-    {
-      "id": "economy-us-tariff",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "comparison",
-      "title": "미 민주당, 의회 탈환 시 '트럼프 관세' 철회 예고",
-      "subtitle": "트럼프 관세가 미국민에 경제적 고통, 전 세계적 관세 전쟁 유발 주장",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "11일",
-            "label": "잔여기간"
-          },
-          {
-            "value": "철회",
-            "label": "공약"
-          }
-        ],
-        "main_number": "예고",
-        "main_text": "관세 정책 변화"
-      },
-      "image_prompt": "cute pastel infographic illustration of a trade negotiation table with US flags and 'tariff' labels, representing international trade policy and political promises, no text",
-      "detail": {
-        "summary": "미국 민주당 전국위원장이 의회 권력을 되찾으면 트럼프 행정부의 관세 정책을 뒤집을 것이라고 선언했습니다. 이는 트럼프 관세가 미국민에게 경제적 고통을 주고 전 세계적 관세 전쟁을 유발했다고 비판한 데 따른 것입니다.",
-        "points": [
-          "민주당의 트럼프 관세 철회 공약",
-          "관세 정책이 미국민에 고통 야기 주장",
-          "전 세계적 관세 전쟁 유발 비판",
-          "의회 권력 탈환 시 정책 변화 예고"
-        ],
-        "quote": "민주당이 11일 후 의회 권력을 잡게 되면 관세를 비롯해 도널드 트럼프 대통령의 재앙적인 경제 정책을 뒤집을 것",
-        "context": "도널드 트럼프 전 대통령은 재임 기간 동안 '미국 우선주의'를 내세우며 보호무역주의 정책의 일환으로 대규모 관세를 부과했습니다. 이는 국제 무역 질서에 큰 영향을 미쳤으며, 민주당은 이 정책을 비판해 왔습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/214/0001531141?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20trade%20negotiation%20table%20with%20US%20flags%20and%20%27tariff%27%20labels%2C%20representing%20international%20trade%20policy%20and%20political%20promises%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34967&nologo=true"
-    },
-    {
-      "id": "tech-president-ai",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "comparison",
-      "title": "대통령실, 챗GPT 대신 '제미나이' 선택… AI 정책 활용",
-      "subtitle": "수사기관 독립성 등 민감한 사안에 대한 AI 답변 분석 주목",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1건",
-            "label": "AI 활용 질문"
-          },
-          {
-            "value": "2가지",
-            "label": "헌법적 가치"
-          }
-        ],
-        "main_number": "민감",
-        "main_text": "정책 질문에 AI 활용"
-      },
-      "image_prompt": "cute pastel infographic illustration of a politician interacting with a large AI brain or chatbot interface, with text bubbles showing ethical considerations and policy questions, no text",
-      "detail": {
-        "summary": "대통령실이 국무회의 배석 문제 등 민감한 사안에 대한 답변을 얻기 위해 챗GPT 대신 구글의 '제미나이' AI를 활용한 것으로 알려져, AI의 정책 활용과 윤리적 문제에 대한 관심이 높아지고 있습니다.",
-        "points": [
-          "대통령실의 AI 활용 사례",
-          "챗GPT 대신 제미나이 선택 배경",
-          "수사기관장 국무회의 배석 문제 질문",
-          "헌법적 가치 충돌에 대한 AI 답변 분석"
-        ],
-        "quote": "행정부 수반의 민주적 통제 및 책임정치와 수사·기소 기관의 정치적 중립성 및 독립성이라는 두 가지 헌법적 가치가 충돌하는 매우 민감하고 중요한 사안",
-        "context": "AI 기술의 발전과 함께 정부 정책 수립 및 공공 서비스 분야에서의 AI 활용이 점차 확대되고 있습니다. 하지만 이 과정에서 AI의 중립성, 책임성, 그리고 사회적 영향에 대한 심도 깊은 논의가 필요하다는 지적이 나오고 있습니다.",
-        "source_url": "https://www.ekn.kr/web/view.php?key=20261024021080154"
-      },
-      "image_url": "data/images/2026-10-24/tech-president-ai.jpg"
-    },
-    {
-      "id": "tech-nk-it-worker",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "stats",
-      "title": "북한 IT 인력, 한국 기업에 원격 위장 취업 적발",
-      "subtitle": "해외에서 한국 땅 밟지 않고 원격 근무, 국가 안보 위협 우려",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1명",
-            "label": "확인된 인력"
-          },
-          {
-            "value": "해외",
-            "label": "근무지"
-          },
-          {
-            "value": "원격",
-            "label": "근무 방식"
-          }
-        ],
-        "main_number": "적발",
-        "main_text": "국가 보안 위협"
-      },
-      "image_prompt": "cute pastel infographic illustration of a North Korean flag subtly integrated with a computer screen and network cables, representing remote IT work and national security concerns, no text",
-      "detail": {
-        "summary": "북한 IT 인력이 한국 땅을 밟지 않고 해외에서 원격으로 국내 민간 기업에 위장 취업한 사실이 드러나 국가 안보에 대한 우려가 커지고 있습니다. 이는 북한의 외화벌이 수단으로 악용될 수 있습니다.",
-        "points": [
-          "국내 민간 기업 위장 취업",
-          "해외 원격 근무 방식",
-          "북한 IT 인력의 외화벌이",
-          "국가 안보 위협 가능성 제기"
-        ],
-        "quote": "국내 민간 기업에 위장 취업한 북한 IT(정보기술) 인력이 한국 땅을 밟지 않고 해외에서 원격으로 일해 온 사실이 드러났다.",
-        "context": "북한은 국제 사회의 제재를 회피하고 외화를 벌기 위해 IT 인력을 해외에 파견하거나 원격으로 위장 취업시키는 수법을 사용하고 있습니다. 이러한 활동은 사이버 보안 및 국가 안보에 심각한 위협이 될 수 있습니다.",
-        "source_url": "https://www.wikitree.co.kr/articles/1168716"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20North%20Korean%20flag%20subtly%20integrated%20with%20a%20computer%20screen%20and%20network%20cables%2C%20representing%20remote%20IT%20work%20and%20national%20security%20concerns%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62197&nologo=true"
-    },
-    {
-      "id": "tech-ai-vulnerability",
-      "is_headline": true,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "stats",
-      "title": "AI로 발견된 PHP 치명적 취약점, 전 세계 웹사이트 '패닉'",
-      "subtitle": "AI의 진화로 수십 년 숨겨진 보안 결함 드러나, '검은 10월' 경고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "70%+",
-            "label": "PHP 사용 웹사이트"
-          },
-          {
-            "value": "수십년",
-            "label": "숨겨진 기간"
-          },
-          {
-            "value": "AI",
-            "label": "발견 주체"
+            "value": "80%",
+            "label": "전문가 우려"
           }
         ],
         "main_number": "긴급",
-        "main_text": "전 세계 인터넷 보안 비상"
+        "main_text": "AI 통제 위한 국제 협력 시급"
       },
-      "image_prompt": "cute pastel infographic illustration of a shield with a crack, an AI brain symbol, and world map with network lines, representing global cybersecurity threat from AI-discovered vulnerabilities, no text",
+      "image_prompt": "cute pastel infographic illustration of a clock ticking down, with abstract AI brain shapes looming in the background, no text",
       "detail": {
-        "summary": "전 세계 웹사이트의 70% 이상을 구동하는 핵심 언어 PHP에서 AI에 의해 수십 년간 은폐된 치명적인 보안 결함이 발견되어 '검은 10월'이라는 경고와 함께 전 세계 인터넷 망에 해킹 폭풍이 우려되고 있습니다.",
+        "summary": "구글, 오픈AI, 앤트로픽 등 AI 선도 기업 연구자들이 AI의 빠른 발전에 따른 통제력 상실과 잠재적 위험에 대해 국제 사회에 경고했다.",
         "points": [
-          "PHP 언어의 심각한 보안 취약점 발견",
-          "AI의 취약점 탐지 능력 활용",
-          "전 세계 웹사이트 70% 이상 영향",
-          "'버그 다 막는 시대 끝났다'는 인식 변화"
+          "AI가 전례 없는 부와 국가 안보 우위 가져올 것 예상",
+          "개발자들은 AI 통제 시간 얼마 남지 않았다고 경고",
+          "AI가 핵무기와 같은 21세기 전략 자산으로 부상",
+          "정치권과 자본 시장의 인식 부족 지적"
         ],
-        "quote": "전 세계 웹사이트의 70% 이상을 구동하는 핵심 프로그래밍 언어 'PHP'에서 인공지능(AI)의 도움으로 수십 년간 은폐돼 있던 치명적인 보안 결함이 백일하에 드러나면서 전 세계 인터넷망에 미증유의 해킹 폭풍이 우려되고 있습니다.",
-        "context": "이번 사건은 AI가 사이버 보안 분야에서 양날의 검으로 작용할 수 있음을 보여줍니다. AI는 보안 위협을 탐지하는 데 유용하지만, 동시에 새로운 형태의 공격을 가능하게 할 수도 있습니다. 이에 따라 AI 시대에 맞는 새로운 보안 전략 마련이 시급합니다.",
-        "source_url": "https://www.the-today.com/news/articleView.html?idxno=92322"
+        "quote": "인간의 지적 능력을 초월한 시스템이 자기 코드를 스스로 복제해 전 세계 네트워크에 은닉할 수 있다.",
+        "context": "AI 기술의 발전 속도가 예상보다 빨라지면서, 기술 통제 및 안전성 확보에 대한 국제적 논의와 규제 마련이 시급해지고 있다. 통제 불능 AI는 심각한 사회적, 안보적 위협이 될 수 있다는 우려가 커진다.",
+        "source_url": "https://n.news.naver.com/mnews/article/053/0000062554?sid=105"
       },
-      "image_url": "data/images/2026-10-24/tech-ai-vulnerability.jpg"
+      "image_url": "data/images/2026-10-25/world-ai-governance.jpg"
     },
     {
-      "id": "society-nk-succession",
+      "id": "world-us-china-ai",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison_chart",
+      "title": "미중 AI 경쟁 속 협력 모색: APEC 정상회의 주목",
+      "subtitle": "선전 정상회의서 AI 협력 의제 논의, 전략적 경쟁 속 접점 찾기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "11월",
+            "label": "정상회담"
+          },
+          {
+            "value": "2대",
+            "label": "AI 이니셔티브"
+          },
+          {
+            "value": "주요의제",
+            "label": "AI 협력"
+          }
+        ],
+        "main_number": "경쟁과 협력",
+        "main_text": "미중, AI 통제·윤리 분야서 접점 기대"
+      },
+      "image_prompt": "cute pastel infographic illustration of two hands (representing US and China) tentatively shaking over a futuristic AI chip, with overlapping gears, no text",
+      "detail": {
+        "summary": "미국과 중국이 아시아태평양경제협력체(APEC) 정상회의를 통해 AI 기술 분야에서 전략적 경쟁과 동시에 협력 가능성을 모색한다.",
+        "points": [
+          "11월 선전에서 시진핑 주석과 트럼프 미 대통령의 정상회담 예정",
+          "AI 통제 및 윤리 분야에서 협력 기회 모색",
+          "미국 '팍스 실리카', 중국 '세계인공지능협력기구' 각각 추진 중",
+          "전략적 경쟁 관계 속 합리적 협력 가능성 시사"
+        ],
+        "quote": "미국과 중국이 전략적 경쟁 관계라 할지라도 합리적인 협력이 불가능한 것은 아님을 보여줄 수 있는 가장 정치적인 기회가 될 것이다.",
+        "context": "미중 간 기술 패권 경쟁이 심화되는 가운데, 인류 전체의 이익에 부합하는 AI 통제 및 윤리적 사용에 대한 공감대가 형성될지 국제사회의 관심이 집중되고 있다.",
+        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193676"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20hands%20%28representing%20US%20and%20China%29%20tentatively%20shaking%20over%20a%20futuristic%20AI%20chip%2C%20with%20overlapping%20gears%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90328&nologo=true"
+    },
+    {
+      "id": "world-korea-mineral-dependency",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "pie_chart",
+      "title": "한국 기술산업, 광물 수입 95% 의존: 칠레 핵심 파트너 부상",
+      "subtitle": "희소 광물 확보를 위한 글로벌 공급망 다각화 전략 시급",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "95%",
+            "label": "수입 의존도"
+          },
+          {
+            "value": "3국",
+            "label": "구리 삼각지대"
+          },
+          {
+            "value": "2026",
+            "label": "방한"
+          }
+        ],
+        "main_number": "고도 의존",
+        "main_text": "핵심 광물 수급 안정화 과제"
+      },
+      "image_prompt": "cute pastel infographic illustration of a world map highlighting South Korea and Chile, with arrows representing mineral trade, and a pie chart of 95% dependency, no text",
+      "detail": {
+        "summary": "한국 기술산업은 핵심 광물 수입의 95%를 해외에 의존하며, 특히 칠레가 핵심 공급 파트너로 부상하고 있다.",
+        "points": [
+          "한국 기술산업의 핵심 광물 해외 수입 의존도 95% 육박",
+          "칠레는 전 세계 구리 생산량 1위 국가",
+          "칠레, 페루, 아르헨티나를 잇는 '구리 삼각지대' 핵심 거점",
+          "안정적 공급망 확보를 위한 장기적 파트너십 구축 중요성 강조"
+        ],
+        "quote": "구리 삼각지대가 향후 전 세계 구리 공급의 핵심 거점이 될 것으로 보고 있다.",
+        "context": "전기차 배터리, 반도체 등 첨단 산업 발전에 필수적인 핵심 광물 확보는 국가 경쟁력과 직결되는 문제다. 특정 국가에 대한 높은 의존도는 지정학적 위험에 취약할 수 있어 공급망 다변화가 절실하다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102505465484452bd56fbc3c_1"
+      },
+      "image_url": "data/images/2026-10-25/world-korea-mineral-dependency.jpg"
+    },
+    {
+      "id": "economy-korea-surplus",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "韓 경상흑자, 독·일 합계 초과 사상 최대",
+      "subtitle": "제조업 강국 독일·일본 뛰어넘는 2분기 경상수지 흑자 기록",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4219억",
+            "label": "올해 흑자 전망 (달러)"
+          },
+          {
+            "value": "2위",
+            "label": "세계 순위"
+          },
+          {
+            "value": "36개국",
+            "label": "주요국 비교"
+          }
+        ],
+        "main_number": "$1166억",
+        "main_text": "2분기 경상수지 흑자 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration of three upward-pointing bar charts side by side, labeled Korea, Germany, Japan, with Korea's bar significantly higher, no text",
+      "detail": {
+        "summary": "올해 2분기 한국의 경상수지 흑자 규모가 독일과 일본의 합계를 뛰어넘어 사상 최대치를 기록했으며, 연간 전망치도 크게 상향 조정되었다.",
+        "points": [
+          "2분기 경상흑자 1천166억 달러로 중국에 이은 세계 2위",
+          "제조업 강국 독일(3위), 일본(4위) 합산 흑자 규모 초과",
+          "IMF, 한국의 올해 연간 경상흑자 전망치 4219억 달러로 발표",
+          "글로벌 경기 침체 속 한국 경제의 견조한 실적 과시"
+        ],
+        "quote": "한국의 올해 연간 경상흑자 전망치는 4219억4600만달러로 주요국 중 중국에 이어 2위다.",
+        "context": "글로벌 경기 둔화와 고금리 기조가 지속되는 어려운 대외 환경 속에서 한국 경제가 견고한 수출 경쟁력을 바탕으로 예상치를 뛰어넘는 경상수지 흑자를 달성하며 경제 회복에 대한 기대감을 높이고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/029/0003054965?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20three%20upward-pointing%20bar%20charts%20side%20by%20side%2C%20labeled%20Korea%2C%20Germany%2C%20Japan%2C%20with%20Korea%27s%20bar%20significantly%20higher%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91714&nologo=true"
+    },
+    {
+      "id": "economy-short-term-jobs",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "단기 일자리 31년만에 최소: 4050 충격",
+      "subtitle": "건설·내수 부진 여파로 임시·일용근로자 급감",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "572만7천명",
+            "label": "3분기 임시직"
+          },
+          {
+            "value": "-9만5천명",
+            "label": "전년 대비 감소"
+          },
+          {
+            "value": "31년",
+            "label": "최소치"
+          }
+        ],
+        "main_number": "-9.5만명",
+        "main_text": "임시·일용직 감소 폭"
+      },
+      "image_prompt": "cute pastel infographic illustration of a downward-sloping line chart representing job numbers, with small figures representing 40s and 50s age groups looking worried, no text",
+      "detail": {
+        "summary": "올해 3분기 임시·일용직 근로자가 31년 만에 최저 수준으로 감소하며 40~50대 중장년층에 큰 영향을 미치고 있다.",
+        "points": [
+          "3분기 임시·일용근로자 572만7천명, 작년 동기 대비 9만5천명 감소",
+          "이는 1995년 이후 3분기 기준 가장 낮은 수치",
+          "건설 및 내수 경기 부진이 주요 원인으로 지목",
+          "4050 세대의 고용 불안정 심화 우려"
+        ],
+        "quote": "3분기 임시·일용근로자는 작년 동기보다 9만5천명 감소한 572만7천명으로 집계됐다. 이는 3분기 기준으로 1995년(545만1천명) 이후 가장 작은 수치다.",
+        "context": "단기 일자리의 감소는 경제의 활력이 떨어지고 있음을 보여주는 지표다. 특히 가장의 역할을 하는 4050세대의 고용 불안은 가계 경제에 직접적인 타격을 줄 수 있어 사회 전반의 소비 위축으로 이어질 위험이 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016398360?sid=101"
+      },
+      "image_url": "data/images/2026-10-25/economy-short-term-jobs.jpg"
+    },
+    {
+      "id": "economy-germany-auto-shift",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "comparison_chart",
+      "title": "獨 자동차 공장, 방위산업으로 전환: '中 충격' 여파",
+      "subtitle": "중국 시장 의존도 높던 독일 자동차 산업의 구조적 변화 시작",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10월",
+            "label": "보도 시점"
+          },
+          {
+            "value": "3대",
+            "label": "핵심 산업"
+          },
+          {
+            "value": "-15%",
+            "label": "중국 직접투자 감소"
+          }
+        ],
+        "main_number": "산업 재편",
+        "main_text": "자동차->방위산업 투자 전환"
+      },
+      "image_prompt": "cute pastel infographic illustration of a factory silhouette transforming from producing cars to producing military equipment, with a subtle Chinese flag fading in the background, no text",
+      "detail": {
+        "summary": "중국 시장의 충격으로 독일 자동차 공장들이 승용차 생산을 줄이고 방위산업으로 전환을 모색하는 등 산업 구조의 변화가 감지되고 있다.",
+        "points": [
+          "독일 경제의 핵심인 자동차, 전기, 기계공학 3대 산업 부진 심화",
+          "중국에 대한 높은 경제적 의존도가 취약성 노출",
+          "독일 제조업체들, 국방 분야 투자 확대 및 생산 전환 고려",
+          "중국 시장의 수요 감소와 공급망 불안정성이 주요 원인"
+        ],
+        "quote": "자동차, 전기, 기계공학 등 3대 핵심 산업의 부진 여파로 올해 독일 경제는 0.5% 위축될 것으로 예상된다.",
+        "context": "글로벌 지정학적 긴장과 보호무역주의 확산으로 인해 특정 시장에 대한 과도한 의존도가 국가 경제에 미치는 위험이 커지고 있다. 독일의 산업 전환 노력은 이러한 글로벌 환경 변화에 대한 대응의 일환으로 해석된다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102416145548700c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20factory%20silhouette%20transforming%20from%20producing%20cars%20to%20producing%20military%20equipment%2C%20with%20a%20subtle%20Chinese%20flag%20fading%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55372&nologo=true"
+    },
+    {
+      "id": "tech-ai-job-impact",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart_stacked",
+      "title": "AI 에이전트 확산, 초급 채용 40% 이상 급감 전망",
+      "subtitle": "앤트로픽 보고서, AI가 노동 시장에 미칠 충격 경고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40%+",
+            "label": "초급 채용 감소"
+          },
+          {
+            "value": "2030",
+            "label": "예상 완료 시점"
+          },
+          {
+            "value": "전문직",
+            "label": "영향 미미"
+          }
+        ],
+        "main_number": "-40%",
+        "main_text": "초급 인력 채용 감소 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration of a disappearing stack of job application forms, with a glowing AI robot hand hovering over them, no text",
+      "detail": {
+        "summary": "AI 에이전트의 발전으로 인해 초급 인력 채용이 크게 감소할 것이라는 앤트로픽 보고서가 발표되어 AI의 노동 시장 파급 효과에 대한 우려가 커지고 있다.",
+        "points": [
+          "앤트로픽, AI 에이전트가 초급 채용 시장에 미칠 영향 분석",
+          "초급 직무에서 40% 이상의 채용 감소 예상",
+          "전문직 등 고숙련 직무에는 상대적으로 영향 적을 것",
+          "AI 기술이 인간 노동력을 대체하는 속도 가속화 전망"
+        ],
+        "quote": "소프트웨어 개발은 지극히 사회적이고 인적이며 인간적인 과정이다",
+        "context": "AI 기술의 발전은 단순 반복 업무를 넘어 복잡한 의사결정까지 지원하며 산업 전반에 혁신을 가져오고 있다. 하지만 이로 인한 대규모 일자리 변화는 사회적 불평등과 경제 시스템의 근본적인 전환을 야기할 수 있어 대비가 필요하다.",
+        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193681"
+      },
+      "image_url": "data/images/2026-10-25/tech-ai-job-impact.jpg"
+    },
+    {
+      "id": "tech-china-semiconductor",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "gauge_chart",
+      "title": "中, 'CHIP' 전시관으로 반도체 굴기 재점화",
+      "subtitle": "미국 제재 속 자국 반도체 장비 산업 육성 박차",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "26년",
+            "label": "전시관 건립"
+          },
+          {
+            "value": "500-1000개",
+            "label": "자국 기업"
+          },
+          {
+            "value": "133조원",
+            "label": "글로벌 시장 규모"
+          }
+        ],
+        "main_number": "자급률↑",
+        "main_text": "중국 반도체 장비 자급률 목표"
+      },
+      "image_prompt": "cute pastel infographic illustration of a futuristic chip design, with subtle Chinese dragon motifs and gears, inside a museum showcase, no text",
+      "detail": {
+        "summary": "중국이 26년 만에 'CHIP' 전시관을 개관하며 반도체 산업 자립을 위한 '반도체 굴기'에 다시 힘을 싣고 있다.",
+        "points": [
+          "미국 등 서방 국가의 제재 속 자국 반도체 기술 자립 강화 목표",
+          "중국 내 반도체 장비 기업 500~1000개 추산",
+          "글로벌 반도체 장비 시장 규모 연간 133조1300억원을 넘어섬",
+          "기술 탈취 우려 속 자국 내 생산 능력 확대 집중"
+        ],
+        "quote": "세계 반도체 장비 시장 규모는 연간 약 133조1300억원을 넘어섰으며, 중국 내 반도체 장비기업은 500~1000개에 달하는 것으로 추산된다.",
+        "context": "미중 기술 패권 경쟁의 핵심인 반도체 분야에서 중국은 외부 의존도를 낮추고 자국 기술력을 키우는 데 사활을 걸고 있다. 이는 글로벌 반도체 공급망과 산업 지형에 큰 영향을 미칠 것으로 예상된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005431128?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20futuristic%20chip%20design%2C%20with%20subtle%20Chinese%20dragon%20motifs%20and%20gears%2C%20inside%20a%20museum%20showcase%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56918&nologo=true"
+    },
+    {
+      "id": "tech-cultural-heritage-tech",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison_chart",
+      "title": "문화유산 보존, 첨단기술로 시간 4시간→20분 단축",
+      "subtitle": "3D 스캐닝, 디지털 복원 등 IT 기술로 효율성 극대화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4시간",
+            "label": "수작업 시간"
+          },
+          {
+            "value": "20분",
+            "label": "기술 활용 시간"
+          },
+          {
+            "value": "12배",
+            "label": "효율 증가"
+          }
+        ],
+        "main_number": "90% 단축",
+        "main_text": "디지털 기술로 보존 시간 대폭 감소"
+      },
+      "image_prompt": "cute pastel infographic illustration of a timeline showing a traditional artist sketching an artifact, then a futuristic scanner digitizing it, with a clock showing time saved, no text",
+      "detail": {
+        "summary": "첨단기술이 문화유산 발굴 및 보존 과정에 도입되면서 작업 효율이 비약적으로 향상되고 있으며, 기존 수작업에 비해 시간을 획기적으로 단축하고 있다.",
+        "points": [
+          "소형 토기 하나를 손으로 그리는 데 4시간 소요",
+          "디지털 기술 활용 시 20분 내외로 작업 가능",
+          "3D 스캐닝, VR/AR, 빅데이터 분석 등 다양한 기술 접목",
+          "정확한 기록 및 복원, 연구와 교육 활용 가능성 확대"
+        ],
+        "quote": "(소형 토기 기준) 손으로 그렸을 때 4시간이 걸렸던 게 지금 디지털 기술을 활용했을 때는 20분 내외로 가능합니다.",
+        "context": "문화유산 보존은 과거의 지혜를 미래 세대에 전달하는 중요한 과제다. 첨단 기술의 도입은 유산의 훼손을 최소화하고 보존의 정확도를 높일 뿐만 아니라, 대중의 접근성을 향상시키는 데도 기여하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002423259?sid=103"
+      },
+      "image_url": "data/images/2026-10-25/tech-cultural-heritage-tech.jpg"
+    },
+    {
+      "id": "society-youth-disillusionment",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "comparison",
-      "title": "김주애 승계 시 '북한 분열' 가능성 제기…사회적 반발 우려",
-      "subtitle": "업적 없는 10대 여성 지도자에 대한 북한 사회의 수용성 논란",
+      "viz_type": "bar_chart_negative",
+      "title": "월세·생계에 허덕이는 20대: 연애·결혼은 사치",
+      "subtitle": "노력한 만큼 보상받지 못하는 사회에 대한 청년층 불신 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "10대",
-            "label": "예상 지도자 연령"
+            "value": "80%",
+            "label": "월세 거주율"
           },
           {
-            "value": "강함",
-            "label": "남존여비 성향"
+            "value": "60%",
+            "label": "연애 포기"
+          },
+          {
+            "value": "90%",
+            "label": "결혼 회의"
           }
         ],
-        "main_number": "논란",
-        "main_text": "북한 지도자 승계 시나리오"
+        "main_number": "N포세대",
+        "main_text": "경제적 압박에 포기하는 삶의 가치들"
       },
-      "image_prompt": "cute pastel infographic illustration of a map of North Korea splitting, with a young female silhouette and traditional social hierarchy symbols, representing leadership succession and societal challenges, no text",
+      "image_prompt": "cute pastel infographic illustration of a young person looking stressed in front of a calendar filled with bills, with symbols of love and marriage fading away, no text",
       "detail": {
-        "summary": "김주애가 북한 지도자가 될 경우 북한 사회의 강한 남존여비 사상과 10대 여성 지도자에 대한 업적 부재 등으로 인해 사회적 반발과 분열 가능성이 제기되고 있습니다.",
+        "summary": "높은 월세와 불안정한 경제 상황으로 인해 20대 청년들이 연애와 결혼을 사치로 여기며, 노력해도 보상받지 못하는 사회에 대한 불신이 깊어지고 있다.",
         "points": [
-          "백두혈통 여성 지도자 수용 여부",
-          "북한 사회의 남존여비 문화",
-          "지도자로서의 업적 부재 지적",
-          "김한솔의 북한 귀환 의지 언급"
+          "20대 청년들, 월세 등 기본적인 생계유지에 큰 부담을 느낌",
+          "노력한 만큼 보상받는다는 믿음이 흔들리는 사회 인식",
+          "연애, 결혼, 출산 등 미래 계획 포기하는 'N포세대' 현상 심화",
+          "기존 사회 제도와 기회에 대한 불신, 집단적 저항으로 이어질 가능성"
         ],
-        "quote": "북한이 남존여비 성향이 강한 사회다. 아무리 백두혈통이라도 여성이 최고지도자가 되면…",
-        "context": "북한의 김정은 위원장 건강 이상설과 함께 김주애의 후계자 가능성이 꾸준히 제기되고 있습니다. 이는 북한의 미래뿐만 아니라 한반도 안보에도 중대한 영향을 미칠 수 있는 문제입니다.",
-        "source_url": "https://www.wikitree.co.kr/articles/1168584"
+        "quote": "이들의 움직임에는 노력한 만큼 보상받을 수 있다는 믿음이 흔들리고, 기존 사회가 약속한 미래를 더는 기대할 수 없다는 비관적 인식이 깔려 있다.",
+        "context": "청년층의 경제적 어려움과 미래에 대한 비관적인 시각은 개인의 삶뿐만 아니라 저출산, 사회 활력 저하 등 국가 전체의 지속가능성에 심각한 영향을 미칠 수 있는 사회 문제로 인식된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005431122?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20map%20of%20North%20Korea%20splitting%2C%20with%20a%20young%20female%20silhouette%20and%20traditional%20social%20hierarchy%20symbols%2C%20representing%20leadership%20succession%20and%20societal%20challenges%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4983&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20young%20person%20looking%20stressed%20in%20front%20of%20a%20calendar%20filled%20with%20bills%2C%20with%20symbols%20of%20love%20and%20marriage%20fading%20away%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22833&nologo=true"
     },
     {
-      "id": "society-basic-income",
+      "id": "society-national-assembly-ethics",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "chart",
-      "title": "정치철학자 판 파레이스, '무조건적 기본소득' 제안",
-      "subtitle": "'정의로운 사회=좋은 사회'에 대한 해법으로 기본소득 논의 재점화",
+      "viz_type": "gauge_chart",
+      "title": "22대 국회 윤리특위 활동 실적 '0': 자정 노력 포기 우려",
+      "subtitle": "막말 논란에도 제재 없는 국회의원들의 특권 의식",
       "viz_data": {
         "stats": [
           {
-            "value": "1명",
-            "label": "철학자"
+            "value": "0",
+            "label": "징계 건수"
           },
           {
-            "value": "1997년",
-            "label": "BIEN 설립"
+            "value": "22대",
+            "label": "국회"
+          },
+          {
+            "value": "0%",
+            "label": "실적"
           }
         ],
-        "main_number": "확산",
-        "main_text": "기본소득 논의"
+        "main_number": "실적 0",
+        "main_text": "국회 윤리특위, 징계 권한 있으나 실적 전무"
       },
-      "image_prompt": "cute pastel infographic illustration of money flowing to people with no conditions, representing universal basic income concept, with question marks about fairness and social good, no text",
+      "image_prompt": "cute pastel infographic illustration of a zero in a large gauge chart, with a gavel lying untouched and a microphone, no text",
       "detail": {
-        "summary": "정치철학자 필리프 판 파레이스가 EBS '위대한 수업'을 통해 '무조건적 기본소득'을 정의로운 사회의 해법 중 하나로 제시하며, 기본소득에 대한 사회적 논의가 다시 활발해질 것으로 보입니다.",
+        "summary": "22대 국회 윤리특별위원회가 출범 이후 활동 실적이 전무하여 국회의원들의 자정 노력 부족과 특권 의식에 대한 비판이 제기되고 있다.",
         "points": [
-          "필리프 판 파레이스의 기본소득론",
-          "EBS '위대한 수업' 방영",
-          "'정의로운 사회'에 대한 철학적 질문",
-          "BIEN(Basic Income Earth Network)의 세계적 확대"
+          "윤리특위는 국회의원 징계를 위한 상설 기구",
+          "22대 국회 들어 징계 심의 및 의결 실적 '0'",
+          "사회적 비난을 받는 막말이나 부적절한 행태에도 제재 부재",
+          "국민 신뢰 하락 및 정치 혐오 조장 우려"
         ],
-        "quote": "역사적으로 수없이 반복된 이 질문에 대해 정치철학자 필리프 판 파레이스가 내놓은 해법 중 하나는 ‘무조건적 기본소득’이다.",
-        "context": "기본소득은 모든 시민에게 아무런 조건 없이 일정액의 소득을 지급하는 제도로, 소득 불평등 해소와 복지 사각지대 해소 등의 기대 효과와 함께 재원 마련, 근로 의욕 저하 등의 우려도 제기되며 전 세계적으로 뜨거운 논쟁의 대상이 되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004169248?sid=103"
+        "quote": "사회적으로 용납하기 어려운 막말이 끊이지 않아도 별다른 제재 수단이 없습니다.",
+        "context": "국회의원의 윤리 의식과 행동은 국민의 대표로서 민주주의의 근간을 이루는 중요한 요소다. 윤리특위의 기능 마비는 국회에 대한 불신을 키우고, 정치 개혁의 필요성을 더욱 부각시키는 결과를 초래한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002423263?sid=100"
       },
-      "image_url": "data/images/2026-10-24/society-basic-income.jpg"
+      "image_url": "data/images/2026-10-25/society-national-assembly-ethics.jpg"
     },
     {
-      "id": "society-regional-doctor",
+      "id": "society-france-protests",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "chart",
-      "title": "지역의사제 성공 위해 '지역 정착 의지' 선발 기준 필요",
-      "subtitle": "해외 사례 참고, 지역사회 이해도와 진정성이 핵심 요소",
+      "viz_type": "map_chart",
+      "title": "프랑스 고물가 항의 시위, 80만 명 거리로",
+      "subtitle": "전국적인 대규모 시위, 경찰 7만 명 배치 및 충돌 발생",
       "viz_data": {
         "stats": [
           {
-            "value": "해외",
-            "label": "참고 사례"
+            "value": "80만명",
+            "label": "시위 참가"
           },
           {
-            "value": "진정성",
-            "label": "핵심 평가"
+            "value": "7만명",
+            "label": "경찰 배치"
+          },
+          {
+            "value": "전국",
+            "label": "시위 범위"
           }
         ],
-        "main_number": "강조",
-        "main_text": "지역 특화 의사 양성"
+        "main_number": "대규모 저항",
+        "main_text": "고물가, 공공 서비스 보호 요구 시위"
       },
-      "image_prompt": "cute pastel infographic illustration of a rural hospital with doctors and medical students, representing a regional doctor system and criteria for selecting committed professionals, no text",
+      "image_prompt": "cute pastel infographic illustration of a stylized map of France with dots indicating protest locations and numbers, with a few police figures and crowd silhouettes, no text",
       "detail": {
-        "summary": "지역의사제가 성공적으로 정착하려면 단순히 성적 우수자보다는 지역사회에 대한 이해와 진정성을 갖춘 학생을 선발하는 것이 중요하다는 지적이 나왔습니다. 해외 사례를 참고하여 선발 기준 마련이 필요합니다.",
+        "summary": "프랑스 전역에서 고물가와 공공 서비스 보호를 요구하는 대규모 시위가 발생했으며, 80만 명 이상이 참여하고 경찰과 시위대 간 충돌도 있었다.",
         "points": [
-          "지역의사제 성공 조건 논의",
-          "성적 외 지역사회 이해도 강조",
-          "해외 지역의사 선발 사례",
-          "경남 농촌지역 실습 경험 공유"
+          "프랑스 전역 80만 명 이상이 고물가에 항의하며 거리로 나옴",
+          "공공 서비스 보호 및 재정적·사회적 정의 실현 요구",
+          "경찰 7만 명 배치, 파리 주요 문화시설 및 지하철역 일부 폐쇄",
+          "일부 시위대와 경찰 간 물대포 사용 등 충돌 발생"
         ],
-        "quote": "해외에서는 성적이 우수하더라도 면접에서 지역사회에 대한 이해와 진정성을 보여주지 못하면 선발되지 않는다.",
-        "context": "의료 격차 해소와 지역 의료 활성화를 위해 지역의사제 도입 논의가 활발합니다. 하지만 제도 도입의 실효성을 높이기 위해서는 단순히 의사 수를 늘리는 것을 넘어, 지역에 실제로 봉사할 의지를 가진 인력을 양성하고 배치하는 것이 중요합니다.",
-        "source_url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014688"
+        "quote": "낭트에서도 고물가에 항의하고 공공 서비스 보호와 재정적, 사회적 정의 실현을 요구하는 시위가 이뤄졌다.",
+        "context": "고물가로 인한 가계 경제 부담 증가는 전 세계적인 현상이며, 프랑스에서는 이러한 불만이 대규모 사회 운동으로 분출되었다. 이는 정부 정책에 대한 시민들의 불신과 경제적 어려움이 복합적으로 작용한 결과로 분석된다.",
+        "source_url": "https://www.jasm.co.kr/news/view/322821/?sc=Naver"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rural%20hospital%20with%20doctors%20and%20medical%20students%2C%20representing%20a%20regional%20doctor%20system%20and%20criteria%20for%20selecting%20committed%20professionals%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4691&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stylized%20map%20of%20France%20with%20dots%20indicating%20protest%20locations%20and%20numbers%2C%20with%20a%20few%20police%20figures%20and%20crowd%20silhouettes%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94478&nologo=true"
     },
     {
-      "id": "life-marriage-trend",
+      "id": "life-kfood-global",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "stats",
-      "title": "연애 예능 시청 후 미혼 커플 57% '결혼 신중론' 확산",
-      "subtitle": "경제관념, 가족관계, 이성관계 등이 결혼의 주요 고민으로 부상",
+      "viz_type": "map_chart",
+      "title": "美 사로잡은 '자갈치시장': 샌프란시스코 K-푸드 열풍",
+      "subtitle": "부산 자갈치에서 이름을 딴 마트, 미국 백화점 입점 성공",
       "viz_data": {
         "stats": [
           {
-            "value": "57%",
-            "label": "신중해진 비율"
+            "value": "2100평",
+            "label": "매장 규모"
           },
           {
-            "value": "22%",
-            "label": "경제관념 비중"
+            "value": "성공",
+            "label": "미국 시장 진출"
           },
           {
-            "value": "10%",
-            "label": "가족관계 비중"
+            "value": "복합",
+            "label": "점포 모델"
           }
         ],
-        "main_number": "영향",
-        "main_text": "결혼관 변화"
+        "main_number": "K-푸드",
+        "main_text": "식문화 콘텐츠로 미국 시장 장악"
       },
-      "image_prompt": "cute pastel infographic illustration of a couple watching TV, with thought bubbles showing 'money', 'family', 'relationship' icons, representing changing marriage perspectives after watching dating shows, no text",
+      "image_prompt": "cute pastel infographic illustration of a stylized map of San Francisco with a large Korean supermarket building icon, and people happily holding Korean food items, no text",
       "detail": {
-        "summary": "연애 예능 프로그램을 시청한 미혼 커플의 57%가 결혼에 대해 더욱 신중하게 생각하게 됐다는 조사 결과가 나왔습니다. 경제관념 및 금전 관리, 가족관계 등이 주요 고민 요소로 꼽혔습니다.",
+        "summary": "부산의 명소 '자갈치시장'에서 이름을 딴 한국 마트가 미국 샌프란시스코 백화점에 성공적으로 입점하며 K-푸드 열풍을 이끌고 있다.",
         "points": [
-          "연애 예능이 결혼관에 미치는 영향",
-          "미혼 커플 57% 결혼 신중론",
-          "경제관념 및 금전 관리(22%) 최우선",
-          "가족관계 및 이성관계(10%)도 중요"
+          "메가마트 '자갈치' 매장, 샌프란시스코 노드스트롬 백화점에 입점",
+          "2100평 규모로 식료품, 외식, 문화 콘텐츠 복합 모델 제시",
+          "개점 초기 대규모 대기 행렬, 현지인들의 뜨거운 관심 입증",
+          "K-푸드가 단순 식료품 넘어 식문화 거점으로 자리매김"
         ],
-        "quote": "미혼 커플 중 57%는 연애 예능 시청 후 결혼에 대해 더 신중하게 생각하게 됐다고 답했다.",
-        "context": "다양한 형태의 연애 예능 프로그램이 인기를 얻으면서, 방송 콘텐츠가 시청자들의 가치관과 라이프스타일에 미치는 영향이 커지고 있습니다. 특히 결혼이라는 중대한 결정에 대한 인식을 변화시키는 중요한 요인으로 작용하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004169234?sid=102"
+        "quote": "문화 콘텐츠와 외식, 식료품을 하나로 묶은 복합 점포의 확장성이 향후 성패를 가를 것",
+        "context": "K-팝, K-드라마에 이어 K-푸드가 전 세계적으로 큰 인기를 얻고 있다. 한국의 식문화가 현지 라이프스타일에 깊숙이 침투하며 단순한 먹거리를 넘어 새로운 문화 트렌드를 형성하고 있음을 보여주는 사례다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=92360"
       },
-      "image_url": "data/images/2026-10-24/life-marriage-trend.jpg"
+      "image_url": "data/images/2026-10-25/life-kfood-global.jpg"
     },
     {
-      "id": "life-retail-trend",
+      "id": "life-incheon-urban-planning",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "comparison",
-      "title": "유통업계, 고객 경험 강화 '특화 매장' 경쟁 심화",
-      "subtitle": "편의점은 상품군 전문화, 뷰티업계는 지역 문화 연계 플래그십 확대",
+      "viz_type": "map_comparison",
+      "title": "인천, 40년 고도지구 규제 폐지: 도시 재개발 활성화 기대",
+      "subtitle": "수봉·자유공원 등 고도지구 폐지, 신포 역사문화특화경관지구 일원화",
       "viz_data": {
         "stats": [
           {
-            "value": "편의점",
-            "label": "상품 전문화"
+            "value": "40년",
+            "label": "규제 기간"
           },
           {
-            "value": "뷰티업계",
-            "label": "문화 연계"
+            "value": "3곳",
+            "label": "고도지구 폐지"
+          },
+          {
+            "value": "1곳",
+            "label": "특화지구 일원화"
           }
         ],
-        "main_number": "확대",
-        "main_text": "고객 경험 중시"
+        "main_number": "규제 완화",
+        "main_text": "도시 균형 발전 및 활성화 기대"
       },
-      "image_prompt": "cute pastel infographic illustration of various retail stores (convenience store, beauty shop) with shopping carts and experience icons (dessert, makeup), representing specialized retail strategies, no text",
+      "image_prompt": "cute pastel infographic illustration of a split map of Incheon, showing 'before' with height restrictions and 'after' with new development, no text",
       "detail": {
-        "summary": "유통업계가 고객 경험을 강화하기 위해 특화 매장과 플래그십 스토어를 확대하며 경쟁하고 있습니다. 편의점은 특정 상품군을 전문화하고, 뷰티업계는 지역 문화 및 관광 요소를 매장에 접목하는 추세입니다.",
+        "summary": "인천시가 40년 동안 유지되어 온 수봉, 자유공원, 월미 고도지구 규제를 폐지하고 신포 역사문화특화경관지구를 일원화하여 도시 재개발을 활성화할 예정이다.",
         "points": [
-          "유통업계의 특화 매장 전략",
-          "편의점의 상품군 전문화",
-          "뷰티업계의 지역 문화 연계",
-          "고객 경험 중심의 리테일 변화"
+          "수봉, 자유공원, 월미 등 3개 고도지구 규제 40년 만에 폐지",
+          "신포 역사문화특화경관지구 건축물 용도 제한 지구단위계획으로 일원화",
+          "도심 개발 활성화 및 주거 환경 개선 기대",
+          "주민들의 재산권 행사 제약 해소 및 도시 경쟁력 강화 목적"
         ],
-        "quote": "편의점은 특정 상품군을 강화하고, 뷰티업계는 지역 문화와 관광 수요를 매장에 접목하고 있다.",
-        "context": "온라인 쇼핑의 성장으로 오프라인 유통 매장은 단순히 상품을 판매하는 것을 넘어, 고객에게 특별한 경험과 가치를 제공하는 공간으로 진화하고 있습니다. 이는 소비자들이 매장을 방문할 이유를 만들고 브랜드 충성도를 높이는 전략입니다.",
-        "source_url": "https://www.ziksir.com/news/articleView.html?idxno=150536"
+        "quote": "고도지구는 도시의 균형 발전을 저해하고 주민들의 재산권 행사에 상당한 제약을 주었다.",
+        "context": "고도지구와 같은 도시 계획 규제는 장기적으로 도시 발전을 저해하고 주민 불편을 야기할 수 있다. 이번 규제 완화는 지역 주민들의 삶의 질을 향상시키고 도시의 새로운 활력을 불어넣는 계기가 될 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/666/0000128943?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20various%20retail%20stores%20%28convenience%20store%2C%20beauty%20shop%29%20with%20shopping%20carts%20and%20experience%20icons%20%28dessert%2C%20makeup%29%2C%20representing%20specialized%20retail%20strategies%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=85857&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20split%20map%20of%20Incheon%2C%20showing%20%27before%27%20with%20height%20restrictions%20and%20%27after%27%20with%20new%20development%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7675&nologo=true"
     },
     {
-      "id": "life-fandom-economy",
+      "id": "life-ai-lifestyle-commerce",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "stats",
-      "title": "'잘파세대' 겨냥, K팝 넘어 글로벌 팬덤 경제 구축 전략",
-      "subtitle": "이수만 A2O, 아시아권 한계 벗어나 Z세대·알파세대 라이프스타일 표준화",
+      "viz_type": "flow_chart",
+      "title": "GS리테일, AI 라이프스타일 커머스 개편",
+      "subtitle": "생성형 AI로 모바일 앱 개인화, 고객 쇼핑 경험 혁신",
       "viz_data": {
         "stats": [
           {
-            "value": "1억 원",
-            "label": "1인당 연 소비"
+            "value": "50%+",
+            "label": "앱 화면 개인화"
           },
           {
-            "value": "Z세대",
-            "label": "핵심 타겟"
+            "value": "실시간",
+            "label": "데이터 분석"
+          },
+          {
+            "value": "AI",
+            "label": "핵심 기술"
           }
         ],
-        "main_number": "글로벌",
-        "main_text": "팬덤 경제 확장"
+        "main_number": "개인 맞춤",
+        "main_text": "AI 기반 개인화 쇼핑 경험 제공"
       },
-      "image_prompt": "cute pastel infographic illustration of diverse young people (Gen Z, Alpha) holding glowing smartphones with pop culture icons, representing global fandom economy and lifestyle trends, no text",
+      "image_prompt": "cute pastel infographic illustration of a mobile phone screen displaying a personalized shopping feed, with data flow lines and small AI robot icons, no text",
       "detail": {
-        "summary": "이수만의 'A2O' 프로젝트가 K팝의 아시아권 한계를 넘어 Z세대와 알파 세대(잘파세대)의 글로벌 라이프스타일을 새로운 표준으로 삼아 팬덤 경제를 구축하려는 전략을 추진하고 있습니다.",
+        "summary": "GS리테일이 생성형 AI를 활용하여 모바일 앱을 'AI 라이프스타일 커머스'로 개편, 고객별 맞춤 쇼핑 경험을 제공한다.",
         "points": [
-          "'잘파세대'를 핵심 소비층으로 설정",
-          "K팝의 'K'를 넘어 글로벌화",
-          "라이프스타일 브랜드 전략",
-          "1인당 연 1억 원의 팬덤 소비 잠재력"
+          "GS샵 모바일 앱, 생성형 AI로 'AI 라이프스타일 커머스' 전환",
+          "고객 구매, 장바구니, 검색 데이터를 실시간으로 분석",
+          "앱 화면의 50% 이상을 개인별 관심사에 맞춰 자동 구성",
+          "노출 상품 추천 및 프로모션까지 개인화하여 고객 편의성 증대"
         ],
-        "quote": "아시아권 팝이라는 한계를 벗어던지고 기획 단계부터 Z세대와 알파 세대라는 글로벌 핵심 소비층의 라이프스타일 자체를 새로운 표준으로 삼겠다는 고도의 지식재산권(IP) 브랜딩 전략인 셈이다.",
-        "context": "글로벌 문화 시장에서 K팝의 영향력이 커지면서, 팬덤을 기반으로 한 경제 활동이 더욱 중요해지고 있습니다. 특히 디지털 환경에 익숙한 잘파세대는 강력한 구매력을 바탕으로 새로운 소비 트렌드를 주도하며 미래 시장의 핵심 동력으로 부상하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/014/0005593754?sid=103"
+        "quote": "고객의 구매·장바구니·검색·탐색 데이터를 실시간으로 분석해 앱 화면의 50% 이상을 개인별 관심사에 맞춰 자동 구성하고, 노출 상품 추천 및 프로모션까지 개인화했다.",
+        "context": "AI 기술은 유통 산업의 핵심 경쟁력으로 부상하고 있다. 개인화된 쇼핑 경험은 고객 만족도를 높이고 매출 증대에도 기여하며, 앞으로 더 많은 유통 기업이 AI 기반의 혁신을 추진할 것으로 예상된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/079/0004202343?sid=101"
       },
-      "image_url": "data/images/2026-10-24/life-fandom-economy.jpg"
+      "image_url": "data/images/2026-10-25/life-ai-lifestyle-commerce.jpg"
     }
   ],
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T06:09:54.235236+09:00"
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T06:08:23.486703+09:00"
 }
