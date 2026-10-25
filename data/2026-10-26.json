@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-0",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "미-이란 전면전 위험 고조: 선거 셈법 변수",
+      "subtitle": "트럼프·네타냐후 선거 앞두고 군사 행동 구실 모색",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "양국",
+            "label": "선거 앞"
+          },
+          {
+            "value": "경제 시설",
+            "label": "폭격 목표"
+          },
+          {
+            "value": "지정",
+            "label": "레드라인 무시"
+          }
+        ],
+        "main_number": "확대",
+        "main_text": "미-이란 군사 충돌 위험 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a tense world map with arrows pointing at the middle east, no text",
+      "detail": {
+        "summary": "미국과 이스라엘이 각각 선거를 앞두고 군사 행동 가능성을 시사하며 이란과의 전면전 위험이 고조되고 있다는 NYT 보도. 미 중부사령부는 이란의 에너지 인프라 등 경제 필수 시설을 포함한 폭격 목표 목록을 수립했으며, 이란도 '레드라인은 없다'고 경고해 긴장이 고조되고 있습니다.",
+        "points": [
+          "미국-이스라엘 선거 앞두고 정치적 셈법 작용",
+          "미 중부사령부, 이란 에너지 인프라 등 폭격 목표 목록 수립",
+          "이란, 미국 공격 재개 시 '레드라인 없다' 경고",
+          "중동 지역 정세 불안정 심화"
+        ],
+        "quote": "선거를 앞둔 양국 지도부의 정치적 셈법이 맞물리면서 무력 충돌 위험이 더욱 높아질 수 있다.",
+        "context": "트럼프 미국 대통령과 네타냐후 이스라엘 총리가 각각 재집권과 정권 유지를 위한 선거를 앞두고 있으며, 중동 지역 내 갈등을 통해 국내 정치적 지지율을 확보하려는 움직임이 포착되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/025/0003560420?sid=104"
+      },
+      "image_url": "data/images/2026-10-26/world-0.jpg"
+    },
+    {
+      "id": "world-1",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "프랑스 대선 출사표 르펜: 국민 통합·부흥 약속",
+      "subtitle": "반정부 시위 속 지지율 상승, 중도층 공략 시도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "노동자 임금 인상",
+            "label": "경제 공약"
+          },
+          {
+            "value": "사회복지 강화",
+            "label": "사회 공약"
+          },
+          {
+            "value": "기업 감세",
+            "label": "재정 공약"
+          }
+        ],
+        "main_number": "+상승",
+        "main_text": "반정부 시위 속 르펜 지지율"
+      },
+      "image_prompt": "cute pastel infographic illustration of french flag, Marianne statue, and election ballots, no text",
+      "detail": {
+        "summary": "프랑스 반정부 시위 속 마린 르펜 국민연합(RN) 원내대표가 대선 출마를 선언하며 '국민 통합'과 '프랑스 부흥'을 약속했습니다. 그는 노동자 임금 인상, 사회복지 강화, 기업 감세 등 경제·사회 공약을 제시하며 좌우 정치 구도를 넘어 폭넓은 지지를 확보하겠다는 뜻을 밝혔습니다.",
+        "points": [
+          "르펜, 프랑스 대선 출마 선언",
+          "노동자 임금 인상, 사회복지 강화 공약",
+          "기업 감세, 공공지출 통제 등 재정 공약 제시",
+          "반정부 시위 속 지지율 상승, 중도층 유권자 공략"
+        ],
+        "quote": "국민 통합과 프랑스의 부흥을 위해 나는 새다.",
+        "context": "최근 프랑스에서는 정부의 개혁 정책에 대한 불만과 소요 사태로 인한 사회적 혼란이 커지고 있으며, 이에 따라 기존 정치권에 대한 불신이 높아지면서 르펜과 같은 극우 정치인의 지지율이 상승하는 추세입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014277144?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20french%20flag%2C%20Marianne%20statue%2C%20and%20election%20ballots%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=41923&nologo=true"
+    },
+    {
+      "id": "world-2",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map_chart",
+      "title": "베네수엘라 야권 지도자 귀국, 美 트럼프 '장악' 발언",
+      "subtitle": "미국-베네수엘라 선거 전 정치범 석방 등 협상 진전",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수백명",
+            "label": "정치범 석방"
+          },
+          {
+            "value": "수백명",
+            "label": "야권 망명 귀국"
+          },
+          {
+            "value": "선거 전",
+            "label": "경제 안정 요구"
+          }
+        ],
+        "main_number": "귀국",
+        "main_text": "야권 지도자 마차도 비밀리 귀국"
+      },
+      "image_prompt": "cute pastel infographic illustration of Venezuela map with returning arrows and US flag, no text",
+      "detail": {
+        "summary": "베네수엘라 야권 지도자 마리아 코리나 마차도가 비밀리에 귀국했으며, 미국은 트럼프 대통령이 '베네수엘라를 장악했다'고 발언하며 베네수엘라의 선거 전 경제 안정 및 제도 재건을 요구했습니다. 이를 통해 수백 명의 정치범이 석방되고 야권 정치인들이 망명 생활을 마치고 귀국하는 등 협상이 진전되고 있습니다.",
+        "points": [
+          "베네수엘라 야권 지도자 마차도 비밀리 귀국",
+          "트럼프, '미국이 베네수엘라를 장악했다' 발언",
+          "미국-베네수엘라 협상 통해 정치범 석방 및 야권 귀국",
+          "베네수엘라 선거 전 경제 안정 및 제도 재건 요구"
+        ],
+        "quote": "이 협상을 통해 (베네수엘라에서) 이미 수백명의 정치범이 석방됐고, 수백명의 야권 정치인들이 망명 생활을 마치고 귀국했다.",
+        "context": "베네수엘라는 오랜 정치적, 경제적 위기를 겪고 있으며, 미국은 민주주의 회복을 위한 선거를 압박하고 있습니다. 이번 야권 지도자의 귀국과 미국의 개입 발언은 베네수엘라의 정치적 미래에 큰 영향을 미칠 것으로 예상됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016399412?sid=104"
+      },
+      "image_url": "data/images/2026-10-26/world-2.jpg"
+    },
+    {
+      "id": "economy-0",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "가상자산 과세 유예: 업계 반색, 자금 이탈 감소 기대",
+      "subtitle": "정치권의 반복된 유예, 예측 가능성 훼손 비판도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수차례",
+            "label": "과세 유예"
+          },
+          {
+            "value": "예측 가능성",
+            "label": "훼손 논란"
+          },
+          {
+            "value": "자금 이탈",
+            "label": "감소 기대"
+          }
+        ],
+        "main_number": "반색",
+        "main_text": "가상자산 업계 과세 유예에 환영"
+      },
+      "image_prompt": "cute pastel infographic illustration of cryptocurrencies with tax symbols and flow lines, no text",
+      "detail": {
+        "summary": "가상자산 과세 유예 움직임에 업계는 환영하며 자금 이탈 감소를 기대하고 있습니다. 반면 시민단체는 정치권이 여론과 선거를 의식해 반복적으로 시행을 미루는 것이 조세정책의 예측 가능성과 일관성을 무너뜨린다고 비판했습니다.",
+        "points": [
+          "가상자산 과세 시행 반복적 유예",
+          "업계, 자금 이탈 감소 등 긍정적 효과 기대",
+          "시민단체, 조세정책 예측 가능성 훼손 비판",
+          "정치권의 여론·선거 의식 지적"
+        ],
+        "quote": "오랜 논의를 거쳐 과세 제도를 마련해 놓고 정치권이 여론과 선거를 의식해 시행을 반복적으로 미루는 것은 조세정책의 예측 가능성과 일관성을 무너뜨린다.",
+        "context": "가상자산 과세는 2020년 국회에서 법안이 통과된 이후 여러 차례 유예되었으며, 내년 시행을 앞두고 다시 유예 가능성이 제기되고 있습니다. 이는 투자자들의 혼란과 시장의 불확실성을 가중시키는 요인으로 작용하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016399415?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20cryptocurrencies%20with%20tax%20symbols%20and%20flow%20lines%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=4001&nologo=true"
+    },
+    {
+      "id": "economy-1",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "원/달러 환율 1,310원대 근접, 2년 만에 최고치",
+      "subtitle": "경기 여건 고려 시 펀더멘털 부합 수준에 근접",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1,310원",
+            "label": "현재 환율"
+          },
+          {
+            "value": "2년",
+            "label": "최고 기록"
+          },
+          {
+            "value": "1,300원대 중반",
+            "label": "펀더멘털 환율"
+          }
+        ],
+        "main_number": "↑최고",
+        "main_text": "원/달러 환율 2년 만에 최고치 근접"
+      },
+      "image_prompt": "cute pastel infographic illustration of a rising dollar-won exchange rate graph, no text",
+      "detail": {
+        "summary": "원/달러 환율이 1,310원대에 근접하며 명목실효환율이 2년 만에 최고치를 기록했습니다. 전문가들은 경기 여건과 잠재성장률을 고려할 때 1,300원대 중반 정도가 펀더멘털에 부합한다고 보고 있어, 현재 환율이 적정 수준에 근접했다는 분석이 나옵니다.",
+        "points": [
+          "원/달러 환율 1,310원대 근접",
+          "명목실효환율 2년 만에 최고 기록",
+          "전문가, 1,300원대 중반을 펀더멘털 부합 수준으로 평가",
+          "현재 환율이 경제 상태에 부합하는 수준에 근접"
+        ],
+        "quote": "경기 여건과 잠재성장률 등을 고려하면 원/달러 환율 1,300원대 중반 정도가 펀더멘털에 부합한다고 본다.",
+        "context": "환율 변동은 수출입 기업의 수익성, 물가, 외국인 투자 등에 직접적인 영향을 미치며 국내 경제 전반에 중요한 지표로 작용합니다. 최근의 환율 상승은 글로벌 경제 불확실성과 국내 경제 상황이 복합적으로 반영된 결과로 해석됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016399416?sid=101"
+      },
+      "image_url": "data/images/2026-10-26/economy-1.jpg"
+    },
+    {
+      "id": "economy-2",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "주택 가격 양극화 심화: 상하위 20% 격차 290배",
+      "subtitle": "정부 노력에도 시장 자산 가격 통제 한계 지적",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "290배",
+            "label": "상하위 20% 격차"
+          },
+          {
+            "value": "다주택",
+            "label": "격차 확대 요인"
+          },
+          {
+            "value": "시장 결정",
+            "label": "자산 가격"
+          }
+        ],
+        "main_number": "290배",
+        "main_text": "상하위 20% 집값 격차 대폭 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration of two houses, one very large and one very small, showing a large gap, no text",
+      "detail": {
+        "summary": "상위 20%와 하위 20%의 집값 격차가 290배로 상승하며 부동산 양극화가 심화되고 있습니다. 다주택 보유 현상까지 포함하면 격차는 더욱 확대될 것으로 예상됩니다. 전문가들은 정부의 노력에도 불구하고 자산 가격이 시장에서 결정되기 때문에 성과가 나오기 어렵다고 지적합니다.",
+        "points": [
+          "상위 20% vs 하위 20% 집값 격차 290배",
+          "다주택 보유 시 격차 더욱 확대 예상",
+          "정부의 부동산 양극화 해소 노력 한계 지적",
+          "자산 가격 시장 결정으로 성과 미미"
+        ],
+        "quote": "정부도 부동산 양극화를 해소하는 데 상당 부분 관심이 있지만 자산 가격이 결국 시장에서 정해지다 보니 성과가 나오지 않은 것.",
+        "context": "부동산 양극화는 사회 경제적 불평등을 심화시키는 주요 원인 중 하나입니다. 주택 시장의 불균형은 소득 불균형과 맞물려 계층 간 이동을 어렵게 하고 사회 통합을 저해하는 문제로 이어질 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016399414?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20houses%2C%20one%20very%20large%20and%20one%20very%20small%2C%20showing%20a%20large%20gap%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=69975&nologo=true"
+    },
+    {
+      "id": "tech-0",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "빌 게이츠 경고: AI, 향후 20년간 인류 최대 혼란 야기",
+      "subtitle": "AI 코딩 능력 인간 초월, 예술 등 고유 영역은 남길 수 있어",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "20년",
+            "label": "혼란 예측 기간"
+          },
+          {
+            "value": "코딩",
+            "label": "인간 능가 분야"
+          },
+          {
+            "value": "예술·스포츠",
+            "label": "인간 고유 영역"
+          }
+        ],
+        "main_number": "인류 최대",
+        "main_text": "AI로 인한 사회적 혼란 예측"
+      },
+      "image_prompt": "cute pastel infographic illustration of a human and a robot collaborating but also showing a complex future, no text",
+      "detail": {
+        "summary": "빌 게이츠가 AI가 향후 20년간 인류에게 최대 혼란을 빚을 것이라고 경고했습니다. AI가 코딩 실력을 포함한 여러 분야에서 인간을 능가할 것이지만, 예술, 스포츠, 요리, 보육 등은 인간 고유의 영역으로 남길 수 있도록 정치권의 고민을 촉구했습니다.",
+        "points": [
+          "빌 게이츠, AI로 인한 20년간 인류 최대 혼란 경고",
+          "AI의 코딩 실력 인간 초월 인정",
+          "예술, 스포츠 등은 인간 고유 영역으로 유지 제안",
+          "AI 시대 대비한 정치권의 고민 촉구"
+        ],
+        "quote": "AI가 더 잘하더라도 예술과 스포츠, 요리, 보육과 같은 활동은 인간 고유의 영역으로 남길 수 있다.",
+        "context": "AI 기술의 발전은 산업, 교육, 사회 전반에 걸쳐 급격한 변화를 가져오고 있습니다. 일자리 감소, 윤리적 문제, 사회적 불평등 심화 등 AI의 부정적인 영향에 대한 우려가 커지면서 기술 개발과 동시에 사회적 준비와 정책적 논의의 중요성이 부각되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016399420?sid=104"
+      },
+      "image_url": "data/images/2026-10-26/tech-0.jpg"
+    },
+    {
+      "id": "tech-1",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "데이터센터 '그린' 경쟁: 청정 전력 사용 필수화",
+      "subtitle": "PUE 1에 가까울수록 효율적, 탄소 중립 시대 경쟁력",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "PUE",
+            "label": "에너지 효율 지표"
+          },
+          {
+            "value": "1",
+            "label": "목표 PUE"
+          },
+          {
+            "value": "탄소배출",
+            "label": "감축 중요성"
+          }
+        ],
+        "main_number": "필수",
+        "main_text": "데이터센터 청정 전력 사용 의무화 추세"
+      },
+      "image_prompt": "cute pastel infographic illustration of a green data center with clean energy symbols, no text",
+      "detail": {
+        "summary": "인공지능(AI) 데이터센터의 전력 소비와 탄소 배출 문제로 청정 전력 사용이 핵심 경쟁력으로 부상하고 있습니다. 데이터센터 에너지 효율을 나타내는 PUE(Power Usage Effectiveness) 값이 1에 가까울수록 부대설비에 쓰는 에너지가 적어 효율적이며, 기업들은 이를 통해 친환경 이미지를 강화하고 있습니다.",
+        "points": [
+          "AI 데이터센터, 전력 소비 및 탄소 배출 심각성",
+          "청정 전력 사용이 데이터센터 핵심 경쟁력",
+          "PUE(Power Usage Effectiveness) 1에 가까울수록 효율적",
+          "탄소 중립 시대 기업의 친환경 이미지 강화"
+        ],
+        "quote": "PUE는 데이터센터 전체 에너지 사용량을 서버 등 IT 장비의 에너지 사용량으로 나눈 값으로, 1에 가까울수록 냉각 등 부대설비에 쓰는 에너지가 적다는 뜻이다.",
+        "context": "AI 기술의 발전은 천문학적인 전력 소비를 요구하며 데이터센터의 환경 부담을 가중시키고 있습니다. 이에 따라 재생에너지 사용, 에너지 효율 개선 등 친환경 데이터센터 구축이 전 세계적인 과제로 떠오르고 있으며, 이는 기업의 지속가능성을 평가하는 중요한 기준이 되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005431367?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20green%20data%20center%20with%20clean%20energy%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79576&nologo=true"
+    },
+    {
+      "id": "tech-2",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "애플 첫 폴더블 아이폰 듀오, 출시 초기 품질 논란",
+      "subtitle": "산 지 3시간 만에 화면 깨짐 등 보증 수리 거부 사례 발생",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3시간",
+            "label": "최단 시간 파손"
+          },
+          {
+            "value": "1세대",
+            "label": "폴더블폰 취약성"
+          },
+          {
+            "value": "거부",
+            "label": "보증수리 정책"
+          }
+        ],
+        "main_number": "논란",
+        "main_text": "애플 폴더블폰 품질 및 보증수리"
+      },
+      "image_prompt": "cute pastel infographic illustration of a broken foldable smartphone screen, no text",
+      "detail": {
+        "summary": "애플의 첫 폴더블 스마트폰 '아이폰 듀오'가 출시 초기에 화면 파손 등 품질 논란에 휩싸였습니다. 일부 사용자는 구매 3시간 만에 화면이 깨지는 등 문제가 발생했으나 보증 수리를 거부당하는 사례도 있어 소비자 불만이 커지고 있습니다. IT 업계는 1세대 폴더블폰의 힌지 및 패널 기술의 유기적 결합이 핵심 과제임을 지적합니다.",
+        "points": [
+          "애플 첫 폴더블폰 '아이폰 듀오' 출시 초기 품질 논란",
+          "구매 3시간 만에 화면 파손 등 문제 발생",
+          "일부 사용자, 보증 수리 거부 경험",
+          "IT 업계, 1세대 폴더블폰 기술적 과제 지적"
+        ],
+        "quote": "폴더블폰은 힌지 구조와 초박막강화유리(UTG) 패널의 유기적 결합이 핵심인 만큼, 1세대 제품에선 이 문제가 불거질 가능성이 존재한다.",
+        "context": "폴더블폰 시장은 새로운 기술 혁신을 주도하고 있지만, 동시에 높은 가격과 내구성 문제로 소비자들의 신뢰를 얻는 데 어려움을 겪고 있습니다. 애플의 진출은 시장에 큰 영향을 미칠 것으로 예상되었으나, 초기 품질 논란은 폴더블폰 기술의 안정화와 소비자 보호 정책의 중요성을 다시 한번 상기시키고 있습니다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=92378"
+      },
+      "image_url": "data/images/2026-10-26/tech-2.jpg"
+    },
+    {
+      "id": "society-0",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "오세훈 시장, '민주당 3분의 2' 시의회 난관 직면",
+      "subtitle": "정치자금법 무죄 후 'G3 서울플랜' 등 시정 운영 시험대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2/3",
+            "label": "민주당 시의석"
+          },
+          {
+            "value": "86조원",
+            "label": "G3 서울플랜"
+          },
+          {
+            "value": "무죄",
+            "label": "항소심 판결"
+          }
+        ],
+        "main_number": "난관",
+        "main_text": "오세훈 시장, 시의회 과반 야당과 협치 과제"
+      },
+      "image_prompt": "cute pastel infographic illustration of Seoul city hall building with opposing political party symbols, no text",
+      "detail": {
+        "summary": "오세훈 서울시장이 정치자금법 위반 혐의 항소심에서 무죄를 선고받았으나, 민주당이 3분의 2 의석을 차지한 서울시의회와의 협치가 다음 관문으로 떠올랐습니다. 86조원 규모의 핵심 전략 'G3 서울플랜' 및 청년AI, 야간경제 활성화 예산 심사에서 시의회와의 갈등이 예상됩니다.",
+        "points": [
+          "오세훈 시장, 정치자금법 항소심 무죄 판결",
+          "서울시의회 민주당 3분의 2 의석 차지",
+          "핵심 정책 'G3 서울플랜' 등 예산 심사 난관 예상",
+          "청년AI·야간경제 예산 삭감 사례로 본 협치 과제"
+        ],
+        "quote": "시민 여러분의 믿음과 혜안에 감사드리며, 앞으로 더욱 열심히 일하겠다.",
+        "context": "지방자치단체장과 지방의회 간의 협치는 정책 추진의 효율성과 시민들의 삶에 직접적인 영향을 미칩니다. 특히 예산 심사 과정에서의 대립은 시정 운영의 불확실성을 높이고 핵심 정책 추진에 차질을 빚을 수 있어, 오 시장과 시의회 간의 관계 설정이 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016399418?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20Seoul%20city%20hall%20building%20with%20opposing%20political%20party%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18454&nologo=true"
+    },
+    {
+      "id": "society-1",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "반도체·AI 인재 양성: 전문대 역할 확대 위한 '직업교육법' 논의",
+      "subtitle": "산업현장 및 지역사회 변화 대응, 정책 대안 모색",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "반도체·AI",
+            "label": "핵심 인재 분야"
+          },
+          {
+            "value": "직업교육법",
+            "label": "정책 필요성"
+          },
+          {
+            "value": "산업현장",
+            "label": "맞춤형 교육"
+          }
+        ],
+        "main_number": "확대",
+        "main_text": "전문대의 고등직업교육 역할"
+      },
+      "image_prompt": "cute pastel infographic illustration of students learning AI and semiconductor technologies in a classroom, no text",
+      "detail": {
+        "summary": "전문대학이 반도체·AI 등 첨단 산업 인재 양성에 핵심적인 역할을 할 수 있도록 '고등직업교육법' 제정의 필요성이 제기되고 있습니다. 산업현장과 지역사회의 변화에 대응하는 고등직업교육의 발전 방향과 정책 대안을 모색하여 전문대학의 역할 확대를 뒷받침해야 한다는 주장입니다.",
+        "points": [
+          "전문대학, 반도체·AI 등 첨단 산업 인재 양성 중요성 부각",
+          "'고등직업교육법' 제정 통해 역할 확대 필요",
+          "산업현장 및 지역사회 수요에 맞는 교육과정 개발",
+          "고등직업교육 발전 방향 및 정책 대안 모색"
+        ],
+        "quote": "전문대학이 당면한 과제를 살펴보고 산업현장과 지역사회의 변화에 대응할 고등직업교육의 발전 방향과 정책 대안을 모색하고자 한다.",
+        "context": "4차 산업혁명 시대가 도래하면서 첨단 기술 분야의 인력 부족 현상이 심화되고 있습니다. 전문대학은 산업 현장에 필요한 실무형 인재를 양성하는 데 있어 중요한 역할을 수행할 수 있으나, 현재의 법적·제도적 지원이 부족하다는 지적이 있습니다. '직업교육법'은 이러한 전문대학의 역량을 강화하고 국가 경쟁력을 확보하는 데 기여할 것으로 기대됩니다.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=599174"
+      },
+      "image_url": "data/images/2026-10-26/society-1.jpg"
+    },
+    {
+      "id": "society-2",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "'정상' 규격 벗어난 오티즘, 교실 내 포용 과제",
+      "subtitle": "언어·인지 다양성 존중, 장애 평가 문화 변화 요구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "다양성",
+            "label": "오티즘 스펙트럼"
+          },
+          {
+            "value": "포용",
+            "label": "교실 내 과제"
+          },
+          {
+            "value": "평가 문화",
+            "label": "변화 필요성"
+          }
+        ],
+        "main_number": "이상한 나라",
+        "main_text": "오티즘 스펙트럼 학생의 학교 적응 어려움"
+      },
+      "image_prompt": "cute pastel infographic illustration of diverse children in a classroom, some with different learning styles, no text",
+      "detail": {
+        "summary": "오티즘 스펙트럼을 가진 학생들을 '정상'의 규격에 가두는 교실 문화 속에서 사회적 의사소통 방식의 다양성을 존중하고 포용해야 한다는 목소리가 나옵니다. 개인의 언어, 인지 능력, 지원 필요 정도가 다양한 오티즘에 대한 이해를 높이고, 장애를 비장애인과 얼마나 비슷한지를 기준으로 평가하는 문화를 변화시켜야 한다는 지적입니다.",
+        "points": [
+          "오티즘 스펙트럼 학생의 언어·인지 능력 다양성",
+          "교실 내 '정상' 규격으로 인한 어려움",
+          "사회적 의사소통 방식의 다양성 존중 요구",
+          "장애를 비장애인 유사성으로 평가하는 문화 개선 필요"
+        ],
+        "quote": "장애인을 비장애인과 얼마나 비슷한지를 기준으로 평가하는 문화가 달라져야 한다고 봤다.",
+        "context": "오티즘 스펙트럼은 개인마다 매우 다양한 특성을 보이며, 사회적 상호작용과 의사소통 방식에서 비정형적인 모습을 나타낼 수 있습니다. 이러한 다양성을 이해하고 개별적인 지원을 제공하는 것은 통합 교육 환경 조성에 필수적이며, 우리 사회가 포용력을 높이는 중요한 과제입니다.",
+        "source_url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130279"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20diverse%20children%20in%20a%20classroom%2C%20some%20with%20different%20learning%20styles%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20342&nologo=true"
+    },
+    {
+      "id": "life-0",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "‘K밥심’ 세계화: 햇반, 비상식에서 일상식으로",
+      "subtitle": "1~2인 가구 증가 및 라이프스타일 변화에 힘입어 성장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30년",
+            "label": "햇반 역사"
+          },
+          {
+            "value": "1~2인 가구",
+            "label": "주요 소비자층"
+          },
+          {
+            "value": "글로벌",
+            "label": "시장 확대"
+          }
+        ],
+        "main_number": "성장",
+        "main_text": "간편식 햇반, 라이프스타일 변화로 수요 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration of diverse people eating instant rice bowls from different countries, no text",
+      "detail": {
+        "summary": "햇반이 1~2인 가구 증가와 라이프스타일 변화에 힘입어 비상식에서 일상식으로 자리 잡으며 국내를 넘어 세계 시장으로 'K밥심'을 알리고 있습니다. CJ제일제당은 30년간 축적된 기술력을 바탕으로 '맛있는 밥'을 넘어 소비자의 라이프스타일에 맞는 '더 좋은 탄수화물'을 제공하기 위한 연구개발을 지속하고 있습니다.",
+        "points": [
+          "햇반, 비상식에서 일상식으로 변화",
+          "1~2인 가구 및 라이프스타일 변화가 성장 동력",
+          "30년간 기술력 축적, 글로벌 시장 확대",
+          "소비자 맞춤형 '더 좋은 탄수화물' 개발 지속"
+        ],
+        "quote": "10년, 20년 후를 내다보는 혜안으로 새로운 시장을 창출해야 한다는 이재현 회장의 신념이 햇반을 성장시켰다.",
+        "context": "간편식 시장은 현대인의 바쁜 삶과 가구 형태 변화에 맞춰 빠르게 성장하고 있습니다. 특히 한류 열풍과 함께 'K-푸드'에 대한 관심이 높아지면서 한국의 간편식이 해외 시장에서도 주목받고 있습니다. 햇반은 이러한 트렌드를 주도하며 글로벌 식문화에 영향을 미치고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003692271?sid=101"
+      },
+      "image_url": "data/images/2026-10-26/life-0.jpg"
+    },
+    {
+      "id": "life-1",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "AI 시대, 서울의 도시 브랜드 가치: '새로운 파리' 가능성",
+      "subtitle": "K팝 넘어 음식, 문화, 라이프스타일로 도시 매력 부각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "K팝",
+            "label": "대표 문화"
+          },
+          {
+            "value": "음식·도시경관",
+            "label": "추가 매력"
+          },
+          {
+            "value": "활기찬",
+            "label": "라이프스타일"
+          }
+        ],
+        "main_number": "상승",
+        "main_text": "서울의 글로벌 도시 브랜드 순위"
+      },
+      "image_prompt": "cute pastel infographic illustration of Seoul skyline with cultural symbols and diverse people, no text",
+      "detail": {
+        "summary": "AI 시대에 서울이 '새로운 파리'가 될 수 있을지 주목됩니다. 서울은 K팝뿐만 아니라 음식, 문화, 도시경관, 활기찬 라이프스타일 등 다양한 매력으로 글로벌 인기를 얻고 있습니다. 독립문화와 K컬처의 유행이 결합되어 서울 자체를 라이프스타일 브랜드로 만드는 현상이 나타나고 있습니다.",
+        "points": [
+          "서울, AI 시대 '새로운 파리'로서의 잠재력",
+          "K팝 넘어 음식, 문화, 도시경관 등 다양한 매력",
+          "소셜미디어 통한 도시 매력 확산",
+          "서울 자체를 라이프스타일 브랜드로 발전"
+        ],
+        "quote": "서울의 인기 요인으로는 K팝뿐 아니라 음식과 문화, 도시경관, 활기찬 라이프스타일을 꼽았다.",
+        "context": "글로벌 도시 경쟁이 심화되는 가운데, 문화적 매력과 독특한 라이프스타일은 도시의 경쟁력을 결정하는 중요한 요소가 되고 있습니다. 서울은 K컬처의 확산과 함께 독자적인 도시 브랜드를 구축하며 전 세계 젊은 세대에게 새로운 트렌드를 제시하는 도시로 부상하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003692191?sid=110"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20Seoul%20skyline%20with%20cultural%20symbols%20and%20diverse%20people%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27746&nologo=true"
+    },
+    {
+      "id": "life-2",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map_chart",
+      "title": "한국 라이프스타일 브랜드 '아트박스', 美 시장 본격 진출",
+      "subtitle": "LA·샌프란시스코 등 북서부 지역 공략, K-컬처 확산 영향",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "LA",
+            "label": "주요 진출 도시"
+          },
+          {
+            "value": "샌프란시스코",
+            "label": "주요 진출 도시"
+          },
+          {
+            "value": "K-라이프스타일",
+            "label": "미국 내 관심"
+          }
+        ],
+        "main_number": "확장",
+        "main_text": "아트박스, 미국 오프라인 시장 공략"
+      },
+      "image_prompt": "cute pastel infographic illustration of USA map with pins on LA and San Francisco and Korean lifestyle product icons, no text",
+      "detail": {
+        "summary": "한국의 대표 라이프스타일 브랜드 '아트박스'가 미국 오프라인 시장에 본격 진출합니다. LA, 샌프란시스코 등 북서부 지역을 공략하며 매장을 확대할 계획입니다. 미국 내 한국 음악, 드라마, 뷰티, 웰니스, 라이프스타일에 대한 관심이 높아지는 트렌드를 활용하여 시장을 확대할 것으로 기대됩니다.",
+        "points": [
+          "아트박스, 미국 오프라인 시장 본격 진출",
+          "LA, 샌프란시스코 등 미국 북서부 지역 공략",
+          "K-음악, 드라마, 뷰티, 웰니스 등 한국 문화 관심 증대",
+          "한국 라이프스타일 브랜드의 글로벌 시장 확장"
+        ],
+        "quote": "미국에서 한국 음악과 드라마, 뷰티, 웰니스, 라이프스타일에 대한 관심이 지속적으로 높아지고 있다.",
+        "context": "K-컬처의 세계적인 인기는 K-뷰티, K-패션, K-라이프스타일 등 다양한 한국 브랜드의 해외 진출을 가속화하고 있습니다. 아트박스의 미국 시장 진출은 단순한 제품 판매를 넘어 한국의 독특한 라이프스타일과 문화를 전파하는 기회가 될 것이며, 이는 국내 기업의 글로벌 경쟁력 강화에도 기여할 것으로 보입니다.",
+        "source_url": "https://www.koreadaily.com/article/20261025090046343"
+      },
+      "image_url": "data/images/2026-10-26/life-2.jpg"
+    }
+  ],
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T06:08:33.549932+09:00"
+}
