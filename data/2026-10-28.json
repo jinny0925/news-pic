@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-001",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "status_update",
+      "title": "이스라엘 총선, 연정 구성 난항 예상",
+      "subtitle": "출구조사 야권 근소 우위, 장기간 정치 혼란 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "근소 우위",
+            "label": "야권 출구조사"
+          },
+          {
+            "value": "수 주",
+            "label": "정부 구성 예상"
+          },
+          {
+            "value": "하마스 공격",
+            "label": "총선 배경"
+          }
+        ],
+        "main_number": "과반 붕괴",
+        "main_text": "집권 연합 과반 붕괴 전망"
+      },
+      "image_prompt": "cute pastel infographic illustration of a scale tipping slightly, representing a close election result, with elements of a parliament building in the background, no text",
+      "detail": {
+        "summary": "이스라엘 총선 출구조사 결과 야권이 근소하게 우세하며, 과반 붕괴로 장기간 정치적 혼란과 연정 협상 난항이 예상됩니다. 이는 2023년 10월 7일 하마스 공격 이후 첫 총선으로, 베냐민 네타냐후 총리의 정치적 운명뿐 아니라 이란과의 전쟁 향방에도 영향을 줄 것으로 보입니다.",
+        "points": [
+          "야권 근소 우위로 정치적 불안정 심화",
+          "집권 연합의 과반 붕괴 전망",
+          "정부 구성에 수 주 소요 예상",
+          "네타냐후 총리 유임 여부 불투명"
+        ],
+        "quote": "장기간의 정치적 혼란이 예상된다.",
+        "context": "하마스 공격 이후 처음 치러지는 총선은 이스라엘의 안보와 국내 정치의 향방을 결정할 중대 전환점이 될 것으로 평가됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/028/0002829489?sid=104"
+      },
+      "image_url": "data/images/2026-10-28/world-001.jpg"
+    },
+    {
+      "id": "world-002",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "numbers_and_trends",
+      "title": "美 중간선거 사전투표 3200만명 돌파",
+      "subtitle": "경합주 열기 고조, 민주당 '웃음' 공화당 '결집' 전략",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3200만+",
+            "label": "사전투표자 수"
+          },
+          {
+            "value": "경합주",
+            "label": "높은 투표율"
+          },
+          {
+            "value": "민주당",
+            "label": "사전투표 강세"
+          }
+        ],
+        "main_number": "+N/A%",
+        "main_text": "선거 당일 공화당 지지층 결집 여부가 관건"
+      },
+      "image_prompt": "cute pastel infographic illustration of a voting booth with a ballot box, showing numbers for early voters and two distinct groups representing different parties, no text",
+      "detail": {
+        "summary": "미국 중간선거 사전투표 참여자가 3200만명을 돌파하며 경합주에서 높은 투표율을 보이고 있습니다. 민주당은 사전투표 강세에 고무된 반면, 공화당은 선거 당일 본투표에서의 지지층 결집을 기대하며 판세가 예측불허의 상황으로 전개될 전망입니다.",
+        "points": [
+          "총 3200만명 이상 사전투표 참여",
+          "경합주에서 역대급 투표 열기 관측",
+          "민주당 지지층 사전투표 강세",
+          "공화당, 선거 당일 현장 투표 결집 기대"
+        ],
+        "quote": "선거 당일 본투표에 공화당 지지층이 대거 몰려나올 경우 판세가 다시 한번 소용돌이칠 수 있다.",
+        "context": "미국 정치의 향방을 가를 중요한 중간선거를 앞두고 각 당의 전략과 유권자들의 투표 행태가 주목되며, 사전투표와 본투표 간의 유권자 성향 차이가 결과에 큰 영향을 미칠 것으로 보입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005432606?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20voting%20booth%20with%20a%20ballot%20box%2C%20showing%20numbers%20for%20early%20voters%20and%20two%20distinct%20groups%20representing%20different%20parties%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53319&nologo=true"
+    },
+    {
+      "id": "world-003",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "보우소나루, 여권 제출 불응 후 미국행",
+      "subtitle": "브라질 정치 자금 및 광물 관련 수사 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "대선 패배 후",
+            "label": "정치적 위기"
+          },
+          {
+            "value": "희토류",
+            "label": "핵심 광물 수사"
+          },
+          {
+            "value": "미국행",
+            "label": "출국"
+          }
+        ],
+        "main_number": "불응",
+        "main_text": "여권 제출 명령 불이행"
+      },
+      "image_prompt": "cute pastel infographic illustration of a passport with a 'No Entry' sign, an airplane flying away, and a magnifying glass over documents, no text",
+      "detail": {
+        "summary": "브라질 보우소나루 전 대통령이 대선 패배 후 여권 제출 명령을 불이행하고 미국으로 출국했습니다. 브라질 당국은 정치 자금과 희토류 등 핵심 광물에 대한 외국의 경제적 이해관계 사이의 연관성을 조사하며 수사를 확대하고 있습니다.",
+        "points": [
+          "대선 패배 후 여권 제출 명령 불이행",
+          "브라질에서 미국으로 출국",
+          "정치 자금 수사 진행 중",
+          "희토류 등 핵심 광물 관련 의혹 조사"
+        ],
+        "quote": "룰라 정부 관리들과 일부 연방대법관은 정치적 양극화 완화와 국가 안정에 집중하려는 정부 목표에 여권 제출...",
+        "context": "브라질 대선 패배 이후 보우소나루 전 대통령과 관련된 정치적, 사법적 논란이 계속되고 있으며, 이는 브라질의 국내 정치 안정에 영향을 미칠 수 있습니다. 미국 행정부도 그를 정치적 우군으로 두둔해왔습니다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261028010009613"
+      },
+      "image_url": "data/images/2026-10-28/world-003.jpg"
+    },
+    {
+      "id": "economy-001",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "demand_supply",
+      "title": "AI 열풍에 'PCB' 품귀 대란, 핵심 전략 자원 부상",
+      "subtitle": "인공지능 반도체 수요 폭증, 기판 공급망에 비상",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 반도체",
+            "label": "주요 수요처"
+          },
+          {
+            "value": "품귀 심화",
+            "label": "공급 현황"
+          },
+          {
+            "value": "2027년",
+            "label": "주문 가시성"
+          }
+        ],
+        "main_number": "+N/A%",
+        "main_text": "PCB, 단순 부품 넘어 핵심 전략 자원으로"
+      },
+      "image_prompt": "cute pastel infographic illustration of circuit boards (PCB) being scarce, with a magnifying glass highlighting their importance and an AI brain icon in the background, no text",
+      "detail": {
+        "summary": "인공지능(AI) 반도체와 고성능 서버 구축 붐으로 전 세계 전자제품의 기본 골격을 이루는 인쇄회로기판(PCB) 품귀 현상이 심화되고 있습니다. PCB가 단순 부품을 넘어 핵심 전략 자원으로 부상하며 공급망에 비상이 걸렸고, 주요 글로벌 PC 제조업체들은 2027년도 제품 수급 계획을 수립하는 과정에서 PCB 품귀 현상을 겪고 있습니다.",
+        "points": [
+          "AI 반도체 수요 폭증으로 PCB 품귀 현상",
+          "PCB가 핵심 전략 자원으로 위상 변화",
+          "글로벌 제조업체, 2027년까지 수급 불안정 예상",
+          "세계 최대 CCL 공급업체, 주문 가시성 2027년까지 확보"
+        ],
+        "quote": "현재 확보된 주문 가시성이 이미 2027년까지 확정적이다.",
+        "context": "AI 기술의 급속한 발전이 하드웨어 인프라 수요를 폭발적으로 증가시키면서, 관련 부품의 공급망 안정성이 글로벌 산업의 핵심 쟁점으로 떠오르고 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102717530025450c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20circuit%20boards%20%28PCB%29%20being%20scarce%2C%20with%20a%20magnifying%20glass%20highlighting%20their%20importance%20and%20an%20AI%20brain%20icon%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=14447&nologo=true"
+    },
+    {
+      "id": "economy-002",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "comparison_chart",
+      "title": "AI 거품·유가 급등에 아시아 통화 동반 약세",
+      "subtitle": "한국, 인도 등 주요국 환율 불안정 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 거품론",
+            "label": "내부 요인"
+          },
+          {
+            "value": "유가 급등",
+            "label": "외부 요인"
+          },
+          {
+            "value": "최저치",
+            "label": "신대만달러"
+          }
+        ],
+        "main_number": "동반 약세",
+        "main_text": "아시아 주요 통화의 가치 하락"
+      },
+      "image_prompt": "cute pastel infographic illustration of multiple national currencies (Won, Rupee, New Taiwan Dollar) falling against a dollar, with an oil barrel and a bubble representing AI, no text",
+      "detail": {
+        "summary": "AI 거품론과 중동발 유가 급등의 이중고로 아시아 통화가 동반 약세를 보이며 한국, 인도 등 주요국 환율 불안정성이 심화되고 있습니다. 특히 세계 최대 파운드리 기업 TSMC를 필두로 미국 빅테크 공급망과 밀접하게 얽혀 있는 대만은 신대만달러 환율이 최근 1년 6개월 만에 최저치를 기록했습니다.",
+        "points": [
+          "AI 거품론 확산으로 인한 시장 불안정",
+          "중동발 유가 급등으로 에너지 비용 상승",
+          "아시아 주요 통화 가치 동반 약세",
+          "한국, 인도 등 주요국 환율 불안정성 심화"
+        ],
+        "quote": "신대만달러(TWD) 환율이 지난 10월 20일 장중 달러당 32.5대만달러 선까지 밀려나며 최근 1년 6개월 만에 최저...",
+        "context": "글로벌 경제의 불확실성이 커지면서 기술 버블 우려와 지정학적 리스크가 환율 시장에 직접적인 영향을 미치고 있으며, 이는 아시아 국가들의 경제 전반에 부담으로 작용하고 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102717391339630c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-10-28/economy-002.jpg"
+    },
+    {
+      "id": "economy-003",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "timeline",
+      "title": "이마트 '쓱데이' 10일간 역대급 할인 행사",
+      "subtitle": "한우 160톤 확보, 신선식품·가전 할인 범위 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10일",
+            "label": "행사 기간"
+          },
+          {
+            "value": "160톤",
+            "label": "한우 물량"
+          },
+          {
+            "value": "2.5배",
+            "label": "기간 확대"
+          }
+        ],
+        "main_number": "연중 최대",
+        "main_text": "할인행사 규모와 범위"
+      },
+      "image_prompt": "cute pastel infographic illustration of a shopping cart overflowing with fresh produce and electronics, a calendar marking 10 days, and a banner saying 'Biggest Sale', no text",
+      "detail": {
+        "summary": "이마트가 연중 최대 할인행사인 '쓱데이'의 자체 행사 기간을 지난해 4일에서 올해 10일로 확대합니다. 한우 160톤을 확보하고 한정 기획상품과 가전제품까지 할인 범위를 넓혀 고물가 시대 연말 쇼핑 수요를 적극적으로 공략할 계획입니다.",
+        "points": [
+          "행사 기간 지난해 대비 2.5배(4일→10일) 확대",
+          "한우 160톤 등 대규모 물량 확보",
+          "신선식품부터 가전까지 할인 품목 다양화",
+          "고물가 시대 소비자 구매력 증대 전략"
+        ],
+        "quote": "이마트가 연중 최대 할인행사인 '쓱데이'의 자체 행사 기간을 지난해 4일에서 올해 10일로 확대한다.",
+        "context": "고물가로 인해 소비 심리가 위축된 상황에서 유통업체들은 대규모 할인 행사를 통해 고객을 유인하고 매출을 끌어올리기 위한 경쟁을 심화하고 있습니다.",
+        "source_url": "http://www.finomy.com/news/articleView.html?idxno=264789"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shopping%20cart%20overflowing%20with%20fresh%20produce%20and%20electronics%2C%20a%20calendar%20marking%2010%20days%2C%20and%20a%20banner%20saying%20%27Biggest%20Sale%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95934&nologo=true"
+    },
+    {
+      "id": "tech-001",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "risk_assessment",
+      "title": "앤트로픽, '안전장치 없는 AI는 재앙' 경고",
+      "subtitle": "상장 앞두고 AI 개발의 윤리적, 사회적 위험성 강조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "정치·사회적 갈등",
+            "label": "주요 위험"
+          },
+          {
+            "value": "공급망 병목",
+            "label": "사업 위험"
+          },
+          {
+            "value": "22.5조 달러",
+            "label": "2031년 경제 효과"
+          }
+        ],
+        "main_number": "재앙",
+        "main_text": "안전장치 없는 AI의 잠재적 위험성"
+      },
+      "image_prompt": "cute pastel infographic illustration of a robot with a warning sign, representing AI risks, with abstract symbols of social conflict and supply chain issues in the background, no text",
+      "detail": {
+        "summary": "AI 스타트업 앤트로픽이 상장을 앞두고 '안전장치 없는 AI는 재앙'이 될 수 있다고 경고했습니다. 정치·사회적 갈등, 공급망 병목 현상 등을 주요 위험으로 제시하며, AI 기술 개발과 활용에 있어 윤리적 및 사회적 안전장치의 중요성을 강조했습니다.",
+        "points": [
+          "AI의 잠재적 위험성 및 윤리적 문제 제기",
+          "정치·사회적 갈등 증폭 가능성 우려",
+          "공급망 병목 등 사업 운영 위험성 언급",
+          "AI 안전성 및 책임 있는 개발의 중요성 강조"
+        ],
+        "quote": "정치·사회적 갈등도 위험으로 제시했습니다.",
+        "context": "AI 기술의 급속한 발전과 함께 그 위험성에 대한 논의도 활발해지고 있으며, AI 개발 기업들 스스로 사회적 책임의 중요성을 인식하고 안전성 확보를 위한 노력을 기울여야 한다는 목소리가 커지고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004675842?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20robot%20with%20a%20warning%20sign%2C%20representing%20AI%20risks%2C%20with%20abstract%20symbols%20of%20social%20conflict%20and%20supply%20chain%20issues%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33822&nologo=true"
+    },
+    {
+      "id": "tech-002",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "innovation_milestone",
+      "title": "플로리다 외과의, 35마일 원격 로봇 수술 성공",
+      "subtitle": "차세대 원격 수술 기술 발전 가능성 제시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "35마일(56km)",
+            "label": "수술 거리"
+          },
+          {
+            "value": "로봇 전립선",
+            "label": "수술 종류"
+          },
+          {
+            "value": "10건+",
+            "label": "이전 원격 수술"
+          }
+        ],
+        "main_number": "최초",
+        "main_text": "미국 내 장거리 로봇 수술 성공"
+      },
+      "image_prompt": "cute pastel infographic illustration of a robotic arm performing surgery in one location, connected by lines to a surgeon operating from a different distant location, no text",
+      "detail": {
+        "summary": "플로리다 외과의가 35마일(약 56km) 떨어진 곳에서 로봇을 이용한 전립선 절제술을 성공적으로 수행했습니다. 이는 원격 의료 및 수술 기술의 발전 가능성을 보여주는 중요한 이정표로, AdventHealth는 이번 연구가 올랜도와 루이지애나를 연결한 10건 이상의 이전 원격 수술에 이은 것이라고 밝혔습니다.",
+        "points": [
+          "35마일 떨어진 곳에서 로봇 전립선 절제술 성공",
+          "원격 의료 및 수술 기술의 획기적인 발전",
+          "의료 서비스의 지리적 한계 극복 가능성",
+          "미국 내 10건 이상의 원격 수술 경험 바탕"
+        ],
+        "quote": "It cautioned that one case cannot show how the system performs generally.",
+        "context": "첨단 로봇 기술을 활용한 원격 수술은 의료 서비스 접근성을 향상시키고, 전문가가 부족한 지역에도 고품질 의료를 제공할 수 있는 미래 의료의 핵심 솔루션으로 주목받고 있습니다.",
+        "source_url": "https://econotimes.com/Florida-Surgeon-Performs-Robotic-Prostatectomy-From-35-Miles-Away-1764687"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20robotic%20arm%20performing%20surgery%20in%20one%20location%2C%20connected%20by%20lines%20to%20a%20surgeon%20operating%20from%20a%20different%20distant%20location%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92494&nologo=true"
+    },
+    {
+      "id": "tech-003",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "policy_change",
+      "title": "아마존, 직원들의 'AI 과도 사용'에 제동",
+      "subtitle": "AI 활용 원칙 제시, 비용 효율성 및 실질 성과 중시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "비용 증가",
+            "label": "주요 우려"
+          },
+          {
+            "value": "생산성 척도",
+            "label": "경계 대상"
+          },
+          {
+            "value": "AI 활용 원칙",
+            "label": "새로운 지침"
+          }
+        ],
+        "main_number": "균형",
+        "main_text": "AI 사용에 대한 새로운 관점 제시"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person balancing AI tools, showing efficiency gains on one side and cost/overuse on the other, with an Amazon logo subtly in the background, no text",
+      "detail": {
+        "summary": "세계 최대 전자상거래 기업 아마존이 직원들에게 인공지능(AI)을 무조건 많이 사용하는 관행을 경계하라고 주문했습니다. AI 사용량을 생산성의 척도로 삼는 기업 문화가 확산하면서 비용만 늘고 실질적인 성과는 불분명하다는 판단에서, AI 활용 원칙을 제시하며 균형 있는 접근을 강조했습니다.",
+        "points": [
+          "AI 과도 사용 관행에 대한 경고",
+          "AI 사용량 중심의 생산성 평가 비판",
+          "비용 증가 대비 실질 성과 불분명",
+          "직원들에게 AI 활용 원칙 및 지침 제시"
+        ],
+        "quote": "AI 안 쓰는 것도 능력",
+        "context": "AI 도입이 가속화되면서 기업 내에서 효율성과 혁신을 위한 AI 활용이 강조되지만, 무분별한 사용은 오히려 비용을 증가시키고 기대했던 성과를 내지 못할 수 있다는 인식이 확산되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009254114?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20balancing%20AI%20tools%2C%20showing%20efficiency%20gains%20on%20one%20side%20and%20cost/overuse%20on%20the%20other%2C%20with%20an%20Amazon%20logo%20subtly%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28335&nologo=true"
+    },
+    {
+      "id": "society-001",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "organizational_chart",
+      "title": "고양시, '고양대전환' 위한 조직개편 단행",
+      "subtitle": "시민복지·교육가족국 신설 등 민생 및 미래 성장 동력 강화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2실 10국 4직속",
+            "label": "새로운 조직"
+          },
+          {
+            "value": "시민복지국",
+            "label": "주요 신설"
+          },
+          {
+            "value": "교육가족국",
+            "label": "주요 신설"
+          }
+        ],
+        "main_number": "대전환",
+        "main_text": "미래 핵심 정책 추진 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration of an organizational chart transforming, showing new departments like 'Citizen Welfare' and 'Education & Family', with elements representing community and growth, no text",
+      "detail": {
+        "summary": "고양시가 '고양대전환'을 위한 대대적인 조직개편을 단행했습니다. 기존 사회복지국을 시민복지국과 교육가족국으로 분리·개편하고, 통합돌봄과와 청년청소년과를 신설하는 등 민생 안정과 미래 성장 동력 확보에 중점을 둔 고양형 핵심 정책을 속도감 있게 추진할 계획입니다.",
+        "points": [
+          "2실 10국 4직속으로 조직 재편",
+          "시민복지국, 교육가족국 신설 및 기능 강화",
+          "통합돌봄 및 청년청소년 정책 집중",
+          "지역 경제 및 문화 산업 육성 목표"
+        ],
+        "quote": "민생안정은 물론 항공우주 등 경제도약을 위한 '고양형 미래 핵심 정책'을 속도감 있게 추진하는 데 중점을...",
+        "context": "특례시로 지정된 고양시가 행정 효율성을 높이고 시민 삶의 질을 향상하며 지역 경제 활력을 불어넣기 위한 구체적인 로드맵을 제시하며, 시민 중심의 정책 추진을 강조하고 있습니다.",
+        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=558905"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20an%20organizational%20chart%20transforming%2C%20showing%20new%20departments%20like%20%27Citizen%20Welfare%27%20and%20%27Education%20%26%20Family%27%2C%20with%20elements%20representing%20community%20and%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99069&nologo=true"
+    },
+    {
+      "id": "society-002",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart_comparison",
+      "title": "당뇨병 치료, 높은 비용 부담에 지원 확대 촉구",
+      "subtitle": "최신 인슐린 펌프 및 GLP-1 신약 접근성 강화 요구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "높은 비용",
+            "label": "주요 문제점"
+          },
+          {
+            "value": "인슐린 펌프",
+            "label": "최신 치료"
+          },
+          {
+            "value": "GLP-1",
+            "label": "최신 치료"
+          }
+        ],
+        "main_number": "비용 부담",
+        "main_text": "환자들이 겪는 치료 접근성 문제"
+      },
+      "image_prompt": "cute pastel infographic illustration showing a bar chart comparing high treatment costs for diabetes patients versus ideal affordability, with icons of insulin pumps and GLP-1 pens, no text",
+      "detail": {
+        "summary": "당뇨병 환자들이 최신 치료법인 인슐린 펌프와 GLP-1 유사체 사용에 대한 높은 비용 부담을 호소하며, 정부의 치료 지원 확대를 촉구하고 있습니다. 환자들은 평범한 일상을 누리고 사회에 기여할 수 있도록 경제적 지원이 절실하다고 강조했습니다.",
+        "points": [
+          "최신 당뇨병 치료제(인슐린 펌프, GLP-1) 높은 비용",
+          "환자 및 가족들의 경제적 어려움 가중",
+          "정부의 치료 지원 및 급여 확대 요구",
+          "건강한 사회인으로의 활동 지원 필요성"
+        ],
+        "quote": "저희가 평범한 일상을 누리면서 정말 건강한 사회인으로 나라에 기여할 수 있도록 꼭 도와달라.",
+        "context": "의료 기술의 발전으로 새로운 치료법이 등장하고 있지만, 높은 비용 때문에 모든 환자가 혜택을 받기 어려운 현실은 사회적 논의와 정책적 지원이 필요한 중요한 과제로 떠오르고 있습니다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547428"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20bar%20chart%20comparing%20high%20treatment%20costs%20for%20diabetes%20patients%20versus%20ideal%20affordability%2C%20with%20icons%20of%20insulin%20pumps%20and%20GLP-1%20pens%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31149&nologo=true"
+    },
+    {
+      "id": "society-003",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "impact_metrics",
+      "title": "벤츠 '기브앤 레이스', 지역 사회 변화 이끌다",
+      "subtitle": "참가비 전액 기부, 아동·청소년 시설 조성 기여",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2017년",
+            "label": "시작 연도"
+          },
+          {
+            "value": "시민 참여형",
+            "label": "행사 특징"
+          },
+          {
+            "value": "아동·청소년",
+            "label": "주요 수혜 대상"
+          }
+        ],
+        "main_number": "전액 기부",
+        "main_text": "참가비 전액을 사회 공헌에 활용"
+      },
+      "image_prompt": "cute pastel infographic illustration of people running a race, with thought bubbles showing donations flowing to children's centers and community development, no text",
+      "detail": {
+        "summary": "2017년 시작된 메르세데스-벤츠 사회공헌위원회의 '기브앤 레이스'가 참가비 전액 기부를 통해 지역 사회의 아동·청소년 시설 조성에 기여하며 기업의 사회적 책임(CSR) 활동의 가치를 높이고 있습니다. 이 시민 참여형 마라톤 행사는 지역 사회 변화를 이끄는 긍정적인 사례로 주목받고 있습니다.",
+        "points": [
+          "2017년부터 지속된 시민 참여형 마라톤",
+          "참가비 전액을 사회 공헌 기금으로 사용",
+          "지역 아동·청소년 시설 조성에 기여",
+          "기업 CSR 활동의 긍정적 영향력 확대"
+        ],
+        "quote": "달리기가 지역 사회 변화로..커지는 벤츠 '기브앤 레이스' 가치",
+        "context": "기업의 사회적 책임(CSR) 활동이 단순 기부를 넘어 시민 참여를 유도하고 지역 사회에 실질적인 변화를 가져오는 형태로 진화하고 있으며, 이는 기업 이미지 제고와 함께 사회 문제 해결에 기여하는 효과를 낳고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005432600?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20people%20running%20a%20race%2C%20with%20thought%20bubbles%20showing%20donations%20flowing%20to%20children%27s%20centers%20and%20community%20development%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92367&nologo=true"
+    },
+    {
+      "id": "life-001",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart_breakdown",
+      "title": "2027 소비 트렌드: '라이프 ROI'",
+      "subtitle": "돈, 시간, 노력 대비 가치를 따지는 소비 확산",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "돈",
+            "label": "투자 요소 1"
+          },
+          {
+            "value": "시간",
+            "label": "투자 요소 2"
+          },
+          {
+            "value": "노력",
+            "label": "투자 요소 3"
+          }
+        ],
+        "main_number": "최대 가치",
+        "main_text": "삶의 다양한 측면에서 최대의 가치를 추구"
+      },
+      "image_prompt": "cute pastel infographic illustration of a pie chart showing different segments for 'money', 'time', and 'effort', all pointing towards a central 'value' icon, no text",
+      "detail": {
+        "summary": "'트렌드 코리아 2027'이 제시한 '라이프 ROI'는 소비자들이 돈뿐만 아니라 시간과 노력 등 삶의 모든 선택에서 투입 대비 가치를 따지는 새로운 소비 흐름입니다. 패션 분야에서는 구매 가격과 함께 착용 빈도, 관리 편의성, 여러 상황에서의 활용도 등이 중요해집니다.",
+        "points": [
+          "단순한 가격 넘어 삶의 총체적 가치 중시",
+          "돈, 시간, 노력 투자 대비 효과 분석",
+          "개인의 만족도와 활용성 극대화 추구",
+          "패션, 주거 등 다양한 라이프스타일 영역에 적용"
+        ],
+        "quote": "'라이프 ROI'는 돈뿐 아니라 시간과 노력 등 삶의 여러 선택에서 투입 대비 가치를 따지는 흐름이다.",
+        "context": "소비자들이 단순히 가격이나 브랜드에만 집중하기보다, 자신의 삶에 실질적인 가치와 만족을 줄 수 있는지 종합적으로 고려하는 경향이 짙어지면서, 기업들은 고객에게 제공할 수 있는 총체적 가치를 재정의해야 할 필요성이 커지고 있습니다.",
+        "source_url": "http://www.ktnews.com/news/articleView.html?idxno=149713"
+      },
+      "image_url": "data/images/2026-10-28/life-001.jpg"
+    },
+    {
+      "id": "life-002",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "health_warning",
+      "title": "엎드려 스마트폰 사용, 목뼈에 20kg 하중!",
+      "subtitle": "잘못된 자세로 인한 목 디스크 및 건강 위험 경고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "20kg",
+            "label": "목 하중 (최대)"
+          },
+          {
+            "value": "90도",
+            "label": "고개 꺾임 각도"
+          },
+          {
+            "value": "디스크, 두통",
+            "label": "주요 증상"
+          }
+        ],
+        "main_number": "위험",
+        "main_text": "잘못된 스마트폰 자세가 건강에 미치는 영향"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person lying on their stomach using a smartphone, with an arrow pointing to their neck and a weight icon showing '20kg', no text",
+      "detail": {
+        "summary": "침대에 엎드려 고개를 90도 꺾은 채 스마트폰을 보거나 잠드는 습관은 목뼈에 최대 20kg의 하중을 가하여 목 디스크, 손가락 저림, 경추성 두통을 유발할 수 있습니다. 경추 5, 6번 신경을 압박하는 이런 자세는 단순 담 결림으로 오인되기 쉬우므로 올바른 자세 유지와 예방이 중요합니다.",
+        "points": [
+          "엎드린 자세 스마트폰 사용 시 목에 과도한 하중",
+          "목 디스크, 손가락 저림, 경추성 두통 유발",
+          "경추 5, 6번 신경 압박의 위험성",
+          "올바른 자세 및 '10초 스펄링 검사법' 등 예방책 제시"
+        ],
+        "quote": "엎드려 고개 90도 꺾인 채 수면 시 경추 5·6번 신경 압박… 손가락 저림·경추성 두통 유발",
+        "context": "스마트폰 보급률이 높아지고 사용 시간이 길어지면서 잘못된 자세로 인한 척추 및 관절 건강 문제가 전 연령대에 걸쳐 심각하게 나타나고 있으며, 이에 대한 인식 개선과 예방 노력이 시급합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004170314?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20lying%20on%20their%20stomach%20using%20a%20smartphone%2C%20with%20an%20arrow%20pointing%20to%20their%20neck%20and%20a%20weight%20icon%20showing%20%2720kg%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91993&nologo=true"
+    },
+    {
+      "id": "life-003",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "trend_analysis",
+      "title": "호텔, 숙박 넘어 '라이프스타일 경험' 공간으로 진화",
+      "subtitle": "투숙객 넘어 일반 고객 대상 프로그램 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "경험 중심",
+            "label": "새로운 컨셉"
+          },
+          {
+            "value": "일반 고객",
+            "label": "대상 확대"
+          },
+          {
+            "value": "살롱 프로그램",
+            "label": "대표 서비스"
+          }
+        ],
+        "main_number": "진화",
+        "main_text": "호텔업계의 서비스 패러다임 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a luxurious hotel building with various activity icons around it (e.g., dining, art class, concert), representing a lifestyle hub, no text",
+      "detail": {
+        "summary": "호텔들이 단순한 숙박 공간을 넘어 라이프스타일과 문화를 즐기는 복합 경험 공간으로 진화하고 있습니다. 레스케이프 호텔은 기존 투숙객 중심으로 운영하던 '살롱 드 레스케이프'를 일반 고객까지 확대하는 등 다양한 체험 프로그램을 선보이며 고객 경험을 풍부하게 만들고 있습니다.",
+        "points": [
+          "호텔의 기능이 숙박에서 라이프스타일 경험으로 확장",
+          "투숙객 뿐만 아니라 일반 고객에게도 프로그램 제공",
+          "클래식 살롱, 숲캉스 데이 등 이색적인 경험 기회 마련",
+          "호텔이 지역 문화와 트렌드를 담는 플랫폼 역할 수행"
+        ],
+        "quote": "먹고 자는 곳 넘어 즐기는 곳으로",
+        "context": "팬데믹 이후 변화한 여가 및 소비 트렌드에 발맞춰 호텔 업계는 단순한 서비스 제공을 넘어 고객들에게 특별한 경험과 가치를 제공하는 방향으로 경쟁력을 강화하며 새로운 시장을 창출하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014282843?sid=101"
+      },
+      "image_url": "data/images/2026-10-28/life-003.jpg"
+    }
+  ],
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T06:09:26.030652+09:00"
+}
