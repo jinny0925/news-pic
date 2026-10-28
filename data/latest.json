@@ -1,621 +1,576 @@
 {
   "cards": [
     {
-      "id": "world-001",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "status_update",
-      "title": "이스라엘 총선, 연정 구성 난항 예상",
-      "subtitle": "출구조사 야권 근소 우위, 장기간 정치 혼란 예고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "근소 우위",
-            "label": "야권 출구조사"
-          },
-          {
-            "value": "수 주",
-            "label": "정부 구성 예상"
-          },
-          {
-            "value": "하마스 공격",
-            "label": "총선 배경"
-          }
-        ],
-        "main_number": "과반 붕괴",
-        "main_text": "집권 연합 과반 붕괴 전망"
-      },
-      "image_prompt": "cute pastel infographic illustration of a scale tipping slightly, representing a close election result, with elements of a parliament building in the background, no text",
-      "detail": {
-        "summary": "이스라엘 총선 출구조사 결과 야권이 근소하게 우세하며, 과반 붕괴로 장기간 정치적 혼란과 연정 협상 난항이 예상됩니다. 이는 2023년 10월 7일 하마스 공격 이후 첫 총선으로, 베냐민 네타냐후 총리의 정치적 운명뿐 아니라 이란과의 전쟁 향방에도 영향을 줄 것으로 보입니다.",
-        "points": [
-          "야권 근소 우위로 정치적 불안정 심화",
-          "집권 연합의 과반 붕괴 전망",
-          "정부 구성에 수 주 소요 예상",
-          "네타냐후 총리 유임 여부 불투명"
-        ],
-        "quote": "장기간의 정치적 혼란이 예상된다.",
-        "context": "하마스 공격 이후 처음 치러지는 총선은 이스라엘의 안보와 국내 정치의 향방을 결정할 중대 전환점이 될 것으로 평가됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/028/0002829489?sid=104"
-      },
-      "image_url": "data/images/2026-10-28/world-001.jpg"
-    },
-    {
-      "id": "world-002",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "numbers_and_trends",
-      "title": "美 중간선거 사전투표 3200만명 돌파",
-      "subtitle": "경합주 열기 고조, 민주당 '웃음' 공화당 '결집' 전략",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3200만+",
-            "label": "사전투표자 수"
-          },
-          {
-            "value": "경합주",
-            "label": "높은 투표율"
-          },
-          {
-            "value": "민주당",
-            "label": "사전투표 강세"
-          }
-        ],
-        "main_number": "+N/A%",
-        "main_text": "선거 당일 공화당 지지층 결집 여부가 관건"
-      },
-      "image_prompt": "cute pastel infographic illustration of a voting booth with a ballot box, showing numbers for early voters and two distinct groups representing different parties, no text",
-      "detail": {
-        "summary": "미국 중간선거 사전투표 참여자가 3200만명을 돌파하며 경합주에서 높은 투표율을 보이고 있습니다. 민주당은 사전투표 강세에 고무된 반면, 공화당은 선거 당일 본투표에서의 지지층 결집을 기대하며 판세가 예측불허의 상황으로 전개될 전망입니다.",
-        "points": [
-          "총 3200만명 이상 사전투표 참여",
-          "경합주에서 역대급 투표 열기 관측",
-          "민주당 지지층 사전투표 강세",
-          "공화당, 선거 당일 현장 투표 결집 기대"
-        ],
-        "quote": "선거 당일 본투표에 공화당 지지층이 대거 몰려나올 경우 판세가 다시 한번 소용돌이칠 수 있다.",
-        "context": "미국 정치의 향방을 가를 중요한 중간선거를 앞두고 각 당의 전략과 유권자들의 투표 행태가 주목되며, 사전투표와 본투표 간의 유권자 성향 차이가 결과에 큰 영향을 미칠 것으로 보입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005432606?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20voting%20booth%20with%20a%20ballot%20box%2C%20showing%20numbers%20for%20early%20voters%20and%20two%20distinct%20groups%20representing%20different%20parties%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53319&nologo=true"
-    },
-    {
-      "id": "world-003",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "보우소나루, 여권 제출 불응 후 미국행",
-      "subtitle": "브라질 정치 자금 및 광물 관련 수사 확대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "대선 패배 후",
-            "label": "정치적 위기"
-          },
-          {
-            "value": "희토류",
-            "label": "핵심 광물 수사"
-          },
-          {
-            "value": "미국행",
-            "label": "출국"
-          }
-        ],
-        "main_number": "불응",
-        "main_text": "여권 제출 명령 불이행"
-      },
-      "image_prompt": "cute pastel infographic illustration of a passport with a 'No Entry' sign, an airplane flying away, and a magnifying glass over documents, no text",
-      "detail": {
-        "summary": "브라질 보우소나루 전 대통령이 대선 패배 후 여권 제출 명령을 불이행하고 미국으로 출국했습니다. 브라질 당국은 정치 자금과 희토류 등 핵심 광물에 대한 외국의 경제적 이해관계 사이의 연관성을 조사하며 수사를 확대하고 있습니다.",
-        "points": [
-          "대선 패배 후 여권 제출 명령 불이행",
-          "브라질에서 미국으로 출국",
-          "정치 자금 수사 진행 중",
-          "희토류 등 핵심 광물 관련 의혹 조사"
-        ],
-        "quote": "룰라 정부 관리들과 일부 연방대법관은 정치적 양극화 완화와 국가 안정에 집중하려는 정부 목표에 여권 제출...",
-        "context": "브라질 대선 패배 이후 보우소나루 전 대통령과 관련된 정치적, 사법적 논란이 계속되고 있으며, 이는 브라질의 국내 정치 안정에 영향을 미칠 수 있습니다. 미국 행정부도 그를 정치적 우군으로 두둔해왔습니다.",
-        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261028010009613"
-      },
-      "image_url": "data/images/2026-10-28/world-003.jpg"
-    },
-    {
-      "id": "economy-001",
+      "id": "economy-fed-ai-headline",
       "is_headline": true,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "demand_supply",
-      "title": "AI 열풍에 'PCB' 품귀 대란, 핵심 전략 자원 부상",
-      "subtitle": "인공지능 반도체 수요 폭증, 기판 공급망에 비상",
+      "viz_type": "stock_chart",
+      "title": "美 증시, 연준 금리 동결에 3일째 상승",
+      "subtitle": "AI 기업 실적 희비 속 시장은 훈풍",
       "viz_data": {
         "stats": [
           {
-            "value": "AI 반도체",
-            "label": "주요 수요처"
+            "value": "3일",
+            "label": "연속 상승"
           },
           {
-            "value": "품귀 심화",
-            "label": "공급 현황"
-          },
-          {
-            "value": "2027년",
-            "label": "주문 가시성"
+            "value": "3.75-4%",
+            "label": "기준금리"
           }
         ],
-        "main_number": "+N/A%",
-        "main_text": "PCB, 단순 부품 넘어 핵심 전략 자원으로"
+        "main_number": "+32%",
+        "main_text": "MS 수익률 (연준 동결, AI 실적 영향)"
       },
-      "image_prompt": "cute pastel infographic illustration of circuit boards (PCB) being scarce, with a magnifying glass highlighting their importance and an AI brain icon in the background, no text",
+      "image_prompt": "stock market chart with rising arrows, AI robot and company logos (Microsoft, Google) showing growth and decline, vibrant colors, cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "인공지능(AI) 반도체와 고성능 서버 구축 붐으로 전 세계 전자제품의 기본 골격을 이루는 인쇄회로기판(PCB) 품귀 현상이 심화되고 있습니다. PCB가 단순 부품을 넘어 핵심 전략 자원으로 부상하며 공급망에 비상이 걸렸고, 주요 글로벌 PC 제조업체들은 2027년도 제품 수급 계획을 수립하는 과정에서 PCB 품귀 현상을 겪고 있습니다.",
+        "summary": "미국 연준이 기준금리를 동결하고 경제 활동이 '강한 속도'로 확장 중이라고 평가하며 뉴욕 증시가 3일 연속 상승했다. AI 기업들의 실적이 엇갈리며 시장에 영향을 미쳤다.",
         "points": [
-          "AI 반도체 수요 폭증으로 PCB 품귀 현상",
-          "PCB가 핵심 전략 자원으로 위상 변화",
-          "글로벌 제조업체, 2027년까지 수급 불안정 예상",
-          "세계 최대 CCL 공급업체, 주문 가시성 2027년까지 확보"
+          "연준, 기준금리 3.75~4% 동결",
+          "미국 경제활동 '강한 속도'로 확장 평가",
+          "마이크로소프트 수익 32% 급증",
+          "알파벳(구글) 매출 증가에도 순익 감소",
+          "12월 추가 금리 인상 가능성 여전"
         ],
-        "quote": "현재 확보된 주문 가시성이 이미 2027년까지 확정적이다.",
-        "context": "AI 기술의 급속한 발전이 하드웨어 인프라 수요를 폭발적으로 증가시키면서, 관련 부품의 공급망 안정성이 글로벌 산업의 핵심 쟁점으로 떠오르고 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026102717530025450c8c1c064d_1"
+        "quote": "연준은 인플레이션이 여전히 높은 수준이라고 평가하면서도 추가 경제지표를 확인한 뒤 통화정책 방향을 결정하겠다.",
+        "context": "글로벌 금융 시장의 불확실성 속에서 연준의 금리 동결은 단기적인 안정감을 주었지만, AI 산업의 성과가 기업별로 명암을 달리하며 투자자들의 관심이 집중되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006398386?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20circuit%20boards%20%28PCB%29%20being%20scarce%2C%20with%20a%20magnifying%20glass%20highlighting%20their%20importance%20and%20an%20AI%20brain%20icon%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=14447&nologo=true"
+      "image_url": "data/images/2026-10-29/economy-fed-ai-headline.jpg"
     },
     {
-      "id": "economy-002",
+      "id": "world-us-debt",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "동맹국의 美 국채 매도 증가",
+      "subtitle": "한국, 1977년 이후 최대 규모 매도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1977년",
+            "label": "이후 최대"
+          },
+          {
+            "value": "99%",
+            "label": "日 순매입 급감"
+          }
+        ],
+        "main_number": "최대 매도",
+        "main_text": "한국의 미국 국채 매도액이 1977년 이후 최대치 기록"
+      },
+      "image_prompt": "infographic showing countries' flags (US, Korea, Japan) with downward arrows representing US Treasury bond sales, line chart for historical trend, cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국이 미국 국채 매도액에서 1977년 이후 최대 규모를 기록했으며, 세계 최대 미 국채 보유국인 일본의 순매입액도 99% 급감하는 등 동맹국들이 미 국채 보유를 줄이고 있다.",
+        "points": [
+          "한국, 미국 국채 매도액 1977년 이후 최대치",
+          "일본, 1~8월 순매입액 전년 동기 대비 99% 급감",
+          "일부 국가, 미국 단일 채권 투자에서 다변화 추진",
+          "글로벌 투자처 다각화 움직임 확산",
+          "미국 재정 건전성 우려 및 환율 변동성 영향"
+        ],
+        "quote": "동맹국들이 미국 단일 채권 투자에서 벗어나 전 세계 투자처로 투자 대상을 확대할 계획이라고 밝혔다.",
+        "context": "주요 동맹국들이 미국 국채 보유 비중을 줄이는 것은 글로벌 경제 및 지정학적 불확실성 증대와 각국의 자산 포트폴리오 다변화 전략의 일환으로 분석된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004676318?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20showing%20countries%27%20flags%20%28US%2C%20Korea%2C%20Japan%29%20with%20downward%20arrows%20representing%20US%20Treasury%20bond%20sales%2C%20line%20chart%20for%20historical%20trend%2C%20cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=67367&nologo=true"
+    },
+    {
+      "id": "world-brand-value",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "ranking_chart",
+      "title": "삼성전자, 7년 연속 글로벌 브랜드 톱5",
+      "subtitle": "현대차 29위 기록하며 K-기업 위상 강화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7년",
+            "label": "연속 톱5"
+          },
+          {
+            "value": "29위",
+            "label": "현대차"
+          }
+        ],
+        "main_number": "Top 5",
+        "main_text": "삼성전자 글로벌 브랜드 가치 7년 연속 톱5 유지"
+      },
+      "image_prompt": "infographic showing a trophy or medal, Samsung logo, Hyundai logo, global map, showing rankings, cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "삼성전자가 글로벌 브랜드 가치 평가에서 7년 연속 세계 5위를 유지하며 기술 혁신을 인정받았고, 현대자동차도 29위를 기록하며 한국 기업의 글로벌 위상이 강화되고 있다.",
+        "points": [
+          "삼성전자, 글로벌 브랜드 가치 7년 연속 세계 5위",
+          "현대자동차, 종합 순위 29위 기록",
+          "삼성, 6세대 고대역폭메모리(HBM4) 양산 등 혁신 주도",
+          "글로벌 기업들의 친환경 및 지속가능 경영 중요성 부각",
+          "브랜드 가치 상승이 기업 경쟁력에 기여"
+        ],
+        "quote": "삼성은 '미래의 AI 시대 개척'이라는 비전 아래 혁신적인 기술 리더십을 발휘하고 있다.",
+        "context": "글로벌 시장에서 한국 기업들의 브랜드 가치가 꾸준히 상승하는 것은 기술 혁신과 고부가가치 산업 집중 전략의 성공적인 결과로 평가된다. 특히 AI 시대에 맞춰 선제적인 대응이 주효했다.",
+        "source_url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434949"
+      },
+      "image_url": "data/images/2026-10-29/world-brand-value.jpg"
+    },
+    {
+      "id": "world-eu-canada",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "flow_chart",
+      "title": "EU-캐나다 관계, '준회원국'에서 '긴밀한 연대'로",
+      "subtitle": "EU 회원국 간 이견 속 협상 수위 조절",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "초안",
+            "label": "준회원국"
+          },
+          {
+            "value": "최신본",
+            "label": "긴밀한 연대"
+          }
+        ],
+        "main_number": "수위 낮춰",
+        "main_text": "EU 회원국들, 캐나다 '준회원국' 제안 철회"
+      },
+      "image_prompt": "infographic showing EU and Canada flags, arrows indicating shifting diplomatic relationship status, concept of 'closer ties', cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "EU가 캐나다에 제안하려던 '준회원국' 지위 구상을 철회하고 '더욱 긴밀한 연대'로 수위를 낮춘 공동성명 초안을 공개했다. 이는 EU 회원국들 내부의 이견을 반영한 조치로 분석된다.",
+        "points": [
+          "EU, 캐나다 '준회원국' 제안 구상 철회",
+          "새로운 제안은 '더욱 긴밀한 연대'로 하향 조정",
+          "폴리티코, EU-캐나다 정상회의 공동성명 초안 공개",
+          "회원국 간 캐나다 지위 부여에 대한 이견 존재",
+          "EU의 국제 파트너십 전략 변화 시사"
+        ],
+        "quote": "EU 회원국들이 캐나다에 준회원국 지위를 제안하려던 구상을 접고, '더욱 긴밀한 연대(ever closer association)'를 추진한다.",
+        "context": "EU와 캐나다 간의 관계 재정립은 글로벌 블록 간의 복잡한 외교 역학 관계를 보여준다. 당초 높은 수준의 통합을 염두에 두었으나, 현실적인 정치적 고려로 유연하게 접근하는 모습이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009256646?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20showing%20EU%20and%20Canada%20flags%2C%20arrows%20indicating%20shifting%20diplomatic%20relationship%20status%2C%20concept%20of%20%27closer%20ties%27%2C%20cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=29389&nologo=true"
+    },
+    {
+      "id": "economy-rental-crisis",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "comparison_chart",
-      "title": "AI 거품·유가 급등에 아시아 통화 동반 약세",
-      "subtitle": "한국, 인도 등 주요국 환율 불안정 심화",
+      "viz_type": "pie_chart",
+      "title": "1조원 규모 '전세난민' 위기 현실화",
+      "subtitle": "올림픽파크포레온 세입자 1300여 가구 만기 직면",
       "viz_data": {
         "stats": [
           {
-            "value": "AI 거품론",
-            "label": "내부 요인"
+            "value": "1조원",
+            "label": "만기 보증금"
           },
           {
-            "value": "유가 급등",
-            "label": "외부 요인"
-          },
-          {
-            "value": "최저치",
-            "label": "신대만달러"
+            "value": "1301건",
+            "label": "만기 계약"
           }
         ],
-        "main_number": "동반 약세",
-        "main_text": "아시아 주요 통화의 가치 하락"
+        "main_number": "1,300+",
+        "main_text": "올림픽파크포레온 전세 계약 만기 가구"
       },
-      "image_prompt": "cute pastel infographic illustration of multiple national currencies (Won, Rupee, New Taiwan Dollar) falling against a dollar, with an oil barrel and a bubble representing AI, no text",
+      "image_prompt": "infographic showing a building with many people moving out, large numbers representing 1 trillion won and 1300 households, housing market graph, cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "AI 거품론과 중동발 유가 급등의 이중고로 아시아 통화가 동반 약세를 보이며 한국, 인도 등 주요국 환율 불안정성이 심화되고 있습니다. 특히 세계 최대 파운드리 기업 TSMC를 필두로 미국 빅테크 공급망과 밀접하게 얽혀 있는 대만은 신대만달러 환율이 최근 1년 6개월 만에 최저치를 기록했습니다.",
+        "summary": "서울 송파구 올림픽파크포레온 아파트의 전세 계약 만기가 다가오면서 약 1300가구, 1조원 규모의 전세 보증금 반환 문제가 불거져 '전세난민' 우려가 커지고 있다.",
         "points": [
-          "AI 거품론 확산으로 인한 시장 불안정",
-          "중동발 유가 급등으로 에너지 비용 상승",
-          "아시아 주요 통화 가치 동반 약세",
-          "한국, 인도 등 주요국 환율 불안정성 심화"
+          "올림픽파크포레온, 내년 11월까지 1301건 전세 계약 만기",
+          "총 만기 보증금 규모 약 1조원 추산",
+          "실거주 의무 유예 종료로 집주인 입주 희망 증가",
+          "세입자들의 새로운 거주지 마련 어려움 예상",
+          "전세 시장 불안정 심화 우려"
         ],
-        "quote": "신대만달러(TWD) 환율이 지난 10월 20일 장중 달러당 32.5대만달러 선까지 밀려나며 최근 1년 6개월 만에 최저...",
-        "context": "글로벌 경제의 불확실성이 커지면서 기술 버블 우려와 지정학적 리스크가 환율 시장에 직접적인 영향을 미치고 있으며, 이는 아시아 국가들의 경제 전반에 부담으로 작용하고 있습니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026102717391339630c8c1c064d_1"
+        "quote": "내년 11월까지 만기가 돌아오는 계약은 1301건으로 집계됐다. 전세 보증금 규모는 1조원에 달한다.",
+        "context": "전세 시장의 불안정은 고금리 기조와 함께 실거주 의무 유예 종료 등 복합적인 요인으로 심화되고 있다. 특히 대규모 단지에서 동시에 발생하는 만기는 전세 시장에 큰 충격을 줄 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005755644?sid=101"
       },
-      "image_url": "data/images/2026-10-28/economy-002.jpg"
+      "image_url": "data/images/2026-10-29/economy-rental-crisis.jpg"
     },
     {
-      "id": "economy-003",
+      "id": "economy-bsi",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "timeline",
-      "title": "이마트 '쓱데이' 10일간 역대급 할인 행사",
-      "subtitle": "한우 160톤 확보, 신선식품·가전 할인 범위 확대",
+      "viz_type": "line_chart",
+      "title": "반도체 호조에도 기업경기 전망 2개월 연속 '부정적'",
+      "subtitle": "한국경제인협회 11월 BSI, 100 이하 기록",
       "viz_data": {
         "stats": [
           {
-            "value": "10일",
-            "label": "행사 기간"
+            "value": "2개월",
+            "label": "연속 부정적"
           },
           {
-            "value": "160톤",
-            "label": "한우 물량"
-          },
-          {
-            "value": "2.5배",
-            "label": "기간 확대"
+            "value": "98.6",
+            "label": "11월 BSI"
           }
         ],
-        "main_number": "연중 최대",
-        "main_text": "할인행사 규모와 범위"
+        "main_number": "<100",
+        "main_text": "기준치 100을 밑돈 기업경기실사지수(BSI)"
       },
-      "image_prompt": "cute pastel infographic illustration of a shopping cart overflowing with fresh produce and electronics, a calendar marking 10 days, and a banner saying 'Biggest Sale', no text",
+      "image_prompt": "infographic showing a downward trending line graph for BSI, with a small upward spike for semiconductors, business people with worried expressions, cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "이마트가 연중 최대 할인행사인 '쓱데이'의 자체 행사 기간을 지난해 4일에서 올해 10일로 확대합니다. 한우 160톤을 확보하고 한정 기획상품과 가전제품까지 할인 범위를 넓혀 고물가 시대 연말 쇼핑 수요를 적극적으로 공략할 계획입니다.",
+        "summary": "반도체 업황 호조에도 불구하고 국내 기업들의 경기 전망이 두 달 연속 부정적인 것으로 나타났다. 한국경제인협회 조사 결과 11월 기업경기실사지수(BSI)는 98.6을 기록해 기준치 100을 밑돌았다.",
         "points": [
-          "행사 기간 지난해 대비 2.5배(4일→10일) 확대",
-          "한우 160톤 등 대규모 물량 확보",
-          "신선식품부터 가전까지 할인 품목 다양화",
-          "고물가 시대 소비자 구매력 증대 전략"
+          "한국경제인협회, 600대 기업 대상 BSI 조사",
+          "11월 BSI 전망치 98.6 기록 (기준치 100 미만)",
+          "반도체 업종은 호조세 지속",
+          "대내외 경제 불확실성 지속 영향",
+          "내수 침체 및 고금리 부담이 주요 요인"
         ],
-        "quote": "이마트가 연중 최대 할인행사인 '쓱데이'의 자체 행사 기간을 지난해 4일에서 올해 10일로 확대한다.",
-        "context": "고물가로 인해 소비 심리가 위축된 상황에서 유통업체들은 대규모 할인 행사를 통해 고객을 유인하고 매출을 끌어올리기 위한 경쟁을 심화하고 있습니다.",
-        "source_url": "http://www.finomy.com/news/articleView.html?idxno=264789"
+        "quote": "BSI가 100보다 높으면 경기 전망이 지난달 대비 긍정적임을 의미하고, 100보다 낮으면 부정적임을 의미한다.",
+        "context": "반도체 산업의 회복세가 전체 기업 경기 개선으로 이어지지 못하는 상황은 내수 침체와 고금리, 고환율 등 복합적인 경제 하방 압력이 기업 활동에 미치는 영향이 크다는 것을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000920595?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shopping%20cart%20overflowing%20with%20fresh%20produce%20and%20electronics%2C%20a%20calendar%20marking%2010%20days%2C%20and%20a%20banner%20saying%20%27Biggest%20Sale%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95934&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20showing%20a%20downward%20trending%20line%20graph%20for%20BSI%2C%20with%20a%20small%20upward%20spike%20for%20semiconductors%2C%20business%20people%20with%20worried%20expressions%2C%20cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92860&nologo=true"
     },
     {
-      "id": "tech-001",
+      "id": "tech-nvidia-antitrust",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "risk_assessment",
-      "title": "앤트로픽, '안전장치 없는 AI는 재앙' 경고",
-      "subtitle": "상장 앞두고 AI 개발의 윤리적, 사회적 위험성 강조",
+      "viz_type": "radar_chart",
+      "title": "엔비디아, 17조원 허깅페이스 인수 반독점 조사",
+      "subtitle": "AI 가속기 시장 90% 장악 독점 우려 증폭",
       "viz_data": {
         "stats": [
           {
-            "value": "정치·사회적 갈등",
-            "label": "주요 위험"
+            "value": "17조원",
+            "label": "인수 규모"
           },
           {
-            "value": "공급망 병목",
-            "label": "사업 위험"
-          },
-          {
-            "value": "22.5조 달러",
-            "label": "2031년 경제 효과"
+            "value": "90% 이상",
+            "label": "AI칩 시장 점유율"
           }
         ],
-        "main_number": "재앙",
-        "main_text": "안전장치 없는 AI의 잠재적 위험성"
+        "main_number": "반독점",
+        "main_text": "AI 시장 독점 우려로 美 법무부 조사 착수"
       },
-      "image_prompt": "cute pastel infographic illustration of a robot with a warning sign, representing AI risks, with abstract symbols of social conflict and supply chain issues in the background, no text",
+      "image_prompt": "infographic showing Nvidia logo, Hugging Face logo, scales of justice, AI chips, percentages for market share, cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "AI 스타트업 앤트로픽이 상장을 앞두고 '안전장치 없는 AI는 재앙'이 될 수 있다고 경고했습니다. 정치·사회적 갈등, 공급망 병목 현상 등을 주요 위험으로 제시하며, AI 기술 개발과 활용에 있어 윤리적 및 사회적 안전장치의 중요성을 강조했습니다.",
+        "summary": "미국 법무부가 엔비디아의 AI 모델 허브 '허깅페이스' 인수 계약에 대해 반독점 조사에 착수했다. 엔비디아의 AI 가속기 칩 시장 점유율이 90% 이상인 상황에서 AI 생태계 독점 우려가 제기되고 있다.",
         "points": [
-          "AI의 잠재적 위험성 및 윤리적 문제 제기",
-          "정치·사회적 갈등 증폭 가능성 우려",
-          "공급망 병목 등 사업 운영 위험성 언급",
-          "AI 안전성 및 책임 있는 개발의 중요성 강조"
+          "美 법무부, 엔비디아의 허깅페이스 인수 반독점 조사",
+          "엔비디아, AI 가속기 칩 시장 90% 이상 장악",
+          "허깅페이스는 AI 모델 및 오픈소스 데이터의 핵심 유통 플랫폼",
+          "생성형 AI 시장의 공정한 경쟁 환경 조성 목적",
+          "인수 완료 시 AI 생태계 전반에 미칠 영향 주목"
         ],
-        "quote": "정치·사회적 갈등도 위험으로 제시했습니다.",
-        "context": "AI 기술의 급속한 발전과 함께 그 위험성에 대한 논의도 활발해지고 있으며, AI 개발 기업들 스스로 사회적 책임의 중요성을 인식하고 안전성 확보를 위한 노력을 기울여야 한다는 목소리가 커지고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004675842?sid=104"
+        "quote": "AI 가속기 칩 시장을 90% 이상 장악한 엔비디아가 전 세계 AI 모델과 오픈소스 데이터가 집결하는 핵심 유통 플랫폼을 인수하려는 움직임에 대해 시장 독점 우려가 커지고 있다.",
+        "context": "AI 산업의 급성장과 함께 특정 기업의 시장 독점 문제가 중요한 이슈로 부상하고 있다. 엔비디아는 하드웨어와 소프트웨어를 아우르는 AI 생태계 장악력을 높이며 규제 당국의 감시를 받고 있다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=92603"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20robot%20with%20a%20warning%20sign%2C%20representing%20AI%20risks%2C%20with%20abstract%20symbols%20of%20social%20conflict%20and%20supply%20chain%20issues%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=33822&nologo=true"
+      "image_url": "data/images/2026-10-29/tech-nvidia-antitrust.jpg"
     },
     {
-      "id": "tech-002",
+      "id": "tech-magnetic-tape",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "innovation_milestone",
-      "title": "플로리다 외과의, 35마일 원격 로봇 수술 성공",
-      "subtitle": "차세대 원격 수술 기술 발전 가능성 제시",
+      "viz_type": "bar_chart",
+      "title": "AI 데이터 폭증에 '자기 테이프'의 역습",
+      "subtitle": "후지필름, 생산량 5배 확대 돌입",
       "viz_data": {
         "stats": [
           {
-            "value": "35마일(56km)",
-            "label": "수술 거리"
+            "value": "5배",
+            "label": "생산량 증가"
           },
           {
-            "value": "로봇 전립선",
-            "label": "수술 종류"
-          },
-          {
-            "value": "10건+",
-            "label": "이전 원격 수술"
+            "value": "718ZB",
+            "label": "2030년 데이터"
           }
         ],
-        "main_number": "최초",
-        "main_text": "미국 내 장거리 로봇 수술 성공"
+        "main_number": "500%",
+        "main_text": "후지필름 자기 테이프 생산량 5배 확대"
       },
-      "image_prompt": "cute pastel infographic illustration of a robotic arm performing surgery in one location, connected by lines to a surgeon operating from a different distant location, no text",
+      "image_prompt": "infographic showing old magnetic tapes being revived, modern AI robots, data growth charts, 5x increase, cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "플로리다 외과의가 35마일(약 56km) 떨어진 곳에서 로봇을 이용한 전립선 절제술을 성공적으로 수행했습니다. 이는 원격 의료 및 수술 기술의 발전 가능성을 보여주는 중요한 이정표로, AdventHealth는 이번 연구가 올랜도와 루이지애나를 연결한 10건 이상의 이전 원격 수술에 이은 것이라고 밝혔습니다.",
+        "summary": "인공지능(AI) 열풍으로 데이터 수요가 폭증하면서 한때 아날로그 유물로 취급받던 자기 테이프가 다시 주목받고 있다. 후지필름은 이러한 수요에 대응하기 위해 자기 테이프 생산량을 5배로 늘릴 계획이다.",
         "points": [
-          "35마일 떨어진 곳에서 로봇 전립선 절제술 성공",
-          "원격 의료 및 수술 기술의 획기적인 발전",
-          "의료 서비스의 지리적 한계 극복 가능성",
-          "미국 내 10건 이상의 원격 수술 경험 바탕"
+          "AI 열풍으로 전 세계적인 데이터 폭증",
+          "자기 테이프, '콜드 데이터' 보관소로 재조명",
+          "후지필름, 자기 테이프 생산량 5배 확대 추진",
+          "2030년 전 세계 데이터 718제타바이트(ZB) 예상",
+          "경제성 및 친환경성으로 데이터 보관 시장 재편"
         ],
-        "quote": "It cautioned that one case cannot show how the system performs generally.",
-        "context": "첨단 로봇 기술을 활용한 원격 수술은 의료 서비스 접근성을 향상시키고, 전문가가 부족한 지역에도 고품질 의료를 제공할 수 있는 미래 의료의 핵심 솔루션으로 주목받고 있습니다.",
-        "source_url": "https://econotimes.com/Florida-Surgeon-Performs-Robotic-Prostatectomy-From-35-Miles-Away-1764687"
+        "quote": "자기 테이프가 다시금 주목받는 이유는 경제성과 친환경성이다. 하드 디스크보다 저렴하고 수명도 길며, 전력 소비가 적어 에너지 효율적이다.",
+        "context": "AI 시대의 도래는 예상치 못한 기술의 부활을 가져왔다. 대규모 AI 학습 및 운영에 필요한 '콜드 데이터(Cold Data)' 저장 방식으로 자기 테이프가 각광받으면서 데이터 저장 산업의 새로운 패러다임을 제시하고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102814414285610c8c1c064d_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20robotic%20arm%20performing%20surgery%20in%20one%20location%2C%20connected%20by%20lines%20to%20a%20surgeon%20operating%20from%20a%20different%20distant%20location%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92494&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20showing%20old%20magnetic%20tapes%20being%20revived%2C%20modern%20AI%20robots%2C%20data%20growth%20charts%2C%205x%20increase%2C%20cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=18967&nologo=true"
     },
     {
-      "id": "tech-003",
+      "id": "tech-medical-robot",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "policy_change",
-      "title": "아마존, 직원들의 'AI 과도 사용'에 제동",
-      "subtitle": "AI 활용 원칙 제시, 비용 효율성 및 실질 성과 중시",
+      "viz_type": "infographic",
+      "title": "삼성서울병원, 수술실 '휴머노이드 로봇' 도입",
+      "subtitle": "2초 만에 도구 전달, 의료 혁신 기대",
       "viz_data": {
         "stats": [
           {
-            "value": "비용 증가",
-            "label": "주요 우려"
+            "value": "2초",
+            "label": "도구 전달 시간"
           },
           {
-            "value": "생산성 척도",
-            "label": "경계 대상"
-          },
-          {
-            "value": "AI 활용 원칙",
-            "label": "새로운 지침"
+            "value": "9월",
+            "label": "첫 공개 시연"
           }
         ],
-        "main_number": "균형",
-        "main_text": "AI 사용에 대한 새로운 관점 제시"
+        "main_number": "혁신",
+        "main_text": "휴머노이드 로봇, 수술실 보조 역할 시연 성공"
       },
-      "image_prompt": "cute pastel infographic illustration of a person balancing AI tools, showing efficiency gains on one side and cost/overuse on the other, with an Amazon logo subtly in the background, no text",
+      "image_prompt": "cute pastel infographic illustration of a humanoid robot assisting surgeons in an operating room, advanced medical technology, efficient and precise, no text",
       "detail": {
-        "summary": "세계 최대 전자상거래 기업 아마존이 직원들에게 인공지능(AI)을 무조건 많이 사용하는 관행을 경계하라고 주문했습니다. AI 사용량을 생산성의 척도로 삼는 기업 문화가 확산하면서 비용만 늘고 실질적인 성과는 불분명하다는 판단에서, AI 활용 원칙을 제시하며 균형 있는 접근을 강조했습니다.",
+        "summary": "삼성서울병원이 수술 보조 역할을 수행하는 휴머노이드 로봇을 공개 시연했다. 이 로봇은 수술 도구를 2초 만에 전달하는 등 정밀한 작업이 가능하여 의료 현장의 효율성과 안전성 향상에 기여할 것으로 기대된다.",
         "points": [
-          "AI 과도 사용 관행에 대한 경고",
-          "AI 사용량 중심의 생산성 평가 비판",
-          "비용 증가 대비 실질 성과 불분명",
-          "직원들에게 AI 활용 원칙 및 지침 제시"
+          "삼성서울병원, 휴머노이드 수술 보조 로봇 공개 시연",
+          "로봇, 요청받은 수술 도구 2초 내 전달",
+          "수술실 내 의료진의 업무 부담 경감 기대",
+          "의료 효율성 및 환자 안전성 향상 잠재력",
+          "일본 닛케이 아시아 보도, 글로벌 관심 집중"
         ],
-        "quote": "AI 안 쓰는 것도 능력",
-        "context": "AI 도입이 가속화되면서 기업 내에서 효율성과 혁신을 위한 AI 활용이 강조되지만, 무분별한 사용은 오히려 비용을 증가시키고 기대했던 성과를 내지 못할 수 있다는 인식이 확산되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009254114?sid=101"
+        "quote": "시연 현장에서 한 의사는 '로봇이 메스를 달라면 2초 내에 척척 가져다주는 모습은 놀라웠다'고 전했다.",
+        "context": "첨단 로봇 기술이 의료 현장에 접목되면서 수술의 정밀도를 높이고 의료진의 피로도를 줄이는 등 혁신적인 변화를 가져오고 있다. 이는 미래 병원의 모습과 환자 치료의 질을 한 단계 끌어올릴 잠재력을 가지고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102814495379020c8c1c064d_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20balancing%20AI%20tools%2C%20showing%20efficiency%20gains%20on%20one%20side%20and%20cost/overuse%20on%20the%20other%2C%20with%20an%20Amazon%20logo%20subtly%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28335&nologo=true"
+      "image_url": "data/images/2026-10-29/tech-medical-robot.jpg"
     },
     {
-      "id": "society-001",
+      "id": "society-ai-jobs",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "organizational_chart",
-      "title": "고양시, '고양대전환' 위한 조직개편 단행",
-      "subtitle": "시민복지·교육가족국 신설 등 민생 및 미래 성장 동력 강화",
+      "viz_type": "infographic",
+      "title": "AI가 지워버린 신입의 자리, 사회적 자본 축적 위협",
+      "subtitle": "기업의 효율 추구가 신입 채용 감소로 이어져",
       "viz_data": {
         "stats": [
           {
-            "value": "2실 10국 4직속",
-            "label": "새로운 조직"
+            "value": "AI",
+            "label": "자동화"
           },
           {
-            "value": "시민복지국",
-            "label": "주요 신설"
-          },
-          {
-            "value": "교육가족국",
-            "label": "주요 신설"
+            "value": "신입",
+            "label": "채용 감소"
           }
         ],
-        "main_number": "대전환",
-        "main_text": "미래 핵심 정책 추진 가속화"
+        "main_number": "위협",
+        "main_text": "AI로 인한 신입 일자리 감소, 사회적 인적 자본 축적에 빨간불"
       },
-      "image_prompt": "cute pastel infographic illustration of an organizational chart transforming, showing new departments like 'Citizen Welfare' and 'Education & Family', with elements representing community and growth, no text",
+      "image_prompt": "cute pastel infographic illustration of a robot taking over a human's desk, job market graphs showing decline for entry-level positions, worried young people, no text",
       "detail": {
-        "summary": "고양시가 '고양대전환'을 위한 대대적인 조직개편을 단행했습니다. 기존 사회복지국을 시민복지국과 교육가족국으로 분리·개편하고, 통합돌봄과와 청년청소년과를 신설하는 등 민생 안정과 미래 성장 동력 확보에 중점을 둔 고양형 핵심 정책을 속도감 있게 추진할 계획입니다.",
+        "summary": "AI 기술의 발전으로 기업들이 신입 채용을 줄이면서 사회 전체의 인적 자본 축적과 전수 시스템이 위협받고 있다. 개별 기업의 합리적 선택이 사회 전체에는 구조적 부작용으로 나타날 수 있다는 경고다.",
         "points": [
-          "2실 10국 4직속으로 조직 재편",
-          "시민복지국, 교육가족국 신설 및 기능 강화",
-          "통합돌봄 및 청년청소년 정책 집중",
-          "지역 경제 및 문화 산업 육성 목표"
+          "AI 기술 도입으로 기업 내 효율성 증가",
+          "단순 업무 자동화로 신입 일자리 감소",
+          "사회 전체의 인적 자본 축적 및 전수 기능 약화 우려",
+          "청년층의 사회 진입 장벽 심화 가능성",
+          "정부 및 기업의 인재 양성 시스템 재고 필요성"
         ],
-        "quote": "민생안정은 물론 항공우주 등 경제도약을 위한 '고양형 미래 핵심 정책'을 속도감 있게 추진하는 데 중점을...",
-        "context": "특례시로 지정된 고양시가 행정 효율성을 높이고 시민 삶의 질을 향상하며 지역 경제 활력을 불어넣기 위한 구체적인 로드맵을 제시하며, 시민 중심의 정책 추진을 강조하고 있습니다.",
-        "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=558905"
+        "quote": "신입 채용은 단순한 일자리 제공을 넘어 사회 전체의 인적 자본을 축적하고 전수하는 필수적인 관문이다.",
+        "context": "AI 기술의 확산은 생산성 향상이라는 긍정적인 면과 동시에 고용 시장의 변화라는 사회적 과제를 안겨주고 있다. 특히 미래 세대의 성장 동력을 확보하기 위한 신입 인력 양성의 중요성이 커지고 있다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2641038"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20an%20organizational%20chart%20transforming%2C%20showing%20new%20departments%20like%20%27Citizen%20Welfare%27%20and%20%27Education%20%26%20Family%27%2C%20with%20elements%20representing%20community%20and%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99069&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20robot%20taking%20over%20a%20human%27s%20desk%2C%20job%20market%20graphs%20showing%20decline%20for%20entry-level%20positions%2C%20worried%20young%20people%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86406&nologo=true"
     },
     {
-      "id": "society-002",
+      "id": "society-income-satisfaction",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "bar_chart_comparison",
-      "title": "당뇨병 치료, 높은 비용 부담에 지원 확대 촉구",
-      "subtitle": "최신 인슐린 펌프 및 GLP-1 신약 접근성 강화 요구",
+      "viz_type": "pie_chart",
+      "title": "자가 거주 가구주 절반, '소득 부족'",
+      "subtitle": "'여유 있다'는 응답은 18%에 불과",
       "viz_data": {
         "stats": [
           {
-            "value": "높은 비용",
-            "label": "주요 문제점"
+            "value": "~50%",
+            "label": "소득 부족"
           },
           {
-            "value": "인슐린 펌프",
-            "label": "최신 치료"
-          },
-          {
-            "value": "GLP-1",
-            "label": "최신 치료"
+            "value": "18%",
+            "label": "소득 여유"
           }
         ],
-        "main_number": "비용 부담",
-        "main_text": "환자들이 겪는 치료 접근성 문제"
+        "main_number": "불충분",
+        "main_text": "자가 가구주 소득 만족도, 절반이 '부족' 평가"
       },
-      "image_prompt": "cute pastel infographic illustration showing a bar chart comparing high treatment costs for diabetes patients versus ideal affordability, with icons of insulin pumps and GLP-1 pens, no text",
+      "image_prompt": "cute pastel infographic illustration of pie chart showing income satisfaction levels of homeowners, bar chart comparing 'insufficient' vs 'sufficient', people struggling with finances, no text",
       "detail": {
-        "summary": "당뇨병 환자들이 최신 치료법인 인슐린 펌프와 GLP-1 유사체 사용에 대한 높은 비용 부담을 호소하며, 정부의 치료 지원 확대를 촉구하고 있습니다. 환자들은 평범한 일상을 누리고 사회에 기여할 수 있도록 경제적 지원이 절실하다고 강조했습니다.",
+        "summary": "2025년 사회조사 결과에 따르면, 자가 거주 가구주의 절반 가까이가 소득이 부족하다고 느끼는 것으로 나타났다. 반면 소득에 여유가 있다고 응답한 비율은 18%에 그쳤다.",
         "points": [
-          "최신 당뇨병 치료제(인슐린 펌프, GLP-1) 높은 비용",
-          "환자 및 가족들의 경제적 어려움 가중",
-          "정부의 치료 지원 및 급여 확대 요구",
-          "건강한 사회인으로의 활동 지원 필요성"
+          "국가데이터처 '2025년 사회조사' 결과",
+          "자가 거주 가구주의 약 50%가 소득 '부족'",
+          "소득 '여유 있다' 응답은 18% 기록",
+          "주택 점유 형태와 무관하게 소득 불만족 비율 높아",
+          "가구 소득 양극화 및 생활비 부담 심화 시사"
         ],
-        "quote": "저희가 평범한 일상을 누리면서 정말 건강한 사회인으로 나라에 기여할 수 있도록 꼭 도와달라.",
-        "context": "의료 기술의 발전으로 새로운 치료법이 등장하고 있지만, 높은 비용 때문에 모든 환자가 혜택을 받기 어려운 현실은 사회적 논의와 정책적 지원이 필요한 중요한 과제로 떠오르고 있습니다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547428"
+        "quote": "현재 거주하는 집의 점유형태가 '자가(자기 집)'인 가구주 중 절반 가까이는 소득이 '부족하다'고 인식했다.",
+        "context": "소득 불만족은 가계의 재정적 어려움을 보여주는 중요한 지표다. 특히 자가 주택을 보유하고 있음에도 소득 부족을 느끼는 가구의 증가는 전반적인 가계 경제의 압박과 소비 위축으로 이어질 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016407435?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20bar%20chart%20comparing%20high%20treatment%20costs%20for%20diabetes%20patients%20versus%20ideal%20affordability%2C%20with%20icons%20of%20insulin%20pumps%20and%20GLP-1%20pens%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31149&nologo=true"
+      "image_url": "data/images/2026-10-29/society-income-satisfaction.jpg"
     },
     {
-      "id": "society-003",
+      "id": "society-local-autonomy",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "impact_metrics",
-      "title": "벤츠 '기브앤 레이스', 지역 사회 변화 이끌다",
-      "subtitle": "참가비 전액 기부, 아동·청소년 시설 조성 기여",
+      "viz_type": "diagram",
+      "title": "\"지방일괄이양법\"으로 지자체 권한 확대 요구",
+      "subtitle": "재정분권 선결 과제, 실질적 지방자치 실현",
       "viz_data": {
         "stats": [
           {
-            "value": "2017년",
-            "label": "시작 연도"
+            "value": "확대",
+            "label": "권한"
           },
           {
-            "value": "시민 참여형",
-            "label": "행사 특징"
-          },
-          {
-            "value": "아동·청소년",
-            "label": "주요 수혜 대상"
+            "value": "필수",
+            "label": "재정분권"
           }
         ],
-        "main_number": "전액 기부",
-        "main_text": "참가비 전액을 사회 공헌에 활용"
+        "main_number": "지방자치",
+        "main_text": "지방일괄이양법 통한 실질적인 지방자치 실현 강조"
       },
-      "image_prompt": "cute pastel infographic illustration of people running a race, with thought bubbles showing donations flowing to children's centers and community development, no text",
+      "image_prompt": "cute pastel infographic illustration showing a city hall building with an arrow pointing to increased autonomy, money bags symbolizing fiscal decentralization, local community members, no text",
       "detail": {
-        "summary": "2017년 시작된 메르세데스-벤츠 사회공헌위원회의 '기브앤 레이스'가 참가비 전액 기부를 통해 지역 사회의 아동·청소년 시설 조성에 기여하며 기업의 사회적 책임(CSR) 활동의 가치를 높이고 있습니다. 이 시민 참여형 마라톤 행사는 지역 사회 변화를 이끄는 긍정적인 사례로 주목받고 있습니다.",
+        "summary": "지방시대위원회 위원장이 '지방일괄이양법'을 통해 지방자치단체의 권한을 확대하고, 이를 뒷받침할 재정분권이 함께 이루어져야 진정한 지방자치가 실현될 수 있다고 강조했다.",
         "points": [
-          "2017년부터 지속된 시민 참여형 마라톤",
-          "참가비 전액을 사회 공헌 기금으로 사용",
-          "지역 아동·청소년 시설 조성에 기여",
-          "기업 CSR 활동의 긍정적 영향력 확대"
+          "지방일괄이양법 통해 지자체 권한 실질적 확대",
+          "재정분권 병행 추진으로 지방자치 기반 강화",
+          "지방시대위원회 위원장, 지방자치의 길 제시",
+          "중앙-지방 간 역할 재정립 및 협력 중요성 부각",
+          "균형 발전과 지역 경쟁력 강화 목표"
         ],
-        "quote": "달리기가 지역 사회 변화로..커지는 벤츠 '기브앤 레이스' 가치",
-        "context": "기업의 사회적 책임(CSR) 활동이 단순 기부를 넘어 시민 참여를 유도하고 지역 사회에 실질적인 변화를 가져오는 형태로 진화하고 있으며, 이는 기업 이미지 제고와 함께 사회 문제 해결에 기여하는 효과를 낳고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005432600?sid=101"
+        "quote": "실질적인 지방자치의 길을 열어가겠다. 이를 위해 지방일괄이양법을 통해 지자체의 권한을 확대하고 재정분권이 함께 가야 한다.",
+        "context": "대한민국의 지방자치는 여전히 중앙 정부에 대한 의존도가 높다. 지방일괄이양법과 재정분권은 지방의 자율성을 높여 지역 특성에 맞는 정책 개발과 주민 삶의 질 향상에 기여할 수 있는 핵심적인 과제이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006398384?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20people%20running%20a%20race%2C%20with%20thought%20bubbles%20showing%20donations%20flowing%20to%20children%27s%20centers%20and%20community%20development%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92367&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20city%20hall%20building%20with%20an%20arrow%20pointing%20to%20increased%20autonomy%2C%20money%20bags%20symbolizing%20fiscal%20decentralization%2C%20local%20community%20members%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26034&nologo=true"
     },
     {
-      "id": "life-001",
+      "id": "life-local-startup",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "pie_chart_breakdown",
-      "title": "2027 소비 트렌드: '라이프 ROI'",
-      "subtitle": "돈, 시간, 노력 대비 가치를 따지는 소비 확산",
+      "viz_type": "bar_chart",
+      "title": "로컬 창업 소상공인 매출 43% '껑충'",
+      "subtitle": "지역 경제 활성화에 1227억 원 투자 효과",
       "viz_data": {
         "stats": [
           {
-            "value": "돈",
-            "label": "투자 요소 1"
+            "value": "+43%",
+            "label": "매출 증가율"
           },
           {
-            "value": "시간",
-            "label": "투자 요소 2"
-          },
-          {
-            "value": "노력",
-            "label": "투자 요소 3"
+            "value": "1227억원",
+            "label": "투자 유치"
           }
         ],
-        "main_number": "최대 가치",
-        "main_text": "삶의 다양한 측면에서 최대의 가치를 추구"
+        "main_number": "활기",
+        "main_text": "지역 자원 활용 로컬 창업, 매출과 투자 모두 성장"
       },
-      "image_prompt": "cute pastel infographic illustration of a pie chart showing different segments for 'money', 'time', and 'effort', all pointing towards a central 'value' icon, no text",
+      "image_prompt": "cute pastel infographic illustration of vibrant local shops, people shopping, upward trending arrows for sales and investment, community involvement, no text",
       "detail": {
-        "summary": "'트렌드 코리아 2027'이 제시한 '라이프 ROI'는 소비자들이 돈뿐만 아니라 시간과 노력 등 삶의 모든 선택에서 투입 대비 가치를 따지는 새로운 소비 흐름입니다. 패션 분야에서는 구매 가격과 함께 착용 빈도, 관리 편의성, 여러 상황에서의 활용도 등이 중요해집니다.",
+        "summary": "지역의 자원과 문화를 활용한 로컬 창업 소상공인들이 가파른 성장세를 보이며, 매출이 전년 대비 43% 증가하고 1227억 원의 투자를 유치하며 지역 경제에 활력을 불어넣고 있다.",
         "points": [
-          "단순한 가격 넘어 삶의 총체적 가치 중시",
-          "돈, 시간, 노력 투자 대비 효과 분석",
-          "개인의 만족도와 활용성 극대화 추구",
-          "패션, 주거 등 다양한 라이프스타일 영역에 적용"
+          "로컬 창업 소상공인 매출 전년 대비 43% 증가",
+          "총 1227억 원의 투자 유치 성공",
+          "중기부 '로컬 브랜딩 활성화 지원 사업' 성과",
+          "식음료, 뷰티, 라이프스타일 등 다양한 분야 성장",
+          "지역 고유의 자원과 문화 활용이 성공 요인"
         ],
-        "quote": "'라이프 ROI'는 돈뿐 아니라 시간과 노력 등 삶의 여러 선택에서 투입 대비 가치를 따지는 흐름이다.",
-        "context": "소비자들이 단순히 가격이나 브랜드에만 집중하기보다, 자신의 삶에 실질적인 가치와 만족을 줄 수 있는지 종합적으로 고려하는 경향이 짙어지면서, 기업들은 고객에게 제공할 수 있는 총체적 가치를 재정의해야 할 필요성이 커지고 있습니다.",
-        "source_url": "http://www.ktnews.com/news/articleView.html?idxno=149713"
+        "quote": "지역의 자원과 문화를 활용해 사업을 시작한 로컬창업 소상공인들이 2024년 기준 전년 대비 평균 매출액 43% 성장, 총 1227억원의 투자를 유치한 것으로 나타났다.",
+        "context": "로컬 창업은 지역의 정체성을 살리면서 새로운 비즈니스 모델을 창출하는 움직임이다. 이는 단순히 경제적 성장을 넘어 지역 공동체에 활력을 불어넣고 독특한 라이프스타일을 제안하며 큰 호응을 얻고 있다.",
+        "source_url": "https://www.m-i.kr/news/articleView.html?idxno=2011515"
       },
-      "image_url": "data/images/2026-10-28/life-001.jpg"
+      "image_url": "data/images/2026-10-29/life-local-startup.jpg"
     },
     {
-      "id": "life-002",
+      "id": "life-k-lifestyle",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "health_warning",
-      "title": "엎드려 스마트폰 사용, 목뼈에 20kg 하중!",
-      "subtitle": "잘못된 자세로 인한 목 디스크 및 건강 위험 경고",
+      "viz_type": "infographic",
+      "title": "전통문화, 세계가 찾는 K-라이프스타일로 진화",
+      "subtitle": "보존을 넘어 일상 속 활용과 산업화 중요성 강조",
       "viz_data": {
         "stats": [
           {
-            "value": "20kg",
-            "label": "목 하중 (최대)"
+            "value": "전통",
+            "label": "문화"
           },
           {
-            "value": "90도",
-            "label": "고개 꺾임 각도"
-          },
-          {
-            "value": "디스크, 두통",
-            "label": "주요 증상"
+            "value": "세계",
+            "label": "인기"
           }
         ],
-        "main_number": "위험",
-        "main_text": "잘못된 스마트폰 자세가 건강에 미치는 영향"
+        "main_number": "K-라이프",
+        "main_text": "전통문화의 보존과 세계화, K-라이프스타일 산업으로 성장"
       },
-      "image_prompt": "cute pastel infographic illustration of a person lying on their stomach using a smartphone, with an arrow pointing to their neck and a weight icon showing '20kg', no text",
+      "image_prompt": "cute pastel infographic illustration showing traditional Korean elements (hanbok, hanok, kimchi) blending with modern lifestyle, global appeal, 'K-Lifestyle' text, no text",
       "detail": {
-        "summary": "침대에 엎드려 고개를 90도 꺾은 채 스마트폰을 보거나 잠드는 습관은 목뼈에 최대 20kg의 하중을 가하여 목 디스크, 손가락 저림, 경추성 두통을 유발할 수 있습니다. 경추 5, 6번 신경을 압박하는 이런 자세는 단순 담 결림으로 오인되기 쉬우므로 올바른 자세 유지와 예방이 중요합니다.",
+        "summary": "전통문화를 단순한 보존 대상을 넘어 일상에서 활용하고 세계가 찾는 'K-라이프스타일' 산업으로 발전시켜야 한다는 주장이 나왔다. 이를 통해 전통문화의 지속가능성을 확보하고 글로벌 경쟁력을 높일 수 있다.",
         "points": [
-          "엎드린 자세 스마트폰 사용 시 목에 과도한 하중",
-          "목 디스크, 손가락 저림, 경추성 두통 유발",
-          "경추 5, 6번 신경 압박의 위험성",
-          "올바른 자세 및 '10초 스펄링 검사법' 등 예방책 제시"
+          "전통문화의 보존을 넘어 일상 활용 및 산업화 중요성",
+          "공진원, 전통문화를 K-라이프스타일 산업으로 육성 강조",
+          "전통과 현대의 조화로운 융합 필요",
+          "글로벌 시장에서 한국 문화의 매력 확대",
+          "미래 세대를 위한 지속가능한 전통문화 발전 방안 모색"
         ],
-        "quote": "엎드려 고개 90도 꺾인 채 수면 시 경추 5·6번 신경 압박… 손가락 저림·경추성 두통 유발",
-        "context": "스마트폰 보급률이 높아지고 사용 시간이 길어지면서 잘못된 자세로 인한 척추 및 관절 건강 문제가 전 연령대에 걸쳐 심각하게 나타나고 있으며, 이에 대한 인식 개선과 예방 노력이 시급합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004170314?sid=103"
+        "quote": "그래야 전통문화가 보존의 대상을 넘어 일상에서 쓰이고 세계가 찾는 K-라이프스타일 산업이 될 수 있다.",
+        "context": "한류 열풍과 함께 한국의 전통문화에 대한 관심이 높아지고 있다. 이를 효과적으로 활용하여 전통문화가 고유의 가치를 지키면서도 현대인의 삶에 스며들고 세계적으로 사랑받는 문화 콘텐츠로 자리매김하는 것이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/025/0003561336?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20lying%20on%20their%20stomach%20using%20a%20smartphone%2C%20with%20an%20arrow%20pointing%20to%20their%20neck%20and%20a%20weight%20icon%20showing%20%2720kg%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91993&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20traditional%20Korean%20elements%20%28hanbok%2C%20hanok%2C%20kimchi%29%20blending%20with%20modern%20lifestyle%2C%20global%20appeal%2C%20%27K-Lifestyle%27%20text%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73146&nologo=true"
     },
     {
-      "id": "life-003",
+      "id": "life-norovirus",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "trend_analysis",
-      "title": "호텔, 숙박 넘어 '라이프스타일 경험' 공간으로 진화",
-      "subtitle": "투숙객 넘어 일반 고객 대상 프로그램 확대",
+      "viz_type": "line_chart",
+      "title": "찬바람 불자 노로바이러스 증가, 겨울철 비상",
+      "subtitle": "구토·설사 등 급성 위장관 증상 주의보",
       "viz_data": {
         "stats": [
           {
-            "value": "경험 중심",
-            "label": "새로운 컨셉"
+            "value": "가을~겨울",
+            "label": "발생 시기"
           },
           {
-            "value": "일반 고객",
-            "label": "대상 확대"
-          },
-          {
-            "value": "살롱 프로그램",
-            "label": "대표 서비스"
+            "value": "높음",
+            "label": "전염력"
           }
         ],
-        "main_number": "진화",
-        "main_text": "호텔업계의 서비스 패러다임 변화"
+        "main_number": "주의",
+        "main_text": "노로바이러스 감염증, 겨울철 발생 빈도 증가"
       },
-      "image_prompt": "cute pastel infographic illustration of a luxurious hotel building with various activity icons around it (e.g., dining, art class, concert), representing a lifestyle hub, no text",
+      "image_prompt": "cute pastel infographic illustration of a person feeling unwell, seasonal change with cold wind, germ/virus icons, prevention tips, line graph showing seasonal increase, no text",
       "detail": {
-        "summary": "호텔들이 단순한 숙박 공간을 넘어 라이프스타일과 문화를 즐기는 복합 경험 공간으로 진화하고 있습니다. 레스케이프 호텔은 기존 투숙객 중심으로 운영하던 '살롱 드 레스케이프'를 일반 고객까지 확대하는 등 다양한 체험 프로그램을 선보이며 고객 경험을 풍부하게 만들고 있습니다.",
+        "summary": "가을에서 겨울로 접어들면서 노로바이러스 감염증에 대한 주의가 요구된다. 노로바이러스는 겨울철 발생 빈도가 높아지는 대표적인 장관감염증으로, 구토와 설사 등 급성 위장관 증상을 일으키며 전염력이 강하다.",
         "points": [
-          "호텔의 기능이 숙박에서 라이프스타일 경험으로 확장",
-          "투숙객 뿐만 아니라 일반 고객에게도 프로그램 제공",
-          "클래식 살롱, 숲캉스 데이 등 이색적인 경험 기회 마련",
-          "호텔이 지역 문화와 트렌드를 담는 플랫폼 역할 수행"
+          "노로바이러스, 가을-겨울철 발생 빈도 증가",
+          "주요 증상: 구토, 설사 등 급성 위장관염",
+          "강한 전염력으로 집단 감염 우려",
+          "개인 위생 철저, 음식물 관리 중요",
+          "어린이집, 학교 등 단체 생활 공간 특히 주의"
         ],
-        "quote": "먹고 자는 곳 넘어 즐기는 곳으로",
-        "context": "팬데믹 이후 변화한 여가 및 소비 트렌드에 발맞춰 호텔 업계는 단순한 서비스 제공을 넘어 고객들에게 특별한 경험과 가치를 제공하는 방향으로 경쟁력을 강화하며 새로운 시장을 창출하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014282843?sid=101"
+        "quote": "노로바이러스는 겨울철 발생 빈도가 높아지는 대표적인 장관감염증으로, 구토와 설사 등 급성 위장관 증상을 일으킨다.",
+        "context": "겨울철 식중독의 주범으로 꼽히는 노로바이러스는 전염성이 강해 각별한 주의가 필요하다. 개인 위생 관리와 음식물 조리 및 보관에 유의하여 예방하는 것이 무엇보다 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002246407?sid=103"
       },
-      "image_url": "data/images/2026-10-28/life-003.jpg"
+      "image_url": "data/images/2026-10-29/life-norovirus.jpg"
     }
   ],
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T06:09:26.030652+09:00"
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T06:08:23.613936+09:00"
 }
