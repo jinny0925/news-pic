@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-eu-china-dependency",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "EU, '탈중국' 압박 속 산업계 반발",
+      "subtitle": "대중 의존 강제 축소에 유럽 산업계 우려 증폭",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "12월",
+            "label": "정책 충돌"
+          },
+          {
+            "value": "EU 집행위",
+            "label": "주도"
+          },
+          {
+            "value": "통상 안보",
+            "label": "목표"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "대체 공급처 확보 시급"
+      },
+      "image_prompt": "infographic illustration showing a tug-of-war between EU and China, with European industries caught in the middle, pastel colors, no text",
+      "detail": {
+        "summary": "EU 집행위가 중국에 대한 경제적 의존도 축소를 추진하면서 유럽 산업계가 강력히 반발하고 있다.",
+        "points": [
+          "EU, 단일 공급원 의존 끝낼 통상 안보 드라이브",
+          "산업계, 대체 공급처 부재로 인한 비용 상승 우려",
+          "12월 정책 충돌 예고, 주요 산업계 로비 강화",
+          "우르줄라 폰데어라이엔 EU 집행위원장 주도"
+        ],
+        "quote": "대체 공급처도 없는데 강제 축소는 산업 경쟁력 약화로 이어진다.",
+        "context": "러시아-우크라이나 전쟁 이후 공급망 안정화와 지정학적 위험 감소를 위해 EU가 특정 국가에 대한 의존도를 낮추려는 노력의 일환이다. 그러나 현실적인 대안 부재가 산업계의 큰 부담으로 작용하고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102919500945140c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-10-30/world-eu-china-dependency.jpg"
+    },
+    {
+      "id": "world-poland-polexit",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "pie_chart",
+      "title": "폴란드, '폴렉시트' 가능성 제기",
+      "subtitle": "EU 개혁 실패 시 EU 탈퇴 협상 시사",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "카친스키",
+            "label": "우파 대표"
+          },
+          {
+            "value": "EU 집행위",
+            "label": "권력 집중 비판"
+          },
+          {
+            "value": "EU 조약",
+            "label": "개정 요구"
+          }
+        ],
+        "main_number": "?",
+        "main_text": "EU 회원국 내부 갈등 심화"
+      },
+      "image_prompt": "infographic illustration of Poland's flag partially detaching from the EU flag, showing political tension, pastel colors, no text",
+      "detail": {
+        "summary": "폴란드 우파 카친스키 대표가 EU의 개혁이 이루어지지 않으면 '폴렉시트' 협상 가능성을 언급했다.",
+        "points": [
+          "폴란드 우파, EU 집행위원회 권력 집중 비판",
+          "EU 조약 개정 또는 새로운 회원국 조약 요구",
+          "EU 내 민족주의 우파 정당들의 영향력 증가",
+          "유럽 통합의 균열 가능성 제기"
+        ],
+        "quote": "EU는 변화해야 한다. 이건 나의 확고한 신념이다.",
+        "context": "EU는 최근 몇 년간 브렉시트, 각국의 민족주의 부상 등으로 내부 통합에 대한 도전 과제를 겪고 있다. 폴란드의 발언은 이러한 위기감을 더욱 고조시키고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002425857?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/infographic%20illustration%20of%20Poland%27s%20flag%20partially%20detaching%20from%20the%20EU%20flag%2C%20showing%20political%20tension%2C%20pastel%20colors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59450&nologo=true"
+    },
+    {
+      "id": "world-us-china-gene-tech-ban",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "dual_bar_chart",
+      "title": "美, 中 유전체 기업 수입 금지",
+      "subtitle": "강제 노동 혐의로 中 주요 유전체 기업 제재",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3개 기업",
+            "label": "제재 대상"
+          },
+          {
+            "value": "강제 노동",
+            "label": "금지 사유"
+          },
+          {
+            "value": "첨단 유전자",
+            "label": "분석 기술"
+          }
+        ],
+        "main_number": "41조+",
+        "main_text": "중국 유전체 시장 규모 (2025년 예상)"
+      },
+      "image_prompt": "infographic illustration showing a digital fence or barrier between American and Chinese companies, with DNA strands and technology symbols, pastel colors, no text",
+      "detail": {
+        "summary": "미국이 강제 노동을 이유로 세계 최대 중국 유전체 기업 3곳의 제품 수입을 금지했다.",
+        "points": [
+          "국토안보부, 3개 중국 유전체 기업 제재 발표",
+          "강제 노동 관련 위구르인 노동자 이용 혐의",
+          "이미 미국 기술 접근 및 정부 조달 제한 블랙리스트 등재",
+          "미중 기술 패권 경쟁의 또 다른 단면"
+        ],
+        "quote": "세계 최대 규모의 첨단 유전자 분석·유전물질 수집 기업 중 하나.",
+        "context": "미국은 인권 문제를 명분으로 중국 기업에 대한 제재를 지속해왔으며, 이는 기술 패권을 둘러싼 미중 갈등의 심화를 보여주는 사례다. 유전체 기술은 미래 핵심 산업으로 양국의 경쟁이 치열하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004676865?sid=104"
+      },
+      "image_url": "data/images/2026-10-30/world-us-china-gene-tech-ban.jpg"
+    },
+    {
+      "id": "economy-japan-inflation",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "日, 유조선 운임 폭등발 2차 물가 상승 우려",
+      "subtitle": "글로벌 유가 상승과 물류난으로 내년 봄 식품 가격 인상 파동 예상",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "6배",
+            "label": "유조선 운임 폭등"
+          },
+          {
+            "value": "내년 봄",
+            "label": "2차 인상 시기"
+          },
+          {
+            "value": "식품 가격",
+            "label": "주요 영향"
+          }
+        ],
+        "main_number": "+20%",
+        "main_text": "예상 식품 가격 인상률"
+      },
+      "image_prompt": "cute pastel infographic illustration of a ship on rough seas, carrying food containers, with rising price tags, no text",
+      "detail": {
+        "summary": "글로벌 유가 상승과 물류난으로 유조선 운임이 폭등하면서 일본에서 내년 봄 2차 식품 가격 인상 파동이 우려된다.",
+        "points": [
+          "유조선 운임 6배 폭등, 물류비 부담 가중",
+          "글로벌 유가 상승이 주요 원인",
+          "일본 경제산업성, 원유 선박 확보 난항은 아니라고 밝혀",
+          "다카이치 내각의 인플레이션 대응 리더십 시험대"
+        ],
+        "quote": "내년 봄 2차 가격 인상 파동이 현실화될 경우, 가계 실질구매력 저하로 이어진다.",
+        "context": "글로벌 공급망 불안정과 고유가 상황이 지속되면서 각국의 인플레이션 압박이 커지고 있다. 특히 일본은 엔저 현상까지 겹쳐 수입 물가 상승에 취약한 상황이다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026102919454810180c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20ship%20on%20rough%20seas%2C%20carrying%20food%20containers%2C%20with%20rising%20price%20tags%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83740&nologo=true"
+    },
+    {
+      "id": "economy-us-gdp-growth",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "美 3분기 GDP, 내수 성장률 5% 육박하며 '강력한 경제' 입증",
+      "subtitle": "소비 호황에 힘입어 시장 예상치 상회하는 성장세 기록",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3.4%",
+            "label": "GDP 성장률"
+          },
+          {
+            "value": "5%",
+            "label": "내수 성장률"
+          },
+          {
+            "value": "3분기",
+            "label": "집계 기간"
+          }
+        ],
+        "main_number": "+5%",
+        "main_text": "미국 내수 성장률"
+      },
+      "image_prompt": "cute pastel infographic illustration of a growing economy chart with rising bars, symbolizing US GDP growth, with people shopping, no text",
+      "detail": {
+        "summary": "미국의 3분기 국내총생산(GDP) 성장률이 예상치를 웃돌았으며, 특히 소비가 호황을 이끌며 강력한 경제를 증명했다.",
+        "points": [
+          "3분기 GDP 성장률 연율 3.4%, 예상치 상회",
+          "내수 성장률 5% 육박, 소비가 경제 견인",
+          "미국 경제의 전통적인 축인 소비 호황 지속",
+          "글로벌 경기 둔화 우려 속 긍정적 지표"
+        ],
+        "quote": "세부적 내용 측면에서도 미국 경제가 강력한 성장을 했음을 보여줬다.",
+        "context": "글로벌 경기 불확실성이 높은 상황에서 미국 경제의 견조한 성장세는 연준의 통화 정책 방향과 세계 경제에 큰 영향을 미칠 수 있는 중요한 지표다.",
+        "source_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442055"
+      },
+      "image_url": "data/images/2026-10-30/economy-us-gdp-growth.jpg"
+    },
+    {
+      "id": "economy-ecb-interest-rate",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "dial_gauge",
+      "title": "유럽중앙은행, 예금금리 2.5% 동결",
+      "subtitle": "에너지 가격 변동성 주시하며 추가 인상 가능성 시사",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2.5%",
+            "label": "예금 금리"
+          },
+          {
+            "value": "동결",
+            "label": "결정"
+          },
+          {
+            "value": "에너지 가격",
+            "label": "주요 변수"
+          }
+        ],
+        "main_number": "12월",
+        "main_text": "다음 통화정책 회의"
+      },
+      "image_prompt": "cute pastel infographic illustration of a central bank building with a large dial gauge showing interest rates, economic stability concept, no text",
+      "detail": {
+        "summary": "유럽중앙은행(ECB)이 예금 금리를 2.5%로 동결했으나, 에너지 가격 상승 등 물가 변동성을 주시하며 추가 인상 가능성을 열어뒀다.",
+        "points": [
+          "예금 금리 2.5%, 주요 금리 동결 유지",
+          "에너지 가격 상승 시 물가 오르고 성장 둔화 경고",
+          "향후 통화정책, 경제지표와 물가 전망에 따라 유동적",
+          "유로존 인플레이션 안정화 노력 지속"
+        ],
+        "quote": "에너지 가격 상승의 영향이 장기화할 경우 물가가 오르고 경제 성장이 둔화할 수 있다.",
+        "context": "유럽은 에너지 위기와 높은 인플레이션으로 인해 경제적 어려움을 겪고 있다. ECB는 물가 안정을 최우선 과제로 삼고 있으나, 경기 침체 우려도 함께 고려해야 하는 딜레마에 빠져있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005835556?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20central%20bank%20building%20with%20a%20large%20dial%20gauge%20showing%20interest%20rates%2C%20economic%20stability%20concept%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39591&nologo=true"
+    },
+    {
+      "id": "tech-ai-social-media-roi",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "AI 활용 증가, 소셜 미디어 ROI 입증은 미흡",
+      "subtitle": "Emplifi 조사, 마케터 절반 이하만 AI 활용 소셜 미디어 ROI에 자신감",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "50%",
+            "label": "자신감 부족"
+          },
+          {
+            "value": "미국/영국",
+            "label": "조사 대상"
+          },
+          {
+            "value": "마케터",
+            "label": "직군"
+          }
+        ],
+        "main_number": "<50%",
+        "main_text": "AI 활용 소셜 미디어 ROI 확신"
+      },
+      "image_prompt": "cute pastel infographic illustration of a confident marketer analyzing AI data on a laptop, with social media icons and ROI charts, no text",
+      "detail": {
+        "summary": "Emplifi 조사에 따르면 AI 활용이 증가하고 있으나, 소셜 미디어 마케터의 절반 이하만이 AI를 통한 ROI 측정에 자신감을 보였다.",
+        "points": [
+          "마케터의 AI 활용은 증가 추세",
+          "소셜 미디어 ROI 측정의 어려움 지속",
+          "AI 데이터 분석 및 해석 능력 향상 필요",
+          "AI 기반 마케팅 도구의 신뢰성 검증 중요성"
+        ],
+        "quote": "Fewer than half confidently show social media ROI.",
+        "context": "AI 기술의 발전과 함께 기업들은 마케팅 분야에 AI를 적극 도입하고 있다. 그러나 실제 투자 대비 성과를 명확히 입증하는 것은 여전히 과제로 남아있다.",
+        "source_url": "https://econotimes.com/Emplifi-Survey-Finds-AI-Gains-Fewer-Than-Half-Confidently-Show-Social-Media-ROI-1766209"
+      },
+      "image_url": "data/images/2026-10-30/tech-ai-social-media-roi.jpg"
+    },
+    {
+      "id": "tech-ai-human-oversight",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 에이전트 확장 속, 인간 감독 역할 증대",
+      "subtitle": "기업 내 AI 활용 확대되면서 직원들의 AI 감독 및 관리 참여 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 에이전트",
+            "label": "사용 확대"
+          },
+          {
+            "value": "인간 감독",
+            "label": "필수 요건"
+          },
+          {
+            "value": "수익 증대",
+            "label": "긍정적 영향"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "조직 내 AI 활용"
+      },
+      "image_prompt": "cute pastel infographic illustration of a human supervisor gently guiding multiple AI robots or agents, showing collaboration and oversight, no text",
+      "detail": {
+        "summary": "기업들이 AI 에이전트 사용을 확대하면서 일부 직원들이 AI 감독 및 관리 역할을 맡는 경향이 늘고 있다.",
+        "points": [
+          "AI 에이전트의 효율성과 생산성 증가",
+          "인간의 판단과 개입의 필요성 제기",
+          "AI 시스템의 윤리적 사용 및 오류 방지 중요",
+          "AI와 인간 협업의 새로운 업무 방식 부상"
+        ],
+        "quote": "It had a positive effect on their organizations' earnings before interest and taxes.",
+        "context": "AI 기술의 고도화는 업무 자동화를 가속화하고 있지만, 복잡한 의사결정이나 윤리적 판단이 요구되는 영역에서는 여전히 인간의 감독과 개입이 필수적이라는 인식이 확산되고 있다.",
+        "source_url": "https://econotimes.com/Some-Workers-Take-On-Oversight-as-Companies-Expand-AI-Agent-Use-1766197"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20human%20supervisor%20gently%20guiding%20multiple%20AI%20robots%20or%20agents%2C%20showing%20collaboration%20and%20oversight%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=2638&nologo=true"
+    },
+    {
+      "id": "tech-big-tech-data-center-spending",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "area_chart",
+      "title": "빅테크, 데이터센터 투자 폭증에 자금 소진 우려",
+      "subtitle": "AI 경쟁 위한 데이터센터 구축으로 막대한 현금 소진, 월가 불안감 증폭",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "메타",
+            "label": "주가 7% 하락"
+          },
+          {
+            "value": "현금 소진",
+            "label": "가속화"
+          },
+          {
+            "value": "AI 경쟁",
+            "label": "주요 원인"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "데이터센터 투자"
+      },
+      "image_prompt": "cute pastel infographic illustration of large data centers with wires and servers, showing high energy consumption and money flying out, no text",
+      "detail": {
+        "summary": "빅테크 기업들이 AI 경쟁을 위해 데이터센터 구축에 막대한 투자를 쏟아붓고 있어 현금 소진과 월가의 불안감이 커지고 있다.",
+        "points": [
+          "메타 주가 7% 하락, 막대한 현금 소진 우려",
+          "아마존 등 다른 빅테크 기업들도 대규모 투자 진행",
+          "데이터센터 구축 및 운영 비용 증가",
+          "AI 기술 발전에 따른 인프라 수요 폭증"
+        ],
+        "quote": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street.",
+        "context": "AI 기술 개발 경쟁이 심화되면서 관련 인프라 투자가 급증하고 있다. 이는 장기적으로 AI 시장 선점을 위한 필수적인 과정이지만, 단기적으로는 기업의 재무 건전성에 부담을 줄 수 있다.",
+        "source_url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html?partner=naver"
+      },
+      "image_url": "data/images/2026-10-30/tech-big-tech-data-center-spending.jpg"
+    },
+    {
+      "id": "society-election-reform-bills",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "funnel_chart",
+      "title": "선관위 개혁법안 40여건, 여야 이견에 좌초 위기",
+      "subtitle": "중앙선관위 불신 심화에도 정치적 이견으로 개혁 지연",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40+",
+            "label": "개혁 법안"
+          },
+          {
+            "value": "좌초 위기",
+            "label": "법안 처리"
+          },
+          {
+            "value": "선거 불신",
+            "label": "사회 문제"
+          }
+        ],
+        "main_number": "2026년",
+        "main_text": "선관위 개혁 논의 시점"
+      },
+      "image_prompt": "cute pastel infographic illustration of a legislative building with piles of reform bills stuck, showing political deadlock and opposing parties, no text",
+      "detail": {
+        "summary": "선거관리위원회 개혁을 위한 40여건의 법안이 발의되었으나, 여야 간 이견으로 인해 처리가 지연되고 있어 국민들의 선거 불신이 심화될 우려가 있다.",
+        "points": [
+          "40여건의 선관위 개혁 법안 국회 계류 중",
+          "여야 간 이견으로 인해 법안 처리 난항",
+          "선관위 독립성 유지 vs 투명성 강화 논쟁",
+          "국민의 선거 불신 해소를 위한 조치 시급"
+        ],
+        "quote": "불신이 커지면 선거가 선거로서의 의미를 잃는다.",
+        "context": "선거 공정성에 대한 논란과 선관위의 독립성 및 투명성 문제가 지속적으로 제기되면서 개혁의 목소리가 높다. 그러나 정치권의 이해관계로 인해 실제적인 개혁은 더디게 진행되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001162633?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20legislative%20building%20with%20piles%20of%20reform%20bills%20stuck%2C%20showing%20political%20deadlock%20and%20opposing%20parties%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96488&nologo=true"
+    },
+    {
+      "id": "society-reading-gap-income",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison_chart",
+      "title": "어린이 독서량, 소득 따라 '사회경제적 격차' 확인",
+      "subtitle": "저소득 가정 아동, 도서관 첫 이용 시기 평균 2.5년 늦어",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2.5년",
+            "label": "이용 시기 차이"
+          },
+          {
+            "value": "높은 소득",
+            "label": "조기 이용"
+          },
+          {
+            "value": "낮은 소득",
+            "label": "늦은 이용"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "독서 환경의 격차 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration showing two children reading books, one in a well-lit library, one in a darker setting, symbolizing income disparity, no text",
+      "detail": {
+        "summary": "육아정책연구소 조사 결과, 어린이 도서관 이용 시기가 소득 수준에 따라 차이를 보여 사회경제적 배경에 따른 독서 환경의 격차가 확인됐다.",
+        "points": [
+          "고소득 가정 아동, 도서관 첫 이용 시기 평균 2.5년 빨라",
+          "AI 시대 독서국가 비전 보고서에서 격차 확인",
+          "독서 환경 격차는 학습 및 발달 불균형 초래 우려",
+          "취약계층 아동의 독서 접근성 개선 필요"
+        ],
+        "quote": "사회경제적 배경에 따른 독서 환경의 격차가 확인됐다.",
+        "context": "독서는 아동의 인지 발달과 학습 능력 향상에 필수적인 요소이지만, 가정의 경제적 여건에 따라 교육 기회의 불평등이 심화될 수 있다. 이는 미래 사회의 불평등으로 이어질 수 있다.",
+        "source_url": "https://www.kidshankook.kr/news/articleView.html?idxno=18647"
+      },
+      "image_url": "data/images/2026-10-30/society-reading-gap-income.jpg"
+    },
+    {
+      "id": "society-housing-supply-seoul",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "map_chart",
+      "title": "수도권 7.7만 가구 공급, 2030 민심 달래기 총력",
+      "subtitle": "정부, 구리·하남·고양 등 핵심 지역에 대규모 주택 공급 추진",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7.7만",
+            "label": "공급 가구 수"
+          },
+          {
+            "value": "수도권",
+            "label": "주요 공급지"
+          },
+          {
+            "value": "2030세대",
+            "label": "주요 대상"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "주택 공급량"
+      },
+      "image_prompt": "cute pastel infographic illustration of a city map with new housing developments, showing growth and young people, no text",
+      "detail": {
+        "summary": "정부가 서울 인근 수도권에 7.7만 가구를 공급하는 주택 공급 확대 계획을 발표하며 2030세대의 민심을 달래는 데 총력을 기울이고 있다.",
+        "points": [
+          "구리, 하남미사, 고양대곡 등 주요 지역 선정",
+          "일자리-주거-문화시설 결합 '직주락' 자족도시 목표",
+          "주택 공급 확대를 통한 부동산 시장 안정화 기대",
+          "수요 집중 지역에 대한 신속한 공급 추진"
+        ],
+        "quote": "일자리와 주거, 문화시설을 결합한 '직주락(職住樂)' 자족도시로 발전할 수 있다.",
+        "context": "고물가, 고금리 시대에 주택 가격과 전세난은 청년층과 무주택 서민에게 큰 부담으로 작용하고 있다. 정부는 주택 공급 확대를 통해 이러한 사회적 불만을 해소하고 주거 안정을 꾀하려 한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005434028?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20city%20map%20with%20new%20housing%20developments%2C%20showing%20growth%20and%20young%20people%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73583&nologo=true"
+    },
+    {
+      "id": "life-k-fashion-growth",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "trend_chart",
+      "title": "'제2의 마뗑킴' K패션 신진 브랜드 성장 지원",
+      "subtitle": "무신사 등 플랫폼, 경쟁력 있는 K패션 브랜드 발굴 및 육성 주력",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "무신사",
+            "label": "플랫폼"
+          },
+          {
+            "value": "신진 브랜드",
+            "label": "육성"
+          },
+          {
+            "value": "세계 시장",
+            "label": "입지 강화"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "K패션 시장 저변 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration of a fashion designer sketching clothes, with a rising arrow representing K-fashion growth, and global map, no text",
+      "detail": {
+        "summary": "무신사와 같은 플랫폼들이 'K패션 사다리' 역할을 하며 경쟁력 있는 신진 브랜드 발굴 및 육성을 통해 국내 패션산업의 세계 시장 입지 강화를 돕고 있다.",
+        "points": [
+          "무신사, 신진 디자이너 브랜드 성장 지원",
+          "K패션의 세계 시장 경쟁력 강화 기여",
+          "지속적인 신진 브랜드 발굴의 중요성 강조",
+          "국내 패션산업 저변 확대 효과"
+        ],
+        "quote": "경쟁력 있는 신진 브랜드가 지속적으로 등장하고 성장할수록 국내 패션산업의 저변이 넓어지고 세계 시장에서의 입지도 강화될 수 있다.",
+        "context": "K팝, K푸드에 이어 K패션 또한 글로벌 시장에서 주목받고 있다. 이러한 흐름을 이어가기 위해서는 신진 디자이너들의 성장 발판을 마련하는 것이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001162637?sid=103"
+      },
+      "image_url": "data/images/2026-10-30/life-k-fashion-growth.jpg"
+    },
+    {
+      "id": "life-walking-exercise-tips",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "comparison_chart",
+      "title": "1만 보의 함정? 효과적인 걷기 운동 비법",
+      "subtitle": "심박수와 보폭에 주목한 '3분 인터벌 속보'로 내장지방 타파",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1만 보",
+            "label": "일반적 목표"
+          },
+          {
+            "value": "3분",
+            "label": "인터벌 속보"
+          },
+          {
+            "value": "내장지방",
+            "label": "감소 효과"
+          }
+        ],
+        "main_number": "300kcal",
+        "main_text": "저강도 1만 보 소모 열량"
+      },
+      "image_prompt": "cute pastel infographic illustration comparing two people walking, one slowly and one with good posture and speed, showing heart rate and stride length, no text",
+      "detail": {
+        "summary": "매일 1만 보를 걸어도 효과를 보지 못하는 직장인들을 위해 심박수와 보폭에 신경 쓴 '3분 인터벌 속보'가 내장지방 감소에 효과적이라는 조언이 나왔다.",
+        "points": [
+          "저강도 1만 보 걷기는 소모 열량 낮음 (300kcal)",
+          "보폭 10cm 넓히고 속도 높이는 '인터벌 속보' 추천",
+          "심박수를 높여 내장지방 연소율 증가",
+          "스마트폰 만보기에만 매몰되지 말고 자세 교정 필요"
+        ],
+        "quote": "보폭 10cm 넓힌 ‘3분 인터벌 속보’가 내장지방 태운다.",
+        "context": "건강을 위해 걷기 운동을 하는 사람들이 많지만, 잘못된 방식으로 인해 운동 효과를 얻지 못하는 경우가 많다. 과학적인 운동 방법을 통해 효율을 높이는 것이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004170982?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20comparing%20two%20people%20walking%2C%20one%20slowly%20and%20one%20with%20good%20posture%20and%20speed%2C%20showing%20heart%20rate%20and%20stride%20length%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55630&nologo=true"
+    },
+    {
+      "id": "life-korea-repeat-visitors",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bubble_chart",
+      "title": "외국인 관광객, K-컬처 매력에 1년 간격 재방문",
+      "subtitle": "K팝, K푸드, K뷰티 등 국적별 맞춤형 라이프스타일 상품으로 재방문율 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1년",
+            "label": "재방문 간격"
+          },
+          {
+            "value": "K팝",
+            "label": "주요 매력"
+          },
+          {
+            "value": "K푸드",
+            "label": "주요 매력"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "외국인 관광객 재방문율"
+      },
+      "image_prompt": "cute pastel infographic illustration of diverse international tourists enjoying K-pop, K-food, and K-beauty, with arrows showing repeat visits to Korea, no text",
+      "detail": {
+        "summary": "외국인 관광객들이 K팝, K푸드, K뷰티 등 한국의 라이프스타일과 문화에 매료되어 약 1년 간격으로 한국을 다시 찾는 경향을 보이고 있다.",
+        "points": [
+          "국적별로 다른 K-컬처 선호도 확인",
+          "K팝, K푸드, K뷰티 등 다양한 매력 요소",
+          "한국의 독특한 문화와 라이프스타일이 관광 경쟁력 강화",
+          "외국인 관광객 유치 및 재방문율 증가 전략 필요"
+        ],
+        "quote": "K팝∙K푸드∙K뷰티 등 국적별로 다양한 한국 문화와 라이프스타일이 한국을 다시 찾게 하는 특색있는 관광상품으로서 유의미한 경쟁력을 보여준다.",
+        "context": "한류 열풍이 전 세계적으로 확산되면서 한국은 매력적인 관광지로 부상하고 있다. 관광객의 재방문율을 높이기 위해서는 단순히 볼거리를 제공하는 것을 넘어 한국만의 독특한 경험과 라이프스타일을 제공하는 것이 중요해지고 있다.",
+        "source_url": "https://m.entertain.naver.com/article/144/0001147151"
+      },
+      "image_url": "data/images/2026-10-30/life-korea-repeat-visitors.jpg"
+    }
+  ],
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T06:08:38.237675+09:00"
+}
