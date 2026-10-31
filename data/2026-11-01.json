@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-lithuania-conscription",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "리투아니아, 2032년 보편 징병제 도입",
+      "subtitle": "연간 7,500명 징집 목표, 국방력 강화 박차",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2032년",
+            "label": "시행"
+          },
+          {
+            "value": "7500명",
+            "label": "연간 징집"
+          },
+          {
+            "value": "30% (추정)",
+            "label": "정부 예산 증가"
+          }
+        ],
+        "main_number": "+7500",
+        "main_text": "매년 징집 병력 7,500명 추가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "리투아니아가 2032년부터 보편적 징병제를 도입하여 연간 7,500명을 징집할 계획이다.",
+        "points": [
+          "국방력 강화 목적",
+          "2032년 도입 목표",
+          "야당은 2030년으로 앞당길 것을 주장",
+          "총 7,500명 연간 징집 계획"
+        ],
+        "quote": "\"현재의 지정학적 상황에서 국방력 강화는 필수적이다.\"",
+        "context": "러시아-우크라이나 전쟁 이후 발트해 국가들의 안보 불안감이 고조되면서 국방력 강화를 위한 움직임이 가속화되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004171381?sid=104"
+      },
+      "image_url": "data/images/2026-11-01/world-lithuania-conscription.jpg"
+    },
+    {
+      "id": "world-korean-american-power",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar",
+      "title": "미 한인 정치력 신장 30년, 시민참여센터 갈라",
+      "subtitle": "한인 유권자 권익 신장 노력, 주요 정치인 배출 성과",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30년",
+            "label": "활동 기간"
+          },
+          {
+            "value": "2명",
+            "label": "한인 상원의원"
+          },
+          {
+            "value": "2000년",
+            "label": "한국어 투표 지원"
+          }
+        ],
+        "main_number": "30주년",
+        "main_text": "미 한인 시민참여센터 30주년 기념"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미 한인 시민참여센터가 30주년을 맞아 갈라를 개최하며 한인 사회의 정치력 신장 노력을 조명했다.",
+        "points": [
+          "한인 유권자 권익 신장",
+          "한국어 투표 지원 등 제도 개선",
+          "2010년 인구조사 기반 한인 정치인 배출",
+          "파친코 작가, 존 리우 상원의원 등 초청"
+        ],
+        "quote": "\"소수민족 한인이 제 목소리를 내지 못한 현실을 바꾸기 위해 유권자 등록 운동에 나섰다.\"",
+        "context": "미국 내 한인 이민 사회가 확장되면서 사회적 영향력과 정치적 목소리를 높이기 위한 시민 단체들의 역할이 중요해지고 있다.",
+        "source_url": "https://www.newspim.com/news/view/20261101000003"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86927&nologo=true"
+    },
+    {
+      "id": "world-quad-supplychain",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "쿼드 4개국, 중국 핵심광물 공급망 교란 공동 대응",
+      "subtitle": "미·일·호주·인도, 공급망 안정화 및 다변화 속도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4개국",
+            "label": "참여국"
+          },
+          {
+            "value": "핵심광물",
+            "label": "주요 품목"
+          },
+          {
+            "value": "多변화",
+            "label": "대응 전략"
+          }
+        ],
+        "main_number": "4개국",
+        "main_text": "쿼드 동맹, 핵심광물 공급망 대응"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "쿼드 4개국(미국, 일본, 호주, 인도)이 중국의 핵심광물 통제에 공동 대응하여 공급망 안정화와 다변화를 추진하기로 했다.",
+        "points": [
+          "중국 경제적 강압 및 과잉생산 능력 견제",
+          "핵심 광물 공급망 안정화 목표",
+          "해상 교통로 안정성 공동 안보 강조",
+          "사이버 사기 등 초국가적 범죄 대응"
+        ],
+        "quote": "\"핵심광물은 미래 경제 성장의 핵심이며, 안정적인 공급망은 모두에게 필수적이다.\"",
+        "context": "중국이 핵심광물을 전략적으로 활용하며 글로벌 공급망에 대한 영향력을 확대하자, 주요국들이 경제 안보를 강화하기 위한 협력을 모색하고 있다.",
+        "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500263"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63812&nologo=true"
+    },
+    {
+      "id": "economy-middle-income-decline",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar",
+      "title": "코로나 이후 중산층 소득 감소 '최고치'",
+      "subtitle": "중산층 10명 중 4명 \"소득 줄었다\", 4년 만에 최고 비율",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4명",
+            "label": "소득 감소 중산층 (10명 중)"
+          },
+          {
+            "value": "4년",
+            "label": "최고 비율 기록"
+          },
+          {
+            "value": "3%대",
+            "label": "예상 경제성장률"
+          }
+        ],
+        "main_number": "40%",
+        "main_text": "중산층 40% 소득 감소 (10명 중 4명)"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "코로나19 이후 중산층 10명 중 4명꼴로 벌이가 줄어들어 4년 만에 최고 비율을 기록했으며, 경기 회복의 온기가 고소득층에 집중될 수 있다는 우려가 나온다.",
+        "points": [
+          "중산층 40%가 소득 감소 경험",
+          "코로나19 이후 4년 만에 최고 비율",
+          "반도체 호황에도 내수 회복 더뎌",
+          "경기 회복의 온기가 고소득층에 집중 우려"
+        ],
+        "quote": "\"반도체 등 일부 제조업 분야는 활황이지만, 전체적인 경기 회복이 중산층에는 아직 미치지 못하고 있다.\"",
+        "context": "전반적인 경제 성장률 전망에도 불구하고, 실질적인 소득 격차는 더욱 심화되어 중산층의 경제적 불안이 가중되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016413536?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90527&nologo=true"
+    },
+    {
+      "id": "economy-tax-revenue-error",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar",
+      "title": "연 52조원 세수오차, 예측 투명성 강화 법안 발의",
+      "subtitle": "정부 세입예산 추계 분석 보고서에 모형 포함 명시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "52조원",
+            "label": "연간 세수 오차"
+          },
+          {
+            "value": "1건",
+            "label": "관련 법안 발의"
+          },
+          {
+            "value": "변화",
+            "label": "세입추계 모형"
+          }
+        ],
+        "main_number": "52조원",
+        "main_text": "세수 예측 오차 연간 52조원"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "연간 52조원에 달하는 세수오차를 줄이기 위해 세입예산 추계 분석 보고서에 세입추계 모형을 포함하도록 하는 법안이 발의되었다.",
+        "points": [
+          "정부의 불투명한 세수 예측 문제 제기",
+          "김남준 의원, 세입예산 추계 보고서 법안 발의",
+          "달라진 경제 여건 및 세법 개정 반영 목표",
+          "세수 예측의 신뢰성과 투명성 제고 기대"
+        ],
+        "quote": "\"비효율적이고 불투명한 세수 집행으로 국민의 신뢰를 훼손하는 일이 없어져야 한다.\"",
+        "context": "정부의 세수 예측 정확도에 대한 지속적인 비판이 제기되면서, 재정 운영의 투명성과 예측 가능성을 높이려는 노력이 진행되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016413539?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12621&nologo=true"
+    },
+    {
+      "id": "economy-retail-sales-decline",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line",
+      "title": "반도체 훈풍 속 내수 부진 지속, 소매판매 5분기만 감소",
+      "subtitle": "대형마트 역대 최장 한파, 숙박음식·도소매도 울상",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5분기",
+            "label": "만에 감소"
+          },
+          {
+            "value": "최장",
+            "label": "대형마트 한파"
+          },
+          {
+            "value": "면세점",
+            "label": "관광객 효과"
+          }
+        ],
+        "main_number": "감소세",
+        "main_text": "소매판매 5분기 만에 감소세 전환"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "반도체 산업의 호황에도 불구하고 국내 내수 시장은 부진을 면치 못하며 소매판매가 5분기 만에 감소세로 돌아섰다.",
+        "points": [
+          "전년 대비 소매판매 감소 전환",
+          "대형마트 역대 최장 기간 부진",
+          "숙박음식업, 도소매업 등 주요 내수 산업 침체",
+          "면세점, 금융보험업은 활황으로 내수 온도차 심화"
+        ],
+        "quote": "\"반도체를 중심으로 견조한 경제 성장세가 이어지고 있지만 내수로는 온기가 좀처럼 스며들지 못하고 있다.\"",
+        "context": "수출 주도형 경제 구조의 특징으로, 특정 산업의 호황이 내수 진작으로 이어지지 못하는 구조적 문제가 지속되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016413535?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=21148&nologo=true"
+    },
+    {
+      "id": "tech-ai-mlcc-investment",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar",
+      "title": "AI 서버 핵심 'MLCC' 수요 폭증…무라타, 1조 엔 증설",
+      "subtitle": "AI 서버 1대에 2만5천개 MLCC 탑재, 5년간 대규모 투자",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2만5천개",
+            "label": "AI 서버당 MLCC"
+          },
+          {
+            "value": "1조 엔",
+            "label": "무라타 증설 투자"
+          },
+          {
+            "value": "5년",
+            "label": "투자 기간"
+          }
+        ],
+        "main_number": "25,000개",
+        "main_text": "AI 서버 1대당 MLCC 2만 5천개"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI 서버 수요 폭증으로 MLCC(적층세라믹콘덴서) 시장이 급성장하며, 무라타제작소가 5년간 1조 엔 규모의 대규모 증설 투자를 발표했다.",
+        "points": [
+          "AI 서버 1대당 MLCC 2만5천개 필요",
+          "무라타제작소, 5년간 1조 엔 투자 계획",
+          "생산 라인 가동률 사실상 100% 육박",
+          "AI 인프라 구축 붐 속 필수 부품 수요 폭발"
+        ],
+        "quote": "\"이번 대규모 투자 결정의 가장 결정적인 이유는 AI 인프라 구축 붐 속에서 수요가 폭발적으로 치솟을 수밖에 없는 구조다.\"",
+        "context": "AI 기술 발전과 함께 데이터센터, 서버 등 관련 인프라 투자가 급증하면서 핵심 전자 부품인 MLCC의 중요성이 더욱 부각되고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=20261031155857900c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-01/tech-ai-mlcc-investment.jpg"
+    },
+    {
+      "id": "tech-ai-funding-squeeze",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line",
+      "title": "AI 투자 시장 '옥석 가리기' 시작…자금조달 축소",
+      "subtitle": "오픈AI 자금조달 규모 축소, 메타 신용전망 하향 등",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "축소",
+            "label": "오픈AI 자금조달"
+          },
+          {
+            "value": "하향",
+            "label": "메타 신용전망"
+          },
+          {
+            "value": "시장 재편",
+            "label": "AI 투자 시장"
+          }
+        ],
+        "main_number": "↓",
+        "main_text": "AI 투자 자금 조달 규모 축소"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "인공지능(AI) 산업에 대한 투자 열기가 식으며 오픈AI의 자금 조달 규모가 축소되고 메타의 신용 전망이 하향되는 등 시장의 옥석 가리기가 시작되었다.",
+        "points": [
+          "오픈AI, 기존 목표 대비 자금 조달 규모 축소",
+          "블랙스톤 등 투자사, AI 기업 IPO 후 투자 적격 등급 우려",
+          "메타, AI 투자 관련 비용 증가로 신용 전망 하향",
+          "애플, 엔비디아 제치고 시총 1위 탈환 (AI 랠리 조정 시사)"
+        ],
+        "quote": "\"AI 기술의 잠재력은 크지만, 모든 기업이 투자자들의 기대를 충족시킬 수 있는 것은 아니다.\"",
+        "context": "과열되었던 AI 투자 시장이 점차 현실적인 평가를 받으면서, 실제 수익성과 성장 가능성이 검증된 기업 위주로 투자가 재편될 가능성이 제기되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005757016?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=47270&nologo=true"
+    },
+    {
+      "id": "tech-ghg-sf6",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line",
+      "title": "온실가스 역대 최고치, 초강력 육불화황(SF6) 비상",
+      "subtitle": "IT 산업 발달 국가에서 육불화황 배출 관리 중요성 부각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "최고치",
+            "label": "온실가스 농도"
+          },
+          {
+            "value": "26000배",
+            "label": "SF6 온실효과"
+          },
+          {
+            "value": "IT 산업",
+            "label": "주요 배출원"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "온실가스 역대 최고치 기록"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "전 세계 온실가스 농도가 역대 최고치를 기록한 가운데, 지구 온난화 효과가 이산화탄소의 2만6천배에 달하는 육불화황(SF6) 배출 관리의 중요성이 대두되고 있다.",
+        "points": [
+          "전 세계 온실가스 농도 역대 최고치 경신",
+          "초강력 온실가스 육불화황(SF6) 주목",
+          "이산화탄소보다 2만6천배 높은 온실효과",
+          "IT, 반도체 등 전자산업 발달 국가에서 배출량 관리 중요"
+        ],
+        "quote": "\"우리나라는 전자산업이 발달했고, 반도체 공정에서 육불화황을 많이 사용하고 있습니다.\"",
+        "context": "기후 변화 대응을 위해 탄소 배출 저감 노력이 이루어지고 있지만, 상대적으로 덜 알려진 고효율 온실가스에 대한 관리와 기술 개발도 시급하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002426694?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=35882&nologo=true"
+    },
+    {
+      "id": "society-job-trust-ranking",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "ranking",
+      "title": "세계인이 가장 신뢰하는 직업 '의사', '정치인' 최하위",
+      "subtitle": "의사와 정치인 간 순신뢰도 91%P 격차",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1위",
+            "label": "신뢰 직업 (의사)"
+          },
+          {
+            "value": "최하위",
+            "label": "신뢰 직업 (정치인)"
+          },
+          {
+            "value": "91%P",
+            "label": "격차"
+          }
+        ],
+        "main_number": "91%P",
+        "main_text": "의사-정치인 순신뢰도 격차"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "세계인을 대상으로 한 조사에서 '의사'가 가장 신뢰받는 직업으로 꼽힌 반면, '정치인'은 최하위를 기록하며 신뢰도 격차가 91%포인트에 달했다.",
+        "points": [
+          "의사, 과학자, 교사 등 전문직 높은 신뢰도",
+          "정치인, 소셜미디어 인플루언서 최하위 신뢰도",
+          "공공 부문 내 공무원과 정치인 신뢰도 차이",
+          "전 세계적인 현상으로 분석"
+        ],
+        "quote": "\"의사와 정치인의 순신뢰도 격차는 91%포인트에 달했다.\"",
+        "context": "전문성과 윤리성이 요구되는 직업에 대한 신뢰는 높지만, 대중과의 소통과 책임감이 중요한 직업군에서는 신뢰 회복이 과제로 남아있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026103120534632189a1f309431_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=49579&nologo=true"
+    },
+    {
+      "id": "society-criminal-procedure-act",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar",
+      "title": "개정 형사소송법 시행 한 달, 보완수사 60% 급증",
+      "subtitle": "경찰의 보완수사 요구 8,995건으로, 수사·재판 혼란 가중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1개월",
+            "label": "시행 기간"
+          },
+          {
+            "value": "60%",
+            "label": "보완수사 증가율"
+          },
+          {
+            "value": "8995건",
+            "label": "총 보완수사 요구"
+          }
+        ],
+        "main_number": "+60%",
+        "main_text": "보완수사 요구 한 달 만에 60% 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "개정 형사소송법 시행 한 달 만에 경찰이 받은 보완수사 요구가 8,995건으로 지난해 같은 기간 대비 60% 증가하여, 새로운 형사사법 체계의 혼란이 가중되고 있다.",
+        "points": [
+          "경찰 보완수사 요구 전년 대비 60% 증가",
+          "새로운 형사사법 체계의 공백 및 혼선 노출",
+          "사회적 약자 및 범죄 피해자의 불안감 증폭 우려",
+          "추가 수사 지연으로 인한 재판 지연 가능성"
+        ],
+        "quote": "\"수사·재판 과정에서 거듭 노출되면서 사회적 약자와 범죄 피해자의 불안은 더 커지고 있다는 지적이다.\"",
+        "context": "검경 수사권 조정에 따른 형사소송법 개정이 현장에서 혼란을 야기하며, 법 집행 기관 간의 협력과 명확한 가이드라인 마련이 시급하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002426688?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80642&nologo=true"
+    },
+    {
+      "id": "society-youth-caregiving-burden",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie",
+      "title": "청년의 '치매 부모 돌봄' 현실…독립 미루고 일 멈춰",
+      "subtitle": "가족 돌봄 청년, 경제적 비용 경감 및 서비스 확대 희망",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "45.8%",
+            "label": "치매 가족 돌봄 비율"
+          },
+          {
+            "value": "13-34세",
+            "label": "청년 돌봄 연령"
+          },
+          {
+            "value": "1위",
+            "label": "희망 지원 (경제적 비용)"
+          }
+        ],
+        "main_number": "45.8%",
+        "main_text": "지역사회 치매 환자 가족의 돌봄 비율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "치매 부모를 돌보는 청년들이 독립을 미루거나 일을 멈추는 등 어려움을 겪고 있으며, 이들은 경제적 비용 경감과 돌봄 서비스 확대를 가장 필요로 한다.",
+        "points": [
+          "13-34세 청년 가족 돌봄 청년 실태조사",
+          "돌봄으로 인한 독립 및 경제활동 제약",
+          "가장 원하는 지원은 경제적 비용 경감",
+          "돌봄 서비스 제공 시간 확대도 중요"
+        ],
+        "quote": "\"이들이 가족 지원정책으로 가장 많이 원한 것은 경제적 비용 경감이었다.\"",
+        "context": "고령화 사회로 접어들면서 가족 돌봄의 부담이 청년 세대에게 전가되는 문제가 심화되고 있으며, 이에 대한 사회적 지원책 마련이 시급하다.",
+        "source_url": "http://www.4th.kr/news/articleView.html?idxno=2120570"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96905&nologo=true"
+    },
+    {
+      "id": "life-company-4day-workweek",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie",
+      "title": "이찬혁 회사, 파격적 '주 4일제' 도입…직원 복지 화제",
+      "subtitle": "보증금·월세 지원 및 독특한 '중복지원' 입사 제약",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "주 4일제",
+            "label": "근무 형태"
+          },
+          {
+            "value": "보증금·월세",
+            "label": "지원"
+          },
+          {
+            "value": "高복지",
+            "label": "직원 복지"
+          }
+        ],
+        "main_number": "4일",
+        "main_text": "주 4일 근무제 파격 도입"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "가수 이찬혁의 회사가 주 4일 근무제, 보증금 및 월세 지원 등 파격적인 복지 제도를 운영하며 '좋은 삶에서 좋은 음악이 나온다'는 경영 철학을 실천하고 있다.",
+        "points": [
+          "주 4일 근무제 도입",
+          "직원 보증금 및 월세 지원",
+          "업무 외 다양한 활동 장려",
+          "채용 시 '중복지원' 금지 등 독특한 제약"
+        ],
+        "quote": "\"저는 노는 거라고 생각하지 않고 우리가 다른 걸 만들어내려면 다른 라이프스타일을 만들어내야 한다고 생각한다. 그거에 투자하는 것.\"",
+        "context": "워라밸(Work-Life Balance)을 중시하는 사회적 분위기 속에서 기업들이 직원 만족도와 창의성을 높이기 위한 다양한 복지 정책을 시도하고 있다.",
+        "source_url": "https://m.entertain.naver.com/article/609/0001183234"
+      },
+      "image_url": "data/images/2026-11-01/life-company-4day-workweek.jpg"
+    },
+    {
+      "id": "life-parkinson-exercise",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line",
+      "title": "파킨슨병 진행 늦추려면 '활동 시간'이 중요",
+      "subtitle": "운동 강도보다 주당 활동시간이 파킨슨병 진행 완화에 효과",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "시간",
+            "label": "주요 요인"
+          },
+          {
+            "value": "운동",
+            "label": "효과적 관리법"
+          },
+          {
+            "value": "진행 완화",
+            "label": "질병 경과"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "활동 시간 길수록 파킨슨병 진행 덜 진행"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "파킨슨병 진행을 늦추는 데 운동 강도보다는 주당 활동 시간이 더 중요하다는 연구 결과가 나왔으며, 생활 습관 개선의 중요성이 강조된다.",
+        "points": [
+          "파킨슨병 환자 대상 연구 결과",
+          "운동 강도보다 주당 활동 시간의 영향력 강조",
+          "라이프스타일 메디슨(생활 습관이 약이다) 개념 확산",
+          "운동을 통한 질병 관리의 중요성 재확인"
+        ],
+        "quote": "\"(운동은) 라이프스타일 메디슨이라고도 얘기를 하는데, 생활 습관이 약이다 이런 식으로까지 얘기를 해서 운동 같은 부분은 예전부터 전통적으로 굉장히 강조가 되던 부분이고요.\"",
+        "context": "고령화 시대에 만성 질환 관리의 중요성이 커지면서, 약물 치료 외에 생활 습관 개선을 통한 질병 예방 및 관리 방식이 주목받고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002426691?sid=102"
+      },
+      "image_url": "data/images/2026-11-01/life-parkinson-exercise.jpg"
+    },
+    {
+      "id": "life-naver-offline-membership",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "flow",
+      "title": "네이버, 온·오프라인 멤버십 경험 확장",
+      "subtitle": "얼굴 인식 입장, 디지털 스탬프 등 새로운 O2O 서비스 제시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "얼굴인식",
+            "label": "간편 입장"
+          },
+          {
+            "value": "디지털",
+            "label": "스탬프"
+          },
+          {
+            "value": "10%",
+            "label": "최대 슈퍼적립"
+          }
+        ],
+        "main_number": "O2O",
+        "main_text": "온·오프라인 연결 멤버십"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "네이버가 오프라인 공간에서 얼굴 인식 입장, 디지털 스탬프 적립, 최대 10% 슈퍼적립 등 멤버십 경험을 확장하는 새로운 O2O(Online to Offline) 서비스를 선보였다.",
+        "points": [
+          "오프라인 행사에서 얼굴 인식으로 입장",
+          "디지털 스탬프 적립 및 활용",
+          "패션, 푸드 등 다양한 라이프스타일 브랜드 연계",
+          "네이버 멤버십 회원 대상 최대 10% 슈퍼적립"
+        ],
+        "quote": "\"네이버는 패션 브랜드 서비스 '노크잇'을 통해 오프라인과 온라인을 잇는 새로운 쇼핑 경험을 제공합니다.\"",
+        "context": "IT 기업들이 온라인 플랫폼을 넘어 오프라인 경험과의 연계를 강화하며, 소비자들이 더 편리하고 풍부한 서비스를 누릴 수 있도록 O2O 전략을 확대하고 있다.",
+        "source_url": "https://byline.network/?p=9004111222625575"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91140&nologo=true"
+    }
+  ],
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T06:12:53.637087+09:00"
+}
