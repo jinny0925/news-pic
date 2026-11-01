@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-export-milestone",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "stats_overview",
+      "title": "수출 1조 달러 눈앞: 세계 4번째 위업",
+      "subtitle": "연간 수출액 1조 달러 달성, 글로벌 경제 위상 강화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "$1조",
+            "label": "수출액"
+          },
+          {
+            "value": "4위",
+            "label": "세계 순위"
+          },
+          {
+            "value": "한국",
+            "label": "국가"
+          }
+        ],
+        "main_number": "+700억$",
+        "main_text": "남은 목표액"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, global trade, rising curve, world map, success",
+      "detail": {
+        "summary": "대한민국이 연간 수출 1조 달러 달성을 눈앞에 두고 있으며, 이달 중 독일, 미국, 중국에 이어 세계 4번째로 이정표를 세울 전망입니다. 이는 국내 경제 성장의 중요한 지표가 될 것입니다.",
+        "points": [
+          "연간 수출 1조 달러 임박",
+          "세계 4번째 달성 국가 예정",
+          "국익 외교 통한 경제 영토 확장 과제",
+          "중소·중견기업까지 성과 확대"
+        ],
+        "quote": "실용적 국익외교를 통해 여러분이 뛸 경제영토 확장에 더 노력하겠다.",
+        "context": "글로벌 경기 둔화 속에서도 수출 호조를 이어가며 국가 경제의 성장 동력을 확인하고, 무역 강국으로서의 위상을 공고히 할 중요한 지표입니다.",
+        "source_url": "http://www.newskr.kr/news/articleView.html?idxno=107609"
+      },
+      "image_url": "data/images/2026-11-02/world-export-milestone.jpg"
+    },
+    {
+      "id": "world-asia-geopolitics",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "동북아 안보 지형 변화: 중·미 갈등 속 한일 협력 주목",
+      "subtitle": "중국 군사력 증강, 미국의 대응 불확실성 속 일본의 자강론 대두",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "中 군사력",
+            "label": "확대"
+          },
+          {
+            "value": "美 대응",
+            "label": "불확실"
+          },
+          {
+            "value": "日 자강론",
+            "label": "대두"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "한일 협력 중요성 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, geopolitical map of East Asia, China military power, US presence, Japan self-reliance, Korea-Japan cooperation",
+      "detail": {
+        "summary": "중국의 군사력 증강과 미국의 인도-태평양 전략 불확실성 속에서 일본 내 자강론이 부상하며, 이로 인한 한일 안보 협력의 중요성이 커지고 있습니다.",
+        "points": [
+          "중국 군사력 확장 가속화",
+          "미국 대응 전략 불확실성 증대",
+          "일본 내 자강론(自主防衛論) 강화",
+          "역사 문제 넘어선 한일 협력 필요성 강조"
+        ],
+        "quote": "한일관계는 항상 세심하게 관리해야 하는 관계다. 지금 같은 안보 지형 변화 속에서는 더욱 그렇다.",
+        "context": "미중 전략 경쟁 심화와 지역 안보 환경 변화 속에서 한국과 일본은 과거사 문제에 갇히지 않고 미래 지향적인 협력 모델을 구축하여 공동의 안보와 번영을 추구해야 한다는 목소리가 나옵니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009263346?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20geopolitical%20map%20of%20East%20Asia%2C%20China%20military%20power%2C%20US%20presence%2C%20Japan%20self-reliance%2C%20Korea-Japan%20cooperation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27325&nologo=true"
+    },
+    {
+      "id": "world-nk-crypto-theft",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "北 해커 탈취 가상화폐, 8조원 규모…연간 수출액의 3배",
+      "subtitle": "세계 최대 가상화폐 거래소 바이낸스 피해, 북한 연계 해킹조직 소행",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "8조원",
+            "label": "탈취 금액"
+          },
+          {
+            "value": "3배",
+            "label": "北 수출액 대비"
+          },
+          {
+            "value": "1.8만개",
+            "label": "비트코인 수량"
+          }
+        ],
+        "main_number": "8조 4천억+",
+        "main_text": "바이낸스 해킹 피해액"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, digital currency, hacking, North Korea, large numbers, comparison of values, global impact",
+      "detail": {
+        "summary": "북한 연계 해킹조직이 세계 최대 가상화폐 거래소 바이낸스에서 약 8조 4천억원(14억 달러) 규모의 가상화폐를 탈취한 것으로 확인되었습니다. 이는 북한의 연간 수출액의 3배에 달하며, 엘살바도르 정부 보유량을 넘어섭니다.",
+        "points": [
+          "세계 최대 거래소 바이낸스 해킹 피해",
+          "북한 연계 해킹조직 '라자루스' 지목",
+          "탈취액 8조4000억원, 북한 연간 수출액 3배",
+          "글로벌 금융 안보에 심각한 위협"
+        ],
+        "quote": "북한의 가상화폐 탈취는 단순한 범죄를 넘어 글로벌 금융 시스템과 안보에 심각한 위협이 되고 있다.",
+        "context": "가상화폐는 북한 정권의 핵·미사일 개발 자금 조달의 주요 수단으로 지목되어 왔습니다. 이번 대규모 탈취 사건은 국제 사회의 대북 제재 노력을 약화시키고 불법 자금 흐름을 가속화할 수 있다는 우려를 낳고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002717265?sid=104"
+      },
+      "image_url": "data/images/2026-11-02/world-nk-crypto-theft.jpg"
+    },
+    {
+      "id": "economy-pediatric-rehab",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "소아재활 환자 30% 증가, 치료기관은 18% 감소…불균형 심화",
+      "subtitle": "어린이 재활 수요 급증에도 불구하고 인프라 부족 심각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+30%",
+            "label": "환자 증가"
+          },
+          {
+            "value": "-18%",
+            "label": "기관 감소"
+          },
+          {
+            "value": "미충족",
+            "label": "의료 수요"
+          }
+        ],
+        "main_number": "수요 ↑ 공급 ↓",
+        "main_text": "소아재활 의료 불균형"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, children, physical therapy, hospital, shrinking number of facilities, growing number of patients",
+      "detail": {
+        "summary": "소아 재활 환자는 30% 급증한 반면, 어린이 재활 의료기관은 18% 감소하며 의료 공백이 심화되고 있습니다. 시범사업에도 불구하고 정책적 노력이 부족하다는 지적입니다.",
+        "points": [
+          "소아 재활 환자 수 30% 증가",
+          "어린이 재활 치료기관 18% 감소",
+          "환자 가족 경제적 부담 감소 성과 있었으나 한계",
+          "지역사회 연계 서비스 활성화 필요"
+        ],
+        "quote": "이러한 정책적 노력에도 불구하고 소아재활 의료 접근성은 여전히 미흡하며, 불균형이 심화되고 있다.",
+        "context": "어린이 재활은 성장 발달에 매우 중요하지만, 낮은 수익성 등으로 인해 관련 의료기관이 부족해 환자와 가족들이 어려움을 겪고 있습니다. 이는 사회 전체의 건강과 직결되는 문제로, 정책적 개선이 시급합니다.",
+        "source_url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044174"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20children%2C%20physical%20therapy%2C%20hospital%2C%20shrinking%20number%20of%20facilities%2C%20growing%20number%20of%20patients%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58025&nologo=true"
+    },
+    {
+      "id": "economy-shipbuilding-defense-3rdgen",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "comparison",
+      "title": "조선·방산 3세 리더십: HD한국조선해양 37%↑ vs 한화에어로스페이스 46%↓",
+      "subtitle": "오너 3세 경영 체제, 주력 사업 희비 교차",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+37%",
+            "label": "HD한국조선해양"
+          },
+          {
+            "value": "-46%",
+            "label": "한화에어로스페이스"
+          },
+          {
+            "value": "빅이벤트",
+            "label": "수주 기대"
+          }
+        ],
+        "main_number": "희비 교차",
+        "main_text": "3세 리더십 1년/100일 성과"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, two companies, performance comparison, graphs up and down, shipbuilding, defense industry, business leaders",
+      "detail": {
+        "summary": "HD한국조선해양 정기선 회장과 한화에어로스페이스 김동관 수석부회장의 3세 경영이 1년, 100일을 맞은 가운데, 양사 주력 사업의 희비가 엇갈리고 있습니다. 조선업은 영업이익이 37% 증가했으나, 방산은 46% 감소했습니다.",
+        "points": [
+          "HD한국조선해양 영업이익 37% 증가",
+          "한화에어로스페이스 영업이익 46% 감소",
+          "조선업 임단협 타결로 노사 리스크 일단락",
+          "방산 분야 연말연초 국내외 수주 빅이벤트 기대"
+        ],
+        "quote": "오너 3세 리더십이 주력 사업의 희비에 결정적 영향을 미치고 있다.",
+        "context": "각 사의 핵심 사업 성과가 오너 3세 리더십의 첫 시험대로 평가받고 있습니다. 조선업은 회복세를 보이고 있으나 방산은 수주 지연 등으로 어려움을 겪고 있어, 향후 리더십의 방향성과 경영 전략에 귀추가 주목됩니다.",
+        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301507222550941"
+      },
+      "image_url": "data/images/2026-11-02/economy-shipbuilding-defense-3rdgen.jpg"
+    },
+    {
+      "id": "economy-domestic-raw-materials",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "신규 등록 원료 7%만 국내산…의약품 원료 국산화율 딜레마",
+      "subtitle": "상반기 전체 신규 등록 원료의 93%가 해외산, 약가 우대도 '그림의 떡'",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7%",
+            "label": "국내산"
+          },
+          {
+            "value": "93%",
+            "label": "해외산"
+          },
+          {
+            "value": "안보 위협",
+            "label": "공급망"
+          }
+        ],
+        "main_number": "원료 자급률 ↓",
+        "main_text": "의약품 안보 위협"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, pie chart, chemical compounds, factory, domestic vs imported, supply chain, medicine",
+      "detail": {
+        "summary": "올해 상반기 신규 등록된 의약품 원료 중 국내산은 단 7%에 불과하며, 국산 원료 사용에 대한 약가 우대 정책도 실효성이 미미하다는 지적이 나옵니다. 이는 의약품 안보에도 위협이 될 수 있습니다.",
+        "points": [
+          "상반기 신규 등록 원료 중 국내산 7%에 불과",
+          "약가 우대 제도 실효성 부족 지적",
+          "해외 원료 공급 중단 시 국내 의약품 생산 기반 위협",
+          "경제적 측면 넘어 의약품 안보 차원의 중요성"
+        ],
+        "quote": "국산 원료의약품 활성화는 경제적인 측면을 떠나 의약품 안보 차원에서도 중요하다.",
+        "context": "필수 의약품 생산에 필요한 원료의 대부분을 해외 수입에 의존하는 것은 글로벌 공급망 불안정 시 의약품 부족 사태로 이어질 수 있습니다. 국내 원료의약품 산업의 활성화와 자급률 제고가 시급한 과제로 떠오르고 있습니다.",
+        "source_url": "https://www.apsk.co.kr/news/articleView.html?idxno=540923"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20pie%20chart%2C%20chemical%20compounds%2C%20factory%2C%20domestic%20vs%20imported%2C%20supply%20chain%2C%20medicine%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6349&nologo=true"
+    },
+    {
+      "id": "tech-samsung-future-strategy",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "이재용 회장, '초격차' 현장 경영…로봇·반도체 미래 기술 집중",
+      "subtitle": "삼성전자, CES 2027 휴머노이드 로봇 공개 기대감 고조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "현장 경영",
+            "label": "강화"
+          },
+          {
+            "value": "로봇",
+            "label": "핵심 기술"
+          },
+          {
+            "value": "반도체",
+            "label": "미래 투자"
+          }
+        ],
+        "main_number": "CES 2027",
+        "main_text": "휴머노이드 로봇 공개?"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, Samsung logo, robot arm, semiconductor chip, innovation, future technology, leader figure",
+      "detail": {
+        "summary": "삼성 이재용 회장이 '초격차' 기술 확보를 위해 로봇과 반도체 현장을 연이어 방문하며 미래 기술 투자에 박차를 가하고 있습니다. 내년 1월 CES 2027에서 삼성전자의 휴머노이드 로봇 공개 여부에도 관심이 집중됩니다.",
+        "points": [
+          "이재용 회장, 로봇·반도체 현장 경영",
+          "'초격차' 기술 확보 위한 전략적 행보",
+          "제조 현장 활용 로봇 기술 개발",
+          "CES 2027 휴머노이드 로봇 공개 가능성"
+        ],
+        "quote": "미래 산업의 핵심인 로봇과 반도체 기술에서 압도적인 초격차를 확보하는 것이 중요하다.",
+        "context": "글로벌 기술 경쟁이 심화되는 가운데, 삼성전자는 반도체 분야의 초격차를 유지하고 로봇 등 신사업을 통해 미래 성장 동력을 확보하려는 전략입니다. 이는 인공지능 시대를 선도하기 위한 중요한 투자로 평가됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014293490?sid=101"
+      },
+      "image_url": "data/images/2026-11-02/tech-samsung-future-strategy.jpg"
+    },
+    {
+      "id": "tech-medical-ai-regulation",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "의료 AI 정식등재, 내년 1분기 윤곽…시장 전환 분수령",
+      "subtitle": "임시등재 기업들, 임상 효과·경제성 입증 과제 직면",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "내년 1분기",
+            "label": "정식등재 윤곽"
+          },
+          {
+            "value": "임시등재",
+            "label": "기업 전환"
+          },
+          {
+            "value": "임상효과",
+            "label": "경제성 입증"
+          }
+        ],
+        "main_number": "규제 전환",
+        "main_text": "의료 AI 시장 재편"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, medical AI, stethoscope, brain with circuits, legal documents, timeline, regulation",
+      "detail": {
+        "summary": "의료 인공지능(AI) 기술의 건강보험 정식등재 체계 윤곽이 내년 1분기에 드러날 예정입니다. 기존 임시등재 기업들은 실제 임상적 효과와 경제성, 환자 편익을 입증해야 하는 중요한 과제를 안게 됩니다.",
+        "points": [
+          "의료 AI 건강보험 정식등재 기준 논의",
+          "내년 1분기 정식등재체계 윤곽 예상",
+          "임시등재 기업, 임상적 효과·경제성·환자 편익 입증 필요",
+          "의료 AI 시장의 중요한 전환점"
+        ],
+        "quote": "정식등재체계가 마련되면 의료 AI 기업들은 실제 임상적 효과와 경제성을 입증해야 하는 과제를 안게 될 것이다.",
+        "context": "의료 AI 기술의 발전은 환자 진료의 효율성과 정확도를 높일 잠재력이 크지만, 건강보험 적용을 위한 명확한 기준이 마련되지 않아 시장 확대에 어려움이 있었습니다. 이번 정식등재 체계는 기술 도입과 시장 성장의 중요한 전환점이 될 것입니다.",
+        "source_url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015327"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20medical%20AI%2C%20stethoscope%2C%20brain%20with%20circuits%2C%20legal%20documents%2C%20timeline%2C%20regulation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53222&nologo=true"
+    },
+    {
+      "id": "tech-singapore-ai-hub",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "stats_overview",
+      "title": "좁고 더운 싱가포르, 아시아 AI 허브로 우뚝 서다",
+      "subtitle": "전력 공급 한계 극복 위한 전방위적 효율 극대화 전략",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "아시아",
+            "label": "AI 허브"
+          },
+          {
+            "value": "전력 효율",
+            "label": "극대화"
+          },
+          {
+            "value": "인프라",
+            "label": "IT 장비"
+          }
+        ],
+        "main_number": "↑ 효율",
+        "main_text": "AI 성장 돌파구"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, Singapore skyline, computer chips, data center, cooling fan, efficiency, AI brain",
+      "detail": {
+        "summary": "송전망 병목과 전력 공급의 한계에도 불구하고 싱가포르는 인프라와 IT 장비를 아우르는 '전방위적 효율 극대화' 전략을 통해 아시아 AI 허브로 성장하고 있습니다. 이는 전 세계 데이터센터 인프라 확충에 중요한 시사점을 줍니다.",
+        "points": [
+          "송전망 병목·전력 공급 한계 직면",
+          "인프라 및 IT 장비 효율 극대화 전략",
+          "아시아 AI 허브로 부상",
+          "글로벌 데이터센터 환경 규제 준수 압박 증가"
+        ],
+        "quote": "유일한 돌파구는 인프라와 IT(정보기술) 장비를 아우르는 '전방위적 효율 극대화'뿐이다.",
+        "context": "기후 변화 대응과 에너지 효율성 증대가 전 세계적인 과제가 되면서, 데이터센터와 같은 대규모 전력 소비 시설의 지속가능한 운영이 중요해졌습니다. 싱가포르의 사례는 제한된 자원 속에서 AI 인프라를 구축하는 모델을 제시합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005434886?sid=101"
+      },
+      "image_url": "data/images/2026-11-02/tech-singapore-ai-hub.jpg"
+    },
+    {
+      "id": "society-parliament-nov-agenda",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "국감 종료 후 '격랑의 11월 국회'…예산·국조·특검 3중 전선",
+      "subtitle": "2일 시정연설 시작으로 예산안 심사, 여야 강대강 대치 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2일",
+            "label": "시정연설"
+          },
+          {
+            "value": "예산안",
+            "label": "심사"
+          },
+          {
+            "value": "국조·특검",
+            "label": "쟁점"
+          }
+        ],
+        "main_number": "11월",
+        "main_text": "국회 주요 일정"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, parliament building, calendar, gears, political figures debating, budget documents",
+      "detail": {
+        "summary": "국정감사가 마무리되면서 11월 국회는 2일 대통령 시정연설을 시작으로 2027년도 예산안 심사, 국정조사, 특검 등 '3중 전선'이 펼쳐지며 여야의 강대강 대치가 예상됩니다.",
+        "points": [
+          "11월 2일 대통령 시정연설 예정",
+          "2027년도 예산안 심사 돌입",
+          "국정조사 및 특검 추진 논의",
+          "여야의 강대강 대치 국면 지속 예상"
+        ],
+        "quote": "여야의 강대강 대치 국면이 내년도 예산안 심사 등 핵심 일정까지 이어질 것이다.",
+        "context": "국회는 국가의 중요한 정책 방향과 예산을 결정하는 핵심적인 역할을 수행합니다. 격화되는 여야 대립 속에서 예산안 심사 등 민생과 직결된 주요 일정이 원활히 진행될 수 있을지 주목됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001162854?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20parliament%20building%2C%20calendar%2C%20gears%2C%20political%20figures%20debating%2C%20budget%20documents%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9227&nologo=true"
+    },
+    {
+      "id": "society-pharmacy-welfare-net",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "flow_chart",
+      "title": "약국, 위기가구 발굴 '지역 안전망' 확대…내년 복지예산 반영",
+      "subtitle": "환자 상담 통해 복지 사각지대 해소 기여, 활동 보상 예산 국회 심의 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "약국",
+            "label": "발굴 거점"
+          },
+          {
+            "value": "위기가구",
+            "label": "연계"
+          },
+          {
+            "value": "복지예산",
+            "label": "반영"
+          }
+        ],
+        "main_number": "확대",
+        "main_text": "지역사회 안전망"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, pharmacy, pharmacist talking to patient, connecting to social worker, community, safety net, budget money",
+      "detail": {
+        "summary": "약국이 환자 상담과 복약지도 과정에서 경제적 어려움이나 돌봄 공백 등 위기가구를 발견하여 공공 복지체계로 연계하는 '지역사회 안전망' 역할을 확대하며, 이에 대한 보상 예산이 내년 정부 예산안에 반영되어 국회 심의를 앞두고 있습니다.",
+        "points": [
+          "약국, 복지 사각지대 위기가구 발굴 역할",
+          "환자 상담 및 복약지도 과정 활용",
+          "발굴 활동에 대한 보상 예산 정부안 반영",
+          "한국사회보장정보원과 협력 전국망 구축"
+        ],
+        "quote": "약국에서 복지 대상자를 선정하거나 직접 복지서비스를 제공하는 것이 아니라, 공공체계로 연결하는 역할이다.",
+        "context": "복지 사각지대 해소는 중요한 사회적 과제입니다. 접근성이 높은 약국이 일상 속에서 위기가구를 조기에 발견하고 지원 시스템으로 연결하는 것은 지역사회 복지 체계를 강화하고 국민 삶의 질을 향상하는 데 크게 기여할 수 있습니다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547769"
+      },
+      "image_url": "data/images/2026-11-02/society-pharmacy-welfare-net.jpg"
+    },
+    {
+      "id": "society-university-ranking",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "대학 평가 순위, '인지적 종결 욕구'의 덫인가?",
+      "subtitle": "수치화된 데이터 맹신과 사회적 지위 증명 수단으로 변질되는 대학 평가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "순위",
+            "label": "집착"
+          },
+          {
+            "value": "데이터",
+            "label": "맹신"
+          },
+          {
+            "value": "사회적 지위",
+            "label": "증명"
+          }
+        ],
+        "main_number": "≠",
+        "main_text": "실질적 개선"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, university building, ranking podium, students, question mark, critical thinking, numbers vs quality",
+      "detail": {
+        "summary": "대학 평가 순위에 대한 사회적 집착은 '세계 몇 위'라는 명확한 숫자를 통해 인지적 종결 욕구를 충족시키려는 경향과, 대학이 사회적 지위를 증명하는 수단으로 변질되는 현상으로 분석됩니다.",
+        "points": [
+          "대학 평가 순위에 대한 사회적 집착",
+          "'인지적 종결 욕구'에 따른 명확한 숫자 선호",
+          "수치화된 데이터의 과학적·공정성 맹신",
+          "실질적 개선보다 순위 올리기에 집중"
+        ],
+        "quote": "수치화된 데이터가 과학적이고 공정하다는 착각과 함께, 높은 순위를 소속 구성원의 가치와 동일시하며 사회적 지위를 증명하려는 심리도 작용한다.",
+        "context": "대학 평가는 교육의 질 향상과 연구 역량 강화를 위한 도구여야 하지만, 과도한 순위 경쟁은 대학 본연의 가치와 교육 철학을 훼손할 수 있습니다. 성과 중심의 평가를 넘어 본질적인 발전을 모색하는 시각이 필요합니다.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=599203"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20university%20building%2C%20ranking%20podium%2C%20students%2C%20question%20mark%2C%20critical%20thinking%2C%20numbers%20vs%20quality%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=42369&nologo=true"
+    },
+    {
+      "id": "life-annuity-insurance-trend",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "연 4.8% 연금보험 인기, 보험사 '역마진 경고등' 켜졌다",
+      "subtitle": "고금리 확정형 상품에 가입자 몰려…은행 정기예금 금리 웃돌아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4.8%",
+            "label": "연금보험 금리"
+          },
+          {
+            "value": "3.6%",
+            "label": "정기예금 금리"
+          },
+          {
+            "value": "역마진",
+            "label": "보험사 우려"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "연금보험 인기"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, piggy bank, pension, money, graphs showing interest rates, warning sign",
+      "detail": {
+        "summary": "동양생명, 한화생명, KB라이프 등 보험사들이 연 4.52~4.84%의 확정금리를 내건 연금보험을 판매하며 인기를 끌고 있습니다. 이는 시중은행 1년 만기 정기예금 최고금리보다 높은 수준으로, 보험사들의 역마진 우려가 제기되고 있습니다.",
+        "points": [
+          "연 4.5~4.8%대 확정금리 연금보험 판매",
+          "4대 은행 1년 만기 정기예금 금리(3.6%) 상회",
+          "고금리 매력으로 가입자 증가",
+          "보험사 역마진 발생 가능성 우려"
+        ],
+        "quote": "고금리 확정형 연금보험은 고객에게는 매력적이지만, 보험사 입장에서는 운용 부담이 커 역마진 우려가 있다.",
+        "context": "금리 상승기에 소비자들은 더 높은 수익률을 기대하며 금융 상품을 선택합니다. 그러나 보험사 입장에서는 지급해야 할 금리가 운용 수익률을 초과할 경우 역마진이 발생할 수 있어, 리스크 관리와 상품 설계의 균형이 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001162850?sid=101"
+      },
+      "image_url": "data/images/2026-11-02/life-annuity-insurance-trend.jpg"
+    },
+    {
+      "id": "life-kfood-global",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "K-푸드 '햇반', 글로벌 라이프스타일 대표 제품으로 도약",
+      "subtitle": "이재현 회장 혜안으로 탄생…해외 매출 비중 2021년 8% → 2025년 15% 목표",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "8%",
+            "label": "해외매출 (2021)"
+          },
+          {
+            "value": "15%",
+            "label": "해외매출 (2025 목표)"
+          },
+          {
+            "value": "K라이프",
+            "label": "대표 제품"
+          }
+        ],
+        "main_number": "+7%",
+        "main_text": "해외 매출 성장 목표"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, rice bowl, chopsticks, world map, market growth, K-food, global trend",
+      "detail": {
+        "summary": "CJ 이재현 회장의 '슈퍼에서 밥을 팔라'는 발상에서 시작된 '햇반'이 만두 등과 함께 K-푸드 글로벌 전략 제품의 한 축을 담당하며, 해외 매출 비중을 2021년 8%에서 2025년 15%까지 확대하는 것을 목표로 하고 있습니다.",
+        "points": [
+          "이재현 회장의 '슈퍼 밥' 발상",
+          "K-푸드 글로벌 전략 제품(GSP)의 핵심",
+          "해외 매출 비중 2021년 8% → 2025년 15% 목표",
+          "K-라이프스타일을 채우는 대표 제품으로 성장"
+        ],
+        "quote": "1997년 로스앤젤레스 수출 이후 만두 등과 함께 K푸드 글로벌전략제품(GSP)의 한 축을 담당했고 이제 'K라이프스타일'의 일상을 채우는 대표 제품이 됐다.",
+        "context": "K-콘텐츠의 인기가 높아지면서 K-푸드에 대한 전 세계적인 관심도 증가하고 있습니다. '햇반'과 같은 가공식품은 간편함과 한국적인 맛을 동시에 제공하며 글로벌 소비자의 식생활에 깊숙이 파고드는 성공적인 K-라이프스타일 제품으로 자리매김하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005434860?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20rice%20bowl%2C%20chopsticks%2C%20world%20map%2C%20market%20growth%2C%20K-food%2C%20global%20trend%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16232&nologo=true"
+    },
+    {
+      "id": "life-kb-seniorcare",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "flow_chart",
+      "title": "KB라이프, 'KB골든라이프'로 금융과 돌봄 서비스 연계",
+      "subtitle": "요양시설 운영 경험 바탕, 시니어 대상 복합 서비스 확장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "350억원",
+            "label": "추가 출자"
+          },
+          {
+            "value": "요양 시설",
+            "label": "운영 경험"
+          },
+          {
+            "value": "금융·돌봄",
+            "label": "통합 서비스"
+          }
+        ],
+        "main_number": "노인 복지",
+        "main_text": "시니어 사업 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, elderly couple, financial advisor, caregiver, flowchart of services, retirement planning, holistic care",
+      "detail": {
+        "summary": "정문철 KB라이프 대표가 요양시설 운영 경험을 바탕으로 금융과 돌봄을 결합한 시니어 사업 'KB골든라이프'를 강화하고 있습니다. 이달 요양 자회사에 350억원을 추가 출자하며 시니어 시장 확대에 나서고 있습니다.",
+        "points": [
+          "KB라이프, 시니어 사업 'KB골든라이프' 강화",
+          "요양 자회사 'KB골든라이프케어'에 350억원 추가 출자",
+          "금융 상품과 돌봄 서비스 통합 제공 목표",
+          "고령화 사회에 대비한 복합 서비스 모델 제시"
+        ],
+        "quote": "요양시설 운영 경험을 바탕으로 금융과 돌봄을 결합한 시니어 사업을 통해 고객의 평생 라이프케어를 지원할 것이다.",
+        "context": "고령화 사회가 빠르게 진행되면서 노인 인구의 증가와 함께 요양 및 돌봄 서비스에 대한 수요가 급증하고 있습니다. 금융사가 이러한 시니어 시장에 진출하여 금융 상품과 돌봄 서비스를 연계하는 것은 새로운 비즈니스 모델이자 사회적 책임의 일환으로 주목받고 있습니다.",
+        "source_url": "https://www.fntimes.com/html/view.php?ud=202610221108205302ed56b8e1f8_18"
+      },
+      "image_url": "data/images/2026-11-02/life-kb-seniorcare.jpg"
+    }
+  ],
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T06:11:18.689743+09:00"
+}
