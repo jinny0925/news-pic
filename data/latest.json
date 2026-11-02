@@ -1,621 +1,637 @@
 {
   "cards": [
     {
-      "id": "world-export-milestone",
+      "id": "world-001",
       "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "stats_overview",
-      "title": "수출 1조 달러 눈앞: 세계 4번째 위업",
-      "subtitle": "연간 수출액 1조 달러 달성, 글로벌 경제 위상 강화",
+      "viz_type": "bar_chart",
+      "title": "🇺🇸 미국 중간선거, 의회 권력 향방 가른다",
+      "subtitle": "전 세계 이목 집중, 미국 정치 지형 변화의 분수령",
       "viz_data": {
         "stats": [
           {
-            "value": "$1조",
-            "label": "수출액"
+            "value": "435석",
+            "label": "하원 전체"
           },
           {
-            "value": "4위",
-            "label": "세계 순위"
+            "value": "35석",
+            "label": "상원 경쟁"
           },
           {
-            "value": "한국",
-            "label": "국가"
+            "value": "20%",
+            "label": "높은 투표율 예상"
           }
         ],
-        "main_number": "+700억$",
-        "main_text": "남은 목표액"
+        "main_number": "+10%",
+        "main_text": "글로벌 정치·경제 불확실성 증대"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, global trade, rising curve, world map, success",
+      "image_prompt": "cute pastel infographic illustration, US Capitol building with election tally, diverse voters, no text",
       "detail": {
-        "summary": "대한민국이 연간 수출 1조 달러 달성을 눈앞에 두고 있으며, 이달 중 독일, 미국, 중국에 이어 세계 4번째로 이정표를 세울 전망입니다. 이는 국내 경제 성장의 중요한 지표가 될 것입니다.",
+        "summary": "미국 중간선거가 열려 하원 전체와 상원 일부 의석을 두고 민주당과 공화당이 격돌하며, 그 결과에 따라 미국의 국내외 정책 방향과 권력 구도에 큰 변화가 예상된다. 전 세계가 이번 선거 결과에 주목하고 있다.",
         "points": [
-          "연간 수출 1조 달러 임박",
-          "세계 4번째 달성 국가 예정",
-          "국익 외교 통한 경제 영토 확장 과제",
-          "중소·중견기업까지 성과 확대"
+          "하원 전체 435석과 상원 1/3인 35석을 놓고 경쟁",
+          "공화당 승리 시 트럼프 정치적 영향력 강화 예상",
+          "민주당 승리 시 바이든 행정부 정책 동력 확보",
+          "국제 유가 및 AI 투자 등 글로벌 시장 변동성 요인"
         ],
-        "quote": "실용적 국익외교를 통해 여러분이 뛸 경제영토 확장에 더 노력하겠다.",
-        "context": "글로벌 경기 둔화 속에서도 수출 호조를 이어가며 국가 경제의 성장 동력을 확인하고, 무역 강국으로서의 위상을 공고히 할 중요한 지표입니다.",
-        "source_url": "http://www.newskr.kr/news/articleView.html?idxno=107609"
+        "quote": "트럼프는 '우리 생애 가장 중요한 선거'라며 지지층 결집을 호소했다.",
+        "context": "미국 중간선거는 대통령의 남은 임기 국정 운영에 막대한 영향을 미치며, 그 결과는 글로벌 경제와 외교에도 직접적인 파급 효과를 가져온다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002427483?sid=104"
       },
-      "image_url": "data/images/2026-11-02/world-export-milestone.jpg"
+      "image_url": "data/images/2026-11-03/world-001.jpg"
     },
     {
-      "id": "world-asia-geopolitics",
+      "id": "world-002",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "comparison",
-      "title": "동북아 안보 지형 변화: 중·미 갈등 속 한일 협력 주목",
-      "subtitle": "중국 군사력 증강, 미국의 대응 불확실성 속 일본의 자강론 대두",
+      "viz_type": "line_chart",
+      "title": "🔋 전 세계 원전 건설 붐, 40년 만에 최고치",
+      "subtitle": "AI 전력 수요와 에너지 안보 강화로 원자력 발전 회귀",
       "viz_data": {
         "stats": [
           {
-            "value": "中 군사력",
-            "label": "확대"
+            "value": "79기",
+            "label": "건설 중"
           },
           {
-            "value": "美 대응",
-            "label": "불확실"
+            "value": "600기",
+            "label": "2040년 예상"
           },
           {
-            "value": "日 자강론",
-            "label": "대두"
+            "value": "+40년",
+            "label": "최고 기록"
           }
         ],
-        "main_number": "↑",
-        "main_text": "한일 협력 중요성 증가"
+        "main_number": "+20%",
+        "main_text": "AI 데이터센터 전력 소비량 급증 영향"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, geopolitical map of East Asia, China military power, US presence, Japan self-reliance, Korea-Japan cooperation",
+      "image_prompt": "cute pastel infographic illustration, nuclear power plant with glowing reactor core, data centers in background, clean energy, no text",
       "detail": {
-        "summary": "중국의 군사력 증강과 미국의 인도-태평양 전략 불확실성 속에서 일본 내 자강론이 부상하며, 이로 인한 한일 안보 협력의 중요성이 커지고 있습니다.",
+        "summary": "AI 보급으로 인한 전력 수요 폭증과 에너지 안보 강화 필요성으로 전 세계 원자력 발전소 건설이 40년 만에 최고치를 기록하며, 2040년까지 600기 돌파가 예상된다.",
         "points": [
-          "중국 군사력 확장 가속화",
-          "미국 대응 전략 불확실성 증대",
-          "일본 내 자강론(自主防衛論) 강화",
-          "역사 문제 넘어선 한일 협력 필요성 강조"
+          "현재 전 세계 79기의 원자력 발전소 건설 중",
+          "인공지능(AI) 보급으로 막대한 전력 수요 발생",
+          "화석연료 가격 상승 및 에너지 안보 우려 증대",
+          "소형모듈원자로(SMR) 기술 개발 가속화 및 각광"
         ],
-        "quote": "한일관계는 항상 세심하게 관리해야 하는 관계다. 지금 같은 안보 지형 변화 속에서는 더욱 그렇다.",
-        "context": "미중 전략 경쟁 심화와 지역 안보 환경 변화 속에서 한국과 일본은 과거사 문제에 갇히지 않고 미래 지향적인 협력 모델을 구축하여 공동의 안보와 번영을 추구해야 한다는 목소리가 나옵니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009263346?sid=100"
+        "quote": "일부 전문가는 AI 수요가 SMR과 같은 혁신 기술을 통해 원자력 르네상스를 가져올 것으로 전망한다.",
+        "context": "기후 변화 대응과 안정적인 에너지 공급이라는 두 마리 토끼를 잡기 위해 각국이 원자력 발전의 역할을 재조명하며 대규모 투자를 단행하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005757913?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20geopolitical%20map%20of%20East%20Asia%2C%20China%20military%20power%2C%20US%20presence%2C%20Japan%20self-reliance%2C%20Korea-Japan%20cooperation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27325&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20nuclear%20power%20plant%20with%20glowing%20reactor%20core%2C%20data%20centers%20in%20background%2C%20clean%20energy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19228&nologo=true"
     },
     {
-      "id": "world-nk-crypto-theft",
+      "id": "world-003",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "comparison",
-      "title": "北 해커 탈취 가상화폐, 8조원 규모…연간 수출액의 3배",
-      "subtitle": "세계 최대 가상화폐 거래소 바이낸스 피해, 북한 연계 해킹조직 소행",
+      "viz_type": "comparison_chart",
+      "title": "🪨 희토류 '사마륨' 가격 346배 폭등, 서방 공급망 비상",
+      "subtitle": "중국 vs 서방, 전략 광물 확보 경쟁 속 글로벌 공급망 위기 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "8조원",
-            "label": "탈취 금액"
+            "value": "$1",
+            "label": "중국 가격"
           },
           {
-            "value": "3배",
-            "label": "北 수출액 대비"
+            "value": "$346",
+            "label": "미국 가격"
           },
           {
-            "value": "1.8만개",
-            "label": "비트코인 수량"
+            "value": "21만톤",
+            "label": "연간 수요"
+          },
+          {
+            "value": "36.5만톤",
+            "label": "2035년 예상 수요"
           }
         ],
-        "main_number": "8조 4천억+",
-        "main_text": "바이낸스 해킹 피해액"
+        "main_number": "+346배",
+        "main_text": "사마륨 가격 격차, 공급망 취약성 노출"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, digital currency, hacking, North Korea, large numbers, comparison of values, global impact",
+      "image_prompt": "cute pastel infographic illustration, rare earth elements, global supply chain, two hands pulling a resource, no text",
       "detail": {
-        "summary": "북한 연계 해킹조직이 세계 최대 가상화폐 거래소 바이낸스에서 약 8조 4천억원(14억 달러) 규모의 가상화폐를 탈취한 것으로 확인되었습니다. 이는 북한의 연간 수출액의 3배에 달하며, 엘살바도르 정부 보유량을 넘어섭니다.",
+        "summary": "중국에서 1달러인 희토류 사마륨이 미국에서 346달러에 거래되며 가격이 346배 폭등, 서방 세계의 전략 광물 공급망에 심각한 위기를 초래하고 있다.",
         "points": [
-          "세계 최대 거래소 바이낸스 해킹 피해",
-          "북한 연계 해킹조직 '라자루스' 지목",
-          "탈취액 8조4000억원, 북한 연간 수출액 3배",
-          "글로벌 금융 안보에 심각한 위협"
+          "중국과 서방 국가 간 희토류 공급망 통제 경쟁 심화",
+          "연간 21만 톤 수요에서 2035년 36만 5천 톤으로 수요 급증 예상",
+          "사마륨은 영구자석 제조 등 첨단 산업 핵심 소재",
+          "미국 등 서방국가, 중국 의존도 낮추기 위한 노력 가속화"
         ],
-        "quote": "북한의 가상화폐 탈취는 단순한 범죄를 넘어 글로벌 금융 시스템과 안보에 심각한 위협이 되고 있다.",
-        "context": "가상화폐는 북한 정권의 핵·미사일 개발 자금 조달의 주요 수단으로 지목되어 왔습니다. 이번 대규모 탈취 사건은 국제 사회의 대북 제재 노력을 약화시키고 불법 자금 흐름을 가속화할 수 있다는 우려를 낳고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002717265?sid=104"
+        "quote": "희토류 영구자석은 전기차, 풍력 터빈 등 친환경 기술의 핵심 부품으로, 공급망 안정화가 시급하다.",
+        "context": "글로벌 지정학적 긴장이 고조되면서 핵심 광물에 대한 통제권 확보가 국가 안보 및 경제 패권 경쟁의 중요 의제로 부상하고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026110217500394510c8c1c064d_1"
       },
-      "image_url": "data/images/2026-11-02/world-nk-crypto-theft.jpg"
+      "image_url": "data/images/2026-11-03/world-003.jpg"
     },
     {
-      "id": "economy-pediatric-rehab",
+      "id": "economy-001",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "📉 성장률↑ 체감↓... 뉴스심리지수 7개월 만에 최저",
+      "subtitle": "거시 경제지표 호조에도 국민 체감 경기 냉랭, 주가 하락·고금리 부담",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+1.0%",
+            "label": "3분기 GDP 성장률"
+          },
+          {
+            "value": "7개월",
+            "label": "심리지수 최저"
+          },
+          {
+            "value": "주가 하락",
+            "label": "주요 요인"
+          }
+        ],
+        "main_number": "-5점",
+        "main_text": "소비 심리 위축 지속될 전망"
+      },
+      "image_prompt": "cute pastel infographic illustration, two diverging lines (one up, one down), representing economic growth and public sentiment, no text",
+      "detail": {
+        "summary": "3분기 GDP 성장률 상향 조정 등 거시 경제 지표는 긍정적이나, 주가 하락과 고금리 부담으로 뉴스심리지수가 7개월 만에 최저치를 기록하며 국민 체감 경기는 냉랭하다.",
+        "points": [
+          "3분기 실질 국내총생산(GDP) 전 분기 대비 1.0% 성장",
+          "성장률 전망치 상향 조정 및 수출 호조 지속",
+          "주가 하락, 금리 상승이 국민 체감 경기에 부정적 영향",
+          "당분간 소비 심리 개선 어려울 것으로 예상"
+        ],
+        "quote": "거시적 경제 지표의 호조에도 불구하고 국민이 체감하는 민생의 온도는 여전히 차갑기만 하다.",
+        "context": "경제지표와 국민 체감 경기 간의 괴리는 소득 양극화 심화, 생활 물가 상승 등 복합적인 요인에 기인하며 정책적 해법 마련이 요구된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016417149?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20diverging%20lines%20%28one%20up%2C%20one%20down%29%2C%20representing%20economic%20growth%20and%20public%20sentiment%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38334&nologo=true"
+    },
+    {
+      "id": "economy-002",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "bar_chart",
-      "title": "소아재활 환자 30% 증가, 치료기관은 18% 감소…불균형 심화",
-      "subtitle": "어린이 재활 수요 급증에도 불구하고 인프라 부족 심각",
+      "title": "🚗 美 완성차 업계, 중국산 차량 수입 금지 촉구",
+      "subtitle": "높아지는 미중 무역 장벽, 글로벌 자동차 산업 공급망 재편 압박",
       "viz_data": {
         "stats": [
           {
-            "value": "+30%",
-            "label": "환자 증가"
+            "value": "높은 관세",
+            "label": "현행 정책"
           },
           {
-            "value": "-18%",
-            "label": "기관 감소"
+            "value": "수입 금지법",
+            "label": "업계 요구"
           },
           {
-            "value": "미충족",
-            "label": "의료 수요"
+            "value": "유럽 시장",
+            "label": "급증 경고"
           }
         ],
-        "main_number": "수요 ↑ 공급 ↓",
-        "main_text": "소아재활 의료 불균형"
+        "main_number": "+25%",
+        "main_text": "美, 중국산 전기차에 대한 높은 관세 유지"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, children, physical therapy, hospital, shrinking number of facilities, growing number of patients",
+      "image_prompt": "cute pastel infographic illustration, US and China flags with cars, trade barriers, no text",
       "detail": {
-        "summary": "소아 재활 환자는 30% 급증한 반면, 어린이 재활 의료기관은 18% 감소하며 의료 공백이 심화되고 있습니다. 시범사업에도 불구하고 정책적 노력이 부족하다는 지적입니다.",
+        "summary": "미국 완성차업계가 의회에 중국산 차량 수입 금지법 처리를 촉구하며, 현재 높은 관세를 유지하고 있는 미국 정부와 중국 간 무역 갈등이 심화되고 있다.",
         "points": [
-          "소아 재활 환자 수 30% 증가",
-          "어린이 재활 치료기관 18% 감소",
-          "환자 가족 경제적 부담 감소 성과 있었으나 한계",
-          "지역사회 연계 서비스 활성화 필요"
+          "미국 완성차업계, 중국산 차량의 감시 위험 및 불이익 경고",
+          "중국 외교부, 시장 경제 원칙 존중 및 부당 제재 중단 촉구",
+          "유럽 시장 내 중국차 급증 사례 언급하며 입법 시급성 강조",
+          "정치적 일정 및 다수당 지위 변화로 연내 처리 불투명"
         ],
-        "quote": "이러한 정책적 노력에도 불구하고 소아재활 의료 접근성은 여전히 미흡하며, 불균형이 심화되고 있다.",
-        "context": "어린이 재활은 성장 발달에 매우 중요하지만, 낮은 수익성 등으로 인해 관련 의료기관이 부족해 환자와 가족들이 어려움을 겪고 있습니다. 이는 사회 전체의 건강과 직결되는 문제로, 정책적 개선이 시급합니다.",
-        "source_url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044174"
+        "quote": "미국 시장을 보호하고, 투자해 온 기존 제조업체들에 대한 불이익을 막기 위해 중국산 수입품의 범람을 막아야 한다.",
+        "context": "미국과 중국 간의 경제 패권 다툼이 첨단 산업을 넘어 자동차 산업으로 확산되며, 글로벌 공급망과 각국의 산업 정책에 중대한 영향을 미치고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026110305464446602bd56fbc3c_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20children%2C%20physical%20therapy%2C%20hospital%2C%20shrinking%20number%20of%20facilities%2C%20growing%20number%20of%20patients%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58025&nologo=true"
+      "image_url": "data/images/2026-11-03/economy-002.jpg"
     },
     {
-      "id": "economy-shipbuilding-defense-3rdgen",
+      "id": "economy-003",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "comparison",
-      "title": "조선·방산 3세 리더십: HD한국조선해양 37%↑ vs 한화에어로스페이스 46%↓",
-      "subtitle": "오너 3세 경영 체제, 주력 사업 희비 교차",
+      "viz_type": "bar_chart",
+      "title": "💊 국산 비만신약 '에페', 수입 약 대비 최대 56% 저렴",
+      "subtitle": "비만 치료제 시장 경쟁 심화, 환자 경제적 부담 경감 기대",
       "viz_data": {
         "stats": [
           {
-            "value": "+37%",
-            "label": "HD한국조선해양"
+            "value": "-56%",
+            "label": "가격 경쟁력"
           },
           {
-            "value": "-46%",
-            "label": "한화에어로스페이스"
+            "value": "국산 신약",
+            "label": "개발"
           },
           {
-            "value": "빅이벤트",
-            "label": "수주 기대"
+            "value": "치료 경제성",
+            "label": "강조"
           }
         ],
-        "main_number": "희비 교차",
-        "main_text": "3세 리더십 1년/100일 성과"
+        "main_number": "+10%",
+        "main_text": "글로벌 비만 치료 시장 규모 확대"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, two companies, performance comparison, graphs up and down, shipbuilding, defense industry, business leaders",
+      "image_prompt": "cute pastel infographic illustration, comparison of two medicine bottles, one cheaper with a leaf, one more expensive, no text",
       "detail": {
-        "summary": "HD한국조선해양 정기선 회장과 한화에어로스페이스 김동관 수석부회장의 3세 경영이 1년, 100일을 맞은 가운데, 양사 주력 사업의 희비가 엇갈리고 있습니다. 조선업은 영업이익이 37% 증가했으나, 방산은 46% 감소했습니다.",
+        "summary": "한미약품의 국산 비만신약 '에페'가 다국적 제약사 제품 대비 최대 56% 저렴한 가격으로 출시되어 비만 환자들의 경제적 부담을 줄일 것으로 기대된다.",
         "points": [
-          "HD한국조선해양 영업이익 37% 증가",
-          "한화에어로스페이스 영업이익 46% 감소",
-          "조선업 임단협 타결로 노사 리스크 일단락",
-          "방산 분야 연말연초 국내외 수주 빅이벤트 기대"
+          "국산 비만신약의 높은 가격 경쟁력 부각",
+          "체중 감량률 외 비만 동반 질환 개선 등 가치 강조",
+          "글로벌 비만약 시장에서 국내 제약사의 위상 변화 반영",
+          "고령화 시대에 맞춰 비만 치료제 수요 증가 예상"
         ],
-        "quote": "오너 3세 리더십이 주력 사업의 희비에 결정적 영향을 미치고 있다.",
-        "context": "각 사의 핵심 사업 성과가 오너 3세 리더십의 첫 시험대로 평가받고 있습니다. 조선업은 회복세를 보이고 있으나 방산은 수주 지연 등으로 어려움을 겪고 있어, 향후 리더십의 방향성과 경영 전략에 귀추가 주목됩니다.",
-        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301507222550941"
+        "quote": "비만은 당뇨병, 고혈압, 이상지질혈증 등 만성질환과 밀접하게 연관되어 있어 체중 감량 이상의 치료 가치를 가진다.",
+        "context": "글로벌 비만 치료제 시장이 급격히 성장하는 가운데, 국내 제약사들이 가격 경쟁력을 갖춘 신약을 선보이며 시장 점유율 확대를 노리고 있다.",
+        "source_url": "https://www.dailymedi.com/news/news_view.php?wr_id=942159"
       },
-      "image_url": "data/images/2026-11-02/economy-shipbuilding-defense-3rdgen.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20comparison%20of%20two%20medicine%20bottles%2C%20one%20cheaper%20with%20a%20leaf%2C%20one%20more%20expensive%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=615&nologo=true"
     },
     {
-      "id": "economy-domestic-raw-materials",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "신규 등록 원료 7%만 국내산…의약품 원료 국산화율 딜레마",
-      "subtitle": "상반기 전체 신규 등록 원료의 93%가 해외산, 약가 우대도 '그림의 떡'",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "7%",
-            "label": "국내산"
-          },
-          {
-            "value": "93%",
-            "label": "해외산"
-          },
-          {
-            "value": "안보 위협",
-            "label": "공급망"
-          }
-        ],
-        "main_number": "원료 자급률 ↓",
-        "main_text": "의약품 안보 위협"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, pie chart, chemical compounds, factory, domestic vs imported, supply chain, medicine",
-      "detail": {
-        "summary": "올해 상반기 신규 등록된 의약품 원료 중 국내산은 단 7%에 불과하며, 국산 원료 사용에 대한 약가 우대 정책도 실효성이 미미하다는 지적이 나옵니다. 이는 의약품 안보에도 위협이 될 수 있습니다.",
-        "points": [
-          "상반기 신규 등록 원료 중 국내산 7%에 불과",
-          "약가 우대 제도 실효성 부족 지적",
-          "해외 원료 공급 중단 시 국내 의약품 생산 기반 위협",
-          "경제적 측면 넘어 의약품 안보 차원의 중요성"
-        ],
-        "quote": "국산 원료의약품 활성화는 경제적인 측면을 떠나 의약품 안보 차원에서도 중요하다.",
-        "context": "필수 의약품 생산에 필요한 원료의 대부분을 해외 수입에 의존하는 것은 글로벌 공급망 불안정 시 의약품 부족 사태로 이어질 수 있습니다. 국내 원료의약품 산업의 활성화와 자급률 제고가 시급한 과제로 떠오르고 있습니다.",
-        "source_url": "https://www.apsk.co.kr/news/articleView.html?idxno=540923"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20pie%20chart%2C%20chemical%20compounds%2C%20factory%2C%20domestic%20vs%20imported%2C%20supply%20chain%2C%20medicine%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6349&nologo=true"
-    },
-    {
-      "id": "tech-samsung-future-strategy",
+      "id": "tech-001",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "이재용 회장, '초격차' 현장 경영…로봇·반도체 미래 기술 집중",
-      "subtitle": "삼성전자, CES 2027 휴머노이드 로봇 공개 기대감 고조",
+      "viz_type": "funnel_chart",
+      "title": "🚀 AI 수익, '유통 장악' 기업에 집중... 새 비즈니스 모델 부각",
+      "subtitle": "AI 기술 혁신이 불러올 경제적 가치 분배의 변화",
       "viz_data": {
         "stats": [
           {
-            "value": "현장 경영",
-            "label": "강화"
+            "value": "2그룹",
+            "label": "수혜 기업"
           },
           {
-            "value": "로봇",
+            "value": "모델 개발사",
+            "label": "기술 혁신"
+          },
+          {
+            "value": "플랫폼",
+            "label": "가치 전달"
+          }
+        ],
+        "main_number": "+30%",
+        "main_text": "AI 산업 가치 창출 구조 변화 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration, funnel diagram showing AI value flowing to specific companies, with tech and distribution icons, no text",
+      "detail": {
+        "summary": "AI 기술의 경제적 이익이 기술 모델 개발사뿐 아니라 이를 효과적으로 배포하고 활용하는 '유통을 장악한' 기업에 집중될 것이라는 분석이 나왔다.",
+        "points": [
+          "AI 기술 개발 기업과 유통 플랫폼 기업으로 수혜 집단 구분",
+          "오픈AI, 앤스로픽 등 모델 개발사의 역할 중요성 강조",
+          "AI 기술을 실제 제품 및 서비스에 적용하는 기업의 가치 증대",
+          "산업 전반의 비즈니스 모델 재편 가속화"
+        ],
+        "quote": "가장 큰 수혜는 이 기술을 어떻게 활용하고 유통하는지에 따라 결정될 것이다.",
+        "context": "인공지능 기술이 전 산업 분야에 걸쳐 혁신을 가져오는 가운데, AI가 창출하는 막대한 경제적 가치가 어디로 흘러갈지에 대한 관심이 커지고 있다.",
+        "source_url": "https://econotimes.com/Manidis-says-AI-gains-will-flow-to-companies-controlling-distribution-1769210"
+      },
+      "image_url": "data/images/2026-11-03/tech-001.jpg"
+    },
+    {
+      "id": "tech-002",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "📈 예측 시장 플랫폼 칼시, 10억 달러 투자 유치 및 3천만 계정 돌파",
+      "subtitle": "미래 예측 서비스 시장 고속 성장, 기관 및 글로벌 확장 가속화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10억 달러",
+            "label": "투자 유치"
+          },
+          {
+            "value": "3천만+",
+            "label": "계정 수"
+          },
+          {
+            "value": "기관 비즈니스",
+            "label": "확장 목표"
+          }
+        ],
+        "main_number": "+50%",
+        "main_text": "예측 시장 플랫폼 시장 성장률"
+      },
+      "image_prompt": "cute pastel infographic illustration, growth chart with upward arrow, dollar signs and user icons, representing platform growth, no text",
+      "detail": {
+        "summary": "예측 시장 플랫폼 칼시(Kalshi)가 10억 달러 규모의 투자를 유치하고 3천만 개 이상의 계정을 확보하며 빠르게 성장하고 있으며, 기관 비즈니스 및 국제 시장 확장을 계획하고 있다.",
+        "points": [
+          "칼시, 기관 투자 유치를 통해 사업 확장 기반 마련",
+          "3천만 개 이상의 사용자 계정으로 높은 시장 침투율 입증",
+          "주식 지수 연계 시장, 영구 계약 등 상품 로드맵 구체화",
+          "글로벌 시장으로의 진출을 통해 성장 동력 확보"
+        ],
+        "quote": "예측 시장은 정보 불균형을 해소하고 미래 불확실성에 대한 효율적인 헤징 수단을 제공할 수 있다.",
+        "context": "미래의 사건에 대한 결과를 예측하고 거래하는 예측 시장이 새로운 투자 및 정보 플랫폼으로 부상하며 큰 자본이 유입되고 있다.",
+        "source_url": "https://econotimes.com/Kalshi-Raises-1-Billion-Reports-More-Than-30-Million-Accounts-1769204"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20growth%20chart%20with%20upward%20arrow%2C%20dollar%20signs%20and%20user%20icons%2C%20representing%20platform%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74947&nologo=true"
+    },
+    {
+      "id": "tech-003",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "🩺 폐암 검진 시장, AI와 장기 인프라 구축 경쟁 치열",
+      "subtitle": "의료 IT 업계, 차세대 AI 기반 대규모 인프라 구축으로 경쟁력 확보",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "조기 검진",
+            "label": "강조"
+          },
+          {
+            "value": "AI 도입",
             "label": "핵심 기술"
           },
           {
-            "value": "반도체",
-            "label": "미래 투자"
+            "value": "인프라 구축",
+            "label": "장기 과제"
           }
         ],
-        "main_number": "CES 2027",
-        "main_text": "휴머노이드 로봇 공개?"
+        "main_number": "+15%",
+        "main_text": "글로벌 의료 AI 시장 성장률 예상"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, Samsung logo, robot arm, semiconductor chip, innovation, future technology, leader figure",
+      "image_prompt": "cute pastel infographic illustration, medical imaging, AI brain graphic, lung graphic, technology infrastructure, no text",
       "detail": {
-        "summary": "삼성 이재용 회장이 '초격차' 기술 확보를 위해 로봇과 반도체 현장을 연이어 방문하며 미래 기술 투자에 박차를 가하고 있습니다. 내년 1월 CES 2027에서 삼성전자의 휴머노이드 로봇 공개 여부에도 관심이 집중됩니다.",
+        "summary": "폐암 인식 증진의 달을 맞아 글로벌 폐암 검진 시장에서 조기 검진의 중요성이 강조되는 가운데, 의료 IT 업계는 차세대 AI 기술을 활용한 장기 인프라 구축을 통해 경쟁력을 확보하고 있다.",
         "points": [
-          "이재용 회장, 로봇·반도체 현장 경영",
-          "'초격차' 기술 확보 위한 전략적 행보",
-          "제조 현장 활용 로봇 기술 개발",
-          "CES 2027 휴머노이드 로봇 공개 가능성"
+          "폐암 조기 검진의 중요성 사회적 인식 확대",
+          "차세대 의료 AI 기술이 검진 정확도 및 효율성 향상",
+          "대규모 데이터 기반의 장기적인 의료 인프라 구축 필요",
+          "글로벌 시장에서 의료 AI 솔루션 경쟁 심화"
         ],
-        "quote": "미래 산업의 핵심인 로봇과 반도체 기술에서 압도적인 초격차를 확보하는 것이 중요하다.",
-        "context": "글로벌 기술 경쟁이 심화되는 가운데, 삼성전자는 반도체 분야의 초격차를 유지하고 로봇 등 신사업을 통해 미래 성장 동력을 확보하려는 전략입니다. 이는 인공지능 시대를 선도하기 위한 중요한 투자로 평가됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014293490?sid=101"
+        "quote": "차세대 의료 AI의 승패는 대규모 인프라 구축을 얼마나 잘 이뤄내는가에 달려 있다.",
+        "context": "의료 분야에서 AI 기술의 활용이 점차 확대되면서, 진단 및 치료 영역에서의 혁신과 함께 관련 시장의 성장 가능성이 주목받고 있다.",
+        "source_url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015436"
       },
-      "image_url": "data/images/2026-11-02/tech-samsung-future-strategy.jpg"
+      "image_url": "data/images/2026-11-03/tech-003.jpg"
     },
     {
-      "id": "tech-medical-ai-regulation",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "의료 AI 정식등재, 내년 1분기 윤곽…시장 전환 분수령",
-      "subtitle": "임시등재 기업들, 임상 효과·경제성 입증 과제 직면",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "내년 1분기",
-            "label": "정식등재 윤곽"
-          },
-          {
-            "value": "임시등재",
-            "label": "기업 전환"
-          },
-          {
-            "value": "임상효과",
-            "label": "경제성 입증"
-          }
-        ],
-        "main_number": "규제 전환",
-        "main_text": "의료 AI 시장 재편"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, medical AI, stethoscope, brain with circuits, legal documents, timeline, regulation",
-      "detail": {
-        "summary": "의료 인공지능(AI) 기술의 건강보험 정식등재 체계 윤곽이 내년 1분기에 드러날 예정입니다. 기존 임시등재 기업들은 실제 임상적 효과와 경제성, 환자 편익을 입증해야 하는 중요한 과제를 안게 됩니다.",
-        "points": [
-          "의료 AI 건강보험 정식등재 기준 논의",
-          "내년 1분기 정식등재체계 윤곽 예상",
-          "임시등재 기업, 임상적 효과·경제성·환자 편익 입증 필요",
-          "의료 AI 시장의 중요한 전환점"
-        ],
-        "quote": "정식등재체계가 마련되면 의료 AI 기업들은 실제 임상적 효과와 경제성을 입증해야 하는 과제를 안게 될 것이다.",
-        "context": "의료 AI 기술의 발전은 환자 진료의 효율성과 정확도를 높일 잠재력이 크지만, 건강보험 적용을 위한 명확한 기준이 마련되지 않아 시장 확대에 어려움이 있었습니다. 이번 정식등재 체계는 기술 도입과 시장 성장의 중요한 전환점이 될 것입니다.",
-        "source_url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015327"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20medical%20AI%2C%20stethoscope%2C%20brain%20with%20circuits%2C%20legal%20documents%2C%20timeline%2C%20regulation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53222&nologo=true"
-    },
-    {
-      "id": "tech-singapore-ai-hub",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "stats_overview",
-      "title": "좁고 더운 싱가포르, 아시아 AI 허브로 우뚝 서다",
-      "subtitle": "전력 공급 한계 극복 위한 전방위적 효율 극대화 전략",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "아시아",
-            "label": "AI 허브"
-          },
-          {
-            "value": "전력 효율",
-            "label": "극대화"
-          },
-          {
-            "value": "인프라",
-            "label": "IT 장비"
-          }
-        ],
-        "main_number": "↑ 효율",
-        "main_text": "AI 성장 돌파구"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, Singapore skyline, computer chips, data center, cooling fan, efficiency, AI brain",
-      "detail": {
-        "summary": "송전망 병목과 전력 공급의 한계에도 불구하고 싱가포르는 인프라와 IT 장비를 아우르는 '전방위적 효율 극대화' 전략을 통해 아시아 AI 허브로 성장하고 있습니다. 이는 전 세계 데이터센터 인프라 확충에 중요한 시사점을 줍니다.",
-        "points": [
-          "송전망 병목·전력 공급 한계 직면",
-          "인프라 및 IT 장비 효율 극대화 전략",
-          "아시아 AI 허브로 부상",
-          "글로벌 데이터센터 환경 규제 준수 압박 증가"
-        ],
-        "quote": "유일한 돌파구는 인프라와 IT(정보기술) 장비를 아우르는 '전방위적 효율 극대화'뿐이다.",
-        "context": "기후 변화 대응과 에너지 효율성 증대가 전 세계적인 과제가 되면서, 데이터센터와 같은 대규모 전력 소비 시설의 지속가능한 운영이 중요해졌습니다. 싱가포르의 사례는 제한된 자원 속에서 AI 인프라를 구축하는 모델을 제시합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005434886?sid=101"
-      },
-      "image_url": "data/images/2026-11-02/tech-singapore-ai-hub.jpg"
-    },
-    {
-      "id": "society-parliament-nov-agenda",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "국감 종료 후 '격랑의 11월 국회'…예산·국조·특검 3중 전선",
-      "subtitle": "2일 시정연설 시작으로 예산안 심사, 여야 강대강 대치 예고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2일",
-            "label": "시정연설"
-          },
-          {
-            "value": "예산안",
-            "label": "심사"
-          },
-          {
-            "value": "국조·특검",
-            "label": "쟁점"
-          }
-        ],
-        "main_number": "11월",
-        "main_text": "국회 주요 일정"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, parliament building, calendar, gears, political figures debating, budget documents",
-      "detail": {
-        "summary": "국정감사가 마무리되면서 11월 국회는 2일 대통령 시정연설을 시작으로 2027년도 예산안 심사, 국정조사, 특검 등 '3중 전선'이 펼쳐지며 여야의 강대강 대치가 예상됩니다.",
-        "points": [
-          "11월 2일 대통령 시정연설 예정",
-          "2027년도 예산안 심사 돌입",
-          "국정조사 및 특검 추진 논의",
-          "여야의 강대강 대치 국면 지속 예상"
-        ],
-        "quote": "여야의 강대강 대치 국면이 내년도 예산안 심사 등 핵심 일정까지 이어질 것이다.",
-        "context": "국회는 국가의 중요한 정책 방향과 예산을 결정하는 핵심적인 역할을 수행합니다. 격화되는 여야 대립 속에서 예산안 심사 등 민생과 직결된 주요 일정이 원활히 진행될 수 있을지 주목됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/417/0001162854?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20parliament%20building%2C%20calendar%2C%20gears%2C%20political%20figures%20debating%2C%20budget%20documents%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9227&nologo=true"
-    },
-    {
-      "id": "society-pharmacy-welfare-net",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "flow_chart",
-      "title": "약국, 위기가구 발굴 '지역 안전망' 확대…내년 복지예산 반영",
-      "subtitle": "환자 상담 통해 복지 사각지대 해소 기여, 활동 보상 예산 국회 심의 주목",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "약국",
-            "label": "발굴 거점"
-          },
-          {
-            "value": "위기가구",
-            "label": "연계"
-          },
-          {
-            "value": "복지예산",
-            "label": "반영"
-          }
-        ],
-        "main_number": "확대",
-        "main_text": "지역사회 안전망"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, pharmacy, pharmacist talking to patient, connecting to social worker, community, safety net, budget money",
-      "detail": {
-        "summary": "약국이 환자 상담과 복약지도 과정에서 경제적 어려움이나 돌봄 공백 등 위기가구를 발견하여 공공 복지체계로 연계하는 '지역사회 안전망' 역할을 확대하며, 이에 대한 보상 예산이 내년 정부 예산안에 반영되어 국회 심의를 앞두고 있습니다.",
-        "points": [
-          "약국, 복지 사각지대 위기가구 발굴 역할",
-          "환자 상담 및 복약지도 과정 활용",
-          "발굴 활동에 대한 보상 예산 정부안 반영",
-          "한국사회보장정보원과 협력 전국망 구축"
-        ],
-        "quote": "약국에서 복지 대상자를 선정하거나 직접 복지서비스를 제공하는 것이 아니라, 공공체계로 연결하는 역할이다.",
-        "context": "복지 사각지대 해소는 중요한 사회적 과제입니다. 접근성이 높은 약국이 일상 속에서 위기가구를 조기에 발견하고 지원 시스템으로 연결하는 것은 지역사회 복지 체계를 강화하고 국민 삶의 질을 향상하는 데 크게 기여할 수 있습니다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547769"
-      },
-      "image_url": "data/images/2026-11-02/society-pharmacy-welfare-net.jpg"
-    },
-    {
-      "id": "society-university-ranking",
+      "id": "society-001",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "bar_chart",
-      "title": "대학 평가 순위, '인지적 종결 욕구'의 덫인가?",
-      "subtitle": "수치화된 데이터 맹신과 사회적 지위 증명 수단으로 변질되는 대학 평가",
+      "title": "🎭 공연 시장 양극화: 연극 43%↑, 뮤지컬 14%↓",
+      "subtitle": "공연 회차는 늘었지만 관객 지갑은 닫혀... 장르별 희비 교차",
       "viz_data": {
         "stats": [
           {
-            "value": "순위",
-            "label": "집착"
+            "value": "+43%",
+            "label": "연극 판매액"
           },
           {
-            "value": "데이터",
-            "label": "맹신"
+            "value": "-14.1%",
+            "label": "뮤지컬 판매액"
           },
           {
-            "value": "사회적 지위",
-            "label": "증명"
+            "value": "-8.3%",
+            "label": "뮤지컬 회차 감소"
+          },
+          {
+            "value": "-11.9%",
+            "label": "뮤지컬 예매수 감소"
           }
         ],
-        "main_number": "≠",
-        "main_text": "실질적 개선"
+        "main_number": "+10%",
+        "main_text": "전체 공연 시장 회복세 속 양극화 심화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, university building, ranking podium, students, question mark, critical thinking, numbers vs quality",
+      "image_prompt": "cute pastel infographic illustration, bar chart showing growth for theater mask icon and decline for musical notes icon, no text",
       "detail": {
-        "summary": "대학 평가 순위에 대한 사회적 집착은 '세계 몇 위'라는 명확한 숫자를 통해 인지적 종결 욕구를 충족시키려는 경향과, 대학이 사회적 지위를 증명하는 수단으로 변질되는 현상으로 분석됩니다.",
+        "summary": "공연 회차는 증가했지만, 연극은 판매액이 43% 늘어난 반면 뮤지컬은 14% 감소하는 등 공연 시장 내 장르별 양극화 현상이 심화되고 있다.",
         "points": [
-          "대학 평가 순위에 대한 사회적 집착",
-          "'인지적 종결 욕구'에 따른 명확한 숫자 선호",
-          "수치화된 데이터의 과학적·공정성 맹신",
-          "실질적 개선보다 순위 올리기에 집중"
+          "연극 티켓 판매액이 전년 대비 43% 증가하며 성장 견인",
+          "뮤지컬 티켓 판매액은 14.1% 하락, 공연 건수 및 회차 감소",
+          "관객들이 선호하는 장르와 콘텐츠의 변화 반영",
+          "경제 상황과 소비자들의 문화 소비 패턴 변화 영향"
         ],
-        "quote": "수치화된 데이터가 과학적이고 공정하다는 착각과 함께, 높은 순위를 소속 구성원의 가치와 동일시하며 사회적 지위를 증명하려는 심리도 작용한다.",
-        "context": "대학 평가는 교육의 질 향상과 연구 역량 강화를 위한 도구여야 하지만, 과도한 순위 경쟁은 대학 본연의 가치와 교육 철학을 훼손할 수 있습니다. 성과 중심의 평가를 넘어 본질적인 발전을 모색하는 시각이 필요합니다.",
-        "source_url": "https://news.unn.net/news/articleView.html?idxno=599203"
+        "quote": "대형 블록버스터 뮤지컬보다 소극장 연극에 대한 관객들의 관심이 높아지고 있다.",
+        "context": "코로나19 팬데믹 이후 회복세를 보이던 공연 시장이 장르별로 다른 성장 양상을 보이며, 대중의 문화 콘텐츠 소비 트렌드 변화를 분석할 필요성이 제기되고 있다.",
+        "source_url": "https://www.newdaily.co.kr/site/data/html/2026/11/02/2026110200308.html"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20university%20building%2C%20ranking%20podium%2C%20students%2C%20question%20mark%2C%20critical%20thinking%2C%20numbers%20vs%20quality%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=42369&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20bar%20chart%20showing%20growth%20for%20theater%20mask%20icon%20and%20decline%20for%20musical%20notes%20icon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74699&nologo=true"
     },
     {
-      "id": "life-annuity-insurance-trend",
+      "id": "society-002",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "🤝 포용금융 종합평가체계 도입, 서민 금융 지원 확대",
+      "subtitle": "5대 금융 지배구조부터 채무조정까지... 사회적 배려 강화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5대 부문",
+            "label": "평가 항목"
+          },
+          {
+            "value": "서민 금융",
+            "label": "공급 확대"
+          },
+          {
+            "value": "복합지원센터",
+            "label": "신설"
+          }
+        ],
+        "main_number": "+10%",
+        "main_text": "서민 금융 지원 예산 증액 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration, hands holding up a house and money, representing inclusive finance, five different icons for categories, no text",
+      "detail": {
+        "summary": "금융위원회가 '포용금융 종합평가체계'를 새로 도입하여 지배구조, 자금공급 등 5개 부문을 중심으로 서민 금융 지원을 늘리고 지역 복합지원센터를 신설할 계획이다.",
+        "points": [
+          "지배구조, 자금공급, 채무조정 등 5개 핵심 부문 평가",
+          "은행들의 사회적 책임 및 서민 금융 지원 의무 강화",
+          "지역 복합지원센터 신설로 금융 접근성 향상 기대",
+          "정책 효과 극대화를 위한 금융기관의 전담 조직 신설 독려"
+        ],
+        "quote": "금융 취약 계층이 소외되지 않도록 금융기관의 역할을 더욱 강화할 것이다.",
+        "context": "금융의 사회적 역할이 강조되면서, 취약 계층에 대한 지원을 확대하고 금융 불평등을 해소하기 위한 정책적 노력이 지속되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016417150?sid=101"
+      },
+      "image_url": "data/images/2026-11-03/society-002.jpg"
+    },
+    {
+      "id": "society-003",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "🗣️ 日 청년층 '한본어' 유행, K-컬처가 언어 트렌드 변화 주도",
+      "subtitle": "한국 문화의 영향력 확산, 일본 젊은 세대 언어 생활에 스며들다",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "K-팝",
+            "label": "주요 요인"
+          },
+          {
+            "value": "SNS",
+            "label": "확산 채널"
+          },
+          {
+            "value": "청년층",
+            "label": "주요 사용자"
+          }
+        ],
+        "main_number": "+30%",
+        "main_text": "일본 내 한국어 학습자 증가율 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration, Japanese and Korean speech bubbles mixing, young people engaging with K-pop, no text",
+      "detail": {
+        "summary": "일본 젊은 층 사이에서 한국어와 일본어를 섞어 쓰는 '한본어'가 유행하며, K-팝과 한국 문화가 일본의 언어 트렌드 변화를 주도하고 있음을 보여준다.",
+        "points": [
+          "한국어를 섞어 쓰는 것이 K-팝, 한국 문화 팬임을 나타내는 방식",
+          "주로 SNS를 통해 '괜찮아', '언니' 등 한국어 표현 확산",
+          "과거 숨겨 쓰던 한국어가 이제는 문화적 매력으로 소비",
+          "한일 양국의 역사적 관계 변화와 문화 교류 증대 반영"
+        ],
+        "quote": "한국어를 유창하게 구사하지 못해도 '괜찮아'는 즐겨 쓴다.",
+        "context": "한류가 일본 사회 전반에 깊숙이 침투하며 단순한 대중문화 소비를 넘어 언어와 라이프스타일에까지 영향을 미치고 있음을 보여주는 현상이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004677980?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Japanese%20and%20Korean%20speech%20bubbles%20mixing%2C%20young%20people%20engaging%20with%20K-pop%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66308&nologo=true"
+    },
+    {
+      "id": "life-001",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "연 4.8% 연금보험 인기, 보험사 '역마진 경고등' 켜졌다",
-      "subtitle": "고금리 확정형 상품에 가입자 몰려…은행 정기예금 금리 웃돌아",
+      "title": "📚 '텍스트힙' 열풍에 서점 매출 9%↑, 2030 독서 트렌드 변화",
+      "subtitle": "독서를 감각적인 라이프스타일로 즐기는 '텍스트힙' 현상 확산",
       "viz_data": {
         "stats": [
           {
-            "value": "4.8%",
-            "label": "연금보험 금리"
+            "value": "20·30대",
+            "label": "주요 연령층"
           },
           {
-            "value": "3.6%",
-            "label": "정기예금 금리"
+            "value": "+9%",
+            "label": "서점 매출 증가"
           },
           {
-            "value": "역마진",
-            "label": "보험사 우려"
+            "value": "40대 37%",
+            "label": "최다 이용층"
+          },
+          {
+            "value": "작은 책방",
+            "label": "매출 감소"
           }
         ],
-        "main_number": "↑",
-        "main_text": "연금보험 인기"
+        "main_number": "+20%",
+        "main_text": "독서 관련 소셜 미디어 언급량 증가"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, piggy bank, pension, money, graphs showing interest rates, warning sign",
+      "image_prompt": "cute pastel infographic illustration, young people reading books stylishly, bookstore with increased sales, no text",
       "detail": {
-        "summary": "동양생명, 한화생명, KB라이프 등 보험사들이 연 4.52~4.84%의 확정금리를 내건 연금보험을 판매하며 인기를 끌고 있습니다. 이는 시중은행 1년 만기 정기예금 최고금리보다 높은 수준으로, 보험사들의 역마진 우려가 제기되고 있습니다.",
+        "summary": "20·30세대를 중심으로 독서를 감각적인 라이프스타일로 소비하는 '텍스트힙' 현상이 확산되며 서점 매출이 9% 증가했지만, 작은 책방은 매출 감소를 겪고 있다.",
         "points": [
-          "연 4.5~4.8%대 확정금리 연금보험 판매",
-          "4대 은행 1년 만기 정기예금 금리(3.6%) 상회",
-          "고금리 매력으로 가입자 증가",
-          "보험사 역마진 발생 가능성 우려"
+          "20·30세대가 독서를 '힙'한 라이프스타일로 소비",
+          "전체 서점 매출 증가에도 불구하고 작은 책방은 어려움",
+          "40대가 서점 매출의 37%를 차지하며 여전히 주요 고객층",
+          "독서 관련 소셜 미디어 콘텐츠 및 커뮤니티 활성화"
         ],
-        "quote": "고금리 확정형 연금보험은 고객에게는 매력적이지만, 보험사 입장에서는 운용 부담이 커 역마진 우려가 있다.",
-        "context": "금리 상승기에 소비자들은 더 높은 수익률을 기대하며 금융 상품을 선택합니다. 그러나 보험사 입장에서는 지급해야 할 금리가 운용 수익률을 초과할 경우 역마진이 발생할 수 있어, 리스크 관리와 상품 설계의 균형이 중요합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/417/0001162850?sid=101"
+        "quote": "독서는 단순히 지식을 얻는 것을 넘어 자신을 표현하는 중요한 매개가 되었다.",
+        "context": "MZ세대의 새로운 문화 소비 트렌드가 독서 시장에도 영향을 미치며, 개인의 취향과 라이프스타일을 중시하는 경향이 더욱 뚜렷해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016417152?sid=101"
       },
-      "image_url": "data/images/2026-11-02/life-annuity-insurance-trend.jpg"
+      "image_url": "data/images/2026-11-03/life-001.jpg"
     },
     {
-      "id": "life-kfood-global",
+      "id": "life-002",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "💰 고령화 사회, 종신보험 '생전 활용' 강조로 변화",
+      "subtitle": "사망 보장 넘어 생활 자금, 간병 등 생애 주기 맞춤형 상품 확산",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "납입 보험료",
+            "label": "생전 활용"
+          },
+          {
+            "value": "사망 보장",
+            "label": "기존 초점"
+          },
+          {
+            "value": "고령화",
+            "label": "사회 변화"
+          }
+        ],
+        "main_number": "+15%",
+        "main_text": "생전 활용 가능한 보험 상품 판매 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, elderly couple enjoying life, money flowing from a life insurance policy, no text",
+      "detail": {
+        "summary": "고령화 사회에 맞춰 종신보험이 사망 보장 중심에서 납입한 보험료를 생전에 생활 자금이나 간병 등으로 활용할 수 있도록 변화하며, 주요 생명보험사들이 관련 상품을 선보이고 있다.",
+        "points": [
+          "주요 생보사, 납입 보험료의 생전 활용 강조 상품 출시",
+          "사망 보장과 함께 노후 생활 자금, 간병비 등 기능 확대",
+          "고령층의 생애 주기 재무 설계에 대한 관심 증가",
+          "보험 시장의 고령화 맞춤형 상품 개발 경쟁 심화"
+        ],
+        "quote": "'죽은 뒤 1억원 주면 무슨 소용있나'는 고령층의 현실적 고민을 담고 있다.",
+        "context": "기대 수명 증가와 은퇴 후 삶에 대한 관심이 높아지면서, 보험 상품 또한 단순한 사후 보장을 넘어 생애 전반의 재정적 안정과 삶의 질 향상에 기여하는 방향으로 진화하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005757910?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20elderly%20couple%20enjoying%20life%2C%20money%20flowing%20from%20a%20life%20insurance%20policy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51881&nologo=true"
+    },
+    {
+      "id": "life-003",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "K-푸드 '햇반', 글로벌 라이프스타일 대표 제품으로 도약",
-      "subtitle": "이재현 회장 혜안으로 탄생…해외 매출 비중 2021년 8% → 2025년 15% 목표",
+      "title": "🏠 '평생 월급 효과' 주택연금, 여전히 낮은 대중 인식",
+      "subtitle": "고령층 자산 활용 위한 주택연금, 정보 부족 및 집값 상승 기대가 걸림돌",
       "viz_data": {
         "stats": [
           {
-            "value": "8%",
-            "label": "해외매출 (2021)"
+            "value": "253만원",
+            "label": "평균 월 수령액"
           },
           {
-            "value": "15%",
-            "label": "해외매출 (2025 목표)"
+            "value": "33.4%",
+            "label": "내용 모름"
           },
           {
-            "value": "K라이프",
-            "label": "대표 제품"
+            "value": "7.8%",
+            "label": "전혀 모름"
+          },
+          {
+            "value": "수도권 집값",
+            "label": "상승 기대"
           }
         ],
-        "main_number": "+7%",
-        "main_text": "해외 매출 성장 목표"
+        "main_number": "-41.2%",
+        "main_text": "주택연금 인지도 부족 비율"
       },
-      "image_prompt": "cute pastel infographic illustration, no text, rice bowl, chopsticks, world map, market growth, K-food, global trend",
+      "image_prompt": "cute pastel infographic illustration, elderly couple with a house and money, thought bubble showing confusion, no text",
       "detail": {
-        "summary": "CJ 이재현 회장의 '슈퍼에서 밥을 팔라'는 발상에서 시작된 '햇반'이 만두 등과 함께 K-푸드 글로벌 전략 제품의 한 축을 담당하며, 해외 매출 비중을 2021년 8%에서 2025년 15%까지 확대하는 것을 목표로 하고 있습니다.",
+        "summary": "주택을 담보로 평생 연금을 받는 주택연금의 평균 월 수령액이 253만원에 달하지만, 대중의 41.2%가 내용조차 제대로 모르고 있어 인식 개선이 시급하다.",
         "points": [
-          "이재현 회장의 '슈퍼 밥' 발상",
-          "K-푸드 글로벌 전략 제품(GSP)의 핵심",
-          "해외 매출 비중 2021년 8% → 2025년 15% 목표",
-          "K-라이프스타일을 채우는 대표 제품으로 성장"
+          "KB 골든라이프 보고서, 33.4%가 주택연금 내용을 모른다고 응답",
+          "7.8%는 주택연금에 대해 '전혀 모른다'고 응답",
+          "수도권을 중심으로 한 집값 상승 기대감도 가입 망설임의 원인",
+          "노후 빈곤 해결을 위한 효과적인 자산 활용 방안"
         ],
-        "quote": "1997년 로스앤젤레스 수출 이후 만두 등과 함께 K푸드 글로벌전략제품(GSP)의 한 축을 담당했고 이제 'K라이프스타일'의 일상을 채우는 대표 제품이 됐다.",
-        "context": "K-콘텐츠의 인기가 높아지면서 K-푸드에 대한 전 세계적인 관심도 증가하고 있습니다. '햇반'과 같은 가공식품은 간편함과 한국적인 맛을 동시에 제공하며 글로벌 소비자의 식생활에 깊숙이 파고드는 성공적인 K-라이프스타일 제품으로 자리매김하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005434860?sid=101"
+        "quote": "많은 고령층이 주택연금에 대해 들어봤지만, 내용을 잘 모르는 경우가 대부분이다.",
+        "context": "초고령 사회 진입을 앞두고 안정적인 노후 생활을 위한 주택연금의 중요성이 커지고 있으나, 낮은 인지도와 정보 부족으로 인해 잠재적 수혜자들이 제도를 충분히 활용하지 못하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004171904?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20rice%20bowl%2C%20chopsticks%2C%20world%20map%2C%20market%20growth%2C%20K-food%2C%20global%20trend%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16232&nologo=true"
-    },
-    {
-      "id": "life-kb-seniorcare",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "flow_chart",
-      "title": "KB라이프, 'KB골든라이프'로 금융과 돌봄 서비스 연계",
-      "subtitle": "요양시설 운영 경험 바탕, 시니어 대상 복합 서비스 확장",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "350억원",
-            "label": "추가 출자"
-          },
-          {
-            "value": "요양 시설",
-            "label": "운영 경험"
-          },
-          {
-            "value": "금융·돌봄",
-            "label": "통합 서비스"
-          }
-        ],
-        "main_number": "노인 복지",
-        "main_text": "시니어 사업 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text, elderly couple, financial advisor, caregiver, flowchart of services, retirement planning, holistic care",
-      "detail": {
-        "summary": "정문철 KB라이프 대표가 요양시설 운영 경험을 바탕으로 금융과 돌봄을 결합한 시니어 사업 'KB골든라이프'를 강화하고 있습니다. 이달 요양 자회사에 350억원을 추가 출자하며 시니어 시장 확대에 나서고 있습니다.",
-        "points": [
-          "KB라이프, 시니어 사업 'KB골든라이프' 강화",
-          "요양 자회사 'KB골든라이프케어'에 350억원 추가 출자",
-          "금융 상품과 돌봄 서비스 통합 제공 목표",
-          "고령화 사회에 대비한 복합 서비스 모델 제시"
-        ],
-        "quote": "요양시설 운영 경험을 바탕으로 금융과 돌봄을 결합한 시니어 사업을 통해 고객의 평생 라이프케어를 지원할 것이다.",
-        "context": "고령화 사회가 빠르게 진행되면서 노인 인구의 증가와 함께 요양 및 돌봄 서비스에 대한 수요가 급증하고 있습니다. 금융사가 이러한 시니어 시장에 진출하여 금융 상품과 돌봄 서비스를 연계하는 것은 새로운 비즈니스 모델이자 사회적 책임의 일환으로 주목받고 있습니다.",
-        "source_url": "https://www.fntimes.com/html/view.php?ud=202610221108205302ed56b8e1f8_18"
-      },
-      "image_url": "data/images/2026-11-02/life-kb-seniorcare.jpg"
+      "image_url": "data/images/2026-11-03/life-003.jpg"
     }
   ],
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T06:11:18.689743+09:00"
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T06:11:41.016440+09:00"
 }
