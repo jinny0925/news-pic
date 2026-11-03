@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-headline-01",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart_rank",
+      "title": "한국, 외환보유액 세계 9위로 상승",
+      "subtitle": "전월 대비 2계단 올라, 4천432억 달러 기록",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "9위",
+            "label": "현재 순위"
+          },
+          {
+            "value": "2계단",
+            "label": "순위 상승"
+          },
+          {
+            "value": "4432억$",
+            "label": "총액"
+          }
+        ],
+        "main_number": "+2",
+        "main_text": "외환보유액 세계 순위 전월 대비 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration, a rising bar chart showing a country's ranking, no text",
+      "detail": {
+        "summary": "한국의 10월 외환보유액이 증가하며 국제 순위가 9위로 상승했다.",
+        "points": [
+          "10월 말 기준 4천432억 달러 기록",
+          "전월 대비 2계단 상승 (11위→9위)",
+          "지난해 11월 말 이후 최고 순위",
+          "외화자산 운용수익 등 영향"
+        ],
+        "quote": "외환보유액 증가로 대외 건전성 개선 기대",
+        "context": "대외 변동성이 높은 시기에 안정적인 외환보유액은 국가 경제의 중요한 버팀목 역할을 한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016420082?sid=101"
+      },
+      "image_url": "data/images/2026-11-04/world-headline-01.jpg"
+    },
+    {
+      "id": "world-01",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "메모리 반도체, 조선 홍삼의 재림?",
+      "subtitle": "글로벌 무역 압박 속 한국 산업의 대응",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "청나라",
+            "label": "과거 무역국"
+          },
+          {
+            "value": "미국",
+            "label": "현재 무역국"
+          },
+          {
+            "value": "관세",
+            "label": "주요 위협"
+          }
+        ],
+        "main_number": "+1",
+        "main_text": "글로벌 공급망 재편 속 보호무역주의 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, two distinct historical and modern trade scenes being compared, no text",
+      "detail": {
+        "summary": "메모리 반도체 산업이 과거 임상옥의 홍삼 무역 사례처럼 글로벌 압박에 직면해 있다.",
+        "points": [
+          "조선 홍삼 불매 운동에 맞선 임상옥의 '소각' 전략",
+          "미국의 자국 내 공장 유치 압력 (관세 위협)",
+          "삼성전자·SK하이닉스 등 글로벌 기술력에도 가격 협상 난항",
+          "보호무역주의 심화로 인한 공급망 재편 가속화"
+        ],
+        "quote": "과거의 지혜가 현재의 난관을 푸는 열쇠가 될 수 있을까?",
+        "context": "글로벌 공급망 재편과 자국 중심주의가 강화되면서, 첨단 산업 분야의 국제 무역 환경이 변화하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/293/0000092654?sid=110"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20distinct%20historical%20and%20modern%20trade%20scenes%20being%20compared%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65883&nologo=true"
+    },
+    {
+      "id": "world-02",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "growth_path",
+      "title": "삼천당제약, 글로벌 플랫폼 도약",
+      "subtitle": "안과 전문 기업에서 세계 시장으로 사업 확장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1943년",
+            "label": "설립"
+          },
+          {
+            "value": "2013년",
+            "label": "안과 전문화"
+          },
+          {
+            "value": "글로벌",
+            "label": "확장 목표"
+          }
+        ],
+        "main_number": "+1",
+        "main_text": "기존 사업 글로벌 확장 및 신사업 진출"
+      },
+      "image_prompt": "cute pastel infographic illustration, a pharmaceutical company logo transforming into a global platform, showing growth arrows, no text",
+      "detail": {
+        "summary": "삼천당제약이 안과용제 전문성을 기반으로 글로벌 플랫폼 기업으로 사업 영역을 확대한다.",
+        "points": [
+          "1943년 설립, 안과용제 분야 전문성 축적",
+          "글로벌 시장으로 사업 무대 확장",
+          "기존 사업의 글로벌 진출 가속화",
+          "신사업 발굴 및 사업화 병행 추진"
+        ],
+        "quote": "안과를 넘어 세계 시장을 무대로 삼는다는 비전",
+        "context": "국내 제약사들이 내수 시장 한계를 넘어 글로벌 경쟁력을 확보하기 위해 사업 모델을 다각화하고 있다.",
+        "source_url": "https://www.pharmnews.com/news/articleView.html?idxno=307457"
+      },
+      "image_url": "data/images/2026-11-04/world-02.jpg"
+    },
+    {
+      "id": "economy-01",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "낮아진 물가상승률 vs. 고공행진 장바구니 물가",
+      "subtitle": "정부 목표치 상회, 체감 물가는 여전히 높아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2.8%",
+            "label": "최신 물가상승률"
+          },
+          {
+            "value": "2.7%",
+            "label": "연평균 물가상승률"
+          },
+          {
+            "value": "2.6%",
+            "label": "정부 전망치"
+          }
+        ],
+        "main_number": "↑2.7%",
+        "main_text": "올해 1~10월 소비자물가 상승률"
+      },
+      "image_prompt": "cute pastel infographic illustration, a diverging line chart showing official inflation dipping but consumer prices (represented by a shopping cart) remaining high, no text",
+      "detail": {
+        "summary": "10월 물가 상승률은 2.8%로 낮아졌으나, 누적된 물가 상승 여파로 국민들의 체감 물가는 여전히 높은 수준이다.",
+        "points": [
+          "10월 소비자물가 상승률 2.8% 기록",
+          "올해 1~10월 평균 소비자물가 상승률 2.7%",
+          "정부 연간 전망치(2.6%) 상회",
+          "신선식품 등 생필품 가격 부담 지속"
+        ],
+        "quote": "누적된 물가 상승 여파로 체감 물가가 여전히 높다",
+        "context": "정부는 물가 안정을 위해 노력하고 있으나, 글로벌 공급망 불안정 및 기후 변화 등으로 인한 생활 물가 상승 압력은 계속되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004678435?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20diverging%20line%20chart%20showing%20official%20inflation%20dipping%20but%20consumer%20prices%20%28represented%20by%20a%20shopping%20cart%29%20remaining%20high%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28306&nologo=true"
+    },
+    {
+      "id": "economy-02",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "timeline",
+      "title": "미국 중간선거, 코스피에 미칠 영향",
+      "subtitle": "단기 출렁임 후 장기적 상승 가능성 분석",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "6개월",
+            "label": "단기 변동 기간"
+          },
+          {
+            "value": "불확실성",
+            "label": "초기 시장 반응"
+          },
+          {
+            "value": "상승",
+            "label": "장기 전망"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "중간선거 이후 코스피 장기 상승 전망"
+      },
+      "image_prompt": "cute pastel infographic illustration, a stock market graph showing a dip then a steady rise, with a US election symbol, no text",
+      "detail": {
+        "summary": "미국 중간선거 이후 코스피가 단기적으로 출렁일 수 있으나 장기적으로는 상승할 가능성이 있다는 분석이 나왔다.",
+        "points": [
+          "민주당 승리 시 정책 추진력 약화 및 불확실성 증대",
+          "트럼프 대통령 거부권 행사로 정치적 교착 상태 가능성",
+          "역사적으로 중간선거 이후 6개월은 변동성 심화",
+          "선거 후 12개월간 주식 시장 장기 상승 경향"
+        ],
+        "quote": "역대 중간선거 결과를 보면 이후 증시는 오히려 장기적으로 상승했다",
+        "context": "미국 정치 이벤트는 글로벌 금융 시장에 큰 영향을 미치며, 투자자들은 그 결과가 국내 증시에 미칠 파장을 주시하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009268652?sid=101"
+      },
+      "image_url": "data/images/2026-11-04/economy-02.jpg"
+    },
+    {
+      "id": "economy-03",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart_investment",
+      "title": "제천시, 바이오·AI 6천억 투자 유치",
+      "subtitle": "미래형 산업 인프라 확충으로 지역 경제 활성화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "6천억",
+            "label": "총 투자 규모"
+          },
+          {
+            "value": "바이오",
+            "label": "핵심 산업 1"
+          },
+          {
+            "value": "AI",
+            "label": "핵심 산업 2"
+          }
+        ],
+        "main_number": "+6000억",
+        "main_text": "제천시 첨단 산업 투자 유치 금액"
+      },
+      "image_prompt": "cute pastel infographic illustration, a map of a city with growth arrows pointing to bio and AI symbols, showing investment figures, no text",
+      "detail": {
+        "summary": "제천시가 바이오 및 AI 분야에 6천억 규모의 투자를 유치하며 지역 경제 체질 개선을 목표로 한다.",
+        "points": [
+          "총 6천억 원 규모 데이터센터 추진",
+          "바이오 및 AI 첨단 미래 산업 집중 유치",
+          "양질의 일자리 창출 기대",
+          "지역 경제 자생력 강화 목표"
+        ],
+        "quote": "첨단 미래 산업 유치로 지역 경제의 체질을 미래형으로 탈바꿈할 것",
+        "context": "지방자치단체들이 지역 소멸 위기 및 경제 활성화를 위해 첨단 산업 유치에 적극적으로 나서고 있다.",
+        "source_url": "https://www.ccreview.co.kr/news/articleView.html?idxno=361676"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20map%20of%20a%20city%20with%20growth%20arrows%20pointing%20to%20bio%20and%20AI%20symbols%2C%20showing%20investment%20figures%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=210&nologo=true"
+    },
+    {
+      "id": "tech-01",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "dual_line_chart",
+      "title": "AI발 D램 가격 2배 폭등, PC 출하량 30% 급감",
+      "subtitle": "AI 투자 쏠림 현상이 IT 하드웨어 시장에 미치는 영향",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2배",
+            "label": "D램 가격 상승"
+          },
+          {
+            "value": "30%",
+            "label": "PC 출하량 감소"
+          },
+          {
+            "value": "2027년",
+            "label": "품귀 예상 시점"
+          }
+        ],
+        "main_number": "+200%",
+        "main_text": "AI 서버용 D램 가격 상승률"
+      },
+      "image_prompt": "cute pastel infographic illustration, two contrasting line charts: one showing a sharp increase in D-RAM prices, and another showing a sharp decrease in PC shipments, with AI servers as a central theme, no text",
+      "detail": {
+        "summary": "AI 서버 투자 쏠림 현상으로 D램 가격이 2배 폭등하고 PC 출하량은 30% 급감하는 등 IT 하드웨어 시장에 지각변동이 일어나고 있다.",
+        "points": [
+          "범용 IT 기기용 메모리 공급선 급격히 감소",
+          "D램 가격 2배 폭등",
+          "PC 출하량 30% 급감",
+          "빅테크 기업들의 AI 투자가 핵심 부품 품귀 심화"
+        ],
+        "quote": "2027년까지 구매자 지옥 지속될 것",
+        "context": "AI 기술 발전은 산업 전반에 영향을 미치고 있으며, 특히 반도체 등 핵심 부품 시장의 불균형을 초래하고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026110317400343380c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-04/tech-01.jpg"
+    },
+    {
+      "id": "tech-02",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "warning_sign",
+      "title": "AI 활용한 유럽 식품 공급망 해킹 발생",
+      "subtitle": "냉동고 온도 조작 등 AI 기반 사이버 공격 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "50℃",
+            "label": "냉동고 온도"
+          },
+          {
+            "value": "유럽",
+            "label": "피해 지역"
+          },
+          {
+            "value": "AI",
+            "label": "공격 방식"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "AI 이용한 사이버 공격 위협 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, a chilling image of a refrigerator showing a high temperature, with a network security symbol and AI hacking elements, no text",
+      "detail": {
+        "summary": "유럽에서 AI를 활용한 식품 공급망 해킹 시도가 포착, 냉동고 온도를 조작하는 등 디지털 위협의 파괴력이 커지고 있다.",
+        "points": [
+          "AI를 이용한 산업 시스템 해킹 시도",
+          "냉동고 온도 50℃까지 상승 조작 사례 발생",
+          "금전 갈취, 정치적 동기, 국가 차원 작전 연관 가능성",
+          "모든 IT 시스템의 잠재적 취약성 경고"
+        ],
+        "quote": "모든 IT 시스템은 잠재적으로 취약하며, 이제 AI가 이런 약점을 파고드는 데 쓰일 수 있다",
+        "context": "첨단 기술의 발전은 편리함을 가져오지만, 동시에 새로운 형태의 사이버 위협을 발생시켜 사회 전반의 보안 강화가 요구된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004678426?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20chilling%20image%20of%20a%20refrigerator%20showing%20a%20high%20temperature%2C%20with%20a%20network%20security%20symbol%20and%20AI%20hacking%20elements%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34350&nologo=true"
+    },
+    {
+      "id": "tech-03",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison_matrix",
+      "title": "삼성SDS·LG CNS, AI 데이터센터 전략",
+      "subtitle": "기존 사업 역량 활용, AI 경쟁력 강화 모색",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "삼성SDS",
+            "label": "기업 1"
+          },
+          {
+            "value": "LG CNS",
+            "label": "기업 2"
+          },
+          {
+            "value": "데이터센터",
+            "label": "핵심 사업"
+          }
+        ],
+        "main_number": "+AI",
+        "main_text": "AI 기반 데이터센터 핵심 인프라 투자 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration, two distinct corporate logos (Samsung SDS, LG CNS) with arrows pointing to AI data center icons, highlighting their strategic differences, no text",
+      "detail": {
+        "summary": "삼성SDS와 LG CNS가 기존 IT 사업 역량을 바탕으로 AI 데이터센터 전략을 차별화하며 AI 사업 경쟁력 확보에 나섰다.",
+        "points": [
+          "AI 데이터센터가 AI 사업 경쟁력 핵심 기반으로 부상",
+          "양사 모두 AI 데이터센터 투자 및 사업 확장 추진",
+          "기존 IT 인프라 및 솔루션 역량 활용",
+          "향후 실적에 미칠 영향 주목"
+        ],
+        "quote": "AI 데이터센터는 단순한 IT 인프라를 넘어 기업의 AI 사업 경쟁력을 뒷받침하는 핵심 기반",
+        "context": "클라우드 및 AI 기술 발전으로 데이터센터의 중요성이 커지고 있으며, IT 서비스 기업들은 시장 선점을 위해 경쟁하고 있다.",
+        "source_url": "http://www.press9.kr/news/articleView.html?idxno=85516"
+      },
+      "image_url": "data/images/2026-11-04/tech-03.jpg"
+    },
+    {
+      "id": "society-01",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "demographic_pyramid",
+      "title": "고령화 시대, 미래 돌봄 인력의 중요성",
+      "subtitle": "청년층 유입을 위한 사회적 포용 필요성",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "고령화",
+            "label": "주요 이슈"
+          },
+          {
+            "value": "청년",
+            "label": "핵심 주체"
+          },
+          {
+            "value": "포용",
+            "label": "사회적 과제"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "돌봄 인력 수요 증가 및 사회적 책임"
+      },
+      "image_prompt": "cute pastel infographic illustration, a demographic pyramid showing an aging population, with young people being embraced by society, no text",
+      "detail": {
+        "summary": "고령화 사회에서 미래를 책임질 청년 돌봄 인력의 중요성이 커지고 있으며, 이들을 사회가 적극적으로 품어야 한다는 주장이 제기되었다.",
+        "points": [
+          "한국의 고령화 속도 가속화로 돌봄 수요 증대",
+          "청년층의 이탈 방지 및 유입 필요",
+          "대학의 충실한 교육 및 사회의 동등한 이웃으로 수용",
+          "청년들의 미래가 우리 사회 노후와 직결"
+        ],
+        "quote": "이들의 미래가 우리 사회에 뿌리내릴 때 우리의 노후도 더 든든해질 것이다",
+        "context": "급격한 고령화는 노동력 부족 및 사회 유지 비용 증가 등 다양한 사회적 문제로 이어질 수 있다.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=599840"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20demographic%20pyramid%20showing%20an%20aging%20population%2C%20with%20young%20people%20being%20embraced%20by%20society%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40575&nologo=true"
+    },
+    {
+      "id": "society-02",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison_bar",
+      "title": "LG유플러스, 소방관 5천여 회선 무료 지원",
+      "subtitle": "'리스펙트 프로젝트' 일환으로 사회공헌 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5천여개",
+            "label": "무료 회선 수"
+          },
+          {
+            "value": "LG U+",
+            "label": "제공 기업"
+          },
+          {
+            "value": "유료",
+            "label": "해외 사례 (AT&T)"
+          }
+        ],
+        "main_number": "5000+",
+        "main_text": "소방관 대상 무료 통신 회선 지원 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration, a comparison of two phone icons, one marked 'free' with a firefighter symbol and the other 'paid' with a global telco symbol, showing a number, no text",
+      "detail": {
+        "summary": "LG유플러스가 '리스펙트 프로젝트'의 일환으로 소방관 5천여 명에게 통신 회선을 무료로 제공하며 사회공헌을 확대하고 있다.",
+        "points": [
+          "지난해 초부터 '리스펙트 프로젝트' 시작",
+          "군인, 소방관 및 가족 지원 목표",
+          "5천여 개 소방관 회선 무료 제공",
+          "향후 프로젝트 범위 확대 계획"
+        ],
+        "quote": "소방관 우선접속서비스는 지난해 초부터 시작한 '리스펙트 프로젝트'의 일환",
+        "context": "기업의 사회적 책임(CSR) 활동이 중요해지면서, 기업들이 사회 공헌 프로그램을 통해 긍정적인 이미지를 구축하고 있다.",
+        "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730262"
+      },
+      "image_url": "data/images/2026-11-04/society-02.jpg"
+    },
+    {
+      "id": "society-03",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pros_cons_chart",
+      "title": "데이터센터 입지 논란, 사회적 갈등 해법은?",
+      "subtitle": "님비 현상 심화, 공공 인프라화 위한 숙의 필요",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "소음/열섬",
+            "label": "기피 원인"
+          },
+          {
+            "value": "일자리",
+            "label": "기대 효과 (미미)"
+          },
+          {
+            "value": "숙의",
+            "label": "해결 방안"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "데이터센터 관련 지역 사회 갈등 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, a balanced scale showing 'community concerns' (noise, heat) on one side and 'economic benefits' (jobs, infrastructure) on the other, related to data centers, no text",
+      "detail": {
+        "summary": "데이터센터 건립을 둘러싼 지역 사회의 님비(NIMBY) 현상이 심화되면서, 이를 기피 시설이 아닌 공공 인프라로 만들기 위한 숙의 과정이 요구된다.",
+        "points": [
+          "산업 발전 속도와 사회 변화 간 제도적 갈등",
+          "소음, 열섬현상, 식수 오염, 부동산 가치 하락 우려",
+          "데이터센터 건립 후 일자리 창출 효과는 미입증",
+          "지역 사회와 숙의를 통한 공공 인프라화 노력 필요"
+        ],
+        "quote": "지역 사회와 숙의를 통해 데이터센터를 기피 시설이 아닌, 지역 내 공공인프라로 만들기 위한 다양한 시도가 필요",
+        "context": "디지털 전환 시대에 데이터센터는 필수적인 인프라지만, 환경 및 주민 생활권 침해 문제로 인해 지역 주민들과의 갈등이 빈번하게 발생하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/033/0000053132?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20balanced%20scale%20showing%20%27community%20concerns%27%20%28noise%2C%20heat%29%20on%20one%20side%20and%20%27economic%20benefits%27%20%28jobs%2C%20infrastructure%29%20on%20the%20other%2C%20related%20to%20data%20centers%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62324&nologo=true"
+    },
+    {
+      "id": "life-01",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart_finance",
+      "title": "14억 모아 은퇴한 삼성맨의 파이어족 생활",
+      "subtitle": "경제적 자유를 찾은 은퇴자의 재테크 및 일상",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "14억",
+            "label": "총 자산"
+          },
+          {
+            "value": "배당주 40%",
+            "label": "투자 비중 1"
+          },
+          {
+            "value": "성장주 40%",
+            "label": "투자 비중 2"
+          }
+        ],
+        "main_number": "14억",
+        "main_text": "경제적 자유 달성 자산 규모"
+      },
+      "image_prompt": "cute pastel infographic illustration, a pie chart showing investment diversification (dividends, growth, bonds), with a relaxed person enjoying free time, no text",
+      "detail": {
+        "summary": "14억 원을 모아 조기 은퇴한 삼성맨이 유튜브 채널을 통해 경제적 자유를 찾은 일상과 투자 전략을 공유하며 많은 관심을 받고 있다.",
+        "points": [
+          "배당주 40%, 성장주 40%, 채권 20% 투자 비중 유지",
+          "미국 상장지수펀드(ETF) 위주 투자",
+          "경제적 자유와 행복한 일상 추구 (싱글파이어 채널)",
+          "IT 업계에서 경제·투자 분야로 인간관계 확장"
+        ],
+        "quote": "회사 다닐 때는 어떻게 살았는지 상상이 안 될 정도로 지금 잘 놀고 있다",
+        "context": "경제적 자유를 추구하며 조기 은퇴를 목표로 하는 파이어족(FIRE족)이 늘어나면서 관련 정보와 콘텐츠에 대한 수요가 증가하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005436186?sid=101"
+      },
+      "image_url": "data/images/2026-11-04/life-01.jpg"
+    },
+    {
+      "id": "life-02",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "luxury_product_display",
+      "title": "신세계백화점 VIP 플랫폼, 객단가 1억 돌파",
+      "subtitle": "슈퍼카, 맞춤형 주방 등 초고가 상품 큐레이션 성공",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1억 원",
+            "label": "평균 객단가"
+          },
+          {
+            "value": "11억 원",
+            "label": "슈퍼카 가격"
+          },
+          {
+            "value": "3억 원",
+            "label": "맞춤 주방 가격"
+          }
+        ],
+        "main_number": "1억+",
+        "main_text": "VIP 플랫폼 '더 쇼케이스' 구매 객단가"
+      },
+      "image_prompt": "cute pastel infographic illustration, a showcase displaying luxury items like a sports car and a custom kitchen, with a high average spending value, no text",
+      "detail": {
+        "summary": "신세계백화점의 VIP 전용 큐레이션 플랫폼 '더 쇼케이스'의 객단가가 1억 원을 넘어섰으며, 슈퍼카와 맞춤형 주방 등 초고가 상품이 인기를 끌었다.",
+        "points": [
+          "2024년 11월 출시 후 구매 객단가 1억 원 돌파",
+          "슈퍼카, 주류, 전통공예 등 고가 상품 큐레이션",
+          "VIP 고객의 라이프스타일에 맞춘 차별화된 경험 제공",
+          "람보르기니 시승, 프라이빗 상담 등 맞춤 서비스"
+        ],
+        "quote": "VIP 고객들은 자신만의 라이프스타일을 반영한 차별화된 경험에 높은 가치를 부여한다",
+        "context": "유통업계는 소비 양극화 심화로 VIP 고객 유치 및 차별화된 서비스 제공에 집중하고 있다.",
+        "source_url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92937"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20showcase%20displaying%20luxury%20items%20like%20a%20sports%20car%20and%20a%20custom%20kitchen%2C%20with%20a%20high%20average%20spending%20value%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92431&nologo=true"
+    },
+    {
+      "id": "life-03",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "product_evolution_chart",
+      "title": "정수기 시장, 초소형 트렌드로 변화",
+      "subtitle": "1인 가구 및 신혼부부 라이프스타일에 맞춰 진화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1인 가구",
+            "label": "주요 소비자 1"
+          },
+          {
+            "value": "신혼부부",
+            "label": "주요 소비자 2"
+          },
+          {
+            "value": "초소형",
+            "label": "핵심 트렌드"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "소형 가전 시장 성장세"
+      },
+      "image_prompt": "cute pastel infographic illustration, a series of compact, modern water purifiers, showing a trend towards smaller sizes, catering to single-person and newlywed households, no text",
+      "detail": {
+        "summary": "정수기 시장이 1인 가구와 신혼부부 등 새로운 소비자층을 겨냥해 초소형 디자인과 맞춤형 관리 서비스로 변화하고 있다.",
+        "points": [
+          "주방 공간 활용도를 높이는 초소형 디자인 선호",
+          "방문관리/자가관리 중 선택 가능한 맞춤 서비스",
+          "필터 교체 용이성 등 관리 편의성 강화",
+          "SK매직 '메가 아이스 얼음정수기 미니' 등 신제품 출시"
+        ],
+        "quote": "소비자 라이프스타일에 따라 방문관리와 자가관리 방식 중 원하는 관리 서비스를 선택할 수 있다",
+        "context": "가구 구성원의 변화와 주거 환경의 변화는 가전제품 시장의 트렌드 변화를 이끌고 있으며, 맞춤형 제품의 중요성이 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/029/0003056973?sid=101"
+      },
+      "image_url": "data/images/2026-11-04/life-03.jpg"
+    }
+  ],
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T06:09:44.880856+09:00"
+}
