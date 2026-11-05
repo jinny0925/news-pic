@@ -1,621 +1,663 @@
 {
   "cards": [
     {
-      "id": "world-08",
+      "id": "world-us-republican-split",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "pie_chart",
+      "title": "미 공화당, '마가(MAGA) vs 비 마가' 지지층 균열 심화",
+      "subtitle": "중간선거 패배 후 당내 강경파와 비강경파 갈등 노출",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "마가",
+            "label": "강경파"
+          },
+          {
+            "value": "비마가",
+            "label": "비강경파"
+          },
+          {
+            "value": "증가",
+            "label": "균열"
+          }
+        ],
+        "main_number": "심화",
+        "main_text": "공화당 내 이념 갈등, 중간선거 패배 원인으로 지목"
+      },
+      "image_prompt": "cute pastel infographic illustration of two elephant halves moving away from each other, representing a political party split, no text",
+      "detail": {
+        "summary": "미국 중간선거 패배 이후 공화당 내에서 트럼프 지지 세력인 '마가(MAGA)'와 이에 반대하는 '비 마가' 지지층 간의 균열이 심화되고 있다.",
+        "points": [
+          "중간선거 패배 원인으로 당내 이념 갈등 부상",
+          "팩스턴 후보 지지자들과 반대파 간의 격분 노출",
+          "데이비드 프렌치 칼럼니스트, 공화당원들의 '분노' 지적",
+          "향후 공화당의 재정비와 대선 전략에 큰 영향 미칠 전망"
+        ],
+        "quote": "팩스턴 후보에 반대하는 공화당원들이 '자신들을 모욕하고 조롱하며 공화당 정치에서 몰아낸 팩스턴 지지자들에 격분해 있었다.'",
+        "context": "이번 중간선거 결과가 단순한 선거 패배를 넘어 공화당의 정체성과 미래 방향에 대한 근본적인 질문을 던지며, 트럼프 이후 시대의 당내 권력 재편에 주목하게 한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/052/0002428989?sid=104"
+      },
+      "image_url": "data/images/2026-11-06/world-us-republican-split.jpg"
+    },
+    {
+      "id": "world-france-winter-crisis",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "우크라 전쟁 후폭풍, 프랑스 '역대 최악 겨울' 예고",
+      "subtitle": "에너지 위기·재정 적자·사회 마비, 삼중고 겪는 프랑스",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "장기화",
+            "label": "전쟁"
+          },
+          {
+            "value": "심각",
+            "label": "재정적자"
+          },
+          {
+            "value": "상실",
+            "label": "정부 장악력"
+          }
+        ],
+        "main_number": "3중고",
+        "main_text": "에너지, 재정, 사회적 마비의 복합 위기 직면"
+      },
+      "image_prompt": "cute pastel infographic illustration of a bundled up person in France with high energy bills and protest signs in the background, showing a cold and difficult winter, no text",
+      "detail": {
+        "summary": "러시아-우크라이나 전쟁 장기화로 인한 에너지 위기와 심각한 재정 적자로 프랑스가 '혹독한 겨울'을 맞이할 위기에 처했으며, 연료비 폭등과 연쇄 파업으로 사회적 마비가 우려된다.",
+        "points": [
+          "전쟁 장기화로 에너지 비용 급증 및 재정 파탄 심화",
+          "마크롱 정부, 심각한 재정 적자로 실질적 대책 마련 어려움",
+          "치솟는 연료비와 공공 서비스 마비로 사회적 궁핍 가중",
+          "르코르뉘 내각, 의회 과반 상실로 정치적 장악력 약화"
+        ],
+        "quote": "프랑스는 경제적 궁핍과 사회적 마비가 결합된 전례 없는 '혹독한 겨울'의 문턱으로 들어서고 있다.",
+        "context": "국제 분쟁이 한 국가의 경제와 사회 전반에 미치는 복합적인 영향을 보여주는 사례로, 유럽 전체의 에너지 안보와 생활 물가 문제에 대한 경고를 담고 있다.",
+        "source_url": "https://www.globale.co.kr/news/articleView.html?idxno=41467"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20bundled%20up%20person%20in%20France%20with%20high%20energy%20bills%20and%20protest%20signs%20in%20the%20background%2C%20showing%20a%20cold%20and%20difficult%20winter%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73768&nologo=true"
+    },
+    {
+      "id": "world-korea-hormuz",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map_chart",
+      "title": "한국 청해부대 호르무즈 해협 임무 확대... 이란 언론 '주목'",
+      "subtitle": "국방부, 기뢰 제거 작전 참여 약속... 중동 정세 긴장 고조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "호르무즈",
+            "label": "작전 지역"
+          },
+          {
+            "value": "확대",
+            "label": "임무 범위"
+          },
+          {
+            "value": "예정",
+            "label": "기뢰 제거"
+          }
+        ],
+        "main_number": "긴장",
+        "main_text": "한국 해군력 증강에 따른 역내 정세 긴장"
+      },
+      "image_prompt": "cute pastel infographic illustration of a naval ship near the Strait of Hormuz on a map, with flags of Korea and Iran, no text",
+      "detail": {
+        "summary": "한국 국방부가 호르무즈 해협에서 청해부대의 임무 확대를 추진하며 기뢰 제거 작전 참여를 약속하자, 이란 언론이 한국의 '경제적 이득'을 지적하며 예의주시하고 있다.",
+        "points": [
+          "한국, 호르무즈 해협 기뢰 제거 작전 참여 약속",
+          "폭발물처리팀과 무인 소해전력 추가 투입 예정",
+          "이란 언론, 한국의 해군력 증강과 경제적 이득에 주목",
+          "중동 지역 안보 환경 및 국제 관계에 미칠 영향 주목"
+        ],
+        "quote": "국방부 관계자는 종전 또는 미국과 이란의 합의로 안전한 작전 여건이 조성되고 국제사회의 요청이 있을 경우 호르무즈해협 기뢰 제거작전에 참여하기로 약속했다고 밝혔다.",
+        "context": "호르무즈 해협은 세계 원유 수송량의 20%를 차지하는 전략적 요충지로, 한국의 임무 확대는 중동 정세 불안정 속에서 에너지 안보와 국제적 역할 확대를 동시에 모색하는 복잡한 외교적 행보로 해석된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003696393?sid=104"
+      },
+      "image_url": "data/images/2026-11-06/world-korea-hormuz.jpg"
+    },
+    {
+      "id": "economy-tungsten-export",
       "is_headline": true,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "stats",
-      "title": "美민주 압승에 국제유가 8.29% 급락",
-      "subtitle": "이란 전쟁 종식 기대감에 국제 원유 공급 원활 예측",
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "글로벌 반도체 충격! 中 텅스텐 수출 통제에 공구 가격 '폭등'",
+      "subtitle": "중국, 전 세계 텅스텐 79% 독점... 반도체 기판 공구 가격 급등",
       "viz_data": {
         "stats": [
           {
-            "value": "8.29%↓",
-            "label": "WTI 국제유가"
+            "value": "79%",
+            "label": "중국 채굴 점유율"
           },
           {
-            "value": "2년",
-            "label": "트럼프 임기 잔여"
+            "value": "85%",
+            "label": "중국 가공 점유율"
           },
           {
-            "value": "호르무즈 해협",
-            "label": "핵심 통로"
+            "value": "폭등",
+            "label": "공구 가격"
           }
         ],
-        "main_number": "8.29%↓",
-        "main_text": "민주당의 미 중간선거 압승으로 국제유가 급락"
+        "main_number": "3배",
+        "main_text": "중국 내수-해외 가격차 최대 3배 발생"
       },
-      "image_prompt": "cute pastel infographic illustration, oil barrel falling, dollar signs, democratic elephant, republican donkey, no text",
+      "image_prompt": "cute pastel infographic illustration of a supply chain being squeezed by a large hand, with semiconductor chips and price tags soaring, no text",
       "detail": {
-        "summary": "미국 중간선거에서 민주당이 압승하며 이란 전쟁 종식에 대한 기대감이 커져 국제유가가 급락했다.",
+        "summary": "중국의 텅스텐 수출 통제로 인해 글로벌 반도체 기판 및 절삭 공구 가격이 폭등하고 있으며, 중국은 전 세계 텅스텐 채굴량의 약 79%를 독점하고 있다.",
         "points": [
-          "미 민주당, 상원·하원 모두 다수당 등극",
-          "트럼프 행정부의 대이란 강경 노선 변화 기대",
-          "세계 원유 수송 핵심 통로 '호르무즈 해협' 공급 원활 전망",
-          "JD 밴스 부통령, 중간선거 패배 원인으로 이란 전쟁 지목"
+          "중국, 전 세계 텅스텐 채굴량의 79%, 제련 가공의 85% 지배",
+          "수출 규제로 일본, 대만, 미국, 유럽 등 주요 기판·절삭 공구 제조사 타격",
+          "고급 텅스텐 카바이드 소재 확보에 심각한 차질 발생",
+          "중국 내수 가격과 해외 가격 간 3배 이상 차이 발생"
         ],
-        "quote": "트럼프 행정부가 정치적으로 움직일 수 있는 시간적 여유가 줄어들고, 호르무즈 해협 관련 합의를 해야 한다는 제도적 압박은 커졌다.",
-        "context": "미국 민주당의 중간선거 압승은 국제 정세에 큰 변화를 가져오며 특히 이란과의 관계 재설정 가능성을 높여 글로벌 에너지 시장에 즉각적인 영향을 미쳤다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012287606?sid=104"
+        "quote": "중국은 전 세계 텅스텐 채굴량의 약 79%를 독점하고 있으며 제련 가공 부문의 지배력은 85%를 웃돈다.",
+        "context": "반도체 산업의 핵심 소재인 텅스텐 공급 불안정은 글로벌 기술 공급망에 큰 위협이 되며, 중국의 자원 무기화 전략이 국제 경제에 미치는 영향을 보여준다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202611051843195360c8c1c064d_1"
       },
-      "image_url": "data/images/2026-11-05/world-08.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20supply%20chain%20being%20squeezed%20by%20a%20large%20hand%2C%20with%20semiconductor%20chips%20and%20price%20tags%20soaring%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3949&nologo=true"
     },
     {
-      "id": "world-85",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "stats",
-      "title": "머스크, 6000억 후원에도 공화당 참패",
-      "subtitle": "美 중간선거 최대 패배자…‘빅 머니’ 영향력 재조명",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "6000억+",
-            "label": "후원금"
-          },
-          {
-            "value": "44개",
-            "label": "선거구"
-          },
-          {
-            "value": "8700만$",
-            "label": "‘아메리카팩’ 지출"
-          }
-        ],
-        "main_number": "6000억+",
-        "main_text": "머스크의 막대한 정치자금, 중간선거 결과에 무력화"
-      },
-      "image_prompt": "cute pastel infographic illustration, money bags, ballot box, republican elephant, no text",
-      "detail": {
-        "summary": "일론 머스크가 공화당 후보와 정치단체에 6000억원 이상을 지원했지만, 공화당은 주요 격전지에서 잇따라 패배하며 머스크는 이번 중간선거의 최대 패배자로 불린다.",
-        "points": [
-          "머스크, 공화당에 4억 달러 이상 지원하며 최대 개인 후원자 활동",
-          "머스크 직접 설립 슈퍼팩 '아메리카팩' 8700만 달러 지출",
-          "슈퍼팩 지원 44개 선거구 중 공화당 승리 저조",
-          "탈라리코 당선인 '빅 머니' 비판, '조작된 경제 체제' 해체 주장"
-        ],
-        "quote": "그 어떤 억만장자나 조만장자도 선거를 돈으로 살 수 없도록 정계에서 ‘빅 머니’(거대 자본)를 없애야 한다.",
-        "context": "미국 중간선거 결과는 막대한 정치자금이 선거 결과에 미치는 영향에 대한 논쟁을 다시 불러일으켰으며, '빅 머니'의 역할을 재조명하는 계기가 되었다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002719011?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20money%20bags%2C%20ballot%20box%2C%20republican%20elephant%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38386&nologo=true"
-    },
-    {
-      "id": "world-92",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "stats",
-      "title": "北, 해킹 한 번에 수십년치 무역대금 탈취",
-      "subtitle": "체이널리시스, 전세계 가상자산 거래소 경고",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "수십년치",
-            "label": "무역대금"
-          },
-          {
-            "value": "체이널리시스",
-            "label": "분석 기관"
-          },
-          {
-            "value": "전 세계",
-            "label": "대상"
-          }
-        ],
-        "main_number": "수십년치",
-        "main_text": "북한의 가상자산 해킹, 국가 경제 지탱 수준"
-      },
-      "image_prompt": "cute pastel infographic illustration, hacker, globe, cryptocurrency symbols, shield, no text",
-      "detail": {
-        "summary": "블록체인 분석기업 체이널리시스 총괄은 북한이 해킹 한 번으로 수십년치 무역대금을 벌어들인다며, 전 세계 가상자산 거래소에 경계와 신속한 대응을 촉구했다.",
-        "points": [
-          "북한 해킹, 국가 경제 유지에 중요한 수단으로 활용",
-          "바이낸스 등 주요 가상자산 거래소 해킹 배후로 '북한' 지목",
-          "체이널리시스, '북한의 해킹 시도는 계속될 것' 전망",
-          "한국 포함 전 세계 모든 거래소의 철저한 대비 강조"
-        ],
-        "quote": "한국을 비롯한 전 세계 모든 가상자산 거래소가 경계를 늦추지 않고 공격이 발생하면 신속하게 대응해야 한다.",
-        "context": "북한의 가상자산 해킹은 국제 금융 시스템의 안정성을 위협하는 주요 요인으로 부상했으며, 이는 전 세계적인 사이버 보안 강화의 필요성을 보여준다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016422885?sid=102"
-      },
-      "image_url": "data/images/2026-11-05/world-92.jpg"
-    },
-    {
-      "id": "economy-04",
+      "id": "economy-hyundai-stock",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "stats",
-      "title": "새마을금고, 누적 순손실 3.6조원",
-      "subtitle": "심각한 부실에도 경영 개선 미비, 국감서 지적",
+      "viz_type": "line_chart",
+      "title": "美 중간선거發 정책 변화 기대에 현대차 주가 장중 8% 급등",
+      "subtitle": "전기차 지원 복원 및 관세 변화 가능성에 시장 즉각 반응",
       "viz_data": {
         "stats": [
           {
-            "value": "3조6천억",
-            "label": "누적 순손실"
+            "value": "8%",
+            "label": "장중 급등"
           },
           {
-            "value": "2023년~",
-            "label": "기간"
+            "value": "30%",
+            "label": "최근 폭락"
           },
           {
-            "value": "200만+",
-            "label": "이용자"
+            "value": "역대 최다",
+            "label": "美 판매량"
           }
         ],
-        "main_number": "3조6천억",
-        "main_text": "새마을금고, 최근 1년 반 동안 대규모 적자 기록"
+        "main_number": "+8%",
+        "main_text": "현대차 주가, 미국 시장 변화 기대감에 급반등"
       },
-      "image_prompt": "cute pastel infographic illustration, piggy bank with cracks, falling money, balance sheet, no text",
+      "image_prompt": "cute pastel infographic illustration of a stock market graph showing a sharp upward trend for a car company logo, with small electric vehicles and a US flag in the background, no text",
       "detail": {
-        "summary": "새마을금고가 2023년부터 올 상반기까지 누적 순손실 3조 6000억원을 기록하며 심각한 부실을 드러냈으나, 국정감사에서 경영 개선에 대한 구체적인 대안은 제시하지 못했다.",
+        "summary": "미국 중간선거 이후 전기차 지원 복원 및 관세 변경 가능성에 대한 기대로 현대차 주가가 장중 8% 급등했으나, 실제 입법까지는 정치적 협상이 필요하다는 분석이 나온다.",
         "points": [
-          "2023년부터 상반기까지 3조 6000억원 누적 순손실 기록",
-          "국정감사 증인 출석 관계자, 부실 인정에도 대안 미흡",
-          "정치적 쟁점으로 국감 출석 무산된 기업도 발생",
-          "금융권 내 새마을금고 부실에 대한 우려 지속"
+          "미국 중간선거 후 전기차 지원 정책 복원 기대감 증폭",
+          "현대차 주가, 장중 한때 8%까지 급등",
+          "미국 판매량 역대 최다 기록에도 주가는 30% 폭락 후 반등",
+          "추가적인 입법과 정치적 협상 필요성 제기"
         ],
-        "quote": "새마을금고는 지난 2023년부터 올 상반기까지 누적 순손실 3조6,000억원을 기록하며 심각한 부실을 드러냈다.",
-        "context": "서민금융기관의 건전성은 국민 경제에 직접적인 영향을 미치므로, 새마을금고의 대규모 적자와 그에 대한 미흡한 대응은 금융 시장 전반의 불안감을 가중시킬 수 있다.",
-        "source_url": "http://www.srtimes.kr/news/articleView.html?idxno=216717"
+        "quote": "미국 정치 지형 변화가 현대차에 단기적인 반등 기회를 제공했지만, 주가 상승세가 이어지려면 판매 실적 등 근본적인 개선이 필요하다.",
+        "context": "미국 대선과 중간선거는 글로벌 기업의 실적과 주가에 직접적인 영향을 미치며, 특히 친환경차 정책은 미래 산업의 판도를 좌우할 핵심 변수로 작용하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004679310?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20piggy%20bank%20with%20cracks%2C%20falling%20money%2C%20balance%20sheet%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53738&nologo=true"
+      "image_url": "data/images/2026-11-06/economy-hyundai-stock.jpg"
     },
     {
-      "id": "economy-27",
+      "id": "economy-fed-interest-rate",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "chart",
-      "title": "비은행 주택대출 증가세 '주춤'…은행과 흐름 역전",
-      "subtitle": "8월 비은행권 대출 3163억 증가, 은행권 4조3천억 증가",
+      "viz_type": "line_chart",
+      "title": "美연준, '물가 여전히 높아' 금리 인상 필요성 재확인",
+      "subtitle": "매파 인사들, 고용시장 강화 조짐에 통화정책 완화 회의적",
       "viz_data": {
         "stats": [
           {
-            "value": "3163억",
-            "label": "비은행 증가액"
+            "value": "여전히 높음",
+            "label": "물가"
           },
           {
-            "value": "4조3614억",
-            "label": "은행 증가액"
+            "value": "강화",
+            "label": "고용시장"
           },
           {
-            "value": "148.4조",
-            "label": "비은행 잔액"
+            "value": "유지",
+            "label": "금리 인상 기조"
           }
         ],
-        "main_number": "3163억",
-        "main_text": "비은행 예금취급기관 주택대출 증가 폭 크게 둔화"
+        "main_number": "지속",
+        "main_text": "고물가와 견조한 고용, 긴축 기조 유지 전망"
       },
-      "image_prompt": "cute pastel infographic illustration, bar chart showing loan growth, bank and non-bank icons, arrow indicating trend reversal, no text",
+      "image_prompt": "cute pastel infographic illustration of a central bank building with a soaring inflation graph and rising interest rate arrows, no text",
       "detail": {
-        "summary": "8월 말 비은행 예금취급기관의 주택관련대출 잔액은 전월 대비 3163억원 증가하며 증가세가 크게 둔화된 반면, 같은 기간 예금은행은 4조3614억원 늘어 대출 시장에서 비은행권과 은행권의 흐름이 역전되는 양상을 보였다.",
+        "summary": "미국 연방준비제도(Fed) 매파 인사들이 여전히 높은 물가와 강화되는 고용시장을 근거로 금리 인상 필요성을 재확인하며 통화정책 완화에 대한 회의적인 입장을 밝혔다.",
         "points": [
-          "한국은행 경제통계시스템 발표 8월 말 통계",
-          "비은행 주택대출 잔액 148조 4350억원, 전월 대비 3163억원 증가",
-          "예금은행 주택대출 잔액 786조 890억원, 전월 대비 4조 3614억원 증가",
-          "연초 급증했던 비은행권 대출이 주춤하며 은행권 위주로 대출 증가 전환"
+          "미국 중앙은행 인사들, 물가 압력 여전히 높다고 평가",
+          "고용시장이 '상당히 잘 돌아가고 있으며 다소 강화될 조짐' 보인다고 진단",
+          "고용 둔화 시 통화정책 완화를 주장하는 비둘기파와 대비",
+          "인플레이션 억제를 위한 긴축 기조 유지 전망"
         ],
-        "quote": "8월 말 비은행 예금취급기관의 주택관련대출 잔액은 148조4350억원으로 전월보다 3163억원 증가했다. 같은 기간 예금은행은 786조890억원으로 4조3614억원 늘었다.",
-        "context": "주택대출 시장의 변화는 가계 부채 및 부동산 시장 안정화에 중요한 영향을 미치므로, 비은행권 대출 증가세 둔화는 거시 경제 정책에 대한 시그널이 될 수 있다.",
-        "source_url": "https://www.etoday.co.kr/news/view/2644078"
+        "quote": "중앙은행의 책무 중 하나인 고용 측면에서 보면 경제가 상당히 잘 돌아가고 있다. 오히려 노동시장이 다소 강화될 조짐이 보인다.",
+        "context": "연준의 금리 정책은 글로벌 경제에 막대한 영향을 미치며, 지속적인 고물가와 견조한 고용 시장은 연준의 긴축 기조를 장기화시킬 수 있어 국제 금융 시장의 주요 변수로 작용한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002719608?sid=104"
       },
-      "image_url": "data/images/2026-11-05/economy-27.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20central%20bank%20building%20with%20a%20soaring%20inflation%20graph%20and%20rising%20interest%20rate%20arrows%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=29202&nologo=true"
     },
     {
-      "id": "economy-37",
+      "id": "economy-hanjin-airlines",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "timeline",
-      "title": "中 국유기업 '화파그룹' 채무 위기…부동산 침체 여파",
-      "subtitle": "주하이 경제 핵심 기둥, 채권시장 불안정 요인으로 부상",
+      "viz_type": "bar_chart",
+      "title": "고유가 속 한진그룹 항공사 실적 선방, 통합 앞두고 '험로' 예고",
+      "subtitle": "대한항공-아시아나 통합, LCC 본사 문제 등 복잡한 난제 직면",
       "viz_data": {
         "stats": [
           {
-            "value": "핵심 기둥",
-            "label": "주하이 경제"
+            "value": "선방",
+            "label": "3분기 실적"
           },
           {
-            "value": "지속",
-            "label": "부동산 침체"
+            "value": "고유가",
+            "label": "악재"
           },
           {
-            "value": "글로벌",
-            "label": "거시경제 영향"
+            "value": "복병",
+            "label": "통합 과정"
           }
         ],
-        "main_number": "부동산 침체",
-        "main_text": "중국 주하이 최대 국유기업의 채무 위기, 부동산발 금융 불안 심화"
+        "main_number": "난제",
+        "main_text": "항공사 통합 과정에서 예상치 못한 복병 등장"
       },
-      "image_prompt": "cute pastel infographic illustration, cracked building, Chinese yuan symbols, falling dominoes, financial graphs, no text",
+      "image_prompt": "cute pastel infographic illustration of airplanes flying high with a graph showing good performance, but with a rocky path ahead for a merger, no text",
       "detail": {
-        "summary": "중국 주하이 최대 국유기업 화파그룹이 지속된 부동산 침체로 자금 회수가 막히면서 채무 위기에 직면, 중국 채권시장을 요동치게 하고 있다.",
+        "summary": "한진그룹 계열 항공사들이 고유가 악재에도 3분기 실적을 선방했지만, 대한항공-아시아나항공 통합을 앞두고 통합 저비용항공사(LCC) 본사 위치 문제 등 곳곳에서 복병이 터져나오고 있다.",
         "points": [
-          "화파그룹, 인프라 건설, 사회주택 조성 등 주하이 경제 핵심 역할",
-          "지속된 부동산 침체로 자금 회수 어려움, 채무 위기 표면화",
-          "글로벌 거시경제 및 금융 전문가들, '중국 부동산 위기' 확산 우려",
-          "민간 부동산업체에서 국유기업으로 위기 전이 가능성 시사"
+          "한진그룹 항공사, 고유가에도 3분기 실적 선방",
+          "대한항공-아시아나항공 통합 과정에 새로운 난제 발생",
+          "통합 LCC 본사 지역 배치를 둘러싼 정치권 및 지자체 갈등",
+          "공정거래위원회 심사, 해외 기업결합 심사 등도 변수"
         ],
-        "quote": "화파그룹 사태는 중국의 부동산 위기가 민간 부동산업체들의 연쇄 부도를 넘어 국유기업 부문으로 확산될 수 있음을 시사한다.",
-        "context": "화파그룹의 채무 위기는 중국 경제의 불안정성을 보여주는 동시에, 글로벌 경제에 미칠 파급 효과에 대한 국제사회의 우려를 증폭시키고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026110415534258870c8c1c064d_1"
+        "quote": "전재수 부산시장이 지난 4일 경제부시장을 중심으로 대한항공 부회장과 통합 LCC 본사 문제를 톱다운 방식으로 논의했다.",
+        "context": "항공 산업의 재편은 국가 경제와 지역 균형 발전에 큰 영향을 미치며, 대형 항공사 간의 통합은 단순히 기업 합병을 넘어선 복잡한 이해관계와 정치적 문제까지 얽혀있다.",
+        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051219189750792"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20cracked%20building%2C%20Chinese%20yuan%20symbols%2C%20falling%20dominoes%2C%20financial%20graphs%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87401&nologo=true"
+      "image_url": "data/images/2026-11-06/economy-hanjin-airlines.jpg"
     },
     {
-      "id": "tech-46",
+      "id": "tech-ai-regulation-korea",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "stats",
-      "title": "HP 새 CEO에 에마 웜즐리 선임…주가 6% 급등",
-      "subtitle": "실리콘밸리 시초 기업, 리더십 변화로 재도약 기대",
+      "viz_type": "bar_chart",
+      "title": "美 중간선거發 AI 규제 우려 속 삼성·SK 메모리 수요 '굳건'",
+      "subtitle": "AI 투자 위축 단정 어려워... 기술 경쟁 우위 전략 지속",
       "viz_data": {
         "stats": [
           {
-            "value": "+6%",
-            "label": "주가 급등"
+            "value": "규제 우려",
+            "label": "美 정치"
           },
           {
-            "value": "1939년",
-            "label": "HP 창업"
+            "value": "굳건",
+            "label": "메모리 수요"
           },
           {
-            "value": "2015년",
-            "label": "회사 분할"
+            "value": "필요",
+            "label": "기술 경쟁"
           }
         ],
-        "main_number": "+6%",
-        "main_text": "HP, 새로운 CEO 선임 소식에 주식 시장 긍정 반응"
+        "main_number": "견조",
+        "main_text": "AI 산업 성장세, 규제 논의에도 메모리 수요 견조"
       },
-      "image_prompt": "cute pastel infographic illustration, stock chart going up, HP logo, executive woman, no text",
+      "image_prompt": "cute pastel infographic illustration of a brain with network connections being regulated by a gavel, but with strong demand lines for memory chips, no text",
       "detail": {
-        "summary": "HP가 에마 웜즐리 전 GSK 대표를 새 CEO로 선임한 소식에 주가가 6% 급등했다. 스마트폰 시대 적응 실패와 무리한 M&A로 회사가 쪼개지는 등 부침을 겪었던 HP가 새로운 리더십을 통해 재도약할 수 있을지 주목된다.",
+        "summary": "미국 중간선거 이후 AI 규제 가능성이 부상했지만, 삼성과 SK 등 국내 반도체 기업들의 메모리 수요 기반은 여전히 굳건하다는 분석이 나오며, AI 산업의 위축을 단정하기는 어렵다는 전망이다.",
         "points": [
-          "에마 웜즐리, 전 GSK 대표로 HP 첫 외부인사 CEO",
-          "1939년 창업 실리콘밸리 시초 기업 HP의 변화",
-          "스마트폰 시대 적응 실패 및 무리한 M&A로 2015년 회사 분할",
-          "기업용 IT 솔루션 중심의 사업 재편 후 주가 반등 기대"
+          "미국 정치 지형 변화로 AI 산업 규제 논의 가능성 부상",
+          "규제 논의에도 AI 투자 위축이나 반도체 수요 감소는 단정 어려움",
+          "실제 입법 및 시행까지 절차 필요, 기술 경쟁 우위 확보 전략 유효",
+          "AMD 등 주요 기업, 데이터센터 사업 성장세 지속"
         ],
-        "quote": "HP는 1939년 빌 휼렛과 데이비드 패커드가 창업한 실리콘밸리의 시초 기업이지만, 스마트폰 시대 적응 실패와 무리한 대형 인수·합병(M&A)의 영향으로 2015년 회사가 쪼개져 기업용 정보기술(IT) 설루션 중심의…",
-        "context": "기술 기업의 리더십 변화는 주가 및 기업 전략에 즉각적인 영향을 미치며, HP의 사례는 전통 IT 기업이 급변하는 시장 환경에 대응하는 방식을 보여준다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016422880?sid=104"
+        "quote": "미국이 AI 산업의 사회적 비용과 데이터센터 운영 문제를 점검하더라도 중국과의 기술 경쟁에서 우위를 확보해야 한다는 전략적 필요성은 여전히 유효하기 때문이다.",
+        "context": "AI 기술은 미래 산업의 핵심 동력으로, 각국 정부의 규제 움직임은 시장의 변동성을 키우지만, 동시에 기술 패권 경쟁 속에서 산업 성장의 방향을 결정하는 중요한 요소가 된다.",
+        "source_url": "http://www.press9.kr/news/articleView.html?idxno=85697"
       },
-      "image_url": "data/images/2026-11-05/tech-46.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20brain%20with%20network%20connections%20being%20regulated%20by%20a%20gavel%2C%20but%20with%20strong%20demand%20lines%20for%20memory%20chips%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23551&nologo=true"
     },
     {
-      "id": "tech-54",
+      "id": "tech-openai-energy",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "diagram",
-      "title": "NTT, 생성형 AI 결합 노후 IT 현대화 서비스 선보여",
-      "subtitle": "일본 최대 통신·IT 그룹, 기업 레거시 시스템 전면 개편",
+      "viz_type": "pie_chart",
+      "title": "오픈AI, 데이터센터 '전력 감축 카드' 꺼냈다... 美 AI 인프라 규제↑",
+      "subtitle": "펜실베이니아주, 대형 데이터센터 규제 도입 등 정치 쟁점화",
       "viz_data": {
         "stats": [
           {
-            "value": "60% 이상",
-            "label": "日 기업 노후 IT"
+            "value": "전력 감축",
+            "label": "오픈AI"
           },
           {
-            "value": "생성형 AI",
-            "label": "핵심 기술"
+            "value": "규제 도입",
+            "label": "펜실베이니아"
           },
           {
-            "value": "차세대",
-            "label": "서비스"
+            "value": "정치 쟁점",
+            "label": "AI 인프라"
           }
         ],
-        "main_number": "60% 이상",
-        "main_text": "일본 기업의 절반 이상, 노후화된 IT 시스템으로 어려움 겪는 중"
+        "main_number": "증가",
+        "main_text": "AI 전력 소비량과 관련 규제 논의 증가 추세"
       },
-      "image_prompt": "cute pastel infographic illustration, old server being upgraded to a new cloud server with AI brain, NTT logo, no text",
+      "image_prompt": "cute pastel infographic illustration of a large data center consuming electricity, with a light bulb being turned down and a state map showing new regulations, no text",
       "detail": {
-        "summary": "일본 최대 통신·IT 그룹 NTT가 인공지능(AI)을 활용하여 기업의 노후화된 IT 시스템을 신속하게 개편하는 차세대 엔터프라이즈 현대화 서비스를 공개했다.",
+        "summary": "오픈AI가 데이터센터 전력 감축 계획을 밝힌 가운데, 미국에서는 AI 인프라 반대가 정치 쟁점으로 부상하며 펜실베이니아주가 대형 데이터센터에 대한 새로운 규제를 도입하는 등 각 주에서 규제 움직임이 확산되고 있다.",
         "points": [
-          "일본 주요 기업의 60% 이상이 수십 년 전 IT 시스템 사용 중",
-          "생성형 AI를 활용하여 노후 시스템 분석 및 최적화",
-          "NTT, '클라우드 마이그레이션'과 '시스템 최적화' 등 단계별 서비스 제공",
-          "유지 보수 비용 절감 및 디지털 전환 가속화 기대"
+          "오픈AI, 전력 소모량 높은 데이터센터 운영 효율화 노력",
+          "미국 내 AI 인프라 건설 반대가 정치 쟁점으로 부상",
+          "펜실베이니아주, 8월 대형 데이터센터에 대한 신규 규제 도입",
+          "주요 기술 기업 7곳, 3월 AI 프로젝트에 대한 책임 있는 개발 서약"
         ],
-        "quote": "일본 최대 통신·IT 그룹인 NTT가 인공지능(AI)을 활용해 기업의 노후화된 정보기술(IT) 시스템을 신속하게 뜯어고치는 차세대 엔터프라이즈 현대화 서비스를 전격 선보인다.",
-        "context": "기업의 디지털 전환 가속화는 글로벌 경쟁력 확보에 필수적이며, NTT의 AI 기반 IT 현대화 서비스는 이러한 흐름 속에서 레거시 시스템 문제 해결의 대안을 제시한다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026110415460878550c8c1c064d_1"
+        "quote": "한편 미국에서는 AI 인프라 반대가 정치 쟁점으로 떠올랐다. 펜실베이니아주는 8월 대형 데이터센터에 대한 규제를 새로 도입했고 다른 주들도 뒤따르고 있다.",
+        "context": "AI 기술의 급격한 발전은 막대한 전력 소비를 수반하며, 이는 환경 문제와 지역 주민의 반발을 야기하고 있다. 이에 대한 기업의 자율적 노력과 정부의 규제 도입은 AI 산업의 지속 가능한 성장을 위한 중요한 과제이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004679308?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20old%20server%20being%20upgraded%20to%20a%20new%20cloud%20server%20with%20AI%20brain%2C%20NTT%20logo%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9783&nologo=true"
+      "image_url": "data/images/2026-11-06/tech-openai-energy.jpg"
     },
     {
-      "id": "tech-59",
+      "id": "tech-sns-regulation-lawsuit",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "stats",
-      "title": "하이퍼리퀴드 숏 비중 53.12%로 하락",
-      "subtitle": "전체 포지션 77.1억 달러…암호화폐 시장 변동성 주목",
+      "viz_type": "map_chart",
+      "title": "구글·메타·틱톡, 캘리포니아주 청소년 SNS 규제에 소송 제기",
+      "subtitle": "전 세계적으로 청소년 SNS 이용 규제 강화 추세 속 법적 공방",
       "viz_data": {
         "stats": [
           {
-            "value": "53.12%↓",
-            "label": "숏 비중"
+            "value": "소송 제기",
+            "label": "빅테크"
           },
           {
-            "value": "77.1억$",
-            "label": "총 포지션"
+            "value": "규제 강화",
+            "label": "캘리포니아"
           },
           {
-            "value": "80.92억$",
-            "label": "이전 기록"
+            "value": "20+",
+            "label": "규제 국가"
           }
         ],
-        "main_number": "53.12%↓",
-        "main_text": "암호화폐 거래소 하이퍼리퀴드 내 숏 포지션 비중 감소"
+        "main_number": "확산",
+        "main_text": "청소년 SNS 규제, 전 세계적 확산 및 플랫폼 기업 반발"
       },
-      "image_prompt": "cute pastel infographic illustration, cryptocurrency graph, down arrow, dollar sign, no text",
+      "image_prompt": "cute pastel infographic illustration of social media app icons being tied up by regulation ropes, with a map showing countries implementing youth SNS restrictions, no text",
       "detail": {
-        "summary": "암호화폐 선물 거래소 하이퍼리퀴드(Hyperliquid)의 숏(매도) 포지션 비중이 53.12%로 하락했으며, 전체 포지션은 77.1억 달러를 기록했다.",
+        "summary": "구글, 메타, 틱톡 등 빅테크 기업들이 미국 캘리포니아주의 청소년 소셜미디어 이용 규제에 맞서 소송을 제기했으며, 전 세계적으로 청소년 SNS 이용 규제가 강화되는 추세 속에서 플랫폼 기업의 표현의 자유와 청소년 보호를 둘러싼 법적 공방이 벌어지고 있다.",
         "points": [
-          "하이퍼리퀴드 숏 비중 53.12% 기록",
-          "전체 포지션 77.1억 달러, 10월 27일 80.92억 달러 대비 감소",
-          "특정 지갑의 5배 크로스 마진 이더리움(ETH) 숏 포지션 유지",
-          "암호화폐 시장의 가격 변동성과 투자 심리 변화 시사"
+          "빅테크 3사, 캘리포니아주의 청소년 SNS 규제에 반발 소송",
+          "청소년 SNS 중독 및 유해 콘텐츠 노출 우려로 규제 강화",
+          "호주 16세 미만 청소년 SNS 이용 금지 등 20여 개국 유사 규제 도입",
+          "플랫폼 기업의 표현의 자유와 청소년 보호의 충돌 문제 심화"
         ],
-        "quote": "It remained below the $8.092 billion recorded in an Oct. 27 snapshot of Hyperliquid positions.",
-        "context": "암호화폐 시장의 숏 포지션 변화는 투자자들의 시장에 대한 기대 심리를 나타내며, 이는 향후 가격 변동성 및 시장 방향을 예측하는 중요한 지표가 된다.",
-        "source_url": "https://econotimes.com/Hyperliquid-Short-Share-Falls-to-53-12-as-Positions-Reach-7-71-Billion-1770946"
+        "quote": "이번 소송은 전 세계적으로 청소년 SNS 이용 규제가 강화되는 가운데 제기됐습니다. 호주가 16세 미만 청소년의 SNS 이용을 금지하는 등 각국이 규제에 나서면서 플랫폼 기업의 표현의 자유와 청소년 보호를 둘러싼 법적... ",
+        "context": "디지털 시대에 청소년의 건강한 성장을 위해 소셜미디어 이용을 규제하려는 정부의 노력과, 플랫폼 기업의 서비스 운영 자유 및 수익 모델 간의 갈등은 전 세계적인 사회적, 법적 이슈로 부상하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/374/0000542034?sid=101"
       },
-      "image_url": "data/images/2026-11-05/tech-59.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20social%20media%20app%20icons%20being%20tied%20up%20by%20regulation%20ropes%2C%20with%20a%20map%20showing%20countries%20implementing%20youth%20SNS%20restrictions%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88120&nologo=true"
     },
     {
-      "id": "society-60",
+      "id": "society-france-protests",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "comparison",
-      "title": "中企 수출 역대 최대에도 '고용 한파'",
-      "subtitle": "반도체·화장품 견인 불구, 특정 업종 고용 집중 현상 심화",
+      "viz_type": "bar_chart",
+      "title": "프랑스, 생활고 폭발에 60만 명 총파업 시위... 도시 마비",
+      "subtitle": "치솟는 물가·연료비에 국민 분노 폭발, 마크롱 정부 대책 부재",
       "viz_data": {
         "stats": [
           {
-            "value": "역대 최대",
-            "label": "中企 수출"
+            "value": "60만 명",
+            "label": "참가 인원"
           },
           {
-            "value": "+20.7만명",
-            "label": "특정 업종 고용"
+            "value": "심각",
+            "label": "재정 적자"
           },
           {
-            "value": "감소세",
-            "label": "내수·경기 민감"
+            "value": "마비",
+            "label": "도시 기능"
           }
         ],
-        "main_number": "+20.7만명",
-        "main_text": "중소기업 수출 호조에도 불구하고 고용은 특정 분야에만 집중"
+        "main_number": "총파업",
+        "main_text": "전국적 총파업으로 인한 사회적 혼란 가중"
       },
-      "image_prompt": "cute pastel infographic illustration, two contrasting charts (export up, employment uneven), factory, job seekers, no text",
+      "image_prompt": "cute pastel infographic illustration of a large crowd of people protesting in a city street in France, with signs about high cost of living, no text",
       "detail": {
-        "summary": "중소기업 수출이 역대 최대치를 기록했음에도 불구하고 고용 증가가 보건·사회복지서비스업 등 특정 업종에만 집중되고, 숙박음식점업 등 내수·경기 민감 업종에서는 감소세가 이어지며 고용 한파가 심화되고 있다.",
+        "summary": "프랑스에서 치솟는 물가와 연료비 등으로 인한 생활고에 분노한 국민 60만 명(정부 추산)이 총파업 시위에 참여하여 전국 주요 도시가 마비되었고, 재정 불안정과 정치적 분열 속에 마크롱 정부가 강력한 대책을 내놓지 못하고 있다.",
         "points": [
-          "중소기업 수출 호조세 이어져, 특히 반도체·화장품 분야 강세",
-          "고용 증가는 보건·사회복지서비스업 (+20만7000명) 등 특정 업종에 편중",
-          "숙박음식점업 등 전통 내수·경기 민감 업종 취업자 수 감소",
-          "경제 성장과 고용 시장 간의 불균형 심화 우려"
+          "전국 60만 명(정부 추산) 이상 총파업 및 시위 참여",
+          "물가 상승, 연료비 폭등, 공공 서비스 마비 등이 주요 원인",
+          "마크롱 정부의 재정 적자와 정치적 장악력 약화로 대책 부재",
+          "리옹 시위 참여 시민, '한푼 한푼 세면서 사는 데 지쳤다' 불만 표출"
         ],
-        "quote": "고용 증가가 보건·사회복지서비스업(+20만7000명) 등 특정 업종에만 집중되고, 전통적인 내수·경기 민감 업종에서는 감소세가 이어진 것이다.",
-        "context": "중소기업의 고용 불균형은 장기적으로 노동 시장의 활력을 저하시키고 사회 전반의 소득 불평등을 심화시킬 수 있어 정책적인 관심과 해결 노력이 요구된다.",
-        "source_url": "https://www.ekn.kr/web/view.php?key=20261104024125413"
+        "quote": "한 고등학교 봉쇄 도중 학생 한 명이 관련된 흉기 사건이 벌어졌다. 프랑스 대선이 반년도 남지 않은 가운데 재정 불안이 커지고 정치 분열이 극심한 터라 마크롱 정부는 시위 확산에도 강력한 대책을 내놓지 못하고 있다.",
+        "context": "높은 인플레이션과 에너지 위기는 전 세계적인 문제로, 특히 유럽에서는 각국 정부가 국민의 불만을 잠재우고 경제적 안정을 되찾기 위한 해법 마련에 고심하고 있다. 프랑스의 대규모 시위는 이러한 사회적 긴장을 반영한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001883438?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20contrasting%20charts%20%28export%20up%2C%20employment%20uneven%29%2C%20factory%2C%20job%20seekers%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27714&nologo=true"
+      "image_url": "data/images/2026-11-06/society-france-protests.jpg"
     },
     {
-      "id": "society-67",
+      "id": "society-political-discourse",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "stats",
-      "title": "\"약 있어도 물어볼 곳 없다\"…'무약촌' 정책 빈틈",
-      "subtitle": "의료취약지역 주민 93.7% \"상비약 있지만 복용법 몰라\"",
+      "viz_type": "bar_chart",
+      "title": "'막말 경쟁' 저주의 정치, 공천 불이익으로 개혁 촉구",
+      "subtitle": "정치 양극화 심화… 혐오 언어에 대한 제재 필요성 제기",
       "viz_data": {
         "stats": [
           {
-            "value": "93.7%",
-            "label": "복용법 인지 부족"
+            "value": "확산",
+            "label": "막말 경쟁"
           },
           {
-            "value": "463명",
-            "label": "조사 대상"
+            "value": "필요",
+            "label": "공천 불이익"
           },
           {
-            "value": "2026년",
-            "label": "조사 시점"
+            "value": "심화",
+            "label": "양극화"
           }
         ],
-        "main_number": "93.7%",
-        "main_text": "의료취약지역 주민 대다수가 약에 대한 정보 부족"
+        "main_number": "개혁",
+        "main_text": "정치 혐오증 해소를 위한 정당 개혁 목소리"
       },
-      "image_prompt": "cute pastel infographic illustration, house in a remote area, medicine cabinet with question marks, elderly person, no text",
+      "image_prompt": "cute pastel infographic illustration of a microphone with harsh words coming out, being crossed out by a red circle, and scales representing fair political competition, no text",
       "detail": {
-        "summary": "의료취약지역 주민 463명을 대상으로 한 조사에서 93.7%가 상비약이 있어도 복용법을 정확히 모른다고 응답하며 '무약촌' 정책의 빈틈이 드러났다.",
+        "summary": "정치 양극화와 혐오증을 키우는 정치인들의 '막말 경쟁'을 막기 위해 폭언을 한 국회의원에게 공천 불이익을 주는 등 정당 개혁이 필요하다는 주장이 제기되고 있다.",
         "points": [
-          "대한약사회, 2026년 의료취약지역 주민 463명 대상 조사",
-          "응답자 중 93.7%가 가정 내 상비약 복용법에 대한 정보 부족 호소",
-          "'무약촌' 지역의 의약품 접근성뿐 아니라 안전한 사용 환경 문제 지적",
-          "국민 의약품 안전을 위한 정부 및 국회의 책임 있는 대응 촉구"
+          "정치 양극화 및 혐오증 심화의 원인으로 막말 경쟁 지목",
+          "폭언 정치인에게 공천 불이익, 벌금, 출석 정지 등 제재 주장",
+          "미국 중간선거, '혐오와 차별의 언어'에 대한 유권자 심판 사례로 언급",
+          "서용주 소장, '극단적인 지지층은 자극적이고 혐오적인 단어에 열광' 지적"
         ],
-        "quote": "대한약사회가 2026년 의료취약지역 주민 463명을 대상으로 실시한 조사에서 응답자의 93.7%는 가정에 상비약을 보유하고 있었지만, 정확한 복용법을 알지 못한다고 응답했다.",
-        "context": "의약품 접근성 확보와 함께 올바른 사용 정보 제공은 국민 건강권 보호의 핵심이다. '무약촌'의 현실은 현행 보건 정책의 사각지대를 보여주며, 이에 대한 근본적인 해결책 마련이 시급하다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548151"
+        "quote": "정치 양극화와 정치 혐오증을 키우는 정치인들의 막말 경쟁을 막으려면 폭언을 한 국회의원에게 공천 불이익을 주는 등 정당 개혁이 필요하다는 주장이 제기된다.",
+        "context": "정치인의 언어는 사회 전체의 품격을 결정하고 유권자의 정치 참여 의지에 영향을 미친다. 건강한 민주주의 발전을 위해 책임 있는 정치 언어의 확립과 이를 위한 제도적 개선은 지속적인 사회적 과제이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001163436?sid=100"
       },
-      "image_url": "data/images/2026-11-05/society-67.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20microphone%20with%20harsh%20words%20coming%20out%2C%20being%20crossed%20out%20by%20a%20red%20circle%2C%20and%20scales%20representing%20fair%20political%20competition%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32960&nologo=true"
     },
     {
-      "id": "society-77",
+      "id": "society-healthcare-reform",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "stats",
-      "title": "뇌 건강 지키는 핵심 전략, '운동 처방'",
-      "subtitle": "유산소 운동, 인지기능 개선 및 치매 위험 35% 감소 효과",
+      "viz_type": "flow_chart",
+      "title": "국립대병원 복지부 이관, 지역 필수공공의료 강화 기대와 우려 교차",
+      "subtitle": "의료계·시민사회 의견 분분... 과제 이행 속도에 주목",
       "viz_data": {
         "stats": [
           {
-            "value": "35%↓",
-            "label": "치매 위험"
+            "value": "이관",
+            "label": "국립대병원"
           },
           {
-            "value": "주 150분",
-            "label": "권장 운동량"
+            "value": "강화",
+            "label": "필수공공의료"
           },
           {
-            "value": "73%",
-            "label": "WHO 권장 미달"
+            "value": "분분",
+            "label": "의견"
           }
         ],
-        "main_number": "35%↓",
-        "main_text": "규칙적인 유산소 운동으로 치매 발병 위험 크게 감소"
+        "main_number": "개선",
+        "main_text": "지역 의료 불균형 해소 위한 정책 변화"
       },
-      "image_prompt": "cute pastel infographic illustration, brain with gears, person exercising, doctor prescribing exercise, no text",
+      "image_prompt": "cute pastel infographic illustration of a hospital building being transferred from one hand to another, with arrows showing opinions diverging, no text",
       "detail": {
-        "summary": "운동이 뇌 건강을 지키는 핵심 전략으로 주목받고 있다. 유산소 운동은 인지기능을 개선하고 치매 발병 위험을 35%까지 낮출 수 있는 것으로 나타났다.",
+        "summary": "지역 필수공공의료 강화를 위해 국립대병원의 주무 부처를 교육부에서 복지부로 이관하는 방안에 대해 의료계와 시민사회, 환자단체 간에 기대와 우려가 교차하고 있으며, 충분한 검토 없이 서두른다는 시각과 더 이상 미룰 수 없다는 시각이 맞서고 있다.",
         "points": [
-          "유산소 운동, 뇌 혈류 개선 및 인지기능 향상에 기여",
-          "규칙적인 운동으로 치매 발병 위험 35% 감소 효과 확인",
-          "국내 노인의 73%, WHO 권장 운동량 (주 150분) 미달",
-          "의료진의 운동 처방 및 지역사회 운동 프로그램 연계 중요성 부각"
+          "국립대병원 주무 부처, 교육부에서 복지부로의 이관 검토",
+          "지역 필수공공의료 강화 목적",
+          "의료계 및 시민사회에서 '충분한 검토 없는 이관' 우려 표명",
+          "'더 이상 미룰 수 없는 과제'라는 찬성 의견도 존재",
+          "9개 국립대병원협회, 정책의 신중한 추진 촉구"
         ],
-        "quote": "기존 메타분석에서는 유산소 운동이 이들의 전반적인 인지기능을 개선하고 작업기억과 주의력, 사회인지 기능을 향상시키는 것으로 나타났다.",
-        "context": "고령화 사회에서 뇌 건강은 삶의 질을 결정하는 중요한 요소이며, 운동 처방은 약물 치료를 넘어선 예방적 건강 관리의 핵심 전략으로 떠오르고 있다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548071"
+        "quote": "이를 두고 의료계와 시민사회·환자단체 의견이 갈린 바 있다. 충분한 검토 없이 이관을 서두르는 것을 우려하는 시각과 더 이상 미룰 수 없는 과제라는 시각이 교차됐다.",
+        "context": "지방 소멸과 의료 인프라 불균형은 한국 사회의 중요한 문제로, 국립대병원의 역할 재정립은 지역 의료 서비스의 질을 높이고 의료 격차를 해소하는 데 핵심적인 정책 방향이 될 것이다.",
+        "source_url": "https://www.dailymedi.com/news/news_view.php?wr_id=942287"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20brain%20with%20gears%2C%20person%20exercising%2C%20doctor%20prescribing%20exercise%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39112&nologo=true"
+      "image_url": "data/images/2026-11-06/society-healthcare-reform.jpg"
     },
     {
-      "id": "life-102",
+      "id": "life-kpop-contracts",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "map",
-      "title": "외국인 발길, 명동 넘어 골목·시장으로…서울 상권지도 변화",
-      "subtitle": "SNS 입소문 타고 전통시장 등 한국 생활문화 체험 증가",
+      "viz_type": "checklist",
+      "title": "NYT \"뉴진스 미성년 계약서, '수면·휴식권' 삭제\"... 논란 확산",
+      "subtitle": "대중문화예술인 표준전속계약서 위반... 미성년 아티스트 보호 논란 재점화",
       "viz_data": {
         "stats": [
           {
-            "value": "명동",
-            "label": "기존 선호"
+            "value": "삭제",
+            "label": "수면/휴식권"
           },
           {
-            "value": "골목/시장",
-            "label": "신규 선호"
+            "value": "삽입",
+            "label": "연애 금지"
           },
           {
-            "value": "SNS",
-            "label": "주요 채널"
+            "value": "위반",
+            "label": "표준계약서"
           }
         ],
-        "main_number": "변화 중",
-        "main_text": "외국인 관광객의 쇼핑 및 체험 장소가 다양해지는 추세"
+        "main_number": "재점화",
+        "main_text": "미성년 K-POP 아티스트의 인권 및 노동권 보호 논란"
       },
-      "image_prompt": "cute pastel infographic illustration, map of Seoul, pins on traditional markets and alleyways, tourists taking photos, no text",
+      "image_prompt": "cute pastel infographic illustration of a contract with a checklist, showing crossed-out terms like 'sleep rights' and 'dating', with K-Pop idols in the background, no text",
       "detail": {
-        "summary": "외국인 관광객들의 발길이 명동 등 주요 관광지에서 벗어나 익선동 한옥, 성수동 IT산업개발진흥지구, 전통시장 등 서울의 골목상권으로 확산되고 있다.",
+        "summary": "뉴욕타임스가 뉴진스 미성년 멤버들의 계약서에 '수면 및 휴식권'이 삭제되고 '연애 금지' 조항이 삽입되는 등 문화체육관광부의 표준전속계약서를 위반한 내용이 포함되어 있다고 보도하며 미성년 아티스트 보호에 대한 논란이 재점화됐다.",
         "points": [
-          "외국인 관광객, 한국 생활문화 체험 및 관련 상품 구매 증가",
-          "익선동, 성수동, 종로3가 포장마차 등 골목상권 인기 상승",
-          "영국 매체 '타임아웃', 익선동 일대를 '2026 세계에서 가장 멋진 동네' 1위 선정",
-          "서울시, 야간 먹거리 및 문화·관광 콘텐츠 결합한 야간경제 활성화 정책 추진"
+          "NYT, 뉴진스 미성년 계약서 '수면·휴식권' 삭제 및 '연애 금지' 조항 지적",
+          "문체부 표준전속계약서 및 대중문화예술산업발전법 위반 가능성",
+          "부모 요구에 소속사 '계약 파기' 압박 주장 제기",
+          "미성년 아이돌의 인권 보호 및 노동 환경에 대한 사회적 관심 촉구"
         ],
-        "quote": "사회관계망서비스(SNS)를 통해 입소문을 타면서 한국의 생활문화를 경험하고 관련 상품을 구매하려는 발길이 이어지고 있다.",
-        "context": "외국인 관광객의 소비 패턴 변화는 서울의 도시 문화 및 지역 경제 활성화에 새로운 기회를 제공하며, 이는 도시 브랜딩 전략에도 영향을 미치고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016422883?sid=103"
+        "quote": "NYT가 분석한 계약서에 따르면 문화체육관광부의 대중문화예술인 표준전속계약서 및 현행 대중문화예술산업발전법 제21조가 명시한 신체적... ",
+        "context": "세계적인 인기를 얻고 있는 K-POP 산업 이면의 그림자는 꾸준히 문제 제기되어 왔다. 특히 미성년 아티스트의 계약 조건과 노동 환경은 공정한 산업 생태계 조성과 청소년 보호라는 중요한 가치를 논의하는 계기가 된다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=93150"
       },
-      "image_url": "data/images/2026-11-05/life-102.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20contract%20with%20a%20checklist%2C%20showing%20crossed-out%20terms%20like%20%27sleep%20rights%27%20and%20%27dating%27%2C%20with%20K-Pop%20idols%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=89062&nologo=true"
     },
     {
-      "id": "life-89",
+      "id": "life-nonalcoholic-trend",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "stats",
-      "title": "‘쇼챔피언’ 앤더블, 음악방송 2관왕 달성",
-      "subtitle": "2연속 하프 밀리언셀러, 전 세계 15개 지역 차트 진입",
+      "viz_type": "line_chart",
+      "title": "비엔나에서 보는 '논알코올' 트렌드... 음식 문화의 미래를 제시",
+      "subtitle": "와인 없는 저녁 식사, 하나의 라이프스타일로 자리매김",
       "viz_data": {
         "stats": [
           {
-            "value": "2관왕",
-            "label": "음악방송"
+            "value": "인정",
+            "label": "새로운 라이프스타일"
           },
           {
-            "value": "2연속",
-            "label": "하프 밀리언셀러"
+            "value": "30+",
+            "label": "음료 박람회 참가"
           },
           {
-            "value": "15개+",
-            "label": "아이튠즈 차트 지역"
+            "value": "확장",
+            "label": "유럽 전역"
           }
         ],
-        "main_number": "2관왕",
-        "main_text": "K-POP 그룹 앤더블, 성공적인 글로벌 활동 이어가"
+        "main_number": "대세",
+        "main_text": "건강과 취향을 중시하는 논알코올 음료 시장 성장"
       },
-      "image_prompt": "cute pastel infographic illustration, K-Pop stage, trophy, chart rankings, microphone, no text",
+      "image_prompt": "cute pastel infographic illustration of people toasting with elegant non-alcoholic drinks, with a bar graph showing the growth of this trend in Europe, no text",
       "detail": {
-        "summary": "K-POP 그룹 앤더블이 '쇼챔피언'에서 2연속 음악방송 1위를 차지하며 2관왕에 올랐다. 신보는 전 세계 15개 지역 아이튠즈 톱 앨범 차트 10위권에 진입하는 등 글로벌 인기를 입증했다.",
+        "summary": "오스트리아 비엔나에서 '술 없는 저녁 식사'가 새로운 라이프스타일로 인정받으며 논알코올·저알코올 음료 박람회가 성공적으로 개최되는 등 건강과 취향을 중시하는 음식 문화의 미래 트렌드가 제시되고 있다.",
         "points": [
-          "음악방송 '쇼챔피언'에서 두 번째 1위 차지",
-          "2연속 하프 밀리언셀러 (50만 장 이상 판매) 달성",
-          "신보, 전 세계 15개 지역 아이튠즈 톱 앨범 차트 10위권 진입",
-          "'프렌치 키싱' 뮤직비디오 조회수 3600만 회 돌파"
+          "비엔나에서 논알코올 음료가 새로운 라이프스타일로 부상",
+          "퓨처푸드위크에서 첫 선보인 논알코올·저알코올 음료 박람회 '운베슈비프스트' 성황",
+          "유럽 전역에서 30여 개 업체 참가, 시장 성장세 입증",
+          "음식과 음료의 경계가 사라지는 새로운 미식 경험 추구"
         ],
-        "quote": "앤더블은 2연속 하프 밀리언셀러를 달성했으며, 신보는 전 세계 15개 지역 아이튠즈 톱 앨범 차트 10위권에 진입했다.",
-        "context": "K-POP 그룹 앤더블의 성공은 한국 대중문화 콘텐츠의 글로벌 파급력을 보여주는 사례로, 음반 판매 및 차트 성적을 통해 전 세계 팬덤의 규모를 가늠할 수 있다.",
-        "source_url": "https://www.bntnews.co.kr/article/view/bnt202611050003"
+        "quote": "비엔나에서는 이미 와인 없는 저녁 식사가 하나의 라이프스타일로 인정받고 있다. 올해 퓨처푸드위크에서 처음 선보인 논알코올·저알코올 음료 박람회 ‘운베슈비프스트’가 그 방증이었다.",
+        "context": "건강에 대한 관심 증가와 음주 문화의 변화가 맞물리면서 논알코올 및 저알코올 시장이 빠르게 성장하고 있다. 이는 단순한 대체품을 넘어 새로운 미식 경험과 라이프스타일을 창조하는 중요한 문화적 흐름으로 자리 잡고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006404654?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20K-Pop%20stage%2C%20trophy%2C%20chart%20rankings%2C%20microphone%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70040&nologo=true"
+      "image_url": "data/images/2026-11-06/life-nonalcoholic-trend.jpg"
     },
     {
-      "id": "life-123",
+      "id": "life-social-trend-gakhalmo",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "comparison",
-      "title": "\"물 2L 마셨는데 왜?\"…맹물 과다 섭취 위험",
-      "subtitle": "나트륨 결핍 및 신장 부담 증가, 순수 수분 섭취 1.2L 권장",
+      "viz_type": "icon_array",
+      "title": "디지털 시대 새로운 인간관계 트렌드 '각할모' 부상",
+      "subtitle": "'각자 할 일 하는 모임'... 함께 있지만 독립적인 활동 추구",
       "viz_data": {
         "stats": [
           {
-            "value": "2L",
-            "label": "일반적 인식"
+            "value": "증가",
+            "label": "신조어"
           },
           {
-            "value": "1~1.2L",
-            "label": "순수 수분 권장량"
+            "value": "공간 공유",
+            "label": "활동 방식"
           },
           {
-            "value": "전해질 불균형",
-            "label": "위험"
+            "value": "독립성",
+            "label": "개인 활동"
           }
         ],
-        "main_number": "1~1.2L",
-        "main_text": "체중 감량을 위한 맹물 과다 섭취, 건강에 오히려 해로울 수 있어"
+        "main_number": "새로운",
+        "main_text": "함께의 가치와 독립성을 동시에 추구하는 청년층 모임"
       },
-      "image_prompt": "cute pastel infographic illustration, water bottle with question mark, balanced diet plate, kidney icon, no text",
+      "image_prompt": "cute pastel infographic illustration of several people sitting together in a cafe, each doing a different activity (reading, working on laptop, drawing), showing independent but shared space, no text",
       "detail": {
-        "summary": "체중 감량을 위해 하루 2L 이상의 맹물을 과다 섭취할 경우, 전해질 불균형과 체내 삼투압 붕괴로 나트륨 결핍 및 신장 부담이 증가할 수 있다.",
+        "summary": "청년층에서 '각자 할 일을 하는 모임'이라는 의미의 신조어 '각할모'가 새로운 라이프스타일로 주목받고 있으며, 이는 물리적으로 함께 있지만 각자 독립적인 활동을 하는 새로운 형태의 인간관계를 보여준다.",
         "points": [
-          "맹물 과다 섭취 시 체내 삼투압 붕괴로 세포 부풀어 오름",
-          "나트륨 결핍으로 인한 피로, 무기력증, 심하면 혼수상태까지 유발",
-          "성인 기준 순수 수분 섭취 권장량은 하루 1L에서 1.2L 수준",
-          "식사, 과일, 채소 등 음식 섭취를 통한 수분 공급도 중요"
+          "청년층 사이 '각자 할 일을 하는 모임(각할모)' 유행",
+          "카페나 도서관 등 한 공간에서 각자 다른 활동 수행",
+          "물리적 유대감과 개인의 독립성 동시 추구",
+          "디지털 시대에 외로움을 해소하면서도 방해받지 않는 관계 선호"
         ],
-        "quote": "체중 감량을 위해 식사량을 줄인 상태에서 맹물만 과다하게 마실 경우, 전해질 불균형과 체내 삼투압 붕괴로 저나트륨혈증이 나타날 수 있다.",
-        "context": "건강 상식으로 알려진 '하루 2L 물 마시기'는 오해의 소지가 있으며, 개인의 신체 상태와 활동량에 맞는 적절한 수분 섭취 방법을 인지하는 것이 중요하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004172622?sid=103"
+        "quote": "요즘 청년층의 새로운 라이프 스타일로 '각할모'라는 모임이 눈길을 끈다. '각자 할 일을 하는 모임'의 줄임말이다.",
+        "context": "디지털 커뮤니케이션에 익숙한 MZ세대가 오프라인에서도 자신만의 공간과 시간을 존중받으면서도 '함께'라는 유대감을 느끼려는 욕구를 반영하는 현상이다. 이는 현대 사회의 변화하는 인간관계 양상을 보여주는 트렌드이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005437399?sid=110"
       },
-      "image_url": "data/images/2026-11-05/life-123.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20several%20people%20sitting%20together%20in%20a%20cafe%2C%20each%20doing%20a%20different%20activity%20%28reading%2C%20working%20on%20laptop%2C%20drawing%29%2C%20showing%20independent%20but%20shared%20space%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44686&nologo=true"
     }
   ],
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T06:08:42.322919+09:00"
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T06:10:47.724547+09:00"
 }
