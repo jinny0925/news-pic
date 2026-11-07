@@ -1,0 +1,557 @@
+{
+  "cards": [
+    {
+      "id": "world-01",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map_chart",
+      "title": "유럽 5개국, 영국 EU 전력시장 재통합 촉구",
+      "subtitle": "북해 청정에너지 허브 구축 위한 협력 가속화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5개국",
+            "label": "요구"
+          },
+          {
+            "value": "EU 탈퇴",
+            "label": "영국"
+          }
+        ],
+        "main_number": "북해",
+        "main_text": "세계 최대 청정에너지 허브 기대"
+      },
+      "image_prompt": "cute pastel infographic illustration, European countries map with energy symbols, connecting UK, no text",
+      "detail": {
+        "summary": "유럽 5개국이 영국에 EU 전력시장 재통합을 촉구하며 북해를 세계 최대의 청정에너지 허브로 만들겠다는 목표를 공유했습니다.",
+        "points": [
+          "유럽 5개국, 영국 EU 전력시장 재통합 제안",
+          "북해, 세계 최대 청정에너지 허브로 전환 목표",
+          "브렉시트 이후 경제적 타격 극복 노력",
+          "노동당 총리, EU와의 긴밀한 관계 구축 희망"
+        ],
+        "quote": "북해 지역의 잠재력을 최대한 발휘하고 세계 최대의 청정에너지 허브로 탈바꿈시키는 데 필수적.",
+        "context": "영국의 EU 탈퇴 이후 경제적 불확실성이 지속되는 가운데, 에너지 협력을 통해 새로운 성장 동력을 찾으려는 유럽 국가들의 움직임이 주목됩니다. 이는 단순한 경제적 이득을 넘어 기후 변화 대응이라는 전 지구적 과제에도 기여할 수 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026110805541993412bd56fbc3c_1"
+      },
+      "image_url": "data/images/2026-11-08/world-01.jpg"
+    },
+    {
+      "id": "world-02",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "미·중 희토류 갈등 재점화, 무역 전쟁 장기화 조짐",
+      "subtitle": "핵심 광물 공급망을 둘러싼 양국 간 전선 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "미국",
+            "label": "압박"
+          },
+          {
+            "value": "중국",
+            "label": "수출 통제"
+          }
+        ],
+        "main_number": "희토류",
+        "main_text": "핵심 산업의 필수 자원"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing US and China flags with arrows pushing against rare earth element symbols, representing trade conflict, no text",
+      "detail": {
+        "summary": "미국이 중국에 희토류 무역 합의 이행을 압박하며 미·중 무역 갈등이 다시 고조되고 있습니다. 이는 다음 정상회담에도 영향을 미칠 것으로 예상됩니다.",
+        "points": [
+          "미국, 중국의 희토류 무역 합의 이행 촉구",
+          "핵심 산업 자원인 희토류 공급망 통제 경쟁 심화",
+          "트럼프-시진핑 정상회담 앞두고 갈등 격화",
+          "양국 경제 관계의 불확실성 증대"
+        ],
+        "quote": "무역 협상에서 진전을 이루기 위해서는 이행이 필수적이라는 메시지.",
+        "context": "미국과 중국 간의 무역 갈등은 단순한 관세 문제를 넘어 반도체, 희토류 등 첨단 산업의 핵심 자원을 둘러싼 패권 경쟁으로 확산되고 있습니다. 이는 글로벌 공급망 불안정성을 가중시키고 전 세계 경제에 파급 효과를 미칠 수 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026110805403323382bd56fbc3c_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20showing%20US%20and%20China%20flags%20with%20arrows%20pushing%20against%20rare%20earth%20element%20symbols%2C%20representing%20trade%20conflict%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90763&nologo=true"
+    },
+    {
+      "id": "world-03",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "'논문공장' 국제 학계 스캔들, 국내 연구자 연루 의혹",
+      "subtitle": "연구 부정행위 확산에 학술계 신뢰도 위기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1천400여편",
+            "label": "철회 논문"
+          },
+          {
+            "value": "전 세계",
+            "label": "규모"
+          }
+        ],
+        "main_number": "연구 윤리",
+        "main_text": "학계의 근본적 신뢰 훼손"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing stacks of academic papers with some crossed out, magnifying glass examining research data, symbolizing academic integrity issue, no text",
+      "detail": {
+        "summary": "전 세계적으로 '논문공장' 의혹이 확산되며 1천400여편의 논문이 철회됐고, 국내 연구자들의 연루 가능성까지 제기돼 학술계의 연구 윤리 문제가 도마 위에 올랐습니다.",
+        "points": [
+          "전 세계적 '논문공장' 의혹, 대규모 논문 철회",
+          "논문 저자 자격 매매 가능성 제기",
+          "국내 연구자 연루 여부 조사 진행 중",
+          "양적 평가 위주 연구 풍토 개선 촉구"
+        ],
+        "quote": "연구부정행위의 급격한 확산 원인 중 하나가 양적 평가 제도.",
+        "context": "연구 성과를 양적인 수치로만 평가하는 풍토가 만연하면서 논문 매매와 같은 연구 부정행위가 증가하고 있습니다. 이는 학술 연구의 근본적인 신뢰를 훼손하며, 연구자들의 윤리 의식 강화와 제도적 개선의 필요성을 크게 부각시키고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016428418?sid=102"
+      },
+      "image_url": "data/images/2026-11-08/world-03.jpg"
+    },
+    {
+      "id": "economy-01",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "stacked_bar_chart",
+      "title": "3분기 상용직 증가 주도층은 60대 이상, 청년층은 후퇴",
+      "subtitle": "고령화 사회의 고용 시장 양극화 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "75%",
+            "label": "60대 이상 증가분"
+          },
+          {
+            "value": "37만7천명",
+            "label": "20대 '쉬었음'"
+          }
+        ],
+        "main_number": "고령화",
+        "main_text": "고용 시장 구조 변화 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing bar charts representing employment rates by age groups, with 60s+ increasing and 20s-30s decreasing. No text.",
+      "detail": {
+        "summary": "올해 3분기 상용직 증가분의 75%를 60대 이상이 차지한 반면, 20·30대 청년층은 '쉬었음' 인구가 늘며 고용 시장의 세대 간 양극화가 심화되고 있습니다.",
+        "points": [
+          "3분기 상용직 증가분 75%, 60대 이상 차지",
+          "20·30대 '쉬었음' 인구 증가세",
+          "청년층 고용 시장 진입 어려움 반영",
+          "고령층 경제활동 참가 증가 현상"
+        ],
+        "quote": "20대 '쉬었음' 인구는 37만7천명으로 나타났다.",
+        "context": "급격한 고령화와 저출생 현상이 고용 시장의 구조를 변화시키고 있습니다. 고령층의 경제활동 참여는 늘어나지만, 청년층은 양질의 일자리 부족 등으로 어려움을 겪으며 미래 성장 동력에 대한 우려를 키우고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016428422?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20showing%20bar%20charts%20representing%20employment%20rates%20by%20age%20groups%2C%20with%2060s%2B%20increasing%20and%2020s-30s%20decreasing.%20No%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90829&nologo=true"
+    },
+    {
+      "id": "economy-02",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "환율 1350원대 돌파, '블루쓰나미'에 변동성 확대",
+      "subtitle": "대내외 복합 변수로 불안정한 외환 시장 지속",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1350원+",
+            "label": "원·달러 환율"
+          }
+        ],
+        "main_number": "환율 변동성",
+        "main_text": "대외 불확실성 증폭"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a wavy blue line graph representing exchange rate volatility, with upward spikes. No text.",
+      "detail": {
+        "summary": "원·달러 환율이 1350원대로 급등하며 '블루쓰나미' 현상이 나타났습니다. 미 주가 하락, 금리 인상 전망 등 복합적인 대내외 변수로 당분간 환율 변동성이 클 것으로 예상됩니다.",
+        "points": [
+          "원·달러 환율 1350원대 급등, 불안정성 증대",
+          "미 주가 하락 및 안전자산 선호 심리 강화",
+          "AI 투자 위축에 따른 미 경제 성장 둔화 전망",
+          "내달 미 연준 금리 인상 전망 변화 영향"
+        ],
+        "quote": "원·달러 환율을 둘러싼 대내외 변수가 복잡한 만큼 당분간 변동성이 커질 가능성이 높다.",
+        "context": "글로벌 경제의 불확실성이 커지면서 국내 외환 시장도 불안정한 모습을 보이고 있습니다. 고환율은 수출 기업에 긍정적인 영향을 줄 수도 있지만, 수입 물가 상승으로 인한 인플레이션 압력과 가계 부담 증가로 이어질 수 있어 경제 전반에 주의가 요구됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004173317?sid=101"
+      },
+      "image_url": "data/images/2026-11-08/economy-02.jpg"
+    },
+    {
+      "id": "economy-03",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "대기업과 중소기업 이자보상비율 격차 역대 최대",
+      "subtitle": "고금리 시대, 기업 간 '초양극화' 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "19배",
+            "label": "대기업"
+          },
+          {
+            "value": "3배",
+            "label": "중소기업"
+          }
+        ],
+        "main_number": "양극화",
+        "main_text": "대·중소기업 간 재정 건전성 불균형"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing two contrasting bar charts for large and small businesses, one much higher than the other, symbolizing economic disparity. No text.",
+      "detail": {
+        "summary": "올해 2분기 대기업의 이자보상비율이 중소기업보다 훨씬 높아, 기업 간 재정 건전성 양극화가 역대 최대 수준을 기록했습니다. 고금리 기조 속 중소기업의 어려움이 가중되고 있습니다.",
+        "points": [
+          "2분기 대기업 이자보상비율, 중소기업의 6배 이상",
+          "대기업, 이자비용의 19배 벌지만 중소기업은 3배",
+          "고금리 환경 속 중소기업 자금 조달 및 경영 악화 우려",
+          "경제 전반의 불균형 심화 경고"
+        ],
+        "quote": "대기업은 이자비용의 19배 벌고 중소기업은 3배.",
+        "context": "기준금리 인상과 경기 침체 우려가 겹치면서 기업들의 자금 조달 및 이자 부담이 커지고 있습니다. 특히 재정 여력이 취약한 중소기업은 경영난이 심화될 수 있어, 이로 인한 경제 전반의 연쇄적인 악영향이 우려되는 상황입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016428414?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20showing%20two%20contrasting%20bar%20charts%20for%20large%20and%20small%20businesses%2C%20one%20much%20higher%20than%20the%20other%2C%20symbolizing%20economic%20disparity.%20No%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=54605&nologo=true"
+    },
+    {
+      "id": "tech-01",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "애플, 아이폰 키보드 10만 개 이상 '제한어' 운용 확인",
+      "subtitle": "공격적·정치적 단어 자동완성 및 스와이프 입력에서 제외",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10만+",
+            "label": "제한어"
+          },
+          {
+            "value": "공격적/정치적",
+            "label": "단어 유형"
+          }
+        ],
+        "main_number": "검열 논란",
+        "main_text": "기술 기업의 콘텐츠 통제 범위"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a smartphone keyboard with some words crossed out, symbolizing censorship or filtering. No text.",
+      "detail": {
+        "summary": "애플이 아이폰 키보드 자동완성 및 스와이프 입력 기능에서 공격적이거나 정치적으로 논란이 될 수 있는 10만 개 이상의 단어를 제외하고 있음이 확인되며 논란이 일고 있습니다.",
+        "points": [
+          "아이폰 키보드, 공격적·정치적 단어 자동완성서 제외",
+          "10만 개 이상의 단어가 제한 목록에 포함",
+          "콘텐츠 자율성과 기술 기업의 통제 범위 논쟁",
+          "사용자의 표현의 자유 침해 가능성 제기"
+        ],
+        "quote": "애플이 아이폰 운영체제(OS) 내에서 자동완성, 스와이프 입력 등 키보드 기능을 통해 공격적이거나 정치적으로 논란이 될 수 있는 단어의...",
+        "context": "기술 기업이 자체적인 기준에 따라 특정 단어를 제한하는 행위는 사용자들의 표현의 자유를 침해할 수 있다는 비판을 받고 있습니다. 알고리즘 기반의 콘텐츠 필터링이 보편화되는 가운데, 기술 기업의 사회적 책임과 통제의 한계에 대한 논의가 필요합니다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=624405"
+      },
+      "image_url": "data/images/2026-11-08/tech-01.jpg"
+    },
+    {
+      "id": "tech-02",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "美 AI 데이터센터 규제 우려, 한국 경제 성장률 변수로 부상",
+      "subtitle": "반도체 수출 직격탄 예상, 민주당 정책 변화 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 산업 규제",
+            "label": "美 민주당"
+          },
+          {
+            "value": "반도체 수출",
+            "label": "한국 영향"
+          }
+        ],
+        "main_number": "데이터센터",
+        "main_text": "AI 산업의 핵심 인프라"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a network of data centers with a warning sign, connected to graphs representing economic growth. No text.",
+      "detail": {
+        "summary": "미국 민주당의 AI 데이터센터 규제 우려가 증시를 흔들고 한국의 내년 경제 성장률에도 변수로 작용할 수 있다는 전망이 나왔습니다. 이는 반도체 수출에 직격탄이 될 수 있습니다.",
+        "points": [
+          "미국 민주당의 AI 데이터센터 건설 규제 우려 확산",
+          "한국 증시 및 반도체 수출에 부정적 영향 예상",
+          "데이터센터 추진 지연 시 ESS 산업도 타격",
+          "미국 정책 변화가 글로벌 기술 산업에 미칠 파급 효과"
+        ],
+        "quote": "민주당이 인공지능(AI) 산업 규제에 강하게 드라이브를 걸고 나설 경우 데이터센터 사업 추진이 지연되며 ESS...",
+        "context": "AI 산업의 핵심 인프라인 데이터센터 건설 규제는 기술 발전에 제동을 걸 뿐만 아니라 관련 산업 생태계 전반에 영향을 미칠 수 있습니다. 특히 반도체 수출 의존도가 높은 한국 경제에 상당한 파급 효과가 예상돼 면밀한 주시가 필요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016428415?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20showing%20a%20network%20of%20data%20centers%20with%20a%20warning%20sign%2C%20connected%20to%20graphs%20representing%20economic%20growth.%20No%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12399&nologo=true"
+    },
+    {
+      "id": "tech-03",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "엔비디아 젠슨 황 장녀 방한 취소, 中 스파이 의혹 재점화",
+      "subtitle": "글로벌 AI 기술 패권 전쟁 속 보안 문제 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "엔비디아",
+            "label": "AI 선도"
+          },
+          {
+            "value": "중국",
+            "label": "기술 경쟁"
+          }
+        ],
+        "main_number": "기술 스파이",
+        "main_text": "국가 안보와 직결된 기술 유출"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a powerful AI chip with a suspicious shadowy figure nearby, connected to a map of US and China, symbolizing tech espionage. No text.",
+      "detail": {
+        "summary": "엔비디아 젠슨 황 CEO의 장녀 매디슨 황 수석이사의 방한이 갑작스럽게 취소되며 중국 스파이 의혹이 재점화되고 있습니다. 이는 글로벌 AI 기술 패권을 둘러싼 긴장감을 높이고 있습니다.",
+        "points": [
+          "매디슨 황 수석이사, 방한 하루 전 행사 불참 통보",
+          "美 하원, 젠슨 황에게 비공개 브리핑 요구",
+          "중국 정부의 엔비디아 반도체 접근 '백도어' 의혹",
+          "AI 기술을 둘러싼 미·중 간의 보안 및 통제 경쟁 심화"
+        ],
+        "quote": "중국 당국이 엔비디아 반도체에 접근할 수 있게 하는 '백도어(뒷문)'를 열어둔...",
+        "context": "첨단 기술, 특히 AI 분야는 국가 안보와 경제 패권에 직결되는 핵심 요소로 부상하면서 미·중 간의 기술 경쟁이 격화되고 있습니다. 이러한 배경 속에서 제기되는 기술 스파이 의혹은 단순한 기업 문제를 넘어 국제 외교 및 안보 문제로 확대될 가능성이 큽니다.",
+        "source_url": "https://www.moneystorm.kr/news/articleView.html?idxno=8190"
+      },
+      "image_url": "data/images/2026-11-08/tech-03.jpg"
+    },
+    {
+      "id": "society-01",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "디지털자산법 이달 발표, 대주주 지분규제 이행기간 부여 전망",
+      "subtitle": "가상자산 시장 건전성 확보 및 투자자 보호 강화 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "이달",
+            "label": "발의 목표"
+          },
+          {
+            "value": "금융위",
+            "label": "주관"
+          }
+        ],
+        "main_number": "디지털자산법",
+        "main_text": "가상자산 시장의 제도적 기반 마련"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a digital coin with gears and legal documents, symbolizing digital asset regulation. No text.",
+      "detail": {
+        "summary": "디지털자산법 정부안이 이달 중 발표될 예정이며, 대주주 지분규제에 이행기간이 부여될 전망입니다. 이는 가상자산 시장의 투명성과 건전성을 높이는 데 기여할 것으로 보입니다.",
+        "points": [
+          "금융위원회, 디지털자산법 정부안 공개 준비 중",
+          "이달 안에 발의 목표로 관계기관 협의 막바지",
+          "대주주 지분규제에 유예기간 부여 검토",
+          "가상자산 시장 제도화 통한 투자자 보호 및 건전성 확보"
+        ],
+        "quote": "디지털자산법이 이달 안에 발의되도록 한다는 목표를...",
+        "context": "급변하는 디지털자산 시장에서 투자자를 보호하고 시장의 안정성을 확보하기 위한 법적, 제도적 장치 마련이 시급합니다. 이번 디지털자산법 제정은 가상자산이 사회경제 시스템의 한 축으로 자리 잡을 수 있는 기반을 제공할 중요한 단계로 평가됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016428417?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20showing%20a%20digital%20coin%20with%20gears%20and%20legal%20documents%2C%20symbolizing%20digital%20asset%20regulation.%20No%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38552&nologo=true"
+    },
+    {
+      "id": "society-02",
+      "is_headline": true,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "초등 입학생 30만명 미달, 저출생 쇼크 현실화",
+      "subtitle": "대한민국의 미래를 위협하는 인구 절벽 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30만명 미달",
+            "label": "초등 입학생"
+          },
+          {
+            "value": "사상 처음",
+            "label": "최저 기록"
+          }
+        ],
+        "main_number": "인구 절벽",
+        "main_text": "생산가능인구 감소, 잠재성장률 저하 우려"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a declining bar chart of student numbers, with a small group of children in a large empty classroom, symbolizing low birth rate. No text.",
+      "detail": {
+        "summary": "올해 초등 입학생 수가 사상 처음으로 30만명 아래로 떨어지며 저출생으로 인한 인구 감소 문제가 교육 및 경제 전반에 심각한 영향을 미치고 있음을 보여줍니다.",
+        "points": [
+          "초등 입학생 수 30만명 미달, 사상 최저 기록",
+          "노동력 감소로 인한 잠재성장률 저하 우려",
+          "교육 인프라 및 학급 운영에도 영향 예상",
+          "범국가적 저출생 대책의 시급성 부각"
+        ],
+        "quote": "노동의 양이 줄어드는 만큼 잠재성장률이 저하될 가능성이 크다.",
+        "context": "한국 사회의 지속적인 저출생 현상은 학령인구 감소를 넘어 생산가능인구 감소로 이어져 국가 경제와 사회 시스템 전반에 걸쳐 장기적인 위협 요인으로 작용하고 있습니다. 이번 초등 입학생 수의 급감은 이러한 위협이 현실화되고 있음을 보여주는 강력한 신호입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016428410?sid=102"
+      },
+      "image_url": "data/images/2026-11-08/society-02.jpg"
+    },
+    {
+      "id": "society-03",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "line_chart",
+      "title": "한국 총부양비, OECD 최저에서 2048년 최고로 급증 전망",
+      "subtitle": "저출생·고령화로 인한 사회경제적 부담 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "OECD 최저",
+            "label": "현재"
+          },
+          {
+            "value": "2048년 최고",
+            "label": "전망"
+          }
+        ],
+        "main_number": "총부양비",
+        "main_text": "노동력 부담 가중, 사회 시스템 위협"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a graph with a steep upward curve for dependency ratio, with elderly and children figures over a working adult. No text.",
+      "detail": {
+        "summary": "한국의 총부양비가 현재 OECD 최저 수준에서 2048년 최고 수준으로 빠르게 증가할 것으로 예측됩니다. 이는 저출생·고령화로 인한 사회경제적 부담이 급증함을 의미합니다.",
+        "points": [
+          "한국 총부양비, OECD 국가 중 가장 빠른 속도로 증가",
+          "1인당 교육·훈련비 증가를 통한 노동 질 향상 필요성 제기",
+          "노동력 감당해야 할 사회경제적 부양 부담 심화",
+          "미래 세대의 부담 경감 위한 정책적 대안 마련 시급"
+        ],
+        "quote": "한 나라의 노동력이 감당해야 할 사회경제적 부양 부담을 나타내는 인구지표인 총부양비 역시 한국이 OECD 국가 중 가장 빠르게 늘어난다.",
+        "context": "총부양비 증가는 생산가능인구 1인당 부양해야 할 노인과 유소년의 수가 늘어난다는 것을 의미하며, 이는 국가 재정 부담 증가와 성장 잠재력 약화로 이어질 수 있습니다. 이러한 인구 구조 변화에 선제적으로 대응하기 위한 종합적인 사회 정책이 필수적입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016428411?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20showing%20a%20graph%20with%20a%20steep%20upward%20curve%20for%20dependency%20ratio%2C%20with%20elderly%20and%20children%20figures%20over%20a%20working%20adult.%20No%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88594&nologo=true"
+    },
+    {
+      "id": "life-01",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "스타벅스, 문신 규정 완화…개성 표현 존중하는 문화 확산",
+      "subtitle": "사회적 인식 변화 반영한 기업 문화의 유연성 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1999년",
+            "label": "국내 1호점"
+          },
+          {
+            "value": "개성 표현",
+            "label": "문신 인식"
+          }
+        ],
+        "main_number": "문신 허용",
+        "main_text": "직원의 개성 존중 및 유연한 기업 문화 도입"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing a barista with visible tattoos, confidently serving coffee, symbolizing acceptance and individuality. No text.",
+      "detail": {
+        "summary": "스타벅스가 직원 문신 규정을 완화하며 개인의 개성 표현을 존중하는 문화를 확산시키고 있습니다. 이는 문신을 바라보는 사회적 인식 변화를 반영한 것으로 해석됩니다.",
+        "points": [
+          "스타벅스, 직원 문신 규정 완화",
+          "문신에 대한 사회적 인식 변화 반영",
+          "기업 문화의 유연성 및 다양성 확대 사례",
+          "개인의 개성 표현 존중 트렌드 확산"
+        ],
+        "quote": "문신이 이미 일상적인 문화로 자리 잡아가는 현실을 법과 제도가 뒤늦게 반영한 셈이다.",
+        "context": "과거 부정적인 이미지가 강했던 문신이 이제는 자신만의 취향과 개성을 표현하는 수단으로 인식되고 있습니다. 이러한 사회적 변화에 발맞춰 기업들도 복장 규정 등 내부 규율을 재정비하며 보다 유연하고 개방적인 문화를 조성하려는 노력을 기울이고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/029/0003057625?sid=101"
+      },
+      "image_url": "data/images/2026-11-08/life-01.jpg"
+    },
+    {
+      "id": "life-02",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "timeline",
+      "title": "국민대, AI 시대 인간 감정 탐구하는 첫 예술전 개최",
+      "subtitle": "기술과 예술의 융합, 새로운 문화적 시도 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "9일~20일",
+            "label": "전시 기간"
+          },
+          {
+            "value": "AI 시대",
+            "label": "화두"
+          }
+        ],
+        "main_number": "AI & 예술",
+        "main_text": "인간 감정의 본질을 되묻다"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing an artist painting with a brush, and an AI robot collaborating or observing, symbolizing the intersection of art and technology. No text.",
+      "detail": {
+        "summary": "국민대 문화교차학과가 AI 시대에 인간 감정의 본질을 탐구하는 첫 예술전시회를 개최합니다. 이는 기술과 예술의 융합을 통한 새로운 문화적 시도로 주목받고 있습니다.",
+        "points": [
+          "국민대 문화교차학과, 첫 예술전 '영원의 상 아래에서' 개최",
+          "AI 시대 인간 감정과 존재론적 질문 탐구",
+          "기술 발전이 예술에 미치는 영향 고찰",
+          "융복합 학문 분야의 문화적 확장 가능성 제시"
+        ],
+        "quote": "AI 시대 인간의 감정이 어떠한 변화를 맞이하고 있는지에 대한 존재론적 질문을 던지는...",
+        "context": "인공지능 기술의 발전은 사회 전반에 걸쳐 큰 변화를 가져오고 있으며, 예술 분야 또한 예외는 아닙니다. AI를 활용한 창작 활동이 늘어나면서, 인간의 감성과 창의성이 기술과 어떻게 조화될 수 있을지, 예술의 본질은 무엇인지에 대한 새로운 질문들이 제기되고 있습니다.",
+        "source_url": "http://www.4th.kr/news/articleView.html?idxno=2121368"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20showing%20an%20artist%20painting%20with%20a%20brush%2C%20and%20an%20AI%20robot%20collaborating%20or%20observing%2C%20symbolizing%20the%20intersection%20of%20art%20and%20technology.%20No%20text.%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=30893&nologo=true"
+    },
+    {
+      "id": "life-03",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "귀화 스타, 스포츠·요리·가요계 대표로 한국 문화에 스며들다",
+      "subtitle": "이민 배경 인물들의 사회적 기여와 정체성 혼란 해소 노력",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10년+",
+            "label": "외국인 체류"
+          },
+          {
+            "value": "다양한 분야",
+            "label": "사회 기여"
+          }
+        ],
+        "main_number": "문화 다양성",
+        "main_text": "이민 사회의 긍정적 변화와 포용"
+      },
+      "image_prompt": "cute pastel infographic illustration, showing diverse people from different cultural backgrounds, successfully participating in various fields like sports, cooking, and music, harmoniously integrated. No text.",
+      "detail": {
+        "summary": "귀화한 인물들이 스포츠, 요리, 가요계 등 다양한 분야에서 한국을 대표하는 스타로 활약하며 사회에 기여하고 있습니다. 이들의 활동은 이민 사회의 문화 다양성을 확대하고 정체성 혼란을 해소하는 데 도움을 줍니다.",
+        "points": [
+          "스포츠·요리·가요계 등 다양한 분야에서 활약하는 귀화 스타들",
+          "한국 문화 속에서 성장했으나 법적 제약으로 인한 정체성 혼란",
+          "정부, 우수 외국 인재 국적 취득 장벽 완화 노력",
+          "문화 다양성 증진 및 이민 사회의 긍정적 변화"
+        ],
+        "quote": "한국 사람으로도 인정 못 받고 대만에 가면 한국 사람이라고 했다.",
+        "context": "다문화 사회로 진입하는 한국에서 귀화 인물들의 사회적 기여는 더욱 중요해지고 있습니다. 이들이 겪는 정체성의 혼란을 이해하고, 이들이 한국 사회의 한 구성원으로서 온전히 자리매김할 수 있도록 제도적, 문화적 지원을 강화하는 것이 필요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004173299?sid=102"
+      },
+      "image_url": "data/images/2026-11-08/life-03.jpg"
+    }
+  ],
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T06:09:19.205054+09:00"
+}
