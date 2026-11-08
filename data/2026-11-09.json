@@ -1,0 +1,658 @@
+{
+  "cards": [
+    {
+      "id": "world-us-politics-korea-impact",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "美 여야 충돌, 韓 불확실성 확대",
+      "subtitle": "트럼프 '마이웨이'에 한국 통상·안보 현안 촉각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "277",
+            "label": "뉴스 ID"
+          },
+          {
+            "value": "2026.11.09",
+            "label": "보도일"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "한국 경제·안보 불확실성 증폭"
+      },
+      "image_prompt": "cute pastel infographic illustration, US Congress building with Korean flag in distance, political tension, uncertainty, no text",
+      "detail": {
+        "summary": "미국 중간선거 이후 트럼프 전 대통령의 강경 노선과 민주당의 견제가 격화되며 한국 정부와 기업의 통상·안보 불확실성이 커지고 있습니다.",
+        "points": [
+          "트럼프, 선거 패배에도 강경파 비서실장 임명 등 '마이웨이'",
+          "민주당, 트럼프 행정부 정책 견제 및 핵심 참모 조사 예고",
+          "미국 정치권 대립 격화로 한국의 통상, 안보 정책 불확실성 증대",
+          "관세 정책, 반도체 보조금 등 한국 경제 직결 사업에 영향 우려"
+        ],
+        "quote": "미국 정치권의 대립이 격화하면서 한국 정부와 기업의 불확실성도 커질 전망이다.",
+        "context": "미국 중간선거 이후 백악관과 의회의 권력 분점 상황에서 트럼프 전 대통령의 영향력과 공화당의 행보가 미국의 국내외 정책 방향에 큰 영향을 미치며 한국에도 직간접적인 파급 효과를 주고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005839653?sid=104"
+      },
+      "image_url": "data/images/2026-11-09/world-us-politics-korea-impact.jpg"
+    },
+    {
+      "id": "world-israel-politics",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "이스라엘, 비상정부 구성 움직임",
+      "subtitle": "총리 후보 아이젠코트, 네타냐후 실각 위기 속 새 정부 추진",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1명",
+            "label": "총리 후보"
+          },
+          {
+            "value": "비상",
+            "label": "정부 형태"
+          },
+          {
+            "value": "심화",
+            "label": "외교 위기"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "정치적 불확실성 고조"
+      },
+      "image_prompt": "cute pastel infographic illustration, Israel map with political figures, changing government, diplomacy, no text",
+      "detail": {
+        "summary": "이스라엘 총리 후보 아이젠코트가 국가 비상정부 구성을 추진하며, 네타냐후 총리가 실각 위기에 처하는 등 정치적 격변이 예상됩니다.",
+        "points": [
+          "아이젠코트, '국가비상정부 구성' 선언",
+          "네타냐후 총리, 정치적 압박 직면 및 실각 가능성",
+          "전쟁 지속 및 치명적인 외교 위기 속 정치적 변화 모색",
+          "창의적이고 틀에 얽매이지 않는 정치적 행보 강조"
+        ],
+        "quote": "전쟁터는 여전히 열려있고 치명적인 외교 위기의 한가운데 놓여있다.",
+        "context": "이스라엘은 장기간의 전쟁과 외교적 위기 속에서 국내 정치의 불안정성이 심화되고 있습니다. 새로운 리더십을 통해 위기를 극복하려는 시도가 주목받고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005839652?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20Israel%20map%20with%20political%20figures%2C%20changing%20government%2C%20diplomacy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84095&nologo=true"
+    },
+    {
+      "id": "world-shipbuilding-record",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "세계 조선 수주잔고, 18년 만에 사상 최고치",
+      "subtitle": "2008년 전고점 넘어 2억 2,610만 CGT 기록",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2.26억",
+            "label": "CGT (현재)"
+          },
+          {
+            "value": "18년",
+            "label": "최고점 경신"
+          },
+          {
+            "value": "2008년",
+            "label": "이전 최고"
+          }
+        ],
+        "main_number": "+",
+        "main_text": "사상 최고 수주잔고 달성"
+      },
+      "image_prompt": "cute pastel infographic illustration, stacked cargo ships, world map, record high shipbuilding orders, no text",
+      "detail": {
+        "summary": "전 세계 조선소들의 선박 건조 일감이 2억 2,610만 CGT를 기록하며 2008년 글로벌 금융위기 직전 기록했던 사상 최고치를 18년 만에 경신했습니다.",
+        "points": [
+          "전 세계 수주잔고, 2008년 최고치 돌파하며 사상 최대 기록",
+          "중국 조선소로 건조 능력 집중, 세계 수주잔고의 상당 부분 차지",
+          "액화천연가스(LNG) 운반선 등 고부가가치 선박 수요 증가 영향",
+          "조선 산업의 회복 및 호황 지속 기대"
+        ],
+        "quote": "과거 분산되었던 건조 능력이 중국으로 급격히 쏠리면서, 중국 조선소들이 전 세계 수주잔고의 상당 부분을 차지하고 있다.",
+        "context": "글로벌 무역량 증가와 친환경 선박 전환 수요가 맞물려 조선 산업이 기록적인 호황을 누리고 있습니다. 특히 중국의 독주가 심화되고 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026110816454139350c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-09/world-shipbuilding-record.jpg"
+    },
+    {
+      "id": "world-k-battery-europe",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "pie_chart",
+      "title": "유럽 시장서 K-배터리 위협…CATL 독주 심화",
+      "subtitle": "중국 CATL, 유럽 전기차 시장서 한국 배터리 3사 추월",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "CATL",
+            "label": "1위"
+          },
+          {
+            "value": "3사",
+            "label": "한국 기업"
+          },
+          {
+            "value": "유럽",
+            "label": "주요 시장"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "중국 기업의 시장 점유율 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration, electric car batteries, Europe map, market share competition, no text",
+      "detail": {
+        "summary": "세계 최대 배터리 기업인 중국 CATL이 유럽 전기차 시장에서 한국 배터리 3사의 전체 공급량을 사상 처음으로 추월하며 독주를 심화하고 있습니다.",
+        "points": [
+          "CATL, 중국 외 글로벌 시장에서 한국 3사 공급량 첫 추월",
+          "유럽 전기차 시장에서 가격 경쟁력 앞세워 점유율 확대",
+          "헝가리 등 유럽 현지 공장 건설 및 환경 규제 준수 중요성 부각",
+          "K-배터리 기업, 기술력 및 생산 효율성 강화로 경쟁력 확보 시급"
+        ],
+        "quote": "세계 최대 배터리 기업인 중국 CATL이 자국 안방을 넘어 중국을 제외한 글로벌 시장에서도 한국 배터리 3사(LG에너지솔루션·SK온·삼성SDI)의 전체 공급량을 사상 처음으로 추월했다.",
+        "context": "유럽은 전기차 전환의 핵심 시장으로, 중국 배터리 기업들이 공격적인 가격과 현지 생산을 통해 빠르게 점유율을 늘리고 있습니다. 이는 한국 배터리 기업들에게 중요한 도전 과제가 되고 있습니다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=93300"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20electric%20car%20batteries%2C%20Europe%20map%2C%20market%20share%20competition%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39724&nologo=true"
+    },
+    {
+      "id": "economy-semiconductor-investment",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "외인 투매 속 '삼전닉스' 역사적 저점?",
+      "subtitle": "증권가, AI 경쟁 정치적 언어 과장 반응…분할 매수 적기 조언",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "반도체",
+            "label": "주요 산업"
+          },
+          {
+            "value": "저점",
+            "label": "현 주가"
+          },
+          {
+            "value": "적기",
+            "label": "매수 시점"
+          }
+        ],
+        "main_number": "↓",
+        "main_text": "외국인 투자자 투매 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, stock market chart, semiconductor chips, foreign investors, no text",
+      "detail": {
+        "summary": "외국인 투매로 삼성전자와 SK하이닉스 등 국내 반도체 주가가 역사적 저점에 도달했다는 분석이 나오는 가운데, 증권가는 이를 AI 경쟁 관련 '정치적 언어'에 대한 과장된 반응으로 해석하며 분할 매수를 권고하고 있습니다.",
+        "points": [
+          "외국인 투자자, 국내 반도체 주식 대규모 매도 지속",
+          "증권가, 현재 주가 수준을 '역사적 저점'으로 평가",
+          "AI 경쟁 및 대중국 반도체 규제 등 정치적 불확실성 영향",
+          "단기 공포 과도 반영 판단, 중장기적 관점의 분할 매수 전략 제시"
+        ],
+        "quote": "주가 급락은 AI 경쟁의 본질 속에서 나온 ‘정치적 언어’에 대한 과장된 반응",
+        "context": "글로벌 AI 경쟁 심화와 미국-중국 간 반도체 패권 다툼은 국내 반도체 기업에 직접적인 영향을 미치고 있습니다. 시장은 이러한 거시적 변수에 민감하게 반응하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/029/0003057807?sid=105"
+      },
+      "image_url": "data/images/2026-11-09/economy-semiconductor-investment.jpg"
+    },
+    {
+      "id": "economy-savings-bank-loan",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "저축은행, 대·중견기업 대출 5조 돌파",
+      "subtitle": "1년 새 50% 증가…실물경제 지원 역할 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5조+",
+            "label": "대출액"
+          },
+          {
+            "value": "50%",
+            "label": "1년 새 증가"
+          },
+          {
+            "value": "100조+",
+            "label": "전체 대출잔액"
+          }
+        ],
+        "main_number": "+50%",
+        "main_text": "대·중견기업 대출 급증"
+      },
+      "image_prompt": "cute pastel infographic illustration, money stacks, growing bar chart, business loans, no text",
+      "detail": {
+        "summary": "저축은행의 대기업 및 중견기업 대출 잔액이 사상 처음으로 5조 원을 넘어섰으며, 1년 새 50% 증가하며 실물 경제 지원 역할을 확대하고 있습니다.",
+        "points": [
+          "대·중견기업 대출 잔액, 5조 원 돌파하며 역대 최고치 기록",
+          "1년 사이 50% 증가하는 가파른 성장세 보여",
+          "가계대출 규제 강화로 인한 대출 운용처 다변화 영향",
+          "저축은행, 단기 수익에서 벗어나 실물 경제 지원 역할 강화"
+        ],
+        "quote": "저축은행은 단기 수익에 몰두하던 영업 구조에서 벗어나 실물 경제와 지역 사회를 안정적으로 뒷받침해야 한다.",
+        "context": "가계대출 규제 강화와 함께 저축은행이 건전성 확보 및 수익 다변화를 위해 기업 대출로 눈을 돌리고 있습니다. 이는 중소기업뿐 아니라 대·중견기업 자금 조달에도 새로운 활로를 제공할 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016429985?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20money%20stacks%2C%20growing%20bar%20chart%2C%20business%20loans%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6203&nologo=true"
+    },
+    {
+      "id": "economy-dollar-deposit",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "5대 은행 기업 달러예금 1년 새 44% 증가",
+      "subtitle": "수출 대금 유입과 고액 저축성 예금 증가로 사상 최대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "44%",
+            "label": "1년 새 증가율"
+          },
+          {
+            "value": "10.2만",
+            "label": "고액예금 계좌 수"
+          },
+          {
+            "value": "사상 최대",
+            "label": "계좌 잔액"
+          }
+        ],
+        "main_number": "+44%",
+        "main_text": "기업 달러예금 급증"
+      },
+      "image_prompt": "cute pastel infographic illustration, dollar bills, bank vault, upward trend line, no text",
+      "detail": {
+        "summary": "5대 시중은행의 기업 달러예금 잔액이 1년 새 44% 급증하며 역대 최대를 기록했습니다. 이는 수출 호조로 인한 달러 유입과 고액 저축성 예금 증가가 주요 원인입니다.",
+        "points": [
+          "5대 은행 기업 달러예금, 전년 대비 44% 증가",
+          "수출 대금 유입 확대가 달러예금 증가의 핵심 동력",
+          "10억 원 이상 고액 저축성 예금 계좌 수, 10만 2천 좌로 사상 최대",
+          "기업들의 자금 운용 및 투자 환경 변화 시사"
+        ],
+        "quote": "한국은행 경제통계시스템 자료에 따르면, 10억원 이상 저축성예금 계좌는 올해 6월 말 10만2천좌에 달해 사상 최대를 나타냈다.",
+        "context": "글로벌 경기 회복세와 한국 수출의 강세가 맞물리면서 기업들의 외화 유동성이 풍부해지고 있습니다. 이는 국내 금융 시장의 중요한 변화 중 하나로 주목받고 있습니다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=624501"
+      },
+      "image_url": "data/images/2026-11-09/economy-dollar-deposit.jpg"
+    },
+    {
+      "id": "tech-datacenter-evolution",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "process_flow",
+      "title": "AI 시대, 데이터센터 기술의 패러다임 전환",
+      "subtitle": "개별 장비 넘어 IT-기반시설 융합으로 성능, 확장성 확보",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI",
+            "label": "핵심 동력"
+          },
+          {
+            "value": "융합",
+            "label": "기술 트렌드"
+          },
+          {
+            "value": "OCP",
+            "label": "주요 컨퍼런스"
+          }
+        ],
+        "main_number": "->",
+        "main_text": "개별 장비에서 통합 시스템으로 진화"
+      },
+      "image_prompt": "cute pastel infographic illustration, data center racks, AI brain, interconnected systems, no text",
+      "detail": {
+        "summary": "AI 시대가 도래하면서 데이터센터 기술 개발의 중심이 개별 장비 성능 향상에서 IT 장비와 기반시설의 융합으로 이동하며, AI 시스템의 성능과 확장성을 극대화하는 방향으로 진화하고 있습니다.",
+        "points": [
+          "데이터센터 기술, 개별 장비 성능 향상 위주에서 통합 시스템으로 전환",
+          "AI 시스템의 성능과 확장성 확보가 최우선 목표",
+          "기계 설비가 IT 장비의 보조 역할 넘어 핵심 기능으로 부상",
+          "OCP Global Summit에서 제시된 새로운 기술 트렌드 주목"
+        ],
+        "quote": "데이터센터 기계설비가 완성된 IT 장비를 수용하는 보조설비를 넘어, AI 시스템의 성능과 확장성을 결정하는 핵심요소가 되고 있다.",
+        "context": "AI 기술의 발전은 방대한 데이터 처리와 연산 능력을 요구하며, 이는 데이터센터 인프라에 혁명적인 변화를 가져오고 있습니다. 효율성과 확장성이 미래 데이터센터의 핵심 경쟁력이 될 것입니다.",
+        "source_url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52668"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20data%20center%20racks%2C%20AI%20brain%2C%20interconnected%20systems%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=42290&nologo=true"
+    },
+    {
+      "id": "tech-floating-datacenter",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "diagram",
+      "title": "美 '블루 쓰나미' 속, 부유식 데이터센터 부상",
+      "subtitle": "K-조선, 해상 데이터센터 시장 선점 나선다",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "해상",
+            "label": "설치 장소"
+          },
+          {
+            "value": "유연성",
+            "label": "주요 장점"
+          },
+          {
+            "value": "K-조선",
+            "label": "주도 산업"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "해상 데이터센터 투자 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, floating data center on ocean, ships, green energy, no text",
+      "detail": {
+        "summary": "미국 민주당의 '블루 쓰나미' 정책 기조 속에서 해상 부유식 데이터센터가 주목받으며, 한국 조선업계가 이 시장을 선점하기 위한 기술 개발에 나서고 있습니다.",
+        "points": [
+          "해상 부유식 데이터센터, 친환경 및 효율성 측면에서 주목",
+          "IT 인프라 및 설치 환경에 맞춰 유연한 구성 가능",
+          "한화그룹 등 국내 기업, 조선·해양 기술력 활용해 시장 진출 모색",
+          "전력 효율, 냉각 기술 등 해상 환경에 최적화된 기술 개발 중요"
+        ],
+        "quote": "고객의 정보기술(IT) 인프라와 설치 환경에 맞춰 발전 방식, 서버 유형, 데이터 처리 용량 등을 유연하게 구성할 수 있다.",
+        "context": "데이터센터의 폭발적인 증가와 함께 전력 소모 및 냉각 문제가 주요 이슈로 떠오르면서, 해상에 설치하는 부유식 데이터센터가 새로운 대안으로 떠오르고 있습니다. 이는 조선업계의 새로운 먹거리가 될 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014309538?sid=101"
+      },
+      "image_url": "data/images/2026-11-09/tech-floating-datacenter.jpg"
+    },
+    {
+      "id": "tech-nvidia-geopolitics",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "venn_diagram",
+      "title": "엔비디아, 美-中 기술 패권 갈등 한가운데",
+      "subtitle": "젠슨 황 CEO, 中 스파이 의혹 및 美 정치적 압박 직면",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "美-中",
+            "label": "기술 패권"
+          },
+          {
+            "value": "NVIDIA",
+            "label": "주요 기업"
+          },
+          {
+            "value": "이사회",
+            "label": "독립 조사"
+          }
+        ],
+        "main_number": "↔",
+        "main_text": "첨단 기술 기업, 정치적 압박 증대"
+      },
+      "image_prompt": "cute pastel infographic illustration, two countries flags, NVIDIA logo, geopolitical tension, CEO under pressure, no text",
+      "detail": {
+        "summary": "엔비디아 젠슨 황 CEO가 대중국 AI 반도체 수출 규제와 관련된 정치적 압박과 중국 스파이 연인설 의혹에 직면하며, 이사회가 독립 조사에 착수했습니다.",
+        "points": [
+          "미국 중간선거 후 민주당의 의회 장악으로 대중국 반도체 규제 강화 압력",
+          "젠슨 황 CEO의 중국인 여성 스파이 연인설 의혹 제기",
+          "엔비디아 이사회, 미국 국가안보 및 회사 기밀 유출 여부 독립 조사 착수",
+          "첨단 기술 기업의 CEO가 미·중 기술 패권 갈등의 핵심 인물로 부상"
+        ],
+        "quote": "대중국 인공지능(AI) 반도체 수출을 두고 엔비디아와 젠슨 황 최고경영자(CEO)가 정치적 압박에 직면했습니다.",
+        "context": "미국과 중국 간의 기술 패권 경쟁이 심화되면서, 엔비디아와 같은 첨단 기술 기업들은 국가 안보와 경제적 이익 사이에서 복잡한 지정학적 압박을 받고 있습니다. CEO 개인에게까지 의혹이 확산되며 상황이 더욱 복잡해지고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004679980?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20countries%20flags%2C%20NVIDIA%20logo%2C%20geopolitical%20tension%2C%20CEO%20under%20pressure%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51098&nologo=true"
+    },
+    {
+      "id": "society-elderly-healthcare-cost",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "70대 진료비 27조원…고령층 약물관리 수요 급증",
+      "subtitle": "다제약물 관리 및 방문약료 등 지역사회 기반 서비스 중요성 부각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "27조",
+            "label": "70대 진료비"
+          },
+          {
+            "value": "多",
+            "label": "약물 관리"
+          },
+          {
+            "value": "↑",
+            "label": "수요 증가"
+          }
+        ],
+        "main_number": "+",
+        "main_text": "고령층 진료비 및 약물관리 수요 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration, elderly person, medicine bottles, rising healthcare costs, no text",
+      "detail": {
+        "summary": "70대 이상 고령층의 진료비가 연간 27조 원에 달하며, 다제약물 관리와 방문약료 등 지역사회 기반의 약물관리 서비스 수요가 크게 증가하고 있습니다.",
+        "points": [
+          "70대 이상 진료비 27조 원 규모로 고령화 사회의 의료비 부담 심화",
+          "다제약물 복용 고령층 증가로 약물 오남용 및 부작용 위험 증대",
+          "지역사회 기반의 약료 서비스(다제약물 관리, 방문약료) 필요성 대두",
+          "의료기관 중심 넘어 환자 복용 과정까지 관리하는 체계 구축 시급"
+        ],
+        "quote": "다제약물 관리와 방문약료 등 지역사회 기반 약료서비스는 고령층의 약물관리 문제와 연결되는 영역이다.",
+        "context": "초고령사회로의 진입이 가속화되면서 고령층의 의료비 부담과 복잡한 약물 관리 문제가 중요한 사회적 과제로 떠오르고 있습니다. 단순 치료를 넘어 예방과 관리에 대한 관심이 높아지고 있습니다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548362"
+      },
+      "image_url": "data/images/2026-11-09/society-elderly-healthcare-cost.jpg"
+    },
+    {
+      "id": "society-child-swimming-development",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison_chart",
+      "title": "5살 전 수영 교육, 읽기·셈 발달에 긍정적 영향",
+      "subtitle": "사회경제적 배경 무관하게 발달 성취도 높아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5세 미만",
+            "label": "교육 시기"
+          },
+          {
+            "value": "↑",
+            "label": "인지 발달"
+          },
+          {
+            "value": "무관",
+            "label": "배경 요인"
+          }
+        ],
+        "main_number": "+",
+        "main_text": "읽기·셈 발달 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration, children swimming in pool, brain development, growth chart, no text",
+      "detail": {
+        "summary": "5살 이전에 수영을 배운 아이들이 배우지 않은 아이들보다 읽기와 셈 능력이 더 빠르게 발달하며, 이러한 효과는 가정의 사회경제적 배경과 무관하게 관찰되었습니다.",
+        "points": [
+          "수영 교육 경험 아동, 읽기와 셈 능력 발달에서 높은 성취",
+          "언어 발달, 신체 발달, 인지 능력 등 전반적인 발달에 긍정적 효과",
+          "사회경제적 배경에 관계없이 관찰되는 보편적인 효과",
+          "양질의 수영 교육에 대한 접근성 확대의 중요성 시사"
+        ],
+        "quote": "양질의 수영 교육을 받은 아이들의 발달 성취가 사회경제적 배경과 관계없이 높게 나타났다.",
+        "context": "유아기 신체 활동이 아동 발달에 미치는 영향에 대한 연구는 꾸준히 이루어지고 있습니다. 수영과 같은 전신 운동이 단순한 신체 건강을 넘어 인지 발달에도 중요한 역할을 한다는 사실이 밝혀지고 있습니다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548329"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20children%20swimming%20in%20pool%2C%20brain%20development%2C%20growth%20chart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3344&nologo=true"
+    },
+    {
+      "id": "society-robotaxi-social-impact",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pros_cons",
+      "title": "中 무인택시 확산, 사회적 피로감 해소 vs 라스트마일 과제",
+      "subtitle": "기사와의 잡담 끝, '개인 성소' 확보…접근성 및 서비스 한계도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "無",
+            "label": "대화 부담"
+          },
+          {
+            "value": "↑",
+            "label": "개인 공간"
+          },
+          {
+            "value": "有",
+            "label": "라스트마일 과제"
+          }
+        ],
+        "main_number": "↔",
+        "main_text": "기술 도입에 따른 사회적 양면성"
+      },
+      "image_prompt": "cute pastel infographic illustration, robotaxi, person relaxing in back seat, cityscape, no text",
+      "detail": {
+        "summary": "중국에서 확산 중인 무인택시가 기사와의 잡담 부담을 없애고 개인 공간을 제공하며 사회적 피로감을 해소하고 있지만, 라스트마일 접근성 및 서비스의 한계점도 지적되고 있습니다.",
+        "points": [
+          "승객, 기사와의 대화 부담 없이 온전한 '개인 성소' 확보 만족",
+          "쾌적한 실내 환경 및 편의성 제공으로 만족도 증대",
+          "서비스 지역 제한 및 복잡한 상황 대처 능력 등 '라스트마일' 문제 봉착",
+          "기술 도입에 따른 사회적 편의성 증가와 새로운 과제 동시 발생"
+        ],
+        "quote": "기사의 기분에 맞춰 대화에 억지로 응하거나, 침묵을 지키며 눈치를 봐야 하는 사회적 피로감이 완전히 사라진 것이다.",
+        "context": "자율주행 기술의 발전은 교통 시스템뿐 아니라 개인의 일상생활과 사회적 상호작용 방식에도 변화를 가져오고 있습니다. 기술의 긍정적인 측면과 함께 아직 해결해야 할 과제들도 명확히 드러나고 있습니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026110816421338870c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-09/society-robotaxi-social-impact.jpg"
+    },
+    {
+      "id": "life-less-eating-trend",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "trend_chart",
+      "title": "덜 먹는 사회, '감식(減食)사회' 도래",
+      "subtitle": "내년 식품산업 키워드, 외식 문화도 변화 요구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "감식",
+            "label": "주요 키워드"
+          },
+          {
+            "value": "↓",
+            "label": "섭취량"
+          },
+          {
+            "value": "식품 산업",
+            "label": "주요 영향"
+          }
+        ],
+        "main_number": "-",
+        "main_text": "한국인의 식생활 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration, small portion plate, measuring tape, healthy eating, no text",
+      "detail": {
+        "summary": "내년 식품산업의 핵심 키워드로 '감식(減食)사회'가 지목되며, 한국인의 식생활 패턴 변화에 맞춰 외식 문화도 새로운 변화를 모색해야 할 시점입니다.",
+        "points": [
+          "'덜 먹는 한국인' 트렌드 확산, 건강 및 체형 관리 관심 증대 영향",
+          "식품산업, 소식 및 건강 지향적 제품 개발 필요성 증대",
+          "외식업계, 소량 메뉴 및 맞춤형 식단 등 변화하는 수요에 대응 필요",
+          "문정훈 교수, 내년 식품산업 키워드로 '감식사회' 제시"
+        ],
+        "quote": "문정훈 서울대 푸드비즈니스랩 교수는 내년 식품산업의 핵심 키워드로 ‘감식(減食)사회’를 꼽았다.",
+        "context": "건강에 대한 관심이 높아지고 다이어트 및 개인 맞춤형 식단이 트렌드가 되면서, 단순히 많이 먹는 것을 넘어 '어떻게 먹을 것인가'에 대한 고민이 깊어지고 있습니다. 이는 식품 및 외식 산업 전반에 걸쳐 큰 변화를 가져올 것으로 예상됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003697006?sid=110"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20small%20portion%20plate%2C%20measuring%20tape%2C%20healthy%20eating%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44169&nologo=true"
+    },
+    {
+      "id": "life-convenience-food-sales",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "세븐일레븐 '마끼' 판매 40만개 돌파",
+      "subtitle": "'원핸드 간편식' 시장 성장…고물가·시성비 트렌드 반영",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40만+",
+            "label": "판매량"
+          },
+          {
+            "value": "↑",
+            "label": "시장 성장"
+          },
+          {
+            "value": "원핸드",
+            "label": "간편식"
+          }
+        ],
+        "main_number": "+",
+        "main_text": "편의점 간편식 인기 폭발"
+      },
+      "image_prompt": "cute pastel infographic illustration, hand holding food, convenience store, sales chart, no text",
+      "detail": {
+        "summary": "세븐일레븐의 '마끼' 판매량이 40만 개를 돌파하며 '원핸드 간편식' 시장의 성장을 이끌고 있습니다. 이는 고물가, 시간 대비 성능(시성비), 건강 관리를 중시하는 현대인의 라이프스타일 변화를 반영한 결과입니다.",
+        "points": [
+          "세븐일레븐 마끼, 출시 후 단기간에 40만 개 이상 판매",
+          "'원핸드 간편식'이 편의점 먹거리의 새로운 주역으로 부상",
+          "고물가, 시성비, 건강 관리를 중시하는 소비 트렌드 반영",
+          "식사와 간식의 경계가 사라지는 현대인의 라이프스타일 변화 주목"
+        ],
+        "quote": "고물가와 시성비, 건강 관리를 중시하는 현대인들의 라이프스타일 변화에 따라 식사와 간식의 구분이 사라진 소용량 '원핸드 간편식'이 편의점 먹거리의 새로운 주역으로 떠오르고 있다.",
+        "context": "바쁜 현대인들에게 간편하면서도 건강하고, 가성비 좋은 식품은 필수적인 요소가 되었습니다. 편의점은 이러한 수요를 충족시키며 새로운 간편식 트렌드를 주도하고 있습니다.",
+        "source_url": "https://www.apnews.kr/news/articleView.html?idxno=3052944"
+      },
+      "image_url": "data/images/2026-11-09/life-convenience-food-sales.jpg"
+    },
+    {
+      "id": "life-gmarket-disneyplus",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "G마켓, 멤버십에 디즈니+ 추가…구독 혜택 강화",
+      "subtitle": "쇼핑 적립과 OTT 혜택 동시 제공, 다양한 라이프스타일 협업 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4,900원",
+            "label": "월 구독료"
+          },
+          {
+            "value": "OTT",
+            "label": "추가 혜택"
+          },
+          {
+            "value": "확대",
+            "label": "멤버십 분야"
+          }
+        ],
+        "main_number": "+",
+        "main_text": "멤버십 혜택 시너지 창출"
+      },
+      "image_prompt": "cute pastel infographic illustration, shopping cart, Disney+ logo, merged memberships, no text",
+      "detail": {
+        "summary": "G마켓이 '멤버십 라이프+'를 통해 디즈니+ 광고형 구독권을 제공하며, 쇼핑 적립과 OTT 혜택을 동시에 누릴 수 있는 새로운 구독 서비스를 출시합니다.",
+        "points": [
+          "G마켓, '멤버십 라이프+' 출시하며 디즈니+ 광고형 구독권 제공",
+          "월 4,900원 구독료로 쇼핑 적립과 OTT 혜택 동시 누려",
+          "쿠팡, 네이버 등 경쟁사와의 멤버십 차별화 전략 강화",
+          "향후 다양한 라이프스타일 분야로의 협업 확대 계획"
+        ],
+        "quote": "G마켓은 이번 제휴를 시작으로 다양한 라이프스타일 분야로 협업을 확대해 멤버십 혜택을 강화할 계획이다.",
+        "context": "이커머스 플랫폼 간 경쟁이 심화되면서, 단순 쇼핑 혜택을 넘어 문화 콘텐츠, 여행 등 다양한 라이프스타일 분야와 연계된 멤버십 서비스가 중요해지고 있습니다. 이는 소비자들에게 더 큰 가치를 제공하며 플랫폼 충성도를 높이는 전략입니다.",
+        "source_url": "https://www.ggilbo.com/news/articleView.html?idxno=1191115"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20shopping%20cart%2C%20Disney%2B%20logo%2C%20merged%20memberships%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95318&nologo=true"
+    }
+  ],
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T06:09:07.980357+09:00"
+}
