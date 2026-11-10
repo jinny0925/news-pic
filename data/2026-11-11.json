@@ -1,0 +1,593 @@
+{
+  "cards": [
+    {
+      "id": "world-85",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "trend-chart",
+      "title": "엔비디아 시총 4조 달러 위협, 글로벌 3위 하락",
+      "subtitle": "젠슨 황 CEO 스캔들 여파, MS에 2위 자리 내줘",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4조$",
+            "label": "최고 시총"
+          },
+          {
+            "value": "2일",
+            "label": "급락 기간"
+          },
+          {
+            "value": "3위",
+            "label": "현재 순위"
+          }
+        ],
+        "main_number": "-4700억$",
+        "main_text": "이틀간 증발한 시가총액"
+      },
+      "image_prompt": "infographic illustration showing a downward trend arrow and three interconnected global company logos, showing market capitalization, in a cute pastel style, no text",
+      "detail": {
+        "summary": "엔비디아 시가총액이 젠슨 황 CEO 스캔들 여파로 이틀 새 급락하며 4조 달러 선이 위태롭고 글로벌 시총 3위로 하락.",
+        "points": [
+          "엔비디아, 이틀간 주가 10% 급락",
+          "시가총액 4천7백억 달러 증발 위기",
+          "마이크로소프트에 글로벌 시총 2위 자리 내줘",
+          "지난해 6월 이후 MS에 처음 추월당해"
+        ],
+        "quote": "젠슨 황 CEO의 사생활 논란이 주가 급락의 직접적인 배경",
+        "context": "엔비디아는 AI 반도체 시장의 핵심 기업으로, CEO 관련 논란이 기업 가치 및 글로벌 기술 경쟁 구도에 큰 영향을 미치고 있음.",
+        "source_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444058"
+      },
+      "image_url": "data/images/2026-11-11/world-85.jpg"
+    },
+    {
+      "id": "world-79",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar-chart",
+      "title": "한국 수출 1조 달러 달성 임박, 세계 4위 목표",
+      "subtitle": "코트라, 해외 진출 위한 전국 순회 설명회 개최",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1조$",
+            "label": "예상 수출액"
+          },
+          {
+            "value": "4위",
+            "label": "세계 목표 순위"
+          },
+          {
+            "value": "12월",
+            "label": "설명회 시기"
+          }
+        ],
+        "main_number": "+1.0T$",
+        "main_text": "사상 첫 수출 1조 달러 돌파 예상"
+      },
+      "image_prompt": "cute pastel infographic illustration of a globe with rising bar charts and arrows indicating exports, no text",
+      "detail": {
+        "summary": "한국 수출이 사상 처음으로 1조 달러를 넘어서 세계 4위를 기록할 것으로 전망되며, 코트라가 이를 위한 전국 순회 설명회를 개최한다.",
+        "points": [
+          "한국 수출 사상 첫 1조 달러 돌파 전망",
+          "세계 4위 수출국 목표",
+          "코트라, 12월 세계 시장 진출전략 설명회 개최",
+          "지역기업 해외 진출 지원 및 수출 문턱 낮춰"
+        ],
+        "quote": "우리나라 수출이 사상 처음으로 세계 네 번째로 1조 달러를 넘어설 것으로 전망되는 가운데...",
+        "context": "글로벌 경제 둔화 속에서 한국의 수출 목표 달성은 경제 활력 유지 및 국제 무역에서 한국의 위상 강화에 중요.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005840821?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20globe%20with%20rising%20bar%20charts%20and%20arrows%20indicating%20exports%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=73010&nologo=true"
+    },
+    {
+      "id": "world-93",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "line-chart",
+      "title": "국제유가 브렌트유 90달러 붕괴, 공급 및 지정학적 리스크 영향",
+      "subtitle": "이란 측 \"미국 협상 재개설은 기만\" 반박",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "91.49$",
+            "label": "마감 가격"
+          },
+          {
+            "value": "90$",
+            "label": "붕괴선"
+          },
+          {
+            "value": "-1.17%",
+            "label": "하락률"
+          }
+        ],
+        "main_number": "-1.17%",
+        "main_text": "브렌트유 1월물 전장 대비 하락"
+      },
+      "image_prompt": "cute pastel infographic illustration of oil barrels and a downward arrow on a line graph, representing oil prices, with a world map in the background, no text",
+      "detail": {
+        "summary": "국제유가 브렌트유 가격이 장중 배럴당 90달러 선이 무너지며 하락 마감했으며, 이란 측은 유가 하락을 위한 미국의 기만적 움직임이라 비판했다.",
+        "points": [
+          "브렌트유 1월물 배럴당 91.49달러 마감",
+          "장중 90달러 선 일시 붕괴",
+          "이란, 미국 협상 재개설은 유가 하락 위한 기만 비판",
+          "지정학적 요인이 유가 변동에 영향"
+        ],
+        "quote": "레자이 사무총장은 미국이 국내 경제적 압박을 완화하고 유가를 낮추려 기만적인 대화 재개 소식을 흘리고 있다고 성토했다.",
+        "context": "국제유가는 글로벌 경제에 직접적인 영향을 미치며, 산유국과 소비국의 정치적 역학 관계에 따라 민감하게 변동한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/014/0005602365?sid=101"
+      },
+      "image_url": "data/images/2026-11-11/world-93.jpg"
+    },
+    {
+      "id": "economy-21",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie-chart",
+      "title": "AI 대전환 시대, 한국의 디지털 소외와 일자리 불안 심화",
+      "subtitle": "40대 중장년층, 사회·경제적 지위 유지 불안감 높아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40대",
+            "label": "주요 불안층"
+          },
+          {
+            "value": "심각",
+            "label": "정치 불신"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "일자리 격차 심화 및 불안감 증대"
+      },
+      "image_prompt": "cute pastel infographic illustration showing a diverse group of people, some connected to digital devices, others feeling left out, representing digital divide and job anxiety, no text",
+      "detail": {
+        "summary": "AI 대전환 시대에 한국 사회의 디지털 소외와 일자리 불안이 심화되고 있으며, 특히 40대 중장년층의 사회·경제적 지위 유지에 대한 불안감이 높다.",
+        "points": [
+          "AI 전환에 따른 일자리 격차 심화",
+          "40대 중장년층의 경제적 지위 불안감 상승",
+          "사회 전반의 디지털 소외 현상 짙어짐",
+          "정치 불신 문제와 연관된 구조적 불안정"
+        ],
+        "quote": "한국은 일자리 격차가 크고 한 번 밀려나면 비슷한 자리로 돌아오기 어렵다.",
+        "context": "AI 기술 발전이 가져오는 경제적 기회와 함께 사회적 불평등 심화 및 특정 세대의 소외라는 복합적인 문제를 조명한다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002846"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20diverse%20group%20of%20people%2C%20some%20connected%20to%20digital%20devices%2C%20others%20feeling%20left%20out%2C%20representing%20digital%20divide%20and%20job%20anxiety%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61158&nologo=true"
+    },
+    {
+      "id": "economy-24",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar-chart",
+      "title": "여성 경제활동 증가와 '노산' 트렌드, 특화 보험 시장 성장",
+      "subtitle": "불임·난임 시술비 지원 등 여성 건강관리 수요 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "↑",
+            "label": "여성 구매력"
+          },
+          {
+            "value": "↑",
+            "label": "보험 수요"
+          },
+          {
+            "value": "노산",
+            "label": "주요 키워드"
+          }
+        ],
+        "main_number": "+%",
+        "main_text": "여성 특화보험 시장 성장률"
+      },
+      "image_prompt": "cute pastel infographic illustration showing a growing bar chart representing insurance market growth, alongside icons of women's economic activity and fertility, no text",
+      "detail": {
+        "summary": "여성의 경제활동 증가와 '노산' 트렌드에 따라 여성 특화 보험 시장이 성장하고 있으며, 불임·난임 시술 관련 진료비 지원 수요가 늘고 있다.",
+        "points": [
+          "여성 경제활동 증가로 구매력 확대",
+          "건강관리 수요 증가, 특히 불임·난임 시술",
+          "여성 특화보험 시장의 지속적 성장",
+          "사회·경제적 지위 향상에 따른 보험 수요 변화"
+        ],
+        "quote": "여성의 사회·경제적 지위가 향상됨에 따라 보험 수요가 증가했다.",
+        "context": "변화하는 사회 구조와 여성의 라이프스타일에 맞춰 금융 상품 시장이 어떻게 진화하고 있는지를 보여주는 사례다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005761902?sid=101"
+      },
+      "image_url": "data/images/2026-11-11/economy-24.jpg"
+    },
+    {
+      "id": "economy-37",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line-chart",
+      "title": "레버리지 ETF, 증시 변동성 주범 논란에 '증거 부족'",
+      "subtitle": "개인 투자자 저가 매수세 영향력 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5월",
+            "label": "ETF 출시"
+          },
+          {
+            "value": "↑",
+            "label": "개인 매수세"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "변동성 주범 여부 논란"
+      },
+      "image_prompt": "cute pastel infographic illustration of a stock market chart with upward and downward trends, highlighting ETF products and individual investors, no text",
+      "detail": {
+        "summary": "단일 레버리지 ETF가 증시 변동성의 주범이라는 주장에 대해 증거가 부족하다는 분석이 나왔으며, 개인 투자자들의 저가 매수세 영향에 주목하고 있다.",
+        "points": [
+          "단일 레버리지 ETF가 변동성 주범이라는 주장에 반박",
+          "한국증권학회 등 금융 연구원 분석 결과",
+          "삼성전자·SK하이닉스 기초자산 ETF 5월 출시",
+          "개인 투자자 저가 매수세의 시장 영향력 논의"
+        ],
+        "quote": "단일 레버리지 ETF가 변동성 주범? 증거 부족",
+        "context": "최근 증시 변동성 확대의 원인을 분석하고, 개인 투자자들의 투자 행태가 시장에 미치는 영향을 조명하는 중요한 경제 이슈이다.",
+        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=625500"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20stock%20market%20chart%20with%20upward%20and%20downward%20trends%2C%20highlighting%20ETF%20products%20and%20individual%20investors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=43810&nologo=true"
+    },
+    {
+      "id": "tech-40",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "funnel-chart",
+      "title": "K산업, AI·디지털화 시대 '데이터 신뢰'가 미래 성패 좌우",
+      "subtitle": "개인정보 보호 및 정보보안 체계 강화 필수",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI",
+            "label": "핵심 동력"
+          },
+          {
+            "value": "정보보호",
+            "label": "최우선 과제"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "데이터 신뢰의 중요성 증대"
+      },
+      "image_prompt": "cute pastel infographic illustration showing interconnected gears and data flow, with a shield icon representing trust and security in the context of AI and industry, no text",
+      "detail": {
+        "summary": "K산업에서 인공지능(AI)과 디지털화가 가속화되는 가운데, 데이터의 신뢰성과 개인정보 보호가 산업 성패를 가르는 핵심 요인으로 부상하고 있다.",
+        "points": [
+          "반도체, 자동차, 조선 등 주요 산업에 AI 시스템 적용",
+          "개인정보 보호 및 정보보안이 핵심 과제",
+          "정보 유출은 생산활동과 안보에 직결",
+          "산업별 특성 반영한 정보보호 체계 운영 강조"
+        ],
+        "quote": "개인정보 보호가 산업 전반의 핵심으로 떠오르고 있다.",
+        "context": "모든 산업 분야에서 데이터의 중요성이 커지면서, 기술 발전과 함께 데이터 보안 및 신뢰성 확보가 기업의 지속 가능한 성장을 위한 필수 조건이 되고 있다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002800"
+      },
+      "image_url": "data/images/2026-11-11/tech-40.jpg"
+    },
+    {
+      "id": "tech-42",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison",
+      "title": "시험 부정행위 도구로 악용되는 AI 안경, 규제 강화 촉구",
+      "subtitle": "겉보기엔 일반 안경, 하지만 AI 기능으로 감독관 부담 가중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI",
+            "label": "신기술"
+          },
+          {
+            "value": "↑",
+            "label": "부정행위 가능성"
+          },
+          {
+            "value": "금지",
+            "label": "정부 대응"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "AI 안경으로 인한 시험 감독 부담 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person wearing glasses with subtle glowing AI elements, contrasted with a traditional exam setting and a concerned supervisor, no text",
+      "detail": {
+        "summary": "인공지능(AI) 안경이 시험 부정행위 도구로 악용될 우려가 커지면서, 시험 감독관의 부담이 가중되고 정부가 반입 금지 및 처벌 강화를 추진하고 있다.",
+        "points": [
+          "AI 안경의 부정행위 악용 사례 증가",
+          "일반 안경과 구별 어려워 감독 난이도 상승",
+          "정부, AI 안경 반입 금지 및 처벌 강화 방침",
+          "AI 기술 발전의 윤리적 문제 제기"
+        ],
+        "quote": "AI가 안경 속으로 들어오면서 시험 감독관들에게 새로운 부담으로 작용하고 있다.",
+        "context": "첨단 기술이 일상에 파고들면서 발생하는 새로운 유형의 사회적, 윤리적 문제와 이에 대한 사회적 대응 방안을 모색하는 이슈이다.",
+        "source_url": "https://it.chosun.com/news/articleView.html?idxno=3000000000669"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20wearing%20glasses%20with%20subtle%20glowing%20AI%20elements%2C%20contrasted%20with%20a%20traditional%20exam%20setting%20and%20a%20concerned%20supervisor%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=6899&nologo=true"
+    },
+    {
+      "id": "tech-47",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "AMD, 차세대 Zen 6 EPYC 칩 출시로 클라우드 서비스 발전 가속",
+      "subtitle": "비공식 테스트에서 높은 스레드 성능 기록",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "Zen 6",
+            "label": "세대"
+          },
+          {
+            "value": "1024",
+            "label": "최대 스레드"
+          },
+          {
+            "value": "AMD",
+            "label": "제조사"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "클라우드 서비스 성능 향상"
+      },
+      "image_prompt": "cute pastel infographic illustration showing a stylized computer chip with intricate circuits, surrounded by cloud icons and upward trend arrows, symbolizing advanced technology and cloud services, no text",
+      "detail": {
+        "summary": "AMD가 Zen 6 EPYC 칩을 출시하며 클라우드 서비스 발전을 가속화하고 있으며, 비공식 테스트에서 1024 및 768 스레드를 기록하며 성능을 입증했다.",
+        "points": [
+          "AMD Zen 6 EPYC 칩 출시",
+          "클라우드 서비스 발전 및 성능 향상 기대",
+          "비공식 테스트에서 1024, 768 스레드 시스템 성능 입증",
+          "데이터 센터 및 엔터프라이즈 시장 경쟁 심화 예상"
+        ],
+        "quote": "The outlet described the figures as unofficial because it had not submitted the estimates to SPEC; the test systems had 1,024 and 768 threads, respectively.",
+        "context": "클라우드 컴퓨팅 시대에 고성능 프로세서의 중요성이 더욱 부각되는 가운데, AMD의 신제품 출시는 이 분야의 기술 혁신과 시장 경쟁에 큰 영향을 미칠 것으로 보인다.",
+        "source_url": "https://econotimes.com/AMD-Makes-Zen-6-EPYC-Chips-Available-as-Cloud-Services-Advance-1774749"
+      },
+      "image_url": "data/images/2026-11-11/tech-47.jpg"
+    },
+    {
+      "id": "society-60",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie-chart",
+      "title": "정보 과부하 시대, 한국인의 '디지털 피로' 심화",
+      "subtitle": "높은 정보 소비와 경쟁 문화가 피로감 가중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "↑",
+            "label": "정보 소비"
+          },
+          {
+            "value": "↑",
+            "label": "디지털 의존도"
+          },
+          {
+            "value": "피로",
+            "label": "핵심 감정"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "한국인의 정보 피로도 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person overwhelmed by various digital device icons and information overload, expressing 'digital fatigue', no text",
+      "detail": {
+        "summary": "정보 홍수 속에서 한국인의 '디지털 피로'가 심화되고 있으며, 이는 높은 정보 소비 방식과 디지털 의존적인 사회 구조, 그리고 경쟁 문화에서 비롯된 것으로 분석된다.",
+        "points": [
+          "한국인의 정보 피로감 증대 현상",
+          "디지털 기술 의존도 높은 사회 구조 영향",
+          "남에게 뒤처지지 않으려는 경쟁 문화 원인",
+          "정보의 질과 가치 관리의 중요성 대두"
+        ],
+        "quote": "사회적 경쟁 문화도 정보 피로와 무관하지 않을 수 있다.",
+        "context": "디지털 기술이 가져온 편리함 뒤에 숨겨진 사회적 문제점을 조명하며, 건강한 정보 소비 문화와 디지털 전환의 균형점을 찾는 것의 중요성을 강조한다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001785"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20overwhelmed%20by%20various%20digital%20device%20icons%20and%20information%20overload%2C%20expressing%20%27digital%20fatigue%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39467&nologo=true"
+    },
+    {
+      "id": "society-61",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "지자체장 교체에 수백억 파크골프장 사업 백지화 논란",
+      "subtitle": "이미 집행된 예산 65억원, 행정 난맥상 비판",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "백지화",
+            "label": "사업 상태"
+          },
+          {
+            "value": "65억",
+            "label": "기존 집행 예산"
+          },
+          {
+            "value": "2",
+            "label": "단체장 교체"
+          }
+        ],
+        "main_number": "65억",
+        "main_text": "이미 투입된 혈세"
+      },
+      "image_prompt": "cute pastel infographic illustration of a construction site with a 'stop' sign, showing money bags and a changing political figure, representing a cancelled public project, no text",
+      "detail": {
+        "summary": "제천시에서 수백억 원 규모의 산악형 파크골프장 조성 사업이 지자체장 교체 후 백지화되면서 이미 투입된 65억 원의 예산 낭비에 대한 비판이 일고 있다.",
+        "points": [
+          "산악형 파크골프장 사업 백지화 결정",
+          "시장직 인수위원회 및 시 집행부의 결정",
+          "총 65억 원의 토지 보상비 등 예산 이미 집행",
+          "자치단체장 교체에 따른 공공사업 표류 고질적 문제"
+        ],
+        "quote": "단순한 정치적 판단이나 전임 지우기식 행정으로 인해 이미 투입된 소중한 시민의 혈세가 고스란히...",
+        "context": "지자체장의 정치적 판단이 대규모 공공사업의 연속성을 해치고 시민 혈세 낭비를 초래하는 고질적인 문제를 보여주며, 행정의 효율성과 투명성에 대한 숙고를 요구한다.",
+        "source_url": "https://www.ccreview.co.kr/news/articleView.html?idxno=362218"
+      },
+      "image_url": "data/images/2026-11-11/society-61.jpg"
+    },
+    {
+      "id": "society-67",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar-chart",
+      "title": "한국인, 정보제공에 관대하나 개인정보 불신 여전",
+      "subtitle": "할인·무료 상품 위해 개인정보 제공에 50.7% 반대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "50.7%",
+            "label": "제공 반대"
+          },
+          {
+            "value": "9개국",
+            "label": "비교 대상"
+          }
+        ],
+        "main_number": "1위",
+        "main_text": "정보제공 관대함 (9개국 중)"
+      },
+      "image_prompt": "cute pastel infographic illustration showing a bar chart with 'Korea' being highest in information provision, but a subtle question mark or cross icon over 'trust', no text",
+      "detail": {
+        "summary": "아시아투데이 조사 결과, 한국인이 9개국 중 정보제공에 가장 관대하지만, 할인이나 무료 상품을 위해 개인정보 제공에 반대하는 비율이 50.7%에 달하며 개인정보 불신이 여전한 것으로 나타났다.",
+        "points": [
+          "9개국 중 정보제공에 가장 관대한 한국",
+          "할인·무료 상품 위한 개인정보 제공에 50.7% 반대",
+          "국민들의 개인정보 불신 현상 지속",
+          "정보보호에 대한 인식과 실제 행동의 괴리"
+        ],
+        "quote": "'할인이나 무료 상품을 받기 위해 개인정보를 제공할 것'이라는 질문에 반대 응답한 비율이 50.7%에 달해...",
+        "context": "디지털 사회에서 개인정보의 중요성과 그 활용에 대한 사회적 인식을 보여주며, 데이터 활용과 개인정보 보호 사이의 균형을 찾는 것이 얼마나 중요한 과제인지를 시사한다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002977"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20showing%20a%20bar%20chart%20with%20%27Korea%27%20being%20highest%20in%20information%20provision%2C%20but%20a%20subtle%20question%20mark%20or%20cross%20icon%20over%20%27trust%27%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24596&nologo=true"
+    },
+    {
+      "id": "life-114",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "checklist",
+      "title": "겨울철 난방비 부담 완화, 65세 이상 난방비 바우처 대상자 확인",
+      "subtitle": "시니어 가구를 위한 정부 지원 정책 안내",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "65세+",
+            "label": "대상 연령"
+          },
+          {
+            "value": "겨울",
+            "label": "지원 시기"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "난방비 부담 완화 필요성 증가"
+      },
+      "image_prompt": "cute pastel infographic illustration of a warm house icon with a snowflake and a checklist, symbolizing winter heating support for seniors, no text",
+      "detail": {
+        "summary": "겨울철 난방비 부담을 겪는 65세 이상 시니어 가구를 위해 정부의 난방비 바우처 지원 대상 및 신청 방법을 안내하여 지원 혜택을 받을 수 있도록 돕는다.",
+        "points": [
+          "65세 이상 시니어 가구 난방비 부담 증가",
+          "정부 난방비 바우처 지원 제도 운영",
+          "대상자 확인 및 신청 절차 안내",
+          "경제적 어려움 겪는 취약 계층 지원 강화"
+        ],
+        "quote": "난방비 지출이 큰 시니어 가구라면 받을 수 있는 지원이 있는지 먼저 확인해 볼 필요가 있다.",
+        "context": "고령화 사회에서 취약계층의 주거 안정과 생활비 부담 완화는 중요한 사회적 과제이며, 정부의 복지 정책이 이러한 문제 해결에 기여하고 있다.",
+        "source_url": "https://bravo.etoday.co.kr/view/atc_view/20456"
+      },
+      "image_url": "data/images/2026-11-11/life-114.jpg"
+    },
+    {
+      "id": "life-126",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "comparison",
+      "title": "청년 주거난 해법, 보증금 0%·수입 10% 혁신 주거 모델",
+      "subtitle": "외국인 유학생 및 경계선지능 청년 위한 라이프스타일 플랫폼도 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "0%",
+            "label": "보증금"
+          },
+          {
+            "value": "10%",
+            "label": "월세 비중"
+          }
+        ],
+        "main_number": "↓",
+        "main_text": "주거비 부담 획기적 감소"
+      },
+      "image_prompt": "cute pastel infographic illustration comparing traditional housing costs with a new model showing '0% deposit' and '10% income rent', surrounded by happy diverse young people, no text",
+      "detail": {
+        "summary": "두 여성 창업가가 보증금 없이 수입의 10%만 내는 혁신적인 주거 공간을 선보여 청년 주거난 해법을 제시했으며, 이와 함께 외국인 유학생 및 경계선지능 청년 대상 라이프스타일 플랫폼도 주목받고 있다.",
+        "points": [
+          "보증금 0, 수입의 10%로 거주 가능한 주거 모델 개발",
+          "청년 주거 부담 완화에 기여",
+          "외국인 유학생 및 한국 청년 연결 플랫폼 '웰디' 선정",
+          "경계선지능 청년 위한 AI 코칭 서비스 '슬로우코치' 선정"
+        ],
+        "quote": "초기 아이디어 부문에서는 동글지대, 외국인 유학생과 한국 청년을 연결하는 라이프스타일 플랫폼 ‘웰디’(대표 김정민) 경계선지능 청년을 위한 인공지능(AI) 코칭 서비스를 개발하는 ‘슬로우코치’(대표 오용석)가...",
+        "context": "심각한 청년 주거 문제와 사회적 약자 지원이라는 사회적 요구에 발맞춰, 혁신적인 아이디어와 기술이 결합된 새로운 주거 및 생활 서비스 모델이 등장하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001884379?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20comparing%20traditional%20housing%20costs%20with%20a%20new%20model%20showing%20%270%25%20deposit%27%20and%20%2710%25%20income%20rent%27%2C%20surrounded%20by%20happy%20diverse%20young%20people%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61142&nologo=true"
+    },
+    {
+      "id": "life-128",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar-chart",
+      "title": "미국 텍사스 강타한 '한국식 찜질방' 열풍, 라이프스타일 힐링 코스로 부상",
+      "subtitle": "전통 사우나부터 리조트형 프리미엄 스파까지 인기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "$80",
+            "label": "프리미엄 입장료"
+          },
+          {
+            "value": "40년",
+            "label": "텍사스 1세대"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "K-찜질방의 현지 인기 급증"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person relaxing in a jjimjilbang-like setting, with icons representing 'health', 'wellness', and 'cultural adoption', showing a growth trend, no text",
+      "detail": {
+        "summary": "미국 텍사스에서 '알몸 입장 필수'인 한국식 찜질방이 큰 인기를 얻으며 현지 고소득층의 새로운 라이프스타일 힐링 코스로 자리매김하고 있다.",
+        "points": [
+          "미국 텍사스에서 한국식 찜질방 인기 급증",
+          "1세대 전통 사우나와 리조트형 프리미엄 스파 존재",
+          "프리미엄 찜질방 '스파캐슬' 입장료 80달러",
+          "현지 고소득층 라이프스타일 힐링 코스로 각광"
+        ],
+        "quote": "현지 고소득층의 라이프스타일 힐링 코스로 자리매김했다.",
+        "context": "K-컬처의 확산이 음식, 드라마를 넘어 한국 특유의 건강 및 웰빙 문화인 찜질방까지 이어지며, 글로벌 라이프스타일 트렌드에 새로운 영향을 미치고 있음을 보여준다.",
+        "source_url": "https://www.insight.co.kr/news/580992"
+      },
+      "image_url": "data/images/2026-11-11/life-128.jpg"
+    }
+  ],
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T06:08:41.292423+09:00"
+}
