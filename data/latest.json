@@ -1,569 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-01",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "中 희토류 무기화? 이트륨 가격 1년새 9배 폭등",
-      "subtitle": "대일 수출 98% 급감…글로벌 공급망 긴장 고조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "9배",
-            "label": "이트륨 가격 상승"
-          },
-          {
-            "value": "98%",
-            "label": "日 수출 감소"
-          }
-        ],
-        "main_number": "+900%",
-        "main_text": "희토류 '이트륨' 가격 1년 새 급등, 공급망 충격"
-      },
-      "image_prompt": "cute pastel infographic illustration, a globe with supply chain lines breaking and a rising price graph, geopolitical tensions, no text",
-      "detail": {
-        "summary": "중국이 희토류 '이트륨'의 대일 수출을 98% 급감시키면서 가격이 1년 새 9배 폭등, 글로벌 공급망에 비상이 걸렸다.",
-        "points": [
-          "중국, 희토류 이트륨 대일 수출 98% '핀셋 봉쇄'",
-          "이트륨 가격 1년 새 9배 폭등하며 글로벌 시장 충격",
-          "16년 만의 '희토류 무기화' 재연, 국제사회 공급망 재편 압박",
-          "일본 무역 지표에 직격탄, 첨단 산업 위협"
-        ],
-        "quote": "전 세계 수출이 26% 줄 때 일본으로 향하는 물량만 전년 대비 98%나 급감했다.",
-        "context": "핵심 광물 공급망을 둘러싼 지정학적 갈등이 심화되며, 특정 국가에 대한 '자원 무기화' 가능성이 현실화되고 있다.",
-        "source_url": "https://www.the-today.com/news/articleView.html?idxno=93431"
-      },
-      "image_url": "data/images/2026-11-12/world-01.jpg"
-    },
-    {
-      "id": "world-02",
+      "id": "world-putin-ukraine",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "스페인, 주택난에 14년 만 전국적 총파업",
-      "subtitle": "치솟는 주거비에 시민들 분노 폭발, 조기 총선 가능성도",
+      "title": "푸틴, '유럽군 파병시 전쟁 재개' 경고",
+      "subtitle": "우크라이나 사태 긴장 고조, 美 특사에 강경 메시지",
       "viz_data": {
         "stats": [
+          {
+            "value": "1170+",
+            "label": "개전 일"
+          },
+          {
+            "value": "핵심국 3곳",
+            "label": "주요 당사자"
+          },
+          {
+            "value": "강경",
+            "label": "입장"
+          }
+        ],
+        "main_number": "재개 경고",
+        "main_text": "유럽군 파병 시 전쟁 재개 선언"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "푸틴 대통령이 유럽군의 우크라이나 파병 시 전쟁 재개를 경고하며 미국 특사에게 강경한 메시지를 전달했다.",
+        "points": [
+          "러시아-우크라이나 갈등 심화",
+          "유럽의 잠재적 개입 논의",
+          "미국 특사 방문 중 경고",
+          "협상 테이블 복잡성 증가"
+        ],
+        "quote": "유럽군 파병은 전쟁 재개를 의미할 것이다.",
+        "context": "우크라이나 전쟁 장기화 속에 유럽의 군사적 지원 확대 가능성이 제기되자 러시아가 직접적인 경고를 내놓으며 긴장감이 최고조에 달했다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005842038?sid=104"
+      },
+      "image_url": "data/images/2026-11-13/world-putin-ukraine.jpg"
+    },
+    {
+      "id": "world-korea-china-apec",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "한중 외교장관회담 개최, APEC 의제 조율",
+      "subtitle": "아태 경제 협력체 정상회의 앞두고 양국 정상회담 준비",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "13일",
+            "label": "개최일"
+          },
+          {
+            "value": "2국",
+            "label": "참여국"
+          },
+          {
+            "value": "APEC",
+            "label": "주요 회의"
+          }
+        ],
+        "main_number": "의제 조율",
+        "main_text": "경제·민생·문화 협력 논의"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한중 외교장관이 APEC 정상회의를 앞두고 양국 정상회담 일정과 의제를 조율하기 위해 만났다.",
+        "points": [
+          "한중 고위급 외교 재개",
+          "APEC 정상회의 준비",
+          "경제 및 문화 교류 확대 논의",
+          "지역 안정 및 협력 강화"
+        ],
+        "quote": "양국 정상회담을 통해 경제·민생·문화 협력 방안을 심도있게 논의할 것.",
+        "context": "미중 갈등 속에서 동북아시아의 주요 경제 및 안보 파트너인 한중 양국이 APEC을 계기로 관계 개선을 모색하며, 지역 경제 협력의 중요한 전환점이 될 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009286861?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91107&nologo=true"
+    },
+    {
+      "id": "world-eu-russia-sanctions",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "EU, 러시아 추가 제재 발표: 150개 기관, 50개 은행",
+      "subtitle": "프랑스, 22차 대러시아 제재 패키지 계획 공개",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "150+",
+            "label": "기관"
+          },
+          {
+            "value": "50+",
+            "label": "은행"
+          },
+          {
+            "value": "22차",
+            "label": "제재 패키지"
+          }
+        ],
+        "main_number": "+200",
+        "main_text": "추가 제재 대상"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "프랑스가 EU의 22차 대러시아 제재 패키지 계획을 밝히며 150개 기관과 50개 은행을 추가 제재할 것이라고 발표했다.",
+        "points": [
+          "EU의 대러시아 압박 강화",
+          "금융 및 기업 부문 타격",
+          "제재 목표 및 효과 분석",
+          "글로벌 경제에 미칠 영향"
+        ],
+        "quote": "대러시아 제재를 통해 침략에 대한 강력한 대응을 이어갈 것.",
+        "context": "러시아의 우크라이나 침공 이후 지속적으로 제재를 가해온 EU가 추가적인 제재를 통해 러시아 경제에 대한 압박을 더욱 강화하려는 움직임을 보이고 있다.",
+        "source_url": "https://econotimes.com/France-Says-EU-Will-Add-150-Entities-50-Banks-to-Russia-Sanctions-1776010"
+      },
+      "image_url": "data/images/2026-11-13/world-eu-russia-sanctions.jpg"
+    },
+    {
+      "id": "economy-fed-fomc",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "美 연준, 내년 FOMC 금리 결정 회의 7회로 축소",
+      "subtitle": "장기적 통화정책 논의 위한 회의 시간 확보 목적",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7회",
+            "label": "내년 회의"
+          },
+          {
+            "value": "10월",
+            "label": "정책 논의 집중"
+          },
+          {
+            "value": "축소",
+            "label": "빈도"
+          }
+        ],
+        "main_number": "-1",
+        "main_text": "FOMC 금리 결정 회의 축소"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국 연방준비제도(Fed)가 내년부터 금리 결정을 위한 연방공개시장위원회(FOMC) 회의 횟수를 7회로 줄이고, 장기적인 통화정책 방향 논의에 집중할 계획이다.",
+        "points": [
+          "통화정책 결정 효율화",
+          "장기적 관점의 중요성 강조",
+          "시장 불확실성 감소 기대",
+          "글로벌 경제에 미칠 영향"
+        ],
+        "quote": "단기적 경제 상황 평가만큼 장기적인 통화정책 방향 논의 확보가 중요.",
+        "context": "연준은 통화정책 결정에 대한 예측 가능성을 높이고, 급변하는 경제 환경에 대한 보다 심층적인 분석을 위해 회의 운영 방식에 변화를 주어 시장의 이목이 집중되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012293060?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36117&nologo=true"
+    },
+    {
+      "id": "economy-chungcheong-megaproject",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "충청 메가프로젝트 첫 삽, 112개 기업 24조 투자",
+      "subtitle": "첨단산업 육성 및 지역경제 활성화 위한 대규모 프로젝트",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "24조",
+            "label": "총 투자금"
+          },
+          {
+            "value": "112개",
+            "label": "참여 기업"
+          },
+          {
+            "value": "1만 명",
+            "label": "인력 양성"
+          }
+        ],
+        "main_number": "첫 삽",
+        "main_text": "첨단산업 메가프로젝트 시작"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "충청권에 대규모 첨단산업 메가프로젝트가 첫 삽을 뜨며, 112개 기업이 총 24조 원을 추가 투자하고 매년 1만 명의 전문 인력을 양성할 계획이다.",
+        "points": [
+          "지역균형발전 핵심 과제",
+          "반도체, 이차전지 등 첨단산업",
+          "대규모 고용 창출 효과",
+          "산단 고도화 및 인프라 구축"
+        ],
+        "quote": "기업 투자와 일자리 창출이 지역경제 활성화로 이어지는 선순환을 만들 것.",
+        "context": "정부가 지방 소멸 위기에 대응하고 지역 경제 활성화를 위해 메가프로젝트를 추진하며, 첨단산업 클러스터 구축을 통해 국가 경쟁력 강화와 균형 발전을 동시에 꾀하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004681702?sid=100"
+      },
+      "image_url": "data/images/2026-11-13/economy-chungcheong-megaproject.jpg"
+    },
+    {
+      "id": "economy-pharmabio-esg",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "제약·바이오 기업 ESG 평가, 성적 차이 뚜렷",
+      "subtitle": "환경·사회·지배구조 영역별 편차 큰 것으로 나타나",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2026년",
+            "label": "평가 시점"
+          },
+          {
+            "value": "ESG",
+            "label": "평가 기준"
+          },
+          {
+            "value": "영역별",
+            "label": "편차"
+          }
+        ],
+        "main_number": "편차 심화",
+        "main_text": "기업별 ESG 성적 양극화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "2026년 국내 제약·바이오 기업의 ESG(환경·사회·지배구조) 평가 결과, 기업별 통합 등급뿐 아니라 영역별 평가에서도 뚜렷한 성적 차이가 확인됐다.",
+        "points": [
+          "사회 부문 높은 평가 기업 존재",
+          "지배구조 부문 낮은 등급 기업도",
+          "ESG 경영 도입 가속화",
+          "투자자 및 소비자 관심 증대"
+        ],
+        "quote": "ESG 경영은 기업의 지속가능성을 위한 필수 요소, 영역별 고른 성장이 필요하다.",
+        "context": "최근 기업의 사회적 책임과 지속가능성에 대한 관심이 커지면서 ESG 경영이 중요해지고 있으며, 제약·바이오 산업에서도 기업의 투명한 ESG 정보 공개와 개선 노력이 요구된다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548820"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99320&nologo=true"
+    },
+    {
+      "id": "tech-nvidia-jensen-huang-resignation",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "엔비디아 젠슨 황 CEO, '중국 스파이 스캔들'로 전격 퇴진",
+      "subtitle": "창업 33년 만의 리더십 교체, AI 반도체 시장 격변 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "33년",
+            "label": "CEO 재임"
+          },
+          {
+            "value": "1993년",
+            "label": "창업"
+          },
+          {
+            "value": "2159억",
+            "label": "매출 (2026)"
+          }
+        ],
+        "main_number": "퇴진",
+        "main_text": "AI 반도체 제왕의 갑작스러운 퇴진"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "엔비디아를 33년간 이끌어온 젠슨 황 CEO가 중국 스파이 스캔들과 사생활 논란으로 전격 퇴진하며 AI 반도체 시장에 큰 파장을 일으키고 있다.",
+        "points": [
+          "젠슨 황 CEO 33년 만에 퇴진",
+          "중국 스파이 연루 의혹 확산",
+          "미국 정치권 압박 거세져",
+          "엔비디아 AI 생태계 불확실성 증대"
+        ],
+        "quote": "세계 AI 반도체 시장의 판도를 뒤흔들 중대한 변화.",
+        "context": "인공지능 시대의 핵심 인물로 평가받던 젠슨 황의 갑작스러운 퇴진은 엔비디아뿐 아니라 글로벌 AI 및 반도체 산업의 패권 경쟁에 지대한 영향을 미칠 것으로 예상된다.",
+        "source_url": "https://www.moneystorm.kr/news/articleView.html?idxno=8395"
+      },
+      "image_url": "data/images/2026-11-13/tech-nvidia-jensen-huang-resignation.jpg"
+    },
+    {
+      "id": "tech-microsoft-outage",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line_chart",
+      "title": "MS 아웃룩·팀즈 등 대규모 접속 장애 발생",
+      "subtitle": "전 세계 사용자 불편, 인프라 부하 증가 원인 추정",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "13만 건+",
+            "label": "신고 건수"
+          },
+          {
+            "value": "글로벌",
+            "label": "영향 범위"
+          },
+          {
+            "value": "수 시간",
+            "label": "장애 지속"
+          }
+        ],
+        "main_number": "13만+",
+        "main_text": "아웃룩 관련 장애 신고 폭증"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "마이크로소프트의 아웃룩, 팀즈 등 주요 서비스에서 대규모 접속 장애가 발생했으며, 관련 신고가 13만 건 이상 접수됐다.",
+        "points": [
+          "MS 서비스 전반에 걸쳐 영향",
+          "인프라 부하 증가가 원인으로 추정",
+          "업무 마비 등 사용자 불편 초래",
+          "복구 작업 및 재발 방지 노력"
+        ],
+        "quote": "인프라 부하를 분산하기 위해 접속 트래픽을 재분배하는 등 복구 작업 진행 중.",
+        "context": "현대 사회에서 클라우드 기반 업무 서비스 의존도가 높아지면서, 대규모 서비스 장애는 기업과 개인 모두에게 심각한 업무 마비를 초래할 수 있음을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012293059?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76309&nologo=true"
+    },
+    {
+      "id": "tech-romania-solar-project",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "루마니아 1.36GWp 다마 태양광 프로젝트, 7개 파트너 선정",
+      "subtitle": "유럽 최대 규모 신재생에너지 프로젝트 가속화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1.36GWp",
+            "label": "발전량"
+          },
+          {
+            "value": "7개",
+            "label": "참여 파트너"
+          },
+          {
+            "value": "루마니아",
+            "label": "사업 지역"
+          }
+        ],
+        "main_number": "7",
+        "main_text": "메가 태양광 프로젝트 파트너 확정"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "루마니아의 1.36GWp 규모 다마 태양광 프로젝트가 7개 파트너를 선정하며 유럽 최대 규모 신재생에너지 사업 추진에 박차를 가하고 있다.",
+        "points": [
+          "유럽 신재생에너지 전환 가속화",
+          "대규모 태양광 발전 잠재력 확인",
+          "환경 영향 고려한 계획 수립",
+          "에너지 자립 및 탄소 중립 기여"
+        ],
+        "quote": "유럽은 농업 분야에 우주 기술을 활용할 준비가 되어 있는 선진 시장입니다.",
+        "context": "유럽이 에너지 안보를 강화하고 탄소 중립 목표를 달성하기 위해 신재생에너지 투자를 확대하는 가운데, 이 프로젝트는 동유럽 에너지 시장의 중요한 전환점이 될 것으로 기대된다.",
+        "source_url": "https://econotimes.com/Rezolv-Names-Seven-Partners-for-Romania-s-1-36-GWp-Dama-Solar-Project-1776013"
+      },
+      "image_url": "data/images/2026-11-13/tech-romania-solar-project.jpg"
+    },
+    {
+      "id": "society-judicial-impeachment",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "여권 내 '조희대 대법원장 탄핵론' 재부상",
+      "subtitle": "한덕수 전 총리 석방 여부가 탄핵 논의의 도화선으로 작용",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "조희대",
+            "label": "대법원장"
+          },
+          {
+            "value": "한덕수",
+            "label": "前 총리"
+          },
+          {
+            "value": "민주당",
+            "label": "주도"
+          }
+        ],
+        "main_number": "재점화",
+        "main_text": "사법부 수장 탄핵 논의 가열"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "여권 내부에서 조희대 대법원장에 대한 탄핵 논의가 다시 떠오르고 있으며, 한덕수 전 국무총리의 석방 여부가 그 도화선이 될 것이라는 관측이 나온다.",
+        "points": [
+          "민주당 지도부 당내 의견 수렴 중",
+          "사법부 독립성 침해 논란",
+          "정치적 쟁점화 가능성",
+          "탄핵안 발의 시 파장 예상"
+        ],
+        "quote": "한 전 총리 석방 여부가 조 대법원장을 향한 강경 조치로 이어지는 도화선이 될 것.",
+        "context": "사법부의 독립성을 둘러싼 정치권의 압박이 거세지는 가운데, 특정 판결이 정치적 이슈로 비화되며 대법원장에 대한 탄핵론까지 제기되는 초유의 사태가 발생하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009286863?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60036&nologo=true"
+    },
+    {
+      "id": "society-urban-esg-policy",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "도시 ESG 평가, 정책 개선으로 이어져야",
+      "subtitle": "서울연구원 국제포럼, 지속가능성 지표 활용 방안 논의",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "서울연구원",
+            "label": "주최"
+          },
+          {
+            "value": "ESG 지표",
+            "label": "평가 기준"
+          },
+          {
+            "value": "정책 개선",
+            "label": "활용 목표"
+          }
+        ],
+        "main_number": "개선 필요",
+        "main_text": "도시 ESG 평가, 단순 순위 비교 넘어"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "서울연구원 국제포럼에서 도시의 ESG(환경·사회·지배구조) 평가가 단순한 순위 비교를 넘어 실제 정책 개선으로 이어져야 한다는 주장이 제기됐다.",
+        "points": [
+          "도시 지속가능성 및 삶의 질 진단",
+          "ESG 평가 결과 정책 반영 중요성",
+          "환경, 사회적 가치, 행정 운영 수준",
+          "국제적 협력 및 사례 공유"
+        ],
+        "quote": "ESG 지표를 활용해 도시의 지속가능성과 시민 삶의 질을 진단하고, 평가 결과를 정책에 활용해야 합니다.",
+        "context": "기후 변화와 사회적 불평등 심화 등으로 도시의 지속가능성이 주요 과제로 떠오르면서, ESG 개념을 도시 정책에 접목하여 시민의 삶의 질을 높이려는 노력이 활발해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009286875?sid=102"
+      },
+      "image_url": "data/images/2026-11-13/society-urban-esg-policy.jpg"
+    },
+    {
+      "id": "society-us-black-senator-mississippi",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "美 미시시피주, 152년 만에 흑인 상원의원 배출",
+      "subtitle": "역사적인 정치적 이정표, 인종 통합의 상징",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "152년",
+            "label": "공백 기간"
+          },
+          {
+            "value": "미시시피",
+            "label": "주"
+          },
+          {
+            "value": "흑인",
+            "label": "상원의원"
+          }
+        ],
+        "main_number": "152년",
+        "main_text": "미시시피 흑인 상원의원 탄생"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국 미시시피주에서 152년 만에 흑인 상원의원이 탄생하며, 이는 미국 정치사에 중요한 이정표가 될 것으로 평가된다.",
+        "points": [
+          "남부 주에서의 의미 있는 변화",
+          "정치적 다양성 증진 기여",
+          "민권 운동의 역사적 맥락",
+          "유권자 참여와 인식 변화 반영"
+        ],
+        "quote": "오랜 시간 동안 이어져 온 장벽을 허문 역사적인 순간입니다.",
+        "context": "미국 남부 지역, 특히 미시시피는 과거 인종 차별의 역사가 깊어 흑인 정치인의 상원 진출은 단순한 선거 결과를 넘어 사회 통합과 민주주의 발전 측면에서 큰 의미를 지닌다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004681699?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65741&nologo=true"
+    },
+    {
+      "id": "life-k-tourism-20million",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "K-관광 새 역사: 외국인 관광객 2천만 명 돌파",
+      "subtitle": "한류 열풍 힘입어 14년 만에 1천만 명에서 2천만 명으로 성장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2천만 명",
+            "label": "방한객 수"
+          },
           {
             "value": "14년",
-            "label": "총파업 만"
+            "label": "성장 기간"
           },
           {
-            "value": "수천명",
-            "label": "파업 참여"
+            "value": "K-팝",
+            "label": "주요 동력"
           }
         ],
-        "main_number": "14년 만",
-        "main_text": "스페인 주택난, 14년 만의 전국적 총파업 촉발"
+        "main_number": "20M",
+        "main_text": "K-관광객 수 2천만 명 달성"
       },
-      "image_prompt": "cute pastel infographic illustration, a crowd of people protesting with signs about housing, rising apartment buildings, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "스페인에서 주택난과 치솟는 주거비에 항의하는 전국적인 총파업이 14년 만에 발생하며 사회적 불만이 고조되고 있다.",
+        "summary": "한국을 찾은 외국인 관광객 수가 최초로 2천만 명을 돌파하며 K-관광의 새로운 역사를 썼다. 2012년 1천만 명 달성 이후 14년 만의 기록이다.",
         "points": [
-          "스페인 노동자들, 주택난으로 14년 만 전국적 총파업",
-          "좌파 연립정부 지지 vs 경제단체·극우 진영 비판, 정치적 갈등",
-          "주거비 부담 증가, 청년층 사회 진출 가로막는 주요 요인",
-          "총파업으로 조기 총선 가능성까지 거론되며 정국 불안정"
+          "K-팝, 드라마 등 한류 영향",
+          "음식, 뷰티 등 한국 문화 관심 증대",
+          "경제 활성화 및 일자리 창출 기여",
+          "향후 질적 성장 과제 부상"
         ],
-        "quote": "좌파 연립정부 각료들은 이번 파업을 공개적으로 지지하며 노동자 파업권을 존중하라고 촉구했다.",
-        "context": "유럽 전역의 주거비 상승 문제와 함께, 스페인 정부의 정책 실패에 대한 시민들의 불만이 누적되어 대규모 사회 운동으로 분출되었다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000925298?sid=104"
+        "quote": "Welcome to Korea~ K-관광의 성과는 한국 문화 전반에 대한 높은 관심을 보여줍니다.",
+        "context": "글로벌 한류 열풍이 지속되면서 한국이 문화 강국으로 자리매김하고 있으며, 이는 관광 산업 활성화로 이어져 국가 경제에 긍정적인 영향을 미치고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000925712?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20crowd%20of%20people%20protesting%20with%20signs%20about%20housing%2C%20rising%20apartment%20buildings%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80461&nologo=true"
+      "image_url": "data/images/2026-11-13/life-k-tourism-20million.jpg"
     },
     {
-      "id": "world-03",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "flow_chart",
-      "title": "칠레-한국, 리튬 기술 협력 '플랫폼' 구축",
-      "subtitle": "아타카마 염수 리튬 추출 기술 개발…핵심 광물 공급망 강화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1위",
-            "label": "칠레 구리 생산"
-          },
-          {
-            "value": "2위",
-            "label": "칠레 리튬 생산"
-          },
-          {
-            "value": "배터리",
-            "label": "韓 주요 산업"
-          }
-        ],
-        "main_number": "협력 강화",
-        "main_text": "칠레 리튬 연구소, 한국에 기술 플랫폼 조성"
-      },
-      "image_prompt": "cute pastel infographic illustration, map showing flow of resources between Chile and South Korea, lithium batteries and scientific research elements, no text",
-      "detail": {
-        "summary": "칠레 리튬연구소가 한국에 아타카마 염수 리튬 기술 파일럿 플랫폼을 조성하며 핵심 광물 공급망 강화를 위한 양국 협력이 본격화된다.",
-        "points": [
-          "칠레 리튬연구소, 한국에 '아타카마 염수 리튬 기술 플랫폼' 조성",
-          "한국의 배터리 산업과 칠레의 리튬 생산국 지위 결합 시너지 기대",
-          "원자재 거래 넘어 기술 협력으로 공급망 안정화 모색",
-          "고순도 리튬 생산 및 이차전지 소재 기술 개발 추진"
-        ],
-        "quote": "양국 협력은 단순한 원자재 거래를 넘어선 기술 및 산업 생태계 전반의 시너지를 목표로 한다.",
-        "context": "글로벌 전기차 시장 성장에 따라 리튬의 중요성이 커지면서, 한국은 안정적인 공급망 확보를 위해 주요 리튬 생산국인 칠레와의 협력을 강화하고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026111205430496702bd56fbc3c_1"
-      },
-      "image_url": "data/images/2026-11-12/world-03.jpg"
-    },
-    {
-      "id": "economy-01",
-      "is_headline": true,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "가계대출 1200조원 돌파, 사상 최고치 기록",
-      "subtitle": "주택담보대출 및 신용대출 증가세 심상찮다",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1203.9조",
-            "label": "총 가계대출"
-          },
-          {
-            "value": "6.4조",
-            "label": "월 증가액"
-          }
-        ],
-        "main_number": "1200조원+",
-        "main_text": "예금은행 가계대출, 사상 첫 1200조 돌파"
-      },
-      "image_prompt": "cute pastel infographic illustration, stacked coins and upward trending graphs, people struggling with loans, no text",
-      "detail": {
-        "summary": "10월 예금은행 가계대출 잔액이 1203조 9천억원에 달하며 사상 처음으로 1200조원을 돌파, 서민 경제에 부담이 가중되고 있다.",
-        "points": [
-          "10월 예금은행 가계대출 6.4조원 폭증",
-          "총 가계대출 잔액 사상 첫 1200조 9천억원 기록",
-          "주택담보대출, 신용대출 모두 증가 전환",
-          "'빚투'와 주담대 증가세 지속하며 가계 부채 심화"
-        ],
-        "quote": "10월 말 기준 예금은행의 가계대출 잔액이 1천203조9천억원에 이르며, 처음으로 1천200조원을 넘어섰다.",
-        "context": "고금리 장기화와 부동산 시장 불안정 속에서 가계대출이 다시 급증하며, 금융 시스템의 건전성에 대한 우려가 커지고 있다.",
-        "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=625752"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20stacked%20coins%20and%20upward%20trending%20graphs%2C%20people%20struggling%20with%20loans%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61280&nologo=true"
-    },
-    {
-      "id": "economy-02",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "관리종목 해제 기업 90%, 이후 주가 폭락",
-      "subtitle": "투자주의환기종목 지정 해제 후 투자자 손실 주의보",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "90.6%",
-            "label": "주가 하락 비율"
-          },
-          {
-            "value": "32곳",
-            "label": "분석 대상 기업"
-          }
-        ],
-        "main_number": "90% 폭락",
-        "main_text": "관리종목 해제 후에도 투자 리스크 여전"
-      },
-      "image_prompt": "cute pastel infographic illustration, stock market graphs showing sharp declines, a broken piggy bank, caution signs, no text",
-      "detail": {
-        "summary": "관리종목 또는 투자주의환기종목 지정에서 해제된 코스닥 기업 10곳 중 9곳 이상이 해제 후 주가가 폭락한 것으로 나타나 투자자들의 주의가 요구된다.",
-        "points": [
-          "관리종목 해제 코스닥 기업 32곳 중 29곳(90.6%) 주가 하락",
-          "상한가 상승 후 매수에 뛰어든 투자자들 큰 손실",
-          "해제일 대비 평균 48% 하락, 최대 87% 폭락 사례도",
-          "단기 급등에 현혹되지 않고 기업 펀더멘털 분석 중요"
-        ],
-        "quote": "관리종목 해제를 호재로 여겨 투자했다가 큰 손실을 본 투자자들이 속출하고 있다.",
-        "context": "투자 위험이 큰 종목들이 관리종목에서 해제된 후에도 단기적인 기대감으로 인한 급등락이 반복되며 개인 투자자들의 피해가 이어지고 있어, 신중한 접근이 필요하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/009/0005762475?sid=101"
-      },
-      "image_url": "data/images/2026-11-12/economy-02.jpg"
-    },
-    {
-      "id": "economy-03",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "K-콘텐츠, 소비재 수출 견인 '톡톡'",
-      "subtitle": "2025년 K소비재 수출 456억 달러 전망, 전체 수출 비중 6.4%",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "456억 달러",
-            "label": "2025년 소비재 수출"
-          },
-          {
-            "value": "6.4%",
-            "label": "전체 수출 비중"
-          }
-        ],
-        "main_number": "수출 +α 효과",
-        "main_text": "K콘텐츠 흥행, K소비재 수출 촉진 효과 확인"
-      },
-      "image_prompt": "cute pastel infographic illustration, a globe with arrows showing K-content spreading, and products like cosmetics and food being exported, no text",
-      "detail": {
-        "summary": "K콘텐츠의 흥행이 해외 소비자들의 K소비재 구매로 이어져, 2025년 K소비재 수출액이 456억 달러에 달하며 전체 수출의 6.4%를 차지할 것으로 전망된다.",
-        "points": [
-          "K소비재 수출, 2025년 456억 달러 규모로 성장 전망",
-          "전체 수출에서 차지하는 비중 6.4%로 중요성 확대",
-          "K콘텐츠 속 제품 노출과 한국 소비문화 관심이 실제 구매로 연결",
-          "품목별 수출 반응 시점에 맞춘 마케팅 전략 필요"
-        ],
-        "quote": "드라마 속 일상에서 반복적으로 노출되는 제품과 한국의 소비문화에 대한 관심이 실제 구매로 이어진 것으로 풀이된다.",
-        "context": "한류 열풍이 문화 산업을 넘어 실물 경제에까지 긍정적인 영향을 미치며, 국가 경제의 새로운 성장 동력으로 자리매김하고 있다.",
-        "source_url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902749"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20globe%20with%20arrows%20showing%20K-content%20spreading%2C%20and%20products%20like%20cosmetics%20and%20food%20being%20exported%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=52394&nologo=true"
-    },
-    {
-      "id": "tech-01",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "AI, 챗봇 넘어 '일의 영역'까지 확장",
-      "subtitle": "오픈AI·구글·메타 등 빅테크, 차세대 AI 시장 선점 경쟁 가열",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "OpenAI",
-            "label": "GPT 개발"
-          },
-          {
-            "value": "Google",
-            "label": "Gemini 개발"
-          },
-          {
-            "value": "Meta",
-            "label": "Llama 개발"
-          }
-        ],
-        "main_number": "AI 일상화",
-        "main_text": "챗봇에서 업무 자동화까지, AI 진화 가속화"
-      },
-      "image_prompt": "cute pastel infographic illustration, various robots and AI assistants performing different tasks in an office, symbolizing human-AI collaboration, no text",
-      "detail": {
-        "summary": "오픈AI, 구글, 메타 등 글로벌 빅테크 기업들이 단순 챗봇을 넘어 업무 자동화 및 창의적 영역까지 진출하는 차세대 AI 개발 경쟁에 박차를 가하고 있다.",
-        "points": [
-          "AI, 챗봇 기능 넘어 문서 작성, 코드 생성, 이미지 제작 등 업무 자동화",
-          "오픈AI의 '소라'와 같은 생성형 AI, 영상 제작 시장 변화 예고",
-          "구글, 메타 등 자체 AI 모델로 인재 인수 및 기술 경쟁 심화",
-          "AI의 발전, 전 산업 분야의 생산성 혁신과 패러다임 변화 기대"
-        ],
-        "quote": "미국 IT 전문매체들은 창업자와 핵심 인력을 확보하는 인재 인수 성격의 거래로 분석했다.",
-        "context": "AI 기술의 발전 속도가 가속화되면서, 인간의 업무 방식과 사회 전반의 구조를 근본적으로 변화시킬 잠재력을 가진 새로운 시대가 도래하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006408509?sid=105"
-      },
-      "image_url": "data/images/2026-11-12/tech-01.jpg"
-    },
-    {
-      "id": "tech-02",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "산업시설 사이버 보안, '경고등'",
-      "subtitle": "IT·OT 융합 가속화에도 분리된 보안 시스템은 34%에 불과",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "70%+",
-            "label": "사이버 침입 경험"
-          },
-          {
-            "value": "34%",
-            "label": "IT·OT 분리 비율"
-          }
-        ],
-        "main_number": "보안 격차",
-        "main_text": "IT-OT 연결 가속화, 산업시설 보안 사각지대 심화"
-      },
-      "image_prompt": "cute pastel infographic illustration, factory with glowing digital lines connecting machinery, a shield icon with a crack, cybersecurity threats, no text",
-      "detail": {
-        "summary": "정보기술(IT)과 운영기술(OT)의 연결이 확대되고 있지만, 이들을 분리 운영하는 기업은 34%에 불과하여 산업 시설의 사이버 보안 위협이 심각한 수준이다.",
-        "points": [
-          "IT(정보기술)와 OT(운영기술)의 연결 확대 추세",
-          "글로벌 기업 10곳 중 7곳 이상 사이버 침입 경험",
-          "IT-OT 시스템 분리 운영 기업 34%에 불과, 보안 취약점 노출",
-          "사이버 공격 시 생산시설 가동 중단 및 안전사고 위험 증가"
-        ],
-        "quote": "사이버 공격이 생산시설 가동 중단과 안전사고로 이어질 수 있다는 경고가 나왔다.",
-        "context": "스마트 팩토리 등 4차 산업혁명 기술이 확산되면서 산업 시설의 디지털화가 가속화되고 있지만, 이에 상응하는 보안 강화가 이루어지지 않아 심각한 위협에 직면해 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004681241?sid=105"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20factory%20with%20glowing%20digital%20lines%20connecting%20machinery%2C%20a%20shield%20icon%20with%20a%20crack%2C%20cybersecurity%20threats%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9208&nologo=true"
-    },
-    {
-      "id": "tech-03",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "Anthropic, 260억 달러 투자 유치…AI 시장 과열",
-      "subtitle": "구글 포함 7개 주요 기업 참여, AI 스타트업 가치 급등",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "260억 달러",
-            "label": "투자 유치액"
-          },
-          {
-            "value": "7곳",
-            "label": "참여 기업 수"
-          }
-        ],
-        "main_number": "$26B 투자",
-        "main_text": "AI 스타트업 Anthropic, 대규모 투자로 경쟁력 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration, a glowing AI brain with money flowing towards it from multiple corporate logos, representing investment, no text",
-      "detail": {
-        "summary": "AI 스타트업 Anthropic이 260억 달러 규모의 조건부 투자 유치에 성공하며, 구글을 포함한 주요 기업들이 대거 참여해 AI 시장의 뜨거운 열기를 증명했다.",
-        "points": [
-          "Anthropic, 260억 달러 규모의 조건부 투자 유치 발표",
-          "구글 등 7개 주요 기업이 투자자로 참여",
-          "AI 스타트업들의 기업 가치 급등, 시장 경쟁 심화",
-          "클로드(Claude) 등 AI 모델 개발 가속화 기대"
-        ],
-        "quote": "Google's purchase includes funding part of investment obligations it had already committed to.",
-        "context": "챗GPT 등 생성형 AI의 등장 이후 글로벌 빅테크 기업들이 AI 시장 주도권을 잡기 위해 공격적인 투자와 인수합병에 나서고 있다.",
-        "source_url": "https://econotimes.com/Anthropic-Filing-Names-Seven-Buyers-for-Conditional-26-Billion-Placement-1775426"
-      },
-      "image_url": "data/images/2026-11-12/tech-03.jpg"
-    },
-    {
-      "id": "society-01",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "서울시, 청년 AI 성장권으로 '기회 격차' 해소",
-      "subtitle": "청년 미취업 1년 증가 시 실질임금 6.7% 감소, 사회적 고립 해소 목표",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "46.7%↑",
-            "label": "'쉬었음' 청년 증가율"
-          },
-          {
-            "value": "6.7%↓",
-            "label": "미취업 1년당 임금"
-          }
-        ],
-        "main_number": "기회 불균형 해소",
-        "main_text": "청년 미취업, 소득 감소 및 사회적 고립 심화"
-      },
-      "image_prompt": "cute pastel infographic illustration, young people learning with AI tools, a bridge connecting two sides of a gap, symbolizing opportunity, no text",
-      "detail": {
-        "summary": "서울시가 '청년 AI 성장권'을 본격 추진하며, AI 활용 능력 격차가 출발점의 차이로 이어지지 않도록 사회배려청년을 우선 지원하고 청년들의 사회적 고립 해소에 나선다.",
-        "points": [
-          "서울시, '청년 AI 성장권'으로 AI 교육 및 기회 제공",
-          "청년 미취업 1년 증가 시 향후 실질임금 6.7% 감소",
-          "'쉬었음' 청년 3년 새 46.7% 증가하며 사회적 고립 심화",
-          "사회배려청년 우선 모집, 일반청년에게도 이용권 제공"
-        ],
-        "quote": "도구의 차이가 출발의 차이가 되고, 그 차이가 생애 소득과 사회적 연결의 차이로까지 전이될 수 있다.",
-        "context": "급변하는 디지털 시대에 AI 활용 능력은 필수 역량으로 부상하고 있지만, 교육 기회의 불균형이 청년층의 경제적, 사회적 격차를 심화시킬 우려가 있어 정책적 지원이 시급하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/119/0003154139?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20young%20people%20learning%20with%20AI%20tools%2C%20a%20bridge%20connecting%20two%20sides%20of%20a%20gap%2C%20symbolizing%20opportunity%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40802&nologo=true"
-    },
-    {
-      "id": "society-02",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "score_card",
-      "title": "신세계백화점, 2년 연속 ESG 'A+' 획득",
-      "subtitle": "환경경영, 협력사 상생, 지역사회 공헌 노력 인정",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2년 연속",
-            "label": "A+ 등급"
-          },
-          {
-            "value": "업계 유일",
-            "label": "선정 기록"
-          }
-        ],
-        "main_number": "ESG 선도",
-        "main_text": "지속가능경영 성과, 국내 백화점 업계 유일"
-      },
-      "image_prompt": "cute pastel infographic illustration, a balanced scale with 'E', 'S', 'G' symbols, green leaves, handshake, and a community building, no text",
-      "detail": {
-        "summary": "신세계백화점이 한국ESG기준원 평가에서 2년 연속 종합 A+ 등급을 획득하며, 환경경영 및 중소 협력사 상생, 지역사회 공헌 노력을 인정받았다.",
-        "points": [
-          "신세계백화점, 2025~2026년 한국ESG기준원 ESG 평가 2년 연속 A+",
-          "기후변화 대응, 생물다양성 보전 등 환경(E) 부문 우수",
-          "중소 협력사 상생 펀드, 대금 조기 지급 등 사회(S) 부문 기여",
-          "청소년 스마트 스터디룸 조성 등 지역사회 공헌 활동 지속"
-        ],
-        "quote": "협력사, 지역사회, 환경 모든 분야에서 기업의 사회적 책임을 다하고 함께 성장하는 상생 경영활동을 더욱 강화해 나갈 것.",
-        "context": "ESG 경영이 기업의 핵심 가치로 부상하면서, 사회적 책임을 다하는 기업의 노력과 성과가 소비자 및 투자자에게 중요한 평가 기준으로 작용하고 있다.",
-        "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082438"
-      },
-      "image_url": "data/images/2026-11-12/society-02.jpg"
-    },
-    {
-      "id": "society-03",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "comparison",
-      "title": "지방교육재정교부금 개편안, 학령인구 vs 재정 부담",
-      "subtitle": "내국세 연동률 20.79%에서 변경 제안, 교육계 우려 증폭",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "20.79%",
-            "label": "현재 연동률"
-          },
-          {
-            "value": "불확실",
-            "label": "변경 후"
-          }
-        ],
-        "main_number": "개편 논의",
-        "main_text": "지방교육 재원 확보, 학령인구 감소 속 정책 갈등"
-      },
-      "image_prompt": "cute pastel infographic illustration, a school building with a pie chart representing budget allocation, children on one side and a worried adult on the other, no text",
-      "detail": {
-        "summary": "이인선 의원이 지방교육재정교부금의 내국세 연동률 20.79% 개편 대안을 발의, 학령인구 감소와 교육 재정 부담 사이의 해법을 모색하고 있으나 교육계의 우려가 크다.",
-        "points": [
-          "이인선 의원, 지방교육재정교부금 개편 대안 발의",
-          "내국세 연동률 20.79% 조정 검토, 재정 효율성 제고 목적",
-          "교육계 및 일부 정치권, 농산어촌·교육 취약지역 재정 부담 우려",
-          "학생 수와 관계없이 유지되어야 할 교육 재정의 중요성 강조"
-        ],
-        "quote": "학령인구 감소를 이유로 교부금 산정체계를 변경할 경우 농산어촌과 교육 취약지역의 재정 부담이 커질 수 있다는 우려를 제기해 왔다.",
-        "context": "저출산으로 인한 학령인구 감소가 가속화되면서 지방교육재정교부금의 합리적인 배분과 효율적인 운영 방안을 둘러싼 사회적 논의와 갈등이 심화되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/002/0002465453?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20school%20building%20with%20a%20pie%20chart%20representing%20budget%20allocation%2C%20children%20on%20one%20side%20and%20a%20worried%20adult%20on%20the%20other%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=42958&nologo=true"
-    },
-    {
-      "id": "life-01",
+      "id": "life-kpop-incubation-contracts",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "개인 생명보험 최고액 '4270억원' 경신",
-      "subtitle": "홍콩에서 세계 신기록 달성…부유층 자산 관리 새 트렌드",
+      "title": "K-팝 인큐베이팅의 이면: 계약서와 아티스트 성장",
+      "subtitle": "표준전속계약서 도입 후 7년 계약 기간 정착, 그러나 여전히 논란",
       "viz_data": {
         "stats": [
           {
-            "value": "4270억 원",
-            "label": "최고 보험금"
+            "value": "7년",
+            "label": "표준 계약 기간"
           },
           {
-            "value": "싱가포르",
-            "label": "기존 기록"
+            "value": "2009년",
+            "label": "표준 계약서 도입"
+          },
+          {
+            "value": "청소년",
+            "label": "아티스트 보호"
           }
         ],
-        "main_number": "기네스 신기록",
-        "main_text": "홍콩서 개인 생명보험 최고액 기록 경신"
+        "main_number": "7년",
+        "main_text": "K-팝 표준 전속계약 기간"
       },
-      "image_prompt": "cute pastel infographic illustration, a large stack of money or gold coins next to a tiny person, symbolizing extreme wealth, insurance policy documents, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "홍콩에서 개인이 4270억원 규모의 생명보험에 가입하며 기네스 세계 신기록을 세웠다. 이는 부유층의 상속 및 자산 관리 전략의 일환으로 분석된다.",
+        "summary": "K-팝 산업의 '인큐베이팅' 시스템과 관련하여 표준전속계약서의 7년 계약 기간이 정착되었지만, 아티스트의 건강 및 안전, 성형 시술 제안 등에 대한 논란은 여전하다.",
         "points": [
-          "홍콩서 4270억 원 규모 개인 생명보험 계약, 세계 최고액",
-          "기존 싱가포르 4028억 원 기록 약 250억 원 경신",
-          "초고액 자산가들의 상속세 절감 및 자산 관리 수단으로 활용",
-          "아시아 부유층의 자산 운용 방식 변화 보여주는 사례"
+          "청소년 아티스트 보호 법안 제정",
+          "성형 시술 등 제안의 강압성 논란",
+          "K-팝 산업의 고강도 훈련 시스템",
+          "아티스트 권리 보호 및 성장 지원"
         ],
-        "quote": "기존 최고 기록은 올해 2월 싱가포르의 매뉴라이프가 체결한 3억 달러(약 4028억 원) 규모의 생명보험 계약이었다.",
-        "context": "글로벌 부유층 사이에서 보험 상품이 단순한 보장을 넘어 상속, 증여, 자산 포트폴리오 다각화를 위한 중요한 금융 도구로 활용되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/021/0002832181?sid=104"
+        "quote": "계약기간 7년은 산업의 특성과 아티스트의 성장을 고려한 최소한의 균형이다.",
+        "context": "K-팝이 전 세계적인 인기를 얻으면서 아이돌 연습생 시스템과 계약 관행에 대한 관심과 비판도 동시에 커지고 있다. 아티스트의 인권을 보호하고 지속 가능한 성장을 돕기 위한 노력이 요구된다.",
+        "source_url": "https://m.entertain.naver.com/article/003/0014319675"
       },
-      "image_url": "data/images/2026-11-12/life-01.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=8583&nologo=true"
     },
     {
-      "id": "life-02",
+      "id": "life-kimchi-consumption-trend",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "pie_chart",
-      "title": "日 '극단 다이어트' 열풍, 여성 6명 중 1명 저체중",
-      "subtitle": "마른 체형 선호 문화 확산, 임신·출산 및 다음 세대 건강 위협",
+      "title": "김장 문화 변화: 집에서 김치 담그기 vs 구매",
+      "subtitle": "설문조사 결과, 김치 구매 비중 점차 증가 추세",
       "viz_data": {
         "stats": [
           {
-            "value": "16.7%",
-            "label": "여성 저체중 비율"
+            "value": "58.6%",
+            "label": "직접 담금/수령"
           },
           {
-            "value": "건강 위협",
-            "label": "전문가 경고"
-          }
-        ],
-        "main_number": "여성 1/6 저체중",
-        "main_text": "일본 여성, 마른 몸매 선호로 건강 위험"
-      },
-      "image_prompt": "cute pastel infographic illustration, a worried doctor looking at a very thin person, scales with 'health' and 'appearance' unbalanced, no text",
-      "detail": {
-        "summary": "일본에서 젊은 여성들을 중심으로 마른 체형 선호 문화가 확산되며 여성 6명 중 1명이 저체중인 것으로 나타나, 전문가들이 건강 문제에 대한 심각한 경고를 보내고 있다.",
-        "points": [
-          "일본 젊은 여성층 '극단 다이어트' 열풍 확산",
-          "여성 6명 중 1명이 저체중 상태로 건강 위협",
-          "지나친 다이어트, 임신·출산 및 다음 세대 건강에 악영향",
-          "외모 지상주의 문화와 미디어 영향에 대한 우려 증폭"
-        ],
-        "quote": "지나친 다이어트가 임신과 출산은 물론 다음 세대의 건강까지 위협할 수 있다는 경고가 나왔다.",
-        "context": "사회가 제시하는 미의 기준이 극도로 마른 몸매를 강조하면서, 젊은 세대의 건강을 위협하고 심각한 사회적 문제를 야기하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005439974?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20worried%20doctor%20looking%20at%20a%20very%20thin%20person%2C%20scales%20with%20%27health%27%20and%20%27appearance%27%20unbalanced%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=30891&nologo=true"
-    },
-    {
-      "id": "life-03",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "서울 야간 문화시설, 방문객 2.1배 폭증",
-      "subtitle": "개방 시간 연장 후 6곳 인기 급상승, 시민 문화 향유 기회 확대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "6곳",
-            "label": "대상 시설"
+            "value": "41.4%",
+            "label": "구매"
           },
           {
-            "value": "2.1배",
-            "label": "방문객 증가율"
+            "value": "늦가을",
+            "label": "김장 시기"
           }
         ],
-        "main_number": "2.1배↑",
-        "main_text": "서울 야간 문화시설, 시민들 호응에 방문객 급증"
+        "main_number": "58.6%",
+        "main_text": "가정 내 김치 준비 방식"
       },
-      "image_prompt": "cute pastel infographic illustration, a brightly lit museum or library at night, people enjoying cultural activities, showing increased foot traffic, no text",
+      "image_prompt": "cute pastel infographic illustration, no text",
       "detail": {
-        "summary": "서울시가 주요 문화시설 6곳의 야간 개방을 확대한 이후, 전체 방문객이 2.1배 증가하며 시민들의 문화 향유 기회가 크게 확대된 것으로 나타났다.",
+        "summary": "한국 가구의 58.6%가 김치를 직접 담그거나 다른 경로를 통해 얻는 반면, 구매하는 비중도 상당한 것으로 나타나 김장 문화의 변화를 보여준다.",
         "points": [
-          "서울시, 주요 문화시설 6곳 야간 개방 확대",
-          "야간 개방 후 전체 방문객 약 2.1배 증가",
-          "박물관, 한옥 등 다양한 시설에서 전시 및 체험 프로그램 제공",
-          "시민들의 문화생활 패턴 변화에 긍정적 영향"
+          "가정 내 김치 준비 방식 다양화",
+          "편의성 중시하는 소비 트렌드",
+          "김치 발효 및 보관의 중요성",
+          "전통 문화 계승과 현대적 접근"
         ],
-        "quote": "서울시는 주요 문화시설 6곳의 전체 방문객이 야간 개방 확대 이후 약 2.1배 늘었다고 12일 밝혔다.",
-        "context": "직장인 등 낮 시간 문화 활동이 어려운 시민들을 위해 문화시설의 접근성을 높이는 정책이 성공적으로 시행되면서, 도시의 문화 활성화에 기여하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014317001?sid=102"
+        "quote": "김장은 한국인의 일상과 문화를 연결하는 중요한 전통입니다.",
+        "context": "전통적으로 가족 공동체의 중요한 행사였던 김장이 현대 사회의 라이프스타일 변화에 따라 간편하게 김치를 구매하는 방식으로도 확대되면서, 전통 문화의 변화 양상을 보여주고 있다.",
+        "source_url": "https://www.nc.press/news/articleView.html?idxno=630859"
       },
-      "image_url": "data/images/2026-11-12/life-03.jpg"
+      "image_url": "data/images/2026-11-13/life-kimchi-consumption-trend.jpg"
     }
   ],
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T06:08:40.467474+09:00"
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T06:10:51.868719+09:00"
 }

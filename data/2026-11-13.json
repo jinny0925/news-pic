@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-putin-ukraine",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "푸틴, '유럽군 파병시 전쟁 재개' 경고",
+      "subtitle": "우크라이나 사태 긴장 고조, 美 특사에 강경 메시지",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1170+",
+            "label": "개전 일"
+          },
+          {
+            "value": "핵심국 3곳",
+            "label": "주요 당사자"
+          },
+          {
+            "value": "강경",
+            "label": "입장"
+          }
+        ],
+        "main_number": "재개 경고",
+        "main_text": "유럽군 파병 시 전쟁 재개 선언"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "푸틴 대통령이 유럽군의 우크라이나 파병 시 전쟁 재개를 경고하며 미국 특사에게 강경한 메시지를 전달했다.",
+        "points": [
+          "러시아-우크라이나 갈등 심화",
+          "유럽의 잠재적 개입 논의",
+          "미국 특사 방문 중 경고",
+          "협상 테이블 복잡성 증가"
+        ],
+        "quote": "유럽군 파병은 전쟁 재개를 의미할 것이다.",
+        "context": "우크라이나 전쟁 장기화 속에 유럽의 군사적 지원 확대 가능성이 제기되자 러시아가 직접적인 경고를 내놓으며 긴장감이 최고조에 달했다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005842038?sid=104"
+      },
+      "image_url": "data/images/2026-11-13/world-putin-ukraine.jpg"
+    },
+    {
+      "id": "world-korea-china-apec",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "한중 외교장관회담 개최, APEC 의제 조율",
+      "subtitle": "아태 경제 협력체 정상회의 앞두고 양국 정상회담 준비",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "13일",
+            "label": "개최일"
+          },
+          {
+            "value": "2국",
+            "label": "참여국"
+          },
+          {
+            "value": "APEC",
+            "label": "주요 회의"
+          }
+        ],
+        "main_number": "의제 조율",
+        "main_text": "경제·민생·문화 협력 논의"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한중 외교장관이 APEC 정상회의를 앞두고 양국 정상회담 일정과 의제를 조율하기 위해 만났다.",
+        "points": [
+          "한중 고위급 외교 재개",
+          "APEC 정상회의 준비",
+          "경제 및 문화 교류 확대 논의",
+          "지역 안정 및 협력 강화"
+        ],
+        "quote": "양국 정상회담을 통해 경제·민생·문화 협력 방안을 심도있게 논의할 것.",
+        "context": "미중 갈등 속에서 동북아시아의 주요 경제 및 안보 파트너인 한중 양국이 APEC을 계기로 관계 개선을 모색하며, 지역 경제 협력의 중요한 전환점이 될 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009286861?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91107&nologo=true"
+    },
+    {
+      "id": "world-eu-russia-sanctions",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "EU, 러시아 추가 제재 발표: 150개 기관, 50개 은행",
+      "subtitle": "프랑스, 22차 대러시아 제재 패키지 계획 공개",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "150+",
+            "label": "기관"
+          },
+          {
+            "value": "50+",
+            "label": "은행"
+          },
+          {
+            "value": "22차",
+            "label": "제재 패키지"
+          }
+        ],
+        "main_number": "+200",
+        "main_text": "추가 제재 대상"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "프랑스가 EU의 22차 대러시아 제재 패키지 계획을 밝히며 150개 기관과 50개 은행을 추가 제재할 것이라고 발표했다.",
+        "points": [
+          "EU의 대러시아 압박 강화",
+          "금융 및 기업 부문 타격",
+          "제재 목표 및 효과 분석",
+          "글로벌 경제에 미칠 영향"
+        ],
+        "quote": "대러시아 제재를 통해 침략에 대한 강력한 대응을 이어갈 것.",
+        "context": "러시아의 우크라이나 침공 이후 지속적으로 제재를 가해온 EU가 추가적인 제재를 통해 러시아 경제에 대한 압박을 더욱 강화하려는 움직임을 보이고 있다.",
+        "source_url": "https://econotimes.com/France-Says-EU-Will-Add-150-Entities-50-Banks-to-Russia-Sanctions-1776010"
+      },
+      "image_url": "data/images/2026-11-13/world-eu-russia-sanctions.jpg"
+    },
+    {
+      "id": "economy-fed-fomc",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "美 연준, 내년 FOMC 금리 결정 회의 7회로 축소",
+      "subtitle": "장기적 통화정책 논의 위한 회의 시간 확보 목적",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7회",
+            "label": "내년 회의"
+          },
+          {
+            "value": "10월",
+            "label": "정책 논의 집중"
+          },
+          {
+            "value": "축소",
+            "label": "빈도"
+          }
+        ],
+        "main_number": "-1",
+        "main_text": "FOMC 금리 결정 회의 축소"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국 연방준비제도(Fed)가 내년부터 금리 결정을 위한 연방공개시장위원회(FOMC) 회의 횟수를 7회로 줄이고, 장기적인 통화정책 방향 논의에 집중할 계획이다.",
+        "points": [
+          "통화정책 결정 효율화",
+          "장기적 관점의 중요성 강조",
+          "시장 불확실성 감소 기대",
+          "글로벌 경제에 미칠 영향"
+        ],
+        "quote": "단기적 경제 상황 평가만큼 장기적인 통화정책 방향 논의 확보가 중요.",
+        "context": "연준은 통화정책 결정에 대한 예측 가능성을 높이고, 급변하는 경제 환경에 대한 보다 심층적인 분석을 위해 회의 운영 방식에 변화를 주어 시장의 이목이 집중되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012293060?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36117&nologo=true"
+    },
+    {
+      "id": "economy-chungcheong-megaproject",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "충청 메가프로젝트 첫 삽, 112개 기업 24조 투자",
+      "subtitle": "첨단산업 육성 및 지역경제 활성화 위한 대규모 프로젝트",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "24조",
+            "label": "총 투자금"
+          },
+          {
+            "value": "112개",
+            "label": "참여 기업"
+          },
+          {
+            "value": "1만 명",
+            "label": "인력 양성"
+          }
+        ],
+        "main_number": "첫 삽",
+        "main_text": "첨단산업 메가프로젝트 시작"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "충청권에 대규모 첨단산업 메가프로젝트가 첫 삽을 뜨며, 112개 기업이 총 24조 원을 추가 투자하고 매년 1만 명의 전문 인력을 양성할 계획이다.",
+        "points": [
+          "지역균형발전 핵심 과제",
+          "반도체, 이차전지 등 첨단산업",
+          "대규모 고용 창출 효과",
+          "산단 고도화 및 인프라 구축"
+        ],
+        "quote": "기업 투자와 일자리 창출이 지역경제 활성화로 이어지는 선순환을 만들 것.",
+        "context": "정부가 지방 소멸 위기에 대응하고 지역 경제 활성화를 위해 메가프로젝트를 추진하며, 첨단산업 클러스터 구축을 통해 국가 경쟁력 강화와 균형 발전을 동시에 꾀하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004681702?sid=100"
+      },
+      "image_url": "data/images/2026-11-13/economy-chungcheong-megaproject.jpg"
+    },
+    {
+      "id": "economy-pharmabio-esg",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "제약·바이오 기업 ESG 평가, 성적 차이 뚜렷",
+      "subtitle": "환경·사회·지배구조 영역별 편차 큰 것으로 나타나",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2026년",
+            "label": "평가 시점"
+          },
+          {
+            "value": "ESG",
+            "label": "평가 기준"
+          },
+          {
+            "value": "영역별",
+            "label": "편차"
+          }
+        ],
+        "main_number": "편차 심화",
+        "main_text": "기업별 ESG 성적 양극화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "2026년 국내 제약·바이오 기업의 ESG(환경·사회·지배구조) 평가 결과, 기업별 통합 등급뿐 아니라 영역별 평가에서도 뚜렷한 성적 차이가 확인됐다.",
+        "points": [
+          "사회 부문 높은 평가 기업 존재",
+          "지배구조 부문 낮은 등급 기업도",
+          "ESG 경영 도입 가속화",
+          "투자자 및 소비자 관심 증대"
+        ],
+        "quote": "ESG 경영은 기업의 지속가능성을 위한 필수 요소, 영역별 고른 성장이 필요하다.",
+        "context": "최근 기업의 사회적 책임과 지속가능성에 대한 관심이 커지면서 ESG 경영이 중요해지고 있으며, 제약·바이오 산업에서도 기업의 투명한 ESG 정보 공개와 개선 노력이 요구된다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548820"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99320&nologo=true"
+    },
+    {
+      "id": "tech-nvidia-jensen-huang-resignation",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "엔비디아 젠슨 황 CEO, '중국 스파이 스캔들'로 전격 퇴진",
+      "subtitle": "창업 33년 만의 리더십 교체, AI 반도체 시장 격변 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "33년",
+            "label": "CEO 재임"
+          },
+          {
+            "value": "1993년",
+            "label": "창업"
+          },
+          {
+            "value": "2159억",
+            "label": "매출 (2026)"
+          }
+        ],
+        "main_number": "퇴진",
+        "main_text": "AI 반도체 제왕의 갑작스러운 퇴진"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "엔비디아를 33년간 이끌어온 젠슨 황 CEO가 중국 스파이 스캔들과 사생활 논란으로 전격 퇴진하며 AI 반도체 시장에 큰 파장을 일으키고 있다.",
+        "points": [
+          "젠슨 황 CEO 33년 만에 퇴진",
+          "중국 스파이 연루 의혹 확산",
+          "미국 정치권 압박 거세져",
+          "엔비디아 AI 생태계 불확실성 증대"
+        ],
+        "quote": "세계 AI 반도체 시장의 판도를 뒤흔들 중대한 변화.",
+        "context": "인공지능 시대의 핵심 인물로 평가받던 젠슨 황의 갑작스러운 퇴진은 엔비디아뿐 아니라 글로벌 AI 및 반도체 산업의 패권 경쟁에 지대한 영향을 미칠 것으로 예상된다.",
+        "source_url": "https://www.moneystorm.kr/news/articleView.html?idxno=8395"
+      },
+      "image_url": "data/images/2026-11-13/tech-nvidia-jensen-huang-resignation.jpg"
+    },
+    {
+      "id": "tech-microsoft-outage",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line_chart",
+      "title": "MS 아웃룩·팀즈 등 대규모 접속 장애 발생",
+      "subtitle": "전 세계 사용자 불편, 인프라 부하 증가 원인 추정",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "13만 건+",
+            "label": "신고 건수"
+          },
+          {
+            "value": "글로벌",
+            "label": "영향 범위"
+          },
+          {
+            "value": "수 시간",
+            "label": "장애 지속"
+          }
+        ],
+        "main_number": "13만+",
+        "main_text": "아웃룩 관련 장애 신고 폭증"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "마이크로소프트의 아웃룩, 팀즈 등 주요 서비스에서 대규모 접속 장애가 발생했으며, 관련 신고가 13만 건 이상 접수됐다.",
+        "points": [
+          "MS 서비스 전반에 걸쳐 영향",
+          "인프라 부하 증가가 원인으로 추정",
+          "업무 마비 등 사용자 불편 초래",
+          "복구 작업 및 재발 방지 노력"
+        ],
+        "quote": "인프라 부하를 분산하기 위해 접속 트래픽을 재분배하는 등 복구 작업 진행 중.",
+        "context": "현대 사회에서 클라우드 기반 업무 서비스 의존도가 높아지면서, 대규모 서비스 장애는 기업과 개인 모두에게 심각한 업무 마비를 초래할 수 있음을 보여준다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012293059?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76309&nologo=true"
+    },
+    {
+      "id": "tech-romania-solar-project",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "루마니아 1.36GWp 다마 태양광 프로젝트, 7개 파트너 선정",
+      "subtitle": "유럽 최대 규모 신재생에너지 프로젝트 가속화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1.36GWp",
+            "label": "발전량"
+          },
+          {
+            "value": "7개",
+            "label": "참여 파트너"
+          },
+          {
+            "value": "루마니아",
+            "label": "사업 지역"
+          }
+        ],
+        "main_number": "7",
+        "main_text": "메가 태양광 프로젝트 파트너 확정"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "루마니아의 1.36GWp 규모 다마 태양광 프로젝트가 7개 파트너를 선정하며 유럽 최대 규모 신재생에너지 사업 추진에 박차를 가하고 있다.",
+        "points": [
+          "유럽 신재생에너지 전환 가속화",
+          "대규모 태양광 발전 잠재력 확인",
+          "환경 영향 고려한 계획 수립",
+          "에너지 자립 및 탄소 중립 기여"
+        ],
+        "quote": "유럽은 농업 분야에 우주 기술을 활용할 준비가 되어 있는 선진 시장입니다.",
+        "context": "유럽이 에너지 안보를 강화하고 탄소 중립 목표를 달성하기 위해 신재생에너지 투자를 확대하는 가운데, 이 프로젝트는 동유럽 에너지 시장의 중요한 전환점이 될 것으로 기대된다.",
+        "source_url": "https://econotimes.com/Rezolv-Names-Seven-Partners-for-Romania-s-1-36-GWp-Dama-Solar-Project-1776013"
+      },
+      "image_url": "data/images/2026-11-13/tech-romania-solar-project.jpg"
+    },
+    {
+      "id": "society-judicial-impeachment",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "여권 내 '조희대 대법원장 탄핵론' 재부상",
+      "subtitle": "한덕수 전 총리 석방 여부가 탄핵 논의의 도화선으로 작용",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "조희대",
+            "label": "대법원장"
+          },
+          {
+            "value": "한덕수",
+            "label": "前 총리"
+          },
+          {
+            "value": "민주당",
+            "label": "주도"
+          }
+        ],
+        "main_number": "재점화",
+        "main_text": "사법부 수장 탄핵 논의 가열"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "여권 내부에서 조희대 대법원장에 대한 탄핵 논의가 다시 떠오르고 있으며, 한덕수 전 국무총리의 석방 여부가 그 도화선이 될 것이라는 관측이 나온다.",
+        "points": [
+          "민주당 지도부 당내 의견 수렴 중",
+          "사법부 독립성 침해 논란",
+          "정치적 쟁점화 가능성",
+          "탄핵안 발의 시 파장 예상"
+        ],
+        "quote": "한 전 총리 석방 여부가 조 대법원장을 향한 강경 조치로 이어지는 도화선이 될 것.",
+        "context": "사법부의 독립성을 둘러싼 정치권의 압박이 거세지는 가운데, 특정 판결이 정치적 이슈로 비화되며 대법원장에 대한 탄핵론까지 제기되는 초유의 사태가 발생하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009286863?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60036&nologo=true"
+    },
+    {
+      "id": "society-urban-esg-policy",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "도시 ESG 평가, 정책 개선으로 이어져야",
+      "subtitle": "서울연구원 국제포럼, 지속가능성 지표 활용 방안 논의",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "서울연구원",
+            "label": "주최"
+          },
+          {
+            "value": "ESG 지표",
+            "label": "평가 기준"
+          },
+          {
+            "value": "정책 개선",
+            "label": "활용 목표"
+          }
+        ],
+        "main_number": "개선 필요",
+        "main_text": "도시 ESG 평가, 단순 순위 비교 넘어"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "서울연구원 국제포럼에서 도시의 ESG(환경·사회·지배구조) 평가가 단순한 순위 비교를 넘어 실제 정책 개선으로 이어져야 한다는 주장이 제기됐다.",
+        "points": [
+          "도시 지속가능성 및 삶의 질 진단",
+          "ESG 평가 결과 정책 반영 중요성",
+          "환경, 사회적 가치, 행정 운영 수준",
+          "국제적 협력 및 사례 공유"
+        ],
+        "quote": "ESG 지표를 활용해 도시의 지속가능성과 시민 삶의 질을 진단하고, 평가 결과를 정책에 활용해야 합니다.",
+        "context": "기후 변화와 사회적 불평등 심화 등으로 도시의 지속가능성이 주요 과제로 떠오르면서, ESG 개념을 도시 정책에 접목하여 시민의 삶의 질을 높이려는 노력이 활발해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009286875?sid=102"
+      },
+      "image_url": "data/images/2026-11-13/society-urban-esg-policy.jpg"
+    },
+    {
+      "id": "society-us-black-senator-mississippi",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "美 미시시피주, 152년 만에 흑인 상원의원 배출",
+      "subtitle": "역사적인 정치적 이정표, 인종 통합의 상징",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "152년",
+            "label": "공백 기간"
+          },
+          {
+            "value": "미시시피",
+            "label": "주"
+          },
+          {
+            "value": "흑인",
+            "label": "상원의원"
+          }
+        ],
+        "main_number": "152년",
+        "main_text": "미시시피 흑인 상원의원 탄생"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국 미시시피주에서 152년 만에 흑인 상원의원이 탄생하며, 이는 미국 정치사에 중요한 이정표가 될 것으로 평가된다.",
+        "points": [
+          "남부 주에서의 의미 있는 변화",
+          "정치적 다양성 증진 기여",
+          "민권 운동의 역사적 맥락",
+          "유권자 참여와 인식 변화 반영"
+        ],
+        "quote": "오랜 시간 동안 이어져 온 장벽을 허문 역사적인 순간입니다.",
+        "context": "미국 남부 지역, 특히 미시시피는 과거 인종 차별의 역사가 깊어 흑인 정치인의 상원 진출은 단순한 선거 결과를 넘어 사회 통합과 민주주의 발전 측면에서 큰 의미를 지닌다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004681699?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65741&nologo=true"
+    },
+    {
+      "id": "life-k-tourism-20million",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "K-관광 새 역사: 외국인 관광객 2천만 명 돌파",
+      "subtitle": "한류 열풍 힘입어 14년 만에 1천만 명에서 2천만 명으로 성장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2천만 명",
+            "label": "방한객 수"
+          },
+          {
+            "value": "14년",
+            "label": "성장 기간"
+          },
+          {
+            "value": "K-팝",
+            "label": "주요 동력"
+          }
+        ],
+        "main_number": "20M",
+        "main_text": "K-관광객 수 2천만 명 달성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국을 찾은 외국인 관광객 수가 최초로 2천만 명을 돌파하며 K-관광의 새로운 역사를 썼다. 2012년 1천만 명 달성 이후 14년 만의 기록이다.",
+        "points": [
+          "K-팝, 드라마 등 한류 영향",
+          "음식, 뷰티 등 한국 문화 관심 증대",
+          "경제 활성화 및 일자리 창출 기여",
+          "향후 질적 성장 과제 부상"
+        ],
+        "quote": "Welcome to Korea~ K-관광의 성과는 한국 문화 전반에 대한 높은 관심을 보여줍니다.",
+        "context": "글로벌 한류 열풍이 지속되면서 한국이 문화 강국으로 자리매김하고 있으며, 이는 관광 산업 활성화로 이어져 국가 경제에 긍정적인 영향을 미치고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000925712?sid=101"
+      },
+      "image_url": "data/images/2026-11-13/life-k-tourism-20million.jpg"
+    },
+    {
+      "id": "life-kpop-incubation-contracts",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "K-팝 인큐베이팅의 이면: 계약서와 아티스트 성장",
+      "subtitle": "표준전속계약서 도입 후 7년 계약 기간 정착, 그러나 여전히 논란",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7년",
+            "label": "표준 계약 기간"
+          },
+          {
+            "value": "2009년",
+            "label": "표준 계약서 도입"
+          },
+          {
+            "value": "청소년",
+            "label": "아티스트 보호"
+          }
+        ],
+        "main_number": "7년",
+        "main_text": "K-팝 표준 전속계약 기간"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "K-팝 산업의 '인큐베이팅' 시스템과 관련하여 표준전속계약서의 7년 계약 기간이 정착되었지만, 아티스트의 건강 및 안전, 성형 시술 제안 등에 대한 논란은 여전하다.",
+        "points": [
+          "청소년 아티스트 보호 법안 제정",
+          "성형 시술 등 제안의 강압성 논란",
+          "K-팝 산업의 고강도 훈련 시스템",
+          "아티스트 권리 보호 및 성장 지원"
+        ],
+        "quote": "계약기간 7년은 산업의 특성과 아티스트의 성장을 고려한 최소한의 균형이다.",
+        "context": "K-팝이 전 세계적인 인기를 얻으면서 아이돌 연습생 시스템과 계약 관행에 대한 관심과 비판도 동시에 커지고 있다. 아티스트의 인권을 보호하고 지속 가능한 성장을 돕기 위한 노력이 요구된다.",
+        "source_url": "https://m.entertain.naver.com/article/003/0014319675"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=8583&nologo=true"
+    },
+    {
+      "id": "life-kimchi-consumption-trend",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "김장 문화 변화: 집에서 김치 담그기 vs 구매",
+      "subtitle": "설문조사 결과, 김치 구매 비중 점차 증가 추세",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "58.6%",
+            "label": "직접 담금/수령"
+          },
+          {
+            "value": "41.4%",
+            "label": "구매"
+          },
+          {
+            "value": "늦가을",
+            "label": "김장 시기"
+          }
+        ],
+        "main_number": "58.6%",
+        "main_text": "가정 내 김치 준비 방식"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국 가구의 58.6%가 김치를 직접 담그거나 다른 경로를 통해 얻는 반면, 구매하는 비중도 상당한 것으로 나타나 김장 문화의 변화를 보여준다.",
+        "points": [
+          "가정 내 김치 준비 방식 다양화",
+          "편의성 중시하는 소비 트렌드",
+          "김치 발효 및 보관의 중요성",
+          "전통 문화 계승과 현대적 접근"
+        ],
+        "quote": "김장은 한국인의 일상과 문화를 연결하는 중요한 전통입니다.",
+        "context": "전통적으로 가족 공동체의 중요한 행사였던 김장이 현대 사회의 라이프스타일 변화에 따라 간편하게 김치를 구매하는 방식으로도 확대되면서, 전통 문화의 변화 양상을 보여주고 있다.",
+        "source_url": "https://www.nc.press/news/articleView.html?idxno=630859"
+      },
+      "image_url": "data/images/2026-11-13/life-kimchi-consumption-trend.jpg"
+    }
+  ],
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T06:10:51.868719+09:00"
+}
