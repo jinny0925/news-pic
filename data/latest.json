@@ -1,621 +1,640 @@
 {
   "cards": [
     {
-      "id": "world-putin-ukraine",
+      "id": "world-nk-flag",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "푸틴, '유럽군 파병시 전쟁 재개' 경고",
-      "subtitle": "우크라이나 사태 긴장 고조, 美 특사에 강경 메시지",
+      "title": "북한 국기, 78년 만에 디자인 변경",
+      "subtitle": "1948년 건국 이래 첫 비율 수정, 국제사회 메시지?",
       "viz_data": {
         "stats": [
           {
-            "value": "1170+",
-            "label": "개전 일"
+            "value": "1948년",
+            "label": "건국"
           },
           {
-            "value": "핵심국 3곳",
-            "label": "주요 당사자"
+            "value": "2026년",
+            "label": "변경"
           },
           {
-            "value": "강경",
-            "label": "입장"
+            "value": "78년",
+            "label": "유지 기간"
           }
         ],
-        "main_number": "재개 경고",
-        "main_text": "유럽군 파병 시 전쟁 재개 선언"
+        "main_number": "1:2 → 변경",
+        "main_text": "가로세로 비율 78년 만에 수정",
+        "change_direction": "up"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "minimalist infographic illustration of a flag changing its aspect ratio, with a timeline, no text",
       "detail": {
-        "summary": "푸틴 대통령이 유럽군의 우크라이나 파병 시 전쟁 재개를 경고하며 미국 특사에게 강경한 메시지를 전달했다.",
+        "summary": "북한이 1948년 건국 이후 처음으로 국기 디자인의 가로세로 비율을 변경했습니다.",
         "points": [
-          "러시아-우크라이나 갈등 심화",
-          "유럽의 잠재적 개입 논의",
-          "미국 특사 방문 중 경고",
-          "협상 테이블 복잡성 증가"
+          "1948년 건국 이래 첫 공식 변경",
+          "기존 1:2 비율에서 새로운 비율 채택",
+          "개정 사회주의 헌법에 따라 2026년 3월 23일 비준",
+          "국제사회에 '정상국가' 인정을 받고자 하는 의도 해석"
         ],
-        "quote": "유럽군 파병은 전쟁 재개를 의미할 것이다.",
-        "context": "우크라이나 전쟁 장기화 속에 유럽의 군사적 지원 확대 가능성이 제기되자 러시아가 직접적인 경고를 내놓으며 긴장감이 최고조에 달했다.",
-        "source_url": "https://n.news.naver.com/mnews/article/277/0005842038?sid=104"
+        "quote": "1948년 이후 처음으로 1:2가 아닌 가로세로 비율을 채택했다는 점에서 그 자체로 정치적 의미를 지닌다.",
+        "context": "북한의 국기 비율 변경은 단순한 디자인 변화를 넘어, 김정은 국무위원장의 대내외 메시지, 특히 국제사회에 정상국가로 인정받으려는 의도가 담긴 것으로 해석됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014321744?sid=104"
       },
-      "image_url": "data/images/2026-11-13/world-putin-ukraine.jpg"
+      "image_url": "data/images/2026-11-14/world-nk-flag.jpg"
     },
     {
-      "id": "world-korea-china-apec",
+      "id": "world-us-rok-military",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "한중 외교장관회담 개최, APEC 의제 조율",
-      "subtitle": "아태 경제 협력체 정상회의 앞두고 양국 정상회담 준비",
+      "viz_type": "flow",
+      "title": "美 전문가들 \"전작권 전환, 주한미군 철수 수단될 수 있다\"",
+      "subtitle": "트럼프 집권 시, 조건부 전환이 주한미군 철수의 명분으로 작용할 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "13일",
-            "label": "개최일"
+            "value": "트럼프",
+            "label": "美 전 대통령"
           },
           {
-            "value": "2국",
-            "label": "참여국"
+            "value": "전작권",
+            "label": "핵심 의제"
           },
           {
-            "value": "APEC",
-            "label": "주요 회의"
+            "value": "주한미군",
+            "label": "철수 가능성"
           }
         ],
-        "main_number": "의제 조율",
-        "main_text": "경제·민생·문화 협력 논의"
+        "main_number": "재검토",
+        "main_text": "전작권 전환, 새로운 정치적 수단",
+        "change_direction": "stable"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "minimalist infographic illustration of two countries' flags (US and South Korea) connected by an arrow with a question mark, symbolizing military alliance and uncertain future, no text",
       "detail": {
-        "summary": "한중 외교장관이 APEC 정상회의를 앞두고 양국 정상회담 일정과 의제를 조율하기 위해 만났다.",
+        "summary": "미국 전문가들이 트럼프 전 대통령이 재집권할 경우, 한미연합사령부의 전작권(전시작전통제권) 전환 논의가 주한미군 철수의 수단으로 활용될 수 있다고 경고했습니다.",
         "points": [
-          "한중 고위급 외교 재개",
-          "APEC 정상회의 준비",
-          "경제 및 문화 교류 확대 논의",
-          "지역 안정 및 협력 강화"
+          "미 전문가들, 트럼프 재집권 시 전작권 전환 우려 제기",
+          "전작권 전환 요건 강화 시도가 주한미군 철수 명분 가능성",
+          "한미 양국 정치 지도자 간 진지한 대화 필요성 강조",
+          "최근 주한미군사령관의 전작권 전환 요건 강화 시사 비판"
         ],
-        "quote": "양국 정상회담을 통해 경제·민생·문화 협력 방안을 심도있게 논의할 것.",
-        "context": "미중 갈등 속에서 동북아시아의 주요 경제 및 안보 파트너인 한중 양국이 APEC을 계기로 관계 개선을 모색하며, 지역 경제 협력의 중요한 전환점이 될 수 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009286861?sid=100"
+        "quote": "양국 정치지도자들 사이 훨씬 더 진지한 대화가 이뤄지길 바란다.",
+        "context": "전작권 전환은 한국의 국방 주권 강화라는 긍정적 측면이 있지만, 동시에 미국의 동맹 정책 변화에 따라 주한미군 주둔에 대한 논의로 확장될 수 있어 한반도 안보에 중대한 영향을 미칠 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014321745?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91107&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/minimalist%20infographic%20illustration%20of%20two%20countries%27%20flags%20%28US%20and%20South%20Korea%29%20connected%20by%20an%20arrow%20with%20a%20question%20mark%2C%20symbolizing%20military%20alliance%20and%20uncertain%20future%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66724&nologo=true"
     },
     {
-      "id": "world-eu-russia-sanctions",
+      "id": "world-kbeauty-etf",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "EU, 러시아 추가 제재 발표: 150개 기관, 50개 은행",
-      "subtitle": "프랑스, 22차 대러시아 제재 패키지 계획 공개",
+      "viz_type": "chart",
+      "title": "K뷰티, 월가서 새 투자 테마로 부상…전용 ETF 상장",
+      "subtitle": "K팝·K드라마 인기에 힘입어 한국 화장품 수출 급증, 글로벌 시장 확대",
       "viz_data": {
         "stats": [
           {
-            "value": "150+",
-            "label": "기관"
+            "value": "53%",
+            "label": "글로벌 판매량 증가율 (작년)"
           },
           {
-            "value": "50+",
-            "label": "은행"
+            "value": "2위",
+            "label": "세계 화장품 수출국 순위"
           },
           {
-            "value": "22차",
-            "label": "제재 패키지"
+            "value": "1개",
+            "label": "K뷰티 전용 ETF"
           }
         ],
-        "main_number": "+200",
-        "main_text": "추가 제재 대상"
+        "main_number": "+53%",
+        "main_text": "작년 K뷰티 글로벌 판매량 성장",
+        "change_direction": "up"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a stock market chart rising, with cosmetic products and a world map in the background, no text",
       "detail": {
-        "summary": "프랑스가 EU의 22차 대러시아 제재 패키지 계획을 밝히며 150개 기관과 50개 은행을 추가 제재할 것이라고 발표했다.",
+        "summary": "K팝과 K드라마의 세계적 인기에 힘입어 K뷰티가 월가에서 새로운 투자 테마로 떠오르며 뉴욕증시에 전용 ETF가 상장되었습니다.",
         "points": [
-          "EU의 대러시아 압박 강화",
-          "금융 및 기업 부문 타격",
-          "제재 목표 및 효과 분석",
-          "글로벌 경제에 미칠 영향"
+          "K뷰티 테마 ETF 뉴욕증시 상장",
+          "작년 글로벌 판매량 53% 증가",
+          "한국, 세계 2위 화장품 수출국으로 도약",
+          "K팝·K드라마가 K뷰티 성장의 견인차 역할"
         ],
-        "quote": "대러시아 제재를 통해 침략에 대한 강력한 대응을 이어갈 것.",
-        "context": "러시아의 우크라이나 침공 이후 지속적으로 제재를 가해온 EU가 추가적인 제재를 통해 러시아 경제에 대한 압박을 더욱 강화하려는 움직임을 보이고 있다.",
-        "source_url": "https://econotimes.com/France-Says-EU-Will-Add-150-Entities-50-Banks-to-Russia-Sanctions-1776010"
+        "quote": "K팝과 K드라마는 한국을 세계 무대에 알렸고 그중 뷰티 제품이 가장 큰 수혜를 입었다.",
+        "context": "한류 콘텐츠의 확산이 한국 제품의 인기로 이어지는 현상이 K뷰티 분야에서 두드러지게 나타나고 있습니다. 이는 단순한 소비를 넘어 글로벌 자본 시장에서도 새로운 투자 기회로 인식되고 있음을 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016441542?sid=104"
       },
-      "image_url": "data/images/2026-11-13/world-eu-russia-sanctions.jpg"
+      "image_url": "data/images/2026-11-14/world-kbeauty-etf.jpg"
     },
     {
-      "id": "economy-fed-fomc",
+      "id": "economy-k-construction-vietnam",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "bar_chart",
-      "title": "美 연준, 내년 FOMC 금리 결정 회의 7회로 축소",
-      "subtitle": "장기적 통화정책 논의 위한 회의 시간 확보 목적",
+      "title": "K-건설, 베트남서 '도시 개발' 새 지평…2.1조 수주",
+      "subtitle": "공장 넘어 주거·비즈니스·문화 포함한 스마트 도시 통째로 개발",
       "viz_data": {
         "stats": [
           {
-            "value": "7회",
-            "label": "내년 회의"
+            "value": "2.1조 원",
+            "label": "총 수주액"
           },
           {
-            "value": "10월",
-            "label": "정책 논의 집중"
+            "value": "810ha",
+            "label": "계획 면적"
           },
           {
-            "value": "축소",
-            "label": "빈도"
+            "value": "10만 명",
+            "label": "목표 인구"
           }
         ],
-        "main_number": "-1",
-        "main_text": "FOMC 금리 결정 회의 축소"
+        "main_number": "2.1조",
+        "main_text": "베트남 도시개발 사업 수주액 (원)",
+        "change_direction": "up"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a futuristic smart city being built, with a focus on skyscrapers, green spaces, and a financial chart in the background, no text",
       "detail": {
-        "summary": "미국 연방준비제도(Fed)가 내년부터 금리 결정을 위한 연방공개시장위원회(FOMC) 회의 횟수를 7회로 줄이고, 장기적인 통화정책 방향 논의에 집중할 계획이다.",
+        "summary": "한국 건설사들이 베트남에서 단순 공장 건설을 넘어 주거, 비즈니스, 문화 등 종합적인 기능을 갖춘 스마트 도시를 통째로 개발하는 대규모 프로젝트를 수주했습니다.",
         "points": [
-          "통화정책 결정 효율화",
-          "장기적 관점의 중요성 강조",
-          "시장 불확실성 감소 기대",
-          "글로벌 경제에 미칠 영향"
+          "K-건설, 베트남에서 2.1조 원 규모 도시개발 사업 수주",
+          "공장 중심에서 벗어나 도시 전체를 개발하는 새로운 접근",
+          "박닌성 동남부 도시개발 사업 우선 투자자로 선정",
+          "주거, 비즈니스, 문화 시설 포함한 계획 면적 810ha 규모"
         ],
-        "quote": "단기적 경제 상황 평가만큼 장기적인 통화정책 방향 논의 확보가 중요.",
-        "context": "연준은 통화정책 결정에 대한 예측 가능성을 높이고, 급변하는 경제 환경에 대한 보다 심층적인 분석을 위해 회의 운영 방식에 변화를 주어 시장의 이목이 집중되고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012293060?sid=104"
+        "quote": "공장 대신 '도시 통째로' 심는다…K-건설, 베트남 수주 2.1조 뚫고 랜드마크 짓는다",
+        "context": "이번 대규모 도시개발 프로젝트는 한국 건설의 해외 수주 전략이 고부가가치 사업으로 진화하고 있음을 보여줍니다. 베트남의 급속한 경제 성장에 발맞춰 주택, 상업, 인프라 등 복합 개발 역량을 선보일 기회가 될 것입니다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=93539"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36117&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20futuristic%20smart%20city%20being%20built%2C%20with%20a%20focus%20on%20skyscrapers%2C%20green%20spaces%2C%20and%20a%20financial%20chart%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45773&nologo=true"
     },
     {
-      "id": "economy-chungcheong-megaproject",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "충청 메가프로젝트 첫 삽, 112개 기업 24조 투자",
-      "subtitle": "첨단산업 육성 및 지역경제 활성화 위한 대규모 프로젝트",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "24조",
-            "label": "총 투자금"
-          },
-          {
-            "value": "112개",
-            "label": "참여 기업"
-          },
-          {
-            "value": "1만 명",
-            "label": "인력 양성"
-          }
-        ],
-        "main_number": "첫 삽",
-        "main_text": "첨단산업 메가프로젝트 시작"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "충청권에 대규모 첨단산업 메가프로젝트가 첫 삽을 뜨며, 112개 기업이 총 24조 원을 추가 투자하고 매년 1만 명의 전문 인력을 양성할 계획이다.",
-        "points": [
-          "지역균형발전 핵심 과제",
-          "반도체, 이차전지 등 첨단산업",
-          "대규모 고용 창출 효과",
-          "산단 고도화 및 인프라 구축"
-        ],
-        "quote": "기업 투자와 일자리 창출이 지역경제 활성화로 이어지는 선순환을 만들 것.",
-        "context": "정부가 지방 소멸 위기에 대응하고 지역 경제 활성화를 위해 메가프로젝트를 추진하며, 첨단산업 클러스터 구축을 통해 국가 경쟁력 강화와 균형 발전을 동시에 꾀하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004681702?sid=100"
-      },
-      "image_url": "data/images/2026-11-13/economy-chungcheong-megaproject.jpg"
-    },
-    {
-      "id": "economy-pharmabio-esg",
+      "id": "economy-nvidia-blackswan",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "pie_chart",
-      "title": "제약·바이오 기업 ESG 평가, 성적 차이 뚜렷",
-      "subtitle": "환경·사회·지배구조 영역별 편차 큰 것으로 나타나",
+      "title": "젠슨 황 퇴진, 한국 경제에 '블랙스완' 우려 확산",
+      "subtitle": "엔비디아 핵심 인물 교체, AI 특수 의존 한국 반도체 수출에 불확실성 증대",
       "viz_data": {
         "stats": [
           {
-            "value": "2026년",
-            "label": "평가 시점"
+            "value": "50%",
+            "label": "반도체 수출 비중"
           },
           {
-            "value": "ESG",
-            "label": "평가 기준"
+            "value": "AI 특수",
+            "label": "수혜"
           },
           {
-            "value": "영역별",
-            "label": "편차"
+            "value": "불확실성",
+            "label": "주요 키워드"
           }
         ],
-        "main_number": "편차 심화",
-        "main_text": "기업별 ESG 성적 양극화"
+        "main_number": "↑ 위험",
+        "main_text": "AI 반도체 시장 변화 우려",
+        "change_direction": "up"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "minimalist infographic illustration of a black swan floating on volatile water, with broken circuit board pieces and a downward economic chart in the background, no text",
       "detail": {
-        "summary": "2026년 국내 제약·바이오 기업의 ESG(환경·사회·지배구조) 평가 결과, 기업별 통합 등급뿐 아니라 영역별 평가에서도 뚜렷한 성적 차이가 확인됐다.",
+        "summary": "젠슨 황 엔비디아 전 CEO의 퇴진 소식이 AI 산업에 큰 영향을 미치며, 특히 AI 특수의 혜택을 많이 받은 한국 경제에 '블랙스완' 같은 막대한 불확실성을 초래할 수 있다는 우려가 제기되고 있습니다.",
         "points": [
-          "사회 부문 높은 평가 기업 존재",
-          "지배구조 부문 낮은 등급 기업도",
-          "ESG 경영 도입 가속화",
-          "투자자 및 소비자 관심 증대"
+          "젠슨 황 엔비디아 전 CEO 퇴진, AI 산업 전반에 영향",
+          "GPU 판매 수익 기반 AI 기업 성장, 한국 반도체 수출과 직결",
+          "한국 경제, 반도체 수출 비중이 전체의 절반 육박",
+          "AI 특수 의존도 높아 공급망 다변화 및 기술 자립 촉구"
         ],
-        "quote": "ESG 경영은 기업의 지속가능성을 위한 필수 요소, 영역별 고른 성장이 필요하다.",
-        "context": "최근 기업의 사회적 책임과 지속가능성에 대한 관심이 커지면서 ESG 경영이 중요해지고 있으며, 제약·바이오 산업에서도 기업의 투명한 ESG 정보 공개와 개선 노력이 요구된다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548820"
+        "quote": "우리 경제는 이제 막대한 불확실성 앞에 놓였다.",
+        "context": "엔비디아는 AI 반도체 시장의 핵심 기업으로, 젠슨 황 전 CEO의 리더십은 시장에 큰 영향력을 행사했습니다. 그의 퇴진은 기술 주도형 경제에서 리더십 변화가 가져올 수 있는 거시경제적 불확실성을 보여주는 사례입니다.",
+        "source_url": "https://www.mhns.co.kr/news/articleView.html?idxno=769086"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=99320&nologo=true"
+      "image_url": "data/images/2026-11-14/economy-nvidia-blackswan.jpg"
     },
     {
-      "id": "tech-nvidia-jensen-huang-resignation",
+      "id": "economy-germany-elderlycare",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "comparison",
+      "title": "독일, 무자녀 가정에 요양보험료 추가 부담 법안 논쟁",
+      "subtitle": "인구 고령화 대응 위한 개혁, 의료적 난임 등 예외 적용 여부 촉각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "인구 고령화",
+            "label": "주요 배경"
+          },
+          {
+            "value": "추가 부담",
+            "label": "무자녀 가정"
+          },
+          {
+            "value": "논쟁",
+            "label": "의료적 난임"
+          }
+        ],
+        "main_number": "+α",
+        "main_text": "무자녀 가정 요양보험료 인상",
+        "change_direction": "up"
+      },
+      "image_prompt": "minimalist infographic illustration comparing two family types (with children, without children) with different amounts of coins, representing insurance premiums, against a backdrop of an aging population, no text",
+      "detail": {
+        "summary": "독일이 인구 고령화에 대응하기 위해 무자녀 가정에 장기요양보험료를 더 많이 부담시키는 법안을 추진하면서 논란이 일고 있습니다.",
+        "points": [
+          "독일, 무자녀 가정에 장기요양보험료 추가 부담 추진",
+          "인구 고령화로 인한 재정 부담 완화 목적",
+          "의학적 난임 등 자녀를 갖지 못한 경우도 동일 적용 여부 논쟁",
+          "개인의 선택과 사회적 책임의 균형에 대한 심층 논의 필요"
+        ],
+        "quote": "당사자가 선택하지 않은 상황에 경제적 불이익을 더하는 결과가 된다는 것이다.",
+        "context": "많은 선진국이 고령화 문제와 씨름하고 있는 가운데, 독일의 이번 법안은 사회적 부담을 공정하게 분배하는 방법에 대한 근본적인 질문을 던집니다. 특히 개인의 삶의 선택과 의료적 상황을 고려한 섬세한 접근이 요구됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/028/0002832175?sid=110"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/minimalist%20infographic%20illustration%20comparing%20two%20family%20types%20%28with%20children%2C%20without%20children%29%20with%20different%20amounts%20of%20coins%2C%20representing%20insurance%20premiums%2C%20against%20a%20backdrop%20of%20an%20aging%20population%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=75928&nologo=true"
+    },
+    {
+      "id": "tech-huggingface-llama",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "Hugging Face, AI 개발자 위한 'llama.cpp' 버전 1.0.0 공개",
+      "subtitle": "호환성 강화 및 개발자 친화적 정책으로 AI 커뮤니티 지원 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "v1.0.0",
+            "label": "새로운 버전"
+          },
+          {
+            "value": "엄격",
+            "label": "버전 규칙"
+          },
+          {
+            "value": "개발자",
+            "label": "중심"
+          }
+        ],
+        "main_number": "정식 릴리즈",
+        "main_text": "llama.cpp, 안정적인 개발 환경 제공",
+        "change_direction": "stable"
+      },
+      "image_prompt": "cute pastel infographic illustration of robot hands coding, with a large '1.0.0' version number, symbolizing open-source AI development and community, no text",
+      "detail": {
+        "summary": "Hugging Face 팀이 AI 모델 개발 라이브러리인 'llama.cpp'의 버전 1.0.0을 출시하며, 개발자들의 채택이 증가함에 따라 호환되지 않는 변경 사항을 더 엄격하게 관리할 것이라고 밝혔습니다.",
+        "points": [
+          "Hugging Face, llama.cpp와 GGML 라이브러리 v1.0.0 정식 출시",
+          "개발자 친화적 버전 규칙 도입, 호환성 문제 사전 방지",
+          "AI 모델 개발 커뮤니티의 안정적인 환경 제공 목적",
+          "오픈 소스 AI 생태계 성장에 기여"
+        ],
+        "quote": "It would become stricter about making incompatible changes visible to developers using its libraries as adoption grows.",
+        "context": "AI 기술의 빠른 발전 속에서 오픈 소스 라이브러리는 개발 커뮤니티에 필수적인 역할을 합니다. Hugging Face의 이번 발표는 AI 개발자들이 더욱 예측 가능하고 안정적인 환경에서 혁신을 이어갈 수 있도록 지원하겠다는 의미를 담고 있습니다.",
+        "source_url": "https://econotimes.com/Hugging-Face-team-releases-llama-cpp-with-firmer-version-rules-1776411"
+      },
+      "image_url": "data/images/2026-11-14/tech-huggingface-llama.jpg"
+    },
+    {
+      "id": "tech-nvidia-ceo-change",
       "is_headline": true,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "timeline",
-      "title": "엔비디아 젠슨 황 CEO, '중국 스파이 스캔들'로 전격 퇴진",
-      "subtitle": "창업 33년 만의 리더십 교체, AI 반도체 시장 격변 예고",
+      "title": "엔비디아, 젠슨 황 CEO 사임 후 임시 대표 선임",
+      "subtitle": "AI 반도체 시장 지각변동 예고, 차기 리더십에 업계 관심 집중",
       "viz_data": {
         "stats": [
           {
-            "value": "33년",
-            "label": "CEO 재임"
+            "value": "젠슨 황",
+            "label": "전 CEO"
           },
           {
-            "value": "1993년",
-            "label": "창업"
+            "value": "임시 대표",
+            "label": "후임"
           },
           {
-            "value": "2159억",
-            "label": "매출 (2026)"
+            "value": "AI 산업",
+            "label": "핵심 분야"
           }
         ],
-        "main_number": "퇴진",
-        "main_text": "AI 반도체 제왕의 갑작스러운 퇴진"
+        "main_number": "리더십 변화",
+        "main_text": "엔비디아, 새로운 전환점",
+        "change_direction": "stable"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of a CEO passing a torch to an interim leader, with circuits and AI symbols in the background, symbolizing a major leadership change in a tech company, no text",
       "detail": {
-        "summary": "엔비디아를 33년간 이끌어온 젠슨 황 CEO가 중국 스파이 스캔들과 사생활 논란으로 전격 퇴진하며 AI 반도체 시장에 큰 파장을 일으키고 있다.",
+        "summary": "엔비디아(Nvidia)의 젠슨 황 최고경영자(CEO)가 사임하고 임시 대표가 선임되면서 AI 반도체 산업의 향방에 대한 관심이 집중되고 있습니다.",
         "points": [
-          "젠슨 황 CEO 33년 만에 퇴진",
-          "중국 스파이 연루 의혹 확산",
-          "미국 정치권 압박 거세져",
-          "엔비디아 AI 생태계 불확실성 증대"
+          "젠슨 황 엔비디아 CEO 공식 사임 발표",
+          "새로운 임시 최고 책임자 임명",
+          "엔비디아의 향후 리더십 및 전략 방향에 대한 업계 촉각",
+          "AI 반도체 시장의 선두 주자로서 중요한 전환점"
         ],
-        "quote": "세계 AI 반도체 시장의 판도를 뒤흔들 중대한 변화.",
-        "context": "인공지능 시대의 핵심 인물로 평가받던 젠슨 황의 갑작스러운 퇴진은 엔비디아뿐 아니라 글로벌 AI 및 반도체 산업의 패권 경쟁에 지대한 영향을 미칠 것으로 예상된다.",
-        "source_url": "https://www.moneystorm.kr/news/articleView.html?idxno=8395"
+        "quote": "The appointment put Nvidia in a good position while it considered its future leadership.",
+        "context": "젠슨 황은 엔비디아를 AI 반도체 시장의 거인으로 성장시킨 인물입니다. 그의 퇴진은 엔비디아뿐만 아니라 전체 AI 산업 생태계에 큰 영향을 미칠 수 있는 중대한 사건으로, 차기 리더십과 전략에 따라 시장 구도가 변화할 가능성이 있습니다.",
+        "source_url": "https://econotimes.com/Nvidia-names-interim-chief-after-Jensen-Huang-resigns-as-CEO-1776400"
       },
-      "image_url": "data/images/2026-11-13/tech-nvidia-jensen-huang-resignation.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20CEO%20passing%20a%20torch%20to%20an%20interim%20leader%2C%20with%20circuits%20and%20AI%20symbols%20in%20the%20background%2C%20symbolizing%20a%20major%20leadership%20change%20in%20a%20tech%20company%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=39774&nologo=true"
     },
     {
-      "id": "tech-microsoft-outage",
+      "id": "tech-boe-settlement",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "line_chart",
-      "title": "MS 아웃룩·팀즈 등 대규모 접속 장애 발생",
-      "subtitle": "전 세계 사용자 불편, 인프라 부하 증가 원인 추정",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "13만 건+",
-            "label": "신고 건수"
-          },
-          {
-            "value": "글로벌",
-            "label": "영향 범위"
-          },
-          {
-            "value": "수 시간",
-            "label": "장애 지속"
-          }
-        ],
-        "main_number": "13만+",
-        "main_text": "아웃룩 관련 장애 신고 폭증"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "마이크로소프트의 아웃룩, 팀즈 등 주요 서비스에서 대규모 접속 장애가 발생했으며, 관련 신고가 13만 건 이상 접수됐다.",
-        "points": [
-          "MS 서비스 전반에 걸쳐 영향",
-          "인프라 부하 증가가 원인으로 추정",
-          "업무 마비 등 사용자 불편 초래",
-          "복구 작업 및 재발 방지 노력"
-        ],
-        "quote": "인프라 부하를 분산하기 위해 접속 트래픽을 재분배하는 등 복구 작업 진행 중.",
-        "context": "현대 사회에서 클라우드 기반 업무 서비스 의존도가 높아지면서, 대규모 서비스 장애는 기업과 개인 모두에게 심각한 업무 마비를 초래할 수 있음을 보여준다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012293059?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76309&nologo=true"
-    },
-    {
-      "id": "tech-romania-solar-project",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "루마니아 1.36GWp 다마 태양광 프로젝트, 7개 파트너 선정",
-      "subtitle": "유럽 최대 규모 신재생에너지 프로젝트 가속화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1.36GWp",
-            "label": "발전량"
-          },
-          {
-            "value": "7개",
-            "label": "참여 파트너"
-          },
-          {
-            "value": "루마니아",
-            "label": "사업 지역"
-          }
-        ],
-        "main_number": "7",
-        "main_text": "메가 태양광 프로젝트 파트너 확정"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "루마니아의 1.36GWp 규모 다마 태양광 프로젝트가 7개 파트너를 선정하며 유럽 최대 규모 신재생에너지 사업 추진에 박차를 가하고 있다.",
-        "points": [
-          "유럽 신재생에너지 전환 가속화",
-          "대규모 태양광 발전 잠재력 확인",
-          "환경 영향 고려한 계획 수립",
-          "에너지 자립 및 탄소 중립 기여"
-        ],
-        "quote": "유럽은 농업 분야에 우주 기술을 활용할 준비가 되어 있는 선진 시장입니다.",
-        "context": "유럽이 에너지 안보를 강화하고 탄소 중립 목표를 달성하기 위해 신재생에너지 투자를 확대하는 가운데, 이 프로젝트는 동유럽 에너지 시장의 중요한 전환점이 될 것으로 기대된다.",
-        "source_url": "https://econotimes.com/Rezolv-Names-Seven-Partners-for-Romania-s-1-36-GWp-Dama-Solar-Project-1776013"
-      },
-      "image_url": "data/images/2026-11-13/tech-romania-solar-project.jpg"
-    },
-    {
-      "id": "society-judicial-impeachment",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
       "viz_type": "timeline",
-      "title": "여권 내 '조희대 대법원장 탄핵론' 재부상",
-      "subtitle": "한덕수 전 총리 석방 여부가 탄핵 논의의 도화선으로 작용",
+      "title": "영국 중앙은행, 2028년 디지털 결제 정산 서비스 출시 목표",
+      "subtitle": "프라이빗 혁신 지원하며 결제 시스템 현대화 추진",
       "viz_data": {
         "stats": [
           {
-            "value": "조희대",
-            "label": "대법원장"
+            "value": "2028년",
+            "label": "출시 목표"
           },
           {
-            "value": "한덕수",
-            "label": "前 총리"
+            "value": "새로운",
+            "label": "결제 방식"
           },
           {
-            "value": "민주당",
-            "label": "주도"
+            "value": "현대화",
+            "label": "시스템"
           }
         ],
-        "main_number": "재점화",
-        "main_text": "사법부 수장 탄핵 논의 가열"
+        "main_number": "디지털 전환",
+        "main_text": "영란은행, 결제 시스템 혁신 가속",
+        "change_direction": "stable"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "minimalist infographic illustration of a digital currency symbol flowing through a secured network, with a clock pointing to 2028, representing future financial technology, no text",
       "detail": {
-        "summary": "여권 내부에서 조희대 대법원장에 대한 탄핵 논의가 다시 떠오르고 있으며, 한덕수 전 국무총리의 석방 여부가 그 도화선이 될 것이라는 관측이 나온다.",
+        "summary": "영국 중앙은행이 2028년 출시를 목표로 새로운 연계 결제(linked settlement) 서비스를 개발하고 있으며, 이는 민간 혁신을 지원하면서도 결제 시스템의 안정성을 유지하는 데 중점을 둡니다.",
         "points": [
-          "민주당 지도부 당내 의견 수렴 중",
-          "사법부 독립성 침해 논란",
-          "정치적 쟁점화 가능성",
-          "탄핵안 발의 시 파장 예상"
+          "영국 중앙은행, 2028년 연계 결제 서비스 출시 목표",
+          "결제 메시지 데이터 확장 (2023년)",
+          "접근성 개선 및 유연한 금융 인프라 구축 기대",
+          "민간 혁신과 공공 부문의 안정성 조화 추구"
         ],
-        "quote": "한 전 총리 석방 여부가 조 대법원장을 향한 강경 조치로 이어지는 도화선이 될 것.",
-        "context": "사법부의 독립성을 둘러싼 정치권의 압박이 거세지는 가운데, 특정 판결이 정치적 이슈로 비화되며 대법원장에 대한 탄핵론까지 제기되는 초유의 사태가 발생하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009286863?sid=100"
+        "quote": "The approach seeks to support private innovation while keeping settlement in...",
+        "context": "중앙은행의 디지털 결제 시스템 구축은 금융 시장의 효율성과 안정성을 높이는 동시에, 새로운 핀테크 서비스의 등장을 촉진할 수 있습니다. 이는 미래 금융 인프라의 중요한 축이 될 것입니다.",
+        "source_url": "https://econotimes.com/Bank-of-England-targets-2028-launch-for-linked-settlement-service-1776395"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60036&nologo=true"
+      "image_url": "data/images/2026-11-14/tech-boe-settlement.jpg"
     },
     {
-      "id": "society-urban-esg-policy",
+      "id": "society-disability-education",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "도시 ESG 평가, 정책 개선으로 이어져야",
-      "subtitle": "서울연구원 국제포럼, 지속가능성 지표 활용 방안 논의",
+      "title": "대전 서구의회, '2026년 장애인식개선 교육' 실시",
+      "subtitle": "장애인복지법에 따른 의무교육, 사회적 편견 해소 및 통합사회 구현 목표",
       "viz_data": {
         "stats": [
           {
-            "value": "서울연구원",
-            "label": "주최"
+            "value": "2026년",
+            "label": "실시 연도"
           },
           {
-            "value": "ESG 지표",
-            "label": "평가 기준"
+            "value": "의무",
+            "label": "법정 교육"
           },
           {
-            "value": "정책 개선",
-            "label": "활용 목표"
+            "value": "통합",
+            "label": "핵심 목표"
           }
         ],
-        "main_number": "개선 필요",
-        "main_text": "도시 ESG 평가, 단순 순위 비교 넘어"
+        "main_number": "↑ 인식",
+        "main_text": "장애인에 대한 올바른 이해 증진",
+        "change_direction": "up"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of diverse people interacting happily, with a puzzle piece representing inclusion, symbolizing disability awareness education, no text",
       "detail": {
-        "summary": "서울연구원 국제포럼에서 도시의 ESG(환경·사회·지배구조) 평가가 단순한 순위 비교를 넘어 실제 정책 개선으로 이어져야 한다는 주장이 제기됐다.",
+        "summary": "대전 서구의회가 장애인복지법에 따른 법정 의무교육으로 '2026년 사회적 장애인식개선 교육'을 실시하며, 이는 장애에 대한 올바른 이해를 높이고 사회적 편견을 해소하는 것을 목표로 합니다.",
         "points": [
-          "도시 지속가능성 및 삶의 질 진단",
-          "ESG 평가 결과 정책 반영 중요성",
-          "환경, 사회적 가치, 행정 운영 수준",
-          "국제적 협력 및 사례 공유"
+          "장애인복지법에 따른 법정 의무교육 실시",
+          "장애에 대한 올바른 이해 증진 및 편견 해소",
+          "장애인과 비장애인이 함께하는 통합사회 구현 목표",
+          "다양한 교육 프로그램을 통해 참여자들의 인식 변화 유도"
         ],
-        "quote": "ESG 지표를 활용해 도시의 지속가능성과 시민 삶의 질을 진단하고, 평가 결과를 정책에 활용해야 합니다.",
-        "context": "기후 변화와 사회적 불평등 심화 등으로 도시의 지속가능성이 주요 과제로 떠오르면서, ESG 개념을 도시 정책에 접목하여 시민의 삶의 질을 높이려는 노력이 활발해지고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009286875?sid=102"
+        "quote": "장애에 대한 올바른 이해를 높이고 사회적 편견과 차별을 해소해 장애인과 비장애인이 함께하는...",
+        "context": "장애인식개선 교육은 우리 사회의 중요한 과제 중 하나입니다. 법정 의무교육을 통해 장애에 대한 이해를 높이고 차별 없는 사회를 만들기 위한 노력이 지속적으로 이루어져야 합니다.",
+        "source_url": "https://www.newstnt.com/news/articleView.html?idxno=728450"
       },
-      "image_url": "data/images/2026-11-13/society-urban-esg-policy.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20diverse%20people%20interacting%20happily%2C%20with%20a%20puzzle%20piece%20representing%20inclusion%2C%20symbolizing%20disability%20awareness%20education%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96314&nologo=true"
     },
     {
-      "id": "society-us-black-senator-mississippi",
+      "id": "society-elderly-abuse-care",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "美 미시시피주, 152년 만에 흑인 상원의원 배출",
-      "subtitle": "역사적인 정치적 이정표, 인종 통합의 상징",
+      "viz_type": "flow",
+      "title": "노인학대 신고부터 사후관리까지 통합 지원 강화",
+      "subtitle": "복지부 지침 통해 의료, 법률, 복지 시설 연계 등 전방위적 대응 체계 구축",
       "viz_data": {
         "stats": [
           {
-            "value": "152년",
-            "label": "공백 기간"
+            "value": "신고",
+            "label": "1단계"
           },
           {
-            "value": "미시시피",
-            "label": "주"
+            "value": "조사",
+            "label": "2단계"
           },
           {
-            "value": "흑인",
-            "label": "상원의원"
+            "value": "연계",
+            "label": "3단계"
+          },
+          {
+            "value": "사후관리",
+            "label": "4단계"
           }
         ],
-        "main_number": "152년",
-        "main_text": "미시시피 흑인 상원의원 탄생"
+        "main_number": "통합 시스템",
+        "main_text": "노인학대 전 과정 관리",
+        "change_direction": "stable"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "minimalist infographic illustration of a continuous process flow chart from reporting to care, with elderly symbols and helping hands, symbolizing integrated support for elder abuse, no text",
       "detail": {
-        "summary": "미국 미시시피주에서 152년 만에 흑인 상원의원이 탄생하며, 이는 미국 정치사에 중요한 이정표가 될 것으로 평가된다.",
+        "summary": "보건복지부와 중앙노인보호전문기관의 지침에 따라 노인학대 신고 이후 현장조사, 의료기관 치료 의뢰, 노인복지시설 입소, 법률지원, 지역사회 자원 연계 등 전반적인 사후관리가 강화됩니다.",
         "points": [
-          "남부 주에서의 의미 있는 변화",
-          "정치적 다양성 증진 기여",
-          "민권 운동의 역사적 맥락",
-          "유권자 참여와 인식 변화 반영"
+          "보건복지부-중앙노인보호전문기관 업무수행지침 발표",
+          "노인학대 신고 접수 후 현장조사 및 사례 판정",
+          "의료, 복지, 법률 등 다각적인 지원 연계",
+          "지속적인 모니터링 및 사후관리로 재학대 방지"
         ],
-        "quote": "오랜 시간 동안 이어져 온 장벽을 허문 역사적인 순간입니다.",
-        "context": "미국 남부 지역, 특히 미시시피는 과거 인종 차별의 역사가 깊어 흑인 정치인의 상원 진출은 단순한 선거 결과를 넘어 사회 통합과 민주주의 발전 측면에서 큰 의미를 지닌다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004681699?sid=104"
+        "quote": "보건복지부와 중앙노인보호전문기관의 2025년 업무수행지침에는 의료기관 치료 의뢰, 노인복지시설 입소 의뢰, 법률지원 요청과 지역사회 자원 연계도 업무로 담겼다.",
+        "context": "노인학대는 사회적 무관심 속에 은폐되기 쉬운 문제로, 피해 노인을 보호하고 재발을 방지하기 위한 체계적인 시스템이 필수적입니다. 이번 지침 강화는 학대받는 노인들에게 실질적인 도움을 제공하는 데 기여할 것으로 기대됩니다.",
+        "source_url": "https://www.vegannews.co.kr/news/article.html?no=404760"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65741&nologo=true"
+      "image_url": "data/images/2026-11-14/society-elderly-abuse-care.jpg"
     },
     {
-      "id": "life-k-tourism-20million",
+      "id": "society-appearance-concern",
       "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "K-관광 새 역사: 외국인 관광객 2천만 명 돌파",
-      "subtitle": "한류 열풍 힘입어 14년 만에 1천만 명에서 2천만 명으로 성장",
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "한국인의 가장 큰 외모 고민은 '피부'…사회생활 영향력 커",
+      "subtitle": "취업·연애 등 외모가 사회적 성공에 미치는 영향 상당해",
       "viz_data": {
         "stats": [
           {
-            "value": "2천만 명",
-            "label": "방한객 수"
+            "value": "피부",
+            "label": "최대 고민"
           },
           {
-            "value": "14년",
-            "label": "성장 기간"
+            "value": "80%",
+            "label": "취업 영향"
           },
           {
-            "value": "K-팝",
-            "label": "주요 동력"
+            "value": "81.1%",
+            "label": "연애 영향"
           }
         ],
-        "main_number": "20M",
-        "main_text": "K-관광객 수 2천만 명 달성"
+        "main_number": "80%",
+        "main_text": "외모가 취업/채용에 영향 준다고 응답",
+        "change_direction": "stable"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration of diverse faces with thought bubbles indicating skin concerns, and scales showing appearance influencing success in career and relationships, no text",
       "detail": {
-        "summary": "한국을 찾은 외국인 관광객 수가 최초로 2천만 명을 돌파하며 K-관광의 새로운 역사를 썼다. 2012년 1천만 명 달성 이후 14년 만의 기록이다.",
+        "summary": "한국인들이 가장 큰 외모 고민으로 '피부'를 꼽았으며, 응답자의 80% 이상이 외모가 취업, 연애, 배우자 선택 등 사회생활에 큰 영향을 미친다고 인식하고 있었습니다.",
         "points": [
-          "K-팝, 드라마 등 한류 영향",
-          "음식, 뷰티 등 한국 문화 관심 증대",
-          "경제 활성화 및 일자리 창출 기여",
-          "향후 질적 성장 과제 부상"
+          "한국인의 외모 고민 1위는 '피부'",
+          "얼굴 생김새, 체형보다 피부에 대한 관심 높아",
+          "응답자 80%가 외모가 취업·채용에 영향 미친다고 응답",
+          "연애·배우자 선택에도 81.1%가 외모 영향 인정"
         ],
-        "quote": "Welcome to Korea~ K-관광의 성과는 한국 문화 전반에 대한 높은 관심을 보여줍니다.",
-        "context": "글로벌 한류 열풍이 지속되면서 한국이 문화 강국으로 자리매김하고 있으며, 이는 관광 산업 활성화로 이어져 국가 경제에 긍정적인 영향을 미치고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000925712?sid=101"
+        "quote": "외모가 사회생활에 영향을 미친다는 인식도 상당했다.",
+        "context": "외모는 개인의 자신감뿐만 아니라 사회적 상호작용에도 큰 영향을 미치는 요소입니다. 특히 한국 사회에서는 외모가 취업이나 관계 형성에 중요한 작용을 한다고 인식하는 경향이 강해, 외모 관리에 대한 관심이 지속적으로 높습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004175016?sid=103"
       },
-      "image_url": "data/images/2026-11-13/life-k-tourism-20million.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20diverse%20faces%20with%20thought%20bubbles%20indicating%20skin%20concerns%2C%20and%20scales%20showing%20appearance%20influencing%20success%20in%20career%20and%20relationships%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9501&nologo=true"
     },
     {
-      "id": "life-kpop-incubation-contracts",
+      "id": "life-pfizer-obesity-drug",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "K-팝 인큐베이팅의 이면: 계약서와 아티스트 성장",
-      "subtitle": "표준전속계약서 도입 후 7년 계약 기간 정착, 그러나 여전히 논란",
+      "title": "화이자, 15억 달러 투자 유치로 월 1회 비만약 개발 가속",
+      "subtitle": "블랙스톤 라이프사이언스로부터 자금 조달, GLP-1 비만 치료제 시장 경쟁 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "7년",
-            "label": "표준 계약 기간"
+            "value": "15억$",
+            "label": "투자 유치액"
           },
           {
-            "value": "2009년",
-            "label": "표준 계약서 도입"
+            "value": "월 1회",
+            "label": "투여 주기"
           },
           {
-            "value": "청소년",
-            "label": "아티스트 보호"
+            "value": "GLP-1",
+            "label": "약물 종류"
           }
         ],
-        "main_number": "7년",
-        "main_text": "K-팝 표준 전속계약 기간"
+        "main_number": "↑ 개발 속도",
+        "main_text": "화이자, 비만약 시장 경쟁력 강화",
+        "change_direction": "up"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "minimalist infographic illustration of a syringe and a stack of money, symbolizing investment in new drug development for obesity, no text",
       "detail": {
-        "summary": "K-팝 산업의 '인큐베이팅' 시스템과 관련하여 표준전속계약서의 7년 계약 기간이 정착되었지만, 아티스트의 건강 및 안전, 성형 시술 제안 등에 대한 논란은 여전하다.",
+        "summary": "화이자가 블랙스톤 라이프사이언스로부터 최대 15억 달러를 조달하며, 월 1회 투여 GLP-1 수용체 작용제인 베로베나타이드(berobenatide) 개발에 박차를 가하고 있습니다.",
         "points": [
-          "청소년 아티스트 보호 법안 제정",
-          "성형 시술 등 제안의 강압성 논란",
-          "K-팝 산업의 고강도 훈련 시스템",
-          "아티스트 권리 보호 및 성장 지원"
+          "화이자, 블랙스톤 라이프사이언스로부터 15억 달러 투자 유치",
+          "월 1회 투여 GLP-1 비만약 '베로베나타이드' 개발에 투입",
+          "글로벌 비만 치료제 시장 경쟁 심화 예고",
+          "98억 달러 규모의 마이오카디아 인수 후 얻은 물질"
         ],
-        "quote": "계약기간 7년은 산업의 특성과 아티스트의 성장을 고려한 최소한의 균형이다.",
-        "context": "K-팝이 전 세계적인 인기를 얻으면서 아이돌 연습생 시스템과 계약 관행에 대한 관심과 비판도 동시에 커지고 있다. 아티스트의 인권을 보호하고 지속 가능한 성장을 돕기 위한 노력이 요구된다.",
-        "source_url": "https://m.entertain.naver.com/article/003/0014319675"
+        "quote": "화이자(Pfizer)가 블랙스톤 라이프사이언스(Blackstone Life Sciences)로부터 최대 15억 달러를 확보해 월 1회 투여 GLP-1 수용체 작용제 베로베나타이드(berobenatide) 개발에 투입한다.",
+        "context": "전 세계적으로 비만 인구가 증가하면서 GLP-1 계열 비만 치료제 시장은 제약 업계의 '황금알을 낳는 거위'로 떠오르고 있습니다. 화이자의 대규모 투자는 이 시장에서 선두를 차지하기 위한 강력한 의지를 보여줍니다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548933"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=8583&nologo=true"
+      "image_url": "data/images/2026-11-14/life-pfizer-obesity-drug.jpg"
     },
     {
-      "id": "life-kimchi-consumption-trend",
+      "id": "life-diabetes-management",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "checklist",
+      "title": "증상 없는 당뇨병, 조기 혈당 관리의 중요성 강조",
+      "subtitle": "세계 당뇨병의 날 맞아 예방과 건강한 생활 습관의 중요성 부각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "11월 14일",
+            "label": "세계 당뇨병의 날"
+          },
+          {
+            "value": "초기 증상",
+            "label": "자각 어려움"
+          },
+          {
+            "value": "조기 관리",
+            "label": "필수"
+          }
+        ],
+        "main_number": "↑ 위험",
+        "main_text": "증상 없는 당뇨병의 위험성",
+        "change_direction": "up"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person checking blood sugar levels, with a calendar showing 'World Diabetes Day', emphasizing early management, no text",
+      "detail": {
+        "summary": "세계 당뇨병의 날(11월 14일)을 앞두고 초기 증상이 없어 더욱 위험한 당뇨병의 예방과 조기 혈당 관리의 중요성이 강조되고 있습니다.",
+        "points": [
+          "세계 당뇨병의 날(11월 14일)을 맞아 당뇨병 인식 제고",
+          "당뇨병은 초기 증상이 뚜렷하지 않아 발병 인지 어려움",
+          "발병 사실을 모르고 지내다 합병증으로 이어질 위험",
+          "조기 혈당 관리와 예방을 위한 건강한 생활 습관 필수"
+        ],
+        "quote": "당뇨병은 초기 증상이 뚜렷하지 않아 발병 사실을 모르고 지내기 쉽다. 그렇기때문에 더 위험한 병으로 분류된다.",
+        "context": "당뇨병은 현대인의 주요 만성 질환으로, 적절한 관리가 이루어지지 않으면 심각한 합병증으로 이어질 수 있습니다. 조기 발견과 꾸준한 혈당 관리는 건강한 삶을 유지하는 데 매우 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002248516?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20checking%20blood%20sugar%20levels%2C%20with%20a%20calendar%20showing%20%27World%20Diabetes%20Day%27%2C%20emphasizing%20early%20management%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=97212&nologo=true"
+    },
+    {
+      "id": "life-johnlee-retirement",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "pie_chart",
-      "title": "김장 문화 변화: 집에서 김치 담그기 vs 구매",
-      "subtitle": "설문조사 결과, 김치 구매 비중 점차 증가 추세",
+      "title": "존리 대표의 노후 투자 전략: 70대부터 주식 비중 축소",
+      "subtitle": "경제적 독립 이후 소비, 젊은 시절부터 돈이 일하게 하는 습관 강조",
       "viz_data": {
         "stats": [
           {
-            "value": "58.6%",
-            "label": "직접 담금/수령"
+            "value": "70대",
+            "label": "시작 연령"
           },
           {
-            "value": "41.4%",
-            "label": "구매"
+            "value": "주식 ↓",
+            "label": "투자 비중"
           },
           {
-            "value": "늦가을",
-            "label": "김장 시기"
+            "value": "리츠·채권 ↑",
+            "label": "투자 상품"
           }
         ],
-        "main_number": "58.6%",
-        "main_text": "가정 내 김치 준비 방식"
+        "main_number": "↓ 주식",
+        "main_text": "안정적인 노후 자산 관리",
+        "change_direction": "down"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "minimalist infographic illustration of a person with gray hair investing, showing a pie chart with smaller stock portion and larger REITs/bonds portion, symbolizing retirement investment strategy, no text",
       "detail": {
-        "summary": "한국 가구의 58.6%가 김치를 직접 담그거나 다른 경로를 통해 얻는 반면, 구매하는 비중도 상당한 것으로 나타나 김장 문화의 변화를 보여준다.",
+        "summary": "존리 대표가 70대부터는 주식 비중을 줄이고 리츠(REITs)와 채권에 투자하여 안정적인 노후 자산 관리를 해야 한다고 조언하며, 젊은 시절부터 돈이 스스로 일하게 하는 라이프 스타일을 강조했습니다.",
         "points": [
-          "가정 내 김치 준비 방식 다양화",
-          "편의성 중시하는 소비 트렌드",
-          "김치 발효 및 보관의 중요성",
-          "전통 문화 계승과 현대적 접근"
+          "70대부터 주식 비중 줄이고 리츠·채권 투자 권고",
+          "경제적 독립을 먼저 이룬 후 소비 권장",
+          "젊은 시절부터 '돈이 일하게 하는' 라이프 스타일 강조",
+          "진정한 노후의 자유를 위한 재무 계획 중요성 역설"
         ],
-        "quote": "김장은 한국인의 일상과 문화를 연결하는 중요한 전통입니다.",
-        "context": "전통적으로 가족 공동체의 중요한 행사였던 김장이 현대 사회의 라이프스타일 변화에 따라 간편하게 김치를 구매하는 방식으로도 확대되면서, 전통 문화의 변화 양상을 보여주고 있다.",
-        "source_url": "https://www.nc.press/news/articleView.html?idxno=630859"
+        "quote": "일단 경제적 독립을 완수한 뒤에 여유가 생기면 소비를 해도 늦지 않다.",
+        "context": "고령화 시대에 안정적인 노후 생활을 위한 재무 설계는 갈수록 중요해지고 있습니다. 존리 대표의 조언은 투자 상품의 선택뿐만 아니라, 자산 축적 과정 전반에 걸친 장기적인 관점의 라이프스타일 변화를 제안합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014321679?sid=101"
       },
-      "image_url": "data/images/2026-11-13/life-kimchi-consumption-trend.jpg"
+      "image_url": "data/images/2026-11-14/life-johnlee-retirement.jpg"
     }
   ],
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T06:10:51.868719+09:00"
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T06:08:21.183720+09:00"
 }
