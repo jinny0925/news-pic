@@ -1,621 +1,662 @@
 {
   "cards": [
     {
-      "id": "world-apec-diplomacy",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "APEC 정상회의, 미중갈등 속 한국의 '실용외교' 주목",
-      "subtitle": "APEC 계기 한중 정상회담 유력... 젠슨황발 미중 기술갈등 속 외교 해법 모색",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "11/17-19",
-            "label": "기간"
-          },
-          {
-            "value": "中 선전",
-            "label": "장소"
-          },
-          {
-            "value": "3번째",
-            "label": "한중 정상회담"
-          }
-        ],
-        "main_number": "실용외교",
-        "main_text": "미중갈등 속 한국의 외교적 역할 중요성 부각"
-      },
-      "image_prompt": "cute pastel infographic illustration of world leaders meeting, technology chips, and a diplomatic handshake, no text",
-      "detail": {
-        "summary": "APEC 정상회의에서 미국과 중국의 기술갈등이 심화되는 가운데 한국의 실용외교가 주목받고 있으며, 한중 정상회담 성사 가능성이 높다.",
-        "points": [
-          "APEC 정상회의에서 미중 기술갈등 속 한국의 외교적 역할 기대.",
-          "이 대통령과 시 주석의 세 번째 정상회담 유력.",
-          "젠슨 황발 미중 기술 갈등이 국제 외교의 주요 변수로 부상.",
-          "한반도 문제 등 북미 접촉 불씨 살리기도 주요 의제."
-        ],
-        "quote": "이번 APEC 정상회의는 중국에서 열리는 만큼 한중 정상회담 성사는 유력하다.",
-        "context": "APEC 회의는 글로벌 경제 및 정치 협력의 장으로, 최근 미중 간의 기술 패권 경쟁이 심화되면서 각국의 외교적 입지 조절이 중요해졌다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009289268?sid=101"
-      },
-      "image_url": "data/images/2026-11-15/world-apec-diplomacy.jpg"
-    },
-    {
-      "id": "world-carbon-emission-decrease",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "chart",
-      "title": "코로나 이후 첫 탄소배출 감소, 재생에너지 전환 가속화",
-      "subtitle": "에너지 안보 위협 속 화석연료 대안으로 재생에너지 비중 확대",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "첫 감소",
-            "label": "코로나 이후"
-          },
-          {
-            "value": "산불/벌채",
-            "label": "상쇄 요인"
-          },
-          {
-            "value": "안보 위기",
-            "label": "전환 동력"
-          }
-        ],
-        "main_number": "-2%",
-        "main_text": "올해 전 세계 탄소 배출량 감소 추정치"
-      },
-      "image_prompt": "cute pastel infographic illustration of a global graph showing decreasing carbon emissions, with wind turbines and solar panels, no text",
-      "detail": {
-        "summary": "코로나19 팬데믹 이후 올해 처음으로 전 세계 탄소 배출량이 감소했으며, 이는 화석연료 안보 위협으로 인한 재생에너지 전환 가속화의 영향이 크다.",
-        "points": [
-          "코로나19 이후 전 세계 탄소 배출량 첫 감소 추정.",
-          "러시아-우크라이나 전쟁 등 에너지 안보 위기가 재생에너지 전환을 촉진.",
-          "산불 및 삼림 벌채로 인한 배출량은 여전히 상쇄 요인으로 작용.",
-          "각국 정부의 탄소 중립 목표 달성을 위한 정책 강화 기대."
-        ],
-        "quote": "에너지 안보에 위협을 느낀 세계 각국이 화석연료를 재생에너지로 대체하려는 움직임을 보이고 있다.",
-        "context": "기후변화 위협이 고조되는 가운데, 에너지 전환은 전 세계적인 최우선 과제이다. 지정학적 리스크가 이 전환을 가속화하는 역설적인 상황이 벌어지고 있다.",
-        "source_url": "https://www.businesspost.co.kr/BP?command=article_view&num=451711"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20global%20graph%20showing%20decreasing%20carbon%20emissions%2C%20with%20wind%20turbines%20and%20solar%20panels%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28031&nologo=true"
-    },
-    {
-      "id": "world-china-underwater-datacenter",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "pie_chart",
-      "title": "중국, 차세대 '수중 데이터센터' 특허 80% 확보",
-      "subtitle": "AI 시대 전력·냉각수 부족 해결 위한 혁신 기술 선점",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "80%",
-            "label": "中 특허 점유율"
-          },
-          {
-            "value": "168건",
-            "label": "전 세계 특허"
-          },
-          {
-            "value": "하이난",
-            "label": "상업용 클러스터"
-          }
-        ],
-        "main_number": "80%",
-        "main_text": "중국이 확보한 수중 데이터센터 전 세계 특허 비율"
-      },
-      "image_prompt": "cute pastel infographic illustration of a futuristic underwater data center, with servers glowing under the sea, no text",
-      "detail": {
-        "summary": "중국이 AI 시대 필수 인프라로 떠오르는 수중 데이터센터 관련 전 세계 특허의 80%를 확보하며 기술 선두를 달리고 있다.",
-        "points": [
-          "AI 산업 성장으로 육상 데이터센터의 전력 및 냉각수 부족 심화.",
-          "중국, 전 세계 수중 데이터센터 관련 특허 168건 중 80% 소유.",
-          "하이난성 링수이 앞바다에 상업용 해저 데이터센터 클러스터 구축.",
-          "친환경적이고 효율적인 차세대 데이터센터 기술 선점에 주력."
-        ],
-        "quote": "인공지능(AI) 산업의 폭발적인 성장으로 육상 데이터센터의 전력과 냉각수 부족 문제가 세계적인 병목으로 떠올랐다.",
-        "context": "데이터센터는 AI 및 디지털 경제의 핵심 인프라로, 전력 소모와 열 발생 문제가 크다. 수중 데이터센터는 이러한 문제를 해결할 대안으로 주목받고 있으며, 중국의 기술 선점은 글로벌 기술 패권 경쟁의 한 축을 보여준다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026111417371862200c8c1c064d_1"
-      },
-      "image_url": "data/images/2026-11-15/world-china-underwater-datacenter.jpg"
-    },
-    {
-      "id": "economy-ai-investment-debate",
+      "id": "tech-headline",
       "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "map",
+      "title": "美 제재 뚫은 AI칩, 동남아 경유 중국행 '검은 통로'",
+      "subtitle": "엔비디아 AI 반도체 불법 우회 수출 의혹, 공급망 교란 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "24만개",
+            "label": "AI칩 규모"
+          },
+          {
+            "value": "3개국",
+            "label": "경유국"
+          },
+          {
+            "value": "美 통제",
+            "label": "규제 허점"
+          }
+        ],
+        "main_number": "우회 적발",
+        "main_text": "美 반도체 수출 통제망 '구멍' 드러나"
+      },
+      "image_prompt": "cute pastel infographic illustration of a global map showing a hidden trade route with arrows and AI chip icons, no text",
+      "detail": {
+        "summary": "미국 IT 매체 보도에 따르면 앨리스 황이 친분을 이용해 중국-싱가포르-말레이시아 기업망을 꾸려 엔비디아 AI 반도체 약 24만개를 중국에 불법 반출하거나 원격 사용을 도왔다는 의혹이 제기됐다.",
+        "points": [
+          "앨리스 황, 엔비디아 AI 반도체 24만개 우회 수출 의혹",
+          "중국-싱가포르-말레이시아 기업망 활용",
+          "미국 수출 통제 규정의 허점 드러남",
+          "AI 기술 패권 경쟁 속 공급망 안보 위협"
+        ],
+        "quote": "“규제 허점을 파고든 정교한 우회 네트워크였다.”",
+        "context": "미국이 중국의 첨단 기술 접근을 막기 위해 반도체 수출 통제를 강화하고 있는 가운데, 주요 AI 반도체가 동남아를 경유해 중국으로 흘러들어 가는 정황이 포착돼 국제 기술 안보에 비상이 걸렸다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001164388?sid=101"
+      },
+      "image_url": "data/images/2026-11-16/tech-headline.jpg"
+    },
+    {
+      "id": "world-01",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "미·중 무역 갈등 완화 시도: 600억 달러 관세 인하 협상 재개",
+      "subtitle": "첨단기술·핵심 광물 갈등 지속 속, 관세·농산물 교역 완화 모색",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "600억달러",
+            "label": "협상 규모"
+          },
+          {
+            "value": "재가동",
+            "label": "무역위 회의"
+          },
+          {
+            "value": "농산물",
+            "label": "주요 의제"
+          }
+        ],
+        "main_number": "긍정적 신호",
+        "main_text": "세계 양대 경제대국, 무역 갈등 완화 움직임"
+      },
+      "image_prompt": "cute pastel infographic illustration of two countries' flags (US and China) with trade goods flowing between them, showing a decrease in tariffs, no text",
+      "detail": {
+        "summary": "미국과 중국이 600억 달러 규모의 관세 인하 협상을 재개하며 세계 무역 질서에 긍정적인 영향을 미칠지 주목된다. 양국은 첨단기술 및 핵심 광물 분야 갈등은 이어가면서도 관세와 농산물 교역 완화에 나섰다.",
+        "points": [
+          "미·중, 600억 달러 규모 관세 인하 협상 재개",
+          "첨단기술·핵심 광물 갈등은 지속",
+          "관세 및 농산물 교역 분야 완화 논의",
+          "세계 교역 및 금융시장에 긍정적 영향 기대"
+        ],
+        "quote": "“정상 간 정치적 합의를 실제 통상정책으로 연결하기 위한 후속 협의.”",
+        "context": "세계 경제를 좌우하는 미국과 중국이 장기화된 무역 갈등을 완화하기 위한 움직임을 보이고 있다. 이는 글로벌 공급망 재편과 세계 경제 회복에 중요한 변수가 될 것으로 전망된다.",
+        "source_url": "https://www.geconomy.co.kr/news/article.html?no=325688"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20countries%27%20flags%20%28US%20and%20China%29%20with%20trade%20goods%20flowing%20between%20them%2C%20showing%20a%20decrease%20in%20tariffs%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25808&nologo=true"
+    },
+    {
+      "id": "world-02",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "홍해 물류망 비상: 예멘 밥엘만데브 해협 후티 반군 장악",
+      "subtitle": "세계 핵심 해상 통로 통제권 상실, 페르시아만-홍해 물류 봉쇄 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "밥엘만데브",
+            "label": "해협 통제"
+          },
+          {
+            "value": "후티 반군",
+            "label": "장악 세력"
+          },
+          {
+            "value": "세계 최다",
+            "label": "통행량"
+          }
+        ],
+        "main_number": "물류 비상",
+        "main_text": "글로벌 해상 운송로 핵심 지점 불안정 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a world map highlighting the Red Sea and Bab-el-Mandeb Strait, with ship icons and a 'danger' symbol, no text",
+      "detail": {
+        "summary": "예멘 정부군이 밥엘만데브 해협에서 철수하면서 후티 반군이 해당 지역을 장악, 홍해 물류망에 비상이 걸렸다. 이는 아시아-유럽을 잇는 세계에서 가장 통행량이 많은 해상 통로의 통제권이 넘어가면서 글로벌 공급망에 심각한 차질을 초래할 수 있다.",
+        "points": [
+          "예멘 정부군, 밥엘만데브 해협 철수",
+          "후티 반군, 핵심 해상 통로 장악",
+          "아시아-유럽 잇는 세계 최다 통행량 해협",
+          "호르무즈 해협과 연계, 양대 물류 봉쇄망 우려"
+        ],
+        "quote": "“글로벌 교역의 핵심 동맥이 끊길 수 있다는 우려가 커지고 있다.”",
+        "context": "중동 정세 불안이 장기화되면서 홍해를 통한 해상 물류 안전이 위협받고 있다. 밥엘만데브 해협은 수에즈 운하의 남쪽 입구이자 아시아와 유럽을 잇는 중요한 해상 무역로로, 이곳의 불안정은 전 세계 에너지 공급과 상품 운송에 막대한 영향을 미친다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=20261115192607680fda4f5ab74_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20world%20map%20highlighting%20the%20Red%20Sea%20and%20Bab-el-Mandeb%20Strait%2C%20with%20ship%20icons%20and%20a%20%27danger%27%20symbol%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70834&nologo=true"
+    },
+    {
+      "id": "world-03",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "美 대형 해상풍력 단지, 정치적 불확실성 뚫고 상업 가동 돌입",
+      "subtitle": "트럼프 행정부 압박에도 불구하고 704MW 규모 해상풍력 발전 개시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "704MW",
+            "label": "단지 규모"
+          },
+          {
+            "value": "13,500TWh",
+            "label": "잠재력"
+          },
+          {
+            "value": "2016년",
+            "label": "개발 시작"
+          }
+        ],
+        "main_number": "재생에너지 진전",
+        "main_text": "美, 정치적 장벽 넘어 해상풍력 발전 본격화"
+      },
+      "image_prompt": "cute pastel infographic illustration of offshore wind turbines in the ocean, with data points on energy capacity and growth, no text",
+      "detail": {
+        "summary": "미국 대형 해상풍력 단지가 수개월간의 정치적 불확실성과 법정 공방을 뚫고 704MW 규모의 상업 가동에 돌입했다. 이는 트럼프 행정부의 압박으로 개발 속도가 지연되었던 미국 해상풍력 산업에 새로운 활력을 불어넣을 것으로 기대된다.",
+        "points": [
+          "704MW 규모 해상풍력 단지 상업 가동 시작",
+          "수개월간의 정치적 불확실성 및 법정 공방 극복",
+          "트럼프 행정부의 압박으로 개발 지연 경험",
+          "미국 해상풍력 산업의 중요한 전환점"
+        ],
+        "quote": "“미국 해상풍력은 잠자는 거인에서 깨어나고 있다.”",
+        "context": "미국은 세계 최고 수준의 해상풍력 자원 잠재력을 가지고 있음에도 불구하고 정치적 갈등과 규제 문제로 개발 속도가 더뎠다. 이번 대형 단지의 상업 가동은 미국의 재생에너지 전환 목표 달성과 기후 변화 대응에 중요한 의미를 가진다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026111516233829060c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20offshore%20wind%20turbines%20in%20the%20ocean%2C%20with%20data%20points%20on%20energy%20capacity%20and%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56348&nologo=true"
+    },
+    {
+      "id": "economy-01",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "교육 교부금 개편, 충청 교육청 재정난 심화 우려",
+      "subtitle": "내국세연동제 폐지 및 새 산식 적용으로 각 시도교육청 재정 압박",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "내국세",
+            "label": "기존 기준"
+          },
+          {
+            "value": "학령인구",
+            "label": "새 기준"
+          },
+          {
+            "value": "재정 압박",
+            "label": "교육청 우려"
+          }
+        ],
+        "main_number": "예산 감소",
+        "main_text": "교부금 산식 변화로 교육 예산 불확실성 증대"
+      },
+      "image_prompt": "cute pastel infographic illustration of a pie chart showing budget allocation changes for education, with a distressed piggy bank icon, no text",
+      "detail": {
+        "summary": "정부의 교육 교부금 개편안으로 충청지역 교육청을 비롯한 시도교육청들의 내년 살림살이가 빠듯해질 전망이다. 기존 내국세연동제가 폐지되고 학령인구 감소율과 경제성장률 등을 반영한 새 산식이 적용되면서 재정 압박이 커졌다.",
+        "points": [
+          "정부 교육 교부금 개편안 추진",
+          "내국세연동제 폐지, 새 산식 적용",
+          "학령인구 감소율 및 경제성장률 반영",
+          "충청 교육청 등 시도교육청 재정 압박 직격탄"
+        ],
+        "quote": "“재정 압박은 결국 미래 세대에 대한 투자 축소로 이어질 수 있다.”",
+        "context": "교육 교부금은 지방 교육 재원의 핵심으로, 그 산정 방식의 변화는 교육 환경 전반에 큰 영향을 미친다. 특히 학령인구 감소와 맞물려 교육의 질 저하 및 지역 간 교육 격차 심화에 대한 우려가 제기되고 있다.",
+        "source_url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240258"
+      },
+      "image_url": "data/images/2026-11-16/economy-01.jpg"
+    },
+    {
+      "id": "economy-02",
+      "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "bar_chart",
-      "title": "월가, AI 투자 둘러싼 '부채 경고 vs 고마진' 논쟁",
-      "subtitle": "데이터센터 건설 붐, 천문학적 투자금 속 경제적 파급력과 리스크 분석",
+      "title": "삼성전자, 성과급 격차로 노노 갈등 심화…노조 7개로 늘어",
+      "subtitle": "반도체 7.5억 vs 세트 600만원 격차, 교섭창구 단일화 난항",
       "viz_data": {
         "stats": [
           {
-            "value": "+6%",
-            "label": "AI가 GDP서 차지할 비중"
+            "value": "7개",
+            "label": "노조 수"
           },
           {
-            "value": "40건+",
-            "label": "건설 연기 모라토리엄"
+            "value": "7.5억",
+            "label": "반도체 성과급"
           },
           {
-            "value": "역대급",
-            "label": "부채 규모"
+            "value": "600만원",
+            "label": "세트 성과급"
           }
         ],
-        "main_number": "논쟁 심화",
-        "main_text": "AI 투자, 긍정적 전망과 부채 리스크 사이에서 월가의 고민"
+        "main_number": "성과급 갈등",
+        "main_text": "삼성 내부, 직무별 성과급 차이로 노사 관계 불안정"
       },
-      "image_prompt": "cute pastel infographic illustration of a balance scale, with money bags on one side and a warning sign on the other, representing AI investment risks and rewards, no text",
+      "image_prompt": "cute pastel infographic illustration of two contrasting bar charts showing significant differences in bonus payments between two groups of employees, with icons of workers and money, no text",
       "detail": {
-        "summary": "AI 인프라 투자가 미국 경제의 핵심 동력으로 부상했지만, 천문학적 부채 증가와 고마진 선순환 가능성 사이에서 월가의 논쟁이 뜨겁다.",
+        "summary": "한때 무노조 경영을 표방했던 삼성전자에 노조가 7개로 늘어나며 '노조공화국'이라는 오명이 붙을 위기에 처했다. 특히 반도체 사업부와 세트 사업부 간 성과급이 각각 7억5000만원과 600만원으로 큰 격차를 보이면서 노노 갈등이 심화되고 있다.",
         "points": [
-          "AI 인프라 투자가 미국 경제 전망의 중대한 비중 차지.",
-          "데이터센터 구축이 19세기 철도 광풍보다 큰 경제적 비중 예상.",
-          "일부 애널리스트는 '천문학적 부채'에 대한 경고.",
-          "지역 사회의 데이터센터 건설 반발 및 모라토리엄 증가."
+          "삼성전자 노조 7개로 확대, 교섭 난항 예상",
+          "반도체 사업부 성과급 7.5억 vs 세트 사업부 600만원",
+          "성과급 격차로 인한 내부 직원 불만 고조",
+          "단체협상 및 임금협상 시계제로 우려"
         ],
-        "quote": "AI 확장이 경제적 측면에서 19세기 후반의 철도 광풍보다 더 큰 비중을 차지할 전망이다.",
-        "context": "AI 기술의 발전은 산업 전반의 변화를 이끌고 있지만, 이를 위한 막대한 인프라 투자가 가져올 경제적 파급효과와 잠재적 리스크에 대한 면밀한 분석이 필요하다.",
-        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194548"
+        "quote": "“무노조 경영에서 노조 난립, 성과급 격차가 조직 갈등의 불씨가 되고 있다.”",
+        "context": "삼성전자의 성과급 산정 방식과 노조 정책은 국내 기업의 주요 이슈로, 노동 환경 변화와 기업 경영 전략에 대한 논의를 촉발하고 있다. 직무별 성과 차이가 심화될수록 내부 갈등이 커질 수 있어, 합리적인 성과 보상 시스템과 소통 채널 구축이 중요해지고 있다.",
+        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611142234106940064"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20balance%20scale%2C%20with%20money%20bags%20on%20one%20side%20and%20a%20warning%20sign%20on%20the%20other%2C%20representing%20AI%20investment%20risks%20and%20rewards%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20171&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20contrasting%20bar%20charts%20showing%20significant%20differences%20in%20bonus%20payments%20between%20two%20groups%20of%20employees%2C%20with%20icons%20of%20workers%20and%20money%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36040&nologo=true"
     },
     {
-      "id": "economy-uranium-price-surge",
+      "id": "economy-03",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "AI 전력난·중동 위기, 우라늄 가격 '30년 만에 최고가' 견인",
-      "subtitle": "데이터센터 전력수요 폭증과 원전 회귀 움직임, 우라늄 시장 과열",
+      "title": "엔비디아발 충격, 美 증시 반도체주 전반에 매도세 확산",
+      "subtitle": "젠슨 황 사임 불확실성, AI 관련주 전반에 하방 압력",
       "viz_data": {
         "stats": [
           {
-            "value": "30년 만",
-            "label": "최고가 기록"
+            "value": "엔비디아",
+            "label": "주요 요인"
           },
           {
-            "value": "415TWh",
-            "label": "2024년 데이터센터 전력소비"
+            "value": "AI 관련주",
+            "label": "영향 범위"
           },
           {
-            "value": "820TWh",
-            "label": "2030년 데이터센터 전력소비"
+            "value": "매도세",
+            "label": "시장 반응"
           }
         ],
-        "main_number": "↑↑↑",
-        "main_text": "우라늄 가격, 30년 만에 사상 최고가 기록"
+        "main_number": "시장 불안",
+        "main_text": "AI 대장주 불확실성, 기술주 시장 전반에 파동"
       },
-      "image_prompt": "cute pastel infographic illustration of a line graph showing a sharp increase, with nuclear power plants and glowing data centers in the background, no text",
+      "image_prompt": "cute pastel infographic illustration of a downward trending line graph representing stock prices, with icons of AI chips and a bear market symbol, no text",
       "detail": {
-        "summary": "AI 데이터센터의 전력 수요 폭증과 중동 지정학적 위기가 맞물려 우라늄 가격이 30년 만에 사상 최고가를 기록했다.",
+        "summary": "미국 증시에서 엔비디아 발 충격이 확산하며 반도체주 전반에 매도세가 나타났다. 젠슨 황 CEO의 사임 이후 경영진 승계 불확실성이 미국의 대중국 반도체 수출 통제 강화, 정치권 책임 공방 등으로 확대되며 AI 관련주 전반에 하방 압력을 가하고 있다.",
         "points": [
-          "우라늄 가격, 30년 만에 사상 최고치 경신.",
-          "AI 데이터센터 건설 폭증이 전력난 심화.",
-          "국제에너지기구(IEA), 데이터센터 전력 소비 2030년까지 두 배 증가 전망.",
-          "전 세계적인 원전 설비 용량 확대 움직임이 우라늄 수요 견인."
+          "젠슨 황 CEO 사임 불확실성, 엔비디아 주가 하락",
+          "미국 증시 반도체 및 AI 관련주 매도세 확산",
+          "미·중 반도체 수출 통제 강화 등 복합적 요인",
+          "글로벌 AI 산업 성장세 둔화 우려"
         ],
-        "quote": "전 세계적인 원전 설비 용량 확대와 각국 정부의 원전 회귀 움직임이 맞물려 우라늄 시장이 과열되고 있다.",
-        "context": "기후변화 대응과 에너지 안보 강화를 위해 원자력 발전이 재조명받고 있으며, AI 기술 발전이 이 흐름을 더욱 가속화하며 핵심 자원인 우라늄 시장에 큰 영향을 미치고 있다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026111418011955490c8c1c064d_1"
+        "quote": "“AI 대장주의 불안정은 전체 기술 시장의 투자 심리를 위축시킬 수 있다.”",
+        "context": "엔비디아는 AI 반도체 시장을 선도하는 핵심 기업으로, 경영 불확실성은 AI 산업의 미래 성장 동력과 글로벌 기술 경쟁 구도에 중대한 영향을 미친다. 이는 단순한 기업 이슈를 넘어 경제 전반의 투자 심리와 산업 방향성에 파급 효과를 가져올 수 있다.",
+        "source_url": "https://www.news2day.co.kr/article/20261114500039"
       },
-      "image_url": "data/images/2026-11-15/economy-uranium-price-surge.jpg"
+      "image_url": "data/images/2026-11-16/economy-03.jpg"
     },
     {
-      "id": "economy-youth-nonregular-jobs",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "청년 임금근로자 절반 가까이 비정규직, 고용시장 문턱 높아져",
-      "subtitle": "경력직 선호 문화 확산, 청년층 취업 어려움 심화",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "46%",
-            "label": "비정규직 비율"
-          },
-          {
-            "value": "최저치",
-            "label": "경제활동참가율 (11년 만)"
-          },
-          {
-            "value": "숙박·음식점",
-            "label": "취업 감소"
-          }
-        ],
-        "main_number": "46%",
-        "main_text": "청년 임금근로자 중 비정규직 비중"
-      },
-      "image_prompt": "cute pastel infographic illustration of young people struggling to climb a high wall, representing job market entry barriers, with a pie chart showing non-regular employment, no text",
-      "detail": {
-        "summary": "청년 임금근로자 중 절반에 가까운 46%가 비정규직인 것으로 나타났으며, 경력직 선호 문화 확산으로 청년층의 고용시장 진입이 더욱 어려워지고 있다.",
-        "points": [
-          "청년층 임금근로자 46%가 비정규직.",
-          "청년층 경제활동참가율 11년 만에 최저치 기록.",
-          "숙박음식점업 등 청년층 취업 비중 높았던 분야에서 감소.",
-          "신규 채용 시 경력직 선호, 대규모 공채 감소가 원인."
-        ],
-        "quote": "청년층이 일자리 시장에서 어려움을 겪는 가운데 임금근로자로 취업한 이들 절반 가까이는 비정규직인 것으로 나타났다.",
-        "context": "청년층 고용 문제는 경제 전반의 활력 저하로 이어질 수 있는 심각한 사회 문제이다. 기업의 채용 문화 변화와 산업 구조 전환이 복합적으로 작용하고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016442039?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20young%20people%20struggling%20to%20climb%20a%20high%20wall%2C%20representing%20job%20market%20entry%20barriers%2C%20with%20a%20pie%20chart%20showing%20non-regular%20employment%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57591&nologo=true"
-    },
-    {
-      "id": "tech-ai-entertainment-cost",
+      "id": "tech-04",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "comparison",
-      "title": "AI가 엔터테인먼트 제작 비용을 낮추다",
-      "subtitle": "콘텐츠 개발 가속화 및 재정적 제약 해소, AI 경제적 파급 효과",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "비용 절감",
-            "label": "AI 도입 효과"
-          },
-          {
-            "value": "빠른 배급",
-            "label": "제작 효율성"
-          },
-          {
-            "value": "더 많은 시도",
-            "label": "콘텐츠 다양성"
-          }
-        ],
-        "main_number": "↓",
-        "main_text": "AI 도입으로 인한 엔터테인먼트 제작 비용 절감"
-      },
-      "image_prompt": "cute pastel infographic illustration of a film studio with robots assisting in production, a graph showing decreased costs, no text",
-      "detail": {
-        "summary": "인공지능(AI) 기술이 엔터테인먼트 산업의 콘텐츠 제작 비용을 크게 낮추고 있으며, 이는 제작자들이 더 많은 컨셉을 시도하고 빠르게 배급할 수 있게 한다.",
-        "points": [
-          "AI 도입으로 콘텐츠 개발의 경제적 구조 변화.",
-          "제작 비용 절감으로 더 많은 컨셉 시도 가능.",
-          "프로그램 배급 속도 향상.",
-          "기존 재정적 제약으로 불가능했던 프로젝트 추진 가능."
-        ],
-        "quote": "이러한 비용 절감은 콘텐츠 개발의 경제적 구조를 바꾸고 있다.",
-        "context": "AI는 단순한 도구를 넘어 산업의 근본적인 비용 구조를 변화시키고 있다. 특히 창의 산업에서 생산성 향상과 진입 장벽 낮추는 효과가 두드러진다.",
-        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194490"
-      },
-      "image_url": "data/images/2026-11-15/tech-ai-entertainment-cost.jpg"
-    },
-    {
-      "id": "tech-it-employment-korea-taiwan",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "bar_chart",
-      "title": "한국, IT 제조업 고용 비중 대만의 5분의 1 수준",
-      "subtitle": "반도체 호황에도 소비 회복 미지근, IT 낙수효과 제약 요인",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1.9%",
-            "label": "韓 IT 종사자 비율"
-          },
-          {
-            "value": "10.6%",
-            "label": "대만 IT 종사자 비율"
-          },
-          {
-            "value": "5배",
-            "label": "대만 대비 격차"
-          }
-        ],
-        "main_number": "1/5",
-        "main_text": "한국 IT 제조업 고용 비중, 대만의 5분의 1"
-      },
-      "image_prompt": "cute pastel infographic illustration comparing two bar charts, one for Korea and one for Taiwan, showing IT employment rates, with semiconductor chips, no text",
-      "detail": {
-        "summary": "우리나라 IT 제조업 고용 비중이 대만의 5분의 1 수준에 그쳐, 반도체 호황이 민간 소비로 이어지는 낙수효과에 제약이 있는 것으로 분석됐다.",
-        "points": [
-          "한국 IT 제조업 종사자 비율은 전체 종사자의 1.9% (39만명).",
-          "대만 IT 제조업 종사자 비율은 10.6% (91만명)로 한국의 5배 이상.",
-          "IT 수출 호조에도 한국의 소비 회복세는 대만보다 더딜 가능성.",
-          "AI 수혜가 고소득 근로자에 집중되는 점도 낙수효과 제약."
-        ],
-        "quote": "작년 기준 우리나라 정보기술(IT) 제조업 종사자 비율은 전체 종사자의 1.9%(39만명)로, 대만(91만명·10.6%)의 5분의 1 수준이다.",
-        "context": "IT 산업은 국가 경제의 핵심 동력이지만, 고용 구조와 수혜 계층의 편중은 경제 전반의 균형 성장에 영향을 미칠 수 있다. 대만과의 비교는 한국 IT 산업의 구조적 특징을 보여준다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016442043?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20comparing%20two%20bar%20charts%2C%20one%20for%20Korea%20and%20one%20for%20Taiwan%2C%20showing%20IT%20employment%20rates%2C%20with%20semiconductor%20chips%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=11805&nologo=true"
-    },
-    {
-      "id": "tech-ai-public-administration",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "process",
-      "title": "경기도, 외부 용역 없이 생성형 AI로 행정 시스템 개발",
-      "subtitle": "수억 원대 IT 용역 관행 깨고 실무 공무원과 AI 협업으로 혁신",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "수억 원대",
-            "label": "기존 용역비"
-          },
-          {
-            "value": "실무 공무원",
-            "label": "개발 주체"
-          },
-          {
-            "value": "생성형 AI",
-            "label": "협업 도구"
-          }
-        ],
-        "main_number": "혁신",
-        "main_text": "외부 용역 벗어나 AI 활용한 행정 시스템 자체 개발"
-      },
-      "image_prompt": "cute pastel infographic illustration of a government office with public servants working alongside AI robots, creating efficient systems, no text",
-      "detail": {
-        "summary": "경기도가 수억 원대 외부 IT 용역 관행을 깨고 실무 공무원과 생성형 AI의 직접 협업을 통해 행정 시스템을 개발하는 혁신을 시도한다.",
-        "points": [
-          "경기도, IT 용역 없이 AI 활용한 행정 시스템 자체 개발.",
-          "실무 공무원이 생성형 AI와 직접 협업해 업무 시스템 투입.",
-          "수억 원대 외부 용역 예산 절감 효과 기대.",
-          "행정 현장의 수요를 반영한 효율적인 시스템 구축 가능."
-        ],
-        "quote": "경기도가 수억 원대 외부 정보기술(IT) 용역에 의존하던 행정 시스템 개발 관행을 깨고 실무 공무원이 인공지능(AI)과 직접 협업해 만든 업무 시스템을 행정 현장에 투입한다.",
-        "context": "정부 및 공공기관의 디지털 전환은 필수적이지만, 기존에는 막대한 외부 용역비가 소요되는 문제가 있었다. AI를 활용한 자체 개발은 예산 절감과 함께 공공 서비스 효율성을 높일 잠재력을 가진다.",
-        "source_url": "https://n.news.naver.com/mnews/article/079/0004209825?sid=102"
-      },
-      "image_url": "data/images/2026-11-15/tech-ai-public-administration.jpg"
-    },
-    {
-      "id": "society-legislative-deadlock",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
       "viz_type": "timeline",
-      "title": "민주유공자법 등 쟁점 법안, 여야 대립 심화 속 본회의 처리 난항",
-      "subtitle": "19일 본회의 개최 불투명... 주택공급 3법도 협상 진전 없어",
+      "title": "세무사 시험 'AI 부정행위' 파장, 국가고시 관리 비상",
+      "subtitle": "초소형 카메라 이용 부정 적발, 여야 재발 방지 촉구",
       "viz_data": {
         "stats": [
           {
-            "value": "민주유공자법",
-            "label": "주요 쟁점"
+            "value": "스마트안경",
+            "label": "부정 도구"
           },
           {
-            "value": "주택공급 3법",
-            "label": "주요 쟁점"
+            "value": "수능 D-3",
+            "label": "시험 시점"
           },
           {
-            "value": "19일",
-            "label": "본회의 예정"
+            "value": "국회 교육위",
+            "label": "대책 논의"
           }
         ],
-        "main_number": "교착",
-        "main_text": "주요 법안 처리 놓고 여야 간 입장차 좁히지 못해"
+        "main_number": "AI 윤리 문제",
+        "main_text": "AI 기술 악용, 시험 공정성 심각하게 훼손"
       },
-      "image_prompt": "cute pastel infographic illustration of two opposing political parties with legislative documents, a gavel, and a calendar marking a debate, no text",
+      "image_prompt": "cute pastel infographic illustration of a student wearing smart glasses with AI symbols, attempting to cheat on an exam, no text",
       "detail": {
-        "summary": "여야가 민주유공자법과 주택공급 3법 등 주요 쟁점 법안을 놓고 대립하면서 19일 본회의 개최 여부가 불투명해졌다.",
+        "summary": "세무사 자격시험에서 초소형 카메라가 탑재된 스마트안경을 이용한 AI 부정행위가 적발되어 파문이 일고 있다. 수능 D-3일을 앞두고 국회 교육위원회는 긴급 현안 보고를 받으며 국가고시 전반의 재발 방지 대책 마련을 촉구하고 나섰다.",
         "points": [
-          "민주유공자법, 국민의힘 '운동권 신분세습법'으로 규정하며 반대.",
-          "주택공급 3법(도시정비법, 도시재정비촉진법, 용산공원 특별법) 처리도 난항.",
-          "민주당은 11일 국민의힘과 협상 후 12일 본회의 추진하려 했으나 불발.",
-          "여야는 관련 법안에 대한 사회적 합의 부족을 쟁점으로 삼고 있다."
+          "세무사 시험 중 초소형 카메라 이용 AI 부정행위 적발",
+          "스마트안경 등 첨단 기기 악용 가능성 대두",
+          "국회 교육위원회, 국가고시 관리 강화 촉구",
+          "AI 시대 시험 공정성 확보 방안 시급"
         ],
-        "quote": "국민의힘은 관련 법안에 대해 ‘운동권 신분세습법’으로 규정했고 사회적 합의를 충분히 거치지 않았다는 점을 들어 반대하고 있다.",
-        "context": "입법 과정에서의 여야 대립은 사회적 갈등을 증폭시키고 주요 정책 추진을 지연시킬 수 있다. 특히 민감한 사회적 이슈가 담긴 법안들은 합의 도출이 더욱 어렵다.",
-        "source_url": "https://n.news.naver.com/mnews/article/029/0003059060?sid=100"
+        "quote": "“첨단 기술이 시험의 공정성을 위협하는 새로운 변수가 되고 있다.”",
+        "context": "AI 기술 발전은 교육 및 시험 환경에도 변화를 가져오고 있으나, 이를 악용한 부정행위는 공정한 경쟁의 기회를 침해하고 사회적 신뢰를 훼손할 수 있다. 효과적인 AI 기술 관리 및 예방 시스템 구축이 시급하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/123/0002394065?sid=100"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20opposing%20political%20parties%20with%20legislative%20documents%2C%20a%20gavel%2C%20and%20a%20calendar%20marking%20a%20debate%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86196&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20student%20wearing%20smart%20glasses%20with%20AI%20symbols%2C%20attempting%20to%20cheat%20on%20an%20exam%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31561&nologo=true"
     },
     {
-      "id": "society-datacenter-opposition",
+      "id": "tech-05",
       "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "map",
-      "title": "AI 데이터센터 건설, 지역 사회 반발 확산",
-      "subtitle": "미국 중간선거서 40건 이상 건설 연기 모라토리엄 통과",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "40건+",
-            "label": "모라토리엄 통과"
-          },
-          {
-            "value": "텍사스",
-            "label": "주요 반대 지역"
-          },
-          {
-            "value": "오하이오",
-            "label": "주요 반대 지역"
-          }
-        ],
-        "main_number": "확산",
-        "main_text": "데이터센터 건설에 대한 지역 사회 반발 증가"
-      },
-      "image_prompt": "cute pastel infographic illustration of a map of the US with areas highlighted where data center construction is paused, showing community protests, no text",
-      "detail": {
-        "summary": "AI 인프라의 핵심인 데이터센터 건설에 대한 지역 사회의 반발이 거세지면서, 미국 중간선거에서 40건 이상의 건설 연기 모라토리엄이 통과되었다.",
-        "points": [
-          "데이터센터 건설에 대한 지역 사회의 반발 심화.",
-          "미국 중간선거에서 40건 이상의 지역별 모라토리엄 통과.",
-          "텍사스, 오하이오, 조지아 등 건설 활발 지역에서 정치적 압력 가세.",
-          "전력 및 용수 소모량 증가, 환경 문제 등이 주요 반대 이유."
-        ],
-        "quote": "게다가 신규 건설이 가장 활발한 주에 속하는 텍사스, 오하이오, 조지아에서 민주당 주지사들이 당선됨에 따라, 대부분의 월가 애널리스트들은 건설 속도를 늦추려는 정치적 압력이 더욱 거세질 것으로 예상하고 있다.",
-        "context": "AI 기술 발전의 이면에는 이를 위한 대규모 인프라 구축의 환경적, 사회적 비용이 존재한다. 지역 주민들의 삶과 직결된 문제이므로 지속 가능한 개발 방안 마련이 중요하다.",
-        "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194548"
-      },
-      "image_url": "data/images/2026-11-15/society-datacenter-opposition.jpg"
-    },
-    {
-      "id": "society-france-protest",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "프랑스, 5주째 '생활비 SOS' 주말 시위에 11만 명 참여",
-      "subtitle": "치솟는 물가와 복지 예산 삭감에 대한 시민들의 불만 폭발",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "5주째",
-            "label": "시위 지속"
-          },
-          {
-            "value": "10.6만 명",
-            "label": "참가자 수"
-          },
-          {
-            "value": "전국 도시",
-            "label": "시위 확산"
-          }
-        ],
-        "main_number": "11만 명",
-        "main_text": "프랑스 전국에서 주말 시위에 참여한 인원"
-      },
-      "image_prompt": "cute pastel infographic illustration of a large crowd of people protesting with signs like 'SOS Living Costs' and 'No Justice No Peace' in a city, no text",
-      "detail": {
-        "summary": "프랑스에서 5주째 주말 시위가 이어지며 전국적으로 11만 명 이상이 참여, 치솟는 생활비와 교육·보건·문화 예산 삭감에 대한 불만을 표출했다.",
-        "points": [
-          "수도 파리 포함 전국 주요 도시에서 시위 발생.",
-          "학생 단체, 노동조합, 사회단체가 시위를 주도.",
-          "주요 요구 사항: 생활비 문제 해결, 교육·복지·의료·문화 예산 삭감 반대.",
-          "시위는 마크롱 대통령의 정책에 대한 광범위한 불만을 반영."
-        ],
-        "quote": "시위대는 프랑스 국기와 함께 '정의 없이 평화 없다', '생활비 SOS', '교육 망치고 보건 망치고 문화 망치고', '학생 말을 듣기보단 막기만 한다' 등이 쓰인 팻말을 들었습니다.",
-        "context": "유럽 전역에서 인플레이션과 에너지 위기로 인한 생활비 부담이 커지면서 시민들의 불만이 사회 전반으로 확산되고 있다. 정부 정책에 대한 대중의 직접적인 목소리가 커지고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/056/0012294066?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20large%20crowd%20of%20people%20protesting%20with%20signs%20like%20%27SOS%20Living%20Costs%27%20and%20%27No%20Justice%20No%20Peace%27%20in%20a%20city%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=82544&nologo=true"
-    },
-    {
-      "id": "life-parisbaguette-us-expansion",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "파리바게뜨, 2030년 북미 1000개 매장 목표",
-      "subtitle": "K-문화 확산에 힘입어 현지 맞춤형 전략으로 글로벌 시장 공략",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2030년",
-            "label": "목표 연도"
-          },
-          {
-            "value": "1000개",
-            "label": "북미 매장 수"
-          },
-          {
-            "value": "K-문화",
-            "label": "확산 동력"
-          }
-        ],
-        "main_number": "1000",
-        "main_text": "2030년까지 파리바게뜨 북미 매장 목표"
-      },
-      "image_prompt": "cute pastel infographic illustration of a Paris Baguette store with a map of North America, showing increasing store numbers, and K-pop elements, no text",
-      "detail": {
-        "summary": "파리바게뜨가 K-문화 확산과 현지 맞춤형 전략을 통해 2030년까지 북미 지역에 1000개 매장을 오픈하겠다는 목표를 제시했다.",
-        "points": [
-          "파리바게뜨, 2030년까지 북미 1000개 매장 확보 목표.",
-          "미국 내 한국 문화에 대한 이해와 호감도 증가가 기회.",
-          "현지인의 구매 데이터를 분석한 특화 제품 개발 및 출시.",
-          "가맹 파트너십을 통한 지역 사회 밀착 전략 추진."
-        ],
-        "quote": "미국에서 한국 문화에 대한 이해와 호감이 커졌고 세계 각국의 맛과 아시아에서 영감받은 베이커리에 대한 관심이 높다.",
-        "context": "K-콘텐츠를 넘어 K-푸드 등 K-브랜드의 글로벌 진출이 활발하다. 현지 문화와 소비 트렌드에 대한 깊은 이해가 성공적인 해외 시장 공략의 핵심이 된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005441116?sid=101"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20Paris%20Baguette%20store%20with%20a%20map%20of%20North%20America%2C%20showing%20increasing%20store%20numbers%2C%20and%20K-pop%20elements%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70256&nologo=true"
-    },
-    {
-      "id": "life-online-community-trend",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
+      "category": "tech",
+      "category_label": "💻 기술",
       "viz_type": "pie_chart",
-      "title": "MZ세대, '랜선 아지트'로 모여 소통과 위안을 찾다",
-      "subtitle": "메타버스, 온라인 커뮤니티에서 사찰, 수능 기도회 등 다양한 활동",
+      "title": "삼성전자, CES 2027서 최고 혁신상 4개 포함 총 19개 수상",
+      "subtitle": "내년 1월 세계 최대 IT 전시회 앞두고 기술 리더십 입증",
       "viz_data": {
         "stats": [
           {
-            "value": "2주",
-            "label": "공간 구현 기간"
+            "value": "19개",
+            "label": "총 수상"
           },
           {
-            "value": "고밀도",
-            "label": "네트워크 사회"
+            "value": "4개",
+            "label": "최고 혁신상"
           },
           {
-            "value": "스트레스 해소",
-            "label": "참여 동기"
+            "value": "2027년 1월",
+            "label": "전시회 예정"
           }
         ],
-        "main_number": "연결",
-        "main_text": "메타버스 기반 온라인 공간에서 새로운 소통 방식 등장"
+        "main_number": "기술 혁신",
+        "main_text": "삼성전자, 가전·IT 분야 혁신 기술력 세계적 인정"
       },
-      "image_prompt": "cute pastel infographic illustration of diverse young people interacting in a metaverse space, with elements like a temple, study desk, and concert stage, no text",
+      "image_prompt": "cute pastel infographic illustration of a trophy with multiple stars, representing innovation awards, and Samsung logo, no text",
       "detail": {
-        "summary": "MZ세대가 메타버스 등 온라인 가상 공간에서 '랜선 아지트'를 만들어 사찰 참배, 수능 기도회 등 다양한 활동을 하며 소통과 위안을 얻고 있다.",
+        "summary": "삼성전자가 내년 1월 미국 라스베이거스에서 열리는 세계 최대 전자·정보기술(IT) 전시회 'CES 2027'을 앞두고 최고 혁신상 4개를 포함해 총 19개의 혁신상을 수상했다. 이는 삼성전자의 가전 및 IT 분야 기술 리더십을 세계적으로 입증하는 성과다.",
         "points": [
-          "비대면 소통에 익숙한 MZ세대의 새로운 커뮤니티 형성.",
-          "메타버스 플랫폼에서 가상 사찰, 스터디룸, 콘서트 등 다양한 공간 구현.",
-          "현실의 피로감과 스트레스를 온라인에서 해소하려는 경향.",
-          "고밀도 네트워크 사회에서 숨통을 트는 수단으로 활용."
+          "CES 2027 최고 혁신상 4개 수상",
+          "총 19개의 혁신상 수상 쾌거",
+          "미국소비자기술협회(CTA)로부터 인정",
+          "글로벌 IT 및 가전 시장 기술 선도"
         ],
-        "quote": "한두 다리만 건너면 서로 연결되는 고밀도 네트워크 사회에서 숨 막힘과 피로감을 느낀 젊은 세대들이 비대면으로 안정감을 느끼는 공간으로 도피하는 경향이 있다.",
-        "context": "디지털 네이티브 세대는 온라인 공간을 단순한 정보 교환을 넘어 사회적 상호작용과 정서적 교류의 장으로 활용한다. 이는 현대 사회의 소통 방식과 라이프스타일의 변화를 보여주는 중요한 트렌드이다.",
-        "source_url": "https://n.news.naver.com/mnews/article/008/0005441115?sid=102"
+        "quote": "“끊임없는 혁신으로 미래 기술 트렌드를 제시하고 있다.”",
+        "context": "CES 혁신상은 글로벌 기업들의 기술력을 평가하는 중요한 척도다. 삼성전자의 다수 수상은 AI, IoT, 친환경 기술 등 다양한 분야에서 혁신을 지속하고 있음을 보여주며, 한국 기술 기업의 위상을 높이는 데 기여한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003699570?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20diverse%20young%20people%20interacting%20in%20a%20metaverse%20space%2C%20with%20elements%20like%20a%20temple%2C%20study%20desk%2C%20and%20concert%20stage%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7977&nologo=true"
+      "image_url": "data/images/2026-11-16/tech-05.jpg"
     },
     {
-      "id": "life-kimchi-storage-tip",
+      "id": "tech-06",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "美 재무장관, 엔비디아 CEO 외부 영입 촉구…기업문화 쇄신 요구",
+      "subtitle": "젠슨 황 스캔들 여파, 반도체 수출 통제 규정 위반 의혹 조사 중",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "美 재무",
+            "label": "발언 주체"
+          },
+          {
+            "value": "CEO 교체",
+            "label": "요구 사항"
+          },
+          {
+            "value": "수출 통제",
+            "label": "핵심 이슈"
+          }
+        ],
+        "main_number": "쇄신 압박",
+        "main_text": "엔비디아 내부 문화 및 규제 준수 여부 집중 조사"
+      },
+      "image_prompt": "cute pastel infographic illustration of a boardroom table with a new person being brought in, symbolizing new leadership for a tech company, no text",
+      "detail": {
+        "summary": "베선트 미국 재무장관이 엔비디아의 차기 CEO를 회사 외부에서 영입해야 한다고 촉구하며 기업문화 전반에 대한 대대적인 쇄신을 요구했다. 이는 젠슨 황 전 CEO의 스캔들이 미국의 반도체 수출 통제 규정 위반 의혹으로 확대된 데 따른 것이다.",
+        "points": [
+          "베선트 美 재무장관, 엔비디아 CEO 외부 영입 주장",
+          "기업문화 쇄신 및 규제 준수 여부 집중 조사 요구",
+          "젠슨 황 스캔들, 반도체 수출 통제 위반 의혹으로 확산",
+          "실적 위주 불법 거래 묵인 여부 확인 필요성 제기"
+        ],
+        "quote": "“엔비디아 내부 문화가 어떤 식으로 작동해왔는지 확인할 필요가 있다.”",
+        "context": "엔비디아는 AI 반도체 시장의 핵심 기업으로, 그 리더십과 기업 윤리는 글로벌 기술 경쟁 및 국가 안보에 직결된다. 이번 사태는 기업의 사회적 책임과 투명한 경영의 중요성을 다시 한번 상기시킨다.",
+        "source_url": "https://n.news.naver.com/mnews/article/029/0003059245?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20boardroom%20table%20with%20a%20new%20person%20being%20brought%20in%2C%20symbolizing%20new%20leadership%20for%20a%20tech%20company%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28961&nologo=true"
+    },
+    {
+      "id": "society-01",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "탈북민 vs 북향민, 용어 변경 둘러싼 사회적 논쟁",
+      "subtitle": "탈북민 정체성 재정의 시도, 좌우 이념 갈등 심화 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "탈북민",
+            "label": "기존 용어"
+          },
+          {
+            "value": "북향민",
+            "label": "제안 용어"
+          },
+          {
+            "value": "좌우 논쟁",
+            "label": "사회적 파장"
+          }
+        ],
+        "main_number": "용어 논쟁",
+        "main_text": "탈북민 명칭 변경 시도, 남남갈등 부추길 우려"
+      },
+      "image_prompt": "cute pastel infographic illustration of two speech bubbles representing conflicting terms (탈북민 vs 북향민) with people debating, no text",
+      "detail": {
+        "summary": "탈북민을 '북향민'으로 명칭을 변경하려는 시도가 정치권을 중심으로 논의되면서 우리 사회의 좌우 이념 논쟁과 남남갈등을 부추긴다는 비판이 일고 있다. '탈북민'은 자유를 찾아 탈북한 사람을 의미하는 반면, '북향민'은 단순히 북한이 고향이라는 의미를 담아 정체성 훼손 논란이 뜨겁다.",
+        "points": [
+          "통일부 장관, '탈북민' 용어 '북향민'으로 변경 추진",
+          "'탈북민' vs '북향민' 용어의 의미 차이 논란",
+          "탈북민 정체성 훼손 및 남남갈등 심화 우려",
+          "정치적 목적의 용어 변경 시도 비판"
+        ],
+        "quote": "“용어는 단순한 말이 아니라 그 사람들의 삶과 정체성을 담고 있다.”",
+        "context": "탈북민 용어 논쟁은 단순한 언어 문제가 아닌, 이들의 한국 사회 정착 과정과 정체성, 그리고 남북 관계에 대한 관점을 반영한다. 용어 변경이 가져올 사회적 파장과 탈북민들의 목소리에 귀 기울이는 것이 중요하다.",
+        "source_url": "https://www.abcn.kr/news/articleView.html?idxno=94531"
+      },
+      "image_url": "data/images/2026-11-16/society-01.jpg"
+    },
+    {
+      "id": "society-02",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "AI 비서 악용한 '무한 전화 민원' 급증, 공직사회 몸살",
+      "subtitle": "악성 민원 86% 경험, AI 기술 활용한 새로운 형태의 민폐 등장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "86%",
+            "label": "악성 민원 경험"
+          },
+          {
+            "value": "AI 비서",
+            "label": "악용 도구"
+          },
+          {
+            "value": "무한 전화",
+            "label": "민원 행태"
+          }
+        ],
+        "main_number": "민원 증가",
+        "main_text": "AI 기술, 공공 서비스 민원 처리 시스템 위협"
+      },
+      "image_prompt": "cute pastel infographic illustration of a phone icon with an AI symbol, representing endless calls and a frustrated public servant, no text",
+      "detail": {
+        "summary": "챗GPT 등 AI 기술을 활용한 'AI 비서'로 무한 전화 민원을 제기하는 사례가 급증하면서 공직사회가 몸살을 앓고 있다. 국가권익위 조사 결과 공공기관 공직자 86%가 지난 3년간 악성 민원을 경험했으며, AI 악용이 새로운 골칫거리로 떠올랐다.",
+        "points": [
+          "AI 비서를 이용한 무한 전화 민원 급증",
+          "공공기관 공직자 86% 악성 민원 경험",
+          "첨단 기술이 악성 민원의 수단으로 악용",
+          "공공 서비스 마비 및 사회적 비용 증가 우려"
+        ],
+        "quote": "“AI가 인간의 피로를 증폭시키는 새로운 악성 민원 도구가 되고 있다.”",
+        "context": "첨단 기술의 발전은 삶의 편의를 증진시키지만, 동시에 새로운 형태의 사회적 문제와 윤리적 딜레마를 낳기도 한다. AI를 활용한 악성 민원은 공공 서비스의 효율성을 저해하고 사회적 신뢰를 무너뜨릴 수 있어, 기술 윤리와 제도적 대응 마련이 시급하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006410174?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20phone%20icon%20with%20an%20AI%20symbol%2C%20representing%20endless%20calls%20and%20a%20frustrated%20public%20servant%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92691&nologo=true"
+    },
+    {
+      "id": "society-03",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "서울시, 복지·문화·디자인 분야 산하기관 출연금 244억 증액",
+      "subtitle": "서울시복지재단 892억, 문화재단 645억, 디자인재단 386억 등 편성",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "244억",
+            "label": "총 증액"
+          },
+          {
+            "value": "복지",
+            "label": "최대 비중"
+          },
+          {
+            "value": "문화",
+            "label": "핵심 분야"
+          }
+        ],
+        "main_number": "투자 확대",
+        "main_text": "서울시, 시민 삶의 질 향상 위해 투자 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a pie chart showing budget allocation for public services in Seoul (welfare, culture, design), no text",
+      "detail": {
+        "summary": "서울시가 내년 서울시복지재단, 서울문화재단, 서울디자인재단 등 산하기관에 총 244억 원을 증액한 출연금을 편성했다. 이는 '외로움 없는 서울', '어텀페스타' 등 오세훈 시장의 역점 사업을 확대하고 복지·문화·디자인 분야 투자를 강화하려는 의도로 풀이된다.",
+        "points": [
+          "서울시 산하기관 출연금 총 244억 원 증액",
+          "복지재단, 문화재단, 디자인재단 등 예산 확대",
+          "'외로움 없는 서울', '어텀페스타' 등 역점 사업 지원",
+          "시민 삶의 질 향상 및 도시 경쟁력 강화 목표"
+        ],
+        "quote": "“시민의 삶과 직결되는 분야에 대한 투자를 아끼지 않겠다.”",
+        "context": "지방 정부의 예산 편성은 시민들의 삶의 질과 도시의 미래를 결정하는 중요한 요소다. 특히 복지, 문화, 디자인 분야의 투자는 사회적 약자 보호, 문화 향유 기회 확대, 도시 브랜드 가치 제고에 기여하며 지속가능한 도시 발전을 위한 기반이 된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016442881?sid=102"
+      },
+      "image_url": "data/images/2026-11-16/society-03.jpg"
+    },
+    {
+      "id": "life-01",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "process",
-      "title": "김치냉장고 없이 일반 냉장고에 김치 아삭하게 보관하는 법",
-      "subtitle": "온도 편차 최소화 위한 '명당' 자리 선정 및 보관 팁",
+      "viz_type": "list",
+      "title": "시니어 위한 농지 관리 및 절세 전략: 전수조사 시대 대비",
+      "subtitle": "농지 보유자라면 필수! 투기 아닌 경작 목적 관리 중요성 증대",
       "viz_data": {
         "stats": [
           {
-            "value": "최소화",
-            "label": "온도 편차"
+            "value": "전수조사",
+            "label": "강화"
           },
           {
-            "value": "냉장고 안쪽",
-            "label": "최적의 위치"
+            "value": "경작의무",
+            "label": "핵심"
           },
           {
-            "value": "김치통",
-            "label": "밀폐 중요"
+            "value": "절세",
+            "label": "전략"
           }
         ],
-        "main_number": "팁",
-        "main_text": "일반 냉장고 김치 보관, 아삭함 유지의 비결"
+        "main_number": "노후 준비",
+        "main_text": "농지 자산, 체계적 관리로 안정적인 노후 설계"
       },
-      "image_prompt": "cute pastel infographic illustration of a refrigerator with kimchi containers, arrows showing ideal placement for temperature stability, no text",
+      "image_prompt": "cute pastel infographic illustration of a person watering crops in a field with a piggy bank and calculator nearby, symbolizing farm asset management and tax planning for seniors, no text",
       "detail": {
-        "summary": "김치냉장고 없이 일반 냉장고에 김장 김치를 아삭하게 보관하려면 온도 변화를 최소화할 수 있는 '명당' 자리를 찾아야 한다.",
+        "summary": "시니어들이 농지를 단순히 보유 자산으로 생각하기보다 적극적인 관리와 절세 전략을 세워야 할 시점이다. 농지 전수조사 시대에 맞춰 경작 의무 등 법적 요건을 충족하고 다양한 절세 방안을 모색하는 것이 중요해졌다.",
         "points": [
-          "일반 냉장고 문 여닫을 때 온도 편차가 커 김치 품질 저하 우려.",
-          "냉장고 가장 안쪽이나 하단 구석이 온도 변화가 적어 최적의 보관 장소.",
-          "김치통을 최대한 밀폐하고, 공기 접촉을 줄이는 것이 중요.",
-          "김치냉장고가 없는 가정을 위한 실용적인 김치 보관 팁."
+          "농지 전수조사 강화로 관리 중요성 증대",
+          "농지는 경작 목적의 자산으로 인식 필요",
+          "상속·증여·양도 시 절세 전략 필수",
+          "농지법 개정 및 관련 제도 변화 주시"
         ],
-        "quote": "일반 냉장고는 문 여닫을 때 온도 편차 커…가장 안쪽·하단 구석에 보관해야 김치냉장고가 없는 가정에서는 일반 냉장고의 온도 변화를 최소화할 수 있는 ‘명당’ 자리를 찾는 것이 아삭한 김치 맛 사수의 첫걸음이다.",
-        "context": "김치는 한국인의 식탁에서 빼놓을 수 없는 중요한 음식이며, 그 맛을 유지하는 것은 많은 가정의 관심사다. 김치냉장고가 없는 상황에서도 최적의 보관법을 아는 것은 일상생활의 질을 높이는 데 도움이 된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004175137?sid=103"
+        "quote": "“농지는 단순한 땅이 아니라 삶의 터전이자 미래 자산이다.”",
+        "context": "고령화 사회에서 시니어들의 자산 관리는 노후 생활의 질을 결정하는 핵심 요소다. 특히 농지는 복잡한 법적 요건과 세금 규정이 많아 전문가의 조언과 체계적인 계획이 없으면 오히려 부담이 될 수 있다.",
+        "source_url": "https://bravo.etoday.co.kr/view/atc_view/20354"
       },
-      "image_url": "data/images/2026-11-15/life-kimchi-storage-tip.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20watering%20crops%20in%20a%20field%20with%20a%20piggy%20bank%20and%20calculator%20nearby%2C%20symbolizing%20farm%20asset%20management%20and%20tax%20planning%20for%20seniors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87267&nologo=true"
+    },
+    {
+      "id": "life-02",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "comparison",
+      "title": "미래 주거 트렌드: 재건축 용적률 고민보다 라이프스타일 변화 주목",
+      "subtitle": "1~2인 가구 및 유연한 내부 구조 선호, 전면 철거 대신 리모델링 시대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2대+",
+            "label": "세대당 주차"
+          },
+          {
+            "value": "1~2인",
+            "label": "가구 변화"
+          },
+          {
+            "value": "리모델링",
+            "label": "대안 부상"
+          }
+        ],
+        "main_number": "미래 주거",
+        "main_text": "변화하는 라이프스타일에 맞춘 주택 설계의 중요성"
+      },
+      "image_prompt": "cute pastel infographic illustration comparing a traditional apartment building with a modern, flexible smart home, highlighting features like adaptable layouts and smart parking, no text",
+      "detail": {
+        "summary": "30년 뒤 재건축 시 용적률을 걱정하기보다는, 변화하는 라이프스타일에 맞춰 주거 공간이 어떻게 진화할지에 주목해야 한다는 주장이 제기됐다. 세대당 2대 이상의 주차 공간 확보, 1~2인 가구 중심의 유연한 내부 구조, 전면 철거 없는 성능 개선 및 리모델링이 미래 주거의 핵심이 될 것이다.",
+        "points": [
+          "미래 주거, 용적률보다 라이프스타일 변화가 핵심",
+          "세대당 2대 이상 주차 공간 확보 중요성",
+          "1~2인 가구 중심의 유연한 내부 구조 선호",
+          "전면 철거 대신 리모델링 및 성능 개선 강조"
+        ],
+        "quote": "“이제는 건물을 허물기보다 삶에 맞춰 변화시키는 시대가 온다.”",
+        "context": "주택 시장은 인구 구조 변화와 사회적 트렌드에 따라 끊임없이 진화한다. 과거 대가족 중심의 주택 공급에서 벗어나, 개인의 라이프스타일을 반영하고 환경을 고려한 지속가능한 주거 방식에 대한 논의가 활발해지고 있다.",
+        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611042239001870698"
+      },
+      "image_url": "data/images/2026-11-16/life-02.jpg"
+    },
+    {
+      "id": "life-03",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "comparison",
+      "title": "볼보의 친환경 전략: 전기차 EX90 vs 하이브리드 XC90 비교",
+      "subtitle": "가족 구성과 라이프스타일에 따른 최적의 친환경차 선택 가이드",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "EX90",
+            "label": "순수 전기차"
+          },
+          {
+            "value": "XC90",
+            "label": "하이브리드"
+          },
+          {
+            "value": "6/7인승",
+            "label": "선택 가능"
+          }
+        ],
+        "main_number": "친환경 선택",
+        "main_text": "볼보, 지속가능한 모빌리티 솔루션 제시"
+      },
+      "image_prompt": "cute pastel infographic illustration comparing two cars (electric vs hybrid) with features like charging stations and fuel pumps, no text",
+      "detail": {
+        "summary": "볼보가 친환경 미래를 위해 선보인 순수 전기차 EX90과 하이브리드 XC90을 비교하며, 소비자의 가족 구성과 라이프스타일에 따른 최적의 친환경차 선택을 제시한다. 두 모델은 주행 감각과 조작 방식에서 차이가 있으며, 각각의 장점을 가지고 있다.",
+        "points": [
+          "볼보 순수 전기차 EX90 및 하이브리드 XC90 비교",
+          "가족 구성 및 라이프스타일에 따른 선택폭 확대",
+          "EX90은 순수 전기차의 미래 지향적 경험 제공",
+          "XC90은 내연기관과 전동화 기술의 조화"
+        ],
+        "quote": "“환경을 생각하는 동시에 운전의 즐거움도 놓치지 않았다.”",
+        "context": "환경 규제 강화와 소비자들의 친환경 인식 증대로 자동차 산업은 빠르게 전동화되고 있다. 전기차와 하이브리드 차량은 각기 다른 매력을 가지고 있으며, 소비자는 자신의 용도와 가치관에 맞춰 최적의 친환경 모빌리티를 선택하는 것이 중요해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/079/0004209945?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20comparing%20two%20cars%20%28electric%20vs%20hybrid%29%20with%20features%20like%20charging%20stations%20and%20fuel%20pumps%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60035&nologo=true"
     }
   ],
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T06:08:16.965446+09:00"
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T06:08:59.754744+09:00"
 }
