@@ -1,662 +1,621 @@
 {
   "cards": [
     {
-      "id": "tech-headline",
-      "is_headline": true,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "map",
-      "title": "美 제재 뚫은 AI칩, 동남아 경유 중국행 '검은 통로'",
-      "subtitle": "엔비디아 AI 반도체 불법 우회 수출 의혹, 공급망 교란 우려",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "24만개",
-            "label": "AI칩 규모"
-          },
-          {
-            "value": "3개국",
-            "label": "경유국"
-          },
-          {
-            "value": "美 통제",
-            "label": "규제 허점"
-          }
-        ],
-        "main_number": "우회 적발",
-        "main_text": "美 반도체 수출 통제망 '구멍' 드러나"
-      },
-      "image_prompt": "cute pastel infographic illustration of a global map showing a hidden trade route with arrows and AI chip icons, no text",
-      "detail": {
-        "summary": "미국 IT 매체 보도에 따르면 앨리스 황이 친분을 이용해 중국-싱가포르-말레이시아 기업망을 꾸려 엔비디아 AI 반도체 약 24만개를 중국에 불법 반출하거나 원격 사용을 도왔다는 의혹이 제기됐다.",
-        "points": [
-          "앨리스 황, 엔비디아 AI 반도체 24만개 우회 수출 의혹",
-          "중국-싱가포르-말레이시아 기업망 활용",
-          "미국 수출 통제 규정의 허점 드러남",
-          "AI 기술 패권 경쟁 속 공급망 안보 위협"
-        ],
-        "quote": "“규제 허점을 파고든 정교한 우회 네트워크였다.”",
-        "context": "미국이 중국의 첨단 기술 접근을 막기 위해 반도체 수출 통제를 강화하고 있는 가운데, 주요 AI 반도체가 동남아를 경유해 중국으로 흘러들어 가는 정황이 포착돼 국제 기술 안보에 비상이 걸렸다.",
-        "source_url": "https://n.news.naver.com/mnews/article/417/0001164388?sid=101"
-      },
-      "image_url": "data/images/2026-11-16/tech-headline.jpg"
-    },
-    {
-      "id": "world-01",
+      "id": "world-us-china-russia-talks",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "미·중 무역 갈등 완화 시도: 600억 달러 관세 인하 협상 재개",
-      "subtitle": "첨단기술·핵심 광물 갈등 지속 속, 관세·농산물 교역 완화 모색",
+      "viz_type": "map_with_paths",
+      "title": "트럼프, 첫 외교무대서 美中러 3자회담 추진",
+      "subtitle": "중간선거 후 아시아 순방, APEC서 주요국 정상 조우 예상",
       "viz_data": {
         "stats": [
           {
-            "value": "600억달러",
-            "label": "협상 규모"
+            "value": "3국",
+            "label": "참여국"
           },
           {
-            "value": "재가동",
-            "label": "무역위 회의"
+            "value": "APEC",
+            "label": "회담 장소"
           },
           {
-            "value": "농산물",
-            "label": "주요 의제"
+            "value": "레임덕 우려",
+            "label": "정치적 배경"
           }
         ],
-        "main_number": "긍정적 신호",
-        "main_text": "세계 양대 경제대국, 무역 갈등 완화 움직임"
+        "main_number": "첫 외교 무대",
+        "main_text": "트럼프의 대외 존재감 과시 시도"
       },
-      "image_prompt": "cute pastel infographic illustration of two countries' flags (US and China) with trade goods flowing between them, showing a decrease in tariffs, no text",
+      "image_prompt": "cute pastel infographic illustration of a world map with three national flags (USA, China, Russia) connected by lines, with smaller icons of leaders' faces, no text",
       "detail": {
-        "summary": "미국과 중국이 600억 달러 규모의 관세 인하 협상을 재개하며 세계 무역 질서에 긍정적인 영향을 미칠지 주목된다. 양국은 첨단기술 및 핵심 광물 분야 갈등은 이어가면서도 관세와 농산물 교역 완화에 나섰다.",
+        "summary": "트럼프 대통령이 중간선거 패배 후 첫 외교 무대인 아시아 순방에서 미·중·러 3자 정상회담을 추진하며 외교적 반전을 모색하고 있다.",
         "points": [
-          "미·중, 600억 달러 규모 관세 인하 협상 재개",
-          "첨단기술·핵심 광물 갈등은 지속",
-          "관세 및 농산물 교역 분야 완화 논의",
-          "세계 교역 및 금융시장에 긍정적 영향 기대"
+          "중간선거 참패 후 트럼프의 첫 아시아 순방",
+          "APEC 정상회의 계기 미·중·러 3자 정상회담 예정",
+          "북한 김정은 위원장과의 회동 가능성도 언급",
+          "내치 부담 속 외교로 존재감 과시하려는 의도"
         ],
-        "quote": "“정상 간 정치적 합의를 실제 통상정책으로 연결하기 위한 후속 협의.”",
-        "context": "세계 경제를 좌우하는 미국과 중국이 장기화된 무역 갈등을 완화하기 위한 움직임을 보이고 있다. 이는 글로벌 공급망 재편과 세계 경제 회복에 중요한 변수가 될 것으로 전망된다.",
-        "source_url": "https://www.geconomy.co.kr/news/article.html?no=325688"
+        "quote": "'레임덕' 우려 속 외교로 반전 모색",
+        "context": "미국 국내 정치적 입지가 약화된 트럼프가 국제 무대에서 주요 현안에 대한 논의를 주도하며 영향력을 회복하려 시도하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009292537?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20countries%27%20flags%20%28US%20and%20China%29%20with%20trade%20goods%20flowing%20between%20them%2C%20showing%20a%20decrease%20in%20tariffs%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=25808&nologo=true"
+      "image_url": "data/images/2026-11-17/world-us-china-russia-talks.jpg"
     },
     {
-      "id": "world-02",
+      "id": "world-ukraine-nk-russia",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "map",
-      "title": "홍해 물류망 비상: 예멘 밥엘만데브 해협 후티 반군 장악",
-      "subtitle": "세계 핵심 해상 통로 통제권 상실, 페르시아만-홍해 물류 봉쇄 우려",
+      "viz_type": "flow_chart",
+      "title": "젤렌스키, 北 미사일 러 공급 경고…韓 주변국 안보 우려 증폭",
+      "subtitle": "우크라이나 대통령, 국제사회에 대러 압박 및 북한 무기 지원 중단 촉구",
       "viz_data": {
         "stats": [
           {
-            "value": "밥엘만데브",
-            "label": "해협 통제"
+            "value": "북한",
+            "label": "미사일 공급"
           },
           {
-            "value": "후티 반군",
-            "label": "장악 세력"
+            "value": "러시아",
+            "label": "미사일 수령"
           },
           {
-            "value": "세계 최다",
-            "label": "통행량"
+            "value": "한국",
+            "label": "안보 우려"
           }
         ],
-        "main_number": "물류 비상",
-        "main_text": "글로벌 해상 운송로 핵심 지점 불안정 심화"
+        "main_number": "안보 도전",
+        "main_text": "북러 무기 거래, 동아시아 안보에 미치는 영향"
       },
-      "image_prompt": "cute pastel infographic illustration of a world map highlighting the Red Sea and Bab-el-Mandeb Strait, with ship icons and a 'danger' symbol, no text",
+      "image_prompt": "cute pastel infographic illustration of a map showing North Korea, Russia, Ukraine, and South Korea, with arrows indicating missile flow from North Korea to Russia and a warning symbol near South Korea, no text",
       "detail": {
-        "summary": "예멘 정부군이 밥엘만데브 해협에서 철수하면서 후티 반군이 해당 지역을 장악, 홍해 물류망에 비상이 걸렸다. 이는 아시아-유럽을 잇는 세계에서 가장 통행량이 많은 해상 통로의 통제권이 넘어가면서 글로벌 공급망에 심각한 차질을 초래할 수 있다.",
+        "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 북한이 러시아에 더 많은 미사일을 공급하고 있으며, 이는 한국 주변에 도전 과제를 야기한다고 경고했다.",
         "points": [
-          "예멘 정부군, 밥엘만데브 해협 철수",
-          "후티 반군, 핵심 해상 통로 장악",
-          "아시아-유럽 잇는 세계 최다 통행량 해협",
-          "호르무즈 해협과 연계, 양대 물류 봉쇄망 우려"
+          "젤렌스키, 북한의 러시아 미사일 공급 비판",
+          "러시아의 전쟁 지속 의지에 대한 국제사회 인식 촉구",
+          "북러 무기 거래가 한반도 안보에 미칠 영향 우려 제기",
+          "APEC 정상회담 앞두고 주요국에 압박 메시지 전달"
         ],
-        "quote": "“글로벌 교역의 핵심 동맥이 끊길 수 있다는 우려가 커지고 있다.”",
-        "context": "중동 정세 불안이 장기화되면서 홍해를 통한 해상 물류 안전이 위협받고 있다. 밥엘만데브 해협은 수에즈 운하의 남쪽 입구이자 아시아와 유럽을 잇는 중요한 해상 무역로로, 이곳의 불안정은 전 세계 에너지 공급과 상품 운송에 막대한 영향을 미친다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=20261115192607680fda4f5ab74_1"
+        "quote": "전 세계는 러시아가 정직하게 전쟁을 끝내려 하지 않으며 공격을 지속하고 고통을 연장하려 한다는 사실을 알고 있다.",
+        "context": "우크라이나 전쟁 장기화 속에 북러 간 무기 거래가 국제 안보 질서를 위협하고 있으며, 이는 한국을 포함한 동아시아 지역에도 직접적인 영향을 미칠 수 있음을 시사한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012295126?sid=104"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20world%20map%20highlighting%20the%20Red%20Sea%20and%20Bab-el-Mandeb%20Strait%2C%20with%20ship%20icons%20and%20a%20%27danger%27%20symbol%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70834&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20map%20showing%20North%20Korea%2C%20Russia%2C%20Ukraine%2C%20and%20South%20Korea%2C%20with%20arrows%20indicating%20missile%20flow%20from%20North%20Korea%20to%20Russia%20and%20a%20warning%20symbol%20near%20South%20Korea%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22703&nologo=true"
     },
     {
-      "id": "world-03",
+      "id": "world-climate-1.5-degrees",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "美 대형 해상풍력 단지, 정치적 불확실성 뚫고 상업 가동 돌입",
-      "subtitle": "트럼프 행정부 압박에도 불구하고 704MW 규모 해상풍력 발전 개시",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "704MW",
-            "label": "단지 규모"
-          },
-          {
-            "value": "13,500TWh",
-            "label": "잠재력"
-          },
-          {
-            "value": "2016년",
-            "label": "개발 시작"
-          }
-        ],
-        "main_number": "재생에너지 진전",
-        "main_text": "美, 정치적 장벽 넘어 해상풍력 발전 본격화"
-      },
-      "image_prompt": "cute pastel infographic illustration of offshore wind turbines in the ocean, with data points on energy capacity and growth, no text",
-      "detail": {
-        "summary": "미국 대형 해상풍력 단지가 수개월간의 정치적 불확실성과 법정 공방을 뚫고 704MW 규모의 상업 가동에 돌입했다. 이는 트럼프 행정부의 압박으로 개발 속도가 지연되었던 미국 해상풍력 산업에 새로운 활력을 불어넣을 것으로 기대된다.",
-        "points": [
-          "704MW 규모 해상풍력 단지 상업 가동 시작",
-          "수개월간의 정치적 불확실성 및 법정 공방 극복",
-          "트럼프 행정부의 압박으로 개발 지연 경험",
-          "미국 해상풍력 산업의 중요한 전환점"
-        ],
-        "quote": "“미국 해상풍력은 잠자는 거인에서 깨어나고 있다.”",
-        "context": "미국은 세계 최고 수준의 해상풍력 자원 잠재력을 가지고 있음에도 불구하고 정치적 갈등과 규제 문제로 개발 속도가 더뎠다. 이번 대형 단지의 상업 가동은 미국의 재생에너지 전환 목표 달성과 기후 변화 대응에 중요한 의미를 가진다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026111516233829060c8c1c064d_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20offshore%20wind%20turbines%20in%20the%20ocean%2C%20with%20data%20points%20on%20energy%20capacity%20and%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56348&nologo=true"
-    },
-    {
-      "id": "economy-01",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "pie_chart",
-      "title": "교육 교부금 개편, 충청 교육청 재정난 심화 우려",
-      "subtitle": "내국세연동제 폐지 및 새 산식 적용으로 각 시도교육청 재정 압박",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "내국세",
-            "label": "기존 기준"
-          },
-          {
-            "value": "학령인구",
-            "label": "새 기준"
-          },
-          {
-            "value": "재정 압박",
-            "label": "교육청 우려"
-          }
-        ],
-        "main_number": "예산 감소",
-        "main_text": "교부금 산식 변화로 교육 예산 불확실성 증대"
-      },
-      "image_prompt": "cute pastel infographic illustration of a pie chart showing budget allocation changes for education, with a distressed piggy bank icon, no text",
-      "detail": {
-        "summary": "정부의 교육 교부금 개편안으로 충청지역 교육청을 비롯한 시도교육청들의 내년 살림살이가 빠듯해질 전망이다. 기존 내국세연동제가 폐지되고 학령인구 감소율과 경제성장률 등을 반영한 새 산식이 적용되면서 재정 압박이 커졌다.",
-        "points": [
-          "정부 교육 교부금 개편안 추진",
-          "내국세연동제 폐지, 새 산식 적용",
-          "학령인구 감소율 및 경제성장률 반영",
-          "충청 교육청 등 시도교육청 재정 압박 직격탄"
-        ],
-        "quote": "“재정 압박은 결국 미래 세대에 대한 투자 축소로 이어질 수 있다.”",
-        "context": "교육 교부금은 지방 교육 재원의 핵심으로, 그 산정 방식의 변화는 교육 환경 전반에 큰 영향을 미친다. 특히 학령인구 감소와 맞물려 교육의 질 저하 및 지역 간 교육 격차 심화에 대한 우려가 제기되고 있다.",
-        "source_url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240258"
-      },
-      "image_url": "data/images/2026-11-16/economy-01.jpg"
-    },
-    {
-      "id": "economy-02",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "삼성전자, 성과급 격차로 노노 갈등 심화…노조 7개로 늘어",
-      "subtitle": "반도체 7.5억 vs 세트 600만원 격차, 교섭창구 단일화 난항",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "7개",
-            "label": "노조 수"
-          },
-          {
-            "value": "7.5억",
-            "label": "반도체 성과급"
-          },
-          {
-            "value": "600만원",
-            "label": "세트 성과급"
-          }
-        ],
-        "main_number": "성과급 갈등",
-        "main_text": "삼성 내부, 직무별 성과급 차이로 노사 관계 불안정"
-      },
-      "image_prompt": "cute pastel infographic illustration of two contrasting bar charts showing significant differences in bonus payments between two groups of employees, with icons of workers and money, no text",
-      "detail": {
-        "summary": "한때 무노조 경영을 표방했던 삼성전자에 노조가 7개로 늘어나며 '노조공화국'이라는 오명이 붙을 위기에 처했다. 특히 반도체 사업부와 세트 사업부 간 성과급이 각각 7억5000만원과 600만원으로 큰 격차를 보이면서 노노 갈등이 심화되고 있다.",
-        "points": [
-          "삼성전자 노조 7개로 확대, 교섭 난항 예상",
-          "반도체 사업부 성과급 7.5억 vs 세트 사업부 600만원",
-          "성과급 격차로 인한 내부 직원 불만 고조",
-          "단체협상 및 임금협상 시계제로 우려"
-        ],
-        "quote": "“무노조 경영에서 노조 난립, 성과급 격차가 조직 갈등의 불씨가 되고 있다.”",
-        "context": "삼성전자의 성과급 산정 방식과 노조 정책은 국내 기업의 주요 이슈로, 노동 환경 변화와 기업 경영 전략에 대한 논의를 촉발하고 있다. 직무별 성과 차이가 심화될수록 내부 갈등이 커질 수 있어, 합리적인 성과 보상 시스템과 소통 채널 구축이 중요해지고 있다.",
-        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611142234106940064"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20contrasting%20bar%20charts%20showing%20significant%20differences%20in%20bonus%20payments%20between%20two%20groups%20of%20employees%2C%20with%20icons%20of%20workers%20and%20money%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36040&nologo=true"
-    },
-    {
-      "id": "economy-03",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "엔비디아발 충격, 美 증시 반도체주 전반에 매도세 확산",
-      "subtitle": "젠슨 황 사임 불확실성, AI 관련주 전반에 하방 압력",
+      "title": "'1.5도 목표' 사실상 좌절…기후 변화 경고등",
+      "subtitle": "지구 온도 상승, 임계치 넘어 기후 위기 심화 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "엔비디아",
-            "label": "주요 요인"
+            "value": "1.5℃",
+            "label": "온도 상승 목표"
           },
           {
-            "value": "AI 관련주",
-            "label": "영향 범위"
+            "value": "수개월",
+            "label": "임계치 초과 기간"
           },
           {
-            "value": "매도세",
-            "label": "시장 반응"
+            "value": "엘니뇨",
+            "label": "영향 요인"
           }
         ],
-        "main_number": "시장 불안",
-        "main_text": "AI 대장주 불확실성, 기술주 시장 전반에 파동"
+        "main_number": "임계치 초과",
+        "main_text": "파리협정 1.5도 목표 달성 어려움 시사"
       },
-      "image_prompt": "cute pastel infographic illustration of a downward trending line graph representing stock prices, with icons of AI chips and a bear market symbol, no text",
+      "image_prompt": "cute pastel infographic illustration of a globe with a rising temperature line graph, showing critical climate change data, no text",
       "detail": {
-        "summary": "미국 증시에서 엔비디아 발 충격이 확산하며 반도체주 전반에 매도세가 나타났다. 젠슨 황 CEO의 사임 이후 경영진 승계 불확실성이 미국의 대중국 반도체 수출 통제 강화, 정치권 책임 공방 등으로 확대되며 AI 관련주 전반에 하방 압력을 가하고 있다.",
+        "summary": "파리협정의 핵심 목표인 지구 평균 온도 상승 1.5도 제한이 사실상 어렵다는 우려가 커지고 있으며, 올해 몇 달간 이미 이 임계치를 넘어선 것으로 분석된다.",
         "points": [
-          "젠슨 황 CEO 사임 불확실성, 엔비디아 주가 하락",
-          "미국 증시 반도체 및 AI 관련주 매도세 확산",
-          "미·중 반도체 수출 통제 강화 등 복합적 요인",
-          "글로벌 AI 산업 성장세 둔화 우려"
+          "파리협정 '1.5도 목표' 달성 난항 예상",
+          "올해 지구 평균 온도가 임계치 1.5도를 수개월간 초과",
+          "엘니뇨 현상이 지구 온난화 가속화에 영향",
+          "기후 전문가들, '타임머신' 효과 언급하며 경고"
         ],
-        "quote": "“AI 대장주의 불안정은 전체 기술 시장의 투자 심리를 위축시킬 수 있다.”",
-        "context": "엔비디아는 AI 반도체 시장을 선도하는 핵심 기업으로, 경영 불확실성은 AI 산업의 미래 성장 동력과 글로벌 기술 경쟁 구도에 중대한 영향을 미친다. 이는 단순한 기업 이슈를 넘어 경제 전반의 투자 심리와 산업 방향성에 파급 효과를 가져올 수 있다.",
-        "source_url": "https://www.news2day.co.kr/article/20261114500039"
+        "quote": "This El Niño will effectively offer a time machine.",
+        "context": "인류가 직면한 가장 큰 위기 중 하나인 기후 변화가 예상보다 빠르게 진행되고 있으며, 이는 전 세계적인 재앙으로 이어질 수 있어 즉각적인 대응이 요구된다.",
+        "source_url": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html?partner=naver"
       },
-      "image_url": "data/images/2026-11-16/economy-03.jpg"
+      "image_url": "data/images/2026-11-17/world-climate-1.5-degrees.jpg"
     },
     {
-      "id": "tech-04",
+      "id": "economy-gangnam-realestate",
       "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "강남 부동산 1극체제 균열…중소형 빌딩 매매가 13% 하락",
+      "subtitle": "IT·벤처 기업 이탈, 2년 새 중소형 빌딩 매매가 눈에 띄게 감소",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "13%",
+            "label": "매매가 하락률"
+          },
+          {
+            "value": "2년",
+            "label": "하락 기간"
+          },
+          {
+            "value": "IT·벤처",
+            "label": "이탈 기업"
+          }
+        ],
+        "main_number": "탈(脫)강남",
+        "main_text": "임대료 부담에 기업들 강남 이탈 가속화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a line graph showing a decrease in building sales in a city skyline, with small moving trucks indicating companies moving out, no text",
+      "detail": {
+        "summary": "과거 상업용 부동산의 중심이었던 강남의 '1극체제'가 흔들리며, 특히 역삼동 중소형 빌딩 매매가가 2년 새 13% 하락하는 등 IT·벤처 기업의 이탈이 가속화되고 있다.",
+        "points": [
+          "강남 상업용 부동산 매매가 2년 새 13% 하락",
+          "IT·벤처 기업의 임대료 부담으로 인한 강남 이탈",
+          "서울 도심, 성수, 홍대 등으로 상권 다변화",
+          "부동산 시장 변화는 기업 입지 전략에도 영향"
+        ],
+        "quote": "역삼동 이면도로의 중소형 빌딩을 채웠던 정보기술(IT)·벤처기업들이 임대료 부담을 낮추기 위해 상대적으로 저렴한 사무공간으로 이동하는 흐름이 나타나고 있다.",
+        "context": "높은 임대료와 변화하는 비즈니스 환경이 맞물려, 강남 중심의 상업용 부동산 시장 구조가 재편되고 있으며, 이는 서울의 지역 경제 생태계에도 영향을 미칠 것으로 보인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004682881?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20line%20graph%20showing%20a%20decrease%20in%20building%20sales%20in%20a%20city%20skyline%2C%20with%20small%20moving%20trucks%20indicating%20companies%20moving%20out%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=56346&nologo=true"
+    },
+    {
+      "id": "economy-bank-carbon-emission",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "gauge_chart",
+      "title": "은행권 탄소 감축 '빨간불'…금융배출량 목표치 9.3% 초과",
+      "subtitle": "국내 은행, 지난해 목표치보다 1,270만 톤 많은 탄소 배출",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "9.3%",
+            "label": "초과율"
+          },
+          {
+            "value": "1.49억t",
+            "label": "추정 배출량"
+          },
+          {
+            "value": "1.36억t",
+            "label": "목표 배출량"
+          }
+        ],
+        "main_number": "+1,270만t",
+        "main_text": "초과된 금융 배출량"
+      },
+      "image_prompt": "cute pastel infographic illustration of a gauge chart showing a needle in the red zone for carbon emissions, with bank buildings and green leaves in the background, no text",
+      "detail": {
+        "summary": "국내 은행들의 탄소 감축 노력이 목표치에 미달하며, 지난해 금융배출량이 목표치보다 9.3% 초과한 것으로 나타나 환경 경영에 빨간불이 켜졌다.",
+        "points": [
+          "2022년 국내 은행 금융배출량 1억4천910만 톤 추정",
+          "목표치 1억3천640만 톤 대비 1천270만 톤(9.3%) 초과",
+          "기후변화 대응을 위한 금융권의 역할 중요성 부각",
+          "ESG 경영 강화 및 실질적인 탄소 감축 노력 요구"
+        ],
+        "quote": "국내 은행의 금융배출량은 1억4천910만t으로 추정됐다. 목표치인 1억3천640만t보다 1천270만t(9.3%) 많은 수준이다.",
+        "context": "기후 위기 대응이 전 지구적인 과제로 떠오른 가운데, 금융권의 탄소 감축 노력은 단순한 기업의 책임을 넘어 사회 전반의 지속가능성을 위한 핵심 요소로 작용한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016445217?sid=101"
+      },
+      "image_url": "data/images/2026-11-17/economy-bank-carbon-emission.jpg"
+    },
+    {
+      "id": "economy-skon-hungary",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
       "viz_type": "timeline",
-      "title": "세무사 시험 'AI 부정행위' 파장, 국가고시 관리 비상",
-      "subtitle": "초소형 카메라 이용 부정 적발, 여야 재발 방지 촉구",
+      "title": "SK온 헝가리 공장, 2년간 국가지원 배제…정부 간 면담 진행",
+      "subtitle": "환경 문제로 인한 제재, 한국-헝가리 배터리 산업 협력 재조명",
       "viz_data": {
         "stats": [
           {
-            "value": "스마트안경",
-            "label": "부정 도구"
+            "value": "2년",
+            "label": "지원 배제 기간"
           },
           {
-            "value": "수능 D-3",
-            "label": "시험 시점"
+            "value": "헝가리",
+            "label": "투자 지역"
           },
           {
-            "value": "국회 교육위",
-            "label": "대책 논의"
+            "value": "환경 오염",
+            "label": "제재 사유"
           }
         ],
-        "main_number": "AI 윤리 문제",
-        "main_text": "AI 기술 악용, 시험 공정성 심각하게 훼손"
+        "main_number": "배터리 산업",
+        "main_text": "해외 투자 환경 규제 리스크 증가"
       },
-      "image_prompt": "cute pastel infographic illustration of a student wearing smart glasses with AI symbols, attempting to cheat on an exam, no text",
+      "image_prompt": "cute pastel infographic illustration of a map highlighting Hungary and South Korea, with battery factories and policy documents, no text",
       "detail": {
-        "summary": "세무사 자격시험에서 초소형 카메라가 탑재된 스마트안경을 이용한 AI 부정행위가 적발되어 파문이 일고 있다. 수능 D-3일을 앞두고 국회 교육위원회는 긴급 현안 보고를 받으며 국가고시 전반의 재발 방지 대책 마련을 촉구하고 나섰다.",
+        "summary": "SK온 헝가리 공장이 환경 문제로 인해 2년간 국가지원 대상에서 배제되었으며, 한국 정부가 부다페스트에서 헝가리 관계자들과 면담하며 상황을 논의했다.",
         "points": [
-          "세무사 시험 중 초소형 카메라 이용 AI 부정행위 적발",
-          "스마트안경 등 첨단 기기 악용 가능성 대두",
-          "국회 교육위원회, 국가고시 관리 강화 촉구",
-          "AI 시대 시험 공정성 확보 방안 시급"
+          "SK온 헝가리 공장, 환경 이슈로 국가지원 2년간 중단",
+          "한국 정부, 헝가리 경제에너지부 장관 등과 면담",
+          "배터리 공장의 현지 환경 규제 준수 중요성 부각",
+          "해외 진출 기업의 ESG 경영 강화 요구"
         ],
-        "quote": "“첨단 기술이 시험의 공정성을 위협하는 새로운 변수가 되고 있다.”",
-        "context": "AI 기술 발전은 교육 및 시험 환경에도 변화를 가져오고 있으나, 이를 악용한 부정행위는 공정한 경쟁의 기회를 침해하고 사회적 신뢰를 훼손할 수 있다. 효과적인 AI 기술 관리 및 예방 시스템 구축이 시급하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/123/0002394065?sid=100"
+        "quote": "오염을 유발한 사업장에 대한 국가지원 배제 조치가 이뤄졌다.",
+        "context": "글로벌 배터리 산업에서 해외 투자와 환경 규제는 중요한 요소로, 기업들은 현지 사회와의 조화로운 발전을 위해 환경·보건·안전 분야에서 공동의 책임을 이행해야 한다는 목소리가 커지고 있다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=93688"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20student%20wearing%20smart%20glasses%20with%20AI%20symbols%2C%20attempting%20to%20cheat%20on%20an%20exam%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=31561&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20map%20highlighting%20Hungary%20and%20South%20Korea%2C%20with%20battery%20factories%20and%20policy%20documents%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=297&nologo=true"
     },
     {
-      "id": "tech-05",
+      "id": "tech-ai-security-investment",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "pie_chart",
-      "title": "삼성전자, CES 2027서 최고 혁신상 4개 포함 총 19개 수상",
-      "subtitle": "내년 1월 세계 최대 IT 전시회 앞두고 기술 리더십 입증",
+      "viz_type": "bar_chart",
+      "title": "8.7조 해킹 충격! 기업들, AI 보안에 지갑 연다",
+      "subtitle": "바이낸스 대규모 도난 사건 후 사이버 위협 증폭, AI 보안 시장 급성장",
       "viz_data": {
         "stats": [
           {
-            "value": "19개",
-            "label": "총 수상"
+            "value": "8.7조원",
+            "label": "바이낸스 도난액"
           },
           {
-            "value": "4개",
-            "label": "최고 혁신상"
+            "value": "12%",
+            "label": "침해 비용 상승"
           },
           {
-            "value": "2027년 1월",
-            "label": "전시회 예정"
+            "value": "500만$",
+            "label": "평균 침해 비용"
           }
         ],
-        "main_number": "기술 혁신",
-        "main_text": "삼성전자, 가전·IT 분야 혁신 기술력 세계적 인정"
+        "main_number": "8.7조원",
+        "main_text": "대규모 해킹 피해액"
       },
-      "image_prompt": "cute pastel infographic illustration of a trophy with multiple stars, representing innovation awards, and Samsung logo, no text",
+      "image_prompt": "cute pastel infographic illustration of a digital lock with AI brain icon, protecting a vault of money, with a hacker figure in the background, no text",
       "detail": {
-        "summary": "삼성전자가 내년 1월 미국 라스베이거스에서 열리는 세계 최대 전자·정보기술(IT) 전시회 'CES 2027'을 앞두고 최고 혁신상 4개를 포함해 총 19개의 혁신상을 수상했다. 이는 삼성전자의 가전 및 IT 분야 기술 리더십을 세계적으로 입증하는 성과다.",
+        "summary": "바이낸스 거래소의 8조7천억 원 규모 해킹 사건 이후, 사이버 위협이 더욱 복잡해지면서 전 세계 기업들이 인공지능(AI) 기반 보안 솔루션에 투자를 확대하고 있다.",
         "points": [
-          "CES 2027 최고 혁신상 4개 수상",
-          "총 19개의 혁신상 수상 쾌거",
-          "미국소비자기술협회(CTA)로부터 인정",
-          "글로벌 IT 및 가전 시장 기술 선도"
+          "바이낸스, 사회공학 기법과 AI 도구 결합 해킹으로 8조7천억 원 도난",
+          "AI 기술의 사이버 공격 활용 가능성 증가",
+          "전 세계 평균 데이터 침해 비용 12% 상승, 500만 달러 육박",
+          "기업들, AI 기반 보안 솔루션 도입으로 대응 강화"
         ],
-        "quote": "“끊임없는 혁신으로 미래 기술 트렌드를 제시하고 있다.”",
-        "context": "CES 혁신상은 글로벌 기업들의 기술력을 평가하는 중요한 척도다. 삼성전자의 다수 수상은 AI, IoT, 친환경 기술 등 다양한 분야에서 혁신을 지속하고 있음을 보여주며, 한국 기술 기업의 위상을 높이는 데 기여한다.",
-        "source_url": "https://n.news.naver.com/mnews/article/081/0003699570?sid=102"
+        "quote": "암호화폐 거래소 바이낸스는 지난달 사회공학 기법과 손상된 인공지능 도구를 결합한 해킹 공격을 받아 63억 달러(약 8조 4070억 원)를 도난당했다.",
+        "context": "AI 기술의 발전이 사이버 공격의 양상까지 변화시키면서, 기업들은 기존의 보안 시스템으로는 막기 어려운 새로운 위협에 직면하고 있다. 이에 AI를 활용한 능동적인 보안 체계 구축이 필수적인 과제가 되고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202611161849259638fda4f5ab74_1"
       },
-      "image_url": "data/images/2026-11-16/tech-05.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20digital%20lock%20with%20AI%20brain%20icon%2C%20protecting%20a%20vault%20of%20money%2C%20with%20a%20hacker%20figure%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=48756&nologo=true"
     },
     {
-      "id": "tech-06",
+      "id": "tech-ai-energy-consumption",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "timeline",
-      "title": "美 재무장관, 엔비디아 CEO 외부 영입 촉구…기업문화 쇄신 요구",
-      "subtitle": "젠슨 황 스캔들 여파, 반도체 수출 통제 규정 위반 의혹 조사 중",
+      "viz_type": "bar_chart",
+      "title": "AI 시대, 전력 소비 폭증…2030년 데이터센터 전력 2배 이상 증가",
+      "subtitle": "국제에너지기구, AI 확산에 따른 전력 소비량 예측 발표",
       "viz_data": {
         "stats": [
           {
-            "value": "美 재무",
-            "label": "발언 주체"
+            "value": "1.5%",
+            "label": "2024년 전력 소비"
           },
           {
-            "value": "CEO 교체",
-            "label": "요구 사항"
+            "value": "2배+",
+            "label": "2030년 증가량"
           },
           {
-            "value": "수출 통제",
-            "label": "핵심 이슈"
+            "value": "945TWh",
+            "label": "2030년 예상치"
           }
         ],
-        "main_number": "쇄신 압박",
-        "main_text": "엔비디아 내부 문화 및 규제 준수 여부 집중 조사"
+        "main_number": "전력난 우려",
+        "main_text": "AI 성장 가속화, 에너지 인프라 부담 심화"
       },
-      "image_prompt": "cute pastel infographic illustration of a boardroom table with a new person being brought in, symbolizing new leadership for a tech company, no text",
+      "image_prompt": "cute pastel infographic illustration of data centers consuming a lot of electricity, with charts showing a sharp increase in energy usage, no text",
       "detail": {
-        "summary": "베선트 미국 재무장관이 엔비디아의 차기 CEO를 회사 외부에서 영입해야 한다고 촉구하며 기업문화 전반에 대한 대대적인 쇄신을 요구했다. 이는 젠슨 황 전 CEO의 스캔들이 미국의 반도체 수출 통제 규정 위반 의혹으로 확대된 데 따른 것이다.",
+        "summary": "인공지능(AI) 시대가 도래하면서 전력 소비량이 급증하고 있으며, 국제에너지기구(IEA)는 2030년 데이터센터의 전력 소비량이 2024년 대비 두 배 이상 증가할 것으로 전망했다.",
         "points": [
-          "베선트 美 재무장관, 엔비디아 CEO 외부 영입 주장",
-          "기업문화 쇄신 및 규제 준수 여부 집중 조사 요구",
-          "젠슨 황 스캔들, 반도체 수출 통제 위반 의혹으로 확산",
-          "실적 위주 불법 거래 묵인 여부 확인 필요성 제기"
+          "2024년 전 세계 데이터센터 전력 소비량 415테라와트시(TWh)",
+          "2030년에는 945TWh로 두 배 이상 증가 전망",
+          "AI 확산이 데이터센터 전력 소비량 증가의 주된 요인",
+          "반도체 외에 전력 확보가 AI 시대의 핵심 과제로 부상"
         ],
-        "quote": "“엔비디아 내부 문화가 어떤 식으로 작동해왔는지 확인할 필요가 있다.”",
-        "context": "엔비디아는 AI 반도체 시장의 핵심 기업으로, 그 리더십과 기업 윤리는 글로벌 기술 경쟁 및 국가 안보에 직결된다. 이번 사태는 기업의 사회적 책임과 투명한 경영의 중요성을 다시 한번 상기시킨다.",
-        "source_url": "https://n.news.naver.com/mnews/article/029/0003059245?sid=105"
+        "quote": "전 세계 데이터센터 전력 소비량은 2024년 약 415테라와트시(TWh)로 전 세계 전력 소비량의 약 1.5%를 차지했다. 2030년에는 약 945TWh로 두 배 이상 늘어날 전망이다.",
+        "context": "AI 기술의 발전은 산업 전반에 혁신을 가져오지만, 동시에 막대한 컴퓨팅 자원과 전력을 요구한다. 이에 따라 안정적인 전력 공급과 효율적인 에너지 관리 시스템 구축이 AI 시대의 지속가능성을 위한 필수적인 과제가 되었다.",
+        "source_url": "https://www.ziksir.com/news/articleView.html?idxno=153438"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20boardroom%20table%20with%20a%20new%20person%20being%20brought%20in%2C%20symbolizing%20new%20leadership%20for%20a%20tech%20company%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28961&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20data%20centers%20consuming%20a%20lot%20of%20electricity%2C%20with%20charts%20showing%20a%20sharp%20increase%20in%20energy%20usage%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20504&nologo=true"
     },
     {
-      "id": "society-01",
+      "id": "tech-autonomous-robotaxi",
       "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "map_with_icon",
+      "title": "포니아이-토요타, 광저우서 완전 무인 로보택시 상용화 개시",
+      "subtitle": "7세대 bZ4X 로보택시, 중국 광저우에서 자율주행 서비스 시작",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "광저우",
+            "label": "시작 도시"
+          },
+          {
+            "value": "토요타 bZ4X",
+            "label": "차량 모델"
+          },
+          {
+            "value": "7세대",
+            "label": "기술 수준"
+          }
+        ],
+        "main_number": "상용화 성공",
+        "main_text": "자율주행 기술의 실생활 적용 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration of an autonomous robotaxi driving through a city street, with a map pin on Guangzhou, China, no text",
+      "detail": {
+        "summary": "포니아이와 토요타가 공동 개발한 7세대 bZ4X 로보택시를 이용한 완전 무인 상용 서비스가 중국 광저우에서 공식 개시되며 자율주행 기술의 상용화가 확대되고 있다.",
+        "points": [
+          "포니아이와 토요타의 7세대 bZ4X 로보택시 상용화",
+          "중국 광저우에서 완전 무인 서비스 공식 시작",
+          "오랜 협력 통해 자율주행 기술 발전 이뤄내",
+          "미래 모빌리티 시장의 중요한 전환점 마련"
+        ],
+        "quote": "포니아이와 토요타가 공동 개발한 7세대 bZ4X 로보택시를 이용한 완전 무인 상용 서비스를 광저우에서 공식 개시했다고 보도했다.",
+        "context": "자율주행 기술은 운송 산업뿐만 아니라 도시 계획, 물류 등 다양한 분야에 혁신을 가져올 잠재력을 가지고 있으며, 이번 상용화는 기술 발전의 중요한 이정표가 될 것이다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026111705372459812bd56fbc3c_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20an%20autonomous%20robotaxi%20driving%20through%20a%20city%20street%2C%20with%20a%20map%20pin%20on%20Guangzhou%2C%20China%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=72081&nologo=true"
+    },
+    {
+      "id": "society-ai-cheating-headline",
+      "is_headline": true,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "bar_chart",
-      "title": "탈북민 vs 북향민, 용어 변경 둘러싼 사회적 논쟁",
-      "subtitle": "탈북민 정체성 재정의 시도, 좌우 이념 갈등 심화 우려",
+      "title": "AI 커닝 쇼크: 수능 비상, 사회적 파장 확산",
+      "subtitle": "세무사 시험 AI 부정행위에 외신도 주목, 한국 교육 시스템 초비상",
       "viz_data": {
         "stats": [
           {
-            "value": "탈북민",
-            "label": "기존 용어"
+            "value": "1명",
+            "label": "적발 인원"
           },
           {
-            "value": "북향민",
-            "label": "제안 용어"
+            "value": "100%",
+            "label": "커닝 성공률"
           },
           {
-            "value": "좌우 논쟁",
-            "label": "사회적 파장"
+            "value": "수능 임박",
+            "label": "사회적 시점"
           }
         ],
-        "main_number": "용어 논쟁",
-        "main_text": "탈북민 명칭 변경 시도, 남남갈등 부추길 우려"
+        "main_number": "초비상",
+        "main_text": "AI 부정행위로 시험 공정성 전반 위협"
       },
-      "image_prompt": "cute pastel infographic illustration of two speech bubbles representing conflicting terms (탈북민 vs 북향민) with people debating, no text",
+      "image_prompt": "cute pastel infographic illustration of a student secretly using AI on a tablet during an exam, with concerned people in the background, no text",
       "detail": {
-        "summary": "탈북민을 '북향민'으로 명칭을 변경하려는 시도가 정치권을 중심으로 논의되면서 우리 사회의 좌우 이념 논쟁과 남남갈등을 부추긴다는 비판이 일고 있다. '탈북민'은 자유를 찾아 탈북한 사람을 의미하는 반면, '북향민'은 단순히 북한이 고향이라는 의미를 담아 정체성 훼손 논란이 뜨겁다.",
+        "summary": "세무사 시험 수석 합격자가 AI를 활용한 부정행위를 자백하며 한국 사회에 큰 충격을 주었으며, 다가오는 대학수학능력시험에 대한 우려와 함께 외신까지 주목하고 있다.",
         "points": [
-          "통일부 장관, '탈북민' 용어 '북향민'으로 변경 추진",
-          "'탈북민' vs '북향민' 용어의 의미 차이 논란",
-          "탈북민 정체성 훼손 및 남남갈등 심화 우려",
-          "정치적 목적의 용어 변경 시도 비판"
+          "세무사 시험 수석 합격자 AI 커닝 자백으로 사회적 파장",
+          "학업 경쟁이 치열한 한국 사회의 시험 공정성 논란",
+          "대학수학능력시험을 앞두고 교육 당국에 비상등",
+          "외신도 '한국 사회에 충격'으로 보도하며 국제적 관심 증폭"
         ],
-        "quote": "“용어는 단순한 말이 아니라 그 사람들의 삶과 정체성을 담고 있다.”",
-        "context": "탈북민 용어 논쟁은 단순한 언어 문제가 아닌, 이들의 한국 사회 정착 과정과 정체성, 그리고 남북 관계에 대한 관점을 반영한다. 용어 변경이 가져올 사회적 파장과 탈북민들의 목소리에 귀 기울이는 것이 중요하다.",
-        "source_url": "https://www.abcn.kr/news/articleView.html?idxno=94531"
+        "quote": "국가시험 성적이 사회적 이동성과 커리어를 좌우하는 한국 사회에 이번 자백이 엄청난 파장을 일으켰다.",
+        "context": "AI 기술의 발전이 교육 및 시험 시스템의 근본적인 변화를 요구하며, 공정한 평가 기준 마련이 시급한 과제로 떠올랐다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005442027?sid=104"
       },
-      "image_url": "data/images/2026-11-16/society-01.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20student%20secretly%20using%20AI%20on%20a%20tablet%20during%20an%20exam%2C%20with%20concerned%20people%20in%20the%20background%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3384&nologo=true"
     },
     {
-      "id": "society-02",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "AI 비서 악용한 '무한 전화 민원' 급증, 공직사회 몸살",
-      "subtitle": "악성 민원 86% 경험, AI 기술 활용한 새로운 형태의 민폐 등장",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "86%",
-            "label": "악성 민원 경험"
-          },
-          {
-            "value": "AI 비서",
-            "label": "악용 도구"
-          },
-          {
-            "value": "무한 전화",
-            "label": "민원 행태"
-          }
-        ],
-        "main_number": "민원 증가",
-        "main_text": "AI 기술, 공공 서비스 민원 처리 시스템 위협"
-      },
-      "image_prompt": "cute pastel infographic illustration of a phone icon with an AI symbol, representing endless calls and a frustrated public servant, no text",
-      "detail": {
-        "summary": "챗GPT 등 AI 기술을 활용한 'AI 비서'로 무한 전화 민원을 제기하는 사례가 급증하면서 공직사회가 몸살을 앓고 있다. 국가권익위 조사 결과 공공기관 공직자 86%가 지난 3년간 악성 민원을 경험했으며, AI 악용이 새로운 골칫거리로 떠올랐다.",
-        "points": [
-          "AI 비서를 이용한 무한 전화 민원 급증",
-          "공공기관 공직자 86% 악성 민원 경험",
-          "첨단 기술이 악성 민원의 수단으로 악용",
-          "공공 서비스 마비 및 사회적 비용 증가 우려"
-        ],
-        "quote": "“AI가 인간의 피로를 증폭시키는 새로운 악성 민원 도구가 되고 있다.”",
-        "context": "첨단 기술의 발전은 삶의 편의를 증진시키지만, 동시에 새로운 형태의 사회적 문제와 윤리적 딜레마를 낳기도 한다. AI를 활용한 악성 민원은 공공 서비스의 효율성을 저해하고 사회적 신뢰를 무너뜨릴 수 있어, 기술 윤리와 제도적 대응 마련이 시급하다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006410174?sid=102"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20phone%20icon%20with%20an%20AI%20symbol%2C%20representing%20endless%20calls%20and%20a%20frustrated%20public%20servant%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=92691&nologo=true"
-    },
-    {
-      "id": "society-03",
+      "id": "society-ai-impact-on-jobs",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "서울시, 복지·문화·디자인 분야 산하기관 출연금 244억 증액",
-      "subtitle": "서울시복지재단 892억, 문화재단 645억, 디자인재단 386억 등 편성",
+      "title": "AI가 바꾼 직업의 미래…전문직 일자리 위협 심화",
+      "subtitle": "인공지능 발전으로 전문직 자격시험 및 고용 시장 혼란 가중",
       "viz_data": {
         "stats": [
           {
-            "value": "244억",
-            "label": "총 증액"
+            "value": "전문직",
+            "label": "위협 직종"
           },
           {
-            "value": "복지",
-            "label": "최대 비중"
+            "value": "간병인 등",
+            "label": "수요 증가 직종"
           },
           {
-            "value": "문화",
-            "label": "핵심 분야"
+            "value": "AI",
+            "label": "주요 변화 동인"
           }
         ],
-        "main_number": "투자 확대",
-        "main_text": "서울시, 시민 삶의 질 향상 위해 투자 강화"
+        "main_number": "직업 전환",
+        "main_text": "AI로 인한 일자리 지형 변화 심화"
       },
-      "image_prompt": "cute pastel infographic illustration of a pie chart showing budget allocation for public services in Seoul (welfare, culture, design), no text",
+      "image_prompt": "cute pastel infographic illustration of a robot replacing a human professional in an office setting, with a scale showing shifting job demands, no text",
       "detail": {
-        "summary": "서울시가 내년 서울시복지재단, 서울문화재단, 서울디자인재단 등 산하기관에 총 244억 원을 증액한 출연금을 편성했다. 이는 '외로움 없는 서울', '어텀페스타' 등 오세훈 시장의 역점 사업을 확대하고 복지·문화·디자인 분야 투자를 강화하려는 의도로 풀이된다.",
+        "summary": "인공지능(AI)이 전문직의 업무 영역과 자격시험까지 침투하면서 '사짜 직업'이라 불리던 전문직의 입지가 흔들리고, 간병인·사회복지사 등 신체·감정 노동 직업 수요가 증가하는 등 일자리 지형이 변화하고 있다.",
         "points": [
-          "서울시 산하기관 출연금 총 244억 원 증액",
-          "복지재단, 문화재단, 디자인재단 등 예산 확대",
-          "'외로움 없는 서울', '어텀페스타' 등 역점 사업 지원",
-          "시민 삶의 질 향상 및 도시 경쟁력 강화 목표"
+          "AI, 전문직 업무 및 자격시험 영역까지 침투",
+          "변호사, 회계사 등 전문직 일자리 위협 증대",
+          "간병인, 사회복지사 등 인간 노동 필요 직종 수요 증가",
+          "자격시험 관리 및 직업 교육 시스템 개혁 필요성 부각"
         ],
-        "quote": "“시민의 삶과 직결되는 분야에 대한 투자를 아끼지 않겠다.”",
-        "context": "지방 정부의 예산 편성은 시민들의 삶의 질과 도시의 미래를 결정하는 중요한 요소다. 특히 복지, 문화, 디자인 분야의 투자는 사회적 약자 보호, 문화 향유 기회 확대, 도시 브랜드 가치 제고에 기여하며 지속가능한 도시 발전을 위한 기반이 된다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016442881?sid=102"
+        "quote": "AI가 전문직의 업무뿐 아니라 자격시험의 영역까지 파고들면서 자격시험 관리에도 비상이 걸렸다.",
+        "context": "AI 기술 발전은 효율성 증대라는 긍정적 측면과 함께 기존 직업의 소멸 및 새로운 직업의 출현이라는 사회적 변화를 초래한다. 특히 전문직의 경우 AI가 대체할 수 있는 영역이 확대되면서 직업의 본질과 가치에 대한 재정의가 필요해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005764647?sid=101"
       },
-      "image_url": "data/images/2026-11-16/society-03.jpg"
+      "image_url": "data/images/2026-11-17/society-ai-impact-on-jobs.jpg"
     },
     {
-      "id": "life-01",
+      "id": "society-out-of-school-youth",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "venn_diagram",
+      "title": "'학생증 vs 청소년증'…학교 밖 청소년 향한 사회적 편견 조명",
+      "subtitle": "EBS 다큐멘터리, 학교 유무로 청소년 판단하는 사회 시선 비판",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "학생증",
+            "label": "학교 재학생"
+          },
+          {
+            "value": "청소년증",
+            "label": "학교 밖 청소년"
+          },
+          {
+            "value": "EBS",
+            "label": "조명 미디어"
+          }
+        ],
+        "main_number": "편견 해소",
+        "main_text": "다양한 배경의 청소년 포용 필요"
+      },
+      "image_prompt": "cute pastel infographic illustration of two contrasting cards (student ID vs youth ID) and a thinking bubble showing societal judgments, no text",
+      "detail": {
+        "summary": "EBS 다큐멘터리가 학생증과 청소년증의 차이를 통해 학교에 다니는지 여부만으로 청소년을 판단하는 우리 사회의 획일적인 시선과 편견을 조명한다.",
+        "points": [
+          "학교 재학 여부로 청소년의 성실성, 사회성, 미래 가능성 판단",
+          "학교 밖 청소년과 '쉬었음 청년'의 현실과 어려움 부각",
+          "사회적 편견과 획일적인 성장 경로에 대한 비판적 시각",
+          "다양한 배경을 가진 청소년을 포용하는 사회적 인식 변화 촉구"
+        ],
+        "quote": "학교에 다니는지 여부만으로 청소년의 성실성과 사회성, 미래 가능성까지 판단하는 사회적 시선을 돌아보는 다큐멘터리가 방송된다.",
+        "context": "우리 사회는 종종 제도권 교육을 벗어난 청소년들에게 부정적인 시선을 보내며, 이는 이들의 건강한 성장과 사회 구성원으로서의 역할을 제약한다. 청소년의 다양성을 인정하고 포용하는 사회적 분위기 조성이 절실하다.",
+        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=213940"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20two%20contrasting%20cards%20%28student%20ID%20vs%20youth%20ID%29%20and%20a%20thinking%20bubble%20showing%20societal%20judgments%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34112&nologo=true"
+    },
+    {
+      "id": "life-k-lifestyles-export",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "list",
-      "title": "시니어 위한 농지 관리 및 절세 전략: 전수조사 시대 대비",
-      "subtitle": "농지 보유자라면 필수! 투기 아닌 경작 목적 관리 중요성 증대",
+      "viz_type": "bar_chart",
+      "title": "‘K뷰식주’ 해외서 인기 폭발…자동차 수출액 능가하는 新수출 동력",
+      "subtitle": "K-콘텐츠 넘어 K-라이프스타일로 한국 문화 수출 지평 확대",
       "viz_data": {
         "stats": [
           {
-            "value": "전수조사",
-            "label": "강화"
+            "value": "1위",
+            "label": "수출 동력"
           },
           {
-            "value": "경작의무",
-            "label": "핵심"
+            "value": "뷰티, 식음료, 주거",
+            "label": "K-라이프 품목"
           },
           {
-            "value": "절세",
-            "label": "전략"
+            "value": "자동차",
+            "label": "기존 수출품"
           }
         ],
-        "main_number": "노후 준비",
-        "main_text": "농지 자산, 체계적 관리로 안정적인 노후 설계"
+        "main_number": "사상 첫",
+        "main_text": "세 자릿수 실적 기록하며 신 성장 동력 부상"
       },
-      "image_prompt": "cute pastel infographic illustration of a person watering crops in a field with a piggy bank and calculator nearby, symbolizing farm asset management and tax planning for seniors, no text",
+      "image_prompt": "cute pastel infographic illustration of various Korean lifestyle products (cosmetics, food, home decor) being exported globally, with a rising graph, no text",
       "detail": {
-        "summary": "시니어들이 농지를 단순히 보유 자산으로 생각하기보다 적극적인 관리와 절세 전략을 세워야 할 시점이다. 농지 전수조사 시대에 맞춰 경작 의무 등 법적 요건을 충족하고 다양한 절세 방안을 모색하는 것이 중요해졌다.",
+        "summary": "외국인들이 '한국인처럼' 일상을 즐기면서 K-뷰티, K-식음료, K-주거 등 'K뷰식주'가 자동차 수출액을 능가하는 새로운 수출 동력으로 떠오르고 있다.",
         "points": [
-          "농지 전수조사 강화로 관리 중요성 증대",
-          "농지는 경작 목적의 자산으로 인식 필요",
-          "상속·증여·양도 시 절세 전략 필수",
-          "농지법 개정 및 관련 제도 변화 주시"
+          "K-뷰티, K-식음료, K-주거 등 K-라이프스타일 제품 해외 인기",
+          "자동차 수출액보다 높은 실적 기록하며 새로운 수출 동력으로 부상",
+          "중소·중견기업이 K-라이프노믹스 시장 주도",
+          "글로벌 시장에서 '한국적 일상' 경험 수요 증가"
         ],
-        "quote": "“농지는 단순한 땅이 아니라 삶의 터전이자 미래 자산이다.”",
-        "context": "고령화 사회에서 시니어들의 자산 관리는 노후 생활의 질을 결정하는 핵심 요소다. 특히 농지는 복잡한 법적 요건과 세금 규정이 많아 전문가의 조언과 체계적인 계획이 없으면 오히려 부담이 될 수 있다.",
-        "source_url": "https://bravo.etoday.co.kr/view/atc_view/20354"
+        "quote": "‘K라이프노믹스’가 새로운 수출동력으로 떠오르고 있다. 이들 분야는 중소·중견기업이 주도하고 있어 더욱 의미가 크다.",
+        "context": "K-콘텐츠를 통해 한국 문화에 대한 관심이 높아지면서, 한국인의 일상생활과 관련된 제품 및 서비스도 전 세계적인 인기를 얻고 있다. 이는 한국 경제의 수출 포트폴리오를 다변화하고 새로운 성장 기회를 창출하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/020/0003762972?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20person%20watering%20crops%20in%20a%20field%20with%20a%20piggy%20bank%20and%20calculator%20nearby%2C%20symbolizing%20farm%20asset%20management%20and%20tax%20planning%20for%20seniors%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87267&nologo=true"
+      "image_url": "data/images/2026-11-17/life-k-lifestyles-export.jpg"
     },
     {
-      "id": "life-02",
+      "id": "life-senior-market-investment",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "comparison",
-      "title": "미래 주거 트렌드: 재건축 용적률 고민보다 라이프스타일 변화 주목",
-      "subtitle": "1~2인 가구 및 유연한 내부 구조 선호, 전면 철거 대신 리모델링 시대",
+      "viz_type": "bar_chart",
+      "title": "삼성생명, 4,700억 투자로 시니어 시장 공략 본격화",
+      "subtitle": "고령화 사회 대응, 주거·요양사업 확대 승부수",
       "viz_data": {
         "stats": [
           {
-            "value": "2대+",
-            "label": "세대당 주차"
+            "value": "4,700억",
+            "label": "투자 규모"
           },
           {
-            "value": "1~2인",
-            "label": "가구 변화"
+            "value": "시니어 시장",
+            "label": "주요 타겟"
           },
           {
-            "value": "리모델링",
-            "label": "대안 부상"
+            "value": "삼성노블라이프",
+            "label": "전담 자회사"
           }
         ],
-        "main_number": "미래 주거",
-        "main_text": "변화하는 라이프스타일에 맞춘 주택 설계의 중요성"
+        "main_number": "고령화 대비",
+        "main_text": "시니어 케어 시장의 성장 잠재력 주목"
       },
-      "image_prompt": "cute pastel infographic illustration comparing a traditional apartment building with a modern, flexible smart home, highlighting features like adaptable layouts and smart parking, no text",
+      "image_prompt": "cute pastel infographic illustration of elderly people enjoying various activities in a senior living facility, with stacked coins representing investment, no text",
       "detail": {
-        "summary": "30년 뒤 재건축 시 용적률을 걱정하기보다는, 변화하는 라이프스타일에 맞춰 주거 공간이 어떻게 진화할지에 주목해야 한다는 주장이 제기됐다. 세대당 2대 이상의 주차 공간 확보, 1~2인 가구 중심의 유연한 내부 구조, 전면 철거 없는 성능 개선 및 리모델링이 미래 주거의 핵심이 될 것이다.",
+        "summary": "삼성생명이 고령화 시대에 맞춰 시니어 사업 전담 자회사인 삼성노블라이프에 4,700억 원을 투입하며 주거·요양사업을 확대, 시니어 시장 공략에 본격적인 승부수를 던졌다.",
         "points": [
-          "미래 주거, 용적률보다 라이프스타일 변화가 핵심",
-          "세대당 2대 이상 주차 공간 확보 중요성",
-          "1~2인 가구 중심의 유연한 내부 구조 선호",
-          "전면 철거 대신 리모델링 및 성능 개선 강조"
+          "삼성생명, 삼성노블라이프에 4,700억 원 투자",
+          "주거·요양사업 확대를 통한 시니어 시장 선점 목표",
+          "빠르게 진행되는 고령화 사회에 대응하는 전략",
+          "금융권의 시니어 비즈니스 확대 트렌드 반영"
         ],
-        "quote": "“이제는 건물을 허물기보다 삶에 맞춰 변화시키는 시대가 온다.”",
-        "context": "주택 시장은 인구 구조 변화와 사회적 트렌드에 따라 끊임없이 진화한다. 과거 대가족 중심의 주택 공급에서 벗어나, 개인의 라이프스타일을 반영하고 환경을 고려한 지속가능한 주거 방식에 대한 논의가 활발해지고 있다.",
-        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611042239001870698"
+        "quote": "시니어 사업 전담 자회사 삼성노블라이프에 4700억원을 투입하고 주거·요양사업 확대에 속도를 내고 있다.",
+        "context": "한국 사회의 초고령화는 피할 수 없는 현실이 되었고, 이는 시니어 케어 및 관련 산업의 폭발적인 성장을 예고한다. 기업들은 이에 선제적으로 대응하여 새로운 비즈니스 기회를 창출하려 노력하고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202611161527144254e30fcb1ba8_1"
       },
-      "image_url": "data/images/2026-11-16/life-02.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20elderly%20people%20enjoying%20various%20activities%20in%20a%20senior%20living%20facility%2C%20with%20stacked%20coins%20representing%20investment%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26127&nologo=true"
     },
     {
-      "id": "life-03",
+      "id": "life-student-career-preference",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "comparison",
-      "title": "볼보의 친환경 전략: 전기차 EX90 vs 하이브리드 XC90 비교",
-      "subtitle": "가족 구성과 라이프스타일에 따른 최적의 친환경차 선택 가이드",
+      "viz_type": "bar_chart",
+      "title": "대학생 취업 선호도 1위 '급여', '삼전닉스' 양강 구도 굳건",
+      "subtitle": "삼성전자·SK하이닉스 여전히 인기, 구글코리아·한국전력 등 뒤이어",
       "viz_data": {
         "stats": [
           {
-            "value": "EX90",
-            "label": "순수 전기차"
+            "value": "1위",
+            "label": "급여/복지"
           },
           {
-            "value": "XC90",
-            "label": "하이브리드"
+            "value": "삼성전자",
+            "label": "최선호 대기업"
           },
           {
-            "value": "6/7인승",
-            "label": "선택 가능"
+            "value": "구글코리아",
+            "label": "최선호 외국계"
           }
         ],
-        "main_number": "친환경 선택",
-        "main_text": "볼보, 지속가능한 모빌리티 솔루션 제시"
+        "main_number": "2026년",
+        "main_text": "대학생 취업 선호도 조사 결과"
       },
-      "image_prompt": "cute pastel infographic illustration comparing two cars (electric vs hybrid) with features like charging stations and fuel pumps, no text",
+      "image_prompt": "cute pastel infographic illustration of a student thinking about career paths, with company logos (Samsung, SK Hynix, Google, KEPCO) and bar charts representing preference, no text",
       "detail": {
-        "summary": "볼보가 친환경 미래를 위해 선보인 순수 전기차 EX90과 하이브리드 XC90을 비교하며, 소비자의 가족 구성과 라이프스타일에 따른 최적의 친환경차 선택을 제시한다. 두 모델은 주행 감각과 조작 방식에서 차이가 있으며, 각각의 장점을 가지고 있다.",
+        "summary": "대학생 취업 선호도 조사에서 '급여 수준 및 복리후생'이 1위를 차지했으며, 대기업 중에서는 삼성전자와 SK하이닉스가, 외국계에서는 구글코리아가, 공공기관에서는 한국전력이 각각 선두를 지켰다.",
         "points": [
-          "볼보 순수 전기차 EX90 및 하이브리드 XC90 비교",
-          "가족 구성 및 라이프스타일에 따른 선택폭 확대",
-          "EX90은 순수 전기차의 미래 지향적 경험 제공",
-          "XC90은 내연기관과 전동화 기술의 조화"
+          "급여 및 복리후생이 직장 선택의 가장 중요한 기준",
+          "삼성전자와 SK하이닉스가 대학생이 가장 선호하는 대기업",
+          "구글코리아가 외국계 기업 중 선호도 1위",
+          "한국전력공사가 공공기관 부문 최고 선호도 기록"
         ],
-        "quote": "“환경을 생각하는 동시에 운전의 즐거움도 놓치지 않았다.”",
-        "context": "환경 규제 강화와 소비자들의 친환경 인식 증대로 자동차 산업은 빠르게 전동화되고 있다. 전기차와 하이브리드 차량은 각기 다른 매력을 가지고 있으며, 소비자는 자신의 용도와 가치관에 맞춰 최적의 친환경 모빌리티를 선택하는 것이 중요해지고 있다.",
-        "source_url": "https://n.news.naver.com/mnews/article/079/0004209945?sid=103"
+        "quote": "급여 관련 항목은 2024년과 2025년에 이어 올해도 직장 선택 기준 1위를 차지했다.",
+        "context": "청년층의 고용 불안정과 경제적 어려움이 지속되면서, 직장을 선택하는 데 있어 안정적인 급여와 복리후생이 가장 중요한 요소로 작용하고 있음을 보여준다. 이는 기업들이 인재 유치를 위해 고려해야 할 핵심 요소다.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=600286"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20comparing%20two%20cars%20%28electric%20vs%20hybrid%29%20with%20features%20like%20charging%20stations%20and%20fuel%20pumps%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60035&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20student%20thinking%20about%20career%20paths%2C%20with%20company%20logos%20%28Samsung%2C%20SK%20Hynix%2C%20Google%2C%20KEPCO%29%20and%20bar%20charts%20representing%20preference%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36502&nologo=true"
     }
   ],
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T06:08:59.754744+09:00"
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T06:11:11.601484+09:00"
 }
