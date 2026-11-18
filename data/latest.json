@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-0",
-      "is_headline": false,
+      "id": "world-01",
+      "is_headline": true,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "timeline",
-      "title": "미중러 정상회담, '얄타 체제' 소환?",
-      "subtitle": "APEC 계기 3국 정상회담 가능성, 국제 질서 변화 주목",
+      "title": "한-중 FTA 후속협상 8년 8개월 만에 타결",
+      "subtitle": "서비스·투자 협상 실질적 타결, 경제 및 문화 교류 확대 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "8년 8개월",
+            "label": "협상 기간"
+          },
+          {
+            "value": "35주년",
+            "label": "수교 기념"
+          },
+          {
+            "value": "단계적",
+            "label": "교류 확대"
+          }
+        ],
+        "main_number": "✅",
+        "main_text": "오랜 협상 끝에 새로운 경제 협력 시대 개막"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, two hands shaking over a globe with flags of Korea and China",
+      "detail": {
+        "summary": "한국과 중국이 자유무역협정(FTA) 서비스·투자 후속협상을 8년 8개월 만에 실질적으로 타결하며 경제 및 문화 교류 확대를 위한 중요한 발판을 마련했습니다.",
+        "points": [
+          "이재명 대통령과 시진핑 주석 정상회담서 합의",
+          "한중 FTA 서비스·투자 분야 협상 타결",
+          "중국 내 한한령 완화 기대",
+          "문화·콘텐츠 교류 단계적 확대 합의"
+        ],
+        "quote": "내년 수교 35주년을 관계 발전의 새 동력으로 삼자",
+        "context": "양국 간 경제 협력을 심화하고, 그동안 제약이 있었던 문화 교류를 활성화하여 새로운 관계 전환의 계기를 마련했다는 점에서 의미가 큽니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004176368?sid=100"
+      },
+      "image_url": "data/images/2026-11-19/world-01.jpg"
+    },
+    {
+      "id": "world-02",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "유럽 경제 강대국, 저성장과 재정 위기 직면",
+      "subtitle": "프랑스, 독일, 영국 장기적 경제·사회 시스템 문제 추적",
       "viz_data": {
         "stats": [
           {
             "value": "3국",
-            "label": "참여국"
+            "label": "주요 위기국"
           },
           {
-            "value": "1945년",
-            "label": "얄타회담"
+            "value": "장기적",
+            "label": "저성장"
           },
           {
-            "value": "2026년",
-            "label": "APEC"
+            "value": "복합적",
+            "label": "위기 유형"
           }
         ],
-        "main_number": "새로운",
-        "main_text": "강대국 체제 예고"
+        "main_number": "↓",
+        "main_text": "한때 세계 경제 주도, 지금은 복합 위기"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, three European country flags with downward trend arrows",
       "detail": {
-        "summary": "APEC 정상회의를 계기로 미중러 3국 정상회담 가능성이 제기되며, 제2차 세계대전 후 '얄타회담'에 비견되는 새로운 국제 질서 재편에 대한 관심이 증폭되고 있습니다.",
+        "summary": "프랑스, 독일, 영국 등 유럽 주요 경제 강대국들이 장기적인 저성장, 재정 부담, 산업 경쟁력 약화, 주거난 등 복합적인 경제·사회 시스템 위기에 직면했습니다.",
         "points": [
-          "APEC 정상회의에서 미중러 3국 정상회담 논의",
-          "1945년 얄타회담 이후 강대국 간 국제정치 상징",
-          "강대국 중심의 새로운 국제 질서 재편 가능성",
-          "세계 정치·외교 지형의 중대한 변화 예고"
+          "프랑스: 최고 복지제도의 재정적 한계",
+          "독일: 제조업 경쟁력 약화 및 탈탄소 전환 부담",
+          "영국: 브렉시트 후유증 및 공공 서비스 마비",
+          "고령화, 낮은 생산성, 일자리 불안 등이 주요 원인"
         ],
-        "quote": "얄타회담은 이후 강대국들이 약소국의 운명을 좌우하는 국제정치의 비정(非情)한 상징으로 남았다.",
-        "context": "중국 선전에서 열리는 APEC 정상회의를 계기로 트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령이 3국 정상회담을 할 가능성이 언급되면서, 과거 얄타회담과 같은 강대국 중심의 국제 질서 재편 우려가 제기되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016447760?sid=104"
+        "quote": "병든 거인, 위기의 유럽",
+        "context": "세계 경제를 주도했던 유럽의 대표적인 강대국들이 겪는 구조적 문제는 전 세계 경제에도 영향을 미칠 수 있으며, 해결책 모색이 시급합니다.",
+        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=214053"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=95538&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20three%20European%20country%20flags%20with%20downward%20trend%20arrows%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=2742&nologo=true"
     },
     {
-      "id": "world-1",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "pie_chart",
-      "title": "인도네시아, 광업 수익 70% 국가 귀속 추진",
-      "subtitle": "중국 니켈 투자자 초긴장, 글로벌 자원 확보 전략 변화 예상",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "70%",
-            "label": "국가 귀속"
-          },
-          {
-            "value": "니켈",
-            "label": "주요 광물"
-          },
-          {
-            "value": "中",
-            "label": "주요 투자국"
-          }
-        ],
-        "main_number": "새로운",
-        "main_text": "자원 민족주의 강화"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "인도네시아가 광업 채굴 수익의 70%를 국가에 귀속시키는 정책을 추진하면서, 중국 니켈 투자자들이 긴장하고 글로벌 원자재 시장에 파급효과가 예상됩니다.",
-        "points": [
-          "인도네시아, 광업 수익 70% 국가 귀속 추진",
-          "중국 니켈 투자자들의 사업 불확실성 증대",
-          "인도네시아 정부의 자원 주권 강화 의지",
-          "글로벌 원자재 공급망 및 투자 전략 변화 초래"
-        ],
-        "quote": "이번 발표가 외국 투자자들과의 협상에서 인도네시아 정부의 입지를 강화하는 정치적 지렛대가 될 것이다.",
-        "context": "세계 최대 니켈 생산국인 인도네시아가 광업 채굴 수익 중 70%를 국가에 귀속시키려는 움직임을 보이면서, 주요 투자국인 중국 기업들이 촉각을 곤두세우고 있습니다. 이는 자원 민족주의 강화와 함께 국제 원자재 시장의 공급망에 큰 영향을 미칠 것으로 보입니다.",
-        "source_url": "https://www.g-enews.com/view.php?ud=2026111718063924560c8c1c064d_1"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38245&nologo=true"
-    },
-    {
-      "id": "world-2",
+      "id": "world-03",
       "is_headline": false,
       "category": "world",
       "category_label": "🌍 국제",
       "viz_type": "map",
-      "title": "시진핑, 중남미 300억 원 지원 및 AI 협력",
-      "subtitle": "미국의 영향력 견제, 자원 및 기술 협력 강화로 국제 판세 변화 모색",
+      "title": "애플의 '탈중국' 전략, 인도 생산 전환의 난관",
+      "subtitle": "아이폰 생산 25% 인도 이전 계획, 품질 및 시스템 문제 발생",
       "viz_data": {
         "stats": [
           {
-            "value": "300억+",
-            "label": "지원금"
+            "value": "25%",
+            "label": "인도 생산 목표"
           },
           {
-            "value": "AI·첨단기술",
-            "label": "협력 분야"
+            "value": "11월 18일",
+            "label": "전산망 마비"
           },
           {
-            "value": "칠레",
-            "label": "주요 협력국"
+            "value": "탈중국",
+            "label": "핵심 전략"
           }
         ],
-        "main_number": "확장",
-        "main_text": "중국의 글로벌 영향력"
+        "main_number": "🏭🇮🇳",
+        "main_text": "인도 생산 전환 과정에서 드러난 문제점들"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a factory icon on India on a world map, with broken phone icons",
       "detail": {
-        "summary": "시진핑 중국 국가주석이 중남미 국가에 300억 원 이상을 지원하고 AI 등 첨단기술 협력을 강화하며 미국의 영향력 견제 및 자원 확보에 나섰습니다.",
+        "summary": "애플이 미·중 갈등 속에서 아이폰 생산의 25%를 인도로 옮기려는 '탈중국' 전략을 추진 중이지만, 현지 공장 참사, 전산망 마비 등 난관에 부딪히고 있습니다.",
         "points": [
-          "시진핑 주석, 중남미 300억 원 이상 지원 계획 발표",
-          "AI 및 첨단기술 협력 강화로 영향력 확대",
-          "세계 최대 구리 매장량 보유한 칠레와 협력 강화",
-          "미국 중심의 글로벌 공급망 경쟁에 새로운 판도 제시"
+          "아이폰 생산량 25% 인도 이전 계획",
+          "인도 공장 품질 문제 발생 및 참사",
+          "전 세계 애플스토어 전산망 마비",
+          "터너스 체제 리더십에 대한 의구심 증폭"
         ],
-        "quote": "중국이 칠레와 AI 및 첨단기술 협력을 강화하려는 움직임은 미국의 영향력을 견제하려는 의도이다.",
-        "context": "시진핑 주석은 중남미 순방을 통해 막대한 경제적 지원을 약속하고, 특히 AI 및 첨단기술 분야에서 칠레 등과 협력을 확대하며 미국의 견제를 넘어설 전략을 추진하고 있습니다. 이는 친환경 산업 필수 자원 확보와 함께 글로벌 기술 패권 경쟁의 일환으로 해석됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/016/0002724803?sid=104"
+        "quote": "양적 팽창에 가려진 질적 역량 문제",
+        "context": "글로벌 공급망 재편의 상징적인 사례로 주목받았던 애플의 인도 생산 전환이 초반부터 심각한 문제에 직면하며, 전략의 실효성에 대한 의문이 제기되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002249130?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22712&nologo=true"
+      "image_url": "data/images/2026-11-19/world-03.jpg"
     },
     {
-      "id": "economy-0",
+      "id": "economy-01",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "bar_chart",
-      "title": "내년 LNG선 85척 발주 예상, K조선 수주 잭팟 기대",
-      "subtitle": "호르무즈 해협 통항 문제로 미국산 LNG 운송량 증가 전망",
+      "title": "한국 제조업의 'K자형 양극화' 심화",
+      "subtitle": "반도체 호황 속 전통 제조업은 적자·저수익 고전",
       "viz_data": {
         "stats": [
           {
-            "value": "85척",
-            "label": "내년 발주"
+            "value": "⬆️",
+            "label": "반도체"
           },
           {
-            "value": "75척",
-            "label": "올해 1~10월"
+            "value": "⬇️",
+            "label": "석유화학/철강"
           },
           {
-            "value": "미국산",
-            "label": "LNG 물량 증가"
+            "value": "K자형",
+            "label": "양극화"
           }
         ],
-        "main_number": "+13%",
-        "main_text": "발주량 전년 대비 증가 예상"
+        "main_number": "+",
+        "main_text": "핵심 산업 간 성장률 격차 심화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a graph showing one line going up (chip) and another going down (traditional industries)",
       "detail": {
-        "summary": "내년 전 세계 LNG선 발주가 올해 대비 증가한 85척에 이를 것으로 예상되며, 한국 조선업계가 수주 '잭팟'을 터뜨릴 것으로 기대됩니다.",
+        "summary": "한국 제조업에서 반도체 산업은 역대급 호황을 누리는 반면, 석유화학, 철강 등 전통 제조업은 적자와 저수익에 시달리며 'K자형 양극화'가 심화되고 있습니다.",
         "points": [
-          "2027년 LNG선 발주량 약 85척으로 예측",
-          "호르무즈 해협 문제로 미국산 LNG 운송 수요 증가",
-          "한국 조선사들의 높은 기술력과 경쟁력 부각",
-          "글로벌 LNG 운송 시장의 성장세 지속"
+          "반도체 산업의 고성장이 한국 경제 성장 견인",
+          "석유화학, 철강 등 전통 제조업은 부진",
+          "생산성 개선 및 고부가가치 사업 전환 시급",
+          "한국 제조업 경쟁력 강화를 위한 과제 대두"
         ],
-        "quote": "호르무즈 해협 통항 문제로 카타르산 LNG 공급에 차질이 생기면서 미국에서 아시아로 향하는 LNG 물량이 늘고 있다.",
-        "context": "중동 불안정으로 인한 호르무즈 해협의 통항 불확실성이 커지면서 카타르산 LNG 대신 미국산 LNG의 운송 수요가 증가하고 있습니다. 이는 원거리 운송에 필요한 대형 LNG선 발주로 이어져 한국 조선업계에 큰 기회가 될 것으로 분석됩니다.",
-        "source_url": "https://www.ziksir.com/news/articleView.html?idxno=153611"
+        "quote": "한국 제조업의 경쟁력을 높이는 것이 시급",
+        "context": "특정 산업에 대한 의존도가 높아지면서 산업 전반의 안정성이 저해될 수 있다는 우려가 커지고 있으며, 이는 장기적인 경제 성장에 부정적인 영향을 미칠 수 있습니다.",
+        "source_url": "https://news.ifm.kr/news/articleView.html?idxno=484804"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94324&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20graph%20showing%20one%20line%20going%20up%20%28chip%29%20and%20another%20going%20down%20%28traditional%20industries%29%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=54403&nologo=true"
     },
     {
-      "id": "economy-1",
+      "id": "economy-02",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "pie_chart",
-      "title": "삼성전자, 5대 고객사 매출 비중 24%…'큰손' 의존도 심화",
-      "subtitle": "AI 반도체 호황으로 대형 고객사 집중, 실적 변동성 우려 증대",
+      "title": "중기부, 재도전기업에 600억 원 추가 지원",
+      "subtitle": "사업 실패 경험을 성장의 밑거름 삼아 재창업 환경 개선",
       "viz_data": {
         "stats": [
           {
-            "value": "24%",
-            "label": "5대 고객사"
+            "value": "600억",
+            "label": "추가 지원금"
           },
           {
-            "value": "10%p",
-            "label": "매출 비중 상승"
+            "value": "재창업",
+            "label": "지원 대상"
           },
           {
-            "value": "AI 반도체",
-            "label": "주요 원인"
+            "value": "긍정적",
+            "label": "인식 확산"
           }
         ],
-        "main_number": "집중",
-        "main_text": "대형 고객사 전략"
+        "main_number": "📈",
+        "main_text": "재도전 기업의 성공을 위한 제도적 지원 강화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a person climbing a ladder with 'Re-startup' written on it, with money bags around",
       "detail": {
-        "summary": "삼성전자의 올해 1~9월 누적 매출에서 상위 5대 고객사 비중이 24%에 달하며 '큰손' 의존도가 심화되고 있어 실적 변동성에 대한 우려가 커지고 있습니다.",
+        "summary": "중소벤처기업부가 과거 사업 실패 경험을 가진 재도전기업에 600억 원을 추가 지원하여 재창업 환경을 개선하고 긍정적인 사회적 인식을 확산하기로 했습니다.",
         "points": [
-          "올해 1~9월 누적 5대 고객사 매출 비중 24%",
-          "지난해 대비 10%p 상승하며 의존도 심화",
-          "AI 반도체 호황으로 대형 고객사 집중 가속화",
-          "매출 쏠림 현상으로 인한 실적 변동성 확대 우려"
+          "실패 경험을 통한 성장 잠재력 인정",
+          "부정적 인식 개선을 위한 자금 지원",
+          "재창업 친화적 환경 조성",
+          "경제적·문화적 어려움 해소 목표"
         ],
-        "quote": "매출 쏠림에 실적 변동성 커질 수도",
-        "context": "AI 반도체 호황으로 인해 대형 고객사와의 거래가 집중되면서 삼성전자의 매출에서 특정 고객사들이 차지하는 비중이 크게 늘었습니다. 이는 단기적으로 실적 개선에 긍정적이지만, 장기적으로는 이들 고객사와의 관계나 시장 상황 변화에 따라 실적 변동성이 커질 수 있다는 분석이 나옵니다.",
-        "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171455311310479"
+        "quote": "실패는 성공의 어머니",
+        "context": "재도전 기업은 과거의 경험을 통해 혁신적 아이디어를 가질 수 있음에도 불구하고, 실패에 대한 사회적 낙인으로 어려움을 겪는 경우가 많아 정부 지원이 중요합니다.",
+        "source_url": "https://www.m-i.kr/news/articleView.html?idxno=2020327"
       },
-      "image_url": "data/images/2026-11-18/economy-1.jpg"
+      "image_url": "data/images/2026-11-19/economy-02.jpg"
     },
     {
-      "id": "economy-2",
-      "is_headline": true,
+      "id": "economy-03",
+      "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "ranking",
-      "title": "한국, 세계 4번째 수출 1조 달러 초읽기",
-      "subtitle": "80년 만에 수출 규모 5만배 성장, 글로벌 무역 강국으로 도약",
+      "viz_type": "comparison",
+      "title": "바이오 CDMO 시장, '생산력 경쟁' 격화",
+      "subtitle": "롯데바이오 가세로 삼성바이오, 셀트리온과 3파전 심화",
       "viz_data": {
         "stats": [
           {
-            "value": "4번째",
-            "label": "세계 기록"
+            "value": "3사",
+            "label": "주요 경쟁사"
           },
           {
-            "value": "1조 달러",
-            "label": "수출 목표"
+            "value": "규모의 경제",
+            "label": "핵심 요소"
           },
           {
-            "value": "5만배+",
-            "label": "성장 (80년)"
+            "value": "2027년",
+            "label": "롯데바이오 매출 인식"
           }
         ],
-        "main_number": "역대급",
-        "main_text": "수출 대국 위상 확립"
+        "main_number": "🔥",
+        "main_text": "바이오 의약품 위탁개발생산 시장 경쟁 고조"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, three factory icons with different logos competing on a track",
       "detail": {
-        "summary": "한국이 미국, 독일, 중국에 이어 세계 4번째로 수출 1조 달러 달성을 눈앞에 두고 있습니다. 정부 수립 후 80년 만에 수출 규모가 5만배 이상 성장하며 무역 대국으로 우뚝 섰습니다.",
+        "summary": "롯데바이오로직스가 바이오 의약품 위탁개발생산(CDMO) 시장에 본격 가세하며 삼성바이오로직스, 셀트리온 등 기존 강자들과의 생산력 경쟁이 한층 치열해질 전망입니다.",
         "points": [
-          "미국·독일·중국 이은 세계 4번째 수출 1조 달러 달성 기대",
-          "1948년 대비 80년 만에 수출 규모 5만배 이상 성장",
-          "반도체 등 첨단산업 주도형 경제 체제 정점",
-          "글로벌 무역 및 경제안보 핵심 국가로 위상 강화"
+          "롯데바이오, 2027년부터 매출 인식 전망",
+          "대형 CDMO는 '규모의 경제' 구축",
+          "후발주자는 고객 맞춤형 전략",
+          "글로벌 의약품 시장 성장에 따른 CDMO 수요 증가"
         ],
-        "quote": "단순히 물량만 늘어난 것이 아니라 최상위권의 기술 주도형 경제 체제가 정점을 찍은 기념비적 성과",
-        "context": "한국이 수출 1조 달러 달성을 눈앞에 두면서 세계 4위 수출국으로 도약할 것으로 보입니다. 이는 정부 수립 이후 꾸준한 성장을 통해 이룬 기념비적인 성과로, 특히 반도체 등 첨단 기술 산업이 성장을 견인하며 명실상부한 수출 대국으로서의 위상을 확립하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/001/0016447756?sid=101"
+        "quote": "글로벌 바이오의약품 시장의 성장세",
+        "context": "글로벌 바이오 의약품 시장이 성장하면서 위탁생산 수요가 증가하고 있으며, 경쟁사들은 생산 설비 확충과 기술력 확보를 통해 시장 주도권을 확보하려 하고 있습니다.",
+        "source_url": "https://www.monews.co.kr/news/articleView.html?idxno=415592"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65563&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20three%20factory%20icons%20with%20different%20logos%20competing%20on%20a%20track%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74239&nologo=true"
     },
     {
-      "id": "tech-0",
+      "id": "tech-01",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "timeline",
-      "title": "삼성·LG, 휴머노이드 로봇 사업화 채비",
-      "subtitle": "CES 2027서 기술 진전 주목, AI 학습 데이터 및 정교한 제어 기술 공개 예정",
+      "title": "OpenAI, AI 모델 보안 강화 및 위험 관리",
+      "subtitle": "보안 사고 후 최첨단 모델 훈련 일시 중단 및 감시 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "CES 2027",
-            "label": "공개 예정"
+            "value": "9월",
+            "label": "훈련 일시 중단"
           },
           {
-            "value": "AI",
-            "label": "핵심 기술"
+            "value": "지속적",
+            "label": "위험 감시"
           },
           {
-            "value": "휴머노이드",
-            "label": "로봇 유형"
+            "value": "프론티어 AI",
+            "label": "기술 관리"
           }
         ],
-        "main_number": "미래",
-        "main_text": "로봇 시대 준비"
+        "main_number": "🔒",
+        "main_text": "AI 개발의 안전성 확보에 주력"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a padlock on an AI chip or neural network",
       "detail": {
-        "summary": "삼성전자와 LG전자가 내년 CES 2027에서 휴머노이드 로봇 사업화 계획을 공개하며 AI 학습 데이터 및 정교한 제어 기술을 선보일 예정입니다.",
+        "summary": "OpenAI가 보안 사고 발생 후 최첨단 AI 모델의 훈련 및 평가를 일시 중단하고, 모델 개발 과정 전반에 걸쳐 보안 감시를 강화하는 등 위험 관리에 집중하고 있습니다.",
         "points": [
-          "삼성·LG, 휴머노이드 로봇 사업화 가속화",
-          "CES 2027에서 로봇 기술 진전 발표 예정",
-          "AI 학습 데이터 및 로봇 움직임 정교 제어 기술 고도화",
-          "미래 로봇 시장 선점 위한 경쟁 본격화"
+          "보안 사고 발생 후 모델 훈련 중단",
+          "프론티어 AI 모델 위험 관리 강화",
+          "개발부터 배포까지 안전성 확보 목표",
+          "AI 윤리 및 안정성 문제에 대한 대응"
         ],
-        "quote": "로봇의 움직임을 정교하게 제어하는 기술부터 인공지능(AI) 학습 데이터까지…",
-        "context": "세계 최대 가전·정보기술 전시회인 CES 2027을 앞두고 삼성전자와 LG전자가 휴머노이드 로봇 사업화에 속도를 내고 있습니다. 이는 AI 기술 발전과 맞물려 로봇 산업이 새로운 성장 동력으로 부상하고 있음을 보여주며, 양사는 차세대 로봇 시장을 선점하기 위한 기술 개발에 박차를 가하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/119/0003156378?sid=101"
+        "quote": "Managing frontier AI risk: From training to deployment",
+        "context": "AI 기술의 발전 속도가 빨라지면서 잠재적 위험에 대한 우려도 커지고 있습니다. OpenAI의 이러한 조치는 AI 안전성 확보를 위한 업계의 노력과 책임감을 보여줍니다.",
+        "source_url": "https://econotimes.com/OpenAI-tightens-model-safeguards-after-security-incident-1779159"
       },
-      "image_url": "data/images/2026-11-18/tech-0.jpg"
+      "image_url": "data/images/2026-11-19/tech-01.jpg"
     },
     {
-      "id": "tech-1",
+      "id": "tech-02",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "network_diagram",
-      "title": "MS CEO, '코파일럿은 업무용 OS' 선언",
-      "subtitle": "오피스·세일즈포스 통합 지원, '코파일럿 매니지드 런타임' 정식 출시",
+      "viz_type": "line_chart",
+      "title": "규제 공백 속 위축되는 디지털자산 산업",
+      "subtitle": "당국과 정치권의 무관심 속 산업 발전 저해 우려",
       "viz_data": {
         "stats": [
           {
-            "value": "코파일럿",
-            "label": "주요 제품"
+            "value": "장기화",
+            "label": "규제 공백"
           },
           {
-            "value": "오피스",
-            "label": "연동 앱"
+            "value": "사업 중단",
+            "label": "기업 속출"
           },
           {
-            "value": "세일즈포스",
-            "label": "연동 앱"
+            "value": "미래 산업",
+            "label": "성장 저해"
           }
         ],
-        "main_number": "통합",
-        "main_text": "AI 기반 업무 환경"
+        "main_number": "📉",
+        "main_text": "기술 준비에도 제도 부재로 기회 상실"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a withered plant next to a large 'Regulation' sign",
       "detail": {
-        "summary": "사티아 나델라 MS CEO가 '코파일럿'을 업무용 운영체제(OS)로 규정하며, 오피스 및 세일즈포스 등 주요 업무 앱을 한곳에서 통합 관리하는 비전을 제시했습니다.",
+        "summary": "한국의 디지털자산 산업이 규제 공백으로 인해 성장이 둔화되고 있으며, 당국과 정치권의 무관심이 미래 산업의 싹을 자르고 있다는 우려가 제기되고 있습니다.",
         "points": [
-          "사티아 나델라 MS CEO, 코파일럿을 업무용 OS로 정의",
-          "오피스, 세일즈포스 등 주요 업무 앱 통합 지원",
-          "'코파일럿 매니지드 런타임' 정식 출시로 앱 관리 효율화",
-          "AI 기반의 새로운 업무 생산성 패러다임 제시"
+          "디지털자산 사업 시작 전 폐업 기업 속출",
+          "금융사 협업 위한 기술적 준비 완료 상태",
+          "규제 환경 개선이 시급한 과제",
+          "미래 성장 동력 확보를 위한 제도 마련 요구"
         ],
-        "quote": "코파일럿은 여러분이 가진 모든 데이터와 컨텍스트를 활용해 어떤 앱이든 더 생산적으로 만들도록 돕는다.",
-        "context": "마이크로소프트의 코파일럿은 단순한 AI 비서가 아닌, 모든 업무 앱과 데이터를 통합하여 생산성을 혁신하는 새로운 운영체제 역할을 수행하려 합니다. '코파일럿 매니지드 런타임' 출시로 기업 환경에서의 안전한 앱 실행 및 IT 부서의 효율적인 관리를 지원하며 AI 시대의 업무 환경을 재정의하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/138/0002248963?sid=105"
+        "quote": "제도만 허용되면 준비한 것들을 펼칠 수 있다",
+        "context": "블록체인, NFT 등 디지털자산 기술은 혁신적인 잠재력을 가지고 있지만, 명확한 법적, 제도적 가이드라인이 부재하여 국내 기업들이 경쟁력을 잃을 수 있다는 지적입니다.",
+        "source_url": "https://it.chosun.com/news/articleView.html?idxno=3000000001260"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24425&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20withered%20plant%20next%20to%20a%20large%20%27Regulation%27%20sign%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=24273&nologo=true"
     },
     {
-      "id": "tech-2",
+      "id": "tech-03",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
-      "viz_type": "organizational_chart",
-      "title": "엔비디아, 안보 감독기구 신설",
-      "subtitle": "반도체 수출 관리 체계 강화, 이사회 내 3인 위원회 구성 및 독립 전문가 자문",
+      "viz_type": "goal_chart",
+      "title": "인도 모바일 결제 플랫폼 BHIM, 2027년 사용자 목표",
+      "subtitle": "2027년 3월까지 활성 사용자 1,700만 명 목표 설정",
       "viz_data": {
         "stats": [
           {
-            "value": "3인",
-            "label": "위원회 위원"
+            "value": "1,700만 명",
+            "label": "목표 사용자 수"
           },
           {
-            "value": "분기별",
-            "label": "회의 주기"
+            "value": "2027년 3월",
+            "label": "목표 시점"
           },
           {
-            "value": "수출 통제",
-            "label": "주요 기능"
+            "value": "모바일 결제",
+            "label": "주요 서비스"
           }
         ],
-        "main_number": "강화",
-        "main_text": "글로벌 규제 준수"
+        "main_number": "1,700만",
+        "main_text": "인도 디지털 결제 시장의 성장 가속화"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a bar chart showing user growth, with India map and mobile payment icons",
       "detail": {
-        "summary": "엔비디아가 이사회 내 안보 감독기구를 신설하며 반도체 수출 관리 체계를 강화합니다. 3인으로 구성된 위원회는 분기별 회의를 통해 독립 전문가의 자문을 받을 예정입니다.",
+        "summary": "인도의 모바일 결제 플랫폼 BHIM(Bharat Interface for Money)이 2027년 3월까지 활성 사용자 1,700만 명을 목표로 설정하며 디지털 결제 시장 확대에 박차를 가하고 있습니다.",
         "points": [
-          "엔비디아, 이사회 내 안보 감독기구 신설 발표",
-          "국가 안보 및 수출 통제 규제 준수 절차 강화",
-          "3명의 이사회 위원으로 구성, 최소 분기별 회의 개최",
-          "해외 거래 및 고객사 확인 과정 변화 예상"
+          "인도 모바일 결제 시장의 성장세 지속",
+          "BHIM은 NPCI의 자회사로 운영",
+          "디지털 금융 포용성 확대 기여",
+          "기술 기반의 금융 서비스 확산 전략"
         ],
-        "quote": "중국 시장은 첨단 반도체 기업들에 중요한 사업 기회인 동시에 미국의 수출 규제와 국제 정치적 갈등이 맞물린 시장이다.",
-        "context": "첨단 반도체 기업들은 중국 시장에서의 사업 기회와 미국의 수출 규제 및 국제 정치적 갈등 사이에서 균형을 찾아야 하는 상황입니다. 엔비디아의 안보 감독기구 신설은 이러한 복잡한 환경에서 규제 준수를 강화하고 기업의 리스크를 관리하기 위한 선제적인 조치로 풀이됩니다.",
-        "source_url": "https://econotimes.com/Nvidia-Forms-Security-Panel-After-Allegations-Involving-Former-CEO-1778500"
+        "quote": "인도인의 생활 필수품",
+        "context": "인도는 빠르게 디지털화되고 있는 국가 중 하나로, 모바일 결제는 금융 소외 계층에게도 편리한 금융 서비스를 제공하여 국가 경제 발전에 중요한 역할을 합니다.",
+        "source_url": "https://econotimes.com/India-s-BHIM-Targets-17-Million-Active-Users-by-March-2027-1779164"
       },
-      "image_url": "data/images/2026-11-18/tech-2.jpg"
+      "image_url": "data/images/2026-11-19/tech-03.jpg"
     },
     {
-      "id": "society-0",
+      "id": "society-01",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "간협, '간호사 1명당 환자 5명' 법제화 혁신안 제시",
-      "subtitle": "간호 노동환경 개선 및 적정 인력 배치, 제도화 지원 의지 표명",
+      "viz_type": "timeline",
+      "title": "‘통합 돌봄’ 제도, 시행 원년 성과 평가",
+      "subtitle": "초고령 사회 진입 대비, 지역사회 중심의 돌봄 서비스 강화",
       "viz_data": {
         "stats": [
           {
-            "value": "1:5",
-            "label": "제안 비율"
+            "value": "3월",
+            "label": "전국 시행"
           },
           {
-            "value": "정책",
-            "label": "주요 이슈"
+            "value": "초고령",
+            "label": "사회 대비"
           },
           {
-            "value": "개선",
-            "label": "목표"
+            "value": "지자체별",
+            "label": "성과 평가"
           }
         ],
-        "main_number": "혁신",
-        "main_text": "간호 환경에 대한 요구"
+        "main_number": "➕",
+        "main_text": "수요 증가에 따른 돌봄 인프라 확충 기대"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a hand gently holding an older person, with houses and community icons in background",
       "detail": {
-        "summary": "대한간호협회가 간호사 1명당 환자 5명 배치를 법제화하는 혁신안을 제시하며, 간호 인력난 해소와 노동 환경 개선을 위한 제도적 지원을 촉구했습니다.",
+        "summary": "올해 3월 전국적으로 시행된 '통합 돌봄' 제도가 시행 원년을 맞아 지방자치단체별 성과 평가가 한창이며, 초고령 사회 진입에 대비한 중요한 정책으로 기대를 모으고 있습니다.",
         "points": [
-          "간호사 1명당 환자 5명 배치 법제화 요구",
-          "간호사 노동 환경 개선 및 적정 인력 확보",
-          "방문간호, 재택의료, 지역사회 통합돌봄 연계 강화",
-          "정치권 및 정부의 간호 정책 제도화 지원 의지 확인"
+          "전국 지자체별 통합 돌봄 서비스 시행",
+          "고령화 사회 돌봄 수요 증가에 대응",
+          "지역사회 중심의 맞춤형 돌봄 제공",
+          "제도 개선 및 인프라 확충 필요성 대두"
         ],
-        "quote": "간호사의 노동환경 개선과 적정 인력 배치, 간호정책의 제도화를 위한 지원 의지를 밝혔다.",
-        "context": "간호 인력 부족과 열악한 근무 환경은 오랜 사회적 문제입니다. 대한간호협회는 이를 해결하기 위해 간호사 대 환자 비율을 명확히 법제화하고, 병원뿐 아니라 지역사회 돌봄까지 아우르는 포괄적인 간호 정책 개선을 요구하며 정부와 정치권의 적극적인 지원을 이끌어내려 하고 있습니다.",
-        "source_url": "https://www.monews.co.kr/news/articleView.html?idxno=415541"
+        "quote": "초고령 사회 대한민국에게 신성장 동력",
+        "context": "급격한 고령화로 인해 돌봄 서비스 수요가 폭증하는 상황에서, 통합 돌봄 제도는 개인의 삶의 질 향상과 사회적 부담 경감에 기여할 수 있는 핵심 정책으로 평가받고 있습니다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2649851"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34082&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20hand%20gently%20holding%20an%20older%20person%2C%20with%20houses%20and%20community%20icons%20in%20background%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63223&nologo=true"
     },
     {
-      "id": "society-1",
+      "id": "society-02",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "flow_chart",
+      "title": "AI 시대, 인간 '자기판단'의 변화와 미래",
+      "subtitle": "인지적 외주화 확산 속 AI의 감정 해석 능력 진화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "인지적 외주화",
+            "label": "주요 개념"
+          },
+          {
+            "value": "사회적 학습",
+            "label": "영향 요소"
+          },
+          {
+            "value": "감정 해석",
+            "label": "AI 능력"
+          }
+        ],
+        "main_number": "🔄",
+        "main_text": "AI가 인간의 판단 과정에 깊이 관여"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a human brain connected to an AI chip with arrows indicating information flow and decision making",
+      "detail": {
+        "summary": "AI가 인간의 감정까지 해석하는 시대로 접어들면서, 기억이나 판단의 일부를 외부 도구에 맡기는 '인지적 외주화' 현상이 심화되고 있으며, 이는 자기 판단 방식에 근본적인 변화를 가져올 것으로 예상됩니다.",
+        "points": [
+          "AI의 감정 해석 기술 발전",
+          "인지적 외주화 현상 가속화",
+          "사회적 학습 및 예측처리 이론 관련",
+          "인간의 자기 판단 능력 변화 연구 필요"
+        ],
+        "quote": "미래 사회에서 인간은 어떻게 스스로 판단하고, AI와 어떻게 상호작용할 것인가",
+        "context": "AI 기술이 인간의 삶에 깊숙이 파고들면서, 인간 고유의 영역으로 여겨졌던 판단과 감정 처리 방식에도 큰 영향을 미치고 있습니다. 이는 개인의 정체성과 사회 구조에 대한 새로운 질문을 던집니다.",
+        "source_url": "https://www.medipana.com/news/articleView.html?idxno=422141"
+      },
+      "image_url": "data/images/2026-11-19/society-02.jpg"
+    },
+    {
+      "id": "society-03",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
       "viz_type": "pie_chart",
-      "title": "'골프보다 좋다' 중장년층 파크골프 열풍",
-      "subtitle": "저렴한 이용료, 짧은 경기 시간, 건강 및 사회적 교류 욕구 충족으로 인기",
+      "title": "2027학년도 수능, 55만 수험생 응시 현황",
+      "subtitle": "AI 커닝 우려 속 진행된 대입 시험, 탐구 영역 쏠림 현상 주목",
       "viz_data": {
         "stats": [
           {
-            "value": "60만+",
-            "label": "이용 인구"
+            "value": "55만 명",
+            "label": "총 응시자"
           },
           {
-            "value": "5천원대",
-            "label": "이용료"
+            "value": "85.8%",
+            "label": "사회탐구 선택"
           },
           {
-            "value": "중장년층",
-            "label": "주요 연령층"
+            "value": "64.9%",
+            "label": "확률과 통계 선택"
           }
         ],
-        "main_number": "급증",
-        "main_text": "파크골프 이용자 수"
+        "main_number": "📝",
+        "main_text": "변화하는 수능 응시 경향과 새로운 시험 환경"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, students taking an exam, with AI brain icon in background",
       "detail": {
-        "summary": "중장년층 사이에서 '파크골프'가 큰 인기를 얻고 있습니다. 저렴한 이용료, 짧은 경기 시간, 건강 관리 및 사회적 교류의 장이 된다는 점에서 주목받고 있습니다.",
+        "summary": "사상 초유의 'AI 커닝' 우려 속에 2027학년도 대학수학능력시험이 치러졌으며, 총 55만 명이 응시했고, 탐구 영역에서 사회탐구 및 수학에서 확률과 통계 선택 쏠림 현상이 두드러졌습니다.",
         "points": [
-          "파크골프 이용 인구 60만명 추산 (비회원 포함)",
-          "저렴한 이용료(무료~5천원대)로 높은 접근성",
-          "짧은 경기 시간과 간단한 장비로 입문 장벽 낮음",
-          "중장년층의 건강 및 사회적 교류 욕구 충족"
+          "2027학년도 수능 응시자 55만 명",
+          "AI 활용 커닝 가능성에 대한 우려 제기",
+          "사회·과학탐구 중 사회탐구 선택자 85.8%",
+          "수학 응시자 중 확률과 통계 선택자 64.9%"
         ],
-        "quote": "저렴한 이용료와 짧은 경기 시간, 간단한 장비가 입문 장벽을 낮췄고 건강관리와 사회적 교류에 대한 욕구가…",
-        "context": "파크골프는 골프보다 훨씬 적은 비용과 시간으로 즐길 수 있어 중장년층에게 새로운 여가 활동으로 각광받고 있습니다. 이는 단순한 스포츠를 넘어 건강 증진과 함께 새로운 사회적 관계를 형성하는 기회가 되어, 중장년층의 삶의 질 향상에 긍정적인 영향을 미치고 있습니다.",
-        "source_url": "https://www.ekn.kr/web/view.php?key=20261118023350863"
+        "quote": "난이도에 따른 선택 쏠림 현상",
+        "context": "AI 기술 발전은 교육 현장에도 새로운 도전 과제를 제시하고 있습니다. 특히 수능과 같은 중요한 시험에서 공정성 유지를 위한 방안 마련이 시급하며, 수험생들의 선택 경향 분석은 대입 전략 수립에 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014331450?sid=102"
       },
-      "image_url": "data/images/2026-11-18/society-1.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20students%20taking%20an%20exam%2C%20with%20AI%20brain%20icon%20in%20background%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=27975&nologo=true"
     },
     {
-      "id": "society-2",
+      "id": "life-01",
       "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "bar_chart",
-      "title": "이주배경 학생, 지역사회 발전의 새 가능성",
-      "subtitle": "2025년 이주배경 인구 증가 추세, 문화 다양성 확장 및 인재 육성 중요성 증대",
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "process_flow",
+      "title": "폐배터리 재사용 상업화, BESS '노바' 출시",
+      "subtitle": "모멘트 에너지, UL 9540 인증 획득으로 '세컨드라이프' 시장 선도",
       "viz_data": {
         "stats": [
           {
-            "value": "증가",
-            "label": "학생 수"
+            "value": "상업/산업용",
+            "label": "적용 분야"
           },
           {
-            "value": "2025년",
-            "label": "통계 기준"
+            "value": "UL 9540",
+            "label": "안전 표준"
           },
           {
-            "value": "다문화",
-            "label": "문화적 다양성"
+            "value": "세컨드라이프",
+            "label": "배터리 시장"
           }
         ],
-        "main_number": "포용",
-        "main_text": "지역 사회의 미래"
+        "main_number": "♻️",
+        "main_text": "순환경제 실현 위한 폐배터리 재활용 기술"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a battery icon with recycle arrows, connected to a smart grid",
       "detail": {
-        "summary": "한국 사회에서 이주배경 학생 수가 증가하며 이들이 지역사회의 새로운 활력과 문화적 다양성을 확장하는 잠재력으로 주목받고 있습니다.",
+        "summary": "캐나다의 모멘트 에너지가 폐배터리를 재사용하는 상업·산업용 에너지 저장 시스템(BESS) '노바'를 출시하며 '세컨드라이프(Second-life)' 배터리 시장의 상업화를 주도하고 있습니다.",
         "points": [
-          "2025년 기준 이주배경 학생 수 지속 증가 추세",
-          "대학 캠퍼스에서 일상적인 구성원으로 자리매김",
-          "사회적 여건과 언어·문화적 차이로 학업 어려움 직면",
-          "지역 사회의 미래 동력으로서 이주배경 학생 지원 필요성 강조"
+          "폐배터리를 BESS로 재활용",
+          "북미 최초 UL 9540 안전 표준 인증 획득",
+          "글로벌 순환경제 실현에 기여",
+          "지속 가능한 에너지 솔루션 제공"
         ],
-        "quote": "이와 같은 변화는 단순한 인구구조의 변화를 넘어 우리 사회의 문화적 다양성을 확장하고 서로 다른 문화에 대한…",
-        "context": "이주배경 학생들은 한국 사회의 중요한 구성원으로 성장하고 있지만, 경제적 여건과 언어·문화적 차이로 인해 학업 및 사회 진입에 어려움을 겪기도 합니다. 이들의 성공적인 정착과 성장은 단순한 사회 통합을 넘어 지역의 활력을 불어넣고 미래 발전의 동력이 될 수 있다는 인식이 확산되고 있습니다.",
-        "source_url": "https://news.unn.net/news/articleView.html?idxno=600777"
+        "quote": "폐배터리 재사용 시장이 본격적인 상업화 궤도에 올랐다",
+        "context": "전기차 보급 확대와 함께 폐배터리 문제가 환경 이슈로 부각되면서, 이를 재활용하여 에너지 저장 장치로 활용하는 기술은 자원 낭비를 줄이고 지속 가능한 에너지 시스템을 구축하는 데 핵심적인 역할을 합니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026111820113156600c8c1c064d_1"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=44183&nologo=true"
+      "image_url": "data/images/2026-11-19/life-01.jpg"
     },
     {
-      "id": "life-0",
+      "id": "life-02",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "외국인 관광객, 편의점 '환급 쇼핑' 급증",
-      "subtitle": "대만·중국·일본 관광객 주도, 커피캔디·그릭요거트 등 인기 품목 부상",
+      "title": "입 댄 커피, 세균 증식 위험성 및 안전 섭취 가이드",
+      "subtitle": "상온 4시간 방치 시 세균 100만 마리, 냉장 보관해도 안심 금물",
       "viz_data": {
         "stats": [
           {
-            "value": "2천만+",
-            "label": "방한 관광객"
+            "value": "4시간",
+            "label": "상온 방치 시간"
           },
           {
-            "value": "급증",
-            "label": "환급 쇼핑"
+            "value": "100만 마리",
+            "label": "세균 수"
           },
           {
-            "value": "대만·中·日",
-            "label": "주요 국적"
+            "value": "24시간 이내",
+            "label": "블랙커피"
           }
         ],
-        "main_number": "새로운",
-        "main_text": "관광 트렌드 변화"
+        "main_number": "🦠",
+        "main_text": "입 댄 음료의 위생 관리 중요성"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a coffee cup with a timeline showing bacterial growth",
       "detail": {
-        "summary": "올해 방한 외국인 관광객 수가 2000만 명을 돌파한 가운데, 편의점에서 즉시 세금 환급을 받는 '환급 쇼핑'이 대만, 중국, 일본 관광객들을 중심으로 크게 늘고 있습니다.",
+        "summary": "한 번 입을 댄 아메리카노는 냉장고에 보관하더라도 구강 내 세균 유입으로 인해 저온에서도 세균이 증식할 수 있어 주의가 필요하며, 안전 섭취 가이드라인을 지키는 것이 중요합니다.",
         "points": [
-          "2026년 누적 방한 외국인 관광객 2천만명 돌파",
-          "편의점 즉시 환급 서비스 이용 고객 급증",
-          "대만·중국·일본 관광객이 환급 쇼핑 주도",
-          "커피캔디, 그릭요거트 등 특정 상품 인기"
+          "입 댄 음료 상온 4시간 방치 시 세균 100만 마리",
+          "라떼는 당일 섭취 권장",
+          "블랙커피는 24시간 이내 섭취",
+          "구강 내 세균이 음료에 유입되어 증식"
         ],
-        "quote": "편의점 문화에 익숙한 대만·중국·일본 관광객이 즉시환급 고객의 상당수를 차지하는…",
-        "context": "한국 방문의 해를 맞아 외국인 관광객 수가 크게 늘면서, 편의점에서의 쇼핑 문화도 변화하고 있습니다. 특히 대만, 중국, 일본 등 편의점 문화에 익숙한 아시아권 관광객들이 편의점 즉시 환급 서비스를 활용해 다양한 한국 제품을 구매하는 트렌드가 확산되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004683310?sid=101"
+        "quote": "마시다 남은 음료는 위생에 유의해야",
+        "context": "일상에서 흔히 마시는 음료에 대한 위생 인식은 건강과 직결됩니다. 특히 한 번 개봉한 음료는 보관 방식에 따라 세균 번식이 급증할 수 있으므로, 올바른 보관 및 섭취 방법을 아는 것이 중요합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004176364?sid=103"
       },
-      "image_url": "data/images/2026-11-18/life-0.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20coffee%20cup%20with%20a%20timeline%20showing%20bacterial%20growth%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=47324&nologo=true"
     },
     {
-      "id": "life-1",
+      "id": "life-03",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "comparison",
-      "title": "이마트-노브랜드, 초저가 넘어 '기능성 뷰티' 라인업 확대",
-      "subtitle": "합리적 가격 바탕, 성분·기능·품질 차별화로 뷰티 시장 경쟁력 강화",
+      "title": "기업 복지, '미혼 직원'을 위한 변화",
+      "subtitle": "결혼 여부와 상관없이 자기계발비, 가족 초청 행사 등 확대",
       "viz_data": {
         "stats": [
           {
-            "value": "초저가",
-            "label": "기존 강점"
+            "value": "자기계발비",
+            "label": "미혼 복지"
           },
           {
-            "value": "기능성",
-            "label": "확장 영역"
+            "value": "지인 참여",
+            "label": "가족 행사"
           },
           {
-            "value": "뷰티",
-            "label": "시장 경쟁"
+            "value": "복지 평등",
+            "label": "핵심 가치"
           }
         ],
-        "main_number": "도전",
-        "main_text": "가성비 기반의 진화"
+        "main_number": "👍",
+        "main_text": "결혼 여부에 따른 차별 없는 복지 제도 확산"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, two groups of people (married/single) receiving equal benefits, with a balance scale",
       "detail": {
-        "summary": "이마트와 노브랜드가 초저가 전략을 넘어 성분, 기능, 품질까지 차별화한 기능성 뷰티 상품 라인업을 확대하며 뷰티 시장에서의 입지를 다지고 있습니다.",
+        "summary": "기업들이 결혼 여부에 따라 달라졌던 복지 혜택을 미혼 직원들에게도 확대하고 있습니다. 축하금 대신 자기계발비, 가족 초청 행사에 지인 참여 허용 등 차별 없는 복지 제도가 확산되고 있습니다.",
         "points": [
-          "이마트·노브랜드, 기능성 뷰티 상품 라인업 강화",
-          "합리적인 가격과 성분·기능·품질 차별화 전략",
-          "고객들이 일상에서 부담 없이 선택 가능한 뷰티 확대",
-          "뷰티 시장 내 경쟁력 확보 및 시장 확대 목표"
+          "결혼 여부와 무관한 복지 혜택 제공",
+          "축하금 대신 자기계발비 등 지원",
+          "가족 초청 행사에 형제자매, 지인 참여 허용",
+          "직원들의 라이프스타일 다양성 존중"
         ],
-        "quote": "앞으로도 가격 경쟁력은 물론, 성분과 기능, 품질까지 차별화한 상품을 지속 선보여 경쟁력을…",
-        "context": "가성비를 내세워 성공을 거둔 이마트와 노브랜드가 이제는 뷰티 시장에서 한 단계 더 나아가 기능성 제품까지 선보이며 소비자의 선택지를 넓히고 있습니다. 이는 단순히 저렴한 제품을 넘어 품질과 효능까지 만족시키려는 전략으로, 치열한 뷰티 시장에서 새로운 경쟁 우위를 확보하려는 시도로 분석됩니다.",
-        "source_url": "https://www.socialvalue.kr/news/view/1065600865505172"
+        "quote": "결혼 여부에 따라 달랐던 복지 혜택을 미혼 직원들도 누릴 수 있도록",
+        "context": "사회 구조와 가치관이 변화하면서 '가족'의 개념도 다양해지고 있습니다. 기업들이 이러한 변화를 반영하여 모든 직원에게 공평한 복지 혜택을 제공하는 것은 조직 문화 개선과 직원 만족도 향상에 기여합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003700907?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=78012&nologo=true"
-    },
-    {
-      "id": "life-2",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "infographic",
-      "title": "겨울철 '은밀한 탈수' 주의보",
-      "subtitle": "실내 습도 20%대 급락, 수분 섭취 부족으로 안구건조·만성피로 유발",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "20%대",
-            "label": "실내 습도"
-          },
-          {
-            "value": "카페인",
-            "label": "이뇨 작용"
-          },
-          {
-            "value": "두통",
-            "label": "주요 증상"
-          }
-        ],
-        "main_number": "건강",
-        "main_text": "수분 섭취 중요성"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "겨울철 난방으로 인한 실내 건조가 '은밀한 탈수'로 이어져 안구건조증, 만성피로, 두통 등 다양한 건강 문제를 유발할 수 있어 주의가 필요합니다.",
-        "points": [
-          "겨울철 실내 습도 20%대 급락, 수분 손실 증가",
-          "갈증 덜 느껴 수분 섭취 줄고 카페인 섭취는 늘어",
-          "안구건조, 만성피로, 두통 등 '탈수' 증상 유발",
-          "1시간마다 물 반 컵, 인공눈물 사용 등 생활 수칙 권장"
-        ],
-        "quote": "실내 습도 20%대 급락, 갈증 덜 느껴 수분 섭취 줄어드는 초겨울 카페인 이뇨 작용 겹치면 체내 수분 고갈…",
-        "context": "본격적인 겨울이 시작되면서 실내 난방 사용이 늘고 습도가 급격히 낮아져 우리 몸은 알게 모르게 탈수 상태에 놓이기 쉽습니다. 특히 건조한 환경과 낮은 수분 섭취는 다양한 건강 문제를 야기하므로, 의식적으로 수분을 보충하고 실내 환경을 관리하는 것이 중요합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004176022?sid=103"
-      },
-      "image_url": "data/images/2026-11-18/life-2.jpg"
+      "image_url": "data/images/2026-11-19/life-03.jpg"
     }
   ],
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T06:08:31.424697+09:00"
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T06:08:42.981348+09:00"
 }
