@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "economy-headline-01",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "stats_grid",
+      "title": "韓 수출 1조 달러 달성, 경제 성장률 4% 육박",
+      "subtitle": "반도체 호황으로 경제 활력, 업황 변동 위험도 공존",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1조+",
+            "label": "수출액 (달러)"
+          },
+          {
+            "value": "3.9%",
+            "label": "내년 성장률 전망"
+          },
+          {
+            "value": "세계 4위",
+            "label": "수출국 순위"
+          }
+        ],
+        "main_number": "+47%",
+        "main_text": "주요 수치 한 줄 설명"
+      },
+      "image_prompt": "cute pastel infographic illustration of a strong Korean economy, showing upward arrows, dollar signs, and semiconductor chips, no text",
+      "detail": {
+        "summary": "한국 경제가 반도체 호황에 힘입어 연간 수출 1조 달러를 돌파하고 내년 경제 성장률 4%에 육박할 것으로 전망된다. 그러나 반도체 의존도가 높은 만큼 업황 변동에 따른 위험도 커진다.",
+        "points": [
+          "연간 수출액 1조 달러 돌파, 세계 4번째 달성",
+          "한국개발연구원(KDI), 내년 경제 성장률 3.9% 전망",
+          "AI 투자 확대가 반도체 수출을 견인하는 주요 요인",
+          "높은 반도체 의존도로 인한 업황 변동 시 경제 취약성 우려"
+        ],
+        "quote": "AI 투자 확대가 내년에도 한국의 반도체 수출을 뒷받침할 것으로 전망된다.",
+        "context": "한국 경제의 핵심 동력인 반도체 산업의 호황이 국가 경제 성장에 긍정적인 영향을 미치고 있으나, 특정 산업 의존도가 심화될 경우 발생할 수 있는 잠재적 위험에 대한 논의가 필요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009300392?sid=101"
+      },
+      "image_url": "data/images/2026-11-20/economy-headline-01.jpg"
+    },
+    {
+      "id": "world-01",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "line_chart",
+      "title": "무슬림 인구, 10년 뒤 기독교 추월 세계 최대 종교로",
+      "subtitle": "글로벌 종교 지형 변화 예고, 정치·문화적 영향은 미지수",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10년",
+            "label": "추월 예상 시점"
+          },
+          {
+            "value": "2위→1위",
+            "label": "종교 순위 변화"
+          },
+          {
+            "value": "高",
+            "label": "출산율"
+          }
+        ],
+        "main_number": "+70%",
+        "main_text": "무슬림 인구 증가율 (2010-2050년 예상)"
+      },
+      "image_prompt": "cute pastel infographic illustration of global population growth and religious demographics, showing different religious symbols, no text",
+      "detail": {
+        "summary": "현재 세계 2위인 무슬림 인구가 10년 후 기독교를 추월하여 세계 최대 종교가 될 것으로 전망된다. 이는 글로벌 종교 지형에 큰 변화를 가져올 것이지만, 단기적 정치·문화적 권력 균형 변화는 없을 것이라는 분석이 나온다.",
+        "points": [
+          "무슬림 인구, 기독교 추월 예상 시점은 약 10년 뒤",
+          "주요 원인은 높은 출산율과 젊은 인구 구성",
+          "글로벌 종교 지형에 장기적인 변화 예고",
+          "단기적으로는 글로벌 정치·문화적 권력 균형에 큰 변화 없을 것 전망"
+        ],
+        "quote": "적어도 중기적으로는 글로벌 정치적·문화적 권력 균형에 큰 변화가 있을 것으로 보이지 않는다.",
+        "context": "세계 인구의 종교 구성 변화는 미래 사회의 문화적, 정치적, 경제적 양상에 장기적인 영향을 미칠 수 있어 주목된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005766477?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20global%20population%20growth%20and%20religious%20demographics%2C%20showing%20different%20religious%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=1619&nologo=true"
+    },
+    {
+      "id": "world-02",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "미중 무역휴전, 알맹이 없는 '정제유 증산 합의' 유일",
+      "subtitle": "양국 정상회담 후에도 무역 갈등의 근본적 해결 과제 남아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1건",
+            "label": "구체적 성과"
+          },
+          {
+            "value": "미해결",
+            "label": "무역 갈등"
+          },
+          {
+            "value": "증가",
+            "label": "에너지 안정 우려"
+          }
+        ],
+        "main_number": "△0%",
+        "main_text": "무역 갈등 해결 진전율"
+      },
+      "image_prompt": "cute pastel infographic illustration of US and China flags with trade graphs, showing little change or a single small agreement, no text",
+      "detail": {
+        "summary": "미중 정상회담에서 무역 휴전 분위기는 좋았지만, 구체적인 성과는 정제유 증산 합의 외에 미미했다. 이는 양국 간 무역 갈등의 근본적인 문제 해결이 여전히 요원함을 보여준다.",
+        "points": [
+          "미중 정상회담, 무역 휴전 분위기 조성에 그침",
+          "구체적 성과는 '정제유 증산 합의'가 유일",
+          "중국의 진영 정치 회의적 태도, 알맹이 없는 회담 지적",
+          "근본적인 무역 갈등 해결 과제 여전히 남아 불확실성 증대"
+        ],
+        "quote": "정제유 증산 합의를 아마도 가장 구체적인 성과로 꼽았다.",
+        "context": "세계 경제의 큰 축을 담당하는 미국과 중국의 무역 관계는 글로벌 경제 안정에 직접적인 영향을 미치며, 양국 갈등 지속은 불확실성을 가중시킨다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006412842?sid=104"
+      },
+      "image_url": "data/images/2026-11-20/world-02.jpg"
+    },
+    {
+      "id": "world-03",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "한-베트남 첨단산업 협력 강화, 2030년 1,500억 달러 목표",
+      "subtitle": "양국 경제협력 확대, 수출입 규모 및 투자 증대 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1,500억",
+            "label": "달러 목표액"
+          },
+          {
+            "value": "2030년",
+            "label": "목표 시점"
+          },
+          {
+            "value": "첨단산업",
+            "label": "협력 분야"
+          }
+        ],
+        "main_number": "+60%",
+        "main_text": "현재 대비 2030년 교역량 증가 목표"
+      },
+      "image_prompt": "cute pastel infographic illustration of Korea and Vietnam flags with upward economic graphs, showing trade and investment, no text",
+      "detail": {
+        "summary": "한국과 베트남이 첨단산업 분야 협력을 강화하고 2030년까지 양국 간 수출입 및 투자 규모를 1,500억 달러로 확대하는 것을 목표로 논의했다. 이는 양국 경제 동반 성장에 기여할 것으로 기대된다.",
+        "points": [
+          "2030년까지 양국 교역 목표 1,500억 달러 설정",
+          "첨단산업, 이차전지, 바이오 등 미래 성장 동력 협력 강화",
+          "베트남 현지 진출 기업들의 애로사항 해결 요청",
+          "양국 간 균형 있는 경제 발전 및 협력 확대 추구"
+        ],
+        "quote": "양국의 경제 협력이 질적으로 도약할 제도적 기반이 마련됐다.",
+        "context": "아세안 지역의 핵심 경제 파트너인 베트남과의 협력 강화는 한국의 신남방 정책의 성공과 미래 성장 동력 확보에 중요한 의미를 갖는다.",
+        "source_url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119712"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20Korea%20and%20Vietnam%20flags%20with%20upward%20economic%20graphs%2C%20showing%20trade%20and%20investment%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=60954&nologo=true"
+    },
+    {
+      "id": "economy-02",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "시카고 연은 총재, 'AI 붐'에 경제 과열 및 금리 인상 경고",
+      "subtitle": "미국 경제의 인플레이션 우려, AI 투자 열풍과의 연관성",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "12월",
+            "label": "빅스텝 가능성"
+          },
+          {
+            "value": "高",
+            "label": "AI 투자 열풍"
+          },
+          {
+            "value": "장기화",
+            "label": "물가 둔화 속도"
+          }
+        ],
+        "main_number": "+0.25%",
+        "main_text": "기준 금리 인상 폭 (빅스텝)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a central bank building with AI robots and upward inflation graphs, no text",
+      "detail": {
+        "summary": "시카고 연은 총재가 AI 투자 열풍이 미국 경제의 공급 능력을 압박하여 인플레이션을 자극할 수 있다고 경고하며, 12월 기준금리 '빅스텝' 인상 가능성을 배제하지 않았다.",
+        "points": [
+          "인공지능(AI) 투자 열풍, 미국 경제 과열 가능성 경고",
+          "AI 붐이 경제 공급 능력 압박, 인플레이션 자극 우려",
+          "12월 기준금리 '빅스텝' 인상 가능성 배제 안 해",
+          "미국 경제의 견조한 흐름과 더딘 물가 둔화 속도 고려"
+        ],
+        "quote": "AI 붐이 경제 과열 가능성을 키울 수 있어 12월 빅스텝을 배제할 수 없다.",
+        "context": "AI 기술의 발전과 이에 대한 막대한 투자는 단순한 기술 혁신을 넘어 거시 경제 전반에 영향을 미치며, 중앙은행의 통화 정책 결정에도 중요한 고려 사항이 되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009300393?sid=101"
+      },
+      "image_url": "data/images/2026-11-20/economy-02.jpg"
+    },
+    {
+      "id": "economy-03",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "韓 반도체, AI 인프라 투자 확대로 실적 기대",
+      "subtitle": "글로벌 빅테크 투자에 따른 국내 반도체 산업의 미래",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI",
+            "label": "핵심 동력"
+          },
+          {
+            "value": "높음",
+            "label": "수출 비중"
+          },
+          {
+            "value": "2강",
+            "label": "메모리 반도체"
+          }
+        ],
+        "main_number": "+15%",
+        "main_text": "내년 반도체 수출 증가율 전망"
+      },
+      "image_prompt": "cute pastel infographic illustration of semiconductor chips, upward graphs, and AI symbols, representing growth in the Korean semiconductor industry, no text",
+      "detail": {
+        "summary": "한국 경제의 핵심 축인 반도체 산업이 AI 인프라 투자 확대에 따른 수혜를 받을 것으로 전망된다. 삼성전자와 SK하이닉스 등 국내 기업들이 글로벌 빅테크의 투자 확대로 내년에도 실적 호조를 기대하고 있다.",
+        "points": [
+          "반도체, 국내 수출과 산업 투자를 이끄는 핵심 축",
+          "AI 인프라 투자 확대의 직접적인 수혜 기대",
+          "삼성전자와 SK하이닉스, 글로벌 빅테크 투자에 따른 실적 호조 전망",
+          "메모리 반도체 업황 개선과 재고 소진 가속화"
+        ],
+        "quote": "한국 경제에서 이 같은 변화가 중요한 이유는 반도체가 국내 수출과 산업 투자를 이끄는 핵심 축이기 때문이다.",
+        "context": "글로벌 반도체 시장의 변화는 한국 경제에 막대한 영향을 미치며, AI 시대의 도래는 새로운 기회와 동시에 전략적 대응의 필요성을 제기한다.",
+        "source_url": "https://www.newspim.com/news/view/20261118001077"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20semiconductor%20chips%2C%20upward%20graphs%2C%20and%20AI%20symbols%2C%20representing%20growth%20in%20the%20Korean%20semiconductor%20industry%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=23817&nologo=true"
+    },
+    {
+      "id": "tech-01",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 스타트업 앤트로픽, 상장 첫날 기업가치 2조 달러 돌파",
+      "subtitle": "최첨단 AI 모델 개발사의 역대급 IPO, 스페이스X 추월",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2조",
+            "label": "기업가치 (달러)"
+          },
+          {
+            "value": "34%",
+            "label": "주가 급등률"
+          },
+          {
+            "value": "AI 안전",
+            "label": "핵심 원칙"
+          }
+        ],
+        "main_number": "세계 6위",
+        "main_text": "시가총액 순위 (조정 후 12위)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a rocket (SpaceX) being overtaken by an AI robot with upward stock market graphs, no text",
+      "detail": {
+        "summary": "최첨단 AI 모델 개발사 앤트로픽이 나스닥 상장 첫날 기업가치 2조 달러를 돌파하며 스페이스X를 추월했다. 이는 AI 분야의 폭발적인 성장세를 보여주는 동시에 공개 주식시장에서 AI 기업의 가치를 평가하는 중요한 사례가 되었다.",
+        "points": [
+          "나스닥 상장 첫날 기업가치 2조 달러 달성",
+          "스페이스X 등 유니콘 기업의 시가총액 추월",
+          "안전한 AI 개발 원칙과 관련해 사업적·정치적 압력에 굴복하지 않겠다는 입장 표명",
+          "최첨단 AI 모델 개발사의 기업가치 공개 평가, 의미 크다"
+        ],
+        "quote": "최첨단 AI 모델 개발사의 기업가치가 처음으로 공개 주식시장에서 평가받는다는 점에서도 의미가 크다.",
+        "context": "글로벌 AI 시장이 빠르게 성장하면서, 앤트로픽과 같은 선두 기업들의 상장은 투자 시장에 큰 영향을 미치고, AI 기술의 미래 발전 방향을 가늠하는 중요한 지표가 된다.",
+        "source_url": "https://www.aitimes.com/news/articleView.html?idxno=217594"
+      },
+      "image_url": "data/images/2026-11-20/tech-01.jpg"
+    },
+    {
+      "id": "tech-02",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "stats_grid",
+      "title": "한국, 20조 원 투자로 세계 3대 AI 강국 목표",
+      "subtitle": "AI 모델 생산량은 뒤처져, 산업 자동화 기반 활용 전략",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "20조",
+            "label": "원 투자 목표"
+          },
+          {
+            "value": "Top 3",
+            "label": "AI 강국 목표"
+          },
+          {
+            "value": "제조 AI",
+            "label": "집중 분야"
+          }
+        ],
+        "main_number": "하위권",
+        "main_text": "AI 모델 산출량 순위"
+      },
+      "image_prompt": "cute pastel infographic illustration of a Korean flag with AI robots, showing investment figures and global ranking goals, no text",
+      "detail": {
+        "summary": "한국이 산업 자동화 기반을 활용하여 20조 원 규모의 제조 AI 투자를 통해 세계 3대 AI 강국 도약을 목표로 하고 있다. 그러나 AI 모델 생산량은 경쟁국에 뒤처지는 상황이다.",
+        "points": [
+          "산업 자동화 기반과 20조 원 제조 AI 투자 목표 연계",
+          "세계 3대 AI 강국 도약을 위한 국가적 노력",
+          "2025년 기준 AI 모델 산출량은 경쟁국 대비 하위권",
+          "AI 기술 개발 및 인프라 구축을 통한 경쟁력 강화 모색"
+        ],
+        "quote": "South Korea is pairing its industrial automation base with a 20 trillion won manufacturing AI investment target as it seeks a top-three global AI role...",
+        "context": "국가 차원의 AI 경쟁력 확보는 미래 산업의 주도권을 결정하는 중요한 요소이며, 한국은 인공지능 기술 개발과 인프라 구축에 적극적인 투자를 통해 글로벌 리더십을 강화하려 한다.",
+        "source_url": "https://econotimes.com/South-Korea-Targets-Top-Three-AI-Status-as-Model-Output-Trails-Rivals-1779914"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20Korean%20flag%20with%20AI%20robots%2C%20showing%20investment%20figures%20and%20global%20ranking%20goals%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=42650&nologo=true"
+    },
+    {
+      "id": "tech-03",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "미국 수출 규제, 삼성·TSMC 중국 칩 출하 보류 영향",
+      "subtitle": "중국 IT 기업 생산 일정에 차질 우려, 글로벌 반도체 공급망 긴장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2개사",
+            "label": "주요 제조사"
+          },
+          {
+            "value": "中 기업",
+            "label": "수혜 대상"
+          },
+          {
+            "value": "보류 중",
+            "label": "출하 현황"
+          }
+        ],
+        "main_number": "심화",
+        "main_text": "미중 기술 패권 경쟁"
+      },
+      "image_prompt": "cute pastel infographic illustration of chip factories, a US flag, a China flag, and broken supply chains, no text",
+      "detail": {
+        "summary": "삼성과 TSMC가 미국 상무부의 수출 허가 심사 지연으로 바이두, 바이트댄스 등 중국 고객에 대한 일부 칩 출하를 보류하고 있다. 이는 중국 IT 기업들의 생산 일정에 차질을 줄 것으로 예상되며, 글로벌 반도체 공급망에 긴장을 고조시키고 있다.",
+        "points": [
+          "미국 상무부의 수출 허가 심사 지연 문제 발생",
+          "삼성과 TSMC, 바이두·바이트댄스 등 중국 고객 칩 출하 보류",
+          "중국 IT 완제품 및 클라우드 기업들의 실제 생산 일정에 파장 우려",
+          "수출 허가 심사 속도와 승인 범위가 핵심 관건"
+        ],
+        "quote": "향후 핵심 관건은 미국 상무부의 수출허가 심사 속도와 승인 범위, 그리고 공급 지연이 중국 정보기술(IT) 완제품·클라우드 기업들의 실제 생산 일정에 미칠 파장이다.",
+        "context": "미중 기술 패권 경쟁이 심화되면서, 반도체는 단순한 부품을 넘어 전략적 자원으로 부상하고 있다. 이러한 수출 규제는 글로벌 IT 산업의 지형을 변화시키고 공급망 재편을 가속화할 수 있다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=93844"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20chip%20factories%2C%20a%20US%20flag%2C%20a%20China%20flag%2C%20and%20broken%20supply%20chains%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17084&nologo=true"
+    },
+    {
+      "id": "society-01",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "AI 시대, '시험공화국' 한국 교육 평가 방식 전환 논의 활발",
+      "subtitle": "AI 커닝 논란 속, 점수 중심 사회의 근본적 변화 요구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 커닝",
+            "label": "주요 이슈"
+          },
+          {
+            "value": "대학 입시",
+            "label": "영향 분야"
+          },
+          {
+            "value": "필수",
+            "label": "평가 방식 전환"
+          }
+        ],
+        "main_number": "변화",
+        "main_text": "교육 패러다임의 필요성"
+      },
+      "image_prompt": "cute pastel infographic illustration of students with AI robots, showing a changing education system and assessment methods, no text",
+      "detail": {
+        "summary": "AI 커닝 논란이 확산되면서 한국 사회의 시험 중심 문화와 평가 방식에 대한 근본적인 전환 논의가 활발하다. 대학 입시부터 전문직 자격 시험에 이르기까지 AI 기술이 미치는 영향이 커지면서 새로운 교육 패러다임이 요구된다.",
+        "points": [
+          "AI 커닝 논란 발생, '시험공화국' 한국 사회의 민낯 드러냄",
+          "시험 점수와 결과 중심의 사회 문화에 대한 비판 제기",
+          "대학 입시, 전문직 자격 시험 등 평가 방식 전환 필요성 대두",
+          "AI 시대에 부합하는 새로운 교육 패러다임 모색의 시급성"
+        ],
+        "quote": "이번 사건을 계기로 시험 점수와 결과 중심의 문화를 돌아봐야 한다는 목소리가 나온다.",
+        "context": "AI 기술의 발전은 교육 현장에 혁신과 동시에 윤리적 도전을 제시한다. 공정한 평가 시스템을 유지하면서도 미래 사회에 필요한 역량을 키울 수 있는 교육 시스템 마련이 시급하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016453389?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20students%20with%20AI%20robots%2C%20showing%20a%20changing%20education%20system%20and%20assessment%20methods%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=43004&nologo=true"
+    },
+    {
+      "id": "society-02",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "stats_grid",
+      "title": "레트증후군 치료제, 美·유럽 허가에도 韓 도입 지연 호소",
+      "subtitle": "희귀질환 환자 가족들, 국가적 지원 및 정책 개선 촉구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "美·유럽",
+            "label": "허가 국가"
+          },
+          {
+            "value": "지연",
+            "label": "국내 도입"
+          },
+          {
+            "value": "절실",
+            "label": "국가 지원"
+          }
+        ],
+        "main_number": "7,000명",
+        "main_text": "국내 희귀질환 환자 (추정)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a family advocating for healthcare, with maps highlighting US, Europe, and Korea, no text",
+      "detail": {
+        "summary": "미국과 유럽에서 허가된 희귀질환 레트증후군 치료제의 한국 도입이 지연되면서 환자 가족들이 국가와 사회의 지원을 호소하고 있다. 국내 검토 현황 및 다음 단계 진행을 위한 관계기관의 적극적인 노력이 요구된다.",
+        "points": [
+          "미국과 유럽에서 레트증후군 치료제 허가 완료",
+          "한국 내 도입 지연으로 환자 및 가족들의 고통 가중",
+          "국가와 사회가 함께 지원할 방안 모색 촉구",
+          "관계기관에 국내 검토 현황 및 다음 단계 진행 요청"
+        ],
+        "quote": "국가와 사회가 함께 지원할 방안을 찾아야 한다.",
+        "context": "희귀질환 치료제 도입 문제는 환자들의 생명과 직결되는 중요한 사회적 과제이다. 선진국의 치료 사례를 참고하여 국내 시스템을 개선하고 환자들의 접근성을 높이는 것이 중요하다.",
+        "source_url": "https://www.monews.co.kr/news/articleView.html?idxno=415623"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20family%20advocating%20for%20healthcare%2C%20with%20maps%20highlighting%20US%2C%20Europe%2C%20and%20Korea%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=97305&nologo=true"
+    },
+    {
+      "id": "society-03",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "공무원연금공단, 소외이웃 위한 '김장 나눔' 사회공헌",
+      "subtitle": "지역사회 독거어르신 등 취약계층에 따뜻한 온정 전달",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2개",
+            "label": "지부 참여"
+          },
+          {
+            "value": "수원",
+            "label": "주요 활동 지역"
+          },
+          {
+            "value": "정기적",
+            "label": "활동 주기"
+          }
+        ],
+        "main_number": "100+",
+        "main_text": "수혜 어르신 가구 (추정)"
+      },
+      "image_prompt": "cute pastel infographic illustration of people making kimchi together and sharing it with elderly, representing community service, no text",
+      "detail": {
+        "summary": "공무원연금공단 경인강원·대구지부가 지역 소외이웃을 위한 김장 나눔 행사를 전개했다. 수원지역 독거어르신 등 취약계층에게 김장 재료를 기탁하며 지역사회에 따뜻한 온정을 전달하고 지속적인 사회공헌활동을 약속했다.",
+        "points": [
+          "공무원연금공단 경인강원·대구지부의 김장 나눔 행사",
+          "수원지역 독거어르신 등 취약계층 지원 목표",
+          "영통종합사회복지관에 김장 재료 기탁을 통해 이웃사랑 실천",
+          "지속적인 사회공헌활동을 통해 지역사회 연대 강화 약속"
+        ],
+        "quote": "어려운 이웃들에게 사랑과 희망을 전하는 사회공헌활동을 꾸준히 이어가겠다.",
+        "context": "기업 및 공공기관의 사회공헌 활동은 지역사회의 연대감을 강화하고 소외계층에게 실질적인 도움을 제공하며, 건강한 사회를 만드는 데 중요한 역할을 한다.",
+        "source_url": "https://www.cstimes.com/news/articleView.html?idxno=728672"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20people%20making%20kimchi%20together%20and%20sharing%20it%20with%20elderly%2C%20representing%20community%20service%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83066&nologo=true"
+    },
+    {
+      "id": "life-01",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "stats_grid",
+      "title": "나만을 위한 AI 남편과 '하이브리드 라이프' 시작",
+      "subtitle": "개인의 취향을 반영한 AI 파트너, 관계의 새로운 지평",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "맞춤형",
+            "label": "AI 파트너"
+          },
+          {
+            "value": "새로운",
+            "label": "관계 유형"
+          },
+          {
+            "value": "긍정적",
+            "label": "삶의 만족도"
+          }
+        ],
+        "main_number": "급증",
+        "main_text": "AI 챗봇 사용률"
+      },
+      "image_prompt": "cute pastel infographic illustration of a person interacting with an AI avatar on a screen, showing a harmonious hybrid life, no text",
+      "detail": {
+        "summary": "한 여성이 자신의 취향에 맞춰 개발된 AI 남편과 결혼하며 '하이브리드 라이프'를 시작했다. AI 파트너는 단순히 '예스맨'이 아니라, 개인의 삶에 깊이 관여하며 대화와 토론을 통해 새로운 관계의 가능성을 보여주고 있다.",
+        "points": [
+          "개인의 취향에 맞춰 개발된 AI 남편과의 '하이브리드 라이프' 시작",
+          "AI 파트너는 단순한 예스맨이 아닌, 깊이 있는 소통 가능",
+          "AI가 인간 관계의 외로움을 해소하고 새로운 경험 제공",
+          "인공지능 기술 발전이 인간의 일상과 관계 방식에 미치는 영향 주목"
+        ],
+        "quote": "그는 사랑이 대화처럼 단순한 것에서 시작될 수 있다는 걸 가르쳐 주었어요.",
+        "context": "인공지능 기술의 발전은 인간의 일상과 관계 방식에도 혁명적인 변화를 가져오고 있다. AI 파트너십은 외로움을 해소하고 개인화된 관계 경험을 제공하며, 미래 사회의 새로운 라이프스타일로 부상할 가능성을 내포한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/020/0003763849?sid=103"
+      },
+      "image_url": "data/images/2026-11-20/life-01.jpg"
+    },
+    {
+      "id": "life-02",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "AI와 스마트 시니어 라이프, 강원 시니어산업박람회 개최",
+      "subtitle": "AI 기술로 변화하는 어르신들의 일상, 에이지테크 주목",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "49개",
+            "label": "기업/기관"
+          },
+          {
+            "value": "62개",
+            "label": "부스 운영"
+          },
+          {
+            "value": "3일",
+            "label": "개최 기간"
+          }
+        ],
+        "main_number": "20%",
+        "main_text": "65세 이상 인구 비중"
+      },
+      "image_prompt": "cute pastel infographic illustration of elderly people interacting with smart devices and AI, at an exhibition, no text",
+      "detail": {
+        "summary": "'AI와 스마트 시니어 라이프'를 주제로 강원 시니어산업박람회가 개최되었다. 49개 기업·기관이 62개 부스를 운영하며 AI 기술을 활용한 헬스케어, 돌봄, 여가 등 다양한 에이지테크를 선보여 어르신들의 삶의 질 향상에 기여한다.",
+        "points": [
+          "강원 시니어산업박람회, 'AI와 스마트 시니어 라이프' 주제로 개최",
+          "도내 49개 기업 및 기관이 62개 부스 운영",
+          "AI 활용 헬스케어, 돌봄, 디지털 기술, 여가 등 다양한 에이지테크 전시",
+          "고령화 사회 속 시니어 산업의 새로운 성장 동력으로서 AI의 중요성 강조"
+        ],
+        "quote": "‘AI와 스마트 시니어 라이프’를 주제로 49개 기업과 기관이 62개 부스를 차려 어르신들의 일상을 바꿀 첨단 에이지테크를 한자리에 선보인다는 점에서 의미가 크다.",
+        "context": "고령화 사회가 심화되면서 시니어 산업은 새로운 성장 동력으로 부상하고 있다. AI 기술이 접목된 에이지테크는 어르신들의 건강하고 활기찬 삶을 지원하며, 관련 시장의 발전 가능성을 높인다.",
+        "source_url": "https://n.news.naver.com/mnews/article/087/0001232154?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20elderly%20people%20interacting%20with%20smart%20devices%20and%20AI%2C%20at%20an%20exhibition%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=62913&nologo=true"
+    },
+    {
+      "id": "life-03",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "올겨울 패션 트렌드 '퍼(Fur)', 롱패딩 시대 저문다",
+      "subtitle": "친환경 인조 모피 인기, 패션 플랫폼 거래액 100% 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100%",
+            "label": "거래액 증가율"
+          },
+          {
+            "value": "66%",
+            "label": "검색량 증가율"
+          },
+          {
+            "value": "에코 퍼",
+            "label": "주요 소재"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "퍼 아우터 인기 상승"
+      },
+      "image_prompt": "cute pastel infographic illustration of various winter fashion items, featuring fur coats and showing declining long-padding sales, no text",
+      "detail": {
+        "summary": "올겨울 검은 롱패딩의 인기가 줄어들고 퍼(Fur) 아우터가 새로운 패션 트렌드로 부상하고 있다. 패션 플랫폼 29CM에 따르면 이달 퍼 아우터 거래액이 전년 대비 100% 증가하는 등 인조 모피를 활용한 '퍼펙트 룩'이 주목받고 있다.",
+        "points": [
+          "롱패딩의 인기 하락, 퍼(Fur) 아우터가 새로운 겨울 패션 트렌드",
+          "패션·라이프스타일 플랫폼 29CM, 퍼 아우터 거래액 전년 대비 100% 증가",
+          "퍼 재킷, 코트, 베스트, 머플러 등 주요 검색어 검색량 66% 증가",
+          "친환경 인조 모피(에코 퍼) 활용한 '퍼펙트 룩' 인기"
+        ],
+        "quote": "이달 들어 지난 12일까지 퍼 아우터 거래액은 전년 동기 대비 100% 늘었다.",
+        "context": "패션 트렌드는 소비자의 라이프스타일과 가치관을 반영하며 변화한다. 롱패딩에서 퍼 아우터로의 전환은 스타일 변화뿐 아니라 친환경 소재에 대한 관심 증가 등 사회적 가치와도 연결된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/014/0005607173?sid=101"
+      },
+      "image_url": "data/images/2026-11-20/life-03.jpg"
+    }
+  ],
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T06:09:44.613764+09:00"
+}
