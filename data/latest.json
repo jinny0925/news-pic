@@ -1,662 +1,621 @@
 {
   "cards": [
     {
-      "id": "economy-35",
+      "id": "world-eu-digital-tax",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "EU, 빅테크 디지털세 공식 제안…美와 통상 마찰 예고",
+      "subtitle": "주요 기술 기업에 대한 과세 강화, 글로벌 영향은?",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10월 초",
+            "label": "제안 시점"
+          },
+          {
+            "value": "미국",
+            "label": "주요 반대국"
+          },
+          {
+            "value": "EU 27개국",
+            "label": "적용 대상"
+          }
+        ],
+        "main_number": "3%",
+        "main_text": "예상 매출액 과세율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a large tech company logo being taxed by EU symbols",
+      "detail": {
+        "summary": "EU가 빅테크 기업에 대한 디지털세 도입을 공식 제안하며, 미국 트럼프 행정부와의 통상 마찰 가능성이 커지고 있습니다.",
+        "points": [
+          "디지털세 도입 시 미국 기업에 불리할 것이라는 우려",
+          "트럼프 정부의 보호무역주의 강화 가능성",
+          "유럽 내에서도 도입 방식과 효과에 대한 이견 존재",
+          "디지털 경제의 공정한 과세 원칙 확립 목표"
+        ],
+        "quote": "미국 공화당의 중간선거 완패로 트럼프 대통령의 레임덕이 현실화하자 EU가 디지털세를 추진하는 것으로 해석된다.",
+        "context": "디지털세는 물리적 사업장이 없어도 막대한 수익을 올리는 빅테크 기업에 과세하려는 움직임으로, 기존 국제 조세 체계의 한계를 극복하려는 시도입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016455968?sid=104"
+      },
+      "image_url": "data/images/2026-11-22/world-eu-digital-tax.jpg"
+    },
+    {
+      "id": "world-argentina-risk",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "line_chart",
+      "title": "아르헨티나 국가위험도 4개월 새 급등…국채금리 美보다 10%p↑",
+      "subtitle": "정치적 불확실성 증폭, 투자 심리 위축 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4개월",
+            "label": "급등 기간"
+          },
+          {
+            "value": "+10%p",
+            "label": "금리 차이"
+          },
+          {
+            "value": "-5.9%",
+            "label": "정부신뢰지수 하락"
+          }
+        ],
+        "main_number": "↑10%p",
+        "main_text": "美 국채 대비 금리 스프레드"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, Argentina flag with a downward trend line, money flowing out",
+      "detail": {
+        "summary": "아르헨티나의 국가위험도가 4개월 만에 급등하며, 국채금리가 미국 국채보다 10%p 이상 높아져 투자 심리가 크게 위축되고 있습니다.",
+        "points": [
+          "정부신뢰지수 9월 전월 대비 5.9% 하락",
+          "2027년 대선 불확실성이 투자 심리 악화",
+          "하비에르 밀레이 대통령의 재집권 실패 우려 확산",
+          "높은 인플레이션과 경제 불안정 지속"
+        ],
+        "quote": "정치적 불확실성도 투자 심리를 위축시켰습니다.",
+        "context": "고질적인 경제 위기를 겪고 있는 아르헨티나는 최근 정치적 불안정까지 겹치며 채무 불이행 위험이 커지고 있어, 국제 금융 시장의 우려를 사고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/056/0012298724?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20Argentina%20flag%20with%20a%20downward%20trend%20line%2C%20money%20flowing%20out%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58893&nologo=true"
+    },
+    {
+      "id": "world-china-rareearth",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "中 10월 희토류 자석 수출 7.6% 감소…對美·EU↓, 對日↑",
+      "subtitle": "미중 통상 마찰 속 희토류 공급망 재편 움직임",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "-7.6%",
+            "label": "총 수출 감소"
+          },
+          {
+            "value": "+25%",
+            "label": "對日 수출 증가"
+          },
+          {
+            "value": "95%",
+            "label": "세계 생산 점유율"
+          }
+        ],
+        "main_number": "-7.6%",
+        "main_text": "중국 희토류 자석 총 수출 감소"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, map of China exporting rare earth magnets to Japan, less to US/EU",
+      "detail": {
+        "summary": "중국의 10월 희토류 자석 수출이 전년 대비 7.6% 감소했으며, 특히 미국과 EU로의 수출은 줄었지만 일본으로의 수출은 25% 급증했습니다.",
+        "points": [
+          "희토류는 전기차 구동 모터 등 첨단 산업 핵심 소재",
+          "중국이 전 세계 희토류 생산의 95%를 장악",
+          "미국과의 통상 협상 및 정상외교의 지렛대로 활용",
+          "트럼프 전 대통령의 '10개월 내 추격' 발언은 비현실적 지적"
+        ],
+        "quote": "전 세계 공급망의 핵심 전략 물질인 희토류를 둘러싼 국제 정치 역학이 복잡하게 전개되고 있다.",
+        "context": "희토류는 첨단 산업의 필수 소재로, 중국의 공급 독점은 국제 무역에서 중요한 전략적 카드로 작용하고 있습니다. 최근 수출 변화는 미중 갈등 심화와 공급망 재편 움직임을 반영합니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026112116224227760c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-22/world-china-rareearth.jpg"
+    },
+    {
+      "id": "economy-china-hydrogen",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "中, 네이멍구 수소 파이프라인 가동…운송비 77% 절감",
+      "subtitle": "195km 길이, 연간 10만 톤 그린수소 운송 역량 구축",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "195km",
+            "label": "파이프라인 길이"
+          },
+          {
+            "value": "10만 톤",
+            "label": "연간 운송량"
+          },
+          {
+            "value": "77%",
+            "label": "운송비 절감"
+          }
+        ],
+        "main_number": "-77%",
+        "main_text": "그린수소 운송 단가 절감"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a long pipeline transporting green hydrogen, showing cost reduction",
+      "detail": {
+        "summary": "중국 네이멍구에서 195km 길이의 수소 파이프라인이 가동을 시작하며, 그린수소 운송비용을 77% 절감하고 연간 10만 톤의 운송 역량을 확보했습니다.",
+        "points": [
+          "kg당 운송 단가 3위안대로 낮춰 경제성 확보",
+          "중국 국영 발전사 '중국화디엔' 주도 프로젝트",
+          "수소에너지 기술 및 인프라 확충 가속화",
+          "글로벌 탄소중립 목표 달성에 기여"
+        ],
+        "quote": "이번 프로젝트는 수소 에너지의 대규모 운송과 경제성 확보에 중요한 이정표가 될 것이다.",
+        "context": "수소경제 전환의 핵심은 생산된 수소를 효율적으로 운송하는 것입니다. 대규모 파이프라인은 운송 비용을 획기적으로 낮춰 수소의 경제성을 높이고 상용화를 앞당기는 데 기여합니다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026112116414085160c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20long%20pipeline%20transporting%20green%20hydrogen%2C%20showing%20cost%20reduction%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=35525&nologo=true"
+    },
+    {
+      "id": "economy-korea-growth",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "한은, 올해 성장률 3%대 후반 전망…'내년 추가 상향 가능성'",
+      "subtitle": "반도체 호황 등 긍정적 요인, 통화 긴축 필요성 제기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3%대 후반",
+            "label": "올해 성장률"
+          },
+          {
+            "value": "내년",
+            "label": "추가 상향 가능성"
+          },
+          {
+            "value": "6명 중 6명",
+            "label": "전문가 전망"
+          }
+        ],
+        "main_number": "↑3% 후반",
+        "main_text": "올해 한국 경제 성장률 예상치"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a rising economic growth chart with South Korea symbols",
+      "detail": {
+        "summary": "한국은행이 올해 실질 경제성장률 전망치를 3%대 후반으로 높일 것으로 예상되며, 내년 성장률도 추가 상향될 가능성이 있습니다.",
+        "points": [
+          "연합뉴스 설문 전문가 6명 모두 3%대 후반 성장률 전망",
+          "반도체 호황이 성장률 견인의 주된 요인",
+          "국제통화기금(IMF) 및 한국개발연구원(KDI)도 상향 조정",
+          "성장률 전망 상향에도 추가 통화 긴축 필요성 제기"
+        ],
+        "quote": "수출 호조와 반도체 업황 개선이 성장을 이끌고 있다.",
+        "context": "세계 경제 불확실성 속에서도 한국 경제가 반도체 수출 호조에 힘입어 견조한 성장세를 보일 것으로 예측됩니다. 이는 물가 안정과 함께 통화 정책 방향을 결정하는 중요한 변수가 될 것입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016455976?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20rising%20economic%20growth%20chart%20with%20South%20Korea%20symbols%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86865&nologo=true"
+    },
+    {
+      "id": "economy-interest-rate",
       "is_headline": true,
       "category": "economy",
       "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "美 증시, AI 기술주 '폭락'…나스닥 휘청",
-      "subtitle": "앤트로픽 상장 후 주가 급락, 엔비디아 7주 연속 하락",
+      "viz_type": "timeline",
+      "title": "한은, 금리 인상 재개 전망…'내년까지 긴축'",
+      "subtitle": "석 달 만에 다시 오르는 금리, 가계·기업 영향은?",
       "viz_data": {
         "stats": [
           {
-            "value": "-17.07%",
-            "label": "앤트로픽 상장 첫날"
+            "value": "3개월",
+            "label": "동결 기간"
           },
           {
-            "value": "-13%",
-            "label": "엔비디아 폭락"
+            "value": "25bp",
+            "label": "예상 인상폭"
           },
           {
-            "value": "7주 연속",
-            "label": "하락 지속"
-          }
-        ],
-        "main_number": "-1.8%",
-        "main_text": "나스닥 종합지수 하락률 (예시)"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "최근 상장된 AI 기업 앤트로픽의 주가 급락과 엔비디아의 7주 연속 하락이 미국 증시, 특히 대형 기술주와 AI 관련 주식에 큰 충격을 주었습니다.",
-        "points": [
-          "앤트로픽 주가 상장 첫날 급락",
-          "엔비디아 7주 연속 하락 기록, 금융위기 이후 최장",
-          "나스닥 등 대형 기술주 투매 현상 유발",
-          "AI주 전반에 대한 의구심과 물량 부담 증가"
-        ],
-        "quote": "AI주 전반에 대한 의구심과 물량 부담이 커지면서 주요 기술주 투매 흐름을 유발했다.",
-        "context": "인공지능(AI) 기술이 미래 산업의 핵심 동력으로 주목받는 가운데, 관련 기술주들의 급격한 변동성은 시장 전체의 불안감을 높이고 투자자들에게 신중한 접근을 요구하고 있습니다.",
-        "source_url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173375"
-      },
-      "image_url": "data/images/2026-11-21/economy-35.jpg"
-    },
-    {
-      "id": "world-4",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "network",
-      "title": "미·중·러, 빅딜 없는 '기득권 정치' 확인",
-      "subtitle": "강대국 간 협의, 세계 평화보다 자기이익 추구에 초점",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3국",
-            "label": "참여국"
-          },
-          {
-            "value": "자기 이익",
-            "label": "주요 논의"
-          },
-          {
-            "value": "0건",
-            "label": "핵심 사안 빅딜"
-          }
-        ],
-        "main_number": "기득권",
-        "main_text": "강대국들의 주요 관심사"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "미·중·러 3국 정상회담에서 세계 평화라는 명분보다 각국의 기득권 유지와 자기이익 추구에 초점이 맞춰지며, 큰 합의 없이 끝났다는 분석이 나왔습니다.",
-        "points": [
-          "미·중·러 3국 정상회담, 빅딜 없이 마무리",
-          "강대국들의 기득권 정치와 자기이익 추구 드러나",
-          "국제사회 제약 없이 영향력 유지 목표",
-          "유엔 안전보장이사회 대응력 제고 논의에 그쳐"
-        ],
-        "quote": "강대국간 거래 부활 우려 시각도 있지만, 그것보다 기득권 정치, 즉 사활적 자기 이익을 지킨 것이다.",
-        "context": "국제사회의 주요 현안 해결에 핵심적 역할을 하는 강대국들이 자국의 이익을 우선시하면서, 글로벌 협력이 어려워질 수 있다는 우려가 제기되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/417/0001165131?sid=100"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=32866&nologo=true"
-    },
-    {
-      "id": "world-18",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "bar_chart",
-      "title": "'동아시아 정상회의', 中 의전 논란",
-      "subtitle": "한·일 정상 참석에도 중국 농업부 장관만 파견",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "韓 대통령",
-            "label": "참석"
-          },
-          {
-            "value": "日 총리",
-            "label": "참석"
-          },
-          {
-            "value": "中 농업부장",
-            "label": "참석"
-          }
-        ],
-        "main_number": "장관급",
-        "main_text": "중국 대표의 직위"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "동아시아 정상회의에 한국 대통령과 일본 총리가 참석한 반면, 중국은 농업농촌부 장관만 파견하여 이례적인 의전 논란을 불러일으켰습니다.",
-        "points": [
-          "동아시아 정상회의 중국 대표 참석 등급 논란",
-          "중국공산당 중앙정치국 상무위원 및 위원 축에도 못 낀 인사",
-          "국제 외교 무대에서의 의전 관행과 중요성 부각",
-          "중국의 외교적 메시지에 대한 다양한 해석"
-        ],
-        "quote": "농업농촌부장은 중국공산당 중앙정치국 상무위원(7인)은 물론 정치국 위원(22인) 축에도 못 낀다.",
-        "context": "중국이 아시아태평양 경제협력체(APEC) 정상회의와 동아시아 정상회의 등 주요 국제 무대에서 보여준 의전 태도는 주변국과의 관계와 외교 정책 방향에 대한 다양한 해석을 낳고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/053/0000063225?sid=104"
-      },
-      "image_url": "data/images/2026-11-21/world-18.jpg"
-    },
-    {
-      "id": "world-81",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "pie_chart",
-      "title": "美 의회, 中 바이오 산업 장악 우려 경고",
-      "subtitle": "2030년 세계 신약 1/4 개발 목표, 미국의 선제적 행동 촉구",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2030년",
-            "label": "목표 시점"
-          },
-          {
-            "value": "25%",
-            "label": "세계 신약 개발 목표"
-          },
-          {
-            "value": "美 의회",
-            "label": "우려 표명"
-          }
-        ],
-        "main_number": "1/4",
-        "main_text": "중국의 신약 시장 점유율 목표"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "미국 의회 위원회는 중국이 2030년까지 세계 신약의 25%를 개발하겠다는 목표를 세우며 바이오 산업을 장악하려 한다고 경고하며 즉각적인 행동을 촉구했습니다.",
-        "points": [
-          "중국의 공격적인 바이오 산업 확장 전략",
-          "2030년 세계 '계열 내 최초' 신약 4분의 1 목표",
-          "미국 의회의 국가 안보 및 경제 우려 표명",
-          "첨단 기술 분야에서의 미중 경쟁 심화"
-        ],
-        "quote": "중국은 2030년까지 세계 계열 내 최초 신약의 4분의 1을 자국에서 내놓겠다는 목표를 세웠다.",
-        "context": "미국은 바이오 산업을 미래 핵심 기술이자 국가 안보와 직결된 분야로 인식하고 있으며, 중국의 급성장에 대한 견제와 자국 산업 보호를 위한 정책적 노력을 강화하고 있습니다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549492"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88782&nologo=true"
-    },
-    {
-      "id": "economy-20",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "line_chart",
-      "title": "금통위, 기준금리 3.25% 인상 유력",
-      "subtitle": "올해 마지막 금통위, 수정 경제전망도 주목",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3.25%",
-            "label": "예상 기준금리"
-          },
-          {
-            "value": "8월",
-            "label": "직전 전망 시점"
-          },
-          {
-            "value": "3.3%",
-            "label": "올해 성장률 전망"
+            "value": "내년까지",
+            "label": "긴축 기조"
           }
         ],
         "main_number": "+0.25%",
-        "main_text": "기준금리 인상 폭 예상"
+        "main_text": "기준금리 추가 인상 예상"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a growing interest rate graph with rising arrows and money",
       "detail": {
-        "summary": "한국은행의 올해 마지막 금융통화위원회에서 기준금리가 3.25%로 인상될 가능성이 높으며, 함께 발표될 수정 경제전망에 시장의 관심이 쏠리고 있습니다.",
+        "summary": "한국은행이 수출 호조와 인플레이션 압력 지속으로 석 달 만에 기준금리 인상 기조를 재개할 것으로 전망됩니다.",
         "points": [
-          "한국은행 올해 마지막 금통위 개최",
-          "기준금리 3.25% 인상 전망 우세",
-          "수정 경제전망 발표에 시장 주목",
-          "물가 및 성장률 예상치 조정 가능성"
+          "경제 전문가 6명 중 5명, 0.25%p 인상 예상",
+          "미국 연준도 12월 금리 인상 전망",
+          "수출 호조와 물가 상승 압력이 인상 배경",
+          "가계 부채 및 기업 투자에 영향 예상"
         ],
-        "quote": "기준금리 결정과 함께 발표되는 수정 경제전망도 주요 관전포인트다.",
-        "context": "고물가와 경기 침체 우려가 공존하는 상황에서 한국은행이 인플레이션을 억제하기 위해 추가 금리 인상을 단행할지, 아니면 경기 둔화를 고려한 동결을 선택할지 주목되고 있습니다.",
-        "source_url": "https://www.etoday.co.kr/news/view/2650977"
+        "quote": "성장과 물가 모두 금리 인상을 지지하고 있다.",
+        "context": "최근 수출 호조세와 지속되는 인플레이션 압력으로, 한국은행이 경기 둔화 우려에도 불구하고 물가 안정을 위해 긴축 기조를 이어갈 것으로 보입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016455975?sid=101"
       },
-      "image_url": "data/images/2026-11-21/economy-20.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20growing%20interest%20rate%20graph%20with%20rising%20arrows%20and%20money%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20895&nologo=true"
     },
     {
-      "id": "economy-38",
+      "id": "tech-kakao-innovation",
       "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "K-수출 1조달러 주역, AI 반도체로 대전환",
-      "subtitle": "49년 만에 수출 품목 구조 변화, 반도체 비중 32.6%",
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "카카오 김범수, 다시 혁신 이끌까?…카톡 이후 16년, 새로운 도전",
+      "subtitle": "2010년 카카오톡, 2026년 피클…연이은 성공 신화의 과제",
       "viz_data": {
         "stats": [
           {
-            "value": "1조달러",
-            "label": "수출 규모"
+            "value": "2010년",
+            "label": "카카오톡 출시"
           },
           {
-            "value": "49년",
-            "label": "구조 변화 기간"
+            "value": "2026년",
+            "label": "피클 출시"
           },
           {
-            "value": "32.6%",
-            "label": "반도체 비중"
+            "value": "16년",
+            "label": "혁신 주기"
           }
         ],
-        "main_number": "1400배",
-        "main_text": "반도체 수출액 49년 간 증가율"
+        "main_number": "2번",
+        "main_text": "성공적인 메신저 혁신 사례"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a timeline showing Kakao Talk and a new app 'Pickle' with innovation symbols",
       "detail": {
-        "summary": "대한민국 수출의 주역이 냉동어류·합판에서 AI 반도체로 바뀌면서, 연간 수출 1조 달러 시대에 수출 품목 구조가 49년 만에 대변혁을 맞이했습니다.",
+        "summary": "카카오 창업자 김범수 의장이 2010년 카카오톡에 이어 2026년 '피클'을 통해 다시 한번 혁신을 시도합니다.",
         "points": [
-          "대한민국 세계 4번째 '연간 수출 1조 달러' 달성",
-          "수출 주력 품목, 전통 산업에서 첨단 IT로 변화",
-          "반도체(전자집적회로) 수출 비중 32.6% 차지",
-          "AI 관련 첨단 IT 기기가 수출 상위 품목 석권"
+          "카카오톡 출시 당시 문자 메시지 유료화 시대에 무료 대화 혁신",
+          "성공적인 혁신은 새로운 시도를 허용하는 조직 문화에서 비롯",
+          "사내 벤처나 독립 조직을 통한 아이디어 신속 시험 필요성 강조",
+          "기존 사업의 불편을 감수하는 용기와 조직적 유연성 요구"
         ],
-        "quote": "올해(1~10월 누적 수출액 9302억달러 기준) 상위 10대 품목은 반도체와 AI 관련 첨단 IT 기기, 중화학 공업 제품이 석권했다.",
-        "context": "우리나라 경제의 성장 동력이 제조업 기반에서 첨단 기술 중심으로 전환되고 있음을 보여주는 중요한 지표로, 글로벌 시장 변화에 대한 국내 산업의 적응력을 나타냅니다.",
-        "source_url": "https://www.etoday.co.kr/news/view/2650491"
+        "quote": "부족한 것은 자원이 아니라 새로운 시도를 허용하는 조직문화다.",
+        "context": "카카오는 한국 모바일 생태계를 바꾼 혁신 기업으로 평가받지만, 성장이 정체된 상황에서 새로운 동력 확보가 절실합니다. 창업자의 혁신 DNA가 다시 발현될지 주목됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006413549?sid=105"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=3175&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20timeline%20showing%20Kakao%20Talk%20and%20a%20new%20app%20%27Pickle%27%20with%20innovation%20symbols%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28389&nologo=true"
     },
     {
-      "id": "economy-19",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "필수 항암제 품절, 환자 부담 100배 증가",
-      "subtitle": "긴급도입 불구 비급여 전환, 경제적 부담 가중",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "100배",
-            "label": "환자 부담 증가"
-          },
-          {
-            "value": "긴급도입",
-            "label": "품절 대책"
-          },
-          {
-            "value": "비급여",
-            "label": "적용 방식"
-          }
-        ],
-        "main_number": "품절",
-        "main_text": "국가필수의약품"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "필수 항암제 품절 사태로 인해 긴급 도입된 의약품이 비급여로 전환되면서, 환자들의 약값 부담이 최대 100배까지 늘어나는 문제가 발생했습니다.",
-        "points": [
-          "국가필수의약품 품절 사태 발생",
-          "긴급 도입 의약품의 비급여 전환 문제",
-          "환자 약값 부담 최대 100배 증가",
-          "안정적인 의약품 공급을 위한 제도 개선 요구"
-        ],
-        "quote": "제약사가 생산을 지속할 수 있는 경제적 여건을 마련하는 데는 별도의 제도가 필요하다는 입장이다.",
-        "context": "국가필수의약품의 안정적인 공급은 환자들의 생명과 직결되는 문제로, 품절 발생 시 비급여 전환으로 인한 환자 부담을 줄이고 제약사의 생산 지속 유인을 위한 정책적 지원이 시급합니다.",
-        "source_url": "https://www.medipana.com/news/articleView.html?idxno=422329"
-      },
-      "image_url": "data/images/2026-11-21/economy-19.jpg"
-    },
-    {
-      "id": "tech-83",
+      "id": "tech-ai-sports-market",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
       "viz_type": "pie_chart",
-      "title": "“법률 문서 업무, AI에 완전히 대체될 것”",
-      "subtitle": "알파벳 의장 예측, AI 시대 업무 변화 경고",
+      "title": "월 500만원 수익?…AI와 잠수부도 뛰어든 '골프공 리사이클링 시장'",
+      "subtitle": "IT·AI 융합으로 성장하는 스포츠 산업의 새로운 기회",
       "viz_data": {
         "stats": [
           {
-            "value": "법률 문서",
-            "label": "영향 분야"
+            "value": "500만원",
+            "label": "월 최고 수익"
           },
           {
-            "value": "완전 대체",
-            "label": "전망 수준"
+            "value": "AI",
+            "label": "핵심 기술"
           },
           {
-            "value": "알파벳 의장",
-            "label": "발언 주체"
+            "value": "IT, 금융 등",
+            "label": "확장 분야"
           }
         ],
-        "main_number": "100%",
-        "main_text": "AI에 의한 법률 문서 업무 대체율"
+        "main_number": "↑",
+        "main_text": "스포츠 산업의 새로운 성장 동력"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, AI robot collecting golf balls underwater, showing money flying",
       "detail": {
-        "summary": "알파벳(구글 모회사) 이사회 의장이 미래에는 법률 문서 업무가 인공지능(AI)에 의해 완전히 대체될 것이라고 예측하며 AI가 가져올 직업 세계의 변화에 대한 경고를 던졌습니다.",
+        "summary": "골프공 회수로 월 500만원의 수익을 올리는 사례가 등장하며, 잠수부와 AI 기술까지 활용되는 새로운 스포츠 산업 시장이 부상하고 있습니다.",
         "points": [
-          "알파벳 이사회 의장의 AI 미래 예측",
-          "법률 문서 업무의 AI 완전 대체 전망",
-          "구글의 AI 시장 선도적 역할 부각",
-          "미래 직업 시장의 큰 변화 예고"
+          "IT·인공지능 융합으로 스포츠 산업 경계 확장",
+          "골프공 회수 및 재판매 시장의 경제성 부각",
+          "스포츠 금융, 생활체육, 시니어 스포츠 등 다양한 분야로 파생",
+          "데이터와 기술을 통해 산업의 판도를 변화시키는 흐름"
         ],
-        "quote": "알파벳 이사회 의장 '법률 문서 업무, AI에 완전히 대체될 것'",
-        "context": "AI 기술의 발전은 여러 산업 분야에 혁신을 가져오고 있으며, 특히 반복적이고 데이터 기반의 업무는 AI에 의해 빠르게 자동화될 것으로 예상되어 미래 직업 시장에 대한 심도 깊은 논의가 필요합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004684551?sid=104"
+        "quote": "전통적인 스포츠의 경계를 넘어 커지는 새로운 시장을 좇는다.",
+        "context": "인공지능 기술은 단순한 IT 분야를 넘어 스포츠, 재활, 여가 등 다양한 일상 영역으로 확산되며 새로운 부가가치를 창출하고 있습니다. 이는 스포츠 산업의 패러다임 변화를 예고합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004177028?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19625&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20AI%20robot%20collecting%20golf%20balls%20underwater%2C%20showing%20money%20flying%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12156&nologo=true"
     },
     {
-      "id": "tech-73",
+      "id": "tech-ai-drug-discovery",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "AI로 신약개발 속도전…빅파마 '시간 단축', 국내 '성과 검증'",
+      "subtitle": "유전체 분석·AI 기술 결합, 후보물질 발굴 가속화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10년+",
+            "label": "기존 개발 기간"
+          },
+          {
+            "value": "-N년",
+            "label": "AI 단축 기간"
+          },
+          {
+            "value": "수조 원",
+            "label": "개발 비용"
+          }
+        ],
+        "main_number": "↑",
+        "main_text": "신약 개발 성공률 및 속도"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a laboratory with AI robots accelerating drug discovery, molecules and data",
+      "detail": {
+        "summary": "AI 기술이 신약 개발에 속도를 붙이며, 글로벌 빅파마는 개발 기간 단축에 집중하고 국내 기업들은 실질적인 성과 검증에 주력하고 있습니다.",
+        "points": [
+          "희귀질환 유전체 분석기업 '쓰리빌리언'과 프랑스 AI 기업 '딥라이프' 공동 개발",
+          "유전체 분석 역량과 AI 기술을 결합한 후보물질 발굴 목표",
+          "정부도 AI 연구 기반 확충 및 데이터·실험 인프라 지원",
+          "방대한 데이터 분석을 통해 개발 비용 및 시간 대폭 절감 기대"
+        ],
+        "quote": "AI는 신약 개발의 전 과정을 혁신하며 효율성을 극대화할 잠재력을 가지고 있다.",
+        "context": "신약 개발은 막대한 시간과 비용이 소요되는 고위험 산업입니다. AI는 후보물질 발굴부터 임상 단계까지 모든 과정의 효율성을 높여, 성공률을 높이고 개발 기간을 획기적으로 단축할 핵심 기술로 주목받고 있습니다.",
+        "source_url": "https://www.medipana.com/news/articleView.html?idxno=422345"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20laboratory%20with%20AI%20robots%20accelerating%20drug%20discovery%2C%20molecules%20and%20data%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94499&nologo=true"
+    },
+    {
+      "id": "society-chief-justice-impeachment",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "flow_chart",
+      "title": "與, 조희대 대법원장 탄핵 추진…절차 및 직무정지 영향",
+      "subtitle": "정치권 대립 격화, 사법부 독립성 침해 논란 가열",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "20일",
+            "label": "당론 채택"
+          },
+          {
+            "value": "국회 통과 시",
+            "label": "직무정지"
+          },
+          {
+            "value": "헌법재판소",
+            "label": "최종 결정"
+          }
+        ],
+        "main_number": "3분의 2",
+        "main_text": "국회 탄핵소추안 의결 정족수"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, a gavel being stopped by a parliament building, showing legal procedures",
+      "detail": {
+        "summary": "여당이 조희대 대법원장 탄핵 소추를 당론으로 공식화하며, 국회 통과 시 대법원장 직무가 정지되는 등 사법 시스템에 큰 파장이 예상됩니다.",
+        "points": [
+          "민주당, 20일 의원총회서 탄핵 소추 당론 채택",
+          "탄핵안 국회 통과 시 대법원장 직무 즉시 정지",
+          "향후 정치적 사건에 대한 판사들의 위축 우려 제기",
+          "사법부 독립성 침해 여부 등 격렬한 정치적 논쟁 예상"
+        ],
+        "quote": "탄핵을 밀어붙이면 앞으로 정치적 사건에선 담당 재판장, 판사들이 상당히 위축될 수밖에 없을 것.",
+        "context": "대법원장 탄핵은 사법부 수장을 대상으로 하는 초유의 사태로, 삼권분립 원칙과 사법부 독립성에 대한 중대한 도전으로 인식됩니다. 정치권의 강대강 대치로 인한 사회적 혼란이 우려됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016455980?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20gavel%20being%20stopped%20by%20a%20parliament%20building%2C%20showing%20legal%20procedures%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=76897&nologo=true"
+    },
+    {
+      "id": "society-youth-mental-health",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
       "viz_type": "bar_chart",
-      "title": "'AI 스마트 안경' 악용 논란 확산",
-      "subtitle": "시험 부정, 사생활 침해 등 윤리적 문제 제기",
+      "title": "아이들 죽어간다는데…'어른 한 명만 있어도' 바뀌는 우리 사회",
+      "subtitle": "청소년 정신 건강 위기 심화, 사회적 안전망 구축 시급",
       "viz_data": {
         "stats": [
           {
-            "value": "시험 부정",
-            "label": "국내 사례"
+            "value": "2023년",
+            "label": "문제 심각성"
           },
           {
-            "value": "무단 촬영",
-            "label": "해외 사례"
+            "value": "아동·청소년",
+            "label": "취약 계층"
           },
           {
-            "value": "사생활 침해",
-            "label": "주요 문제점"
+            "value": "한 명",
+            "label": "어른의 존재"
           }
         ],
-        "main_number": "경고등",
-        "main_text": "AI 스마트 안경의 윤리적 문제"
+        "main_number": "↑",
+        "main_text": "청소년 자살률 및 정신 건강 문제"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a lonely child with a silhouette of a supportive adult, emphasizing care",
       "detail": {
-        "summary": "인공지능(AI) 스마트 안경이 국내에서는 시험 부정, 해외에서는 무단 촬영 등 사생활 침해 문제로 악용 사례가 늘어나면서 윤리적 경고등이 켜졌습니다.",
+        "summary": "우리 사회의 청소년들이 힘들어하고 있으며, 아이들 옆에 따뜻하게 보듬어 줄 '어른 한 명'의 존재가 중요하다고 지적됩니다.",
         "points": [
-          "AI 스마트 안경의 오용 사례 증가",
-          "국내 시험 부정행위로 사회적 파장",
-          "해외에서의 사생활 침해 및 불법 촬영 논란",
-          "기술의 공익적 활용과 사회적 합의 필요성 제기"
+          "청소년 자살률 등 충격적인 수치로 위기 경고",
+          "사회적 참사가 집단 트라우마로 이어지는 현상",
+          "외국인, 정신질환자에 대한 무지와 혐오 양산 문제",
+          "아이들이 보내는 '신호'를 잡을 수 있는 사회 시스템 필요"
         ],
-        "quote": "다만 시각장애인의 문자 인식과 보행 안내 등 공익적 활용도가 높은 만큼 무조건적 퇴출보다 사회적 합의와 제도적 보완이 우선되어야 한다.",
-        "context": "새로운 기술이 등장할 때마다 그 기술의 잠재적 위험성과 윤리적 문제가 함께 논의됩니다. AI 스마트 안경의 경우, 편리함 뒤에 숨겨진 사생활 침해 우려가 커지면서 기술 개발 및 활용에 대한 사회적 기준 마련이 중요해지고 있습니다.",
-        "source_url": "https://www.theguru.co.kr/news/article.html?no=110041"
+        "quote": "아이들이 이렇게 죽어가는데 우리 사회가 아이들을 놓치고 있다.",
+        "context": "빠르게 변화하는 사회 속에서 청소년들은 다양한 어려움과 정신적 스트레스에 노출되어 있습니다. 이들을 위한 사회적 관심과 실질적인 지원 시스템 마련이 시급한 과제로 떠오르고 있습니다.",
+        "source_url": "http://www.jbsori.com/news/articleView.html?idxno=18238"
       },
-      "image_url": "data/images/2026-11-21/tech-73.jpg"
+      "image_url": "data/images/2026-11-22/society-youth-mental-health.jpg"
     },
     {
-      "id": "tech-94",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "line_chart",
-      "title": "DHL, 로봇 9000대 시대…AI 통합 관제로 효율 극대화",
-      "subtitle": "현대차 보스턴다이내믹스 로봇, 물류 현장 혁신 주도",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "9000대+",
-            "label": "전 세계 로봇 수"
-          },
-          {
-            "value": "AI 통합",
-            "label": "관제 방식"
-          },
-          {
-            "value": "현대차",
-            "label": "로봇 공급사"
-          }
-        ],
-        "main_number": "물류 혁신",
-        "main_text": "AI·로봇의 시너지"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "DHL이 전 세계 물류 현장에 9000대 이상의 로봇을 배치하고 인공지능(AI) 통합 관제 시스템을 도입하여 물류 효율성을 극대화하며 로봇 시대의 물류 혁신을 이끌고 있습니다.",
-        "points": [
-          "DHL, 전 세계 물류 로봇 9000대 이상 배치",
-          "AI 통합 관제 시스템 도입으로 운영 효율화",
-          "현대차 보스턴다이내믹스 로봇의 주요 활약",
-          "로봇 및 AI 기술이 이끄는 물류 산업 혁신 가속화"
-        ],
-        "quote": "현재 전 세계 물류 네트워크에 배치된 로봇은 9000대를 넘어섰으며, 로봇을 활용한 상품 집품 작업은 누적 10억 회 이상을 기록했다.",
-        "context": "빠르고 정확한 물류 서비스는 현대 사회에서 기업 경쟁력의 핵심으로, DHL의 사례는 AI와 로봇 기술이 물류 산업의 패러다임을 어떻게 변화시키고 있는지 보여주는 중요한 예시입니다.",
-        "source_url": "https://www.theguru.co.kr/news/article.html?no=110040"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=28684&nologo=true"
-    },
-    {
-      "id": "society-61",
+      "id": "society-student-protest",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "pie_chart",
-      "title": "“편의점약보다 공공심야약국” 약사사회 요구 증폭",
-      "subtitle": "국민 의약품 접근성 위한 대안 마련 촉구, 429일째 릴레이 집회",
+      "viz_type": "timeline",
+      "title": "수능 끝났지만 끝나지 않은 싸움…수험생들, 12월 말 대규모 집회 예고",
+      "subtitle": "'시험 오염' 규탄, 입시 공정성 수호 위한 연대 활동",
       "viz_data": {
         "stats": [
           {
-            "value": "429일",
-            "label": "집회 기간"
+            "value": "12월 말",
+            "label": "집회 예정"
           },
           {
-            "value": "약사사회",
-            "label": "주장 주체"
+            "value": "전국 고교생",
+            "label": "참가 대상"
           },
           {
-            "value": "접근성",
-            "label": "주요 쟁점"
+            "value": "공동 대응",
+            "label": "활동 목표"
           }
         ],
-        "main_number": "공공심야약국",
-        "main_text": "국민이 원하는 의약품 접근성"
+        "main_number": "↑",
+        "main_text": "입시 공정성 요구하는 목소리"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, students holding protest signs about fair exams, a large gathering",
       "detail": {
-        "summary": "편의점 안전상비의약품 품목 확대를 반대하며 약사회가 429일째 릴레이 집회를 이어가며 국민의 의약품 접근성을 높일 공공심야약국 확대를 주장하고 있습니다.",
+        "summary": "수능 시험이 끝났음에도 불구하고 전국 수험생들이 시험 오염에 대한 분노를 표출하며 12월 말 대규모 집회를 예고했습니다.",
         "points": [
-          "편의점 약 품목 확대 반대 릴레이 집회 429일째",
-          "약사사회, 공공심야약국 확충 촉구",
-          "국민 의약품 접근성 및 안전성 쟁점화",
-          "정책 개선 요구 목소리 고조"
+          "전국 고등학교 학생회 및 수험생들과 연대 구축 계획 발표",
+          "입시 공정성 수호를 위한 공동 대응 목표",
+          "AI 커닝 등 부정행위 문제에 대한 사회적 비판 여론 심화",
+          "선의의 피해자가 발생하지 않도록 제도 개선 요구"
         ],
-        "quote": "국민들이 원하는 것은 편의점 약이 아니라, 건강권에 기반한 의약품 접근성을 보장하는 공공심야약국이다.",
-        "context": "의약품 접근성은 국민 건강과 직결되는 중요한 사회적 문제입니다. 편의점 약 확대와 공공심야약국 운영은 각각의 장단점을 가지고 있어, 사회적 합의를 통한 최적의 대안 마련이 요구되고 있습니다.",
-        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549512"
+        "quote": "수능이 끝났다고 해서 우리의 싸움도 끝난 것이 아니다.",
+        "context": "최근 AI를 이용한 부정행위 등 시험 공정성 문제가 불거지면서, 수험생들 사이에서 불만이 고조되고 있습니다. 이는 교육 시스템에 대한 신뢰 저하로 이어져 사회적 갈등을 심화시킬 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009302944?sid=102"
       },
-      "image_url": "data/images/2026-11-21/society-61.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20students%20holding%20protest%20signs%20about%20fair%20exams%2C%20a%20large%20gathering%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=12434&nologo=true"
     },
     {
-      "id": "society-32",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "network",
-      "title": "뉴욕 한인 차세대 300명, '넥스트젠 코리안 커넥션'으로 결속",
-      "subtitle": "각 분야 전문가들 모여 공동체 발전 모색",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "300명+",
-            "label": "참석자 수"
-          },
-          {
-            "value": "9개+",
-            "label": "활동 분야"
-          },
-          {
-            "value": "뉴욕",
-            "label": "개최 도시"
-          }
-        ],
-        "main_number": "차세대",
-        "main_text": "한인 사회의 미래 동력"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "뉴욕총영사관 주최로 정무, 금융, IT 등 다양한 분야에서 활동하는 한인 차세대 300여 명이 모여 공동체 발전과 미래 성장 동력을 모색하는 시간을 가졌습니다.",
-        "points": [
-          "뉴욕 '넥스트젠 코리안 커넥션' 행사 개최",
-          "300명 이상의 한인 차세대 리더 참석",
-          "다양한 분야 전문가들 간의 교류 활성화",
-          "한인 사회 미래 발전 위한 협력 모색"
-        ],
-        "quote": "한인 사회가 힘을 모아 차세대의 성장을 돕는 일이 공동체 발전의 밑거름이 될 것이다.",
-        "context": "해외 한인 사회의 지속적인 발전은 차세대 리더들의 역할에 크게 의존합니다. 다양한 분야에서 활동하는 젊은 인재들이 네트워크를 형성하고 협력하는 것은 동포 사회의 성장과 한국의 위상 제고에 기여할 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/018/0006413389?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65089&nologo=true"
-    },
-    {
-      "id": "society-63",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "pie_chart",
-      "title": "게임 속 퀘스트가 현실로…게이머들의 특별한 나눔",
-      "subtitle": "지스타 2026, 게임 기반 사회공헌 '플레이 펀앤굿 포럼'",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3000만원",
-            "label": "게임사 출연금"
-          },
-          {
-            "value": "148명",
-            "label": "이용자 참여"
-          },
-          {
-            "value": "문화유산",
-            "label": "주요 기부 분야"
-          }
-        ],
-        "main_number": "3203만원",
-        "main_text": "총 모금액"
-      },
-      "image_prompt": "cute pastel infographic illustration, no text",
-      "detail": {
-        "summary": "지스타 2026에서 게임 속 퀘스트를 현실의 나눔으로 연결하는 '플레이 펀앤굿 포럼'이 개최되어, 게임과 사회공헌의 새로운 결합 가능성을 보여주었습니다.",
-        "points": [
-          "게임과 사회공헌의 새로운 방식 제시",
-          "지스타 2026 '플레이 펀앤굿 포럼' 개최",
-          "이용자 참여로 문화유산 보호 활동 진행",
-          "게임 산업의 긍정적 사회적 영향력 확대"
-        ],
-        "quote": "로드나인에서는 게임 속 '수호자'라는 역할을 현실의 문화유산 보호 활동으로 확장했다.",
-        "context": "게임은 단순한 오락을 넘어 커뮤니티 형성 및 사회적 행동을 유도하는 플랫폼으로 진화하고 있습니다. 게이머들의 참여를 통해 문화유산 보호와 같은 사회적 가치를 창출하는 새로운 시도는 게임의 긍정적 영향력을 보여줍니다.",
-        "source_url": "https://dealsite.co.kr/articles/173265"
-      },
-      "image_url": "data/images/2026-11-21/society-63.jpg"
-    },
-    {
-      "id": "life-8",
+      "id": "life-bestseller-ranking",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "bar_chart",
-      "title": "GTA6 열풍, 미국 사회를 뒤흔들다",
-      "subtitle": "서로 다른 정치적 견해 넘어 문화적 현상으로 주목",
+      "viz_type": "ranking",
+      "title": "하루키 4주 독주 끝…'멜로우TV 팀나빠 2' 베스트셀러 1위 등극",
+      "subtitle": "사회·정치 분야 '공부의 종말' 1위, 출판 시장 트렌드 변화",
       "viz_data": {
         "stats": [
           {
-            "value": "13년",
-            "label": "신작 출시 주기"
+            "value": "4주",
+            "label": "하루키 독주 기간"
           },
           {
-            "value": "하나의 문화",
-            "label": "사회적 통합"
+            "value": "1위",
+            "label": "'팀나빠 2' 등극"
           },
           {
-            "value": "악시오스",
-            "label": "분석 매체"
+            "value": "13위",
+            "label": "종합 베셀 등극"
           }
         ],
-        "main_number": "열풍",
-        "main_text": "GTA6의 미국 사회 영향력"
+        "main_number": "1위",
+        "main_text": "종합 베스트셀러 순위 변동"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a stack of books with one on top marked 'Best Seller'",
       "detail": {
-        "summary": "13년 만에 출시된 GTA6가 미국 사회를 뒤흔드는 문화적 열풍을 일으키며, 정치적 견해와 상관없이 많은 이들의 주목을 받고 있습니다.",
+        "summary": "무라카미 하루키의 신간 독주가 4주 만에 끝나고 '멜로우TV 팀나빠 2'가 베스트셀러 1위를 차지했습니다. 사회·정치 분야에서는 '공부의 종말'이 1위에 올랐습니다.",
         "points": [
-          "13년 만의 신작 GTA6 출시",
-          "미국 사회 전반에 걸친 문화적 열풍",
-          "정치적 분열 넘어선 대중적 관심",
-          "게임이 사회적 현상이 되는 사례"
+          "'멜로우TV 팀나빠 2'는 종합 베스트셀러 13위, eBook 3위 기록",
+          "박종훈 경제 유튜버의 '가짜 돈 진짜 부' 경제 분야 5위",
+          "2024년 소비·사회 흐름 전망 도서 '트렌드 코리아 2024'도 강세",
+          "출판 시장의 다양한 분야에서 인기 도서 등장"
         ],
-        "quote": "서로 다른 정치적 견해와 취향으로 분열된 미국 사회가 오랜만에 하나의 문화적 사건에 동시에 주목했다.",
-        "context": "비디오 게임은 단순한 엔터테인먼트를 넘어 전 세계적으로 큰 문화적, 사회적 영향력을 행사하고 있습니다. GTA6의 사례는 게임이 어떻게 세대를 아우르고 사회적 담론을 형성하는 강력한 매체가 될 수 있는지를 보여줍니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/665/0000008611?sid=105"
+        "quote": "사회·정치 분야에서 로랑 알렉상드르와 올리비에 바보가 공동 집필한 '공부의 종말'이 1위를 기록했다.",
+        "context": "베스트셀러 순위는 당대의 사회적 관심사와 독자들의 흥미를 반영하는 중요한 지표입니다. 이번 순위 변화는 특정 작가의 인기를 넘어 다양한 장르와 주제에 대한 독자들의 폭넓은 관심을 보여줍니다.",
+        "source_url": "https://www.newspim.com/news/view/20261119001281"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57113&nologo=true"
+      "image_url": "data/images/2026-11-22/life-bestseller-ranking.jpg"
     },
     {
-      "id": "life-23",
+      "id": "life-rider-lifestyle",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "map",
-      "title": "'밤, 도시를 바꾸다'…서울의 야간문화 혁명",
-      "subtitle": "광화문·한강·남산, 새로운 생활 공간으로 변모",
+      "title": "'라이더들의 성지' 산골 마을, 여유의 도파민을 찾다",
+      "subtitle": "치열한 일상 벗어나 새로운 라이프스타일 추구하는 청년들",
       "viz_data": {
         "stats": [
           {
-            "value": "2부작",
-            "label": "기획 다큐"
+            "value": "산골 마을",
+            "label": "성지 위치"
           },
           {
-            "value": "광화문",
-            "label": "주요 지역"
+            "value": "굿 라이더",
+            "label": "캠페인"
           },
           {
-            "value": "한강·남산",
-            "label": "주요 지역"
+            "value": "여유",
+            "label": "핵심 가치"
           }
         ],
-        "main_number": "변화",
-        "main_text": "서울의 밤 풍경"
+        "main_number": "↑",
+        "main_text": "일상의 도파민 추구"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, a serene mountain village with a delivery scooter, showing peace and community",
       "detail": {
-        "summary": "KBS 다큐온 '밤, 도시를 바꾸다'는 광화문, 한강, 남산 등 서울의 주요 공간이 야간 문화 및 경제 활동의 중심으로 변모하는 모습을 조명합니다.",
+        "summary": "바쁜 라이더들이 산골 마을에서 여유를 찾아 정착하며 '굿 라이더 캠페인'을 펼치는 등 새로운 라이프스타일을 만들어가고 있습니다.",
         "points": [
-          "서울의 밤, 문화와 여가 공간으로 변화",
-          "광화문, 한강, 남산 등 야간 문화공간 활성화",
-          "시민들의 밤 시간대 도시 활동 증가",
-          "야간 경제 활성화 및 도시 이미지 개선"
+          "빠르게 변화하는 도시 생활에 지친 이들이 자연 속 휴식을 추구",
+          "라이더에 대한 사회적 인식 개선을 위한 자발적 노력",
+          "지역 주민들과의 소통 및 유대감 형성",
+          "작은 공동체에서 행복과 의미를 찾는 트렌드 반영"
         ],
-        "quote": "최근 서울의 밤은 단순히 하루를 마무리하는 시간이 아닌 문화와 여가를 즐기는 새로운 생활 공간으로 변화하고 있다.",
-        "context": "도시의 야간 활동은 시민들의 삶의 질을 높이고 지역 경제 활성화에 기여하는 중요한 요소입니다. 서울의 사례는 도시가 어떻게 다채로운 야간 문화와 새로운 생활 패턴을 만들어낼 수 있는지 보여줍니다.",
-        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=214235"
+        "quote": "한솔씨는 라이더에 대한 인식을 바꾸기 위해 '굿 라이더 캠페인'을 벌이고, 주민들에게 정치인마냥 인사했다.",
+        "context": "현대 사회의 많은 이들이 도시의 고된 삶에서 벗어나 '워라밸'을 추구하며 귀농·귀촌을 택하고 있습니다. 라이더들의 산골 마을 정착은 이러한 라이프스타일 변화의 한 단면을 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/079/0004212381?sid=102"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=88892&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20a%20serene%20mountain%20village%20with%20a%20delivery%20scooter%2C%20showing%20peace%20and%20community%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=63052&nologo=true"
     },
     {
-      "id": "life-121",
+      "id": "life-taiwan-tourism",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "아파트 커뮤니티, 아이스링크·풀빌라까지",
-      "subtitle": "고급화 전략 논란, 라이프스타일 중시 vs 비용 부담",
+      "title": "방한 대만 관광객 200만 시대…여행 업계, 상품 개발 박차",
+      "subtitle": "타이베이 ITF서 한국 관광 상품 논의, 기업 포상 여행객 유치",
       "viz_data": {
         "stats": [
           {
-            "value": "아이스링크",
-            "label": "주요 시설 1"
+            "value": "200만",
+            "label": "관광객 목표"
           },
           {
-            "value": "풀빌라",
-            "label": "주요 시설 2"
+            "value": "ITF",
+            "label": "박람회"
           },
           {
-            "value": "차별화",
-            "label": "전략 핵심"
+            "value": "서울·부산",
+            "label": "주요 방문지"
           }
         ],
-        "main_number": "고급화",
-        "main_text": "아파트 커뮤니티 트렌드"
+        "main_number": "↑200만",
+        "main_text": "대만 방한 관광객 목표치"
       },
-      "image_prompt": "cute pastel infographic illustration, no text",
+      "image_prompt": "cute pastel infographic illustration, no text, airplanes flying from Taiwan to Korea, showing happy tourists and landmarks",
       "detail": {
-        "summary": "아파트 단지 내 아이스링크, 풀빌라 등 초고가 커뮤니티 시설 도입이 늘면서 차별화 전략과 동시에 입주민들의 비용 부담에 대한 논란이 일고 있습니다.",
+        "summary": "대만 관광객 200만 명 시대를 맞아 국내 여행업계가 타이베이 국제여행박람회(ITF)를 계기로 방한 상품 개발에 박차를 가하고 있습니다.",
         "points": [
-          "아파트 커뮤니티 시설 고급화 경쟁 심화",
-          "아이스링크, 풀빌라 등 고가 시설 등장",
-          "개인의 라이프스타일 중시 경향 반영",
-          "차별화 전략과 추가 비용 부담 논란"
+          "라이언트래블, 콜라투어 등 대만 주요 여행사들과 상품 구성 논의",
+          "기업 출장 및 포상 여행객 대상 서울·부산 지역 상품 개발",
+          "대만 시장 특성을 고려한 맞춤형 상품 제공 중요",
+          "팬데믹 이후 회복세에 있는 관광 산업의 활성화 기대"
         ],
-        "quote": "아파트는 잠을 자는 공간을 넘어 나만의 라이프스타일을 가꾸는 공간으로 진화하는 추세다.",
-        "context": "주거 공간은 단순히 잠만 자는 곳이 아닌, 생활과 문화를 향유하는 공간으로 진화하고 있습니다. 이러한 트렌드는 고급화된 커뮤니티 시설에 대한 수요를 증가시키지만, 동시에 유지보수 비용과 입주민 간의 형평성 문제 등 새로운 과제를 제시합니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/020/0003764115?sid=101"
+        "quote": "올마이투어는 서울·부산 지역 기업 출장 및 포상 여행객을 대상으로 한 상품 개발에도 집중할 예정이다.",
+        "context": "코로나19 팬데믹 이후 해외여행 수요가 폭발적으로 증가하면서, 각국은 관광객 유치에 집중하고 있습니다. 대만은 한국의 주요 관광 시장 중 하나로, 적극적인 마케팅과 상품 개발을 통해 관광 산업 활성화를 꾀하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/144/0001151048?sid=103"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45083&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20airplanes%20flying%20from%20Taiwan%20to%20Korea%2C%20showing%20happy%20tourists%20and%20landmarks%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59393&nologo=true"
     }
   ],
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T06:10:02.687985+09:00"
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T06:09:18.519150+09:00"
 }
