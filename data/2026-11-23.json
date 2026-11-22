@@ -1,0 +1,561 @@
+{
+  "cards": [
+    {
+      "id": "society-judicial-conflict",
+      "is_headline": true,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "대법원장 탄핵 논란 심화, 사법부 독립성 위협",
+      "subtitle": "여당의 강행 예고, 청와대 딜레마 속 사법부 관계 설정 과제",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "12월 3일",
+            "label": "예상 발의일"
+          },
+          {
+            "value": "2026년",
+            "label": "정기국회"
+          }
+        ],
+        "main_number": "위헌성",
+        "main_text": "사법부 독립성 훼손 우려 증폭"
+      },
+      "image_prompt": "infographic illustration of a gavel and parliament building, with conflicting forces, pastel colors, no text",
+      "detail": {
+        "summary": "여당이 조희대 대법원장 탄핵 소추안 의결을 강행하려 하면서 사법부 독립성 및 정치권과의 관계 설정에 대한 딜레마가 커지고 있습니다.",
+        "points": [
+          "여당, 12월 3일 탄핵소추안 발의 예고",
+          "사법부의 특정 정치 집단 견해 일치 공상 버려야 지적",
+          "국익 훼손 우려, 청와대 입장 표명 압박",
+          "탄핵 추진은 정치적 도발이자 위헌 위법한 행위 비판"
+        ],
+        "quote": "사소한 정치적·사적 이익 때문에 다투다 국익을 훼손하는 우를 범해서는 안 된다.",
+        "context": "사법부의 독립성은 민주주의의 핵심 가치이며, 대법원장 탄핵 추진은 정치적 상황을 넘어선 심각한 헌정 질서의 문제로 인식되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/119/0003158063?sid=100"
+      },
+      "image_url": "data/images/2026-11-23/society-judicial-conflict.jpg"
+    },
+    {
+      "id": "world-us-opposition-party",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "미국, 36년 만에 '거대 야당' 시대 임박",
+      "subtitle": "민주당, 상하원 최다 의석 확보로 새로운 정치 지형 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "34년",
+            "label": "하원 최다 의석"
+          },
+          {
+            "value": "16년",
+            "label": "상원 최다 의석"
+          }
+        ],
+        "main_number": "압도적",
+        "main_text": "민주당이 확보한 의석수, 정치 지형 변화 주도"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of US Capitol building with different colored sides representing political parties",
+      "detail": {
+        "summary": "내년 1월 미국 새 연방의회 출범과 함께 야당인 민주당이 하원에서 34년 만에, 상원에서 16년 만에 가장 많은 의석을 확보하며 '거대 야당' 시대를 맞이할 전망입니다.",
+        "points": [
+          "민주당, 하원에서 34년 만에 최다 의석 확보",
+          "상원에서도 16년 만에 가장 많은 의석 확보",
+          "미 정치사에 기록적인 '거대 야당' 시대 도래",
+          "새로운 연방의회 출범 후 정치 지형 변화 예고"
+        ],
+        "quote": "미국 새 연방의회 출범과 함께 미 정치사에 기록적인 '거대 야당'의 시대가 도래할 전망입니다.",
+        "context": "이번 중간선거 결과는 향후 미국 국내 정책뿐 아니라 국제 외교에도 큰 영향을 미칠 것으로 예상되며, 행정부와 의회 간의 관계 설정에 주목해야 합니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000928807?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20US%20Capitol%20building%20with%20different%20colored%20sides%20representing%20political%20parties%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=77&nologo=true"
+    },
+    {
+      "id": "world-jeju-exports",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "line_chart",
+      "title": "제주도 수출, 사상 첫 10억 달러 눈앞",
+      "subtitle": "10월까지 전년 대비 259.5% 증가, 역대 최고치 경신 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "9.4억 $",
+            "label": "10월 누적 수출액"
+          },
+          {
+            "value": "259.5%",
+            "label": "전년 동기 대비 증가율"
+          }
+        ],
+        "main_number": "+259.5%",
+        "main_text": "압도적인 증가율로 역대 최고 실적 달성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of Jeju island with arrows showing exports, global trade",
+      "detail": {
+        "summary": "올해 1월부터 10월까지 제주도의 수출액이 전년 동기 대비 259.5% 증가한 9억 4304만 달러를 기록하며, 사상 처음으로 연간 10억 달러 달성을 눈앞에 두고 있습니다.",
+        "points": [
+          "올해 1~10월 수출액 9억 4304만 달러 달성",
+          "전년 동기 대비 259.5%의 폭발적인 증가율",
+          "사상 첫 연간 수출 10억 달러 돌파 기대",
+          "한국은 세계 4번째 연간 수출 1조 달러 달성국"
+        ],
+        "quote": "올해 1~10월 제주 수출은 전년 동기 대비 259.5% 증가한 9억4304만 달러를 기록했습니다.",
+        "context": "제주도의 수출 성장은 지역 경제 활성화에 크게 기여할 것으로 보이며, K-푸드 등 제주 특산품의 세계 시장 경쟁력 강화에도 긍정적인 신호입니다.",
+        "source_url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402605"
+      },
+      "image_url": "data/images/2026-11-23/world-jeju-exports.jpg"
+    },
+    {
+      "id": "world-france-debt",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "프랑스, 국가 부채 4조 달러 육박... 유로화 체제 붕괴 우려",
+      "subtitle": "GDP 대비 119% 달성, 경제 대국 프랑스의 재정 위기 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4조 $",
+            "label": "국가 부채"
+          },
+          {
+            "value": "119%",
+            "label": "GDP 대비 부채"
+          }
+        ],
+        "main_number": "119%",
+        "main_text": "프랑스 GDP 대비 국가 부채 비율, 심각한 수준 도달"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of Eiffel Tower with debt graphs, Euro currency symbols",
+      "detail": {
+        "summary": "프랑스의 국가 부채가 약 4조 달러(약 5435조 6000억원)에 달하며 국내총생산(GDP) 대비 119%를 기록, 유로존 2위 경제 대국의 재정 위기가 심화되고 있습니다.",
+        "points": [
+          "프랑스 국가 부채 약 4조 달러 (GDP 대비 119%)",
+          "세계 7위 경제 대국이자 유로존 2위 경제 대국",
+          "재정 적자 및 정치적 혼란이 위기 가중",
+          "ECB의 구제 가능성 및 유로화 체제 붕괴 우려 제기"
+        ],
+        "quote": "프랑스의 국가 부채는 약 4조달러(약 5435조6000억원)로 국내총생산(GDP) 대비 119%에 달해 제2차 세계대전 이후 최고 수준입니다.",
+        "context": "프랑스의 재정 위기는 단순히 한 국가의 문제를 넘어 유로존 전체의 안정성을 위협하며, 유럽중앙은행(ECB)의 역할에 대한 국제적 관심이 집중되고 있습니다.",
+        "source_url": "https://economychosun.com/site/data/html_dir/2026/11/15/2026111500030.html"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20Eiffel%20Tower%20with%20debt%20graphs%2C%20Euro%20currency%20symbols%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22135&nologo=true"
+    },
+    {
+      "id": "economy-sp500-forecast",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "월가, 2027년 S&P500 1만 선 도달 낙관",
+      "subtitle": "폭락장 속에서도 시장 과민반응 지적하며 장기적 상승 전망",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10,000",
+            "label": "S&P500 목표"
+          },
+          {
+            "value": "2027년",
+            "label": "목표 달성 시점"
+          }
+        ],
+        "main_number": "10,000",
+        "main_text": "S&P500 지수, 2027년까지 도달할 것으로 예상되는 목표치"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of a stock market graph with a bull trend, rising numbers",
+      "detail": {
+        "summary": "월스트리트 전문가들은 최근의 증시 폭락에도 불구하고 2027년 S&P500 지수가 1만 선에 도달할 것이라고 낙관적인 전망을 내놓았습니다.",
+        "points": [
+          "월가, 2027년 S&P500 1만 선 도달 전망",
+          "최근 급락은 일시적 조정에 그칠 가능성 제기",
+          "시장의 과민반응이 경제 근본 문제 반영하지 않음",
+          "기업 실적 및 경제지표가 향후 시장 방향 결정"
+        ],
+        "quote": "시장의 과민반응이 반드시 경제의 근본적인 문제를 반영하는 건 아니라는 설명이다.",
+        "context": "현재의 시장 불안정 속에서도 장기적인 관점에서 미국 경제와 기업의 펀더멘털에 대한 신뢰가 여전히 높다는 것을 보여주며, 투자자들의 관심이 집중되고 있습니다.",
+        "source_url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54829"
+      },
+      "image_url": "data/images/2026-11-23/economy-sp500-forecast.jpg"
+    },
+    {
+      "id": "economy-seoul-housing",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "map",
+      "title": "서울 집값 하락세, 강남에서 한강벨트 전역으로 확산",
+      "subtitle": "거래 급감 및 매물 적체로 가격 조정 압력 심화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "급감",
+            "label": "거래량"
+          },
+          {
+            "value": "누적",
+            "label": "매물"
+          }
+        ],
+        "main_number": "하락 전환",
+        "main_text": "지난해 크게 올랐던 서울 주요 지역 아파트값 조정 국면 진입"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of Seoul map with downward arrows on apartment buildings",
+      "detail": {
+        "summary": "서울 집값 하락세가 강남3구와 용산구를 넘어 한강벨트 전역으로 확산되고 있으며, 거래량 급감과 매물 적체로 가격 조정 압력이 커지고 있습니다.",
+        "points": [
+          "강남3구와 용산구에서 시작된 집값 하락세 확산",
+          "거래량은 급감하고 매물은 쌓이는 현상",
+          "대출 규제 및 주가 하락이 구매력 약화 요인",
+          "김인만 소장, 가격 조정 압력 심화 분석"
+        ],
+        "quote": "지난해 집값이 크게 오른 강남3구와 용산구 등은 대출 규제와 주가 하락 여파로 주택 구매력이... 떨어졌다.",
+        "context": "금리 인상과 대출 규제, 경기 침체 우려 등이 복합적으로 작용하여 주택 시장에 큰 변화를 가져오고 있으며, 이는 실수요자 및 투자자 모두에게 중요한 시그널이 됩니다.",
+        "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008367"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20Seoul%20map%20with%20downward%20arrows%20on%20apartment%20buildings%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81014&nologo=true"
+    },
+    {
+      "id": "economy-daehan-cable",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "대한전선, 유증 조달 시설자금 73% 미집행 논란",
+      "subtitle": "설비투자 지연으로 막대한 증자 대금 운용에 엇박자",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4625억 원",
+            "label": "유증 조달액"
+          },
+          {
+            "value": "73%",
+            "label": "미집행 비율"
+          }
+        ],
+        "main_number": "73%",
+        "main_text": "대한전선 유상증자 조달금 중 미집행된 비율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of a factory or cable with money bags, financial pie chart",
+      "detail": {
+        "summary": "대한전선이 2024년 유상증자로 조달한 시설자금 4625억 원 중 73% 이상을 집행하지 못해 설비투자 지연과 자금 운용의 비효율성 논란에 휩싸였습니다.",
+        "points": [
+          "유상증자 조달 시설자금 4625억 원",
+          "이 중 73% 이상이 아직 미집행",
+          "설비투자 지연으로 인한 자금 운용 비효율성 지적",
+          "막대한 증자 대금을 금융기관에 쌓아두는 상황"
+        ],
+        "quote": "대한전선이 2024년 유상증자로 조달한 시설자금 4625억원 가운데 73% 이상을 집행하지 못한 것으로 나타났다.",
+        "context": "기업의 설비투자는 미래 성장 동력 확보에 필수적이지만, 대규모 자금 조달 후 집행이 지연되는 것은 기업의 신뢰도와 경영 효율성에 부정적인 영향을 미칠 수 있습니다.",
+        "source_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880320"
+      },
+      "image_url": "data/images/2026-11-23/economy-daehan-cable.jpg"
+    },
+    {
+      "id": "tech-japan-corporate-shift",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "area_chart",
+      "title": "일본 기업 지형도 변화: 도요타 아성 무너지고 IT·AI 부상",
+      "subtitle": "제조업 중심에서 정보기술, 인공지능 기업이 치고 올라오는 추세",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "IT/AI",
+            "label": "부상 산업"
+          },
+          {
+            "value": "제조업",
+            "label": "전통 산업"
+          }
+        ],
+        "main_number": "변화",
+        "main_text": "일본 산업의 중심축이 전통 제조업에서 IT 및 AI로 이동"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of Japan map with tech gadgets and factory symbols, showing shift",
+      "detail": {
+        "summary": "오랜 기간 제조업 경쟁력을 자랑해 온 일본 업계에서 '도요타 아성'이 무너지고, 정보기술(IT) 및 인공지능(AI) 등 새로운 기업들이 치고 올라오며 기업 지형도가 변화하고 있습니다.",
+        "points": [
+          "도요타 중심의 제조업 경쟁력 약화",
+          "IT 및 AI 분야 기업들의 성장 두각",
+          "AI 보급 및 관세정책, 원자재 가격 등 영향",
+          "엔화 약세 또한 기업 환경 변화에 기여"
+        ],
+        "quote": "오랜 기간 제조업 경쟁력을 자랑해 온 일본 업계에서 ‘도요타 아성’이 무너지고, 정보기술(IT) 등 새로운 기업이 치고 올라왔다.",
+        "context": "글로벌 경제 환경 변화와 기술 혁신이 일본 산업 구조에 근본적인 영향을 미치고 있으며, 이는 한국 기업에도 시사하는 바가 큽니다.",
+        "source_url": "https://economychosun.com/site/data/html_dir/2026/11/15/2026111500023.html"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20Japan%20map%20with%20tech%20gadgets%20and%20factory%20symbols%2C%20showing%20shift%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=51155&nologo=true"
+    },
+    {
+      "id": "tech-skhynix-datacenter",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "SK하이닉스 용인 데이터센터, 48MW 규모 구축 박차",
+      "subtitle": "총 1526개 서버랙 수용, 20.3개월 공사기간 예상",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "48MW",
+            "label": "IT 부하 용량"
+          },
+          {
+            "value": "1526개",
+            "label": "서버랙 수용"
+          }
+        ],
+        "main_number": "20.3개월",
+        "main_text": "용인 데이터센터 구축에 예상되는 공사 기간"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of a large data center building, servers, construction site",
+      "detail": {
+        "summary": "용인 SK하이닉스 지원시설 내 48MW 규모의 데이터센터가 구축되고 있으며, 총 1526개의 서버랙을 수용하고 20.3개월의 공사 기간이 소요될 예정입니다.",
+        "points": [
+          "순수 IT 부하 용량 48MW, 수전용량 60MW",
+          "총 1526개의 서버랙 수용 가능",
+          "공사 기간은 20.3개월로 예정",
+          "프리캐스트 콘크리트(PC) 공법 적용"
+        ],
+        "quote": "서버에 공급되는 순수 IT 부하는 48MW, 수전용량은 60MW이며 총 1526개의 서버랙을 수용하도록 계획됐다. 공사기간은 20.3개월이다.",
+        "context": "데이터센터는 인공지능(AI) 시대의 핵심 인프라로, SK하이닉스의 대규모 데이터센터 구축은 향후 데이터 처리 능력 강화 및 관련 기술 발전에 기여할 것입니다.",
+        "source_url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52851"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20a%20large%20data%20center%20building%2C%20servers%2C%20construction%20site%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=66675&nologo=true"
+    },
+    {
+      "id": "tech-ai-hospitals",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pictogram_chart",
+      "title": "AI 기술로 진료 기록 줄이고 환자 소통 늘리는 '지능형 병원'",
+      "subtitle": "의료 IT 인프라 최고 등급, 따뜻한 환자 중심 의료 실현",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7단계",
+            "label": "HIMSS 평가 등급"
+          },
+          {
+            "value": "증가",
+            "label": "환자 대화 시간"
+          }
+        ],
+        "main_number": "최고 등급",
+        "main_text": "의료 IT 인프라, 전자의무기록, 디지털 영상, 데이터 분석 4개 분야 모두 최고 등급 달성"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of a hospital with AI robots assisting doctors and patients, data screens",
+      "detail": {
+        "summary": "AI 기술을 활용해 진료 기록을 줄이고 환자와의 대화 시간을 늘리는 '따뜻한 지능형 병원'이 구현되고 있으며, 의료 IT 인프라 분야에서 최고 등급을 받았습니다.",
+        "points": [
+          "AI로 의료 기록 작성 시간 단축",
+          "환자와의 대화 및 소통 시간 증대",
+          "HIMSS 평가 4개 분야 모두 최고 등급(7단계) 달성",
+          "진료기록 및 검사 영상 디지털 관리, 정보 공유 효율화"
+        ],
+        "quote": "AI 기술로 기록 줄이고 환자와 대화 … ‘따뜻한 지능형 병원’을 만들겠다.",
+        "context": "AI 기술이 의료 분야에 접목되면서 의료진의 업무 부담을 줄이고 환자 중심의 의료 서비스를 강화하는 데 기여하며, 미래 병원의 모습을 제시하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/025/0003567106?sid=103"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20a%20hospital%20with%20AI%20robots%20assisting%20doctors%20and%20patients%2C%20data%20screens%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=65187&nologo=true"
+    },
+    {
+      "id": "society-autonomy-police",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "venn_diagram",
+      "title": "자치경찰에 수사권 이양 논의, 지역유착 및 정치 중립성 우려",
+      "subtitle": "범정부협의체, 현장 대응 공백 및 시도지사의 '사병화' 가능성 고심",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "7월",
+            "label": "협의체 출범"
+          },
+          {
+            "value": "2가지",
+            "label": "조직 개편안"
+          }
+        ],
+        "main_number": "중립성",
+        "main_text": "지역 치안 역량 강화와 정치적 중립성 훼손 사이의 딜레마"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of police badge, local government building, weighing scale",
+      "detail": {
+        "summary": "경찰청이 자치경찰제 확대를 위한 조직 개편안을 검토 중이며, 이 과정에서 현장 대응 공백과 지역사회 유착, 시도지사의 '사병화' 등 정치적 중립성 훼손 우려가 제기되고 있습니다.",
+        "points": [
+          "범죄예방, 여성청소년, 교통 등 업무 이양 검토",
+          "시도지사 '사병화' 및 정치적 중립성 훼손 우려",
+          "초국경·광역범죄 대응 역량 약화 가능성",
+          "지역사회 유착 및 지역 간 치안 불균형 문제 제기"
+        ],
+        "quote": "반면 '시도지사의 '사병화' 등 정치적 중립성 훼손과 초국경·광역범죄 대응 역량 약화, 지역사회 유착, 지역 간 치안 불균형 등의 우려도 크다.",
+        "context": "자치경찰제는 주민 밀착형 치안 서비스를 제공하는 취지지만, 수사권 이양은 권력 분산과 오남용 방지라는 복잡한 사회적·정치적 논의를 수반합니다.",
+        "source_url": "https://www.kbsm.net/news/view.php?idx=542792"
+      },
+      "image_url": "data/images/2026-11-23/society-autonomy-police.jpg"
+    },
+    {
+      "id": "society-ai-cheating",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison_chart",
+      "title": "AI 컨닝, 교육 공정성 심각하게 위협",
+      "subtitle": "수능 앞두고 터진 고백, '1등 지상주의' 사회에 경종",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI",
+            "label": "최신 컨닝 도구"
+          },
+          {
+            "value": "공정성",
+            "label": "사회적 가치"
+          }
+        ],
+        "main_number": "위협",
+        "main_text": "AI 기술 발전이 야기하는 교육 시스템의 근본적인 도전"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of a student using AI on a test, with scales of justice tilted",
+      "detail": {
+        "summary": "수능을 코앞에 둔 시점에서 AI를 이용한 컨닝 고백이 터져 나오면서 한국 사회가 오랫동안 신성시해 온 '평가의 공정성'이 심각하게 위협받고 있습니다.",
+        "points": [
+          "AI 기술 활용한 컨닝 문제 심각성 부각",
+          "교육 시스템 내 평가 공정성 훼손 우려",
+          "'1등이 되어야 산다'는 사회적 압박과 도구의 격차",
+          "AI 시대, 교육의 본질과 평가 방식 재고 필요성"
+        ],
+        "quote": "‘1등이 되어야 산다’는 사회적 압박이 강한 사회일수록 도구의 격차는 곧 생존의 격차로 이어진다.",
+        "context": "AI 기술은 교육 분야에 혁신을 가져올 수도 있지만, 동시에 윤리적 문제와 공정성 논란을 야기하며 우리 사회에 새로운 숙제를 던지고 있습니다.",
+        "source_url": "http://www.kdfnews.com/news/articleView.html?idxno=191138"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20a%20student%20using%20AI%20on%20a%20test%2C%20with%20scales%20of%20justice%20tilted%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40889&nologo=true"
+    },
+    {
+      "id": "life-future-trends",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "mind_map",
+      "title": "미래 라이프스타일 6가지 트렌드: 알고리즘 생태계부터 라이프 리믹스까지",
+      "subtitle": "기술 발전과 사회 변화가 이끄는 새로운 삶의 방식 탐구",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "6가지",
+            "label": "주요 트렌드"
+          },
+          {
+            "value": "알고리즘",
+            "label": "핵심 동력"
+          }
+        ],
+        "main_number": "미래",
+        "main_text": "기술과 사회 변화가 만드는 새로운 삶의 지평"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of interconnected bubbles representing various future lifestyle trends, technology symbols",
+      "detail": {
+        "summary": "로보택시와 주차로봇이 확산하는 '알고리즘 생태계', 인간의 판단력을 중시하는 '인간 증명', 필요에 따라 공간과 삶을 재구성하는 '라이프 리믹스' 등 미래 라이프스타일 6가지 트렌드를 소개합니다.",
+        "points": [
+          "알고리즘 생태계: 로보택시, 주차로봇 확산",
+          "인간 증명: 판단력과 진정성 중시",
+          "라이프 리믹스: 공간과 삶의 유연한 재구성",
+          "기술 혁신과 사회 변화가 이끄는 삶의 변화"
+        ],
+        "quote": "필요에 따라 공간과 삶을 재구성하는 ‘라이프 리믹스’ 등 여섯 가지 트렌드를 소개한다.",
+        "context": "미래 트렌드에 대한 이해는 개인의 삶의 방향을 설정하고 기업이 새로운 시장 기회를 포착하는 데 중요한 통찰력을 제공합니다.",
+        "source_url": "https://economychosun.com/site/data/html_dir/2026/11/15/2026111500038.html"
+      },
+      "image_url": "data/images/2026-11-23/life-future-trends.jpg"
+    },
+    {
+      "id": "life-incheon-cheongna",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "timeline",
+      "title": "인천 청라, 금융·문화·의료 중심지로 도약",
+      "subtitle": "카이스트 연구소, 아산병원 등 핵심 시설 2030년까지 완공 예정",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2029년 말",
+            "label": "아산병원 완공"
+          },
+          {
+            "value": "2030년 말",
+            "label": "의료복합타운 전체 완공"
+          }
+        ],
+        "main_number": "핵심 성장",
+        "main_text": "인천 청라 지역의 미래 비전을 제시하는 주요 개발 프로젝트"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of a modern city skyline with hospital, research center, financial buildings",
+      "detail": {
+        "summary": "인천 청라국제도시가 금융, 문화, 의료 중심지로 도약하기 위해 카이스트(KAIST)와 미국 매사추세츠종합병원(MGH) 공동연구소, 라이프사이언스파크 등 핵심 시설을 2030년까지 완공할 예정입니다.",
+        "points": [
+          "청라 금융, 문화, 의료 중심지 도약 계획",
+          "카이스트-MGH 공동연구소, 라이프사이언스파크 조성",
+          "시니어 헬스케어시설, 메디텔 등 포함",
+          "청라아산병원 2029년 말, 의료복합타운 전체 2030년 말 완공"
+        ],
+        "quote": "청라아산병원은 2029년 말, 의료복합타운 전체는 2030년 말 준공 예정이다.",
+        "context": "청라국제도시의 대규모 인프라 구축은 지역 주민의 삶의 질 향상은 물론, 국가 경쟁력 강화와 새로운 성장 동력 확보에 기여할 것으로 기대됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/005/0001886736?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20of%20a%20modern%20city%20skyline%20with%20hospital%2C%20research%20center%2C%20financial%20buildings%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=15949&nologo=true"
+    },
+    {
+      "id": "life-hallyu-evolution",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "timeline",
+      "title": "한류 30년, 소비 넘어 공감과 창조의 허브로 진화",
+      "subtitle": "콘텐츠 수출에서 라이프스타일, K-푸드 결합한 경험형 한류로 확장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30년",
+            "label": "한류 역사"
+          },
+          {
+            "value": "라이프스타일",
+            "label": "주요 확장 분야"
+          }
+        ],
+        "main_number": "진화",
+        "main_text": "한류가 콘텐츠를 넘어 한국의 삶을 공유하는 형태로 변화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, of diverse people enjoying K-pop, K-drama, K-food, Korean culture symbols",
+      "detail": {
+        "summary": "한류가 30년을 맞이하며 드라마, 대중음악 중심의 '콘텐츠 수출'을 넘어 한국의 라이프스타일, 언어, K-푸드와 결합한 '체류형·참여형 경험'으로 그 외연을 급격히 확장하고 있습니다.",
+        "points": [
+          "초기 한류: 드라마, 대중음악 중심의 콘텐츠 수출",
+          "현재 한류: 한국 라이프스타일, 언어, K-푸드와 결합",
+          "체류형·참여형 경험으로 외연 확장",
+          "소비를 넘어 공감과 창조의 허브로 진화"
+        ],
+        "quote": "과거의 한류가 드라마나 대중음악 중심의 '콘텐츠 수출'에 주력했다면, 현재의 한류는 한국의 라이프스타일, 언어, K-푸드, 그리고 로컬의 정체성과 결합한 '체류형·참여형 경험'으로 그 외연을 급격히 확장하고 있다.",
+        "context": "한류는 단순한 문화 현상을 넘어 한국의 소프트 파워를 세계에 알리고 경제적 가치를 창출하는 중요한 동력으로 자리매김하고 있으며, 그 지속적인 진화가 기대됩니다.",
+        "source_url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500737"
+      },
+      "image_url": "data/images/2026-11-23/life-hallyu-evolution.jpg"
+    }
+  ],
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T06:08:36.151050+09:00"
+}
