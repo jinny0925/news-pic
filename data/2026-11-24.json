@@ -1,0 +1,613 @@
+{
+  "cards": [
+    {
+      "id": "world-digital-trade",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "list",
+      "title": "美, 한국 등 디지털 규제 '무역법 301조' 조사 검토",
+      "subtitle": "트럼프 행정부, 디지털 정책에 대한 무역장벽 가능성 제기",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3국",
+            "label": "조사 대상"
+          },
+          {
+            "value": "301조",
+            "label": "무역법 조항"
+          },
+          {
+            "value": "디지털",
+            "label": "분야"
+          }
+        ],
+        "main_number": "3개국",
+        "main_text": "美 무역법 301조 조사 검토 대상국"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, trade war, digital regulations, countries flags",
+      "detail": {
+        "summary": "트럼프 행정부가 한국, EU, 호주의 디지털 분야 정책에 대해 무역법 301조 조사를 검토 중이며, 이는 잠재적 무역장벽으로 이어질 수 있다.",
+        "points": [
+          "미국 무역법 301조 발동 가능성",
+          "한국, EU, 호주가 주요 조사 대상",
+          "디지털 서비스에 대한 각국의 세금 및 규제 관련",
+          "트럼프의 무역정책 기조 강화 예상"
+        ],
+        "quote": "사안을 잘 아는 미 정치전문매체 폴리티코가 현지시간 22일 보도했습니다.",
+        "context": "미국은 자국 기업에 대한 차별적 대우를 막기 위해 무역법 301조를 활용, 디지털 서비스세를 포함한 각국의 디지털 정책에 대한 공정성을 면밀히 살피고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000929226?sid=104"
+      },
+      "image_url": "data/images/2026-11-24/world-digital-trade.jpg"
+    },
+    {
+      "id": "world-arctic-standard",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "中, 극지 국제표준 주도… 북극항로 점유율 확대 노린다",
+      "subtitle": "쇄빙·해양구조물 국제표준 발표, 북극항로 영향력 강화 시동",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1위",
+            "label": "신조선 수주"
+          },
+          {
+            "value": "북극항로",
+            "label": "전략적 요충지"
+          },
+          {
+            "value": "기술격차",
+            "label": "한국과 LNG선"
+          }
+        ],
+        "main_number": "국제 표준",
+        "main_text": "中, 해양구조물 국제표준 발표"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, arctic route, icebreaker ship, world map, polar region",
+      "detail": {
+        "summary": "중국이 극지 쇄빙 및 해양구조물에 대한 국제표준을 발표하며 북극항로에서의 영향력을 확대하려 한다.",
+        "points": [
+          "중국, 극지 쇄빙 및 해양구조물 국제표준 발표",
+          "북극항로 점유율 및 전략적 이점 확보 목표",
+          "한국과의 LNG 운반선 등 초고부가가치 선종 기술 격차 해소 노력",
+          "지정학적 리스크 회피 위한 북극항로 관심 증대"
+        ],
+        "quote": "상당한 정치적·전략적 의미를 지닌다",
+        "context": "중국은 세계 신조선 수주 1위이지만, 초고부가가치 선종에서는 한국과 격차가 있다. 북극항로의 경제적, 전략적 중요성이 커지면서 관련 표준 선점을 통해 주도권을 쥐려 한다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=202611231748122750c8c1c064d_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20arctic%20route%2C%20icebreaker%20ship%2C%20world%20map%2C%20polar%20region%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91205&nologo=true"
+    },
+    {
+      "id": "world-thailand-frigate",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "태국 170억 바트 호위함 입찰 취소 논란…정치 개입 의혹 증폭",
+      "subtitle": "태국 해군 입찰 백지화, 정치적 독성 및 내부 파벌 개입 지적",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "170억 바트",
+            "label": "사업 규모"
+          },
+          {
+            "value": "한국 기업",
+            "label": "참여"
+          }
+        ],
+        "main_number": "입찰 취소",
+        "main_text": "태국 호위함 사업 백지화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, navy ship, thai flag, cancelled stamp",
+      "detail": {
+        "summary": "태국 해군의 170억 바트 규모 호위함 입찰이 취소되며 태국 언론으로부터 정치적 독성과 내부 파벌 개입에 대한 맹렬한 비판을 받고 있다.",
+        "points": [
+          "태국 해군의 170억 바트 호위함 입찰 취소",
+          "한화오션 등 한국 기업 참여",
+          "태국 언론, 정치 독성 및 해군 내부 파벌 개입 지적",
+          "공공조달 역사상 이의신청으로 함정 사업 백지화된 첫 사례"
+        ],
+        "quote": "이번 실패가 정치의 독성과 외부 세력 개입, 해군 내부 권력 파벌과 직결돼 있다고 보도했다.",
+        "context": "태국 정부의 대규모 국방 사업이 투명성 논란에 휩싸였다. 특히 한국 기업도 참여했던 대규모 입찰의 백지화는 태국 내정의 복잡한 문제와 맞물려 국제적인 주목을 받고 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=20261124055134915620990b2dc5_1"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20navy%20ship%2C%20thai%20flag%2C%20cancelled%20stamp%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=17240&nologo=true"
+    },
+    {
+      "id": "economy-kospi-approval",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "코스피 하락, 대통령 지지율에 영향…'증시의 정치학' 부상",
+      "subtitle": "정부 자사주 매수 완화 등 증시 부양책 발표, 시장 심리 회복 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3개월",
+            "label": "정책 적용"
+          },
+          {
+            "value": "하락",
+            "label": "코스피 추세"
+          }
+        ],
+        "main_number": "심리 위축",
+        "main_text": "증시 침체, 소비 심리 악화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, stock chart going down, approval rating going down, correlation",
+      "detail": {
+        "summary": "코스피 하락이 대통령 지지율에 영향을 미치는 '증시의 정치학' 현상이 심화되며, 정부는 3개월간 자사주 매수 완화 등 증시 부양책을 발표했다.",
+        "points": [
+          "코스피와 대통령 지지율 간의 상관관계 부각",
+          "정부, 3개월간 상장사 자사주 매수 주문 수량 한도 완화",
+          "주식 시장 하락에 따른 소비 심리 위축 우려",
+          "경제적 고통을 크게 느끼는 심리 현상 '손실 회피' 작용"
+        ],
+        "quote": "얻는 것보다 잃는 고통을 훨씬 크게 느끼는 심리 현상 때문에 증시 하락이 지지율에 더 민감하게 영향을 미치는 것으로 보인다.",
+        "context": "일반 국민들의 자산 형성 수단으로 주식 투자가 보편화되면서, 증시의 흐름이 실물 경제와 더불어 정치적 지지율에도 직접적인 영향을 미치고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001165360?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20stock%20chart%20going%20down%2C%20approval%20rating%20going%20down%2C%20correlation%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=38730&nologo=true"
+    },
+    {
+      "id": "economy-market-sentiment",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "코스피 반토막·집값 하락…소비심리 얼어붙었다",
+      "subtitle": "향후경기전망CSI 2p 하락, 국내외 증시 조정 및 부동산 시장 불안정 영향",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "86",
+            "label": "향후경기전망CSI"
+          },
+          {
+            "value": "-2p",
+            "label": "전월 대비"
+          },
+          {
+            "value": "강남3구",
+            "label": "집값 하락"
+          }
+        ],
+        "main_number": "소비 심리",
+        "main_text": "CSI 하락, 경기 불안감 고조"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, thermometer dropping, stock market chart down, house price down",
+      "detail": {
+        "summary": "코스피가 반토막 나고 강남3구 집값이 하락하는 등 경제 불확실성이 커지면서 소비심리도 꽁꽁 얼어붙었다.",
+        "points": [
+          "향후경기전망CSI 2p 하락 (86 기록)",
+          "국내외 증시 조정 및 반도체 업황 부정적 뉴스 영향",
+          "강남3구 포함 전국 주택가격 하락 지속",
+          "높은 물가 수준과 가계부채 부담이 소비심리 위축 가속화"
+        ],
+        "quote": "국내외 증시 조정과 국내 반도체 업황의 부정적인 뉴스가 현재 경기 판단 심리에 영향을 미친 것으로 보입니다.",
+        "context": "고물가, 고금리 기조가 장기화되면서 가계의 실질 소득이 줄고, 부동산 시장의 불확실성까지 겹치며 소비 심리 전반에 부정적인 영향을 미치고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/469/0000967338?sid=101"
+      },
+      "image_url": "data/images/2026-11-24/economy-market-sentiment.jpg"
+    },
+    {
+      "id": "economy-business-outlook",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "12월 기업경기전망 3개월 만에 긍정 전환, BSI 100.6 기록",
+      "subtitle": "제조업 부진 지속, 비제조업은 호전…업종별 희비 엇갈려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100.6",
+            "label": "12월 BSI"
+          },
+          {
+            "value": "3개월",
+            "label": "긍정 전환"
+          },
+          {
+            "value": "제조업",
+            "label": "부진 지속"
+          }
+        ],
+        "main_number": "경기 기대",
+        "main_text": "기업경기실사지수 100 상회"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, business graph going up, happy and worried business people icons",
+      "detail": {
+        "summary": "12월 기업경기실사지수(BSI) 전망치가 100.6을 기록하며 3개월 만에 긍정적으로 전환되었으나, 제조업과 비제조업 간 전망은 엇갈렸다.",
+        "points": [
+          "12월 기업경기실사지수(BSI) 100.6 기록",
+          "3개월 만에 긍정적 전망 전환 (BSI 100 이상)",
+          "제조업은 97.4로 부진 지속 전망",
+          "비제조업은 103.5로 긍정적 전망"
+        ],
+        "quote": "국내 주요 기업들의 경기 전망이 3개월 만에 긍정으로 전환됐다.",
+        "context": "글로벌 경기 둔화와 고금리 기조가 이어지는 가운데, 기업들은 내수와 수출 환경 변화에 민감하게 반응하고 있다. 특히 제조업은 글로벌 공급망과 원자재 가격에 더 큰 영향을 받으며 회복이 더디다.",
+        "source_url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327091"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20business%20graph%20going%20up%2C%20happy%20and%20worried%20business%20people%20icons%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=19792&nologo=true"
+    },
+    {
+      "id": "tech-nvidia-trump-headline",
+      "is_headline": true,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "트럼프, 젠슨 황 엔비디아 CEO 복귀 직접 개입 인정…논란 확산",
+      "subtitle": "AI 산업의 핵심 인물 복귀, 미 정치권과 업계에 파문",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "11일",
+            "label": "사임 기간"
+          },
+          {
+            "value": "트럼프",
+            "label": "개입 인정"
+          },
+          {
+            "value": "AI 패권",
+            "label": "핵심 기업"
+          }
+        ],
+        "main_number": "전격 복귀",
+        "main_text": "젠슨 황, 엔비디아 CEO 11일 만에 복귀"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, Jensen Huang CEO, Donald Trump, Nvidia logo, boardroom, chips",
+      "detail": {
+        "summary": "도널드 트럼프 전 대통령이 젠슨 황 엔비디아 CEO의 복귀에 자신이 직접 개입했다고 인정하며, 미 정치권에서는 '경제 안보 팔아넘기기'라는 비판이 일고 있다.",
+        "points": [
+          "젠슨 황 엔비디아 CEO, 사임 11일 만에 전격 복귀",
+          "트럼프 전 대통령이 엔비디아 이사회 설득 인정",
+          "미 정치권, 트럼프의 기업 지배구조 개입에 대한 비판",
+          "AI 패권 경쟁 속 엔비디아의 전략적 중요성 부각"
+        ],
+        "quote": "내가 그들(엔비디아 이사회)을 설득했고 일을 성사시켰다.",
+        "context": "엔비디아는 AI 반도체 시장의 압도적 선두주자로, 젠슨 황 CEO의 리더십은 AI 기술 경쟁에 핵심적인 역할을 한다. 트럼프의 개입은 국가 안보와 경제적 이익을 명분으로 한 기업 지배구조 개입이라는 점에서 큰 논란을 낳고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/277/0005846689?sid=104"
+      },
+      "image_url": "data/images/2026-11-24/tech-nvidia-trump-headline.jpg"
+    },
+    {
+      "id": "tech-lgd-patent",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "LG디스플레이, 해외 특허 32% 증가…中 기술 추격에 맞선다",
+      "subtitle": "OLED 시장 경쟁 심화 속, 특허로 기술력 보호 및 시장 방어 강화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+32%",
+            "label": "해외 특허"
+          },
+          {
+            "value": "中 업체",
+            "label": "기술 추격"
+          },
+          {
+            "value": "OLED",
+            "label": "주력 기술"
+          }
+        ],
+        "main_number": "기술 보호",
+        "main_text": "특허로 시장 지배력 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, patent certificate, shield, growth arrow, OLED display",
+      "detail": {
+        "summary": "LG디스플레이가 해외 특허 등록을 32% 늘리며 중국 업체들의 기술 추격에 맞서 OLED 시장에서의 기술 우위를 지키려 한다.",
+        "points": [
+          "LG디스플레이, 해외 특허 등록 전년 대비 32% 증가",
+          "중국 업체들의 IT용 OLED 시장 진입 가속화",
+          "특허권은 등록 국가에서만 효력 발생, 해외 시장 방어 중요",
+          "초격차 기술 확보 및 특허 보호로 시장 지배력 유지 목표"
+        ],
+        "quote": "중국 업체들이 해외 시장으로 사업을 확대할수록 현지 특허권으로 방어막을 쳐야 한다는 판단에서다.",
+        "context": "최근 스마트폰에 이어 노트북, 태블릿 등 IT용 OLED 시장에서도 중국 기업들의 추격이 거세지면서, LG디스플레이는 원천 기술 보호를 위해 해외 주요 시장에서의 특허 확보에 더욱 집중하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/008/0005445308?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20patent%20certificate%2C%20shield%2C%20growth%20arrow%2C%20OLED%20display%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40184&nologo=true"
+    },
+    {
+      "id": "tech-chip-competition",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "pie_chart",
+      "title": "中 메모리 반도체 맹추격…글로벌 가격 결정력 흔들리나",
+      "subtitle": "CXMT, YMTC 시장 점유율 확대…韓·美 기업 압박 증대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "50만 장",
+            "label": "CXMT 월간 생산"
+          },
+          {
+            "value": "15%",
+            "label": "글로벌 D램"
+          },
+          {
+            "value": "16.5%",
+            "label": "YMTC 낸드 점유율"
+          }
+        ],
+        "main_number": "시장 재편",
+        "main_text": "中, 메모리 반도체 영향력 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, semiconductor chips, market share pie chart, Chinese flag",
+      "detail": {
+        "summary": "중국 메모리 반도체 기업 CXMT와 YMTC가 빠르게 성장하며 삼성전자, SK하이닉스, 마이크론 등 글로벌 선두 기업들의 가격 결정력에 도전하고 있다.",
+        "points": [
+          "CXMT, 2028년 월간 D램 생산 능력 50만 장 예상 (글로벌 15%)",
+          "YMTC, 낸드플래시 출하량 기준 점유율 16.5%로 키옥시아 추월",
+          "미국 등 서방의 대중국 반도체 규제에도 불구하고 성장",
+          "한국, 미국 기업의 시장 지배력 약화 우려"
+        ],
+        "quote": "중국 메모리 기업들이 추격 속도를 높이면서 삼성전자, SK하이닉스, 마이크론 등 한국과 미국 기업들의 글로벌 가격 결정력이 약화될 수 있다는 우려가 나온다.",
+        "context": "미중 기술 패권 경쟁 속에서도 중국은 막대한 정부 지원을 바탕으로 반도체 산업 자립을 추진하고 있다. 이는 글로벌 메모리 시장의 경쟁 구도와 가격 책정에 큰 변화를 가져올 수 있다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026112317332733520c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-24/tech-chip-competition.jpg"
+    },
+    {
+      "id": "society-retirement-age",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "정년 연장 논의, 자동차 노사 60세 이후 일자리 두고 평행선",
+      "subtitle": "경영계 퇴직 후 재고용 선호, 노동계 65세 정년 요구 대립",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "60세",
+            "label": "현재 정년"
+          },
+          {
+            "value": "65세",
+            "label": "노동계 요구"
+          },
+          {
+            "value": "재고용",
+            "label": "경영계 선호"
+          }
+        ],
+        "main_number": "정년 연장",
+        "main_text": "노사 간 입장 차이 뚜렷"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, senior worker, gears, handshake, conflict",
+      "detail": {
+        "summary": "정년 연장 논의가 본격화되면서 자동차 업계를 중심으로 경영계는 퇴직 후 재고용을, 노동계는 65세 정년을 요구하며 첨예하게 대립하고 있다.",
+        "points": [
+          "정치권과 정부의 정년 연장 논의 본격화",
+          "완성차 업계, 60세 이후 일자리 문제에 노사 간 입장차",
+          "경영계는 기업 선택권 있는 퇴직 후 재고용 선호",
+          "노동계는 현재 임금·고용 유지하는 65세 정년 요구"
+        ],
+        "quote": "경영계는 기업에 선택권이 있는 퇴직 후 재고용을 원하지만 노동계는 지금의 임금과 고용 형태를 지키는 65세 정년을 요구하며 팽팽한 평행선을 달리고 있다.",
+        "context": "고령화 사회 진입으로 정년 연장은 피할 수 없는 사회적 과제가 되고 있다. 하지만 기업의 인건비 부담과 청년층 일자리 문제, 노동 생산성 등 복합적인 요인이 얽혀 있어 사회적 합의 도출이 어렵다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001165361?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20senior%20worker%2C%20gears%2C%20handshake%2C%20conflict%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=59195&nologo=true"
+    },
+    {
+      "id": "society-police-workload",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "경찰 수사 인력 증원 시급…범죄 증가에 업무 부담 가중",
+      "subtitle": "사기·특별경제범죄 급증, 형사사법시스템 변화에 따른 인력 재편 필요",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+17.3%",
+            "label": "지능범죄 증"
+          },
+          {
+            "value": "+133.7%",
+            "label": "특별경제범죄"
+          },
+          {
+            "value": "83.4%",
+            "label": "사기범죄 비중"
+          }
+        ],
+        "main_number": "업무 증가",
+        "main_text": "경찰 수사 인력 증원 촉구"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, police officer, magnifying glass, crime statistics bar chart",
+      "detail": {
+        "summary": "형사사법시스템 변화와 함께 지능범죄, 특별경제범죄, 사이버 사기 등 범죄가 급증하며 경찰 수사 인력 증원의 필요성이 제기되고 있다.",
+        "points": [
+          "지능범죄 17.3% (43만2525건 → 50만7301건) 증가",
+          "특별경제범죄 133.7% (5만9090건 → 13만8121건) 급증",
+          "2025년 기준 사기범죄가 지능범죄의 83.4% 차지",
+          "정보통신망 이용 범죄 및 사이버사기 피해금액 급증"
+        ],
+        "quote": "수사-기소 분리 이후 경찰 업무부담이 증가했으며 이에 대한 인력 보충과 재편이 필요하다.",
+        "context": "수사-기소 분리 이후 경찰의 수사 부담이 크게 늘어난 상황에서, 디지털 범죄의 복잡성과 증가세는 경찰 수사 역량 강화를 더욱 절실하게 만들고 있다.",
+        "source_url": "https://www.newstnt.com/news/articleView.html?idxno=730092"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20police%20officer%2C%20magnifying%20glass%2C%20crime%20statistics%20bar%20chart%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83626&nologo=true"
+    },
+    {
+      "id": "society-crypto-regulation",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "list",
+      "title": "가상자산사업자 28곳 전원 재신고, 대주주 적격성 심사 본격화",
+      "subtitle": "금융당국, 대주주 법 위반 전력 및 사회적 신용 등 점검 확대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "28곳",
+            "label": "신고 대상"
+          },
+          {
+            "value": "전원",
+            "label": "제출 완료"
+          },
+          {
+            "value": "대주주",
+            "label": "첫 심사"
+          }
+        ],
+        "main_number": "규제 강화",
+        "main_text": "가상자산사업자 심사 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, cryptocurrency coins, shield, magnifying glass, document checklist",
+      "detail": {
+        "summary": "가상자산사업자 28곳이 재신고를 완료하며 금융당국이 대주주의 법 위반 전력, 사회적 신용, 재무 상태 등 적격성 심사를 본격적으로 착수한다.",
+        "points": [
+          "가상자산사업자 28곳, 기한 내 재신고서 전원 제출",
+          "개정 특금법에 따라 대주주의 법 위반 전력 및 사회적 신용 심사 도입",
+          "부채비율, 재무상태, 조직·인력·전산설비, 내부통제체계 등 심사 항목 확대",
+          "가상자산 시장의 투명성과 건전성 강화 기대"
+        ],
+        "quote": "금융당국은 대주주의 법 위반 전력과 사회적 신용을 처음으로 심사하고, 1년간 적용이 유예된 부채비율과 자기자본 요건 등 재무상태까지 폭넓게 들여다볼 방침이다.",
+        "context": "최근 가상자산 시장의 불안정성과 투자자 보호 문제가 대두되면서, 금융당국은 규제를 강화하여 시장의 신뢰를 높이고 불법 행위를 방지하고자 한다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2651830"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cryptocurrency%20coins%2C%20shield%2C%20magnifying%20glass%2C%20document%20checklist%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=64860&nologo=true"
+    },
+    {
+      "id": "life-food-safety",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map",
+      "title": "신세계百, 식품안심구역 12개 점포 선정…식품안전 관리 강화",
+      "subtitle": "위생 관리 기준 강화, 소비자가 안심하고 이용할 수 있는 환경 조성",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "12개",
+            "label": "선정 점포"
+          },
+          {
+            "value": "식품안전",
+            "label": "강화 목표"
+          },
+          {
+            "value": "협력",
+            "label": "입점 브랜드"
+          }
+        ],
+        "main_number": "안심 쇼핑",
+        "main_text": "백화점 식품안전 강화 노력"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, shopping cart, shield, food items, checkmark",
+      "detail": {
+        "summary": "신세계백화점이 12개 점포를 '식품안심구역'으로 선정하고 입점 브랜드와의 협력을 통해 식품안전 관리를 강화한다.",
+        "points": [
+          "12개 점포 '식품안심구역'으로 선정",
+          "매장 내 위생 관리 기준 꾸준히 강화",
+          "소비자가 안심하고 이용할 수 있는 식음 환경 유지",
+          "입점 브랜드와의 협력 기반"
+        ],
+        "quote": "앞으로도 소비자가 안심하고 이용할 수 있는 식음 환경을 유지해 나가겠다.",
+        "context": "식품 안전에 대한 소비자의 관심과 기대가 높아지면서 유통업계는 자체적인 위생 관리 기준을 강화하고 있다. 이는 고객 신뢰를 확보하고 건강한 소비 문화를 조성하는 데 중요한 역할을 한다.",
+        "source_url": "https://www.pointe.co.kr/news/articleView.html?idxno=88304"
+      },
+      "image_url": "data/images/2026-11-24/life-food-safety.jpg"
+    },
+    {
+      "id": "life-youth-pause",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "청년 '쉬었음' 인구 44조 경제 손실…EBS, 새로운 길 모색 조명",
+      "subtitle": "멈춤의 시간 속에서 자신만의 길을 찾는 청년들의 이야기 조명",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "44조",
+            "label": "경제적 손실"
+          },
+          {
+            "value": "'쉬었음'",
+            "label": "표현된 청년"
+          },
+          {
+            "value": "다큐멘터리",
+            "label": "조명"
+          }
+        ],
+        "main_number": "청년들의 삶",
+        "main_text": "숨겨진 노력과 가치 재발견"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, young person thinking, path, money falling, clock",
+      "detail": {
+        "summary": "통계상 '쉬었음'으로 분류되는 청년들의 경제적 손실이 44조 원을 넘어서는 가운데, EBS가 이들이 멈춤의 시간 속에서 자신만의 길을 찾는 과정을 다큐멘터리로 조명한다.",
+        "points": [
+          "'쉬었음' 청년들로 인한 경제적 손실 예측치 44조 원 이상",
+          "통계상의 표현만으로는 담을 수 없는 청년들의 노력과 시간",
+          "EBS 다큐멘터리 '청춘의 쉼표'에서 다양한 사연 조명",
+          "취업 외 새로운 가치와 삶의 방향을 찾아가는 청년들"
+        ],
+        "quote": "그러나 통계상의 '쉬었음'이라는 표현만으로 청년들이 보내온 시간과 그 안에 담긴 노력을 설명하기는 어렵다.",
+        "context": "코로나19 팬데믹 이후 청년층의 구직난과 사회 진출의 어려움이 가중되면서, '쉬었음' 인구가 증가하고 있다. 이는 개인의 문제를 넘어 사회 전체의 경제적 손실로 이어지며, 청년들의 다양한 삶의 가치를 이해하려는 노력이 필요하다.",
+        "source_url": "https://www.lecturernews.com/news/articleView.html?idxno=214416"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20young%20person%20thinking%2C%20path%2C%20money%20falling%2C%20clock%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=10033&nologo=true"
+    },
+    {
+      "id": "life-rhino-conservation",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map",
+      "title": "멸종위기 흰코뿔소 '아리랑', 대만서 에버랜드로 번식 위해 이동",
+      "subtitle": "2톤 흰코뿔소의 국제적인 이동, 종 보전 및 유전적 다양성 확보 기여",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2톤",
+            "label": "아리랑 체중"
+          },
+          {
+            "value": "1.5만 마리",
+            "label": "야생 개체수"
+          },
+          {
+            "value": "준위협종",
+            "label": "IUCN 분류"
+          }
+        ],
+        "main_number": "종 보전",
+        "main_text": "멸종위기 흰코뿔소 국제 협력"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text, white rhino, airplane, world map, animal conservation",
+      "detail": {
+        "summary": "대만에서 태어난 2톤 흰코뿔소 '아리랑'이 번식과 종 보전을 위해 에버랜드로 이동하며 한국-대만 간 생태계 보호 협력의 상징이 된다.",
+        "points": [
+          "대만에서 태어난 2톤 흰코뿔소 '아리랑', 에버랜드로 이동",
+          "번식과 유전적 다양성 확보를 위한 국제 동물 교환",
+          "남방흰코뿔소, IUCN 적색목록 '준위협종' 분류",
+          "한국-대만 간 생태계 보호 협력 및 미래 세대 공감대 형성"
+        ],
+        "quote": "아리랑의 한국행이 전시 목적의 동물 교환을 넘어 흰코뿔소의 유전적 다양성 확보와 한국·대만 간 생태계 보호 협력, 양국 미래 세대의 정서적 공감대 형성을 위한 문화·교육 교류의 장이 될 것이다.",
+        "context": "멸종위기에 처한 동물들의 개체 수를 늘리고 유전적 다양성을 확보하기 위해 전 세계 동물원 간의 교류와 협력이 활발하게 이루어지고 있다. 이는 단순히 동물을 전시하는 것을 넘어 생태계 보전의 중요한 역할을 한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004177553?sid=104"
+      },
+      "image_url": "data/images/2026-11-24/life-rhino-conservation.jpg"
+    }
+  ],
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T06:10:33.714912+09:00"
+}
