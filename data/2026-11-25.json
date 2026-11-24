@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-taiwan-geopolitics",
+      "is_headline": true,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "대만, 우리 시대의 '서베를린'…지정학적 중요성 부각",
+      "subtitle": "카플란 교수, 대만 지정학적 중요성 강조하며 중국 승리 경고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1국",
+            "label": "관련 이슈"
+          },
+          {
+            "value": "5개국",
+            "label": "영향권"
+          },
+          {
+            "value": "핵심",
+            "label": "지정학"
+          }
+        ],
+        "main_number": "↑위험",
+        "main_text": "아시아 태평양 지역 긴장 고조"
+      },
+      "image_prompt": "cute pastel infographic illustration, map of Taiwan and surrounding countries, global power dynamics, no text",
+      "detail": {
+        "summary": "신현실주의 국제정치학자가 대만의 지정학적 중요성을 서베를린에 비유하며 중국의 잠재적 승리에 대한 우려를 제기했습니다.",
+        "points": [
+          "로버트 카플란 교수, 대만 이슈를 '우리 시대의 서베를린'으로 명명",
+          "대만 점령 시 중국의 동아시아 지정학적 우위 확보 가능성",
+          "필리핀, 베트남, 호주 등 주변국들의 중국 의존 심화 우려",
+          "일본의 안보 위협 및 역내 힘의 균형 변화 경고"
+        ],
+        "quote": "대만이 무너지면 중국은 동아시아 지정학적 승리를 거둘 것이며, 그 파급 효과는 전 세계에 미칠 것이다.",
+        "context": "미중 갈등 심화와 더불어 대만해협의 군사적 긴장이 고조되는 가운데, 대만의 전략적 가치에 대한 국제사회의 논의가 활발해지고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/003/0014343207?sid=104"
+      },
+      "image_url": "data/images/2026-11-25/world-taiwan-geopolitics.jpg"
+    },
+    {
+      "id": "world-korea-us-diplomacy",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "timeline",
+      "title": "한미동맹 긴밀 협력 중요성 재확인…美, 韓 외교안보라인 교체 주시",
+      "subtitle": "미 국무부, 한국 외교·안보 라인 교체에 '긴밀 협력' 강조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3명",
+            "label": "교체 인사"
+          },
+          {
+            "value": "11/24",
+            "label": "미 국무부 발표"
+          },
+          {
+            "value": "1개",
+            "label": "동맹"
+          }
+        ],
+        "main_number": "강화",
+        "main_text": "한미동맹 지속적 협력"
+      },
+      "image_prompt": "cute pastel infographic illustration, hands shaking representing diplomacy, flags of USA and South Korea, no text",
+      "detail": {
+        "summary": "미국 국무부가 한국의 외교·안보 라인 교체에 대해 한미동맹의 긴밀한 협력이 중요하다고 강조하며 관련 동향을 주시하고 있습니다.",
+        "points": [
+          "미 국무부, 한국의 외교·안보 라인 교체와 관련해 긴밀한 협력 강조",
+          "국정원장, 외교·통일부 장관 등 주요 인사 교체 단행",
+          "미 행정부 및 정치권에서 제기된 '한미동맹 이상기류' 논란 고려 조치 분석",
+          "이재명 정부의 '실용 외교' 접근법에 대한 미국의 입장 주목"
+        ],
+        "quote": "한미동맹은 역내 평화, 안보, 번영의 핵심 축이며, 긴밀한 협력을 지속하는 것이 중요하다.",
+        "context": "최근 한국의 외교·안보 라인 개각이 단행되면서, 미국이 이에 대해 어떤 입장을 취할지 주목받았습니다. 이는 한미동맹의 방향성과 동아시아 정세에 중요한 영향을 미칠 수 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000929631?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20hands%20shaking%20representing%20diplomacy%2C%20flags%20of%20USA%20and%20South%20Korea%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94829&nologo=true"
+    },
+    {
+      "id": "world-russia-military",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "러시아 핵폭격기 울릉도 접근, '국제법 위반 없다' 주장",
+      "subtitle": "러시아, 세계 최대 초음속 전략폭격기 투폴레프-160 동원해 한반도 인근 무력시위",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1대",
+            "label": "폭격기 기종"
+          },
+          {
+            "value": "최대",
+            "label": "초음속"
+          },
+          {
+            "value": "논란",
+            "label": "국제법"
+          }
+        ],
+        "main_number": "무력시위",
+        "main_text": "한반도 주변 긴장 고조"
+      },
+      "image_prompt": "cute pastel infographic illustration, military aircraft near a map of South Korea, international border lines, no text",
+      "detail": {
+        "summary": "러시아가 세계 최대 초음속 전략폭격기 Tu-160을 동원해 울릉도 인근에 접근했으나, 국제법 위반은 없다고 주장하며 긴장을 고조시켰습니다.",
+        "points": [
+          "러시아 Tu-160 전략폭격기, 울릉도 영공 침범 직전까지 접근",
+          "김정은에게 공개된 핵전력, 푸틴 대통령도 직접 탑승한 기종",
+          "러시아 국방부, '국제법 위반 없이 공해 상공 비행' 주장",
+          "한반도 주변 역내 안보 환경에 대한 우려 증폭"
+        ],
+        "quote": "러시아는 국제법 규정에 따라 공해 상공에서 비행했고, 어떠한 영공도 침범하지 않았다.",
+        "context": "최근 러시아의 군용기 활동이 한반도 주변에서 빈번해지고 있으며, 이는 지역 안보에 대한 국제사회의 우려를 키우고 있습니다. 이번 사건은 특히 강력한 핵전력의 동원으로 경각심을 높이고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003702902?sid=104"
+      },
+      "image_url": "data/images/2026-11-25/world-russia-military.jpg"
+    },
+    {
+      "id": "economy-consumer-confidence",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "미 11월 소비자신뢰지수 2년 만에 최고…두 달 연속 반등",
+      "subtitle": "미국 경제조사단체, 11월 소비자신뢰지수 103.3으로 상승",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "103.3",
+            "label": "11월 지수"
+          },
+          {
+            "value": "+11.4p",
+            "label": "전월 대비"
+          },
+          {
+            "value": "2년",
+            "label": "최고치"
+          }
+        ],
+        "main_number": "상승",
+        "main_text": "소비자 경기 낙관론 확산"
+      },
+      "image_prompt": "cute pastel infographic illustration, upward trend line chart showing economic growth, smiling people shopping, no text",
+      "detail": {
+        "summary": "미국 11월 소비자신뢰지수가 두 달 연속 상승하며 약 2년 만에 최고치를 기록, 경제에 대한 낙관론이 확산되고 있습니다.",
+        "points": [
+          "미 11월 소비자신뢰지수 103.3 기록 (전월 91.9 대비 11.4p 상승)",
+          "지난해 1월 이후 가장 높은 수준으로, 전문가 예상치 상회",
+          "소비자들의 현재 경제 상황 및 미래 전망에 대한 긍정적 평가 증가",
+          "미국 경제의 안정적 성장 가능성에 대한 기대감 반영"
+        ],
+        "quote": "노동시장이 견고하고 인플레이션 압력이 완화되면서 소비자들이 경제에 대해 더 낙관적으로 보고 있다.",
+        "context": "높은 소비자 신뢰는 소비 활성화로 이어져 경제 성장을 견인하는 중요한 지표로 평가됩니다. 이는 금리 인상 사이클 종료 기대감과 맞물려 시장에 긍정적인 신호를 주고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000929635?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20upward%20trend%20line%20chart%20showing%20economic%20growth%2C%20smiling%20people%20shopping%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70626&nologo=true"
+    },
+    {
+      "id": "economy-kospi-fund",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "코스피 5천 회복에도 10.7조 증안펀드 대기…F4가 투입 결정",
+      "subtitle": "증시 안정화 펀드, 시장 상황 주시하며 투입 여부 고심",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10.7조원",
+            "label": "펀드 규모"
+          },
+          {
+            "value": "4개 기관",
+            "label": "결정 주체"
+          },
+          {
+            "value": "5000p",
+            "label": "코스피 지수"
+          }
+        ],
+        "main_number": "유지",
+        "main_text": "시장 안정화 준비 태세"
+      },
+      "image_prompt": "cute pastel infographic illustration, stock market index graph with an arrow pointing up, financial advisors, no text",
+      "detail": {
+        "summary": "코스피가 5천 포인트를 회복했음에도 10.7조 원 규모의 증시 안정화 펀드가 대기 중이며, 금융 당국이 시장 상황을 면밀히 주시하며 투입 여부를 결정할 예정입니다.",
+        "points": [
+          "코스피 지수 5천 포인트 회복에도 불구하고 증시 안정화 펀드 지속 대기",
+          "재정경제부, 한국은행, 금융위원회, 금융감독원 'F4'가 투입 여부 논의",
+          "펀드 투입 시, 금융위가 출자기관에 약정한 자금의 납입 요청",
+          "시장 변동성 확대 시 즉각적인 대응을 위한 준비 태세 유지"
+        ],
+        "quote": "증시 흐름과 시장 개입 필요성을 종합적으로 고려하여 신중하게 결정할 것이다.",
+        "context": "증시 안정화 펀드는 급격한 시장 하락 시 투자자 불안을 해소하고 시장 안정을 도모하기 위한 장치입니다. 코스피 회복세 속에서도 잠재적 불안 요인에 대비하는 모습입니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009308203?sid=101"
+      },
+      "image_url": "data/images/2026-11-25/economy-kospi-fund.jpg"
+    },
+    {
+      "id": "economy-shein-ftc",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "패스트패션 쉬인, FTC와 1억 달러 합의…소비자 피해 구제",
+      "subtitle": "배송 지연 및 부정적 후기 은폐 혐의로 연방거래위원회와 합의",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1억 달러",
+            "label": "합의금"
+          },
+          {
+            "value": "1곳",
+            "label": "규제 기관"
+          },
+          {
+            "value": "피해",
+            "label": "소비자"
+          }
+        ],
+        "main_number": "배상",
+        "main_text": "소비자 보호 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration, scale of justice balancing consumer and corporation, e-commerce shopping cart, no text",
+      "detail": {
+        "summary": "세계적인 온라인 패스트패션 업체 쉬인(SHEIN)이 배송 지연과 부정적 후기 은폐 혐의로 미 연방거래위원회(FTC)와 1억 달러의 소비자 피해 구제 합의를 체결했습니다.",
+        "points": [
+          "쉬인, 소비자 피해 구제를 위해 FTC에 1억 달러 지급 합의",
+          "FTC, 쉬인의 배송 약속 불이행 및 부정적 후기 은폐 혐의 지적",
+          "온라인 패스트패션 업계의 소비자 보호 의무 강화 촉구",
+          "글로벌 기업의 소비자 권리 침해 사례에 대한 경각심 고조"
+        ],
+        "quote": "이 합의는 소비자를 기만하는 행위에 대해 기업이 책임을 져야 한다는 강력한 메시지를 전달한다.",
+        "context": "빠르게 성장하는 온라인 플랫폼들은 소비자 보호와 공정한 거래 관행을 준수해야 할 의무가 있습니다. 이번 합의는 이커머스 시장에서의 규제 강화 추세를 보여줍니다.",
+        "source_url": "https://www.radiokorea.com/news/article.php?uid=510660"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20scale%20of%20justice%20balancing%20consumer%20and%20corporation%2C%20e-commerce%20shopping%20cart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53076&nologo=true"
+    },
+    {
+      "id": "tech-ai-security",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "bar_chart",
+      "title": "AI 해킹 탐지 성능의 함정…평가 방식 따라 정밀도 '뚝'",
+      "subtitle": "AI 보안 솔루션, 평가 방식에 따른 탐지 성능의 큰 편차 확인",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "변동",
+            "label": "정밀도"
+          },
+          {
+            "value": "1건",
+            "label": "연구 결과"
+          },
+          {
+            "value": "향상",
+            "label": "보안 기술"
+          }
+        ],
+        "main_number": "↑필요",
+        "main_text": "AI 보안 평가 기준 개선"
+      },
+      "image_prompt": "cute pastel infographic illustration, a magnifying glass inspecting lines of code, robot eye, cybersecurity shield, no text",
+      "detail": {
+        "summary": "AI 보안 솔루션의 해킹 탐지 성능이 평가 방식에 따라 크게 달라질 수 있다는 연구 결과가 나와, AI 보안 시스템의 실효성 검증의 중요성이 부각되고 있습니다.",
+        "points": [
+          "인포시즈 AI 보안 솔루션 '고스' 개발팀, 성능 평가 방식 검증 연구 발표",
+          "기존 AI 침입 탐지 모델의 성능이 평가 기준에 따라 크게 변화함",
+          "보안 솔루션 도입 시 성능 평가 방식의 신뢰성 확보가 중요",
+          "AI 기반 보안 기술의 실제 적용 가능성에 대한 심층적인 검토 요구"
+        ],
+        "quote": "AI 보안 솔루션의 진정한 성능을 파악하기 위해서는 다양한 환경과 방식으로 평가해야 한다.",
+        "context": "AI 기술은 사이버 보안 분야에서 혁신적인 가능성을 제시하고 있지만, 동시에 그 성능을 정확히 측정하고 신뢰성을 확보하는 것이 중요한 과제로 떠오르고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004685804?sid=105"
+      },
+      "image_url": "data/images/2026-11-25/tech-ai-security.jpg"
+    },
+    {
+      "id": "tech-ai-finance",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "doughnut_chart",
+      "title": "금융 AI 도입, 망분리 완화 넘어 '예산·운영' 재편 시급",
+      "subtitle": "금융권 AI 투자를 위한 예산 및 운영 시스템 전반의 혁신 필요",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2027년",
+            "label": "혁신 목표"
+          },
+          {
+            "value": "AI",
+            "label": "핵심 기술"
+          },
+          {
+            "value": "과제",
+            "label": "IT 예산"
+          }
+        ],
+        "main_number": "재편",
+        "main_text": "금융 IT 인프라 혁신"
+      },
+      "image_prompt": "cute pastel infographic illustration, robot hand interacting with financial data, money symbols, network lines, no text",
+      "detail": {
+        "summary": "금융권의 AI 도입을 위해서는 망분리 규제 완화를 넘어, AI 투자에 맞춘 예산 및 운영 시스템 전반의 재편이 시급하다는 지적입니다.",
+        "points": [
+          "금융사 IT 예산 대부분이 기존 시스템 유지·운영에 소모",
+          "AI 투자를 위한 새로운 예산 확보 및 배정의 어려움",
+          "망분리 완화와 함께 AI 모델보다 '운영 환경' 구축이 우선 과제",
+          "금융 IT 인프라의 전면적인 재구성을 통한 AI 시대 대비"
+        ],
+        "quote": "금융권 AI 혁신의 성패는 기술 도입을 넘어, 이를 효율적으로 지원하는 IT 예산과 운영 시스템에 달려있다.",
+        "context": "AI 기술이 금융 서비스의 핵심 경쟁력으로 떠오르면서, 금융 기업들은 기술 도입을 위한 인프라 구축과 예산 확보에 대한 근본적인 고민에 직면하고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002249789?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20robot%20hand%20interacting%20with%20financial%20data%2C%20money%20symbols%2C%20network%20lines%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45379&nologo=true"
+    },
+    {
+      "id": "tech-china-ai-startup",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "line_chart",
+      "title": "알리바바·바이트댄스 인재들, 中 AI 연구소 창업 붐 주도",
+      "subtitle": "중국 내 AI 스타트업 급증, 300여 곳 39억 달러 조달",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "300+",
+            "label": "스타트업 수"
+          },
+          {
+            "value": "39억 달러",
+            "label": "조달 투자금"
+          },
+          {
+            "value": "급증",
+            "label": "창업률"
+          }
+        ],
+        "main_number": "↑성장",
+        "main_text": "중국 AI 시장 급부상"
+      },
+      "image_prompt": "cute pastel infographic illustration, upward trend graph for startup investments, Chinese tech company logos, no text",
+      "detail": {
+        "summary": "알리바바와 바이트댄스 등 주요 IT 기업 출신 인재들이 중국 내 AI 연구소 창업 붐을 이끌며, 초기 단계 스타트업들이 막대한 투자를 유치하고 있습니다.",
+        "points": [
+          "중국 투자 정보업체 IT쥐즈 집계, 올해 약 300곳의 AI 스타트업 창업",
+          "초기 단계 스타트업들이 총 39억 달러 규모의 투자 유치",
+          "AI의 물리적 인지 능력부터 스스로 개선하는 코딩 시스템까지 폭넓은 분야 집중",
+          "주요 테크 기업 출신 전문가들이 AI 기술 창업 생태계 활성화 주도"
+        ],
+        "quote": "중국의 AI 스타트업들은 세계 AI 기술 혁신의 새로운 동력으로 부상하고 있다.",
+        "context": "미중 기술 경쟁 속에서도 중국은 AI 분야에서 자체적인 생태계를 구축하며 빠르게 성장하고 있습니다. 이는 글로벌 AI 시장 판도에 큰 영향을 미칠 것으로 예상됩니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004685801?sid=104"
+      },
+      "image_url": "data/images/2026-11-25/tech-china-ai-startup.jpg"
+    },
+    {
+      "id": "society-religious-policy",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "대통령 '불법종교 해산 실효적 조치' 지시, 사회적 논란 예고",
+      "subtitle": "대통령 지시, 종교단체 정치개입 및 유착 문제 해결 시도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1회",
+            "label": "대통령 지시"
+          },
+          {
+            "value": "문제",
+            "label": "선거 개입"
+          },
+          {
+            "value": "논란",
+            "label": "사회 갈등"
+          }
+        ],
+        "main_number": "증가",
+        "main_text": "종교 단체 관련 갈등"
+      },
+      "image_prompt": "cute pastel infographic illustration, balance scale with religious symbols and government symbols, pointing to policy, no text",
+      "detail": {
+        "summary": "대통령이 '불법종교 해산 실효적 조치'를 지시하며 종교단체의 정치 개입 문제를 해결하려 했으나, 이는 사회적 논란과 갈등을 야기할 가능성이 큽니다.",
+        "points": [
+          "대통령, 문체부에 불법 종교 단체 해산 관련 검토 및 계획 보고 지시",
+          "종교단체의 선거 개입, 정당 가입 동원, 정치자금 제공 등 문제 제기",
+          "종교적 일탈에 대한 합리적 제재의 필요성에는 공감대 형성",
+          "과정에서 발생할 수 있는 논란과 갈등, 사회적 분열에 대한 우려"
+        ],
+        "quote": "환부를 건드리되 뇌관을 터트리는 우를 범할까 걱정이다.",
+        "context": "종교의 자유는 헌법이 보장하는 기본권이지만, 일부 종교 단체의 사회적 문제 야기 및 정치 개입은 지속적으로 논란이 되어왔습니다. 이번 지시는 이러한 문제에 대한 정부의 강력한 의지를 보여줍니다.",
+        "source_url": "https://www.yeongnam.com/web/view.php?key=20261124021002703"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20balance%20scale%20with%20religious%20symbols%20and%20government%20symbols%2C%20pointing%20to%20policy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=69756&nologo=true"
+    },
+    {
+      "id": "society-retirement-pension",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "노동 대가와 노후 보장, 퇴직연금으로 함께 잡는다",
+      "subtitle": "퇴직연금제도 개선, 노동자의 존엄한 노후 보장 목표",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1회",
+            "label": "공동선언"
+          },
+          {
+            "value": "강화",
+            "label": "노후 보장"
+          },
+          {
+            "value": "변화",
+            "label": "법과 제도"
+          }
+        ],
+        "main_number": "↑확대",
+        "main_text": "퇴직연금 수혜 범위"
+      },
+      "image_prompt": "cute pastel infographic illustration, piggy bank with retirement age people, secure future, financial planning, no text",
+      "detail": {
+        "summary": "정부가 '노동 대가와 노후 보장'을 함께 목표로 하는 퇴직연금제도 개선을 추진하며, 사회적 합의를 통해 노동자들이 체감할 수 있는 변화를 약속했습니다.",
+        "points": [
+          "노동의 대가가 존엄한 노후로 이어지도록 정부가 책임지겠다는 의지 표명",
+          "사회적 합의를 기반으로 법과 제도 개선 추진",
+          "노동 현장과의 대화를 통해 구체적인 개선 방안 마련",
+          "퇴직연금의 실효성을 높여 고령화 사회의 노후 빈곤 문제 해결 기여"
+        ],
+        "quote": "오랜 노동의 대가가 존엄한 노후로 이어지도록 정부가 끝까지 책임지겠다.",
+        "context": "고령화가 심화되면서 퇴직 후 안정적인 생활을 보장하는 것이 주요 사회적 과제로 떠오르고 있습니다. 퇴직연금 제도의 개선은 이러한 문제 해결에 중요한 역할을 할 것입니다.",
+        "source_url": "https://www.etoday.co.kr/news/view/2652118"
+      },
+      "image_url": "data/images/2026-11-25/society-retirement-pension.jpg"
+    },
+    {
+      "id": "society-pharmacist-scope",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "timeline",
+      "title": "약사-한약사 업무범위 구분 '첫발'…교차고용 금지법 소위 통과",
+      "subtitle": "대한약사회, 30년 숙원 해결 위한 약사법 개정안 국회 소위 통과 환영",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "30년",
+            "label": "숙원 과제"
+          },
+          {
+            "value": "1차",
+            "label": "소위 통과"
+          },
+          {
+            "value": "6개월",
+            "label": "논의기구"
+          }
+        ],
+        "main_number": "개선",
+        "main_text": "약사 제도 개혁"
+      },
+      "image_prompt": "cute pastel infographic illustration, two distinct figures representing pharmacists and herb doctors with a clear dividing line, legislative building, no text",
+      "detail": {
+        "summary": "약사·한약사 업무범위를 명확히 하는 약사법 개정안이 국회 보건복지위원회 법안심사소위원회를 통과하며 30년간 이어진 논쟁 해결의 첫걸음을 뗐습니다.",
+        "points": [
+          "약사·한약사 업무범위 명확화를 위한 약사법 개정안 국회 소위 통과",
+          "대한약사회, '교차고용 금지법' 통과를 30년 숙원 문제 해결의 첫발로 평가",
+          "연내 약사·한약사 제도 개선을 위한 사회적 논의기구 구성 및 6개월 내 합의안 마련",
+          "안전상비의약품 판매제도 개선 등 약사사회 현안 논의 포함"
+        ],
+        "quote": "이번 결정은 약사사회가 오랜 시간 요구해온 업무범위 명확화가 입법 논의의 문턱을 넘었다는 점에서 의미가 작지 않다.",
+        "context": "약사와 한약사의 업무 범위에 대한 오랜 논쟁은 국민 건강과 직결되는 문제입니다. 이번 법안의 소위 통과는 전문가 직능 간의 갈등을 해소하고 제도적 안정성을 확보하는 중요한 계기가 될 것입니다.",
+        "source_url": "https://www.dailypharm.com/user/news/345002?REFERER=NP"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20distinct%20figures%20representing%20pharmacists%20and%20herb%20doctors%20with%20a%20clear%20dividing%20line%2C%20legislative%20building%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9168&nologo=true"
+    },
+    {
+      "id": "life-kbook-trend",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "韓 ‘텍스트힙’ 열풍, 日 출판계로 확산…K북·굿즈도 주목",
+      "subtitle": "한국의 독서 문화 트렌드, 일본 출판 시장에 영향 미쳐",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "확산",
+            "label": "텍스트힙"
+          },
+          {
+            "value": "증가",
+            "label": "북클럽"
+          },
+          {
+            "value": "주목",
+            "label": "K북/굿즈"
+          }
+        ],
+        "main_number": "↑인기",
+        "main_text": "한국 독서 문화의 영향력"
+      },
+      "image_prompt": "cute pastel infographic illustration, open book with flying pages turning into a graph, diverse people reading, no text",
+      "detail": {
+        "summary": "한국 젊은 층을 중심으로 확산된 '텍스트힙' 독서 열풍이 일본 출판계로 확산되며 K-북과 관련 굿즈가 주목받고 있습니다.",
+        "points": [
+          "한국의 '텍스트힙' 독서 트렌드가 일본 출판계에 긍정적 영향",
+          "일본 내 한국 문학 번역 출간 및 북클럽 회원 증가",
+          "한국 출판계의 사회·정치적 현안에 대한 신속하고 강한 반응 주목",
+          "한국 출판 굿즈의 성공 사례를 벤치마킹하려는 움직임 확산"
+        ],
+        "quote": "한국의 독서 문화는 단순한 취미를 넘어 사회적 메시지를 담는 트렌드로 자리 잡고 있다.",
+        "context": "K-컬처의 영향력이 엔터테인먼트, 뷰티를 넘어 출판 분야로도 확장되고 있습니다. 이는 한국의 독서 문화가 해외 시장에서도 새로운 흐름을 만들어내고 있음을 보여줍니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004177866?sid=104"
+      },
+      "image_url": "data/images/2026-11-25/life-kbook-trend.jpg"
+    },
+    {
+      "id": "life-loneliness-income",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "가난할수록 더 깊어지는 외로움…월소득 100만원 미만 58% “외롭다”",
+      "subtitle": "소득과 외로움의 상관관계 심화, 사회적 고립 문제 대두",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "58%",
+            "label": "저소득층 외로움"
+          },
+          {
+            "value": "100만원",
+            "label": "월소득 기준"
+          },
+          {
+            "value": "↑심화",
+            "label": "경제적 격차"
+          }
+        ],
+        "main_number": "확산",
+        "main_text": "외로움 증가 사회 현상"
+      },
+      "image_prompt": "cute pastel infographic illustration, a lonely figure sitting on a low income bar, statistics on loneliness and money, no text",
+      "detail": {
+        "summary": "월 소득 100만원 미만 계층의 58%가 외로움을 느낀다고 답하며, 가난할수록 외로움이 깊어지는 사회적 현상이 심화되고 있습니다.",
+        "points": [
+          "저소득층에서 높은 외로움 비율 확인, 사회적 고립 문제 심각성 증가",
+          "경제적 어려움이 정서적 고통으로 이어지는 악순환 구조",
+          "청년층의 고용 불안과 직장 내 갈등 등 다양한 원인 지적",
+          "사회적 관계망 단절 및 심리적 위축 등 복합적 문제 야기"
+        ],
+        "quote": "경제적 취약성이 외로움을 가중시키고 사회적 고립을 심화시키는 핵심 요인으로 작용한다.",
+        "context": "현대 사회에서 외로움은 단순한 개인의 감정을 넘어 심각한 사회적 문제로 인식되고 있습니다. 특히 경제적 불평등이 이러한 외로움을 심화시키는 주요 원인으로 분석되고 있습니다.",
+        "source_url": "https://n.news.naver.com/mnews/article/028/0002833810?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20lonely%20figure%20sitting%20on%20a%20low%20income%20bar%2C%20statistics%20on%20loneliness%20and%20money%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81623&nologo=true"
+    },
+    {
+      "id": "life-retirement-product",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "timeline",
+      "title": "한화생명, 연금 개시 후에도 '굴리는' 라이프핏 연금 출시",
+      "subtitle": "은퇴 후에도 기존 상품 운용하며 필요한 만큼 연금 수령 가능",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "11/2",
+            "label": "시행일"
+          },
+          {
+            "value": "55세",
+            "label": "가입 연령"
+          },
+          {
+            "value": "선택",
+            "label": "운용 방식"
+          }
+        ],
+        "main_number": "↑유연성",
+        "main_text": "개인 맞춤형 연금 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration, elderly couple enjoying retirement, coins rolling into a piggy bank, financial planning, no text",
+      "detail": {
+        "summary": "한화생명이 연금 개시 후에도 기존 상품의 운용을 이어가면서 필요한 만큼 연금을 받을 수 있는 '라이프핏 연금'을 출시하여 은퇴자들의 자산 운용 유연성을 높였습니다.",
+        "points": [
+          "만 55세 이상 IRP 가입 고객 대상, 연금 개시 후에도 기존 상품 운용 가능",
+          "고객의 필요에 따라 유연하게 연금을 수령할 수 있는 분할 연금 상품",
+          "은퇴 후에도 지속적인 자산 성장과 소득 확보 가능",
+          "기존 연금 상품의 불편함을 개선하여 고객 만족도 향상 기대"
+        ],
+        "quote": "연금 개시 시점에 모든 상품을 팔아야 했던 불편함을 없애, 은퇴자들의 자산 관리에 새로운 대안을 제시한다.",
+        "context": "인구 고령화 시대에 맞춰 은퇴 후의 삶을 위한 자산 관리의 중요성이 커지고 있습니다. 이번 신상품은 은퇴 후에도 유동적으로 자산을 운용하며 안정적인 생활을 유지할 수 있도록 돕는 데 초점을 맞추고 있습니다.",
+        "source_url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92792"
+      },
+      "image_url": "data/images/2026-11-25/life-retirement-product.jpg"
+    }
+  ],
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T06:09:49.504564+09:00"
+}
