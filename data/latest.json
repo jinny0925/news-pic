@@ -1,621 +1,621 @@
 {
   "cards": [
     {
-      "id": "world-taiwan-geopolitics",
+      "id": "world-japan-profit",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "trend",
+      "title": "日 상장사 순이익, 6년 연속 사상 최고치",
+      "subtitle": "상반기 26% 급증, AI 호황과 엔저가 주도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "26%",
+            "label": "상반기 순이익 급증"
+          },
+          {
+            "value": "6년",
+            "label": "연속 최고치"
+          },
+          {
+            "value": "AI·엔저",
+            "label": "성장 동력"
+          }
+        ],
+        "main_number": "+26%",
+        "main_text": "日 상장사 상반기 순이익 전년 대비"
+      },
+      "image_prompt": "cute pastel infographic illustration of a graph showing upward trend, yen currency symbols, and AI robot icons, no text",
+      "detail": {
+        "summary": "일본 상장기업들이 AI 투자 확대와 엔저 현상에 힘입어 상반기 순이익이 26% 급증하며 6년 연속 사상 최고치를 경신했다.",
+        "points": [
+          "AI 인프라 투자 확대",
+          "엔화 약세로 수출 경쟁력 강화",
+          "2026 회계연도 하반기에도 성장 기대",
+          "에너지·원자재 비용 상승, 美 정치 지형 변화가 변수"
+        ],
+        "quote": "AI 인프라 투자가 기업 실적을 지탱할 것",
+        "context": "글로벌 경제 상황과 엔화 약세 속에서 일본 기업들의 실적 개선은 중요한 경제 지표로 평가된다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026112519024060410c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-26/world-japan-profit.jpg"
+    },
+    {
+      "id": "world-trump-tariff",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "트럼프, 中에 '40% 관세' 압박 지속",
+      "subtitle": "재집권 시 중국산 제품에 높은 관세 부과 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40%",
+            "label": "예상 관세율"
+          },
+          {
+            "value": "中",
+            "label": "주요 타겟"
+          },
+          {
+            "value": "재집권 시",
+            "label": "시점"
+          }
+        ],
+        "main_number": "↑40%",
+        "main_text": "中 제품에 부과할 수 있는 최대 관세율"
+      },
+      "image_prompt": "cute pastel infographic illustration of a hand pushing up a tariff barrier with Chinese products behind it, Trump silhouette, no text",
+      "detail": {
+        "summary": "도널드 트럼프 전 미국 대통령이 재집권 시 중국산 제품에 40% 이상의 고율 관세를 부과할 수 있다고 밝히며 통상 압박을 이어갔다.",
+        "points": [
+          "선거 결과와 무관하게 '관세 마이웨이' 예고",
+          "중국 '과잉 생산' 문제에 대한 강경 대응 시사",
+          "미중 무역 갈등 심화 가능성",
+          "정치적 부담과 여론조사 결과 주목"
+        ],
+        "quote": "중국은 이를 구실로 정치적 조작을 하는 데 반대한다",
+        "context": "미국 대선이 다가오면서 트럼프 전 대통령의 보호무역주의 정책 기조가 다시 주목받고 있으며, 이는 글로벌 무역 질서에 큰 영향을 미칠 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016464007?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20hand%20pushing%20up%20a%20tariff%20barrier%20with%20Chinese%20products%20behind%20it%2C%20Trump%20silhouette%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57384&nologo=true"
+    },
+    {
+      "id": "world-swiss-pharma",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "스위스, 韓 제약바이오 유럽 진출 허브로",
+      "subtitle": "세계 2위 제약 시장 유럽으로의 교두보 역할 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "EU 30개국",
+            "label": "시장 진출"
+          },
+          {
+            "value": "4.5억+",
+            "label": "인구 대상"
+          },
+          {
+            "value": "2위",
+            "label": "유럽 제약시장"
+          }
+        ],
+        "main_number": "🌍 30개국",
+        "main_text": "스위스를 통한 EU/EEA 시장 진출 가능 국가 수"
+      },
+      "image_prompt": "cute pastel infographic illustration of a map of Europe with Switzerland highlighted, connected to Korea with an arrow, showing medical symbols, no text",
+      "detail": {
+        "summary": "스위스가 한국 제약바이오 및 헬스케어 기업들의 유럽 진출 거점으로 부상하며, 유럽의약품청(EMA) 허가 절차를 통해 EU 30개국 시장에 접근할 수 있는 기회를 제공한다.",
+        "points": [
+          "스위스의 세계적 제약·바이오 생태계",
+          "유럽은 북미에 이어 세계 2위 제약시장",
+          "EMA 중앙집중식 허가로 4.5억 인구 대상 시장 진출",
+          "높은 임금에도 불구하고 노동생산성 고려 시 경쟁력"
+        ],
+        "quote": "스위스는 세계적인 수준의 제약·바이오 생태계와 선도적인 연구기관, 전문인력을 갖추고 있다.",
+        "context": "유럽 시장 진출을 모색하는 국내 제약바이오 기업들에게 스위스는 전략적 중요성을 가지며, 규제 연계 및 인재 활용 면에서 이점을 제공한다.",
+        "source_url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017359"
+      },
+      "image_url": "data/images/2026-11-26/world-swiss-pharma.jpg"
+    },
+    {
+      "id": "economy-us-growth-ai",
       "is_headline": true,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "map",
-      "title": "대만, 우리 시대의 '서베를린'…지정학적 중요성 부각",
-      "subtitle": "카플란 교수, 대만 지정학적 중요성 강조하며 중국 승리 경고",
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "美 3분기 성장률 4.3%, 3년 만 최고치",
+      "subtitle": "AI 투자와 견조한 소비가 미국 경제 성장 견인",
       "viz_data": {
         "stats": [
           {
-            "value": "1국",
-            "label": "관련 이슈"
+            "value": "4.3%",
+            "label": "3분기 성장률"
           },
           {
-            "value": "5개국",
-            "label": "영향권"
+            "value": "3년",
+            "label": "최고 기록"
           },
           {
-            "value": "핵심",
-            "label": "지정학"
+            "value": "AI·소비",
+            "label": "주요 동력"
           }
         ],
-        "main_number": "↑위험",
-        "main_text": "아시아 태평양 지역 긴장 고조"
+        "main_number": "+4.3%",
+        "main_text": "미국 3분기 경제 성장률 (예상치 상회)"
       },
-      "image_prompt": "cute pastel infographic illustration, map of Taiwan and surrounding countries, global power dynamics, no text",
+      "image_prompt": "cute pastel infographic illustration of an upward-trending economic graph with AI chips and shopping carts, representing growth, no text",
       "detail": {
-        "summary": "신현실주의 국제정치학자가 대만의 지정학적 중요성을 서베를린에 비유하며 중국의 잠재적 승리에 대한 우려를 제기했습니다.",
+        "summary": "미국 경제가 AI 관련 기업 투자 확대와 견조한 소비에 힘입어 올해 3분기 경제성장률 4.3%를 기록하며 3년 만에 최고치를 경신했다.",
         "points": [
-          "로버트 카플란 교수, 대만 이슈를 '우리 시대의 서베를린'으로 명명",
-          "대만 점령 시 중국의 동아시아 지정학적 우위 확보 가능성",
-          "필리핀, 베트남, 호주 등 주변국들의 중국 의존 심화 우려",
-          "일본의 안보 위협 및 역내 힘의 균형 변화 경고"
+          "시장 예상치 크게 웃도는 성장률",
+          "AI 관련 기업 투자 확대가 주요 요인",
+          "소비 지출도 꾸준히 증가",
+          "미국 경제의 기초 체력 강화 시사"
         ],
-        "quote": "대만이 무너지면 중국은 동아시아 지정학적 승리를 거둘 것이며, 그 파급 효과는 전 세계에 미칠 것이다.",
-        "context": "미중 갈등 심화와 더불어 대만해협의 군사적 긴장이 고조되는 가운데, 대만의 전략적 가치에 대한 국제사회의 논의가 활발해지고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/003/0014343207?sid=104"
+        "quote": "미국 경제의 기초 체력을 확인시켜주는 지표",
+        "context": "글로벌 경기 둔화 우려 속에서도 미국 경제가 AI 기술 발전과 소비 활성화를 바탕으로 강력한 성장세를 보이며, 세계 경제에 긍정적인 신호로 작용하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002728542?sid=104"
       },
-      "image_url": "data/images/2026-11-25/world-taiwan-geopolitics.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20an%20upward-trending%20economic%20graph%20with%20AI%20chips%20and%20shopping%20carts%2C%20representing%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40794&nologo=true"
     },
     {
-      "id": "world-korea-us-diplomacy",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "timeline",
-      "title": "한미동맹 긴밀 협력 중요성 재확인…美, 韓 외교안보라인 교체 주시",
-      "subtitle": "미 국무부, 한국 외교·안보 라인 교체에 '긴밀 협력' 강조",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "3명",
-            "label": "교체 인사"
-          },
-          {
-            "value": "11/24",
-            "label": "미 국무부 발표"
-          },
-          {
-            "value": "1개",
-            "label": "동맹"
-          }
-        ],
-        "main_number": "강화",
-        "main_text": "한미동맹 지속적 협력"
-      },
-      "image_prompt": "cute pastel infographic illustration, hands shaking representing diplomacy, flags of USA and South Korea, no text",
-      "detail": {
-        "summary": "미국 국무부가 한국의 외교·안보 라인 교체에 대해 한미동맹의 긴밀한 협력이 중요하다고 강조하며 관련 동향을 주시하고 있습니다.",
-        "points": [
-          "미 국무부, 한국의 외교·안보 라인 교체와 관련해 긴밀한 협력 강조",
-          "국정원장, 외교·통일부 장관 등 주요 인사 교체 단행",
-          "미 행정부 및 정치권에서 제기된 '한미동맹 이상기류' 논란 고려 조치 분석",
-          "이재명 정부의 '실용 외교' 접근법에 대한 미국의 입장 주목"
-        ],
-        "quote": "한미동맹은 역내 평화, 안보, 번영의 핵심 축이며, 긴밀한 협력을 지속하는 것이 중요하다.",
-        "context": "최근 한국의 외교·안보 라인 개각이 단행되면서, 미국이 이에 대해 어떤 입장을 취할지 주목받았습니다. 이는 한미동맹의 방향성과 동아시아 정세에 중요한 영향을 미칠 수 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000929631?sid=104"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20hands%20shaking%20representing%20diplomacy%2C%20flags%20of%20USA%20and%20South%20Korea%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=94829&nologo=true"
-    },
-    {
-      "id": "world-russia-military",
-      "is_headline": false,
-      "category": "world",
-      "category_label": "🌍 국제",
-      "viz_type": "map",
-      "title": "러시아 핵폭격기 울릉도 접근, '국제법 위반 없다' 주장",
-      "subtitle": "러시아, 세계 최대 초음속 전략폭격기 투폴레프-160 동원해 한반도 인근 무력시위",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "1대",
-            "label": "폭격기 기종"
-          },
-          {
-            "value": "최대",
-            "label": "초음속"
-          },
-          {
-            "value": "논란",
-            "label": "국제법"
-          }
-        ],
-        "main_number": "무력시위",
-        "main_text": "한반도 주변 긴장 고조"
-      },
-      "image_prompt": "cute pastel infographic illustration, military aircraft near a map of South Korea, international border lines, no text",
-      "detail": {
-        "summary": "러시아가 세계 최대 초음속 전략폭격기 Tu-160을 동원해 울릉도 인근에 접근했으나, 국제법 위반은 없다고 주장하며 긴장을 고조시켰습니다.",
-        "points": [
-          "러시아 Tu-160 전략폭격기, 울릉도 영공 침범 직전까지 접근",
-          "김정은에게 공개된 핵전력, 푸틴 대통령도 직접 탑승한 기종",
-          "러시아 국방부, '국제법 위반 없이 공해 상공 비행' 주장",
-          "한반도 주변 역내 안보 환경에 대한 우려 증폭"
-        ],
-        "quote": "러시아는 국제법 규정에 따라 공해 상공에서 비행했고, 어떠한 영공도 침범하지 않았다.",
-        "context": "최근 러시아의 군용기 활동이 한반도 주변에서 빈번해지고 있으며, 이는 지역 안보에 대한 국제사회의 우려를 키우고 있습니다. 이번 사건은 특히 강력한 핵전력의 동원으로 경각심을 높이고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/081/0003702902?sid=104"
-      },
-      "image_url": "data/images/2026-11-25/world-russia-military.jpg"
-    },
-    {
-      "id": "economy-consumer-confidence",
+      "id": "economy-korea-interest",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "line_chart",
-      "title": "미 11월 소비자신뢰지수 2년 만에 최고…두 달 연속 반등",
-      "subtitle": "미국 경제조사단체, 11월 소비자신뢰지수 103.3으로 상승",
+      "title": "한국 기준금리 3%→3.25% 인상 전망",
+      "subtitle": "반도체 수출 호조와 물가 상승률 고려",
       "viz_data": {
         "stats": [
           {
-            "value": "103.3",
-            "label": "11월 지수"
+            "value": "3.00%",
+            "label": "현재 금리"
           },
           {
-            "value": "+11.4p",
-            "label": "전월 대비"
+            "value": "3.25%",
+            "label": "예상 인상 후"
           },
           {
-            "value": "2년",
-            "label": "최고치"
+            "value": "2.8%",
+            "label": "근원물가 상승률"
           }
         ],
-        "main_number": "상승",
-        "main_text": "소비자 경기 낙관론 확산"
+        "main_number": "↑0.25%p",
+        "main_text": "예상되는 기준금리 인상 폭"
       },
-      "image_prompt": "cute pastel infographic illustration, upward trend line chart showing economic growth, smiling people shopping, no text",
+      "image_prompt": "cute pastel infographic illustration of a rising line graph representing interest rates with Korean currency symbols, no text",
       "detail": {
-        "summary": "미국 11월 소비자신뢰지수가 두 달 연속 상승하며 약 2년 만에 최고치를 기록, 경제에 대한 낙관론이 확산되고 있습니다.",
+        "summary": "한국은행 금융통화위원회가 오늘 회의에서 기준금리를 현재 3%에서 3.25%로 0.25%p 인상할 가능성이 크며, 내년 추가 인상 신호에 관심이 집중된다.",
         "points": [
-          "미 11월 소비자신뢰지수 103.3 기록 (전월 91.9 대비 11.4p 상승)",
-          "지난해 1월 이후 가장 높은 수준으로, 전문가 예상치 상회",
-          "소비자들의 현재 경제 상황 및 미래 전망에 대한 긍정적 평가 증가",
-          "미국 경제의 안정적 성장 가능성에 대한 기대감 반영"
+          "반도체 수출 호조로 경제 성장세 예상 상회",
+          "근원물가 상승률 2.8%로 여전히 높은 수준",
+          "금통위원들의 6개월 후 금리 전망(점도표) 공개",
+          "조사국의 수정 경제 전망 함께 발표"
         ],
-        "quote": "노동시장이 견고하고 인플레이션 압력이 완화되면서 소비자들이 경제에 대해 더 낙관적으로 보고 있다.",
-        "context": "높은 소비자 신뢰는 소비 활성화로 이어져 경제 성장을 견인하는 중요한 지표로 평가됩니다. 이는 금리 인상 사이클 종료 기대감과 맞물려 시장에 긍정적인 신호를 주고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/422/0000929635?sid=104"
+        "quote": "한은이 석 달 만에 기준금리 인상에 나설 것으로 보인다",
+        "context": "고물가 상황과 견조한 경제 성장세가 지속되면서 한국은행이 추가적인 금리 인상을 통해 물가 안정에 나설 것으로 예상되며, 이는 가계와 기업의 경제 활동에 영향을 미칠 것이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009310640?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20upward%20trend%20line%20chart%20showing%20economic%20growth%2C%20smiling%20people%20shopping%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70626&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rising%20line%20graph%20representing%20interest%20rates%20with%20Korean%20currency%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86522&nologo=true"
     },
     {
-      "id": "economy-kospi-fund",
-      "is_headline": false,
-      "category": "economy",
-      "category_label": "💰 경제",
-      "viz_type": "bar_chart",
-      "title": "코스피 5천 회복에도 10.7조 증안펀드 대기…F4가 투입 결정",
-      "subtitle": "증시 안정화 펀드, 시장 상황 주시하며 투입 여부 고심",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "10.7조원",
-            "label": "펀드 규모"
-          },
-          {
-            "value": "4개 기관",
-            "label": "결정 주체"
-          },
-          {
-            "value": "5000p",
-            "label": "코스피 지수"
-          }
-        ],
-        "main_number": "유지",
-        "main_text": "시장 안정화 준비 태세"
-      },
-      "image_prompt": "cute pastel infographic illustration, stock market index graph with an arrow pointing up, financial advisors, no text",
-      "detail": {
-        "summary": "코스피가 5천 포인트를 회복했음에도 10.7조 원 규모의 증시 안정화 펀드가 대기 중이며, 금융 당국이 시장 상황을 면밀히 주시하며 투입 여부를 결정할 예정입니다.",
-        "points": [
-          "코스피 지수 5천 포인트 회복에도 불구하고 증시 안정화 펀드 지속 대기",
-          "재정경제부, 한국은행, 금융위원회, 금융감독원 'F4'가 투입 여부 논의",
-          "펀드 투입 시, 금융위가 출자기관에 약정한 자금의 납입 요청",
-          "시장 변동성 확대 시 즉각적인 대응을 위한 준비 태세 유지"
-        ],
-        "quote": "증시 흐름과 시장 개입 필요성을 종합적으로 고려하여 신중하게 결정할 것이다.",
-        "context": "증시 안정화 펀드는 급격한 시장 하락 시 투자자 불안을 해소하고 시장 안정을 도모하기 위한 장치입니다. 코스피 회복세 속에서도 잠재적 불안 요인에 대비하는 모습입니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/421/0009308203?sid=101"
-      },
-      "image_url": "data/images/2026-11-25/economy-kospi-fund.jpg"
-    },
-    {
-      "id": "economy-shein-ftc",
+      "id": "economy-daiso",
       "is_headline": false,
       "category": "economy",
       "category_label": "💰 경제",
       "viz_type": "pie_chart",
-      "title": "패스트패션 쉬인, FTC와 1억 달러 합의…소비자 피해 구제",
-      "subtitle": "배송 지연 및 부정적 후기 은폐 혐의로 연방거래위원회와 합의",
+      "title": "다이소의 '5000원 경제학' 성공 비결",
+      "subtitle": "합리적 가격과 다양한 상품으로 소비자 만족 극대화",
       "viz_data": {
         "stats": [
           {
-            "value": "1억 달러",
-            "label": "합의금"
+            "value": "5000원",
+            "label": "주요 가격대"
           },
           {
-            "value": "1곳",
-            "label": "규제 기관"
+            "value": "만원",
+            "label": "소비 심리 자극"
           },
           {
-            "value": "피해",
-            "label": "소비자"
+            "value": "다양성",
+            "label": "상품 강점"
           }
         ],
-        "main_number": "배상",
-        "main_text": "소비자 보호 강화"
+        "main_number": "₩5,000",
+        "main_text": "다이소 주력 제품 가격"
       },
-      "image_prompt": "cute pastel infographic illustration, scale of justice balancing consumer and corporation, e-commerce shopping cart, no text",
+      "image_prompt": "cute pastel infographic illustration of a shopping basket filled with various small items, showing a price tag of 5000 won, no text",
       "detail": {
-        "summary": "세계적인 온라인 패스트패션 업체 쉬인(SHEIN)이 배송 지연과 부정적 후기 은폐 혐의로 미 연방거래위원회(FTC)와 1억 달러의 소비자 피해 구제 합의를 체결했습니다.",
+        "summary": "다이소가 5000원이라는 합리적인 가격대를 중심으로 다양한 상품을 선보이며 소비자의 '만원의 행복'을 충족시키고 유통업계에서 지속적인 성장세를 기록하고 있다.",
         "points": [
-          "쉬인, 소비자 피해 구제를 위해 FTC에 1억 달러 지급 합의",
-          "FTC, 쉬인의 배송 약속 불이행 및 부정적 후기 은폐 혐의 지적",
-          "온라인 패스트패션 업계의 소비자 보호 의무 강화 촉구",
-          "글로벌 기업의 소비자 권리 침해 사례에 대한 경각심 고조"
+          "고물가 시대 가성비 소비 트렌드 부합",
+          "다양한 생활용품, 주방용품, 문구 등 폭넓은 품목",
+          "재미와 경제적 여유를 동시에 제공",
+          "수요 예측 및 물류 시스템 효율화"
         ],
-        "quote": "이 합의는 소비자를 기만하는 행위에 대해 기업이 책임을 져야 한다는 강력한 메시지를 전달한다.",
-        "context": "빠르게 성장하는 온라인 플랫폼들은 소비자 보호와 공정한 거래 관행을 준수해야 할 의무가 있습니다. 이번 합의는 이커머스 시장에서의 규제 강화 추세를 보여줍니다.",
-        "source_url": "https://www.radiokorea.com/news/article.php?uid=510660"
+        "quote": "커피에 문화를 담아 팔았다면, 다이소는 5000원짜리 가격표에 재미와 경제적 여유를 담아 판다.",
+        "context": "최근 고물가 현상으로 인해 소비자들이 합리적인 가격의 제품을 선호하는 경향이 강해지면서, 다이소와 같은 균일가 유통 모델이 더욱 각광받고 있다.",
+        "source_url": "http://sateconomy.co.kr/news/view/1065558766114918"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20scale%20of%20justice%20balancing%20consumer%20and%20corporation%2C%20e-commerce%20shopping%20cart%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=53076&nologo=true"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shopping%20basket%20filled%20with%20various%20small%20items%2C%20showing%20a%20price%20tag%20of%205000%20won%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84442&nologo=true"
     },
     {
-      "id": "tech-ai-security",
+      "id": "tech-skhynix-lawsuit",
       "is_headline": false,
       "category": "tech",
       "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "SK하이닉스, 美 증권집단소송 표적",
+      "subtitle": "D램 공급 제한 의혹, 나스닥 상장 4개월 만",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4개월",
+            "label": "상장 후 기간"
+          },
+          {
+            "value": "3사",
+            "label": "과점 기업"
+          },
+          {
+            "value": "90%+",
+            "label": "D램 매출 점유율"
+          }
+        ],
+        "main_number": "90%+",
+        "main_text": "세계 D램 시장 3사 점유율"
+      },
+      "image_prompt": "cute pastel infographic illustration of a timeline with an arrow pointing to a lawsuit icon, showing computer chips and dollar signs, no text",
+      "detail": {
+        "summary": "SK하이닉스가 나스닥 상장 4개월 만에 미국 증권집단소송 로펌의 표적이 되었다. 원고 측은 SK하이닉스를 포함한 D램 3사가 공급 제한으로 부당이득을 취했다고 주장한다.",
+        "points": [
+          "세계 D램 매출의 90% 이상을 점유하는 3사 과점 구조",
+          "DDR4 생산 축소 등 시점 일치 의혹",
+          "캘리포니아 연방법원의 '매들의 편대 비행' 언급",
+          "공급 부족 유발 및 부당이득 주장"
+        ],
+        "quote": "세계 D램 매출의 90% 이상을 점유하는 3사가 과점 지위를 이용해 인위적인 공급 부족을 유발하고 부당이득을 챙겼다.",
+        "context": "글로벌 반도체 시장의 주요 플레이어에 대한 담합 의혹은 시장 경쟁 환경과 소비자 가격에 큰 영향을 미칠 수 있으며, 향후 소송 진행 과정이 주목된다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=94111"
+      },
+      "image_url": "data/images/2026-11-26/tech-skhynix-lawsuit.jpg"
+    },
+    {
+      "id": "tech-ai-ecom",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "venn_diagram",
+      "title": "AI 쇼핑 비서 '뮤즈', 월마트와 제휴",
+      "subtitle": "아마존은 제휴를 거부, AI 쇼핑 시장의 전략적 차이",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "월마트",
+            "label": "제휴 성공"
+          },
+          {
+            "value": "아마존",
+            "label": "제휴 거부"
+          },
+          {
+            "value": "뮤즈",
+            "label": "AI 쇼핑 비서"
+          }
+        ],
+        "main_number": "AI",
+        "main_text": "쇼핑 경험을 혁신하는 기술"
+      },
+      "image_prompt": "cute pastel infographic illustration of a shopping cart with an AI chatbot icon, showing connections to Walmart and a block sign for Amazon, no text",
+      "detail": {
+        "summary": "AI 쇼핑 비서 '뮤즈'가 월마트와 제휴하여 소비자들이 음성 명령으로 상품을 구매할 수 있게 된 반면, 아마존은 제휴를 거부하며 AI 쇼핑 시장에서 다른 전략을 보였다.",
+        "points": [
+          "월마트는 메타와 제휴하여 뮤즈를 통해 구매 가능",
+          "소비자는 월마트 웹사이트 방문 없이 상품 검색 및 구매",
+          "아마존은 자사 생태계 보호를 위해 제휴 거부",
+          "AI 기반 쇼핑 경험의 미래 경쟁 구도"
+        ],
+        "quote": "월마트와 메타의 제휴로 소비자는 월마트 웹사이트를 직접 들어가지 않고도 상품을 찾고 가격을 비교해 구매할 수 있다.",
+        "context": "인공지능 기술이 유통 및 전자상거래 분야에 빠르게 접목되면서, 주요 기업들이 AI를 활용한 새로운 쇼핑 경험 제공을 두고 치열한 경쟁을 벌이고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004686245?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shopping%20cart%20with%20an%20AI%20chatbot%20icon%2C%20showing%20connections%20to%20Walmart%20and%20a%20block%20sign%20for%20Amazon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61828&nologo=true"
+    },
+    {
+      "id": "tech-ai-cost-std",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "table",
+      "title": "AI 사업 대가산정 기준 마련 추진",
+      "subtitle": "한국소프트웨어산업협회(KOSA), AI 전문인력 임금 기준 제시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "KOSA",
+            "label": "주도 기관"
+          },
+          {
+            "value": "AI 엔지니어",
+            "label": "주요 직무"
+          },
+          {
+            "value": "평균임금",
+            "label": "산정 기준"
+          }
+        ],
+        "main_number": "AI",
+        "main_text": "산업 표준 임금 기준 마련"
+      },
+      "image_prompt": "cute pastel infographic illustration of a scale balancing AI code and money, representing fair compensation, no text",
+      "detail": {
+        "summary": "한국소프트웨어산업협회(KOSA)가 AI 사업 대가산정 기준 마련을 추진하며, AI 전문인력의 임금을 응용SW개발자 또는 IT아키텍트의 평균임금에 맞춰 책정하는 방안을 제시했다.",
+        "points": [
+          "RAG·지식검색 엔지니어, 에이전트·프롬프트 엔지니어에 응용SW개발자 평균임금 적용",
+          "AI 모델 아키텍트에는 IT아키텍트 평균임금 적용",
+          "AI 전문인력의 합리적인 대가 산정을 위한 노력",
+          "산업 내 건전한 생태계 조성 목적"
+        ],
+        "quote": "AI 전문인력의 임금 기준을 새로 정한 것은 AI 서비스의 품질과 개발사의 수익성을 보장하기 위함이다.",
+        "context": "AI 기술 개발 및 도입이 확산되면서 전문인력에 대한 수요가 증가하고 있으나, 적정한 개발 비용과 인건비 산정 기준이 없어 관련 산업 발전에 어려움이 있었다. 이번 기준 마련은 이러한 문제를 해결하는 데 기여할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006415626?sid=105"
+      },
+      "image_url": "data/images/2026-11-26/tech-ai-cost-std.jpg"
+    },
+    {
+      "id": "society-parliament-gridlock",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
       "viz_type": "bar_chart",
-      "title": "AI 해킹 탐지 성능의 함정…평가 방식 따라 정밀도 '뚝'",
-      "subtitle": "AI 보안 솔루션, 평가 방식에 따른 탐지 성능의 큰 편차 확인",
+      "title": "국회, 정쟁으로 본회의 통과 법안 '2건' 불과",
+      "subtitle": "국정감사 이후 한 달간 저조한 입법 성과",
       "viz_data": {
         "stats": [
           {
-            "value": "변동",
-            "label": "정밀도"
+            "value": "10회",
+            "label": "본회의 횟수"
           },
           {
-            "value": "1건",
-            "label": "연구 결과"
+            "value": "2건",
+            "label": "통과 법안 수"
           },
           {
-            "value": "향상",
-            "label": "보안 기술"
+            "value": "1개월",
+            "label": "국감 후 기간"
           }
         ],
-        "main_number": "↑필요",
-        "main_text": "AI 보안 평가 기준 개선"
+        "main_number": "↓ 2건",
+        "main_text": "국감 후 본회의 통과 법안 (한 달 간)"
       },
-      "image_prompt": "cute pastel infographic illustration, a magnifying glass inspecting lines of code, robot eye, cybersecurity shield, no text",
+      "image_prompt": "cute pastel infographic illustration of a parliament building with very few documents passing through, representing legislative inefficiency, no text",
       "detail": {
-        "summary": "AI 보안 솔루션의 해킹 탐지 성능이 평가 방식에 따라 크게 달라질 수 있다는 연구 결과가 나와, AI 보안 시스템의 실효성 검증의 중요성이 부각되고 있습니다.",
+        "summary": "정기국회 국정감사 이후 한 달간 10차례의 본회의가 열렸음에도 불구하고, 실제 통과된 법안은 단 2건에 불과해 국회의 심각한 정쟁과 입법 공백이 우려된다.",
         "points": [
-          "인포시즈 AI 보안 솔루션 '고스' 개발팀, 성능 평가 방식 검증 연구 발표",
-          "기존 AI 침입 탐지 모델의 성능이 평가 기준에 따라 크게 변화함",
-          "보안 솔루션 도입 시 성능 평가 방식의 신뢰성 확보가 중요",
-          "AI 기반 보안 기술의 실제 적용 가능성에 대한 심층적인 검토 요구"
+          "9월 1일 정기회 시작, 10월 5일까지 한 달간 상황",
+          "여야 간 정쟁 심화로 민생 법안 처리 지연",
+          "여당 내 계파 갈등도 입법 효율성 저해 요인",
+          "정치적 법안 우선 처리 경향"
         ],
-        "quote": "AI 보안 솔루션의 진정한 성능을 파악하기 위해서는 다양한 환경과 방식으로 평가해야 한다.",
-        "context": "AI 기술은 사이버 보안 분야에서 혁신적인 가능성을 제시하고 있지만, 동시에 그 성능을 정확히 측정하고 신뢰성을 확보하는 것이 중요한 과제로 떠오르고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004685804?sid=105"
+        "quote": "정쟁에 혈관 막힌 국회",
+        "context": "정기국회는 국민의 삶에 직접적인 영향을 미치는 법안들을 심의하고 처리하는 중요한 시기이지만, 정치적 대립으로 인해 입법 기능이 마비되면서 민생에 대한 우려가 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004686250?sid=100"
       },
-      "image_url": "data/images/2026-11-25/tech-ai-security.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20parliament%20building%20with%20very%20few%20documents%20passing%20through%2C%20representing%20legislative%20inefficiency%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87061&nologo=true"
     },
     {
-      "id": "tech-ai-finance",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "doughnut_chart",
-      "title": "금융 AI 도입, 망분리 완화 넘어 '예산·운영' 재편 시급",
-      "subtitle": "금융권 AI 투자를 위한 예산 및 운영 시스템 전반의 혁신 필요",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "2027년",
-            "label": "혁신 목표"
-          },
-          {
-            "value": "AI",
-            "label": "핵심 기술"
-          },
-          {
-            "value": "과제",
-            "label": "IT 예산"
-          }
-        ],
-        "main_number": "재편",
-        "main_text": "금융 IT 인프라 혁신"
-      },
-      "image_prompt": "cute pastel infographic illustration, robot hand interacting with financial data, money symbols, network lines, no text",
-      "detail": {
-        "summary": "금융권의 AI 도입을 위해서는 망분리 규제 완화를 넘어, AI 투자에 맞춘 예산 및 운영 시스템 전반의 재편이 시급하다는 지적입니다.",
-        "points": [
-          "금융사 IT 예산 대부분이 기존 시스템 유지·운영에 소모",
-          "AI 투자를 위한 새로운 예산 확보 및 배정의 어려움",
-          "망분리 완화와 함께 AI 모델보다 '운영 환경' 구축이 우선 과제",
-          "금융 IT 인프라의 전면적인 재구성을 통한 AI 시대 대비"
-        ],
-        "quote": "금융권 AI 혁신의 성패는 기술 도입을 넘어, 이를 효율적으로 지원하는 IT 예산과 운영 시스템에 달려있다.",
-        "context": "AI 기술이 금융 서비스의 핵심 경쟁력으로 떠오르면서, 금융 기업들은 기술 도입을 위한 인프라 구축과 예산 확보에 대한 근본적인 고민에 직면하고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/138/0002249789?sid=105"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20robot%20hand%20interacting%20with%20financial%20data%2C%20money%20symbols%2C%20network%20lines%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=45379&nologo=true"
-    },
-    {
-      "id": "tech-china-ai-startup",
-      "is_headline": false,
-      "category": "tech",
-      "category_label": "💻 기술",
-      "viz_type": "line_chart",
-      "title": "알리바바·바이트댄스 인재들, 中 AI 연구소 창업 붐 주도",
-      "subtitle": "중국 내 AI 스타트업 급증, 300여 곳 39억 달러 조달",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "300+",
-            "label": "스타트업 수"
-          },
-          {
-            "value": "39억 달러",
-            "label": "조달 투자금"
-          },
-          {
-            "value": "급증",
-            "label": "창업률"
-          }
-        ],
-        "main_number": "↑성장",
-        "main_text": "중국 AI 시장 급부상"
-      },
-      "image_prompt": "cute pastel infographic illustration, upward trend graph for startup investments, Chinese tech company logos, no text",
-      "detail": {
-        "summary": "알리바바와 바이트댄스 등 주요 IT 기업 출신 인재들이 중국 내 AI 연구소 창업 붐을 이끌며, 초기 단계 스타트업들이 막대한 투자를 유치하고 있습니다.",
-        "points": [
-          "중국 투자 정보업체 IT쥐즈 집계, 올해 약 300곳의 AI 스타트업 창업",
-          "초기 단계 스타트업들이 총 39억 달러 규모의 투자 유치",
-          "AI의 물리적 인지 능력부터 스스로 개선하는 코딩 시스템까지 폭넓은 분야 집중",
-          "주요 테크 기업 출신 전문가들이 AI 기술 창업 생태계 활성화 주도"
-        ],
-        "quote": "중국의 AI 스타트업들은 세계 AI 기술 혁신의 새로운 동력으로 부상하고 있다.",
-        "context": "미중 기술 경쟁 속에서도 중국은 AI 분야에서 자체적인 생태계를 구축하며 빠르게 성장하고 있습니다. 이는 글로벌 AI 시장 판도에 큰 영향을 미칠 것으로 예상됩니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/011/0004685801?sid=104"
-      },
-      "image_url": "data/images/2026-11-25/tech-china-ai-startup.jpg"
-    },
-    {
-      "id": "society-religious-policy",
+      "id": "society-retirement-age",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "대통령 '불법종교 해산 실효적 조치' 지시, 사회적 논란 예고",
-      "subtitle": "대통령 지시, 종교단체 정치개입 및 유착 문제 해결 시도",
+      "viz_type": "venn_diagram",
+      "title": "정년 연장과 청년 취업난 문제",
+      "subtitle": "임금피크제 비용 절감분을 청년 채용에 활용 제안",
       "viz_data": {
         "stats": [
           {
-            "value": "1회",
-            "label": "대통령 지시"
+            "value": "정년 연장",
+            "label": "쟁점 1"
           },
           {
-            "value": "문제",
-            "label": "선거 개입"
+            "value": "청년 고용",
+            "label": "쟁점 2"
           },
           {
-            "value": "논란",
-            "label": "사회 갈등"
+            "value": "임금피크제",
+            "label": "해결 방안"
           }
         ],
-        "main_number": "증가",
-        "main_text": "종교 단체 관련 갈등"
+        "main_number": "60세",
+        "main_text": "의무화된 현재 정년"
       },
-      "image_prompt": "cute pastel infographic illustration, balance scale with religious symbols and government symbols, pointing to policy, no text",
+      "image_prompt": "cute pastel infographic illustration of two gears, one representing extended retirement age and the other representing youth employment, meshing together, no text",
       "detail": {
-        "summary": "대통령이 '불법종교 해산 실효적 조치'를 지시하며 종교단체의 정치 개입 문제를 해결하려 했으나, 이는 사회적 논란과 갈등을 야기할 가능성이 큽니다.",
+        "summary": "정년 연장이 청년 취업문을 좁게 만들 것이라는 우려 속에, 임금피크제를 통해 아낀 비용을 청년 채용에 활용하는 방안이 제시되며 세대 간 고용 문제 해결 노력이 주목받는다.",
         "points": [
-          "대통령, 문체부에 불법 종교 단체 해산 관련 검토 및 계획 보고 지시",
-          "종교단체의 선거 개입, 정당 가입 동원, 정치자금 제공 등 문제 제기",
-          "종교적 일탈에 대한 합리적 제재의 필요성에는 공감대 형성",
-          "과정에서 발생할 수 있는 논란과 갈등, 사회적 분열에 대한 우려"
+          "정부와 여당, 청년 고용 악화 우려로 정년 연장 입법 속도 조절",
+          "더불어민주당, 청년 일자리 대책 선논의 주장",
+          "2016년 정년 60세 의무화 시행 후 청년 고용 둔화 우려",
+          "임금피크제 연계 청년 채용 인센티브 필요성 제기"
         ],
-        "quote": "환부를 건드리되 뇌관을 터트리는 우를 범할까 걱정이다.",
-        "context": "종교의 자유는 헌법이 보장하는 기본권이지만, 일부 종교 단체의 사회적 문제 야기 및 정치 개입은 지속적으로 논란이 되어왔습니다. 이번 지시는 이러한 문제에 대한 정부의 강력한 의지를 보여줍니다.",
-        "source_url": "https://www.yeongnam.com/web/view.php?key=20261124021002703"
+        "quote": "임금피크제로 아낀 비용이 청년 고용으로 이어질 수 있도록 제도를 설계해야 한다.",
+        "context": "초고령사회로 진입하면서 정년 연장의 필요성이 대두되고 있으나, 이는 청년층의 고용 기회를 위축시킬 수 있어 세대 간 상생을 위한 정책적 접근이 중요해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001165673?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20balance%20scale%20with%20religious%20symbols%20and%20government%20symbols%2C%20pointing%20to%20policy%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=69756&nologo=true"
+      "image_url": "data/images/2026-11-26/society-retirement-age.jpg"
     },
     {
-      "id": "society-retirement-pension",
+      "id": "society-ai-regulation",
       "is_headline": false,
       "category": "society",
       "category_label": "🏛 사회",
-      "viz_type": "pie_chart",
-      "title": "노동 대가와 노후 보장, 퇴직연금으로 함께 잡는다",
-      "subtitle": "퇴직연금제도 개선, 노동자의 존엄한 노후 보장 목표",
+      "viz_type": "list",
+      "title": "AI 시대, 사회 질서 위한 규율 마련",
+      "subtitle": "AI 커닝 방지, 개발자 면허제·책임보험 등 논의",
       "viz_data": {
         "stats": [
           {
-            "value": "1회",
-            "label": "공동선언"
+            "value": "면허제",
+            "label": "개발자"
           },
           {
-            "value": "강화",
-            "label": "노후 보장"
+            "value": "책임보험",
+            "label": "산업"
           },
           {
-            "value": "변화",
-            "label": "법과 제도"
+            "value": "부정행위",
+            "label": "규제 대상"
           }
         ],
-        "main_number": "↑확대",
-        "main_text": "퇴직연금 수혜 범위"
+        "main_number": "AI",
+        "main_text": "자율화 시대, 새로운 사회 규범"
       },
-      "image_prompt": "cute pastel infographic illustration, piggy bank with retirement age people, secure future, financial planning, no text",
+      "image_prompt": "cute pastel infographic illustration of a rulebook and a shield, symbolizing regulation and safety for AI, with a small AI robot, no text",
       "detail": {
-        "summary": "정부가 '노동 대가와 노후 보장'을 함께 목표로 하는 퇴직연금제도 개선을 추진하며, 사회적 합의를 통해 노동자들이 체감할 수 있는 변화를 약속했습니다.",
+        "summary": "정부가 AI 기술 발전에 따른 사회적 갈등에 대비해 AI 커닝 방지 대책, AI 개발자 면허제, 책임보험 도입 등 'AI 자율화 시대의 새로운 질서'를 위한 규율 마련을 논의하고 있다.",
         "points": [
-          "노동의 대가가 존엄한 노후로 이어지도록 정부가 책임지겠다는 의지 표명",
-          "사회적 합의를 기반으로 법과 제도 개선 추진",
-          "노동 현장과의 대화를 통해 구체적인 개선 방안 마련",
-          "퇴직연금의 실효성을 높여 고령화 사회의 노후 빈곤 문제 해결 기여"
+          "AI 활용 시험 부정행위 방지 기술적 대책",
+          "AI 개발자 면허제 도입 검토",
+          "AI 관련 책임보험 상품 개발 논의",
+          "AI의 지능 수준 및 안전한 경제적 가치 연결 강조"
         ],
-        "quote": "오랜 노동의 대가가 존엄한 노후로 이어지도록 정부가 끝까지 책임지겠다.",
-        "context": "고령화가 심화되면서 퇴직 후 안정적인 생활을 보장하는 것이 주요 사회적 과제로 떠오르고 있습니다. 퇴직연금 제도의 개선은 이러한 문제 해결에 중요한 역할을 할 것입니다.",
-        "source_url": "https://www.etoday.co.kr/news/view/2652118"
+        "quote": "앞으로는 AI의 지능 수준뿐 아니라 자율적 판단과 행동을 얼마나 안전하게 경제적 가치로 연결하느냐가 국가 경쟁력을 좌우할 것",
+        "context": "생성형 AI를 넘어 에이전틱 AI, 피지컬 AI로 진화하는 기술 환경 속에서, AI의 사회적 영향력을 고려한 선제적인 규제와 책임 방안 마련이 시급해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006415629?sid=105"
       },
-      "image_url": "data/images/2026-11-25/society-retirement-pension.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rulebook%20and%20a%20shield%2C%20symbolizing%20regulation%20and%20safety%20for%20AI%2C%20with%20a%20small%20AI%20robot%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74948&nologo=true"
     },
     {
-      "id": "society-pharmacist-scope",
-      "is_headline": false,
-      "category": "society",
-      "category_label": "🏛 사회",
-      "viz_type": "timeline",
-      "title": "약사-한약사 업무범위 구분 '첫발'…교차고용 금지법 소위 통과",
-      "subtitle": "대한약사회, 30년 숙원 해결 위한 약사법 개정안 국회 소위 통과 환영",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "30년",
-            "label": "숙원 과제"
-          },
-          {
-            "value": "1차",
-            "label": "소위 통과"
-          },
-          {
-            "value": "6개월",
-            "label": "논의기구"
-          }
-        ],
-        "main_number": "개선",
-        "main_text": "약사 제도 개혁"
-      },
-      "image_prompt": "cute pastel infographic illustration, two distinct figures representing pharmacists and herb doctors with a clear dividing line, legislative building, no text",
-      "detail": {
-        "summary": "약사·한약사 업무범위를 명확히 하는 약사법 개정안이 국회 보건복지위원회 법안심사소위원회를 통과하며 30년간 이어진 논쟁 해결의 첫걸음을 뗐습니다.",
-        "points": [
-          "약사·한약사 업무범위 명확화를 위한 약사법 개정안 국회 소위 통과",
-          "대한약사회, '교차고용 금지법' 통과를 30년 숙원 문제 해결의 첫발로 평가",
-          "연내 약사·한약사 제도 개선을 위한 사회적 논의기구 구성 및 6개월 내 합의안 마련",
-          "안전상비의약품 판매제도 개선 등 약사사회 현안 논의 포함"
-        ],
-        "quote": "이번 결정은 약사사회가 오랜 시간 요구해온 업무범위 명확화가 입법 논의의 문턱을 넘었다는 점에서 의미가 작지 않다.",
-        "context": "약사와 한약사의 업무 범위에 대한 오랜 논쟁은 국민 건강과 직결되는 문제입니다. 이번 법안의 소위 통과는 전문가 직능 간의 갈등을 해소하고 제도적 안정성을 확보하는 중요한 계기가 될 것입니다.",
-        "source_url": "https://www.dailypharm.com/user/news/345002?REFERER=NP"
-      },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20two%20distinct%20figures%20representing%20pharmacists%20and%20herb%20doctors%20with%20a%20clear%20dividing%20line%2C%20legislative%20building%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=9168&nologo=true"
-    },
-    {
-      "id": "life-kbook-trend",
-      "is_headline": false,
-      "category": "life",
-      "category_label": "🌱 라이프",
-      "viz_type": "line_chart",
-      "title": "韓 ‘텍스트힙’ 열풍, 日 출판계로 확산…K북·굿즈도 주목",
-      "subtitle": "한국의 독서 문화 트렌드, 일본 출판 시장에 영향 미쳐",
-      "viz_data": {
-        "stats": [
-          {
-            "value": "확산",
-            "label": "텍스트힙"
-          },
-          {
-            "value": "증가",
-            "label": "북클럽"
-          },
-          {
-            "value": "주목",
-            "label": "K북/굿즈"
-          }
-        ],
-        "main_number": "↑인기",
-        "main_text": "한국 독서 문화의 영향력"
-      },
-      "image_prompt": "cute pastel infographic illustration, open book with flying pages turning into a graph, diverse people reading, no text",
-      "detail": {
-        "summary": "한국 젊은 층을 중심으로 확산된 '텍스트힙' 독서 열풍이 일본 출판계로 확산되며 K-북과 관련 굿즈가 주목받고 있습니다.",
-        "points": [
-          "한국의 '텍스트힙' 독서 트렌드가 일본 출판계에 긍정적 영향",
-          "일본 내 한국 문학 번역 출간 및 북클럽 회원 증가",
-          "한국 출판계의 사회·정치적 현안에 대한 신속하고 강한 반응 주목",
-          "한국 출판 굿즈의 성공 사례를 벤치마킹하려는 움직임 확산"
-        ],
-        "quote": "한국의 독서 문화는 단순한 취미를 넘어 사회적 메시지를 담는 트렌드로 자리 잡고 있다.",
-        "context": "K-컬처의 영향력이 엔터테인먼트, 뷰티를 넘어 출판 분야로도 확장되고 있습니다. 이는 한국의 독서 문화가 해외 시장에서도 새로운 흐름을 만들어내고 있음을 보여줍니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/022/0004177866?sid=104"
-      },
-      "image_url": "data/images/2026-11-25/life-kbook-trend.jpg"
-    },
-    {
-      "id": "life-loneliness-income",
+      "id": "life-pepero-ip",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
       "viz_type": "bar_chart",
-      "title": "가난할수록 더 깊어지는 외로움…월소득 100만원 미만 58% “외롭다”",
-      "subtitle": "소득과 외로움의 상관관계 심화, 사회적 고립 문제 대두",
+      "title": "편의점 빼빼로데이, IP 협업으로 매출 급증",
+      "subtitle": "캐릭터 굿즈 수집 문화 확산, IP 경쟁 치열",
       "viz_data": {
         "stats": [
           {
-            "value": "58%",
-            "label": "저소득층 외로움"
+            "value": "IP 협업",
+            "label": "매출 동력"
           },
           {
-            "value": "100만원",
-            "label": "월소득 기준"
+            "value": "캐릭터 굿즈",
+            "label": "핵심 상품"
           },
           {
-            "value": "↑심화",
-            "label": "경제적 격차"
+            "value": "11/11",
+            "label": "기념일"
           }
         ],
-        "main_number": "확산",
-        "main_text": "외로움 증가 사회 현상"
+        "main_number": "↑↑",
+        "main_text": "빼빼로데이 매출 증가 추세"
       },
-      "image_prompt": "cute pastel infographic illustration, a lonely figure sitting on a low income bar, statistics on loneliness and money, no text",
+      "image_prompt": "cute pastel infographic illustration of a shopping bag with character merchandise and pepero sticks, symbolizing a trend, no text",
       "detail": {
-        "summary": "월 소득 100만원 미만 계층의 58%가 외로움을 느낀다고 답하며, 가난할수록 외로움이 깊어지는 사회적 현상이 심화되고 있습니다.",
+        "summary": "편의점들이 빼빼로데이에 헬로키티, 재혼 황후 등 인기 IP를 활용한 협업 상품을 선보이며 매출을 크게 늘렸으며, 단순히 과자를 주고받는 것을 넘어 캐릭터 굿즈를 수집하는 문화로 변화하고 있다.",
         "points": [
-          "저소득층에서 높은 외로움 비율 확인, 사회적 고립 문제 심각성 증가",
-          "경제적 어려움이 정서적 고통으로 이어지는 악순환 구조",
-          "청년층의 고용 불안과 직장 내 갈등 등 다양한 원인 지적",
-          "사회적 관계망 단절 및 심리적 위축 등 복합적 문제 야기"
+          "캐릭터 굿즈 수집이 소비 트렌드로 부상",
+          "편의점 업계의 IP 확보 경쟁 심화",
+          "빼빼로데이 본질 변화, 문화적 기념일로 진화",
+          "MZ세대 등 젊은 층의 호응"
         ],
-        "quote": "경제적 취약성이 외로움을 가중시키고 사회적 고립을 심화시키는 핵심 요인으로 작용한다.",
-        "context": "현대 사회에서 외로움은 단순한 개인의 감정을 넘어 심각한 사회적 문제로 인식되고 있습니다. 특히 경제적 불평등이 이러한 외로움을 심화시키는 주요 원인으로 분석되고 있습니다.",
-        "source_url": "https://n.news.naver.com/mnews/article/028/0002833810?sid=102"
+        "quote": "단순히 과자를 주고받던 기념일이 캐릭터 굿즈를 수집하는 소비문화로 바뀌면서 편의점 업계의 IP 확보 경쟁도 한층 치열해지는 양상이다.",
+        "context": "최근 소비자들이 제품 자체의 가치뿐만 아니라 캐릭터나 스토리가 담긴 특별한 경험을 중시하면서, 유통업계에서 IP(지적재산권)를 활용한 마케팅이 중요해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/468/0001283495?sid=101"
       },
-      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20a%20lonely%20figure%20sitting%20on%20a%20low%20income%20bar%2C%20statistics%20on%20loneliness%20and%20money%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=81623&nologo=true"
+      "image_url": "data/images/2026-11-26/life-pepero-ip.jpg"
     },
     {
-      "id": "life-retirement-product",
+      "id": "life-bath-beauty",
       "is_headline": false,
       "category": "life",
       "category_label": "🌱 라이프",
-      "viz_type": "timeline",
-      "title": "한화생명, 연금 개시 후에도 '굴리는' 라이프핏 연금 출시",
-      "subtitle": "은퇴 후에도 기존 상품 운용하며 필요한 만큼 연금 수령 가능",
+      "viz_type": "trend",
+      "title": "목욕탕, 사우나 열풍 재점화",
+      "subtitle": "웰니스 라이프스타일로 부상, '배스 뷰티' 시장 성장",
       "viz_data": {
         "stats": [
           {
-            "value": "11/2",
-            "label": "시행일"
+            "value": "사우나",
+            "label": "주요 트렌드"
           },
           {
-            "value": "55세",
-            "label": "가입 연령"
+            "value": "바디케어",
+            "label": "관련 상품"
           },
           {
-            "value": "선택",
-            "label": "운용 방식"
+            "value": "웰니스",
+            "label": "핵심 가치"
           }
         ],
-        "main_number": "↑유연성",
-        "main_text": "개인 맞춤형 연금 확대"
+        "main_number": "♨️",
+        "main_text": "다시 주목받는 목욕 문화"
       },
-      "image_prompt": "cute pastel infographic illustration, elderly couple enjoying retirement, coins rolling into a piggy bank, financial planning, no text",
+      "image_prompt": "cute pastel infographic illustration of a steaming hot tub or sauna with various bath beauty products around it, symbolizing relaxation and wellness, no text",
       "detail": {
-        "summary": "한화생명이 연금 개시 후에도 기존 상품의 운용을 이어가면서 필요한 만큼 연금을 받을 수 있는 '라이프핏 연금'을 출시하여 은퇴자들의 자산 운용 유연성을 높였습니다.",
+        "summary": "목욕탕과 사우나 문화가 웰니스 라이프스타일의 일환으로 다시 인기를 얻으면서, 바디케어 경험을 확장하는 '배스 뷰티' 시장이 주목받고 관련 상품 소비가 증가하고 있다.",
         "points": [
-          "만 55세 이상 IRP 가입 고객 대상, 연금 개시 후에도 기존 상품 운용 가능",
-          "고객의 필요에 따라 유연하게 연금을 수령할 수 있는 분할 연금 상품",
-          "은퇴 후에도 지속적인 자산 성장과 소득 확보 가능",
-          "기존 연금 상품의 불편함을 개선하여 고객 만족도 향상 기대"
+          "패션 플랫폼 29CM에서 '사우나' 검색량 증가",
+          "CJ올리브영 '올리브베러' 등 웰니스 플랫폼 강화",
+          "목욕 문화에서 영감받은 바디케어 브랜드 출시",
+          "엔데믹 이후 건강과 휴식에 대한 관심 증대"
         ],
-        "quote": "연금 개시 시점에 모든 상품을 팔아야 했던 불편함을 없애, 은퇴자들의 자산 관리에 새로운 대안을 제시한다.",
-        "context": "인구 고령화 시대에 맞춰 은퇴 후의 삶을 위한 자산 관리의 중요성이 커지고 있습니다. 이번 신상품은 은퇴 후에도 유동적으로 자산을 운용하며 안정적인 생활을 유지할 수 있도록 돕는 데 초점을 맞추고 있습니다.",
-        "source_url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92792"
+        "quote": "목욕 문화에 대한 관심은 관련 상품 소비로도 이어지고 있다.",
+        "context": "바쁜 현대 사회에서 개인의 건강과 휴식, 자기 관리에 대한 관심이 높아지면서, 목욕을 통한 심신 이완과 뷰티 케어가 새로운 라이프스타일 트렌드로 자리 잡고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/144/0001151744?sid=101"
       },
-      "image_url": "data/images/2026-11-25/life-retirement-product.jpg"
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20steaming%20hot%20tub%20or%20sauna%20with%20various%20bath%20beauty%20products%20around%20it%2C%20symbolizing%20relaxation%20and%20wellness%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90803&nologo=true"
+    },
+    {
+      "id": "life-flu-increase",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "독감 환자, 일주일 새 45% 급증",
+      "subtitle": "본격적인 겨울철 진입, 인플루엔자 확산세 가팔라져",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+45%",
+            "label": "주간 급증률"
+          },
+          {
+            "value": "겨울철",
+            "label": "주요 시기"
+          },
+          {
+            "value": "독감",
+            "label": "주요 질병"
+          }
+        ],
+        "main_number": "+45%",
+        "main_text": "전주 대비 독감 환자 증가율"
+      },
+      "image_prompt": "cute pastel infographic illustration of a thermometer showing high temperature and a person sneezing, with an upward graph, no text",
+      "detail": {
+        "summary": "본격적인 겨울철에 접어들면서 독감(인플루엔자) 환자가 일주일 새 45% 급증했으며, 갑작스러운 고열, 온몸 통증 등의 증상이 나타나면 독감을 의심하고 대처해야 한다.",
+        "points": [
+          "아침 최저 기온 영하권으로 떨어지며 독감 확산 가속화",
+          "단순 감기와 달리 고열, 오한, 근육통 등 증상 심함",
+          "일상생활 어려울 정도의 몸살 동반",
+          "예방접종, 위생수칙 준수 등 예방 중요성 강조"
+        ],
+        "quote": "아침 최저 기온이 영하권으로 떨어지는 등 본격적인 겨울철에 접어들면서 독감(인플루엔자) 확산세가 가팔라지고 있다.",
+        "context": "환절기 및 겨울철은 독감 등 호흡기 질환이 유행하는 시기로, 개인 위생 관리와 예방 접종을 통해 건강을 지키는 것이 중요하며, 증상 발현 시 적절한 의료기관 방문이 필요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002249948?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20thermometer%20showing%20high%20temperature%20and%20a%20person%20sneezing%2C%20with%20an%20upward%20graph%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34254&nologo=true"
     }
   ],
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T06:09:49.504564+09:00"
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:08:56.678847+09:00"
 }

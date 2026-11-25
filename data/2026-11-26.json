@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-japan-profit",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "trend",
+      "title": "日 상장사 순이익, 6년 연속 사상 최고치",
+      "subtitle": "상반기 26% 급증, AI 호황과 엔저가 주도",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "26%",
+            "label": "상반기 순이익 급증"
+          },
+          {
+            "value": "6년",
+            "label": "연속 최고치"
+          },
+          {
+            "value": "AI·엔저",
+            "label": "성장 동력"
+          }
+        ],
+        "main_number": "+26%",
+        "main_text": "日 상장사 상반기 순이익 전년 대비"
+      },
+      "image_prompt": "cute pastel infographic illustration of a graph showing upward trend, yen currency symbols, and AI robot icons, no text",
+      "detail": {
+        "summary": "일본 상장기업들이 AI 투자 확대와 엔저 현상에 힘입어 상반기 순이익이 26% 급증하며 6년 연속 사상 최고치를 경신했다.",
+        "points": [
+          "AI 인프라 투자 확대",
+          "엔화 약세로 수출 경쟁력 강화",
+          "2026 회계연도 하반기에도 성장 기대",
+          "에너지·원자재 비용 상승, 美 정치 지형 변화가 변수"
+        ],
+        "quote": "AI 인프라 투자가 기업 실적을 지탱할 것",
+        "context": "글로벌 경제 상황과 엔화 약세 속에서 일본 기업들의 실적 개선은 중요한 경제 지표로 평가된다.",
+        "source_url": "https://www.g-enews.com/view.php?ud=2026112519024060410c8c1c064d_1"
+      },
+      "image_url": "data/images/2026-11-26/world-japan-profit.jpg"
+    },
+    {
+      "id": "world-trump-tariff",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "트럼프, 中에 '40% 관세' 압박 지속",
+      "subtitle": "재집권 시 중국산 제품에 높은 관세 부과 예고",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "40%",
+            "label": "예상 관세율"
+          },
+          {
+            "value": "中",
+            "label": "주요 타겟"
+          },
+          {
+            "value": "재집권 시",
+            "label": "시점"
+          }
+        ],
+        "main_number": "↑40%",
+        "main_text": "中 제품에 부과할 수 있는 최대 관세율"
+      },
+      "image_prompt": "cute pastel infographic illustration of a hand pushing up a tariff barrier with Chinese products behind it, Trump silhouette, no text",
+      "detail": {
+        "summary": "도널드 트럼프 전 미국 대통령이 재집권 시 중국산 제품에 40% 이상의 고율 관세를 부과할 수 있다고 밝히며 통상 압박을 이어갔다.",
+        "points": [
+          "선거 결과와 무관하게 '관세 마이웨이' 예고",
+          "중국 '과잉 생산' 문제에 대한 강경 대응 시사",
+          "미중 무역 갈등 심화 가능성",
+          "정치적 부담과 여론조사 결과 주목"
+        ],
+        "quote": "중국은 이를 구실로 정치적 조작을 하는 데 반대한다",
+        "context": "미국 대선이 다가오면서 트럼프 전 대통령의 보호무역주의 정책 기조가 다시 주목받고 있으며, 이는 글로벌 무역 질서에 큰 영향을 미칠 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/001/0016464007?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20hand%20pushing%20up%20a%20tariff%20barrier%20with%20Chinese%20products%20behind%20it%2C%20Trump%20silhouette%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=57384&nologo=true"
+    },
+    {
+      "id": "world-swiss-pharma",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map",
+      "title": "스위스, 韓 제약바이오 유럽 진출 허브로",
+      "subtitle": "세계 2위 제약 시장 유럽으로의 교두보 역할 기대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "EU 30개국",
+            "label": "시장 진출"
+          },
+          {
+            "value": "4.5억+",
+            "label": "인구 대상"
+          },
+          {
+            "value": "2위",
+            "label": "유럽 제약시장"
+          }
+        ],
+        "main_number": "🌍 30개국",
+        "main_text": "스위스를 통한 EU/EEA 시장 진출 가능 국가 수"
+      },
+      "image_prompt": "cute pastel infographic illustration of a map of Europe with Switzerland highlighted, connected to Korea with an arrow, showing medical symbols, no text",
+      "detail": {
+        "summary": "스위스가 한국 제약바이오 및 헬스케어 기업들의 유럽 진출 거점으로 부상하며, 유럽의약품청(EMA) 허가 절차를 통해 EU 30개국 시장에 접근할 수 있는 기회를 제공한다.",
+        "points": [
+          "스위스의 세계적 제약·바이오 생태계",
+          "유럽은 북미에 이어 세계 2위 제약시장",
+          "EMA 중앙집중식 허가로 4.5억 인구 대상 시장 진출",
+          "높은 임금에도 불구하고 노동생산성 고려 시 경쟁력"
+        ],
+        "quote": "스위스는 세계적인 수준의 제약·바이오 생태계와 선도적인 연구기관, 전문인력을 갖추고 있다.",
+        "context": "유럽 시장 진출을 모색하는 국내 제약바이오 기업들에게 스위스는 전략적 중요성을 가지며, 규제 연계 및 인재 활용 면에서 이점을 제공한다.",
+        "source_url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017359"
+      },
+      "image_url": "data/images/2026-11-26/world-swiss-pharma.jpg"
+    },
+    {
+      "id": "economy-us-growth-ai",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "美 3분기 성장률 4.3%, 3년 만 최고치",
+      "subtitle": "AI 투자와 견조한 소비가 미국 경제 성장 견인",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4.3%",
+            "label": "3분기 성장률"
+          },
+          {
+            "value": "3년",
+            "label": "최고 기록"
+          },
+          {
+            "value": "AI·소비",
+            "label": "주요 동력"
+          }
+        ],
+        "main_number": "+4.3%",
+        "main_text": "미국 3분기 경제 성장률 (예상치 상회)"
+      },
+      "image_prompt": "cute pastel infographic illustration of an upward-trending economic graph with AI chips and shopping carts, representing growth, no text",
+      "detail": {
+        "summary": "미국 경제가 AI 관련 기업 투자 확대와 견조한 소비에 힘입어 올해 3분기 경제성장률 4.3%를 기록하며 3년 만에 최고치를 경신했다.",
+        "points": [
+          "시장 예상치 크게 웃도는 성장률",
+          "AI 관련 기업 투자 확대가 주요 요인",
+          "소비 지출도 꾸준히 증가",
+          "미국 경제의 기초 체력 강화 시사"
+        ],
+        "quote": "미국 경제의 기초 체력을 확인시켜주는 지표",
+        "context": "글로벌 경기 둔화 우려 속에서도 미국 경제가 AI 기술 발전과 소비 활성화를 바탕으로 강력한 성장세를 보이며, 세계 경제에 긍정적인 신호로 작용하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002728542?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20an%20upward-trending%20economic%20graph%20with%20AI%20chips%20and%20shopping%20carts%2C%20representing%20growth%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=40794&nologo=true"
+    },
+    {
+      "id": "economy-korea-interest",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "한국 기준금리 3%→3.25% 인상 전망",
+      "subtitle": "반도체 수출 호조와 물가 상승률 고려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "3.00%",
+            "label": "현재 금리"
+          },
+          {
+            "value": "3.25%",
+            "label": "예상 인상 후"
+          },
+          {
+            "value": "2.8%",
+            "label": "근원물가 상승률"
+          }
+        ],
+        "main_number": "↑0.25%p",
+        "main_text": "예상되는 기준금리 인상 폭"
+      },
+      "image_prompt": "cute pastel infographic illustration of a rising line graph representing interest rates with Korean currency symbols, no text",
+      "detail": {
+        "summary": "한국은행 금융통화위원회가 오늘 회의에서 기준금리를 현재 3%에서 3.25%로 0.25%p 인상할 가능성이 크며, 내년 추가 인상 신호에 관심이 집중된다.",
+        "points": [
+          "반도체 수출 호조로 경제 성장세 예상 상회",
+          "근원물가 상승률 2.8%로 여전히 높은 수준",
+          "금통위원들의 6개월 후 금리 전망(점도표) 공개",
+          "조사국의 수정 경제 전망 함께 발표"
+        ],
+        "quote": "한은이 석 달 만에 기준금리 인상에 나설 것으로 보인다",
+        "context": "고물가 상황과 견조한 경제 성장세가 지속되면서 한국은행이 추가적인 금리 인상을 통해 물가 안정에 나설 것으로 예상되며, 이는 가계와 기업의 경제 활동에 영향을 미칠 것이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009310640?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rising%20line%20graph%20representing%20interest%20rates%20with%20Korean%20currency%20symbols%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=86522&nologo=true"
+    },
+    {
+      "id": "economy-daiso",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "다이소의 '5000원 경제학' 성공 비결",
+      "subtitle": "합리적 가격과 다양한 상품으로 소비자 만족 극대화",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "5000원",
+            "label": "주요 가격대"
+          },
+          {
+            "value": "만원",
+            "label": "소비 심리 자극"
+          },
+          {
+            "value": "다양성",
+            "label": "상품 강점"
+          }
+        ],
+        "main_number": "₩5,000",
+        "main_text": "다이소 주력 제품 가격"
+      },
+      "image_prompt": "cute pastel infographic illustration of a shopping basket filled with various small items, showing a price tag of 5000 won, no text",
+      "detail": {
+        "summary": "다이소가 5000원이라는 합리적인 가격대를 중심으로 다양한 상품을 선보이며 소비자의 '만원의 행복'을 충족시키고 유통업계에서 지속적인 성장세를 기록하고 있다.",
+        "points": [
+          "고물가 시대 가성비 소비 트렌드 부합",
+          "다양한 생활용품, 주방용품, 문구 등 폭넓은 품목",
+          "재미와 경제적 여유를 동시에 제공",
+          "수요 예측 및 물류 시스템 효율화"
+        ],
+        "quote": "커피에 문화를 담아 팔았다면, 다이소는 5000원짜리 가격표에 재미와 경제적 여유를 담아 판다.",
+        "context": "최근 고물가 현상으로 인해 소비자들이 합리적인 가격의 제품을 선호하는 경향이 강해지면서, 다이소와 같은 균일가 유통 모델이 더욱 각광받고 있다.",
+        "source_url": "http://sateconomy.co.kr/news/view/1065558766114918"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shopping%20basket%20filled%20with%20various%20small%20items%2C%20showing%20a%20price%20tag%20of%205000%20won%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84442&nologo=true"
+    },
+    {
+      "id": "tech-skhynix-lawsuit",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "SK하이닉스, 美 증권집단소송 표적",
+      "subtitle": "D램 공급 제한 의혹, 나스닥 상장 4개월 만",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "4개월",
+            "label": "상장 후 기간"
+          },
+          {
+            "value": "3사",
+            "label": "과점 기업"
+          },
+          {
+            "value": "90%+",
+            "label": "D램 매출 점유율"
+          }
+        ],
+        "main_number": "90%+",
+        "main_text": "세계 D램 시장 3사 점유율"
+      },
+      "image_prompt": "cute pastel infographic illustration of a timeline with an arrow pointing to a lawsuit icon, showing computer chips and dollar signs, no text",
+      "detail": {
+        "summary": "SK하이닉스가 나스닥 상장 4개월 만에 미국 증권집단소송 로펌의 표적이 되었다. 원고 측은 SK하이닉스를 포함한 D램 3사가 공급 제한으로 부당이득을 취했다고 주장한다.",
+        "points": [
+          "세계 D램 매출의 90% 이상을 점유하는 3사 과점 구조",
+          "DDR4 생산 축소 등 시점 일치 의혹",
+          "캘리포니아 연방법원의 '매들의 편대 비행' 언급",
+          "공급 부족 유발 및 부당이득 주장"
+        ],
+        "quote": "세계 D램 매출의 90% 이상을 점유하는 3사가 과점 지위를 이용해 인위적인 공급 부족을 유발하고 부당이득을 챙겼다.",
+        "context": "글로벌 반도체 시장의 주요 플레이어에 대한 담합 의혹은 시장 경쟁 환경과 소비자 가격에 큰 영향을 미칠 수 있으며, 향후 소송 진행 과정이 주목된다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=94111"
+      },
+      "image_url": "data/images/2026-11-26/tech-skhynix-lawsuit.jpg"
+    },
+    {
+      "id": "tech-ai-ecom",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "venn_diagram",
+      "title": "AI 쇼핑 비서 '뮤즈', 월마트와 제휴",
+      "subtitle": "아마존은 제휴를 거부, AI 쇼핑 시장의 전략적 차이",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "월마트",
+            "label": "제휴 성공"
+          },
+          {
+            "value": "아마존",
+            "label": "제휴 거부"
+          },
+          {
+            "value": "뮤즈",
+            "label": "AI 쇼핑 비서"
+          }
+        ],
+        "main_number": "AI",
+        "main_text": "쇼핑 경험을 혁신하는 기술"
+      },
+      "image_prompt": "cute pastel infographic illustration of a shopping cart with an AI chatbot icon, showing connections to Walmart and a block sign for Amazon, no text",
+      "detail": {
+        "summary": "AI 쇼핑 비서 '뮤즈'가 월마트와 제휴하여 소비자들이 음성 명령으로 상품을 구매할 수 있게 된 반면, 아마존은 제휴를 거부하며 AI 쇼핑 시장에서 다른 전략을 보였다.",
+        "points": [
+          "월마트는 메타와 제휴하여 뮤즈를 통해 구매 가능",
+          "소비자는 월마트 웹사이트 방문 없이 상품 검색 및 구매",
+          "아마존은 자사 생태계 보호를 위해 제휴 거부",
+          "AI 기반 쇼핑 경험의 미래 경쟁 구도"
+        ],
+        "quote": "월마트와 메타의 제휴로 소비자는 월마트 웹사이트를 직접 들어가지 않고도 상품을 찾고 가격을 비교해 구매할 수 있다.",
+        "context": "인공지능 기술이 유통 및 전자상거래 분야에 빠르게 접목되면서, 주요 기업들이 AI를 활용한 새로운 쇼핑 경험 제공을 두고 치열한 경쟁을 벌이고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004686245?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20shopping%20cart%20with%20an%20AI%20chatbot%20icon%2C%20showing%20connections%20to%20Walmart%20and%20a%20block%20sign%20for%20Amazon%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=61828&nologo=true"
+    },
+    {
+      "id": "tech-ai-cost-std",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "table",
+      "title": "AI 사업 대가산정 기준 마련 추진",
+      "subtitle": "한국소프트웨어산업협회(KOSA), AI 전문인력 임금 기준 제시",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "KOSA",
+            "label": "주도 기관"
+          },
+          {
+            "value": "AI 엔지니어",
+            "label": "주요 직무"
+          },
+          {
+            "value": "평균임금",
+            "label": "산정 기준"
+          }
+        ],
+        "main_number": "AI",
+        "main_text": "산업 표준 임금 기준 마련"
+      },
+      "image_prompt": "cute pastel infographic illustration of a scale balancing AI code and money, representing fair compensation, no text",
+      "detail": {
+        "summary": "한국소프트웨어산업협회(KOSA)가 AI 사업 대가산정 기준 마련을 추진하며, AI 전문인력의 임금을 응용SW개발자 또는 IT아키텍트의 평균임금에 맞춰 책정하는 방안을 제시했다.",
+        "points": [
+          "RAG·지식검색 엔지니어, 에이전트·프롬프트 엔지니어에 응용SW개발자 평균임금 적용",
+          "AI 모델 아키텍트에는 IT아키텍트 평균임금 적용",
+          "AI 전문인력의 합리적인 대가 산정을 위한 노력",
+          "산업 내 건전한 생태계 조성 목적"
+        ],
+        "quote": "AI 전문인력의 임금 기준을 새로 정한 것은 AI 서비스의 품질과 개발사의 수익성을 보장하기 위함이다.",
+        "context": "AI 기술 개발 및 도입이 확산되면서 전문인력에 대한 수요가 증가하고 있으나, 적정한 개발 비용과 인건비 산정 기준이 없어 관련 산업 발전에 어려움이 있었다. 이번 기준 마련은 이러한 문제를 해결하는 데 기여할 것으로 기대된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006415626?sid=105"
+      },
+      "image_url": "data/images/2026-11-26/tech-ai-cost-std.jpg"
+    },
+    {
+      "id": "society-parliament-gridlock",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "국회, 정쟁으로 본회의 통과 법안 '2건' 불과",
+      "subtitle": "국정감사 이후 한 달간 저조한 입법 성과",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "10회",
+            "label": "본회의 횟수"
+          },
+          {
+            "value": "2건",
+            "label": "통과 법안 수"
+          },
+          {
+            "value": "1개월",
+            "label": "국감 후 기간"
+          }
+        ],
+        "main_number": "↓ 2건",
+        "main_text": "국감 후 본회의 통과 법안 (한 달 간)"
+      },
+      "image_prompt": "cute pastel infographic illustration of a parliament building with very few documents passing through, representing legislative inefficiency, no text",
+      "detail": {
+        "summary": "정기국회 국정감사 이후 한 달간 10차례의 본회의가 열렸음에도 불구하고, 실제 통과된 법안은 단 2건에 불과해 국회의 심각한 정쟁과 입법 공백이 우려된다.",
+        "points": [
+          "9월 1일 정기회 시작, 10월 5일까지 한 달간 상황",
+          "여야 간 정쟁 심화로 민생 법안 처리 지연",
+          "여당 내 계파 갈등도 입법 효율성 저해 요인",
+          "정치적 법안 우선 처리 경향"
+        ],
+        "quote": "정쟁에 혈관 막힌 국회",
+        "context": "정기국회는 국민의 삶에 직접적인 영향을 미치는 법안들을 심의하고 처리하는 중요한 시기이지만, 정치적 대립으로 인해 입법 기능이 마비되면서 민생에 대한 우려가 커지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004686250?sid=100"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20parliament%20building%20with%20very%20few%20documents%20passing%20through%2C%20representing%20legislative%20inefficiency%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=87061&nologo=true"
+    },
+    {
+      "id": "society-retirement-age",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "venn_diagram",
+      "title": "정년 연장과 청년 취업난 문제",
+      "subtitle": "임금피크제 비용 절감분을 청년 채용에 활용 제안",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "정년 연장",
+            "label": "쟁점 1"
+          },
+          {
+            "value": "청년 고용",
+            "label": "쟁점 2"
+          },
+          {
+            "value": "임금피크제",
+            "label": "해결 방안"
+          }
+        ],
+        "main_number": "60세",
+        "main_text": "의무화된 현재 정년"
+      },
+      "image_prompt": "cute pastel infographic illustration of two gears, one representing extended retirement age and the other representing youth employment, meshing together, no text",
+      "detail": {
+        "summary": "정년 연장이 청년 취업문을 좁게 만들 것이라는 우려 속에, 임금피크제를 통해 아낀 비용을 청년 채용에 활용하는 방안이 제시되며 세대 간 고용 문제 해결 노력이 주목받는다.",
+        "points": [
+          "정부와 여당, 청년 고용 악화 우려로 정년 연장 입법 속도 조절",
+          "더불어민주당, 청년 일자리 대책 선논의 주장",
+          "2016년 정년 60세 의무화 시행 후 청년 고용 둔화 우려",
+          "임금피크제 연계 청년 채용 인센티브 필요성 제기"
+        ],
+        "quote": "임금피크제로 아낀 비용이 청년 고용으로 이어질 수 있도록 제도를 설계해야 한다.",
+        "context": "초고령사회로 진입하면서 정년 연장의 필요성이 대두되고 있으나, 이는 청년층의 고용 기회를 위축시킬 수 있어 세대 간 상생을 위한 정책적 접근이 중요해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001165673?sid=101"
+      },
+      "image_url": "data/images/2026-11-26/society-retirement-age.jpg"
+    },
+    {
+      "id": "society-ai-regulation",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "list",
+      "title": "AI 시대, 사회 질서 위한 규율 마련",
+      "subtitle": "AI 커닝 방지, 개발자 면허제·책임보험 등 논의",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "면허제",
+            "label": "개발자"
+          },
+          {
+            "value": "책임보험",
+            "label": "산업"
+          },
+          {
+            "value": "부정행위",
+            "label": "규제 대상"
+          }
+        ],
+        "main_number": "AI",
+        "main_text": "자율화 시대, 새로운 사회 규범"
+      },
+      "image_prompt": "cute pastel infographic illustration of a rulebook and a shield, symbolizing regulation and safety for AI, with a small AI robot, no text",
+      "detail": {
+        "summary": "정부가 AI 기술 발전에 따른 사회적 갈등에 대비해 AI 커닝 방지 대책, AI 개발자 면허제, 책임보험 도입 등 'AI 자율화 시대의 새로운 질서'를 위한 규율 마련을 논의하고 있다.",
+        "points": [
+          "AI 활용 시험 부정행위 방지 기술적 대책",
+          "AI 개발자 면허제 도입 검토",
+          "AI 관련 책임보험 상품 개발 논의",
+          "AI의 지능 수준 및 안전한 경제적 가치 연결 강조"
+        ],
+        "quote": "앞으로는 AI의 지능 수준뿐 아니라 자율적 판단과 행동을 얼마나 안전하게 경제적 가치로 연결하느냐가 국가 경쟁력을 좌우할 것",
+        "context": "생성형 AI를 넘어 에이전틱 AI, 피지컬 AI로 진화하는 기술 환경 속에서, AI의 사회적 영향력을 고려한 선제적인 규제와 책임 방안 마련이 시급해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/018/0006415629?sid=105"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20rulebook%20and%20a%20shield%2C%20symbolizing%20regulation%20and%20safety%20for%20AI%2C%20with%20a%20small%20AI%20robot%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74948&nologo=true"
+    },
+    {
+      "id": "life-pepero-ip",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "편의점 빼빼로데이, IP 협업으로 매출 급증",
+      "subtitle": "캐릭터 굿즈 수집 문화 확산, IP 경쟁 치열",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "IP 협업",
+            "label": "매출 동력"
+          },
+          {
+            "value": "캐릭터 굿즈",
+            "label": "핵심 상품"
+          },
+          {
+            "value": "11/11",
+            "label": "기념일"
+          }
+        ],
+        "main_number": "↑↑",
+        "main_text": "빼빼로데이 매출 증가 추세"
+      },
+      "image_prompt": "cute pastel infographic illustration of a shopping bag with character merchandise and pepero sticks, symbolizing a trend, no text",
+      "detail": {
+        "summary": "편의점들이 빼빼로데이에 헬로키티, 재혼 황후 등 인기 IP를 활용한 협업 상품을 선보이며 매출을 크게 늘렸으며, 단순히 과자를 주고받는 것을 넘어 캐릭터 굿즈를 수집하는 문화로 변화하고 있다.",
+        "points": [
+          "캐릭터 굿즈 수집이 소비 트렌드로 부상",
+          "편의점 업계의 IP 확보 경쟁 심화",
+          "빼빼로데이 본질 변화, 문화적 기념일로 진화",
+          "MZ세대 등 젊은 층의 호응"
+        ],
+        "quote": "단순히 과자를 주고받던 기념일이 캐릭터 굿즈를 수집하는 소비문화로 바뀌면서 편의점 업계의 IP 확보 경쟁도 한층 치열해지는 양상이다.",
+        "context": "최근 소비자들이 제품 자체의 가치뿐만 아니라 캐릭터나 스토리가 담긴 특별한 경험을 중시하면서, 유통업계에서 IP(지적재산권)를 활용한 마케팅이 중요해지고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/468/0001283495?sid=101"
+      },
+      "image_url": "data/images/2026-11-26/life-pepero-ip.jpg"
+    },
+    {
+      "id": "life-bath-beauty",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "trend",
+      "title": "목욕탕, 사우나 열풍 재점화",
+      "subtitle": "웰니스 라이프스타일로 부상, '배스 뷰티' 시장 성장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "사우나",
+            "label": "주요 트렌드"
+          },
+          {
+            "value": "바디케어",
+            "label": "관련 상품"
+          },
+          {
+            "value": "웰니스",
+            "label": "핵심 가치"
+          }
+        ],
+        "main_number": "♨️",
+        "main_text": "다시 주목받는 목욕 문화"
+      },
+      "image_prompt": "cute pastel infographic illustration of a steaming hot tub or sauna with various bath beauty products around it, symbolizing relaxation and wellness, no text",
+      "detail": {
+        "summary": "목욕탕과 사우나 문화가 웰니스 라이프스타일의 일환으로 다시 인기를 얻으면서, 바디케어 경험을 확장하는 '배스 뷰티' 시장이 주목받고 관련 상품 소비가 증가하고 있다.",
+        "points": [
+          "패션 플랫폼 29CM에서 '사우나' 검색량 증가",
+          "CJ올리브영 '올리브베러' 등 웰니스 플랫폼 강화",
+          "목욕 문화에서 영감받은 바디케어 브랜드 출시",
+          "엔데믹 이후 건강과 휴식에 대한 관심 증대"
+        ],
+        "quote": "목욕 문화에 대한 관심은 관련 상품 소비로도 이어지고 있다.",
+        "context": "바쁜 현대 사회에서 개인의 건강과 휴식, 자기 관리에 대한 관심이 높아지면서, 목욕을 통한 심신 이완과 뷰티 케어가 새로운 라이프스타일 트렌드로 자리 잡고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/144/0001151744?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20steaming%20hot%20tub%20or%20sauna%20with%20various%20bath%20beauty%20products%20around%20it%2C%20symbolizing%20relaxation%20and%20wellness%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=90803&nologo=true"
+    },
+    {
+      "id": "life-flu-increase",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "독감 환자, 일주일 새 45% 급증",
+      "subtitle": "본격적인 겨울철 진입, 인플루엔자 확산세 가팔라져",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+45%",
+            "label": "주간 급증률"
+          },
+          {
+            "value": "겨울철",
+            "label": "주요 시기"
+          },
+          {
+            "value": "독감",
+            "label": "주요 질병"
+          }
+        ],
+        "main_number": "+45%",
+        "main_text": "전주 대비 독감 환자 증가율"
+      },
+      "image_prompt": "cute pastel infographic illustration of a thermometer showing high temperature and a person sneezing, with an upward graph, no text",
+      "detail": {
+        "summary": "본격적인 겨울철에 접어들면서 독감(인플루엔자) 환자가 일주일 새 45% 급증했으며, 갑작스러운 고열, 온몸 통증 등의 증상이 나타나면 독감을 의심하고 대처해야 한다.",
+        "points": [
+          "아침 최저 기온 영하권으로 떨어지며 독감 확산 가속화",
+          "단순 감기와 달리 고열, 오한, 근육통 등 증상 심함",
+          "일상생활 어려울 정도의 몸살 동반",
+          "예방접종, 위생수칙 준수 등 예방 중요성 강조"
+        ],
+        "quote": "아침 최저 기온이 영하권으로 떨어지는 등 본격적인 겨울철에 접어들면서 독감(인플루엔자) 확산세가 가팔라지고 있다.",
+        "context": "환절기 및 겨울철은 독감 등 호흡기 질환이 유행하는 시기로, 개인 위생 관리와 예방 접종을 통해 건강을 지키는 것이 중요하며, 증상 발현 시 적절한 의료기관 방문이 필요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/138/0002249948?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%20of%20a%20thermometer%20showing%20high%20temperature%20and%20a%20person%20sneezing%2C%20with%20an%20upward%20graph%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=34254&nologo=true"
+    }
+  ],
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:08:56.678847+09:00"
+}
