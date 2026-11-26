@@ -1,0 +1,621 @@
+{
+  "cards": [
+    {
+      "id": "world-supplychain",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "flow_chart",
+      "title": "한일, 중국발 공급망 리스크 공동 대응 강화",
+      "subtitle": "경제 협력 통해 핵심 품목 공급망 안정화 모색",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2국",
+            "label": "참여"
+          },
+          {
+            "value": "핵심 광물",
+            "label": "주요 품목"
+          },
+          {
+            "value": "첨단 기술",
+            "label": "협력 분야"
+          }
+        ],
+        "main_number": "공급망 리스크",
+        "main_text": "대응 협력 강화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한일 양국이 중국발 공급망 리스크를 극복하기 위해 경제 협력을 강화하고 첨단 기술 분야에서 공동 대응을 모색한다.",
+        "points": [
+          "한일 경제협력 중요성 대두",
+          "중국 의존 구조 탈피 목표",
+          "첨단 기술 및 핵심 광물 분야 협력",
+          "정치 변수에 흔들리지 않는 협력 필요"
+        ],
+        "quote": "한일 경제공동체, 저출산·저성장 돌파구",
+        "context": "중국의 경제적 영향력이 커지면서 특정 국가에 대한 공급망 의존도가 높아지는 것에 대한 국제적 우려가 커지고 있어, 한국과 일본이 이에 공동 대응하려는 움직임을 보이고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/417/0001165838?sid=101"
+      },
+      "image_url": "data/images/2026-11-27/world-supplychain.jpg"
+    },
+    {
+      "id": "world-ustrade",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "comparison",
+      "title": "미중 무역 갈등 심화, 관세 압박에 중국 반발",
+      "subtitle": "미국, 14개 경제 주체에 최대 40% 관세 부과 검토",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "최대 40%",
+            "label": "미국 관세율"
+          },
+          {
+            "value": "14개",
+            "label": "대상 주체"
+          },
+          {
+            "value": "반대",
+            "label": "중국 입장"
+          }
+        ],
+        "main_number": "무역 갈등 심화",
+        "main_text": "국제경제질서 훼손 우려"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국이 14개 경제 주체에 최대 40%의 추가 관세를 부과하는 방안을 발표하며 중국을 압박하자, 중국 상무부가 국제경제질서 훼손이라며 단호히 반발했다.",
+        "points": [
+          "미국, 대중국 최대 40% 관세 부과 방안 제시",
+          "중국 상무부, 일방주의 행위로 규정하며 반대",
+          "WTO 규칙 위반 및 국제경제질서 훼손 우려",
+          "미중 무역 관계의 새로운 기로"
+        ],
+        "quote": "미국의 조치는 국제경제질서를 심각하게 훼손하고 세계무역기구(WTO) 규칙을 위반하는 일방주의 행위",
+        "context": "트럼프 행정부의 무역 정책 기조가 재현될 가능성이 제기되며, 세계 최대 경제 대국인 미국과 중국 간의 무역 갈등이 다시 고조될 조짐을 보이고 있다. 이는 글로벌 경제 전반에 큰 영향을 미칠 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/016/0002729177?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=70223&nologo=true"
+    },
+    {
+      "id": "world-oilprice",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "line_chart",
+      "title": "브렌트유 2% 급등, 중동 지정학적 불안 고조",
+      "subtitle": "사우디 정유시설 피격 및 호르무즈 해협 공급 불안 영향",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+2%",
+            "label": "브렌트유 급등"
+          },
+          {
+            "value": "15%",
+            "label": "세계 원유 공급량"
+          },
+          {
+            "value": "중동",
+            "label": "공급 불안 지역"
+          }
+        ],
+        "main_number": "유가 불안",
+        "main_text": "글로벌 경제에 파급 효과"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "사우디 정유시설 피격 소식과 호르무즈 해협의 공급 불안이 겹치며 브렌트유 가격이 2% 급등, 글로벌 유가 불안정성이 높아졌다.",
+        "points": [
+          "브렌트유 가격 2% 급등",
+          "사우디 정유시설 피격 사건 발생",
+          "호르무즈 해협 물동량 감소 우려",
+          "전 세계 원유 공급량의 약 15%가 직면한 위험"
+        ],
+        "quote": "호르무즈 해협의 물동량 감소와 낮은 재고 수준, 전 세계 원유 공급량의 약 15%가 직면한 위험 등을 근거로 유가 상승세를 전망했다.",
+        "context": "중동 지역의 지정학적 불안정은 세계 원유 공급에 즉각적인 영향을 미쳐 유가 상승을 유발하며, 이는 글로벌 인플레이션 압력과 경기 둔화 가능성을 높이는 주요 요인이 된다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009313250?sid=101"
+      },
+      "image_url": "data/images/2026-11-27/world-oilprice.jpg"
+    },
+    {
+      "id": "economy-growthoutlook",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "한국 경제, 6년 만에 4%대 성장 전망…반도체 리스크는 '경고등'",
+      "subtitle": "AI 투자發 반도체 호황 기대 속, 중국 증산 등 악재 우려",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+4%대",
+            "label": "성장률 전망"
+          },
+          {
+            "value": "6년",
+            "label": "만에 달성"
+          },
+          {
+            "value": "2%대",
+            "label": "악재 시 하락"
+          }
+        ],
+        "main_number": "반도체 착시",
+        "main_text": "한국 경제 성장률 견인"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국은행은 AI 투자 확대에 힘입어 한국 경제가 6년 만에 4%대 성장률을 기록할 것으로 전망했으나, 중국의 메모리 반도체 증산 등 악재 발생 시 2%대 초반까지 하락할 수 있다고 경고했다.",
+        "points": [
+          "AI 투자 확대, 반도체 호황으로 성장 견인",
+          "한국은행, 올해 성장률 3.9%, 내년 4.1%로 상향 (6년 만의 4%대)",
+          "중국 메모리 반도체 증산이 한국 경제에 악재 가능성",
+          "악재 시 2028년 성장률 2%대 초반까지 하락 우려"
+        ],
+        "quote": "인공지능(AI) 투자 확대에 힘입은 반도체 호황이 한국 경제 성장세를 견인하고 있지만 중국의 메모리 반도체 증산이 맞물리면 2028년 한국 경제성장률이 2%대 초반까지 낮아질 수 있다는 한국은행의 분석이 나왔다.",
+        "context": "한국 경제는 반도체 산업 의존도가 높아, 글로벌 반도체 시장의 변화가 국가 경제에 미치는 영향이 매우 크다. 특히 AI발 반도체 특수는 긍정적이지만, 중국의 추격과 공급 과잉은 잠재적 위협 요인으로 작용할 수 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/215/0001274136?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=55853&nologo=true"
+    },
+    {
+      "id": "economy-interestrate",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "한은, 3.25% 금리 인상…반도체 착시 속 취약층 부담 가중",
+      "subtitle": "금리 인상 지속, 투명한 금융 정보 제공 및 감독 필요성 대두",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+3.25%",
+            "label": "금리 인상"
+          },
+          {
+            "value": "3.9%",
+            "label": "올해 성장률"
+          },
+          {
+            "value": "4.1%",
+            "label": "내년 성장률"
+          }
+        ],
+        "main_number": "금리 인상 지속",
+        "main_text": "취약층 부담 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국은행이 매파적 금리 인상을 단행하며 올해 성장률 전망치를 상향 조정했으나, 반도체 호황 뒤에 가려진 취약계층의 부담이 가중될 수 있어 금융권의 사회적 책임과 투명성이 강조된다.",
+        "points": [
+          "한국은행, 매파적 금리 인상 단행 (연 3.25%)",
+          "올해 경제성장률 전망치 3.3%→3.9% 상향",
+          "내년 경제성장률 전망치 2.9%→4.1% 상향",
+          "반도체 착시 넘어 취약층에 대한 금융지원 및 감독 필요"
+        ],
+        "quote": "금융당국은 시중은행들이 기준금리 인상을 빌미로 가산금리를 기계적으로 높여 과도한 이자 장사에 나서지 않도록 철저히 감독해야 한다.",
+        "context": "고금리 기조가 장기화되면서 가계 및 기업의 이자 부담이 커지고 있으며, 특히 경제적 취약계층에게는 더욱 심각한 어려움으로 작용할 수 있다. 이에 금융 정책의 사회적 영향과 투명한 운영이 중요해진다.",
+        "source_url": "https://www.mhns.co.kr/news/articleView.html?idxno=770838"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=22444&nologo=true"
+    },
+    {
+      "id": "economy-deathmarket",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "'웰다잉' 트렌드 확산, 죽음 준비 시장 10조원 돌파 전망",
+      "subtitle": "사후 관리 시장, 2028년까지 10조원 규모 성장 예측",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "8.6조원",
+            "label": "현재 시장"
+          },
+          {
+            "value": "10조원",
+            "label": "2028년 시장"
+          },
+          {
+            "value": "5년",
+            "label": "소요 기간"
+          }
+        ],
+        "main_number": "+16.3%",
+        "main_text": "죽음 준비 시장 성장률"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "개인의 가치관을 반영한 '웰다잉' 트렌드가 확산되며 빈소 없는 장례, 반려동물 양육비 선지급 등 사후 관리 시장이 2028년 10조원 규모로 성장할 것으로 전망된다.",
+        "points": [
+          "국내 사후 관리 시장 2023년 8.6조원",
+          "2028년까지 10조원 규모로 성장 예측",
+          "빈소 없는 장례, 장례 서비스 간소화",
+          "반려동물 양육비 사전 준비 등 맞춤형 서비스 증가"
+        ],
+        "quote": "국내 사후 관리 시장이 올해 8조 6000억원에서 2028년 10조원으로 커질 것으로 내다봤다.",
+        "context": "고령화 사회 진입과 더불어 개인의 삶의 방식과 가치관을 반영하려는 '웰다잉' 인식이 확산되면서, 단순히 장례를 치르는 것을 넘어 생전의 의지를 담는 다양한 사후 준비 서비스에 대한 수요가 증가하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003703729?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20228&nologo=true"
+    },
+    {
+      "id": "tech-itservices",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "dual_axis_chart",
+      "title": "AI·클라우드 성장에도 IT서비스 대기업 수익성 악화",
+      "subtitle": "매출 증대에도 불구하고 영업이익은 감소하는 추세",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "매출 증가",
+            "label": "성장"
+          },
+          {
+            "value": "수익 감소",
+            "label": "과제"
+          },
+          {
+            "value": "3분기",
+            "label": "누적 기준"
+          }
+        ],
+        "main_number": "매출⬆️ 영업이익⬇️",
+        "main_text": "IT서비스 기업의 딜레마"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국내 대기업 계열 IT서비스 기업들이 AI와 클라우드 사업 확대로 매출은 늘었으나, 경쟁 심화와 투자 비용 증가 등으로 인해 영업이익은 오히려 감소하는 경향을 보였다.",
+        "points": [
+          "IT서비스 대기업 3분기 누적 매출 증가",
+          "동기간 영업이익은 감소세",
+          "시스템통합(SI) 및 IT아웃소싱(ITO) 사업 성장",
+          "클라우드 전환 및 AI 투자 비용 증가 영향"
+        ],
+        "quote": "국내 대기업 계열 IT서비스 기업들이 올해 3분기까지 매출을 늘렸지만 영업이익은 오히려 줄어든 것으로 나타났다.",
+        "context": "AI와 클라우드 산업의 급성장은 IT 서비스 기업들에게 새로운 기회를 제공하지만, 동시에 기술 선점을 위한 대규모 투자와 치열한 경쟁을 야기한다. 이는 단기적인 수익성 악화로 이어질 수 있으나, 장기적인 성장을 위한 필수적인 과정으로 분석된다.",
+        "source_url": "https://it.chosun.com/news/articleView.html?idxno=3000000001912"
+      },
+      "image_url": "data/images/2026-11-27/tech-itservices.jpg"
+    },
+    {
+      "id": "tech-ailiteracy",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "process_flow",
+      "title": "AI 네이티브 시대, 필수 역량 'AI 리터러시' 구축 전략",
+      "subtitle": "AI 결과물 검증 및 활용 능력, 비IT 직군에도 중요성 증대",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "필수",
+            "label": "AI 역량"
+          },
+          {
+            "value": "결과물 검증",
+            "label": "핵심 과정"
+          },
+          {
+            "value": "전 직군",
+            "label": "적용 범위"
+          }
+        ],
+        "main_number": "AI 리터러시",
+        "main_text": "AI 시대의 핵심 역량"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI 네이티브 시대를 맞아 IT 직군뿐 아니라 모든 직군에서 AI가 내놓은 답을 그대로 수용하지 않고 의심하고 검증하여 더 나은 결과물을 도출하는 'AI 리터러시' 구축이 중요해지고 있다.",
+        "points": [
+          "AI 역량 평가, IT 직군만의 이야기가 아님",
+          "핵심은 결과물이 아닌 과정",
+          "AI 답을 의심하고 검증해 더 나은 결과 도출",
+          "자신만의 'AI 리터러시' 구축 필요성 강조"
+        ],
+        "quote": "AI가 내놓은 답을 그대로 쓰는 사람과 그 답을 의심하고 검증해 더 나은 결과로 만드는 사람의 차이가 기업의 경쟁력을 좌우한다.",
+        "context": "인공지능 기술의 발전과 보편화는 업무 환경과 요구되는 핵심 역량의 변화를 가져오고 있다. 단순한 AI 도구 사용을 넘어 AI의 한계를 이해하고 비판적으로 활용하는 능력이 미래 사회의 경쟁력으로 부상하고 있다.",
+        "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087973"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=74627&nologo=true"
+    },
+    {
+      "id": "tech-googleai",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "timeline",
+      "title": "구글, 내년 4월부터 외부 AI 에이전트 서비스 이용료 부과",
+      "subtitle": "AI 생태계 확장 속 수익 모델 다변화 전략",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "내년 4월",
+            "label": "시행 시기"
+          },
+          {
+            "value": "지메일, 드라이브",
+            "label": "주요 서비스"
+          },
+          {
+            "value": "이용 횟수",
+            "label": "부과 기준"
+          }
+        ],
+        "main_number": "AI 생태계 수익화",
+        "main_text": "새로운 비즈니스 모델"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "구글이 내년 4월부터 외부 AI 에이전트가 지메일, 구글 드라이브, 캘린더 등 자사 서비스를 이용하는 횟수에 따라 비용을 부과하는 새로운 요금 체계를 도입한다.",
+        "points": [
+          "구글, 내년 4월부터 AI 에이전트 이용료 부과",
+          "지메일, 드라이브, 캘린더 등 주요 서비스 대상",
+          "프로젝트별·제품별로 비용 차등화",
+          "AI 생태계의 비즈니스 모델 변화 예고"
+        ],
+        "quote": "구글은 내년 4월부터 외부 AI 에이전트가 지메일, 구글 드라이브, 캘린더 등 자사 서비스를 이용하는 횟수에 따라 비용을 부과하는 새로운 요금 체계를 도입한다.",
+        "context": "인공지능 기술이 다양한 서비스에 접목되면서, 빅테크 기업들은 자사 인프라를 활용하는 AI 서비스에 대한 새로운 수익 모델을 모색하고 있다. 이는 AI 생태계 전반의 비용 구조와 비즈니스 전략에 영향을 미칠 것이다.",
+        "source_url": "https://n.news.naver.com/mnews/article/081/0003703721?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=83960&nologo=true"
+    },
+    {
+      "id": "society-childrenhealth",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "한국 아이들 마음 건강 '위기', 웃음 잃은 세대",
+      "subtitle": "높은 학업 성취 대비 낮은 행복 지수, 아동 정신 건강 문제 심각",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "높음",
+            "label": "학업 성취"
+          },
+          {
+            "value": "낮음",
+            "label": "행복 수준"
+          },
+          {
+            "value": "위기",
+            "label": "마음 건강"
+          }
+        ],
+        "main_number": "OECD 최하위권",
+        "main_text": "아동 행복지수"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "유니세프한국위원회는 한국 아동들의 높은 학업 성취에도 불구하고 마음 건강이 위기 수준이라며, 행복 수준을 높이는 데 힘쓰겠다는 입장을 밝혔다.",
+        "points": [
+          "한국 어린이의 높은 학업 성취",
+          "낮은 행복 수준 및 마음 건강 위기",
+          "유니세프한국위원회 사무총장, 행복 수준 증진 강조",
+          "지속가능한 미래를 위한 아동 행복 보장"
+        ],
+        "quote": "“공부는 잘하는데 별로 웃질 않아요. 한국 어린이들의 마음 건강이 심각한 위기에 놓여있다는 방증입니다.”",
+        "context": "과도한 경쟁과 학업 스트레스는 한국 아동 및 청소년의 정신 건강에 부정적인 영향을 미치고 있다. 물질적 풍요에도 불구하고 행복감을 느끼지 못하는 현상은 사회 전반의 아동 복지 정책과 양육 환경에 대한 근본적인 성찰을 요구한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/009/0005769762?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96053&nologo=true"
+    },
+    {
+      "id": "society-npsinvestigation",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "venn_diagram",
+      "title": "건보공단 수사권 확보 논란: 권한과 전문성의 균형",
+      "subtitle": "공단 수사권 부여 시 예상되는 긍정적/부정적 효과 분석",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수사권",
+            "label": "요청"
+          },
+          {
+            "value": "전문성",
+            "label": "쟁점"
+          },
+          {
+            "value": "사회적 신뢰",
+            "label": "영향"
+          }
+        ],
+        "main_number": "권한 vs 책임",
+        "main_text": "조직의 태도 중요"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "국민건강보험공단이 수사권 확보를 요구하는 가운데, 수사 전문성과 권한 남용 가능성에 대한 우려가 제기되며 조직의 준비 태세와 투명한 권한 행사가 중요해지고 있다.",
+        "points": [
+          "건보공단, 수사권 확보 요구",
+          "수사 과정 중 의료기관 경영 손실 우려",
+          "수사 전문성 및 권한 남용 가능성 제기",
+          "권한을 대하는 조직의 투명한 태도 요구"
+        ],
+        "quote": "수사 전문성 못지않게 중요한 것은 권한을 대하는 조직의 태도다.",
+        "context": "특정 공공기관에 수사권을 부여하는 문제는 수사의 효율성 증대와 함께 권한 남용, 인권 침해 가능성 등 사회적 파장이 크다. 법 집행 기관으로서의 전문성과 공정성을 확보하기 위한 철저한 준비와 감독 시스템이 필수적이다.",
+        "source_url": "https://www.apsk.co.kr/news/articleView.html?idxno=541167"
+      },
+      "image_url": "data/images/2026-11-27/society-npsinvestigation.jpg"
+    },
+    {
+      "id": "society-gender_equality_university",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "ranking",
+      "title": "국립대 39곳 양성평등 평가, 제주대 등 10곳 '우수' 등급",
+      "subtitle": "교원 다양성, 보직 구성 등 대학 내 양성평등 문화 조성 노력 평가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "39곳",
+            "label": "대상 대학"
+          },
+          {
+            "value": "10곳",
+            "label": "우수 등급"
+          },
+          {
+            "value": "A등급",
+            "label": "최고 등급"
+          }
+        ],
+        "main_number": "25.6%",
+        "main_text": "우수 등급 비율"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "교육부가 39개 국립대학을 대상으로 양성평등 실현 노력을 평가한 결과, 제주대, 한국방송통신대 등 10개 대학이 '우수(A등급)' 평가를 받았다.",
+        "points": [
+          "교육부, 국립대 39곳 양성평등 평가 실시",
+          "신임·전임교원 성별 다양성 평가",
+          "주요 보직 및 의사결정기구 성별 구성 평가",
+          "대학 내 양성평등 문화 조성 노력 종합 평가"
+        ],
+        "quote": "신임·전임교원의 성별 다양성과 주요 보직 및 의사결정기구의 성별 구성, 대학 내 양성평등 문화 조성 노력 등을 종합적으로 평가한다.",
+        "context": "대학 사회의 양성평등은 단순한 제도적 개선을 넘어 조직 문화 전반의 변화를 요구한다. 교육 기관으로서 국립대학의 양성평등 노력은 사회 전체의 성평등 의식 향상에도 중요한 역할을 한다.",
+        "source_url": "https://n.news.naver.com/mnews/article/421/0009313252?sid=102"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=26826&nologo=true"
+    },
+    {
+      "id": "life-kdrama",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "map_chart",
+      "title": "K-드라마 글로벌 신기록, 45개국 1위 석권",
+      "subtitle": "'넷플릭스 1위' 뛰어넘은 한국 드라마의 흥행 돌풍",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "45개국",
+            "label": "1위 달성"
+          },
+          {
+            "value": "OTT, 유튜브",
+            "label": "주요 플랫폼"
+          },
+          {
+            "value": "K-드라마",
+            "label": "콘텐츠 유형"
+          }
+        ],
+        "main_number": "글로벌 1위",
+        "main_text": "온라인 화제성 증명"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한 한국 드라마가 넷플릭스 1위를 제치고 전 세계 45개국에서 1위를 차지하며 K-드라마의 글로벌 흥행 역사를 새롭게 썼다.",
+        "points": [
+          "한국 드라마, 넷플릭스 1위 작품 넘어섬",
+          "전 세계 45개국에서 1위 달성",
+          "온라인 화제성 지표에서도 정상 차지",
+          "글로벌 OTT 플랫폼 통한 K-콘텐츠 확산"
+        ],
+        "quote": "한국국제문화교류진흥원(KOFICE) 한류 빅데이터 대시보드 11월 3주 차 K-드라마·영화 부문에서도 정상을 차지했다.",
+        "context": "K-콘텐츠는 전 세계적인 팬덤을 형성하며 문화적 영향력을 확대하고 있다. OTT 플랫폼의 발달은 언어와 국경의 장벽을 넘어 한국 드라마가 글로벌 시장에서 폭발적인 성공을 거두는 중요한 요인으로 작용하고 있다.",
+        "source_url": "https://www.wikitree.co.kr/articles/1178085"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=20028&nologo=true"
+    },
+    {
+      "id": "life-tourism",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "line_chart",
+      "title": "10월 방한 관광객 216만명, 전년 대비 24% 급증",
+      "subtitle": "팬데믹 이후 회복세 가속화, 중국인 관광객 비중 가장 높아",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "216만명",
+            "label": "10월 방한객"
+          },
+          {
+            "value": "+24%",
+            "label": "전년 대비 증가"
+          },
+          {
+            "value": "607만명",
+            "label": "중국인 관광객"
+          }
+        ],
+        "main_number": "관광 회복 가속화",
+        "main_text": "경제 활성화 기여"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "지난 10월 한국을 찾은 방한 관광객이 216만 명으로 작년 동월 대비 24% 증가했으며, 특히 중국인 관광객이 607만 명으로 가장 많았다.",
+        "points": [
+          "2026년 10월 방한객 216만 명",
+          "전년 동월 대비 24% 증가",
+          "중국인 관광객이 607만 명으로 최다",
+          "일본인 관광객도 높은 비중 차지"
+        ],
+        "quote": "문화체육관광부가 발표한 '2026년 10월 방한 관광 동향'에 따르면 10월 방한객은 216만 명으로, 지난해 같은 기간과 비교해 24% 늘었습니다.",
+        "context": "코로나19 팬데믹 이후 주춤했던 한국 관광 산업이 점차 활기를 되찾고 있다. 특히 해외 주요 국가들의 여행 제한 완화와 K-콘텐츠의 인기 상승은 방한 관광객 증가에 긍정적인 영향을 미치며 내수 경제 활성화에도 기여하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000930370?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=58832&nologo=true"
+    },
+    {
+      "id": "life-convenience",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "pie_chart",
+      "title": "편의점, 특색 상품으로 라이프스타일 트렌드 주도",
+      "subtitle": "GS25 김밥 100만개 돌파, CU 오디오북 디저트 출시 등 차별화 전략",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "100만개",
+            "label": "GS25 김밥"
+          },
+          {
+            "value": "4종",
+            "label": "CU 디저트"
+          },
+          {
+            "value": "텍스트힙",
+            "label": "트렌드 반영"
+          }
+        ],
+        "main_number": "소비 트렌드 변화",
+        "main_text": "편의점의 진화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "편의점 업계가 GS25 김밥 100만 개 돌파, CU 오디오북 디저트 출시 등 소비자의 취향과 라이프스타일을 반영한 특색 있는 상품으로 시장을 선도하고 있다.",
+        "points": [
+          "GS25 '김밥' 제품 100만개 판매 돌파",
+          "CU, 오디오북 QR 카드 포함 디저트 4종 출시",
+          "'텍스트힙' 트렌드 반영한 이색 상품 기획",
+          "편의점, 소비자의 라이프스타일에 맞춘 진화"
+        ],
+        "quote": "이번 상품은 독서를 취향과 라이프스타일로 즐기는 '텍스트힙' 트렌드를 반영했다.",
+        "context": "편의점은 단순한 구매 채널을 넘어 소비자의 변화하는 라이프스타일과 취향을 반영하는 공간으로 진화하고 있다. 트렌드를 읽고 발 빠르게 대응하는 차별화된 상품 전략은 경쟁이 심화되는 유통 시장에서 중요한 경쟁력이 된다.",
+        "source_url": "http://www.issuenbiz.com/news/articleView.html?idxno=82069"
+      },
+      "image_url": "data/images/2026-11-27/life-convenience.jpg"
+    }
+  ],
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T06:08:55.084069+09:00"
+}
