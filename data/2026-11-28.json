@@ -1,0 +1,606 @@
+{
+  "cards": [
+    {
+      "id": "world-0",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "number_highlight",
+      "title": "캐나다 국민, 美 대사 추방 청원",
+      "subtitle": "29만 명 서명으로 의회 제출",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "29만 명",
+            "label": "서명자 수"
+          },
+          {
+            "value": "캐나다 의회",
+            "label": "제출처"
+          },
+          {
+            "value": "외교 특권",
+            "label": "쟁점"
+          }
+        ],
+        "main_number": "290,000+",
+        "main_text": "미국 대사 추방 요구 청원 서명"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "캐나다에서 미국 대사 추방을 요구하는 청원에 29만 명 이상의 시민이 서명하여 의회에 제출되었다.",
+        "points": [
+          "캐나다 녹색당 대표 의원, 청원 하원 제출",
+          "훅스트라 대사의 외교적 언행 문제 제기",
+          "미국 트럼프 행정부 시절 강경 대캐나다 정책과 연관"
+        ],
+        "quote": "외교적 특권 남용에 대한 국민적 불만 표출",
+        "context": "트럼프 행정부 시절부터 이어져 온 대캐나다 강경 정책과 관련하여 불거진 외교적 갈등이 국민 청원으로 이어졌다.",
+        "source_url": "https://n.news.naver.com/mnews/article/422/0000930728?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=16482&nologo=true"
+    },
+    {
+      "id": "world-1",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "bar_chart",
+      "title": "독일, 사상 최대 규모 국방비 편성",
+      "subtitle": "내년 국방비 160조 원 확정",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "160조 원",
+            "label": "내년 국방비"
+          },
+          {
+            "value": "812조 원",
+            "label": "총 예산안"
+          },
+          {
+            "value": "2027년",
+            "label": "적용 연도"
+          }
+        ],
+        "main_number": "▲160조",
+        "main_text": "독일 내년 국방비 역대 최대치"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "독일 연방의회가 내년 국방비를 사상 최대 규모인 160조 원(1,097억 유로)으로 편성하는 예산안을 확정했다.",
+        "points": [
+          "총 예산안은 812조 원(5,559억 유로) 규모",
+          "헌법상 차입 제한 규정 변경하며 국방 투자 확대",
+          "러시아 위협 및 인프라 투자 증가 영향"
+        ],
+        "quote": "유럽의 안보 환경 변화에 대한 대응",
+        "context": "2차 세계대전 전범국으로 국방비 지출에 신중했던 독일이 러시아의 위협과 유럽 안보 환경 변화에 대응하며 재정 정책을 전환하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/214/0001538613?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=96469&nologo=true"
+    },
+    {
+      "id": "world-2",
+      "is_headline": false,
+      "category": "world",
+      "category_label": "🌍 국제",
+      "viz_type": "map_highlight",
+      "title": "유럽 최대 위성 공장 벨기에 개소",
+      "subtitle": "스페이스X '스타링크'에 도전장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "벨기에",
+            "label": "위치"
+          },
+          {
+            "value": "2028년 말",
+            "label": "생산 시작"
+          },
+          {
+            "value": "세계 3위",
+            "label": "생산 규모"
+          }
+        ],
+        "main_number": "EU독립",
+        "main_text": "미국 위성 통신망 의존도 낮추기"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "벨기에에 유럽 최대 위성 공장이 문을 열었으며, 이는 미국 스페이스X의 스타링크에 대한 유럽의 의존도를 낮추려는 시도로 풀이된다.",
+        "points": [
+          "계획대로 가동 시 세계 세 번째 규모 위성 생산 시설",
+          "2028년 말 실제 위성 생산 시작 예정",
+          "EU의 자체 위성 통신망 구축 목표"
+        ],
+        "quote": "우주 산업 주권 확보를 위한 유럽의 노력",
+        "context": "유럽연합(EU)은 미국 민간기업의 위성통신망에 대한 의존도를 낮추고 자체적인 우주 산업 경쟁력을 확보하기 위해 대규모 투자를 진행하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004687075?sid=104"
+      },
+      "image_url": "data/images/2026-11-28/world-2.jpg"
+    },
+    {
+      "id": "economy-0",
+      "is_headline": true,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "line_chart",
+      "title": "AI 버블 경고등, 나스닥 18% 급락",
+      "subtitle": "9월 'AI 버블 확률 97%' 이후 시장 불안 지속",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "97%",
+            "label": "AI 버블 확률"
+          },
+          {
+            "value": "-18%",
+            "label": "나스닥 급락"
+          },
+          {
+            "value": "2000년 닷컴",
+            "label": "92% 기록"
+          }
+        ],
+        "main_number": "-18%",
+        "main_text": "AI 버블 경고 이후 나스닥 하락세"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "대규모언어모델(LLM) 분석 결과 9월 AI 버블 확률이 97%로 측정된 이후 나스닥 지수가 18% 급락하며 시장 불안이 커지고 있다.",
+        "points": [
+          "2000년 닷컴버블 정점(92%)을 뛰어넘는 수치",
+          "미국 경제매체 CNBC 보도",
+          "AI 관련 없는 지출 포함 시 과대평가 가능성"
+        ],
+        "quote": "과도한 기대와 투기적 흐름에 대한 경계 필요",
+        "context": "3년째 이어지는 AI 열풍 속에 투자 과열 우려가 제기되고 있으며, 과거 닷컴버블과 유사한 양상을 보인다는 분석이 나왔다.",
+        "source_url": "https://www.the-today.com/news/articleView.html?idxno=94211"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=91759&nologo=true"
+    },
+    {
+      "id": "economy-1",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "pie_chart",
+      "title": "역대 최대 ESS 입찰, 삼성SDI와 SK온 양분",
+      "subtitle": "삼성SDI 1차 76%, SK온 2차 37% 확보",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "삼성SDI",
+            "label": "주요 승자"
+          },
+          {
+            "value": "76%",
+            "label": "1차 삼성SDI"
+          },
+          {
+            "value": "37%",
+            "label": "2차 SK온"
+          }
+        ],
+        "main_number": "BIG WIN",
+        "main_text": "배터리 업계, ESS 시장 경쟁 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "역대 최대 규모로 진행된 에너지저장장치(ESS) 입찰에서 삼성SDI가 1차 76%를 확보하고, SK온이 2차에서 37%를 확보하며 시장을 양분했다.",
+        "points": [
+          "가격 외 국내 산업·경제 기여도, 화재 안전성 등 비가격 요소 영향",
+          "LG에너지솔루션도 1차 24% 확보",
+          "ESS 시장 경쟁 심화 및 기업별 전략 중요성 부각"
+        ],
+        "quote": "가격 경쟁력 넘어선 기술력과 안전성 확보가 핵심",
+        "context": "정부 주도 대규모 ESS 입찰에서 국내 주요 배터리 기업들이 대거 참여하며 친환경 에너지 시장의 성장 가능성을 보여줬다.",
+        "source_url": "https://n.news.naver.com/mnews/article/050/0000113875?sid=101"
+      },
+      "image_url": "data/images/2026-11-28/economy-1.jpg"
+    },
+    {
+      "id": "economy-2",
+      "is_headline": false,
+      "category": "economy",
+      "category_label": "💰 경제",
+      "viz_type": "bar_chart",
+      "title": "해외 결제액 역대 최대, 일본 여행 수요 폭증",
+      "subtitle": "국내여행 불만족으로 해외 소비 증가",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "역대 최대",
+            "label": "해외 결제액"
+          },
+          {
+            "value": "일본",
+            "label": "주요 방문국"
+          },
+          {
+            "value": "높은 물가",
+            "label": "국내여행 불만"
+          }
+        ],
+        "main_number": "최대치",
+        "main_text": "국내 대신 해외로 향하는 소비 패턴"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국인의 해외 결제액이 역대 최대치를 기록한 가운데, 특히 일본 여행 소비가 크게 늘어 국내여행의 높은 물가에 대한 불만이 작용한 것으로 분석된다.",
+        "points": [
+          "해외여행은 소득 증가에 따라 소비가 더 늘어나는 '사치재'",
+          "한국경제인협회 조사, 국내여행 불만족 요인으로 '높은 관광지 물가' 지목",
+          "고환율에도 불구하고 엔저 영향으로 일본 여행 증가"
+        ],
+        "quote": "합리적인 소비를 위한 선택, 해외여행",
+        "context": "고물가 시대에 국내여행 물가에 대한 불만이 커지면서, 상대적으로 저렴하다고 인식되는 일본 등 해외여행으로 소비가 쏠리는 현상이 심화되고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/011/0004687076?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=7648&nologo=true"
+    },
+    {
+      "id": "tech-0",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "gauge_chart",
+      "title": "맥북 네오 2세대, 성능 및 메모리 향상",
+      "subtitle": "칩 성능 10~15% UP, 메모리 8GB→12GB 증설",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "+10~15%",
+            "label": "칩 성능 향상"
+          },
+          {
+            "value": "8GB→12GB",
+            "label": "메모리 증설"
+          },
+          {
+            "value": "2세대",
+            "label": "모델"
+          }
+        ],
+        "main_number": "+50%",
+        "main_text": "메모리 용량 대폭 확장"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "맥북 네오 2세대가 전작 대비 칩 성능이 10~15% 향상되고 메모리가 8GB에서 12GB로 늘어나 사용 편의성이 크게 개선될 것으로 기대된다.",
+        "points": [
+          "IT 매체, 프로세서 향상보다 메모리 증설이 체감 성능에 더 큰 영향",
+          "일상 사용에서 브라우저 탭, 여러 앱 동시 실행에 유리",
+          "하드웨어 소문과 일치하는 사양"
+        ],
+        "quote": "실제 사용자 경험을 중시한 업그레이드",
+        "context": "애플의 차세대 맥북 모델에 대한 기대감이 높아지는 가운데, 실질적인 사용자 편의를 위한 하드웨어 개선에 초점이 맞춰지고 있다.",
+        "source_url": "https://www.wikitree.co.kr/articles/1178533"
+      },
+      "image_url": "data/images/2026-11-28/tech-0.jpg"
+    },
+    {
+      "id": "tech-1",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "venn_diagram",
+      "title": "AI 에이전트 자율 행동, 인간 통제 필요성 대두",
+      "subtitle": "금융·IT·의료 분야서 보안 장치 및 승인 강조",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "인간 승인",
+            "label": "필요 요소 1"
+          },
+          {
+            "value": "보안 장치",
+            "label": "필요 요소 2"
+          },
+          {
+            "value": "추적",
+            "label": "의사결정 근거"
+          }
+        ],
+        "main_number": "안전 우선",
+        "main_text": "AI 자율성 확대의 필수 조건"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI 에이전트의 자율 행동이 확대되면서 금융, IT, 의료 등 다양한 분야에서 인간 승인과 강력한 보안 장치의 필요성이 강조되고 있다.",
+        "points": [
+          "의사결정 근거 추적의 중요성 언급",
+          "조직 내 AI 행동 허용 정책 확인 필수",
+          "자율성 확대에 따른 잠재적 위험 관리 논의"
+        ],
+        "quote": "AI의 책임 있는 발전을 위한 윤리적 가이드라인",
+        "context": "AI 기술이 발전함에 따라 에이전트의 자율성이 높아지면서, 예상치 못한 오류나 오용을 방지하고 신뢰성을 확보하기 위한 제도적 논의가 활발하다.",
+        "source_url": "https://www.tokenpost.kr/news/cryptocurrency/445627"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=79238&nologo=true"
+    },
+    {
+      "id": "tech-2",
+      "is_headline": false,
+      "category": "tech",
+      "category_label": "💻 기술",
+      "viz_type": "comparison_chart",
+      "title": "러시아, 'AI로 미래' 강조하며 로봇 전시",
+      "subtitle": "AI 콘퍼런스서 첨단 기술 시연",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "러시아",
+            "label": "주최국"
+          },
+          {
+            "value": "첨단 기술",
+            "label": "주요 전시"
+          },
+          {
+            "value": "기술 강국",
+            "label": "이미지 부각"
+          }
+        ],
+        "main_number": "AI비전",
+        "main_text": "전쟁 대신 기술 강국 이미지 부각"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "러시아가 AI 콘퍼런스에서 춤추는 로봇과 첨단 AI 기술을 선보이며 'AI가 주도하는 미래'를 강조, 전쟁 대신 기술 강국으로서의 이미지를 투사하려 하고 있다.",
+        "points": [
+          "러시아 최대 은행 '스베르방크'의 AI 모델 시연",
+          "일부 중국 선도 모델과 유사한 능력 주장",
+          "서방 제재 속 기술 자립 및 발전 의지 표명"
+        ],
+        "quote": "기술 혁신을 통한 국가적 위상 제고",
+        "context": "우크라이나 전쟁 이후 서방의 제재를 받고 있는 러시아가 자국의 기술력을 과시하고 AI 분야에서의 발전을 대외적으로 보여주려는 의도를 담고 있다.",
+        "source_url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html?partner=naver"
+      },
+      "image_url": "data/images/2026-11-28/tech-2.jpg"
+    },
+    {
+      "id": "society-0",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "comparison_chart",
+      "title": "한국 약사 보수, 일본의 1.8배, 미국의 74% 수준",
+      "subtitle": "물가 반영 시 국제 비교에서 높은 편",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "1.8배",
+            "label": "vs 일본"
+          },
+          {
+            "value": "74%",
+            "label": "vs 미국"
+          },
+          {
+            "value": "세계 2위",
+            "label": "근무 약사 보수"
+          }
+        ],
+        "main_number": "高보수",
+        "main_text": "물가 반영 시 약사 소득, 국제적으로 높아"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "한국 약사의 보수는 물가를 반영했을 때 일본 약사의 1.8배, 미국 약사의 74% 수준으로 국제 비교에서 상대적으로 높은 편으로 나타났다.",
+        "points": [
+          "근무 약사 보수가 미국에 이어 두 번째로 높음",
+          "호주와 일본의 환산 보수를 웃도는 수준",
+          "실제 소득 비교를 위해 세금 및 사회보험료 고려 필요"
+        ],
+        "quote": "전문직 소득 수준에 대한 사회적 논의 필요",
+        "context": "전문직 직종의 소득 수준은 사회적 논의의 대상이 되는 경우가 많으며, 이번 조사 결과는 한국 약사들의 소득이 국제적으로도 높은 수준임을 보여준다.",
+        "source_url": "https://www.kpanews.co.kr/news/articleView.html?idxno=550122"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=84239&nologo=true"
+    },
+    {
+      "id": "society-1",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "pie_chart",
+      "title": "AI 시대 대학 시험, 평가 방식 변화 논의",
+      "subtitle": "교수 10인, AI 활용 능력도 평가 대상으로",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "AI 활용 능력",
+            "label": "평가 대상"
+          },
+          {
+            "value": "객관식 고수",
+            "label": "일부 교수 의견"
+          },
+          {
+            "value": "10인",
+            "label": "교수 의견"
+          }
+        ],
+        "main_number": "New 평가",
+        "main_text": "AI가 바꿀 교육 시스템"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "AI 시대에 접어들면서 대학 시험 평가 방식에 대한 논의가 활발하며, 일부 교수들은 AI 활용 능력 또한 평가의 중요한 요소로 보아야 한다고 주장한다.",
+        "points": [
+          "이정환 한양대 경제금융학부 교수, 객관식 평가 방식 고수 입장",
+          "학생 선호 및 시험 운영 현실 고려",
+          "학점의 공정성 및 취업 당락에 미치는 영향 고려 필요"
+        ],
+        "quote": "AI를 단순한 도구가 아닌 능력의 확장으로 볼 것인가",
+        "context": "AI 기술의 급속한 발전은 교육 현장에도 큰 영향을 미치고 있으며, 대학들은 AI를 활용한 학습 및 평가 방식에 대한 새로운 기준을 모색하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/053/0000063407?sid=102"
+      },
+      "image_url": "data/images/2026-11-28/society-1.jpg"
+    },
+    {
+      "id": "society-2",
+      "is_headline": false,
+      "category": "society",
+      "category_label": "🏛 사회",
+      "viz_type": "bar_chart",
+      "title": "중소기업 생산·창업 동시 위축",
+      "subtitle": "제조업·서비스업 생산 감소, 창업기업 15.9%↓",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "제조업",
+            "label": "생산 감소"
+          },
+          {
+            "value": "서비스업",
+            "label": "생산 감소"
+          },
+          {
+            "value": "-15.9%",
+            "label": "창업기업 감소"
+          }
+        ],
+        "main_number": "경기 둔화",
+        "main_text": "중소기업 활동 위축 현상 심화"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "중소기업의 제조업과 서비스업 생산이 동시 감소하고 있으며, 9월 창업기업 수는 전년 동월 대비 15.9% 줄어드는 등 전반적인 위축세를 보이고 있다.",
+        "points": [
+          "보건·사회복지서비스업은 25만 명 증가",
+          "숙박·음식점업 15만4000명, 제조업 6만3000명 감소",
+          "고금리, 고물가 등 복합적 경제 요인 영향"
+        ],
+        "quote": "내수 활성화 및 창업 환경 개선 대책 시급",
+        "context": "고금리, 고물가 등 복합적인 경제 위기 속에서 중소기업의 생산 활동과 창업이 위축되는 것은 경제 전반의 활력 저하로 이어질 수 있어 대책 마련이 중요하다.",
+        "source_url": "https://n.news.naver.com/mnews/article/022/0004178740?sid=101"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=80296&nologo=true"
+    },
+    {
+      "id": "life-0",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "comparison_chart",
+      "title": "'야간 경제' 성장, 전 세계 도시의 새로운 활력",
+      "subtitle": "뉴욕, 호주 등 밤의 경제 활성화 정책 추진",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "도시 1/4",
+            "label": "야간경제 비중"
+          },
+          {
+            "value": "뉴욕",
+            "label": "야간경제 사무국"
+          },
+          {
+            "value": "호주",
+            "label": "24시간 경제 담당관"
+          }
+        ],
+        "main_number": "🌃성장",
+        "main_text": "밤 시간을 활용한 경제 활동 확대"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "'야간 경제'가 성장하며 전 세계 주요 도시에서 밤의 조직을 신설하는 등 이를 활성화하기 위한 정책을 추진하고 있다.",
+        "points": [
+          "뉴욕 '나이트 라이프 사무국', 호주 '24시간 경제 담당관' 등 신설",
+          "영국 경제지 이코노미스트도 야간 경제 주목",
+          "근로자들의 워라밸 및 생활 패턴 변화 영향"
+        ],
+        "quote": "밤의 도시가 새로운 경제 동력으로 부상",
+        "context": "현대인의 생활 패턴 변화와 문화·여가 수요 증가에 따라 밤 시간대 경제 활동이 활발해지면서, 도시 경쟁력 강화를 위한 주요 전략으로 부상하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/023/0004012174?sid=102"
+      },
+      "image_url": "data/images/2026-11-28/life-0.jpg"
+    },
+    {
+      "id": "life-1",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "美 젊은층, 술 대신 프리미엄 생수 소비 증가",
+      "subtitle": "60조 원 규모로 성장할 비알코올 음료 시장",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "2만원",
+            "label": "생수 가격"
+          },
+          {
+            "value": "젊은층",
+            "label": "주요 소비층"
+          },
+          {
+            "value": "60조 원",
+            "label": "시장 전망"
+          }
+        ],
+        "main_number": "60조원",
+        "main_text": "프리미엄 생수 시장, 큰 폭 성장 전망"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "미국 젊은층 사이에서 술 대신 독특한 맛과 디자인을 내세운 프리미엄 생수 소비가 증가하며, 이 시장이 60조 원 규모로 성장할 것이라는 전망이 나왔다.",
+        "points": [
+          "건강관리 및 고급스러운 라이프스타일 지향 트렌드 반영",
+          "글로벌 프리미엄 생수 시장 빠르게 성장",
+          "비알코올 음료 시장 확대와 연관"
+        ],
+        "quote": "음료 시장의 새로운 패러다임, 건강과 스타일",
+        "context": "건강과 웰빙을 중시하는 MZ세대의 소비 트렌드가 확산되면서, 음료 시장에서도 단순히 갈증 해소를 넘어선 프리미엄 제품들이 주목받고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/020/0003765824?sid=104"
+      },
+      "image_url": "https://image.pollinations.ai/prompt/cute%20pastel%20infographic%20illustration%2C%20no%20text%2C%20cute%20hand-drawn%20infographic%20style%2C%20pastel%20colors%2C%20cream%20background%2C%20soft%20shadows%2C%20rounded%20shapes%2C%20no%20text%2C%20no%20words%2C%20editorial%20illustration?width=800&height=500&seed=36281&nologo=true"
+    },
+    {
+      "id": "life-2",
+      "is_headline": false,
+      "category": "life",
+      "category_label": "🌱 라이프",
+      "viz_type": "bar_chart",
+      "title": "K-팝 스타, 명품 패션 영향력 수천만 달러",
+      "subtitle": "해외 패션위크서 K-팝 앰버서더의 경제 효과",
+      "viz_data": {
+        "stats": [
+          {
+            "value": "수백만~수천만",
+            "label": "단일 아티스트 효과(달러)"
+          },
+          {
+            "value": "K-팝",
+            "label": "글로벌 앰버서더"
+          },
+          {
+            "value": "패션위크",
+            "label": "주요 활동"
+          }
+        ],
+        "main_number": "$$$",
+        "main_text": "K-팝과 명품 브랜드의 시너지 효과"
+      },
+      "image_prompt": "cute pastel infographic illustration, no text",
+      "detail": {
+        "summary": "스와치, 리슈몽 등 명품 자본이 문화예술 분야에 투자하는 가운데, K-팝 글로벌 앰버서더들이 해외 패션위크에서 수백만~수천만 달러의 경제적 효과를 창출하고 있다.",
+        "points": [
+          "런치메트릭스 보고서, K-팝 스타의 패션 영향력 분석",
+          "블랙핑크, BTS 등 K-팝 아티스트들의 글로벌 위상",
+          "명품 브랜드와 K-팝 문화의 전략적 협력 강화"
+        ],
+        "quote": "K-팝이 글로벌 명품 시장의 새로운 동력",
+        "context": "K-팝의 세계적인 인기가 명품 패션 시장에 미치는 영향이 커지면서, 명품 브랜드들이 K-팝 스타들을 앰버서더로 기용하며 마케팅 효과를 극대화하고 있다.",
+        "source_url": "https://n.news.naver.com/mnews/article/014/0005610963?sid=103"
+      },
+      "image_url": "data/images/2026-11-28/life-2.jpg"
+    }
+  ],
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T06:09:43.648733+09:00"
+}
